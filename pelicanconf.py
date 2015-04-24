@@ -25,9 +25,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 THIS = (
-    ('Call for Paper', './e-privacy-estate-2015-la-trasparenza-e-la-privacy.html'),
+    ('Call for Paper', '/e-privacy-estate-2015-la-trasparenza-e-la-privacy.html'),
     ('Call for Sponsor',
-     './e-privacy-estate-2015-la-trasparenza-e-la-privacy-call-for-sponsorship.html'),
+     '/e-privacy-estate-2015-la-trasparenza-e-la-privacy-call-for-sponsorship.html'),
     ('Collabora con noi', 'mailto:eprivacy@winstonsmith.org?subject=Disponibilità a collaborare'),
 )
 
@@ -55,7 +55,7 @@ PREVS = (
 LINKS = (
     ('Progetto Winston Smith', 'http://winstonsmith.org/'),
     ('Centro HERMES', 'http://logioshermes.org/'),
-    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
+#    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
 )
 
 DEFAULT_PAGINATION = 10

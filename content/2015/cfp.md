@@ -104,7 +104,7 @@ Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:epriva
 ### Sponsor e partecipanti di e-privacy
 
 [ ![Sikurezza.org]({filename}/images/logo/sikurezza.gif) ](http://www.sikurezza.org) |  [ ![OPSI]({filename}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
-
+[ ![USH.it]({filename}/images/logo/ush.jpg)  ](http://www.ush.it) 
 
 ### Con il patrocinio di .......
 
