@@ -15,6 +15,8 @@ DEFAULT_LANG = u'it'
 
 YEAR = u'2015'
 
+USE_FOLDER_AS_CATEGORY = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -31,22 +33,22 @@ THIS = (
 
 # Blogroll
 PREVS = (
-    ('e-privacy 2014 winter edition', './2014we'),
-    ('e-privacy 2014 spring edition', './2014'),
-    ('e-privacy 2013 winter edition', './2013we'),
-    ('e-privacy 2013 spring edition', './2013'),
-    ('e-privacy 2012 winter edition', './2012we'),
-    ('e-privacy 2012 spring edition', './2012'),
-    ('e-privacy 2011', './2011'),
-    ('e-privacy 2010', './2010'),
-    ('e-privacy 2009', './2009'),
-    ('e-privacy 2008', './2008'),
-    ('e-privacy 2007', './2007'),
-    ('e-privacy 2006', './2006'),
-    ('e-privacy 2005', './2005'),
-    ('e-privacy 2004', './2004'),
-    ('e-privacy 2003', './2003'),
-    ('e-privacy 2002', './2002'),
+    ('e-privacy 2014 winter edition', '/2014we'),
+    ('e-privacy 2014 spring edition', '/2014'),
+    ('e-privacy 2013 winter edition', '/2013we'),
+    ('e-privacy 2013 spring edition', '/2013'),
+    ('e-privacy 2012 winter edition', '/2012we'),
+    ('e-privacy 2012 spring edition', '/2012'),
+    ('e-privacy 2011', '/2011'),
+    ('e-privacy 2010', '/2010'),
+    ('e-privacy 2009', '/2009'),
+    ('e-privacy 2008', '/2008'),
+    ('e-privacy 2007', '/2007'),
+    ('e-privacy 2006', '/2006'),
+    ('e-privacy 2005', '/2005'),
+    ('e-privacy 2004', '/2004'),
+    ('e-privacy 2003', '/2003'),
+    ('e-privacy 2002', '/2002'),
 )
 
 # Social widget
@@ -62,7 +64,7 @@ STATIC_PATHS = ['images', 'pdfs', 'audio']
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = 'eprivacy'
+THEME = 'themes/eprivacy'
 
 
 DATE_FORMATS = {
