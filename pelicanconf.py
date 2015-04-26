@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy: Scolleghiamo il Grande Fratello'
+SITENAME = u'e-privacy 2015: La trasparenza e la privacy'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 
@@ -55,7 +55,7 @@ PREVS = (
 LINKS = (
     ('Progetto Winston Smith', 'http://winstonsmith.org/'),
     ('Centro HERMES', 'http://logioshermes.org/'),
-#    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
+    #    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
 )
 
 DEFAULT_PAGINATION = 10
