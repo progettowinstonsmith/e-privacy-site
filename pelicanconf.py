@@ -24,6 +24,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+DIRECT_TEMPLATES = ['index', 'archives']
+
 THIS = (
     ('Call for Paper', '/e-privacy-estate-2015-la-trasparenza-e-la-privacy.html'),
     ('Call for Sponsor',

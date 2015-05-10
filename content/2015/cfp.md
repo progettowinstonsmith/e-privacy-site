@@ -95,11 +95,11 @@ La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritt
 
 ### Contatti
 
-Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org) , per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
+Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
 ### Organizzatori di e-privacy
 
-[ ![hermes]({filename}/images/logo/hermes.png) ](http://www.logioshermes.org)   [ ![Progetto Winston Smith](images/logo/pws.png) ](http://pws.winstonsmith.org)
+[ ![hermes]({filename}/images/logo/hermes.png) ](http://www.logioshermes.org)   [ ![Progetto Winston Smith]({filename}/images/logo/pws.png) ](http://pws.winstonsmith.org)
 
 ### Sponsor e partecipanti di e-privacy
 
@@ -110,6 +110,4 @@ Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:epriva
 
 
 ### Media Partners
-
-Copyleft 2015, Progetto Winston Smith
-Questo sito ed i suoi contenuti sono distribuiti sotto la [Gnu General Public License 3.0](http://www.gnu.org/licenses/gpl.html)
+[ ![infomedia.it]({filename}/images/logo/infomedia.png)  ](http://www.infomedia.it) 
