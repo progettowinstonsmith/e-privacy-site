@@ -1,8 +1,10 @@
+Template: event
 Title: e-privacy estate 2015 - La trasparenza e la privacy - comunicato stampa
 Date: 2015-05-10 10:20
 Category: 2015
 Tags: 2015, eprivacy, programma, estate, trasparenza, comunicato stampa
 lang: it
+Status: draft
 
 _"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."_ - V (da John Basil Barnhill)
 

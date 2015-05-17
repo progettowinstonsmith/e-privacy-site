@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "article.html" %}
 {% block title %}
 {% if article.num %}e-privacy {{ article.num }} — {% endif %}
 {{ article.title|striptags }}
@@ -60,7 +60,7 @@
         {% include 'twitter.html' %}
     </header>
 
-    {% include 'article_infos.html' %}
+    {% include 'event_infos.html' %}
     {% if article.slogan %}
     <table class="slogan"><tr><td width="100%">{{ article.slogan }}</td></tr></table>
     {% endif %}
@@ -154,8 +154,7 @@
     {% endif %}
 
     
-
-    {% include 'article_infos_bottom.html' %}
+    {% include 'event_infos_bottom.html' %}
     
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
 	<h4>Comments</h4>

@@ -19,11 +19,13 @@
 <nav>
 <div class="top-bar">
   <div class="row">
-    <div id="top_img_left"><a href="/"></a></div>
+    <a href="/"><div id="top_img_left"></div></a>
     <div class="large-9 large-centered columns">
-	    <h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+	  <h1><a href="{{ SITEURL }}/">
+          {% block ptitle %}{{ SITENAME }}{%endblock%}
+      </a></h1>
     </div>
-    <div id="top_img_right"/>
+    <a href="http://pws.winstonsmith.org"> <div id="top_img_right"/></a>
 </div>
 </div>
 
@@ -50,16 +52,12 @@
 <!-- Main Page Content and Sidebar -->
 <div class="row">
 
-    <!-- Main Blog Content -->
-    <div class="large-9 columns">
-    {% block content %}{% endblock %}
-    </div>
-    <!-- End Main Content -->
-
     <!-- Sidebar -->
     <aside class="large-3 columns">
 
+        {% block eyear %}{% endblock eyear %}
 
+      
         {% if THIS %}
         <h5 class="sidebar-title">E-PRIVACY {{ YEAR }}</h5>
         <ul class="side-nav">
@@ -119,9 +117,18 @@
         {% endfor %}
         </ul>
         {% endif %}
-
+        
+        {% block oldsite %}NOBLOCK{% endblock oldsite %}
+        
     </aside> <!-- End Sidebar -->
 
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+    {% block content %}{% endblock %}
+    </div>
+    <!-- End Main Content -->
+
+    
 </div> <!-- End Main Content and Sidebar -->
 
 

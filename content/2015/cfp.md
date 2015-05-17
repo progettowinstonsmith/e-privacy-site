@@ -1,10 +1,24 @@
-Title: e-privacy estate 2015 - La trasparenza e la privacy
+Template: event
+Title: La trasparenza e la privacy
 Date: 2015-04-22 10:20
 Category: 2015
-Tags: 2015, eprivacy, programma, estate, trasparenza
 lang: it
-
-_"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."_ - V (da John Basil Barnhill)
+Num: XVII
+Year: 2015
+slug: e-privacy-XVII
+City: Roma
+Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
+When: 2/3 Luglio
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill</b>
+Season: estate
+oldpage: /materiali/2015
+previd: 2014W
+prev: e-privacy-XVI
+Organizzatori: hermes,pws
+Collaboratori: PI,bba,asr
+Sponsor: sikurezza.org,albast,csa,isgroup,aipnet,ush,clusit,OPSI
+XPatrocini: cagliari,unica,sardegnaricerche
+MediaPartner: infomedia
 
 ### Aperto il Call for Paper di e-privacy 2015 spring edition
 
@@ -97,17 +111,4 @@ La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritt
 
 Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
-### Organizzatori di e-privacy
 
-[ ![hermes]({filename}/images/logo/hermes.png) ](http://www.logioshermes.org)   [ ![Progetto Winston Smith]({filename}/images/logo/pws.png) ](http://pws.winstonsmith.org)
-
-### Sponsor e partecipanti di e-privacy
-
-[ ![Sikurezza.org]({filename}/images/logo/sikurezza.gif) ](http://www.sikurezza.org) |  [ ![OPSI]({filename}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
-[ ![USH.it]({filename}/images/logo/ush.jpg)  ](http://www.ush.it) 
-
-### Con il patrocinio di .......
-
-
-### Media Partners
-[ ![infomedia.it]({filename}/images/logo/infomedia.png)  ](http://www.infomedia.it) 
