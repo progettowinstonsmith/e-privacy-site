@@ -162,9 +162,9 @@ A seguire saranno riportati gli organizzatori, i patrocini e gli sponsor.
 Se esistono tabelle o gruppi di icone/link degli organizzatori/sponsor
 vanno riportate in questa sezione così come sono, es:
 
-    [ ![](img/logoq1.gif) ](http://www.comune.firenze.it/comune/organi/q1/1q.htm) |  [ ![](img/pws-logo.png) ](http://pws.winstonsmith.info) |  [ ![](img/logo_sm.gif) ](http://www.privacyinternational.org) |  [ ![](img/bonw.gif) ](http://www.bigbrotherawards.org)
+    [![](img/logoq1.gif) ](http://www.comune.firenze.it/comune/organi/q1/1q.htm) |  [![](img/pws-logo.png) ](http://pws.winstonsmith.info) |  [![](img/logo_sm.gif) ](http://www.privacyinternational.org) |  [![](img/bonw.gif) ](http://www.bigbrotherawards.org)
     ---|---|---|---
-    [ ![](img/sikurezza_logo.png) ](http://www.sikurezza.org) |  [ ![](img/s0ftpj_logo.png) ](http://www.s0ftpj.org) |  [ ![](img/metro_logo.png) ](http://www.olografix.org) |  [ ![](img/recursiva_logo.png) ](http://www.recursiva.org) |  [ ![](img/cgt_logo.gif) ](http://www.giuristitelematici.it/)
+    [![](img/sikurezza_logo.png) ](http://www.sikurezza.org) |  [![](img/s0ftpj_logo.png) ](http://www.s0ftpj.org) |  [![](img/metro_logo.png) ](http://www.olografix.org) |  [![](img/recursiva_logo.png) ](http://www.recursiva.org) |  [![](img/cgt_logo.gif) ](http://www.giuristitelematici.it/)
     ---|---|---|---|---
 
 ## Cose da cancellare o tralasciare

@@ -115,20 +115,20 @@ relatori
 
 ### Organizzatori di e-privacy
 
-[ ![hermes]({filename}/images/logo/hermes.png)
+[![hermes]({filename}/images/logo/hermes.png)
 ](http://www.logioshermes.org)
-[ ![Progetto Winston Smith]({filename}/images/logo/pws.png)
+[![Progetto Winston Smith]({filename}/images/logo/pws.png)
 ](http://pws.winstonsmith.org)
 
 ### Sponsor e partecipanti di e-privacy
 
-[ ![Sikurezza.org]({filename}/images/logo/sikurezza.gif)
+[![Sikurezza.org]({filename}/images/logo/sikurezza.gif)
 ](http://www.sikurezza.org) |
-[ ![OPSI]({filename}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
-[ ![USH.it]({filename}/images/logo/ush.jpg) ](http://www.ush.it)
+[![OPSI]({filename}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
+[![USH.it]({filename}/images/logo/ush.jpg) ](http://www.ush.it)
 
 ### Con il patrocinio di .......
 
 
 ### Media Partners
-[ ![infomedia.it]({filename}/images/logo/infomedia.png)  ](http://www.infomedia.it) 
+[![infomedia.it]({filename}/images/logo/infomedia.png)  ](http://www.infomedia.it) 

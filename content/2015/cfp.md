@@ -9,20 +9,20 @@ slug: e-privacy-XVII
 City: Roma
 Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
 When: 2/3 Luglio
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill</b>
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
 oldpage: /materiali/2015
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
 Collaboratori: PI,bba,asr
-Sponsor: sikurezza.org,albast,csa,isgroup,aipnet,ush,clusit,OPSI
-XPatrocini: cagliari,unica,sardegnaricerche
+Sponsor: sepel,sikurezza.org
+XPatrocini: 
 MediaPartner: infomedia
 
 ### Aperto il Call for Paper di e-privacy 2015 spring edition
 
-Il ** 2 e 3 luglio 2015 ** (giovedì e venerdì) a Roma si svolgera' **e-privacy 2015 _spring edition_**.
+Il ** 2 e 3 luglio 2015 ** (giovedì e venerdì) a Roma si svolgerà **e-privacy 2015 _spring edition_**.
 
 Il tema dell‘edizione 2015 è:
 
@@ -96,7 +96,7 @@ Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in forma ele
 ### Sede di e-privacy 2015 spring edition
 
 
-La sede di e-privacy 2015 spring edition sara' la [ Nuova Sala dei Gruppi ](http://leg16.camera.it/585?raccolta=1082&rcgrp=Altri+Palazzi&Altri+Palazzi+%2F+Palazzo+dei+Gruppi+) presso la Camera dei Deputati, Via Campo Marzio 78.
+La sede di e-privacy 2015 spring edition sarà la [ Nuova Sala dei Gruppi ](http://leg16.camera.it/585?raccolta=1082&rcgrp=Altri+Palazzi&Altri+Palazzi+%2F+Palazzo+dei+Gruppi+) presso la Camera dei Deputati, Via Campo Marzio 78.
 
 ![La foto di Umberto Battaglia è tratta da http://leg16.camera.it/](http://leg16.camera.it/fotoac/?img=2328/0000/01308d88568e/BAT_7795.JPG)
 
