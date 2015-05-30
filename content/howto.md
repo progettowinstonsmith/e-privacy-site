@@ -3,6 +3,7 @@ Date: 2007-04-03 10:20
 Category: howto
 Tags: howto
 lang: it
+status: draft
 
 _"La paranoia è una virtù." - Anonimo, 1984_
 
@@ -112,7 +113,7 @@ Introdotti dal titolo a livello 2 con ancora `interventi`:
 Ci sono i singoli interventi formattati come segue:
 
 - autore (titolo a livello quattro con ancora progressiva, es. `i1`),
-  al termine del titolo introdurre l'espressione `[^](#ve)` (al posto
+  al termine del titolo introdurre l'espressione `[⇧](#ve)` (al posto
   di `ve` l'ancora definita per la giornata dell'intervento)
 - titolo
 - slides, audio, video
@@ -120,7 +121,7 @@ Ci sono i singoli interventi formattati come segue:
 
 Ad esempio:
 
-    #### <a name="i1"></a>Marco A. Calamari - Progetto Winston Smith [^](#ve)
+    #### <a name="i1"></a>Marco A. Calamari - Progetto Winston Smith [⇧](#ve)
     _Progetto Winston Smith: relazione annuale_  
     slide in formato  [ pdf](/atti/ep2007_Calamari_PWS_relazione_2006.pdf), [ odp](/atti/ep2007_Calamari_PWS_relazione_2006.odp); audio mp3 dell' [intervento](./audio/ep2007_Calamari_PWS_relazione_2006.mp3).
 

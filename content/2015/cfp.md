@@ -16,7 +16,7 @@ previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
 Collaboratori: PI,bba,asr
-Sponsor: sepel,sikurezza.org
+Sponsor: sepel,sikurezza.org,ush,cgt,OPSI,csa
 XPatrocini: 
 MediaPartner: infomedia
 
@@ -80,11 +80,7 @@ Le proposte dovranno contenere:
  - se disponibile alla pubblicazione di registrazioni audio
  - se disponibile alla pubblicazione di registrazioni video
 
-
-
-Le proposte di intervento potranno essere presentate utilizzando il form disponibile a questo [form](http://j.mp/call-eprivacy-2015)
-
-Le proposte potranno anche essere inviate all’indirizzo di posta [ eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), e dovranno contenere tutte le informazioni nel corpo della mail od in un unico file.
+Le proposte di intervento potranno essere presentate utilizzando il form disponibile a questo [form](/e-privacy-XVII-proposta.html)
 
 Le proposte dovranno pervenire al comitato scientifico **entro il termine ultimo del 1 giugno 2015**.
 

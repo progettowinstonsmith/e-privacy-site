@@ -1,0 +1,88 @@
+    {% if article.organizzatori %}
+    <h3>Organizzatori</h3>
+    {% set orgs = article.organizzatori|split %}
+    {%- for row in orgs|batch(3) %}
+    <tr>
+      {%- for org in row %}
+      <td>
+        <a href="{{ PARTNERS[org][2] }}"
+           alt="{{ PARTNERS[org][0] }}">
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+        </a>
+      </td>
+      {%- endfor %}
+    </tr>
+    {%- endfor %}
+    {% endif %}
+
+    
+    {% if article.collaboratori %}
+    <h3>in collaborazione con</h3>
+    {% set orgs = article.collaboratori|split %}
+    {%- for row in orgs|batch(3) %}
+    <tr>
+      {%- for org in row %}
+      <td>
+        <a href="{{ PARTNERS[org][2] }}"
+           alt="{{ PARTNERS[org][0] }}">
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+        </a>
+      </td>
+      {%- endfor %}
+    </tr>
+    {%- endfor %}
+    {% endif %}
+
+    
+    {% if article.sponsor %}
+    <h3>Sponsor</h3>
+    {% set orgs = article.sponsor|split %}
+    {%- for row in orgs|batch(3) %}
+    <tr>
+      {%- for org in row %}
+      <td>
+        <a href="{{ PARTNERS[org][2] }}"
+           alt="{{ PARTNERS[org][0] }}">
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+        </a>
+      </td>
+      {%- endfor %}
+    </tr>
+    {%- endfor %}
+    {% endif %}
+
+    {% if article.patrocini %}
+    <h3>Patrocini</h3>
+    {% set orgs = article.patrocini|split %}
+    {%- for row in orgs|batch(3) %}
+    <tr>
+      {%- for org in row %}
+      <td>
+        <a href="{{ PARTNERS[org][2] }}"
+           alt="{{ PARTNERS[org][0] }}">
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+        </a>
+      </td>
+      {%- endfor %}
+    </tr>
+    {%- endfor %}
+    {% endif %}
+
+    
+    {% if article.mediapartner %}
+    <h3>Media Partner</h3>
+    {% set orgs = article.mediapartner|split %}
+    {%- for row in orgs|batch(3) %}
+    <tr>
+      {%- for org in row %}
+      <td>
+        <a href="{{ PARTNERS[org][2] }}"
+           alt="{{ PARTNERS[org][0] }}">
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+        </a>
+      </td>
+      {%- endfor %}
+    </tr>
+    {%- endfor %}
+    {% endif %}
+

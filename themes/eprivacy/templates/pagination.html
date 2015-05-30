@@ -1,3 +1,4 @@
+{% if PAGINATE %}
 {% if DEFAULT_PAGINATION %}
 <div class="pagination-centered">
 <h6 class="subheader">Page {{ articles_page.number }} of {{ articles_paginator.num_pages }}</h6>
@@ -16,4 +17,5 @@
     {% endif %}
 </p>
 </div>
+{% endif %}
 {% endif %}

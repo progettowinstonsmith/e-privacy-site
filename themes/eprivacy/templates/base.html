@@ -1,50 +1,61 @@
 <!DOCTYPE html>
 <head>
-    <meta charset="utf-8" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
 
     <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
+    <link rel="stylesheet"
+          href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet"
+          href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" />	
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css"/>
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
+    
+    <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>    
+    <script src="{{ SITEURL }}/theme/js/lodash.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
     <script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.countdown.js"></script>
 </head>
 
 <body>
 
 <!-- Nav Bar -->
-<nav>
-<div class="top-bar">
-  <div class="row">
-    <a href="/"><div id="top_img_left"></div></a>
-    <div class="large-9 large-centered columns">
-	  <h1><a href="{{ SITEURL }}/">
-          {% block ptitle %}{{ SITENAME }}{%endblock%}
-      </a></h1>
+<nav>  
+  <div class="top-bar">
+    <div class="row">
+      <a href="/"><div id="top_img_left"></div></a>
+      <div class="large-9 large-centered columns">
+	    <h1><a href="{{ SITEURL }}/">
+            {% block ptitle %}{{ SITENAME }}{%endblock%}
+        </a></h1>
+      </div>
+      <a href="http://pws.winstonsmith.org"> <div id="top_img_right"/></a>
     </div>
-    <a href="http://pws.winstonsmith.org"> <div id="top_img_right"/></a>
-</div>
-</div>
+  </div>
 
-<!-- Show menu items and pages -->
-<div class="row">
-<div class="large-9 columns">
-    <ul class="button-group navigation">
-	{% for title, link in MENUITEMS %}
-    <li><a href="{{ link }}" class="button secondary small">{{ title }}</a></li>
-    {% endfor %}
-
-    {% if DISPLAY_PAGES_ON_MENU %}
+  <!-- Show menu items and pages -->
+  <div class="row">
+    <div class="large-9 columns">
+      <ul class="button-group navigation">
+	    {% for title, link in MENUITEMS %}
+        <li><a href="{{ link }}" class="button secondary small">{{ title }}</a></li>
+        {% endfor %}        
+        {% if DISPLAY_PAGES_ON_MENU %}
         {% for page in PAGES %}
-            <li><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
+        <li><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
         {% endfor %}
-    {% endif %}
-    </ul>
-</div>
-</div>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
 </nav>
 <!-- End Nav -->
 
@@ -52,12 +63,21 @@
 <!-- Main Page Content and Sidebar -->
 <div class="row">
 
+    <!-- Main Blog Content -->
+    <div class="large-9 columns">
+    {% block content %}{% endblock %}
+    </div>
+    <!-- End Main Content -->
+
     <!-- Sidebar -->
     <aside class="large-3 columns">
+    <!-- Sidebar -->
 
-        {% block eyear %}{% endblock eyear %}
+      {% block evinfo %}{% endblock evinfo %}
 
-      
+      {% include 'countdown.html' %}
+
+
         {% if THIS %}
         <h5 class="sidebar-title">E-PRIVACY {{ YEAR }}</h5>
         <ul class="side-nav">
@@ -68,7 +88,7 @@
         {% endif %}
 		
       
-<!--      
+        <!--      
         <h5 class="sidebar-title">SITO</h5>
         <ul class="side-nav">
             <li><a href="{{ SITEURL }}/archives.html">Archivi</a>
@@ -92,7 +112,7 @@
         -->
 
         {% if PREVS %}
-        <h5 class="sidebar-title">PRECEDENTI EDIZIONI</h5>
+        <h5 class="sidebar-title">EDIZIONI</h5>
         <ul class="side-nav">
         {% for name, link in PREVS %}
             <li><a href="{{ link }}">{{ name }}</a></li>
@@ -118,16 +138,13 @@
         </ul>
         {% endif %}
         
-        {% block oldsite %}NOBLOCK{% endblock oldsite %}
-        
-    </aside> <!-- End Sidebar -->
+        {% block oldsite %}{% endblock oldsite %}
 
-    <!-- Main Blog Content -->
-    <div class="large-9 columns">
-    {% block content %}{% endblock %}
-    </div>
-    <!-- End Main Content -->
+        {% include 'pws-button.html' %}
 
+        <!-- End Sidebar -->
+    </aside>
+    <!-- End Sidebar -->
     
 </div> <!-- End Main Content and Sidebar -->
 
@@ -139,7 +156,11 @@
         <div class="row">
           <div class="large-12 columns">
             Tutto il contenuto di questo sito è &copy; <a href="http://pws.winstonsmith.org">Winston Smith</a> —
-            I contenuti sono distribuiti sotto la <a href="http://www.gnu.org/licenses/gpl.html">Gnu General Public License 2.0</a>
+            I contenuti sono distribuiti sotto
+            la <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">Gnu
+              General Public License 2.0</a>
+            ove non altrimenti specificato.
+            Se riscontri un errore su queste pagine manda una mail al <a href="mailto:webmaster@winstonsmith.org">webmaster</a>
           </div>
         </div>
     </div>

@@ -5,19 +5,15 @@ Category: 2015
 lang: it
 Num: XVI
 Year: 2015
-slug: e-privacy-XVI-cfs
+slug: e-privacy-XVII-cfs
 City: Roma
 Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
 When: 2/3 Luglio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill</b>
 Season: estate
 previd: CFP
-prev: e-privacy-XVI
+prev: e-privacy-XVII
 Organizzatori: hermes,pws
-Collaboratori: PI,bba,asr
-Sponsor: sikurezza.org,albast,csa,isgroup,aipnet,ush,clusit,OPSI
-XPatrocini: cagliari,unica,sardegnaricerche
-MediaPartner: infomedia
 
 ### Aperto il Call for Sponsorship di e-privacy 2015 spring edition
 

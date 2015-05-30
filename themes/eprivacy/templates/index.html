@@ -1,4 +1,33 @@
 {% extends "base.html" %}
+{% block evinfo %}
+{% if articles %}
+{% set article = articles[0] %}
+{% include 'evinfo.html' %}
+{% endif %}
+{% endblock evinfo %}
+
+{% block title %}
+{% if articles %}
+{% set article = articles[0] %}
+{% if article.num %}e-privacy {{ article.num }} — {% endif %}
+{{ article.title|striptags }}
+{% endif %}
+{% endblock title %}
+
+{% block ptitle %}
+{% if articles %}
+{% set article = articles[0] %}
+{% if article.pagetitle %}
+ {{ article.pagetitle }}
+{% else %}
+ {% if article.num %}e-privacy {{ article.num }}
+  {% if article.year %} <i>({{ article.year }})</i>{% endif %}<br/>
+ {% endif %}
+ {{ article.title }}
+{% endif %}
+{% endif %}
+{% endblock ptitle %}
+
 {% block content_title %}{% endblock %}
 {% block content %}
 {% if articles %}
@@ -6,9 +35,13 @@
 
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
-            <article>
-                <a href="{{ SITEURL }}/{{ article.url }}"><h3 class="article-title">{{ article.title }}</h3></a>
-                {% include 'article_infos.html' %}{{ article.content }}{% include 'article_infos_bottom.html' %}{% include 'comments.html' %}
+<article>
+
+  {# <a href="{{ SITEURL }}/{{ article.url
+                }}"><h3 class="article-title">{{ article.title
+      }}</h3></a> {% include 'article_infos.html' %} #}
+  
+                {{ article.content }}{% include 'event_supporters.html' %}{% include 'article_infos_bottom.html' %}{% include 'comments.html' %}
             </article>
 
             {% if loop.length == 1 %}

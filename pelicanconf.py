@@ -36,11 +36,16 @@ AUTHOR_FEED_RSS = None
 DIRECT_TEMPLATES = ['index', 'archives']
 
 THIS = (
-    ('Call for Paper', '/e-privacy-XVI.html'),
-    ('Call for Sponsor',
-     '/e-privacy-XVI-cfs.html'),
+    ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
+    ('Call for Paper', '/e-privacy-XVII.html'),
+    ('Call for Sponsor', '/e-privacy-XVII-cfs.html'),
     ('Collabora con noi', 'mailto:eprivacy@winstonsmith.org?subject=Disponibilità a collaborare'),
 )
+
+# PAGINATION_PATTERNS = (
+#    (1, '{base_name}/', '{base_name}/index.html'),
+#    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+#)
 
 # Blogroll
 PREVS = (
@@ -74,8 +79,8 @@ PARTNERS = {
     # Massimo Melica
     'DFA': ('Digital Forensic Alumni', 'dfa.gif', 'http://www.perfezionisti.it'),
     'DIP': ('Consulente Legale Informatico DIP Srl', 'dip.png', 'http://www.consulentelegaleinformatico.it'),
-    'OPSI': ('OPSI', 'opsi.jpg', '(http://opsi.aipnet.it'),
-    'PI': ('Privacy International', 'privacyinternational.gif', 'http: // www.privacyinternational.org'),
+    'OPSI': ('OPSI', 'opsi.jpg', 'http://opsi.aipnet.it'),
+    'PI': ('Privacy International', 'privacyinternational.gif', 'http://www.privacyinternational.org'),
     'aipnet': ('Associazione Informatici Professionisti', 'aip.jpg', 'http://www.aipnet.it'),
     'aipsi': ('A.I.P.S.I. - Associazione Italiana Professionisti Sicurezza Informatica', 'aipsi.png', 'http://www.aipsi.org'),
     'albast': ('Alba S.T. s.r.l', 'albast.png', 'http://ww.alba.st'),
@@ -83,7 +88,7 @@ PARTNERS = {
     'ask': ('ASK dell’Università Bocconi di Milano', 'ask.png', 'http://www.ask.unibocconi.it/wps/wcm/connect/Cdr/Centro_ASK/Home'),
     'asr': ('Associazione Stampa Romana', 'asr.jpg', 'https://www.facebook.com/pages/Associazione-Stampa-Romana/181737418510039/'),
     'assodigitale': ('Assodigitale', 'assodigitale.jpg', "https://www.assodigitale.it"),
-    'assoprovider': ('AssoProvider', 'assoprovider.jpg', 'http: // www.assoprovider.it'),
+    'assoprovider': ('AssoProvider', 'assoprovider.jpg', 'http://www.assoprovider.it'),
     'bba': ('Big Brother Awards', 'bba.png', 'http://www.bigbrotherawards.org'),
     'cagliari': ('Comune di Cagliari', 'comune-cagliari.png', 'http://comune.cagliari.it/portale'),
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
@@ -100,7 +105,7 @@ PARTNERS = {
     'flug': ('Firenze Linux User Group', 'flug.png', 'http://flug.linux.it'),
     'golem': ('Golem', 'golem.png', 'http://golem.linux.it'),
     'icaa': ('ICAA', 'icaa-logo_small.jpg', 'http://www.criminologia.org'),
-    'ictacademy': ('ICTAcademy', 'ictacademy.jpg', 'http://www.ict - academy.it'),
+    'ictacademy': ('ICTAcademy', 'ictacademy.jpg', 'http://www.ict-academy.it'),
     'infomedia': ("Infomedia", 'infomedia.png',  'http://www.infomedia.it'),
     'interdatnet': ('InterDatNet', 'Interdatanet_no_bg_66.png', 'http://www.interdatanet.org'),
     'isgroup': ('Information Security Group', 'isgroup.png', 'http://www.isgroup.it/it/index.html'),
@@ -128,7 +133,7 @@ PARTNERS = {
     'lugvr': ('Linux User Group Verona - LugVR', 'lugv.png', 'http://www.verona.linux.it'),
 }
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 1
 
 STATIC_PATHS = ['images', 'pdfs', 'audio']
 # Uncomment following line if you want document-relative URLs when developing

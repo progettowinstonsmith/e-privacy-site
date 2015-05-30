@@ -1,159 +1,44 @@
-{% extends "article.html" %}
+{% extends "base.html" %}
+
+{% block evinfo %}
+{% include 'evinfo.html' %}
+{% endblock evinfo %}
+
 {% block title %}
 {% if article.num %}e-privacy {{ article.num }} — {% endif %}
 {{ article.title|striptags }}
-{% endblock %}
+{% endblock title %}
+
 {% block ptitle %}
 {% if article.pagetitle %}
-{{ article.pagetitle }}
+ {{ article.pagetitle }}
 {% else %}
-{% if article.num %}e-privacy {{ article.num }}
-{% if article.year %} <i>({{ article.year }})</i>{% endif %}
-<br/>{% endif %}
-{{ article.title }}
+ {% if article.num %}e-privacy {{ article.num }}
+  {% if article.year %} <i>({{ article.year }})</i>{% endif %}<br/>
+ {% endif %}
+ {{ article.title }}
 {% endif %}
-{% endblock %}
-{% block oldsite %}
-{% if article.oldpage %}
-        <h5 class="sidebar-title">SITO STORICO</h5>
-        <ul class="side-nav">
-          <li><a href="{{ OLDSITE }}/{{ article.oldpage }}">{{ article.category }}</a></li>
-        </ul>
-{% endif %}
-{% endblock oldsite %}
+{% endblock ptitle %}
 
-        {% block eyear %}
-        {% if article.num %}
-        <div class="e-container">
-        <div class="e-name">e-privacy</div>
-        {% if article.num %} <div class="e-num">{{article.num}}</div>        {% endif %}
-        
-        {% if article.when %} <div class="e-when">{{article.when}}</div> {% endif %}
-        {% if article.year %} <div class="e-year">{{article.year}}</div> {% endif %}
-        {% if article.season %} <div class="e-season">{{article.season}}</div> {% endif %}
-        {# Year Navigation #}
-        <table style="width:100%">
-          <tr>
-            <td class="e-prev" width="50%">
-              {% if article.prev %}
-              <a   href="{{article.prev}}.html">&lt; {{ article.previd }}</a>
-              {% endif %}
-            </td>
-            <td class="e-next" width="50%">
-              {% if article.next %}<a  href="{{article.next}}.html">{{
-              article.nextid }} &gt;</a>{% endif %}
-            </td>
-            </tr>
-        </table>
-        {% if article.city %} <div class="e-city">{{article.city}}</div> {% endif %}
-        {% if article.where %} <div class="e-where">{{article.where}}</div> {% endif %}
-        </div>
-        {% endif %}
-        {% endblock %}
+{% block oldsite %}{% include 'oldsite.html' %}{% endblock oldsite %}
 
-        
 {% block content %}
 <article>
-    <header>
+{#
+  <header>
         <h3 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
         title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h3>
         {% include 'twitter.html' %}
     </header>
-
-    {% include 'event_infos.html' %}
+        {% include 'event_infos.html' %}
+#}
+    
     {% if article.slogan %}
     <table class="slogan"><tr><td width="100%">{{ article.slogan }}</td></tr></table>
     {% endif %}
     {{ article.content }}
-    {% if article.organizzatori %}
-    <h3>Organizzatori</h3>
-    {% set orgs = article.organizzatori|split %}
-    {%- for row in orgs|batch(3) %}
-    <tr>
-      {%- for org in row %}
-      <td>
-        <a href="{{ PARTNERS[org][2] }}"
-           alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
-        </a>
-      </td>
-      {%- endfor %}
-    </tr>
-    {%- endfor %}
-    {% endif %}
-
-    
-    {% if article.collaboratori %}
-    <h3>in collaborazione con</h3>
-    {% set orgs = article.collaboratori|split %}
-    {%- for row in orgs|batch(3) %}
-    <tr>
-      {%- for org in row %}
-      <td>
-        <a href="{{ PARTNERS[org][2] }}"
-           alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
-        </a>
-      </td>
-      {%- endfor %}
-    </tr>
-    {%- endfor %}
-    {% endif %}
-
-    
-    {% if article.sponsor %}
-    <h3>Sponsor</h3>
-    {% set orgs = article.sponsor|split %}
-    {%- for row in orgs|batch(3) %}
-    <tr>
-      {%- for org in row %}
-      <td>
-        <a href="{{ PARTNERS[org][2] }}"
-           alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
-        </a>
-      </td>
-      {%- endfor %}
-    </tr>
-    {%- endfor %}
-    {% endif %}
-
-    {% if article.patrocini %}
-    <h3>Patrocini</h3>
-    {% set orgs = article.patrocini|split %}
-    {%- for row in orgs|batch(3) %}
-    <tr>
-      {%- for org in row %}
-      <td>
-        <a href="{{ PARTNERS[org][2] }}"
-           alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
-        </a>
-      </td>
-      {%- endfor %}
-    </tr>
-    {%- endfor %}
-    {% endif %}
-
-    
-    {% if article.mediapartner %}
-    <h3>Media Partner</h3>
-    {% set orgs = article.mediapartner|split %}
-    {%- for row in orgs|batch(3) %}
-    <tr>
-      {%- for org in row %}
-      <td>
-        <a href="{{ PARTNERS[org][2] }}"
-           alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
-        </a>
-      </td>
-      {%- endfor %}
-    </tr>
-    {%- endfor %}
-    {% endif %}
-
-    
+        
+    {% include 'event_supporters.html' %}
     {% include 'event_infos_bottom.html' %}
     
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
