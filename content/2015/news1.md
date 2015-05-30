@@ -45,7 +45,7 @@ pubblico ed istituzionale.
 
 Per iscriversi all'evento si deve usare 
 [EVENTBRITE](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008).
-Le iscrizioni **grauite** inizieranno il giorno 5 Giugno.
+Le iscrizioni **gratuite** inizieranno il giorno 5 Giugno.
 
 ### Iscrizioni per giornalisti
 
