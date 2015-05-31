@@ -35,6 +35,8 @@ AUTHOR_FEED_RSS = None
 
 DIRECT_TEMPLATES = ['index', 'archives']
 
+DELETE_OUTPUT_DIRECTORY = True
+
 THIS = (
     ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
     ('Call for Paper', '/e-privacy-XVII.html'),
@@ -135,7 +137,8 @@ PARTNERS = {
 
 DEFAULT_PAGINATION = 1
 
-STATIC_PATHS = ['images', 'pdfs', 'audio']
+STATIC_PATHS = ['images', 'pdfs', 'audio', '.htaccess', 'materiali']
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
