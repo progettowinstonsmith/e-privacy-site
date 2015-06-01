@@ -1,0 +1,40 @@
+Template: article
+Title: Collabora con e-privacy
+Date: 2015-04-22 10:20
+Category: 2015
+lang: it
+slug: collabora
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+
+
+L'intera organizzazione di e-privacy, anche nel 2015, è stata realizzata esclusivamente da volontari. Molte persone hanno regalato un po' del loro tempo per permettere la realizzazione di tutte le attività progettate.
+
+Puoi collaborare anche tu entrando in un gruppo dinamico e molto focalizzato sulla realizzazione di progetti pratici e utili.
+
+Non abbiamo bisogno di speciali competenze o particolari attitudini, ma molto spesso la disponibilità ad imparare e condividere con gli altri.
+
+## Per e-privacy 2015 (Logistica evento)
+
+Per **e-privacy 2015** abbiamo bisogno di volontari per lo staff di accoglienza degli ospiti al congresso nei giorni 2 e 3 Luglio.
+
+Per partecipare allo staff è sufficiente indicare la propria disponibilità all'indirizzo di mail della [segreteria](mailto:segreteria@winstonsmith.org) oppure, se si vuole indicare la propria disponibilità nei compiti e negli orari specifici compilare l'apposito schema [doodle](http://doodle.com/hds7x852ks7kzvs9) e NON DIMENTICARE ANCHE di iscriversi alla mailing-list della [logistica di e-privacy](http://lists.globaleaks.ninja/listinfo.cgi/logistica-eprivacy-globaleaks.ninja).
+
+## Collaborazioni tecniche
+
+Abbiamo anche bisogno di volontari competenti in alcune aree tecniche:
+
+- HTML5, per alcuni errori di visibilità di questo sito nei browser per Linux (Iceweasel)
+- Jinja2, Pelican, Python, Markdown per lo sviluppo di nuove pagine e nuovi temi per i siti di Winston Smith
+- system administrator per il server di Winston Smith 
+
+## Collaborazioni generali
+
+Per il miglioramento e il rinnovamento del materiale disponibile sui siti di e-privacy e del Progetto Winston Smith nel suo complesso abbiamo bisogno di volontari per:
+
+- editing, aggiornamento e miglioramento dei testi (nessuna competenza tecnica necessaria oltre il word-processing e l'email)
+- la realizzazione di disegni, grafica e loghi
+
+
+Per queste collaborazioni spedite la vostra disponibilità all'indirizzo dei [volontari](mailto:volontari@winstonsmith.org).
+
+

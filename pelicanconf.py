@@ -39,9 +39,10 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THIS = (
     ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
-    ('Call for Paper', '/e-privacy-XVII.html'),
+    ('Call for Paper', '/e-privacy-XVII-cfp.html'),
     ('Call for Sponsor', '/e-privacy-XVII-cfs.html'),
-    ('Collabora con noi', 'mailto:eprivacy@winstonsmith.org?subject=Disponibilità a collaborare'),
+    ('Donazioni', '/donazioni-e-privacy.html'),
+    ('Collabora', '/collabora.html'),
 )
 
 # PAGINATION_PATTERNS = (
@@ -104,7 +105,7 @@ PARTNERS = {
     'hermes': ('Centro Studi Hermes per la Trasparenza e i Diritti Civili Digitali', 'hermes.png', 'http://logioshermes.org'),
     'firenze': ('Comune di Firenze', 'comune-firenze.png', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
     'firenze1': ('Comune di Firenze: Consiglio di Quartiere 1', 'logoq1.gif', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
-    'flug': ('Firenze Linux User Group', 'flug.png', 'http://flug.linux.it'),
+    'flug': ('Firenze Linux User Group', 'flug.png', 'http://www.firenze.linux.it'),
     'golem': ('Golem', 'golem.png', 'http://golem.linux.it'),
     'icaa': ('ICAA', 'icaa-logo_small.jpg', 'http://www.criminologia.org'),
     'ictacademy': ('ICTAcademy', 'ictacademy.jpg', 'http://www.ict-academy.it'),

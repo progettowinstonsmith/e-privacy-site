@@ -37,7 +37,7 @@
     (goto-char 1)
     (query-replace-regexp
      "(\\(atti\\|audio\\|video\\)/"
-    "(http://urna.winstonsmith.org/materiali/2012/\\1/"
+    "(http://urna.winstonsmith.org/materiali/2009/\\1/"
      )))
 
 
