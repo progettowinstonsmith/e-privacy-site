@@ -9,9 +9,13 @@
 
     <link rel="stylesheet"
           href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    
     <link rel="stylesheet"
           href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
+    
+    <link rel="stylesheet"
+          href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
+    
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
@@ -24,6 +28,7 @@
     <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
     <script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.countdown.js"></script>
+    
 </head>
 
 <body>
@@ -143,6 +148,7 @@
 
         {% include 'pws-button.html' %}
 
+        {% include 'savethelink.html' %}
         <!-- End Sidebar -->
     </aside>
     <!-- End Sidebar -->
@@ -155,13 +161,18 @@
     <div class="large-12 columns">
         <hr />
         <div class="row">
-          <div class="large-12 columns">
-            Tutto il contenuto di questo sito è &copy; <a href="http://pws.winstonsmith.org">Winston Smith</a> —
-            I contenuti sono distribuiti sotto
+          <div class="large-12 columns footer">
+            Tutto il contenuto di questo sito è
+            &copy; <a href="http://pws.winstonsmith.org">Winston
+            Smith</a> — I contenuti sono distribuiti sotto
             la <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">Gnu
-              General Public License 2.0</a>
-            ove non altrimenti specificato.
-            Se riscontri un errore su queste pagine manda una mail al <a href="mailto:webmaster@winstonsmith.org">webmaster</a>
+            General Public License 2.0</a> ove non altrimenti
+            specificato. <br/>Se riscontri un errore su queste pagine manda
+            una mail
+            al <a href="mailto:webmaster@winstonsmith.org">webmaster</a>.<br/>
+            Nessun cookie è stato iniettato sul tuo computer da questo
+            sito (il fatto che siamo obbligati a dirtelo non rende
+            meno idiota la legge che ci forza a farlo).
           </div>
         </div>
     </div>

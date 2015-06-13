@@ -22,6 +22,11 @@ h1 {
     text-align: center;
 }
 
+.footer {
+    font-size: 0.7em;
+    text-align: center;
+}
+
 td.e-next {
     font-size: 1.3em;
     text-align: right;

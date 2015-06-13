@@ -38,8 +38,11 @@ DIRECT_TEMPLATES = ['index', 'archives']
 DELETE_OUTPUT_DIRECTORY = True
 
 THIS = (
-    ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
-    ('Call for Paper', '/e-privacy-XVII-cfp.html'),
+    #    ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
+    #    ('Call for Paper', '/e-privacy-XVII-cfp.html'),
+    ('Programma', '/e-privacy-XVII-programma.html'),
+    ('Interventi', '/e-privacy-XVII-interventi.html'),
+    ('Relatori', '/e-privacy-XVII-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XVII-cfs.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
@@ -52,7 +55,7 @@ THIS = (
 
 # Blogroll
 PREVS = (
-    ('e-privacy 2015 spring XVII', '/e-privacy-XVII.html'),
+    ('e-privacy 2015 spring XVII', '/'),
     ('e-privacy 2014 winter XVI', '/e-privacy-XVI.html'),
     ('e-privacy 2014 spring XV', '/e-privacy-XV.html'),
     ('e-privacy 2013 winter XIV', '/e-privacy-XIV.html'),
@@ -85,6 +88,7 @@ PARTNERS = {
     'OPSI': ('OPSI', 'opsi.jpg', 'http://opsi.aipnet.it'),
     'PI': ('Privacy International', 'privacyinternational.gif', 'http://www.privacyinternational.org'),
     'aipnet': ('Associazione Informatici Professionisti', 'aip.jpg', 'http://www.aipnet.it'),
+    'grusp': ('GrUSP', 'grusp.png', 'http://www.grusp.org/it/'),
     'aipsi': ('A.I.P.S.I. - Associazione Italiana Professionisti Sicurezza Informatica', 'aipsi.png', 'http://www.aipsi.org'),
     'albast': ('Alba S.T. s.r.l', 'albast.png', 'http://ww.alba.st'),
     'amadir': ('AMADIR', 'amadir.jpg', 'http://www.amadir.it'),
@@ -134,6 +138,8 @@ PARTNERS = {
     'ush': ('USH', 'ush.jpg', 'http://www.ush.it'),
     'verdi': ('Gruppo Verde', 'verdi.jpg', 'http://verdi.it'),
     'lugvr': ('Linux User Group Verona - LugVR', 'lugv.png', 'http://www.verona.linux.it'),
+    'senzabarcode': ('SenzaBarcode.it', 'senzabarcode.png', 'http://www.senzabarcode.it'),
+    'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
 }
 
 DEFAULT_PAGINATION = 1

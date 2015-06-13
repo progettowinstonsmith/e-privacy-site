@@ -16,9 +16,9 @@ previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
 Collaboratori: PI,bba,asr
-Sponsor: sepel,sikurezza.org,ush,cgt,OPSI,csa
+Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: infomedia
+MediaPartner: senzabarcode,radioradicale,infomedia
 
 La diciassettesima edizione di E-Privacy, l’ormai storico evento
 italiano dedicato al tema della privacy, si svolgerà, i prossimi **2 e 3
@@ -63,8 +63,8 @@ Per avere informazioni in merito (o per lista d'attesa) iscriversi
 
 Giorno || Evento
 --- | --- | ---
-Venerdì | 29 Maggio | **[Apertura Registrazioni con Donazione](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008)**
-Lunedì  | 1 Giugno  | [Chiusura Call for Paper](http://e-privacy.winstonsmith.org/e-privacy-XVII.html)
+Venerdì | 29 Maggio | [Apertura Registrazioni con Donazione](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008)
+Lunedì  | 1 Giugno  | **[Chiusura Call for Paper](http://e-privacy.winstonsmith.org/e-privacy-XVII.html)**
 Venerdì | 5 Giugno  | Apertura Registrazioni Gratuite
 Lunerì  | 8 Giugno  | Pubblicazione Programma
 Martedì | 30 Giugno | Chiusura Registrazioni

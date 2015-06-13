@@ -5,22 +5,21 @@ Category: 2015
 lang: it
 Num: XVII
 Year: 2015
-slug: e-privacy-XVII
+slug: e-privacy-XVII-cfp
 City: Roma
 Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
 When: 2/3 Luglio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-oldpage: /materiali/2015
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
 Collaboratori: PI,bba,asr
-Sponsor: sepel,sikurezza.org,ush,cgt,OPSI,csa
+Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: infomedia
+MediaPartner: senzabarcode,radioradicale,infomedia
 
-### Aperto il Call for Paper di e-privacy 2015 spring edition
+### È ormai **chiuso**  il Call for Paper di e-privacy 2015 spring edition
 
 Il ** 2 e 3 luglio 2015 ** (giovedì e venerdì) a Roma si svolgerà **e-privacy 2015 _spring edition_**.
 
