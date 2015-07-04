@@ -15,10 +15,10 @@ oldpage: /materiali/2015
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
-Collaboratori: PI,bba,asr
+Collaboratori: al,PI,bba,asr
 Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: senzabarcode,radioradicale,infomedia
+MediaPartner: senzabarcode,radioradicale,infomedia,lalegatoria
 
 La diciassettesima edizione di E-Privacy, l’ormai storico evento
 italiano dedicato al tema della privacy, si svolgerà, i prossimi **2 e 3

@@ -40,12 +40,15 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS = (
     #    ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
     #    ('Call for Paper', '/e-privacy-XVII-cfp.html'),
-    ('Programma', '/e-privacy-XVII-programma.html'),
-    ('Interventi', '/e-privacy-XVII-interventi.html'),
-    ('Relatori', '/e-privacy-XVII-relatori.html'),
+    ('Il programma', '/e-privacy-XVII-programma.html'),
+    ('Gli interventi', '/e-privacy-XVII-interventi.html'),
+    ('I relatori', '/e-privacy-XVII-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XVII-cfs.html'),
+    ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
+    ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
+    ('Contatti', '/contatti.html'),
 )
 
 # PAGINATION_PATTERNS = (
@@ -55,6 +58,7 @@ THIS = (
 
 # Blogroll
 PREVS = (
+    ('mappa di tutte le edizioni', '/mappa.html'),
     ('e-privacy 2015 spring XVII', '/'),
     ('e-privacy 2014 winter XVI', '/e-privacy-XVI.html'),
     ('e-privacy 2014 spring XV', '/e-privacy-XV.html'),
@@ -88,6 +92,7 @@ PARTNERS = {
     'OPSI': ('OPSI', 'opsi.jpg', 'http://opsi.aipnet.it'),
     'PI': ('Privacy International', 'privacyinternational.gif', 'http://www.privacyinternational.org'),
     'aipnet': ('Associazione Informatici Professionisti', 'aip.jpg', 'http://www.aipnet.it'),
+    'al': ('Alternativa Libera', 'al.png', 'http://www.alternativalibera.org'),
     'grusp': ('GrUSP', 'grusp.png', 'http://www.grusp.org/it/'),
     'aipsi': ('A.I.P.S.I. - Associazione Italiana Professionisti Sicurezza Informatica', 'aipsi.png', 'http://www.aipsi.org'),
     'albast': ('Alba S.T. s.r.l', 'albast.png', 'http://ww.alba.st'),
@@ -140,6 +145,7 @@ PARTNERS = {
     'lugvr': ('Linux User Group Verona - LugVR', 'lugv.png', 'http://www.verona.linux.it'),
     'senzabarcode': ('SenzaBarcode.it', 'senzabarcode.png', 'http://www.senzabarcode.it'),
     'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
+    'lalegatoria': ('la legatoria', 'lalegatoria.jpg', 'http://www.lalegatoria.it'),
 }
 
 DEFAULT_PAGINATION = 1

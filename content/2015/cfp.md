@@ -14,10 +14,10 @@ Season: estate
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
-Collaboratori: PI,bba,asr
+Collaboratori: al,PI,bba,asr
 Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: senzabarcode,radioradicale,infomedia
+MediaPartner: senzabarcode,radioradicale,infomedia,lalegatoria
 
 ### È ormai **chiuso**  il Call for Paper di e-privacy 2015 spring edition
 

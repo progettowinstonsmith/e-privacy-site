@@ -14,12 +14,12 @@ Season: estate
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
-Collaboratori: PI,bba,asr
+Collaboratori: al,PI,bba,asr
 Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: senzabarcode, radioradicale, infomedia
+MediaPartner: senzabarcode, radioradicale, infomedia, lalegatoria
 
-
+<!--
 <div style="width:100%; text-align:left;" ><iframe
 src="//eventbrite.it/tickets-external?eid=16856755008&ref=etckt"
 frameborder="0" height="300" width="100%" vspace="0" hspace="0"
@@ -30,6 +30,7 @@ text-align:left;" ><a class="powered-by-eb" style="color: #dddddd;
 text-decoration: none;" target="_blank"
 href="http://www.eventbrite.it/r/etckt">Con tecnologia
 Eventbrite</a></div></div>
+-->
 
 
 ### <a name="speakers"></a>I Relatori

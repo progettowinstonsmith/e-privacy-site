@@ -55,6 +55,7 @@ help:
 	@echo '                                                                       '
 
 html:
+	chmod -R o+r $(INPUTDIR)/
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:

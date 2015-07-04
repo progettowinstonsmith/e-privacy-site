@@ -15,22 +15,10 @@ oldpage: /materiali/2015
 previd: 2014W
 prev: e-privacy-XVI
 Organizzatori: hermes,pws
-Collaboratori: PI,bba,asr
+Collaboratori: al,PI,bba,asr
 Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
-MediaPartner: senzabarcode, radioradicale, infomedia
-
-
-<div style="width:100%; text-align:left;" ><iframe
-src="//eventbrite.it/tickets-external?eid=16856755008&ref=etckt"
-frameborder="0" height="300" width="100%" vspace="0" hspace="0"
-marginheight="5" marginwidth="5" scrolling="auto"
-allowtransparency="true"></iframe><div style="font-family:Helvetica,
-Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%;
-text-align:left;" ><a class="powered-by-eb" style="color: #dddddd;
-text-decoration: none;" target="_blank"
-href="http://www.eventbrite.it/r/etckt">Con tecnologia
-Eventbrite</a></div></div>
+MediaPartner: senzabarcode, radioradicale,infomedia,lalegatoria
 
 
 Il ** 2 e 3 luglio 2015 ** (giovedì e venerdì) a Roma si svolgerà la
@@ -47,7 +35,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** |
   ------- | ------- | ------- |
-9:00  | [_Marco Calamari_](/e-privacy-XVII-relatori.html#calamari) <br/>(Progetto Winston Smith) | *Apertura lavori* |
+9:00  | [_Marco Calamari_](/e-privacy-XVII-relatori.html#calamari) <br/>([Progetto Winston Smith](http://pws.winstonsmith.org))<br/>[On. Walter Rizzetto](http://www.camera.it/leg17/29?shadow_deputato=305688&idLegislatura=17)<br/>([Alternativa Libera](http://alternativalibera.org)) | *Apertura lavori* |
 9:30  | [_Diego Giorio_](/e-privacy-XVII-relatori.html#giorio) | [Privacy e trasparenza Antonimi, sinonimi o variabili indipendenti? L’esperienza degli Enti Pubblici](/e-privacy-XVII-interventi.html#giorio)
 10:00 | [_Stefano  Aterno_](/e-privacy-XVII-relatori.html#aterno) | [La Sicurezza come diritto di libertà e il ruolo della Privacy nel prossimo futuro](/e-privacy-XVII-interventi.html#aterno)
 10:30 |  [_Alessandro Rodolfi_](/e-privacy-XVII-relatori.html#rodolfi), [_Emmanuele Somma_](/e-privacy-XVII-relatori.html#somma) | [Trasparenza e privacy in un modello di maturità delle iniziative di whistleblowing](/e-privacy-XVII-interventi.html#rodolfi)
@@ -56,14 +44,13 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 11:30 | [_Simone Aliprandi_](/e-privacy-XVII-relatori.html#aliprandi) | [L'accesso aperto alle sentenze e i relativi problemi di privacy: l'esperienza del progetto JurisWiki](/e-privacy-XVII-interventi.html#aliprandi)
 12:05 | | [Tavola Rotonda: Trasparenza, privacy, diritto all'oblio e e reputazione digitale](/e-privacy-XVII-interventi.html#oblio) [_Fulvio Sarzana_](/e-privacy-XVII-relatori.html#sarzana), [_Matteo G.P. Flora_](/e-privacy-XVII-relatori.html#flora), [_Francesca Romana Fuxa Sadurny_](/e-privacy-XVII-relatori.html#fuxa), [_Alessandro Monteleone_](/e-privacy-XVII-relatori.html#monteleone) |
 13:30 || Pausa pranzo 
-14:40 | [_Lazzaro Pappagallo_](/e-privacy-XVII-relatori.html#pappagallo) | [Deontologia professionale dei giornalisti, libertà di espressione, riservatezza e online](/e-privacy-XVII-interventi.html#pappagallo)
-15:15 | [_Claudio Agosti_](/e-privacy-XVII-relatori.html#agosti) | [Geopolitica nella rete: le nazioni che hanno i nostri dati](/e-privacy-XVII-interventi.html#agosti)
-15:45 | [_Leonida Reitano_](/e-privacy-XVII-relatori.html#reitano) | [Open Source Intelligence e qualità dell'informazione giornalistica](/e-privacy-XVII-interventi.html#reitano)
-16:15 || Pausa 
-16:45 | [_Daniele Vantaggiato_](/e-privacy-XVII-relatori.html#vantaggiato) | [Account usa e getta. Tagliamo il filo che lega la nostra password ai nostri dati](/e-privacy-XVII-interventi.html#vantaggiato)
-17:00 | [_Valentina Longo_](/e-privacy-XVII-relatori.html#longo) | [La trasparenza come fattore chiave della capacità amministrativa nella Programmazione comunitaria 2014-2020, il caso del Fondo europeo agricolo per lo sviluppo rurale (FEASR)](/e-privacy-XVII-interventi.html#longo)
-17:30 | [_Andrea Ghirardini_](/e-privacy-XVII-relatori.html#ghirardini) | [Diritti Civili e "Captatore Telematico"](/e-privacy-XVII-interventi.html#ghirardini)
-18:00 | Chiusura lavori |
+14:45|| Apertura lavori pomeridiani
+14:50 |  [_Lazzaro Pappagallo_](/e-privacy-XVII-relatori.html#pappagallo),  [_Tiziana Barrucci_](/e-privacy-XVII-relatori.html#barrucci) |  Presentazione Area Formazione Ass. Stampa Romana
+15:00 | [_Leonida Reitano_](/e-privacy-XVII-relatori.html#reitano) | [Open Source Intelligence e qualità dell'informazione giornalistica](/e-privacy-XVII-interventi.html#reitano)
+15:30 | [_Daniele Vantaggiato_](/e-privacy-XVII-relatori.html#vantaggiato) | [Account usa e getta. Tagliamo il filo che lega la nostra password ai nostri dati](/e-privacy-XVII-interventi.html#vantaggiato)
+15:45 | [_Andrea Ghirardini_](/e-privacy-XVII-relatori.html#ghirardini) | [Diritti Civili e "Captatore Telematico"](/e-privacy-XVII-interventi.html#ghirardini)
+16:15 | [_Claudio Agosti_](/e-privacy-XVII-relatori.html#agosti) | [Geopolitica nella rete: le nazioni che hanno i nostri dati](/e-privacy-XVII-interventi.html#agosti)
+16:45 | Chiusura lavori |
 
 #### <a name="ve"></a>Venerdì 3 Luglio 2015
 
@@ -83,11 +70,10 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 13:30|| Pausa pranzo
 14:40|| Apertura lavori pomeridiani
 14:45| [_Tiziana Barrucci_](/e-privacy-XVII-relatori.html#barrucci) | [Le fonti giornalistiche, diritto di privacy e deontologia professionale](/e-privacy-XVII-interventi.html#barrucci)
-15:15|| _Big Brother Awards_ — Eroe della Privacy
+15:15| [_Fernanda Faini_](/e-privacy-XVII-relatori.html#faini) | [Il diritto alla conoscenza nei confronti delle istituzioni: verso un Freedom of Information Act italiano](/e-privacy-XVII-interventi.html#faini)
 15:30| [_Efrem Zugnaz_](/e-privacy-XVII-relatori.html#zugnaz) | [Emergenza o Prevenzione sui temi di Internet a Scuola nella "costruzione dei cittadini digitali"](/e-privacy-XVII-interventi.html#zugnaz)
 15:45| [_Giorgio Mancosu_](/e-privacy-XVII-relatori.html#mancosu) | [Dati pubblici a carattere personale. Apertura incondizionata o esposizione controllata? Travagli interpretativi ed applicativi  intorno al d.lgs. 33/13…In attesa della sua imminente revisione](/e-privacy-XVII-interventi.html#mancosu)
-16:00| [_Fernanda Faini_](/e-privacy-XVII-relatori.html#faini) | [Il diritto alla conoscenza nei confronti delle istituzioni: verso un Freedom of Information Act italiano](/e-privacy-XVII-interventi.html#faini)
-16:15|| Pausa
+16:00 | [_Valentina Longo_](/e-privacy-XVII-relatori.html#longo) | [La trasparenza come fattore chiave della capacità amministrativa nella Programmazione comunitaria 2014-2020, il caso del Fondo europeo agricolo per lo sviluppo rurale (FEASR)](/e-privacy-XVII-interventi.html#longo)
 16:30| [_Davide  Mula_](/e-privacy-XVII-relatori.html#mula) | [Open Data tra tutela del segreto industriale e commerciale e diritto di accesso ai documenti delle Autorità di regolazione e vigilanza](/e-privacy-XVII-interventi.html#mula)
 17:00||  [Tavola Rotonda: Sentenze online tra trasparenza e privacy: un conflitto etico.](/e-privacy-XVII-interventi.html#sentenze) [_Lazzaro Pappagallo_](/e-privacy-XVII-relatori.html#pappagallo), [_Avv. Marco Ciurcina_](/e-privacy-XVII-relatori.html#ciurcina), [_Avv. Monica A. Senor_](/e-privacy-XVII-relatori.html#senor), [_Avv. Carlo Blengino_](/e-privacy-XVII-relatori.html#blengino), [_Avv. Giovanni Battista Gallus_](/e-privacy-XVII-relatori.html#gallus)
 18:00|| Chiusura lavori
