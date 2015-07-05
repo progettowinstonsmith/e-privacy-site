@@ -157,7 +157,7 @@ presso la facoltà di Ingegneria dell'Informazione del Politecnico di
 Torino. Attivamente impegnato per la promozione del software libero e
 delle libertà digitali.
 
-### <a name="delvecchio"></a>Davide Dante Del Vecchio (HERMES)
+### <a name="delvecchio"></a>Davide Del Vecchio (HERMES)
 
 Davide Del Vecchio, conosciuto in rete con il nickname “Dante”, da
 sempre appassionato di sicurezza informatica, ha firmato parecchie

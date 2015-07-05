@@ -60,7 +60,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 9:05 | [_Giovambattista Vieri_](/e-privacy-XVII-relatori.html#vieri) | [Effetti collaterali](/e-privacy-XVII-interventi.html#vieri)
 9:30 | [_Manuela Vacca_](/e-privacy-XVII-relatori.html#vacca) | [Cittadini trasparenti? Informazione e Internet delle Cose](/e-privacy-XVII-interventi.html#vacca)
 9:45 | [_Claudio Agosti_](/e-privacy-XVII-relatori.html#agosti) | [Essere come "Uno nessuno e centomila": tecniche d'autodifesa digitale](/e-privacy-XVII-interventi.html#agosti)
-10:15| [_Davide Dante Del Vecchio,<br/>Bella Shakhmirza_](/e-privacy-XVII-relatori.html#shakhmirza) | [Deepweb, cos'è e quali sono i suoi contenuti](/e-privacy-XVII-interventi.html#shakhmirza)
+10:15| [_Davide  Del Vecchio,<br/>Bella Shakhmirza_](/e-privacy-XVII-relatori.html#shakhmirza) | [Deepweb, cos'è e quali sono i suoi contenuti](/e-privacy-XVII-interventi.html#shakhmirza)
 10:45| [_Giuseppe Vaciago_](/e-privacy-XVII-relatori.html#vaciago) | [Cyber security e Robotics: una sfida ancora poco conosciuta](/e-privacy-XVII-interventi.html#vaciago)
 11:15|| Pausa
 11:30| [_Riccardo Abeti_](/e-privacy-XVII-relatori.html#abeti) | [La condizione di anonimato è un concetto statico o dinamici](/e-privacy-XVII-interventi.html#abeti)

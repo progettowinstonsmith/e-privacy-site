@@ -141,7 +141,7 @@ pertanto illustrata la disciplina giuridica della pubblicità “mirata”
 e degli strumenti tecnologici adoperati per la profilazione degli
 utenti.
 
-### <a name="delvecchio"></a>Davide Dante Del Vecchio (HERMES)<br/><a name="shakhmirza"></a>Bella Shakhmirza
+### <a name="delvecchio"></a>Davide  Del Vecchio (HERMES)<br/><a name="shakhmirza"></a>Bella Shakhmirza
 **deepweb, cos'è e quali sono i suoi contenuti?**
 
 Si parla tanto del deepweb, ma cos’è davvero? E cosa ci si può
