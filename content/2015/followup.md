@@ -21,10 +21,13 @@ XPatrocini:
 MediaPartner: senzabarcode, radioradicale,infomedia,lalegatoria
 
 
-Il ** 2 e 3 luglio 2015 ** (giovedì e venerdì) a Roma si è svolto la
-XVII edizione di **e-privacy**. Il tema di questa edizione è stato:
+Il ** 2 e 3 luglio 2015 ** a Roma si è svolta la
+XVII edizione di **e-privacy**, sul tema:
 
 **La trasparenza e la privacy**: _il bilanciamento tra le necessità di trasparenza e pubblicità, e le aspettative di rispetto della privacy, dell’anonimato e della segretezza._
+
+
+** Sono disponibili le registrazioni video dell'intero convegno ** [prima giornata](http://www.radioradicale.it/scheda/446735/la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e) e [seconda giornata](http://www.radioradicale.it/scheda/447017/xvii-edizione-di-e-privacy-sul-temala-trasparenza-e-la-privacy-il-bilanciamento-tra-le).
 
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più intimi dettagli. L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore pubblico ed istituzionale.
 

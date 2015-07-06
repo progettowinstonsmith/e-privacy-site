@@ -21,8 +21,6 @@ XPatrocini:
 MediaPartner: senzabarcode, radioradicale,infomedia,lalegatoria
 
 
-<iframe width="500" height="375" src="http://webtv.camera.it/embedded/evento/8132?w=500&h=375" scrolling="no" frameborder="0"  allowfullscreen ></iframe>
-
 Legenda:
 
 Icona | Descrizione
