@@ -150,7 +150,7 @@ PARTNERS = {
 
 DEFAULT_PAGINATION = 1
 
-STATIC_PATHS = ['images', 'pdfs', 'audio', '.htaccess', 'materiali']
+STATIC_PATHS = ['images', 'pdfs', 'audio', '.htaccess']
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
