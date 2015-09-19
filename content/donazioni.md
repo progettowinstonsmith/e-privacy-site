@@ -10,9 +10,9 @@ Caro amico,
 
 di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile vista anche la sala prestigiosa che ci ospita e una serie di problematiche logistiche. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti che potremo utilizzare anche nell'organizzazione della prossima edizione).
 
-Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene accetta) abbiamo aperto in anticipo le registrazioni al congresso (che quest'anno sono comunque necessarie visti i controlli in sala) e comunque anche dopo l'apertura delle registrazioni gratuite sarà comunque possibile iscriversi con una donazione.
+Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene accetta) apriremo in anticipo le registrazioni al congresso e comunque anche dopo l'apertura delle registrazioni gratuite sarà comunque possibile iscriversi con una donazione.
 
-Potete usare direttamente l'iscrizione per fare la vostra donazione al Progetto Winston Smith per l'organizzazione di E-Privacy  sulla pagina di [EVENTBRITE](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008).
+Potete usare direttamente l'iscrizione per fare la vostra donazione al Progetto Winston Smith per l'organizzazione di E-Privacy  sulla pagina di EVENTBRITE <!-- [EVENTBRITE](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008). -->, quando sarà disponibile.
 
 Se non vi va di fare una donazione, dopo la pubblicazione del programma è comunque disponibile la registrazione *gratuita* e si potrà prendere un biglietto d'accesso senza pagare.
 

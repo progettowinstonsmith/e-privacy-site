@@ -14,6 +14,8 @@ Season: estate
 oldpage: /materiali/2015
 previd: 2014W
 prev: e-privacy-XVI
+nextid: 2015W
+next: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: al,PI,bba,asr
 Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet

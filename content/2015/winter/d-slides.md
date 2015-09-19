@@ -1,11 +1,12 @@
+status: draft
 Template: event
 Title: La trasparenza e la privacy
-Date: 2015-07-07 10:20
+Date: 2015-07-02 09:00
 Category: 2015
 lang: it
 Num: XVII
 Year: 2015
-slug: e-privacy-XVII
+slug: e-privacy-XVIII-programma-slides
 City: Roma
 Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
 When: 2/3 Luglio
@@ -21,15 +22,15 @@ XPatrocini:
 MediaPartner: senzabarcode, radioradicale,infomedia,lalegatoria
 
 
-Il ** 2 e 3 luglio 2015 ** a Roma si è svolta la
-XVII edizione di **e-privacy**, sul tema:
+Legenda:
 
-**La trasparenza e la privacy**: _il bilanciamento tra le necessità di trasparenza e pubblicità, e le aspettative di rispetto della privacy, dell’anonimato e della segretezza._
-
-
-** Sono disponibili le registrazioni video dell'intero convegno ** [prima giornata](http://www.radioradicale.it/scheda/446735/la-trasparenza-e-la-privacy-il-bilanciamento-tra-le-necessita-di-trasparenza-e) e [seconda giornata](http://www.radioradicale.it/scheda/447017/xvii-edizione-di-e-privacy-sul-temala-trasparenza-e-la-privacy-il-bilanciamento-tra-le).
-
-Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più intimi dettagli. L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore pubblico ed istituzionale.
+Icona | Descrizione
+---- | ----
+![pdf](/images/icon/presentation.png) | Presentazione PDF
+![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT
+![pdf](/images/icon/handouts.png) | Handouts
+![pdf](/images/icon/document.png) | Documento (PDF)
+![URL](/images/icon/link.png) | Link online
 
 ### <a name="programma"></a>Programma del Convegno
  
@@ -39,7 +40,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
   ------- | ------- | ------- |
 9:00  | [_Marco Calamari_](/e-privacy-XVII-relatori.html#calamari) <br/>([Progetto Winston Smith](http://pws.winstonsmith.org))<br/>[On. Walter Rizzetto](http://www.camera.it/leg17/29?shadow_deputato=305688&idLegislatura=17)<br/>([Alternativa Libera](http://alternativalibera.org)) | *Apertura lavori* |
 9:30  | [_Diego Giorio_](/e-privacy-XVII-relatori.html#giorio) | [![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_GI_0930_GIORIO_SP-PPT_Diego_GIORIO_-_Privacy_e_Trasparenza_2_luglio.pptx) [Privacy e trasparenza Antonimi, sinonimi o variabili indipendenti? L’esperienza degli Enti Pubblici](/e-privacy-XVII-interventi.html#giorio)<br/> [![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2015/altro/JULIA_GI_GIORIO_HO-PDF_Diego_GIORIO_-_Privacy_e_Trasparenza_2_luglio.pdf) [![pdf](/images/icon/document.png)](http://urna.winstonsmith.org/materiali/2015/altro/JULIA_GI_GIORIO_MA-PDF_Diego_GIORIO_-_Privacy_e_Trasparenza_relazione.pdf)
-10:00 | [_Stefano  Aterno_](/e-privacy-XVII-relatori.html#aterno) | [![pptx](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_GI_1000_SP-PDF_ATERNO_eprivacy_Roma_2015.pptx) [La Sicurezza come diritto di libertà e il ruolo della Privacy nel prossimo futuro](/e-privacy-XVII-interventi.html#aterno) <br/> [![pdf](/images/icon/document.png)](http://urna.winstonsmith.org/materiali/2015/altro/la_sicurezza_come_diritto_di_liberta_e_il_ruolo_della_privacy_nel_prossimo_futuro.pdf)
+10:00 | [_Stefano  Aterno_](/e-privacy-XVII-relatori.html#aterno) | [![pptx](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_GI_1000_SP-PDF_ATERNO_eprivacy_Roma_2015.pptx) [La Sicurezza come diritto di libertà e il ruolo della Privacy nel prossimo futuro](/e-privacy-XVII-interventi.html#aterno) 
 10:30 |  [_Alessandro Rodolfi_](/e-privacy-XVII-relatori.html#rodolfi), [_Emmanuele Somma_](/e-privacy-XVII-relatori.html#somma) | [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_GI_1030_RODOLFI-SOMMA_eprivacy2015_Rodolfi_v1.pdf) [Trasparenza e privacy in un modello di maturità delle iniziative di whistleblowing](/e-privacy-XVII-interventi.html#rodolfi) 
 10:45 | Pausa |
 11:00 | [_Francesco Paolo Micozzi_](/e-privacy-XVII-relatori.html#micozzi) | [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_GI_1100_MICOZZI_SP-PDF_Micozzi_Francesco-Paolo_Privacy_e_trasparenza,_termini_inconciliabili.pdf) [Privacy e trasparenza: due termini inconciliabili?](/e-privacy-XVII-interventi.html#micozzi) 
@@ -67,7 +68,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 11:15|| Pausa
 11:30| [_Riccardo Abeti_](/e-privacy-XVII-relatori.html#abeti) | [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1130_ABETI_SP-PDF_Abeti_Riccardo_Anonimizzazione.pdf) [![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1130_ABETI_SP-PPT_Abeti_Riccardo_Anonimizzazione.pptx) [La condizione di anonimato è un concetto statico o dinamici](/e-privacy-XVII-interventi.html#abeti)
 12:00| [_Valerio Vertua_](/e-privacy-XVII-relatori.html#vertua) | [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1200_VERTUA_SP-PDF_Vertua_E_Privacy_2015.pdf) [Garante Privacy e profilazione on line](/e-privacy-XVII-interventi.html#vertua)<br/>[![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2015/altro/JULIA_VE_VERTUA_HO-PDF_Vertua_E_Privacy_2015.pdf)
-12:30| [_Marta Ghiglioni_](/e-privacy-XVII-relatori.html#ghiglioni) | [![pptx](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1230_GHIGLIONI_SP-PPT_Ghiglioni_eprivacy.pdf) [Enterprise Social Network: tra trasparenza dei processi lavorativi e controllo profilato del lavoratori](/e-privacy-XVII-interventi.html#ghiglioni)<br/>[![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2015/altro/JULIA_VE_GHIGLIONI_HO-PDF_Ghiglioni_handouts_eprivacy.pdf)
+12:30| [_Marta Ghiglioni_](/e-privacy-XVII-relatori.html#ghiglioni) | [![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1230_GHIGLIONI_SP-PPT_Ghiglioni_eprivacy.pptx) [Enterprise Social Network: tra trasparenza dei processi lavorativi e controllo profilato del lavoratori](/e-privacy-XVII-interventi.html#ghiglioni)<br/>[![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2015/altro/JULIA_VE_GHIGLIONI_HO-PDF_Ghiglioni_handouts_eprivacy.pdf)
 13:00| [_Italo Cerno_](/e-privacy-XVII-relatori.html#cerno) | [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1300_CERNO_SP-PPT_CERNO_ITALO_Programmatic_buying_e_profilazione_dell'utente_03_luglio_2015.pdf) [![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2015/atti/JULIA_VE_1300_CERNO_SP-PPT_CERNO_ITALO_Programmatic_buying_e_profilazione_dell'utente_03_luglio_2015.pptx)  [Programmatic Buying e profilazione dell’utenza](/e-privacy-XVII-interventi.html#cerno)
 13:30|| Pausa pranzo
 14:40|| Apertura lavori pomeridiani
@@ -81,21 +82,5 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 18:00|| Chiusura lavori[.](/images/sfondo.png)
 
 
-### Sede di e-privacy 2015 spring edition
-
-La sede di e-privacy 2015 spring edition sarà la [ Nuova Sala dei Gruppi ](http://leg16.camera.it/585?raccolta=1082&rcgrp=Altri+Palazzi&Altri+Palazzi+%2F+Palazzo+dei+Gruppi+) presso la Camera dei Deputati, Via Campo Marzio 78.
-
-![La foto di Umberto Battaglia è tratta da http://leg16.camera.it/](http://leg16.camera.it/fotoac/?img=2328/0000/01308d88568e/BAT_7795.JPG)
-
-### Organizzazione
-
-La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritti Umani Digitali e dal Progetto Winston Smith. 
-
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
-
-### Contatti
-
-Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
 

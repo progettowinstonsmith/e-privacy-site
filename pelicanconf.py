@@ -37,18 +37,20 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
+THIS_TITLE = "E-PRIVACY 2015 - WINTER"
+
 THIS = (
-    #    ('Proposta Talk', '/e-privacy-XVII-proposta.html'),
-    #    ('Call for Paper', '/e-privacy-XVII-cfp.html'),
-    ('Il programma', '/e-privacy-XVII-programma.html'),
-    ('Gli interventi', '/e-privacy-XVII-interventi.html'),
-    ('I relatori', '/e-privacy-XVII-relatori.html'),
-    ('Call for Sponsor', '/e-privacy-XVII-cfs.html'),
-    ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
-    ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
+    ('Proposta Talk', '/e-privacy-XVIII-proposta.html'),
+    ('Call for Paper', '/e-privacy-XVIII.html'),
+    # ('Il programma', '/e-privacy-XVII-programma.html'),
+    # ('Gli interventi', '/e-privacy-XVII-interventi.html'),
+    # ('I relatori', '/e-privacy-XVII-relatori.html'),
+    ('Call for Sponsor', '/e-privacy-XVIII-cfs.html'),
+    # ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
+    # ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
-    ('Contatti', '/contatti.html'),
+    ('Contatti', '/contatti-XVIII.html'),
 )
 
 # PAGINATION_PATTERNS = (
@@ -59,7 +61,8 @@ THIS = (
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
-    ('e-privacy 2015 spring XVII', '/'),
+    ('e-privacy 2015 winter XVIII', '/'),
+    ('e-privacy 2015 spring XVII', '/e-privacy-XVII.html'),
     ('e-privacy 2014 winter XVI', '/e-privacy-XVI.html'),
     ('e-privacy 2014 spring XV', '/e-privacy-XV.html'),
     ('e-privacy 2013 winter XIV', '/e-privacy-XIV.html'),

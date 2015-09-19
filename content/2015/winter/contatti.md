@@ -1,9 +1,9 @@
 Template: event
 Title: Contatti
-Date: 2015-06-04 10:20
+Date: 2015-08-22 10:20
 Category: 2015
 lang: it
-slug: contatti
+slug: contatti-XVIII
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 # Informazioni di contatto
@@ -21,6 +21,7 @@ Solo i relatori
 
 [CFP-EPRIVACY@WINSTONSMITH.ORG](mailto:cfp-eprivacy@winstonsmith.org)
 
+<!--
 # Luogo della conferenza
 
 <script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>
@@ -44,6 +45,8 @@ infowindow.open(map,marker);
 }
 google.maps.event.addDomListener(window, 'load', init_map);
 </script>
+
+-->
 
 # Seguici online
 
