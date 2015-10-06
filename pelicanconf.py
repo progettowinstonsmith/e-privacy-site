@@ -40,11 +40,11 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "E-PRIVACY 2015 - WINTER"
 
 THIS = (
-    ('Proposta Talk', '/e-privacy-XVIII-proposta.html'),
-    ('Call for Paper', '/e-privacy-XVIII.html'),
-    # ('Il programma', '/e-privacy-XVII-programma.html'),
-    # ('Gli interventi', '/e-privacy-XVII-interventi.html'),
-    # ('I relatori', '/e-privacy-XVII-relatori.html'),
+    # ('Proposta Talk', '/e-privacy-XVIII-proposta.html'),
+    # ('Call for Paper', '/e-privacy-XVIII.html'),
+    ('Il programma', '/e-privacy-XVIII-programma.html'),
+    ('Gli interventi', '/e-privacy-XVIII-interventi.html'),
+    ('I relatori', '/e-privacy-XVIII-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XVIII-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
     # ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
@@ -105,6 +105,7 @@ PARTNERS = {
     'assodigitale': ('Assodigitale', 'assodigitale.jpg', "https://www.assodigitale.it"),
     'assoprovider': ('AssoProvider', 'assoprovider.jpg', 'http://www.assoprovider.it'),
     'bba': ('Big Brother Awards', 'bba.png', 'http://www.bigbrotherawards.org'),
+    'com_cagliari2015': ('Comune di Cagliari', 'comune-cagliari-2015.png', 'http://comune.cagliari.it/portale'),
     'cagliari': ('Comune di Cagliari', 'comune-cagliari.png', 'http://comune.cagliari.it/portale'),
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
     'cgt': ('Circolo dei Giuristi Telematici', 'cgt.gif', 'http://www.giuristitelematici.it'),
@@ -130,9 +131,12 @@ PARTNERS = {
     'nexa': ('Centro Nexa', 'nexa.jpg', 'http://nexa.polito.it/press-kit'),
     'nextel': ('Nextel Italia S.r.l.', 'nextel.png', 'http://www.nextel.it'),
     'no1984.org': ('No1984.org', 'no1984.png', 'http://www.no1984.org'),
+    'oda_cagliari': ('Ordine degli Avvocati di Cagliari','oda-cagliari.png','http://www.ordineavvocaticagliari.it'),
+    'odg_sardegna': ('OdG Sardegna', 'odg-sardegna.png', 'http://odg.sardegna.it'),
     'puntoi': ('Punto Informatico', 'pi.png', 'http://www.punto-informatico.it'),
     'pws': ('Progetto Winston Smith', 'pws.png', 'http://pws.winstonsmith.org'),
     'recursiva': ('Rekursiva', 'recursiva_logo.png', 'http://www.recursiva.org'),
+    'reg_sardegna': ('Regione Sardegna','regione-sardegna.png','http://regione.sardegna.it'),
     's0ftpj': ('s0ftpj', 's0ftpj_logo.png', 'http://www.s0ftpj.org'),
     'sardegnaricerche': ('Sardegna Ricerche', 'sardegnaricerche.png', 'http://www.sardegnaricerche.it/'),
     'scpol': ('Facoltà di Scienze Politiche - Università degli Studi di Firenze', 'unifi.jpg', 'http://www.scpol.unifi.it'),
@@ -150,6 +154,8 @@ PARTNERS = {
     'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
     'lalegatoria': ('la legatoria', 'lalegatoria.jpg', 'http://www.lalegatoria.it'),
 }
+
+
 
 DEFAULT_PAGINATION = 1
 

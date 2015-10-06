@@ -5,7 +5,7 @@ Category: 2015
 lang: it
 Num: XVIII
 Year: 2015
-slug: e-privacy-XVIII
+slug: e-privacy-XVIII-cfp
 City: Cagliari
 Where: Mediateca del Mediterraneo<br/>
 When: 16/17 ottobre
@@ -19,8 +19,6 @@ XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
 XMediaPartner: senzabarcode,radioradicale,infomedia,lalegatoria
 MediaPartner: infomedia
-
-### È **aperto**  il Call for Paper di e-privacy 2015 winter edition
 
 **e-privacy XVIII 2015 (winter edition)** si svolgerà il 16 e 17 ottobre 2015 (venerdì e sabato) a Cagliari.
 
