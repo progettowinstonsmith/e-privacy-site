@@ -126,9 +126,7 @@ Con l'entrata in vigore del d.lgs. 151/2015, lo scorso 24 settembre, è radicalm
 ### <a name="sarzana"></a>Fulvio Sarzana
 **Captatori informatici, intercettazioni on line e controllo remoto del pc. Norme e Giurisprudenza**  
 
-La relazione descriverà il panorama normativo e giurisprudenziale dei captatori informatici e delle intercettazioni on line, soffermandosi in particolare sulle norme codicistiche ed extra ordinem relative ai fenomeni summenzionati. Verranno analizzate le sentenze della Corte di Cassazione in merito, e le prassi investigative adottate.
-L'analisi dei recenti casi di cronaca permetterà di rilevare l'applicazione pratica dei limiti e dei divieti stabiliti dalle norme esistenti.
-Completerà la relazione un overview sulla disciplina costituzionale delle comunicazioni personali, dei sistemi di controlllo della privacy, e sui diritti alla propria identità digitale
+La relazione descriverà il panorama normativo e giurisprudenziale dei captatori informatici e delle intercettazioni on line, soffermandosi in particolare sulle norme codicistiche ed extra ordinem relative ai fenomeni summenzionati. Verranno analizzate le sentenze della Corte di Cassazione in merito, e le prassi investigative adottate. L'analisi dei recenti casi di cronaca permetterà di rilevare l'applicazione pratica dei limiti e dei divieti stabiliti dalle norme esistenti. Completerà la relazione un overview sulla disciplina costituzionale delle comunicazioni personali, dei sistemi di controlllo della privacy, e sui diritti alla propria identità digitale
 
 
 ### <a name="vacca"></a>Manuela Vacca

@@ -106,7 +106,7 @@ PARTNERS = {
     'assoprovider': ('AssoProvider', 'assoprovider.jpg', 'http://www.assoprovider.it'),
     'bba': ('Big Brother Awards', 'bba.png', 'http://www.bigbrotherawards.org'),
     'com_cagliari2015': ('Comune di Cagliari', 'comune-cagliari-2015.png', 'http://comune.cagliari.it/portale'),
-    'cagliari': ('Comune di Cagliari', 'comune-cagliari.png', 'http://comune.cagliari.it/portale'),
+    'cagliari': ('Comune di Cagliari', 'comune-cagliari.png', 'http://comune.cagliari.it'),
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
     'cgt': ('Circolo dei Giuristi Telematici', 'cgt.gif', 'http://www.giuristitelematici.it'),
     'clusit': ('Associazione Italiana per la Sicurezza Informatica', 'clusit.jpg', 'http://www.clusit.it/'),
