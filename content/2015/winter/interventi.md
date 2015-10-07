@@ -14,10 +14,12 @@ Season: inverno
 previd: 2015W
 prev: e-privacy-XVIII
 Organizzatori: hermes,pws,cgt
-XCollaboratori: al,PI,bba,asr
+Collaboratori: PI,bba
+Sponsor: sepel,sikurezza.org,ush
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
+
 
 <!--
 <div style="width:100%; text-align:left;" ><iframe

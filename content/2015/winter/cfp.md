@@ -14,11 +14,11 @@ Season: inverno
 previd: 2015
 prev: e-privacy-XVII
 Organizzatori: hermes,pws,cgt
-XCollaboratori: al,PI,bba,asr
+Collaboratori: PI,bba
+Sponsor: sepel,sikurezza.org,ush
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-XPatrocini: 
-XMediaPartner: senzabarcode,radioradicale,infomedia,lalegatoria
 MediaPartner: infomedia
+Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
 
 **e-privacy XVIII 2015 (winter edition)** si svolgerà il 16 e 17 ottobre 2015 (venerdì e sabato) a Cagliari.
 
