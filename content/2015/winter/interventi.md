@@ -139,7 +139,26 @@ Il fatto che la sede della società sia in Italia ha creato un reale interesse, 
 
 ### <a name="vaciago"></a>Giuseppe Vaciago (Tech & Law Center)
 
-???
+Dalla sentenza della Corte Costituzionale Tedesca (Bundesgerichtshof)
+del novembre del 2006 in cui per la prima volta venne dichiarata
+incostituzionale una norma che permetteva l’utilizzo, per finalità di
+sicurezza nazionale, dei captatori informatici, altri tentativi sono
+stati fatti a livello Europeo. Il Portogallo con l’emanazione della Lei
+109/2009 nota anche come “Cybercrime Law” ha introdotto all’art. 19
+comma 2 una possibilità analoga a quella tedesca, lasciando tuttavia
+ampio spazio per speculazioni di natura costituzionale. A livello
+spagnolo, invece non vi sono normative specifiche di riferimento, ma la
+giurisprudenza è sembrata propensa a legittimare il captatore
+informatico. Da ultimo l’Italia ha tentato, con il disegno di legge
+antiterrorismo, di introdurre tale norma, salvo poi repentinamente
+tornare sui propri passi in attesa di una riforma della legge sulle
+intercettazioni.
+In un momento così delicato per il futuro delle investigazioni digitali,
+non si può prescindere da una disamina del contesto europeo per poter
+consentire un corretto bilanciamento di interessi delle necessità
+investigative e quindi di sicurezza dei cittadini e la garanzia di un
+corretto rispetto non solo della privacy dei cittadini, ma anche e
+soprattutto dei diritti fondamentali degli indagati.
 
 
 ### <a name="vieri"></a>Giovambattista Vieri (ENT srl)

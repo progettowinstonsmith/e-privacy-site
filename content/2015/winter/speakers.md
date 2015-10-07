@@ -112,6 +112,11 @@ Direttivo di ANORC, Associazione Nazionale per Operatori e
 Responsabili della Conservazione Digitale, e di ABIRT, Advisory Board
 Italiano dei Responsabili del Trattamento dei dati personali. "
 
+### <a name="bonavita"></a>Simone Bonavita (Perani Pozzi Associati - Università degli Studi di Milano)
+
+
+Avvocato ed hacker, si interessa del rapporto tra tecnologia e diritto. E' Professore a contratto in trattamento dei dati sensibili presso l'Università degli Studi di Milano per l’anno accademico in corso e cultore della materia di Informatica Giuridica base (prof. G. Ziccardi) ed avanzata (prof. P. Perri) sempre presso la medesima Università. E' altresì docente del corso di perfezionamento in "Computer Forensics ed indagini digitali" e responsabile del modulo di reputazione e diritto all'interno del master in "Reputation Management" presso l'Università IULM. Pubblica su numerose riviste scientifiche, analizzando il rapporto tra il diritto e le nuove tecnologie, il trattamento dei dati personali e la responsabilità del provider. Svolge la sua attività professionale presso lo Studio Legale Perani Pozzi Associati
+
 ### <a name="ghiglioni"></a>Marta Ghiglioni (Perani Pozzi Associati --- Università degli Studi di Milano)
 
 Marta Ghiglioni è tutor presso le cattedre di Informatica giuridica e
