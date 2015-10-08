@@ -38,7 +38,27 @@ Eventbrite</a></div></div>
 
 
 ### <a name="speakers"></a>I Relatori
- 
+
+
+#### <a name="busia"></a> Giuseppe Busia (Segretario Generale Garante Privacy)
+
+     
+Giuseppe Busia (1969), ha iniziato a lavorare presso il Garante fin dalla sua istituzione ed ha assunto l'incarico di Segretario generale dal luglio 2012.
+
+Avvocato, ha fra l'altro conseguito il Dottorato di ricerca in Teoria dello Stato e istituzioni politiche comparate presso l'Università di Roma "La Sapienza"; il Dottorato di ricerca in Diritto dell'economia presso l'Università degli Studi di Foggia; il Diploma di primo e di secondo livello della Faculté Internationale de Droit Comparé di Strasburgo, nonché il Diploma dell'Académie Internationale de Droit Constitutionnel di Tunisi, oltre ad aver svolto corsi di master e perfezionamento presso la New York University (New York- USA), la Scuola di scienza e tecnica della legislazione (ISLE) di Roma, la LUISS Business School di Roma, l'Universitad Católica Argentina (Buenos Aires).
+
+Dal 2008 al 2012 è stato Segretario generale dell'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture.
+
+Dal 2006 al 2008 ha ricoperto l'incarico di Direttore della Conferenza Stato–Regioni nonché di Segretario della Conferenza Unificata Stato, Regioni e Autonomie locali presso la Presidenza del Consiglio dei ministri.
+
+Nel 2006 è stato inoltre vice capo di Gabinetto del Ministero dei beni culturali.
+
+Dal 1998 al 2005 ha fatto parte dell'Autorità di Controllo Comune istituita dalla Convenzione Europol, di cui è stato vice presidente del Comitato di Appello, nonché del'Autorità di Controllo Comune prevista dalla Convenzione sull'uso dell'informatica nel settore doganale, del quale è stato anche vicepresidente.
+
+Ha svolto e svolge attività di docenza in diverse università italiane ed è autore di numerose pubblicazioni a carattere scientifico.
+
+
+
 #### <a name="calamari"></a> Marco Calamari (Progetto Winston Smith --- HERMES)
 
 Marco Calamari è ingegnere, classe 1955. Nel 1976 si è comprato,
