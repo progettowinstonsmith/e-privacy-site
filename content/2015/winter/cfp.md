@@ -11,8 +11,8 @@ Where: Mediateca del Mediterraneo<br/>
 When: 16/17 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: inverno
-previd: 2015
-prev: e-privacy-XVII
+previd: programma
+prev: e-privacy-XVIII-programma
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
 Sponsor: sepel,sikurezza.org,ush
