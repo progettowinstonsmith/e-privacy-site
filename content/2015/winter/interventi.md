@@ -15,7 +15,7 @@ previd: 2015W
 prev: e-privacy-XVIII
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
-Sponsor: sepel,sikurezza.org,ush
+Sponsor: sepel,sikurezza.org,ush,isgroup
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
@@ -104,23 +104,27 @@ L’intervento analizzerà queste tecnologie dal punto di vista legale, individu
 Fino a che punto siamo disposti a sacrificare la privacy in ragione della massimizzazione del profitto dell’imprenditore?
 
 ### <a name="ghirardini"></a>Andrea Ghirardini (HERMES)
+**Trojan di Stato (Ops, captatori informatici): ovvero come lo stato
+gioca a fare il blackhat**  
 
-**Da inserire**
+La diffusione della crittografia pervasiva (oltre ad uno "scattering"
+elevato dei nostri dati) ha reso via via sempre più difficile l'utilizzo
+delle intercettazioni a fini investigativi. Per questo le vari LEA hanno
+deciso di utilizzare una "scorciatoia" decisamente pericolosa, ovvero
+quella di utilizzare un sistema di intercettazione ben più invasivo e
+lesivo per la nostra privacy. Esaminiamo quindi pro, contro e
+funzionamento di queste tecnologie
+
 
 ### <a name="giorio"></a>Diego Giorio (SEPEL Editrice)
 **Necessità di indagine e tutele costituzionali fra mondo reale e mondo virtuale**  
 
-Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
-una multinazionale di seminconduttori prima, nel marketing e nel web
-marketing poi, ho successivamente avuto altre esperienza professionali
-prima di approdare alla Pubblica Amministrazione, nei servizi
-demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare
-con SEPEL articoli in varie materie demografiche e di interesse
-generale della PA, ho tenuto corsi di formazione per un'Associazione
-di settore, dopo avere ottenuto il titolo di formatore dal Ministero
-dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla
-PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
-relatore.
+
+Alcuni comportamenti esistono da sempre e vengono sanzionati, almeno fin da quando possiamo risalire attraverso una legge scritta.
+Con l’informatica non è cambiato nulla o quasi: furto, assassinio, ricatto restano reati sia nel mondo reale che in quello virtuale, e neppure occorre modificare la Costituzione o stravolgere il diritto, fatte salve alcune tipicità.
+Col reato resta la necessità di indagine, di raccolta delle prove, la valutazione in giudizio. Come restano le garanzie e le libertà costituzionali.
+Posti di blocco, intercettazioni, perquisizioni sono ritenuti accettabili; per contro devono avvenire sotto determinate tutele, inclusa la proporzionalità. Dato che alcuni reati avvengono esclusivamente on-line, un’azione classica è inutile, ed è indispensabile fornire alle forze di polizia strumenti per contrastarli. Il che implica effettuare una sorveglianza nel mondo digitale, necessaria, ma vincolata al controllo democratico ed alle garanzie del mondo reale.
+I punti chiave sono pertanto: Chi installa il captatore? Chi controlla? Chi controlla i controllori? Cosa accade se si verificano abusi? Per quanto tempo vengono conservate le informazioni? Cosa avviene delle informazioni raccolte casualmente e non inerenti l’indagine?
 
 ### <a name="micozzi"></a>Francesco Paolo Micozzi (Circolo dei Giuristi Telematici --- Fondazione Italiana per l'Innovazione Forense)
 **Come ti tecnocontrollo il lavoratore**  
@@ -142,6 +146,7 @@ Il fatto che la sede della società sia in Italia ha creato un reale interesse, 
 
 
 ### <a name="vaciago"></a>Giuseppe Vaciago (Tech & Law Center)
+**I captatori informatici nel contesto Europeo. Quattro casi a confronto: Germani, Portogallo, Spagna e Italia**  
 
 Dalla sentenza della Corte Costituzionale Tedesca (Bundesgerichtshof)
 del novembre del 2006 in cui per la prima volta venne dichiarata
@@ -200,7 +205,9 @@ Obiettivo di questa relazione sarà capire meglio come sono implementati i perme
 
 ### Organizzazione
 
-La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritti Umani Digitali e dal Progetto Winston Smith. .
+La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza
+e Diritti Umani Digitali e dal Progetto Winston Smith e dal Circolo dei
+Giuristi Telematici.
 
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.

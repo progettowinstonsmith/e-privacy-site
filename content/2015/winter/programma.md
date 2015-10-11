@@ -15,7 +15,7 @@ previd: 2015
 prev: e-privacy-XVII
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
-Sponsor: sepel,sikurezza.org,ush
+Sponsor: sepel,sikurezza.org,ush,isgroup
 XSponsor: grusp,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
@@ -26,7 +26,7 @@ Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
 Il ** 16 e 17 ottobre 2015 ** (venerdì e sabato) a Cagliari si svolgerà la
 XVIII edizione di **e-privacy**. Il tema di questa edizione è:
 
-**Captatori Informatici e società civile: una convivenza possibile?**
+**Captatori Informatici e società civile: una convivenza possibile?** ([Locandina](http://e-privacy.winstonsmith.org/images/locandine/Locandina%20E-Privacy%20AE2015_def.pdf))
 
 
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più intimi dettagli. L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore pubblico ed istituzionale.
@@ -38,7 +38,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** |
   ------- | ------- | ------- |
-09:30 | Comune di Cagliari (Assessore AA.GG. Anna Paola Loi) [_M. Calamari_](/e-privacy-XVIII-relatori.html#calamari), [_F.P.Micozzi_](/e-privacy-XVIII-relatori.html#micozzi), [_G.B. Gallus_](/e-privacy-XVIII-relatori.html#gallus) | Saluto delle Amministrazioni e degli organizzatori |
+09:30 | Comune di Cagliari (Assessore ai Servizi Informativi e Informatici _Anna Paola Loi_) [_M. Calamari_](/e-privacy-XVIII-relatori.html#calamari), [_F.P.Micozzi_](/e-privacy-XVIII-relatori.html#micozzi), [_G.B. Gallus_](/e-privacy-XVIII-relatori.html#gallus) | Saluto delle Amministrazioni e degli organizzatori |
 10:00  |	[_Claudio Guarnieri_](/e-privacy-XVIII-relatori.html#guarnieri) | [Cyberpolizia, Cyberguerra, e Cyberpace](/e-privacy-XVIII-interventi.html#guarnieri) |
 10:30  |	[_Andrea Ghirardini_](/e-privacy-XVIII-relatori.html#ghilardini) |	[Trojan di Stato (Ops, captatori informatici): ovvero come lo stato gioca a fare il blackhat](/e-privacy-XVIII-interventi.html#ghilardini) |
 11:00 | Intervallo	|
@@ -46,7 +46,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 11:45 | [_Manuela Vacca_](/e-privacy-XVIII-relatori.html#vacca) <br/> [Renato Gabriele](/e-privacy-XVIII-relatori.html#gabriele) | [Big data su Hacking Team, cronache social di un hacked team](/e-privacy-XVIII-interventi.html#vacca) |
 12:15 | [_Elena Bassoli_](/e-privacy-XVIII-relatori.html#bassoli) | [La responsabilità algoritmica tra privacy e segreto industriale](/e-privacy-XVIII-interventi.html#bassoli) |
 12:30 | [_Riccardo Abeti_](/e-privacy-XVIII-relatori.html#abeti) | [“Sorveglianza” di lavoratori, studenti e cittadini in nome di una trasparenza a senso unico](/e-privacy-XVIII-interventi.html#abeti1) |
-12:45 | *Pranzo* | |
+12:45 | *Pausa* | |
 15:00 |	[_Diego Giorio_](/e-privacy-XVIII-relatori.html#giorio) |	[Necessità di indagine e tutele costituzionali fra mondo reale e mondo virtuale](/e-privacy-XVIII-interventi.html#giorio) |
 15:30 |	[_Riccardo Abeti_](/e-privacy-XVIII-relatori.html#abeti) | [Dalle minacce alla riservatezza dell’individuo alle minacce alla libertà di opinione delle moltitudini](/e-privacy-XVIII-interventi.html#abeti2) |
 15:45 |	[_Antonio Langiu_](/e-privacy-XVIII-relatori.html#langiu) <br/> [_Simone Basso_](/e-privacy-XVIII-relatori.html#basso)  | [App, Store e Società: permessi e profilazione](/e-privacy-XVIII-interventi.html#langiu) |
@@ -57,7 +57,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 18:00 |	[_Fulvio Sarzana_](/e-privacy-XVIII-relatori.html#sarzana) | [Captatori informatici, intercettazioni on line e controllo remoto del pc. Norme e Giurisprudenza](/e-privacy-XVIII-interventi.html#sarzana) |
 18:30 |	Staff |	Conclusioni della giornata
 
-#### <a name="ve"></a>Venerdì 3 Luglio 2015
+#### <a name="ve"></a>Sabato 17 Ottobre 2015
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** |
   ------- | ------- | ------- |
@@ -67,8 +67,8 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 11:15	|	[_Giuseppe Vaciago_](/e-privacy-XVIII-relatori.html#vaciago)	|	[I captatori informatici nel contesto Europeo. Quattro casi a confronto: Germani, Portogallo, Spagna e Italia](/e-privacy-XVIII-interventi.html#vaciago) |
 11:45	|	[_Giovanni Battista Gallus_](/e-privacy-XVIII-relatori.html#gallus), [_Francesco Paolo Micozzi_](/e-privacy-XVIII-relatori.html#micozzi)	|	[Captatori informatici a trojan by any other name would spy as sweet, reloaded](/e-privacy-XVIII-interventi.html#gallus) |
 12:15	|	[_Prof. Gianmario Demuro, Assessore Affari Generali RAS_](/e-privacy-XVIII-relatori.html#demuro), [_Dr. Paolo De Angelis, Magistrato – Procura della Repubblica presso il Tribunale di Cagliari_](/e-privacy-XVIII-relatori.html#deangelis)	|	*Conclusioni* |
-13:00	|	Staff	|	Saluti | 
-
+13.00   |   [_Marietje Schaake_](http://www.europarl.europa.eu/meps/fr/96945/MARIETJE_SCHAAKE_home.html)  (Deputato del Parlamento Europeo, Gruppo dell'Alleanza dei  Democratici e dei Liberali per l’Europa) | Videomessaggio 
+13:30	|	Staff	|	Saluti | 
 
 
 ### Sede del Convegno
@@ -78,10 +78,17 @@ La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo
 ![La foto è tratta da www.comunecagliarinews.it]({filename}/images/sale/mediatecamediterraneocagliari.jpg
  "foto pubblicata su www.comunecagliarinews.it")
 
+### Formazione professionale avvocati
+
+È stato concesso l'accreditamento per la formazione professionale al
+Consiglio dell'Ordine degli Avvocati di Cagliari, per n. 20 punti.
+
 
 ### Organizzazione
 
-La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritti Umani Digitali e dal Progetto Winston Smith. .
+La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza
+e Diritti Umani Digitali e dal Progetto Winston Smith e dal Circolo dei
+Giuristi Telematici.
 
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.

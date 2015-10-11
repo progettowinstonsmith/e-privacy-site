@@ -15,7 +15,7 @@ previd: programma
 prev: e-privacy-XVIII-programma
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
-Sponsor: sepel,sikurezza.org,ush
+Sponsor: sepel,sikurezza.org,ush,isgroup
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
@@ -92,7 +92,7 @@ Associazione Privacy and Information Healthcare Manager).
 Claudio Agosti, programmatore dedicato alla privacy ed alla sicurezza informatica. Negli ultimi anni ho lavorato al progetto GlobaLeaks e Trackography. Potete trovare su youtube degli imbarazzanti video in italiano ed in inglese, utilizzando anche la keyword "vecna" che è un vecchio nickname con il quale ero conosciuto. Vice-presidente del centro studi Hermes, al momento vive a Berlino e lavora con Tactical Tech.
 
 
-### <a name="blengino"></a>Carlo Blengino
+### <a name="blengino"></a>Carlo Blengino (Nexa Center for Internet & Society)
 
 Avvocato, svolge la professione esclusivamente nel settore penale, in
 particolare nel settore dei reati colposi, delle responsabilità
@@ -159,6 +159,7 @@ servizi critici e sicurezza informatica.
 
 ### <a name="giorio"></a>Diego Giorio (SEPEL Editrice)
 
+
 Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
 una multinazionale di seminconduttori prima, nel marketing e nel web
 marketing poi, ho successivamente avuto altre esperienza professionali
@@ -206,7 +207,7 @@ Fulvio Sarzana di S. Ippolito,  si è laureato in Giurisprudenza all’Universit
 Nel Corso della sua attività professionale si è occupato principalmente di tematiche legate ai diritti fondamentali e rete internet  e ha partecipato in qualità di consigliere giuridico di Associazioni di operatori di comunicazione elettronica  a diversi tavoli di lavoro Ministeriali per la regolamentazione dell’ICT.
 
 
-### <a name="senor"></a>Monica A. Senor (Nexa Center for Internet & Society --- Circolo Giuristi Telematici)
+### <a name="senor"></a>Monica A. Senor (Nexa Center for Internet & Society)
 
 Avvocato penalista, sua attività professionale è rivolta in particolare alla consulenza ed alla tutela giudiziaria in tema di privacy, data protection e diritto penale legato alle nuove tecnologie, nonché, più in generale, ai risvolti penalistici del diritto fallimentare e del diritto di famiglia. A livello processuale, è specializzata in digital e biometric forensics.
 È membro della Commissione Informatica dell'Ordine degli avvocati di Torino, per il quale sta seguendo l'implementazione del processo penale telematico nel distretto di Torino.
@@ -255,9 +256,30 @@ di Storia (antica e recente) e sport. Amo la cucina e la buona tavola
 condita da discussioni interessanti.
 
 
-### <a name="carletti"></a>Fabio Carletti (lejot opensource tecnology)
+### <a name="demuro"></a>Prof. Gianmario Demuro, Assessore Affari Generali RAS
 
-Fabio Carletti specializzato nella sicurezza IT informatica da 10 anni si occupa di testing di progetti free-opensource ,membro del team italiano openbsd-openbeer e attivo nel mondo dell'underground italiano nei progetti di anonimato e security it. Investe il tempo libero in formazione permanete tramite corsi all'estero.Socio clusit e evangelist della filosofia opensource e della sicurezza informatica e privacy.
+professore Ordinario di Diritto Costituzionale, Facoltà di
+Giurisprudenza, Università degli studi di Cagliari.
+
+Adjunct Professor in European Governance presso John Marshall Law
+School di Chicago.
+Direttore del Master su "La Governance multilivello", è stato
+Componente del Direttivo della Associazione dei costituzionalisti
+italiani e del Comitato scientifico del Corso di Dottorato di ricerca
+in Diritto costituzionale dell'Università di Ferrara.
+
+Componente della Direzione scientifica della collana editoriale Per
+una koiné costituzionale, Giappichelli editore e Studi di diritto
+pubblico, Franco Angeli editore. Ha tenuto corsi di Diritto
+costituzionale e di European governance, in molte Università europee e
+americane. Autore di oltre cento pubblicazioni, tra cui cinque libri,
+in materia di Diritto costituzionale italiano ed europeo si è
+occupato, in particolare, del funzionamento del sistema delle fonti
+normative, dell’integrazione europea nella tutela multilivello dei
+diritti fondamentali, della ripartizione tra i livelli di governo
+delle competenze in materia ambientale.
+
+
 
 ### <a name="bassoli"></a>Bassoli Elena (Angif)
 
@@ -269,12 +291,27 @@ Antonio Langiu, laureando in Ingegneria Informatica al Politecnico di Torino e I
 
 ### <a name="basso"></a>Simone Basso (Nexa Center for Internet & Society, Politecnico di Torino (DAUIN))
 
-?!?
+Simone Basso è Research Fellow del Centro Nexa su Internet & Società del
+Politecnico di Torino dal 2010. Al Centro Nexa è responsabile di Neubot
+<http://nexa.polito.it/neubot> e Morfeo <http://nexa.polito.it/morfeo>,
+progetti di ricerca riguardanti i temi della performance di rete, della
+trasparenza e della neutralità della rete Internet. È inoltre assistente
+nel corso di Rivoluzione Digitale
+<http://rivoluzionedigitale.polito.it/> del Politecnico di Torino tenuto
+dal Prof. Juan Carlos De Martin. I suoi principali interessi di ricerca
+riguardano performance di rete, neutralità della rete, TCP, sicurezza
+informatica, gestione del traffico Internet, reti peer to peer e
+streaming. Presso il Politecnico di Torino, Simone ha ottenuto la laurea
+triennale (2006), la laurea specialistica (2009) e il dottorato di
+ricerca (2014).
+
 
 
 ### Organizzazione
 
-La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritti Umani Digitali e dal Progetto Winston Smith. .
+La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza
+e Diritti Umani Digitali e dal Progetto Winston Smith e dal Circolo dei
+Giuristi Telematici.
 
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.

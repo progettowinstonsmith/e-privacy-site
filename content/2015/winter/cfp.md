@@ -15,7 +15,7 @@ previd: programma
 prev: e-privacy-XVIII-programma
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
-Sponsor: sepel,sikurezza.org,ush
+Sponsor: sepel,sikurezza.org,ush,isgroup
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
