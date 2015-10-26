@@ -20,8 +20,9 @@ XSponsor: grusp,cgt,OPSI,csa,aipnet
 MediaPartner: infomedia
 Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
 
-
+<!--
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.it/tickets-external?eid=18965399019&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/r/etckt">Con tecnologia Eventbrite</a></div></div>
+-->
 
 Il ** 16 e 17 ottobre 2015 ** (venerdì e sabato) a Cagliari si svolgerà la
 XVIII edizione di **e-privacy**. Il tema di questa edizione è:
