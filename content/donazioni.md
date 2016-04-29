@@ -49,10 +49,15 @@ Se volete fare una donazione indipendentemente dall'acquisizione del biglietto p
 </form>
 </div>
 
-ATTENZIONE: la donazione è assolutamente volontaria ma l'iscrizione al convegno è obbligatoria ANCHE per i relatori. Quindi se intendete venire ad E-Privacy fatela con una donazione o gratuitamente: ma non dimenticatelo!
+ATTENZIONE: la donazione è assolutamente volontaria ma l'iscrizione al
+convegno è obbligatoria ANCHE per i relatori. Quindi se intendete
+venire ad E-Privacy fatela con una donazione o gratuitamente: ma non
+dimenticatelo!
 
-Oltre alle donazioni potete aiutarci con la vostra disponibilità a lavorare ai nostri progetti.
+Oltre alle donazioni potete aiutarci con la vostra disponibilità a
+lavorare ai nostri progetti.
 
-Tutti i progetti di Winston Smith sono esclusivamente realizzati da volontari.
+Tutti i progetti di Winston Smith sono esclusivamente realizzati da
+volontari.
 
 

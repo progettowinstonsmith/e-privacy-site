@@ -11,7 +11,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2015: La trasparenza e la privacy'
+SITENAME = u'e-privacy spring 2016: SPID ed Identità Digitale'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'http://e-privacy.winstonsmith.org'
@@ -22,7 +22,7 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2015'
+YEAR = u'2016'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -37,20 +37,20 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "E-PRIVACY 2015 - WINTER"
+THIS_TITLE = "E-PRIVACY 2016 - SUMMER"
 
 THIS = (
-    # ('Proposta Talk', '/e-privacy-XVIII-proposta.html'),
-    # ('Call for Paper', '/e-privacy-XVIII.html'),
-    ('Il programma', '/e-privacy-XVIII-programma.html'),
-    ('Gli interventi', '/e-privacy-XVIII-interventi.html'),
-    ('I relatori', '/e-privacy-XVIII-relatori.html'),
-    ('Call for Sponsor', '/e-privacy-XVIII-cfs.html'),
+    ('Proposta Talk', '/e-privacy-XIX-proposta.html'),
+    ('Call for Paper', '/e-privacy-XIX.html'),
+    # ('Il programma', '/e-privacy-XVIII-programma.html'),
+    # ('Gli interventi', '/e-privacy-XVIII-interventi.html'),
+    # ('I relatori', '/e-privacy-XVIII-relatori.html'),
+    ('Call for Sponsor', '/e-privacy-XIX-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
     # ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
-    ('Contatti', '/contatti-XVIII.html'),
+    ('Contatti', '/contatti-XIX.html'),
 )
 
 # PAGINATION_PATTERNS = (
@@ -90,6 +90,10 @@ LINKS = (
 
 PARTNERS = {
     # Massimo Melica
+    # Aggiunti nel 2016
+    'APHIM' : ('Associazione Privacy and Information Healthcare Manager', 'aphim.gif', 'http://www.apihm.it/'),
+    'upmansan' : ( 'Master in Management delle Aziende Sanitarie dell’Università di Pisa', 'mansan.jpg', 'http://www.mastermansan.it/'),
+    # Precedenti
     'DFA': ('Digital Forensic Alumni', 'dfa.gif', 'http://www.perfezionisti.it'),
     'DIP': ('Consulente Legale Informatico DIP Srl', 'dip.png', 'http://www.consulentelegaleinformatico.it'),
     'OPSI': ('OPSI', 'opsi.jpg', 'http://opsi.aipnet.it'),
