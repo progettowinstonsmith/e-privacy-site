@@ -40,7 +40,7 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "E-PRIVACY 2016 - SUMMER"
 
 THIS = (
-    ('Proposta Talk', '/e-privacy-XIX-proposta.html'),
+    ('Proposta Talk', 'http://j.mp/call-eprivacy-2016'),
     ('Call for Paper', '/e-privacy-XIX.html'),
     # ('Il programma', '/e-privacy-XVIII-programma.html'),
     # ('Gli interventi', '/e-privacy-XVIII-interventi.html'),

@@ -114,21 +114,21 @@ ai principi.
 
 Le proposte dovranno contenere:
 
- - Nome del relatore
- - Eventuale associazione rappresentata
- - Indirizzo di posta di riferimento
- - Recapito telefonico
- - Titolo
- - Durata prevista dell'intervento e dell'eventuale Q&A
- - Outline dell'intervento (circa 200-300 battute)
- - Necessità di sussidi particolari oltre la videoproiezione
- - (facoltativo) Abstract con riferimenti (meno di 1500 battute)
- - se disponibile alla pubblicazione del materiale sotto licenza libera
- - se disponibile alla pubblicazione di registrazioni audio
- - se disponibile alla pubblicazione di registrazioni video
+- Nome del relatore
+- Eventuale associazione rappresentata
+- Indirizzo di posta di riferimento
+- Email e Recapito telefonico
+- Titolo dell'intervento
+- Durata prevista dell'intervento e dell'eventuale Q&A (15,30 o 45')
+- Outline dell'intervento (circa 200-300 battute)
+- Necessità di sussidi particolari oltre la videoproiezione
+- Abstract con riferimenti (min 500 max 1500 battute)
+- se disponibile alla pubblicazione del materiale sotto licenza libera
+- se disponibile alla pubblicazione di registrazioni audio
+- se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile in questa [pagina](/e-privacy-XIX-proposta.html)
+form disponibile in questa [pagina](http://j.mp/call-eprivacy-2016)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 30 Maggio 2016__.
