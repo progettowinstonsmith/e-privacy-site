@@ -5,7 +5,7 @@ Category: 2015
 lang: it
 Num: XVIII
 Year: 2015
-slug: e-privacy-XVIII
+slug: e-privacy-XVIII-launch
 City: Cagliari
 Where: Mediateca del Mediterraneo<br/>
 When: 16/17 ottobre

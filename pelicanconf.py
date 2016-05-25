@@ -61,7 +61,8 @@ THIS = (
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
-    ('e-privacy 2015 winter XVIII', '/'),
+    ('e-privacy 2016 spring XIX', '/e-privacy-XIX.html'),
+    ('e-privacy 2015 winter XVIII', '/e-privacy-XVIII.html'),
     ('e-privacy 2015 spring XVII', '/e-privacy-XVII.html'),
     ('e-privacy 2014 winter XVI', '/e-privacy-XVI.html'),
     ('e-privacy 2014 spring XV', '/e-privacy-XV.html'),
@@ -112,7 +113,7 @@ PARTNERS = {
     'com_cagliari2015': ('Comune di Cagliari', 'comune-cagliari-2015.png', 'http://comune.cagliari.it/portale'),
     'cagliari': ('Comune di Cagliari', 'comune-cagliari.png', 'http://comune.cagliari.it'),
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
-    'cgt': ('Circolo dei Giuristi Telematici', 'cgt.gif', 'http://www.giuristitelematici.it'),
+    'cgt': ('Circolo dei Giuristi Telematici', 'cgt.jpg', 'http://www.giuristitelematici.it'),
     'clusit': ('Associazione Italiana per la Sicurezza Informatica', 'clusit.jpg', 'http://www.clusit.it/'),
     'csa': ('Cloud Security Alliance', 'csa.jpg', 'http://cloudsecurityalliance.it'),
     'cloudusb': ('CloudUSB', 'cloudusb.png', 'http://cloudusb.net'),
@@ -147,7 +148,7 @@ PARTNERS = {
     'secure_network': ('Secure Network S.r.l.', 'secure_network.png', 'http://www.securenetwork.it'),
     'sel': ('SEL', 'sel.jpg', 'http://www.selfirenze.org'),
     'sepel': ('Sepel', 'sepel.png', "http://www.sepel.it"),
-    'sikurezza.org': ('Sikurezza.org', 'sikurezza.gif', 'http://www.sikurezza.org'),
+    'sikurezza.org': ('Sikurezza.org', 'sikurezza.png', 'http://www.sikurezza.org'),
     'tramaci': ('Tramaci', 'tramaci.png', 'http://www.tramaci.org'),
     'unica': ('Università degli Studi di Cagliari - Facolta’ di Scienze Economiche, Giuridiche e Politiche', 'unica.jpg', 'http://www.unica.it/pub/7/show.jsp?id=20415&amp;iso=-2&amp;is=7'),
     'unimifsd': ('Università di Milano - Dipartimento di scienze giuridiche "Cesare Beccaria" - Sezione di Filosofia e Sociologia del Diritto', 'unimifsd.jpg', 'http://users.unimi.it/beccaria/index.php/dipartimento/filosofia-e-sociologia-del-diritto'),

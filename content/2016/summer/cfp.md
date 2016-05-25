@@ -17,13 +17,14 @@ Xnextid: 2015W
 Xnext: e-privacy-XVIII
 Organizzatori: APHIM,hermes,upmansan,pws
 Collaboratori: PI,bba
+Sponsor: cgt,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 XPatrocini: 
 MediaPartner: infomedia
 
 ### È aperto  il Call for Paper di e-privacy 2016 spring edition
 
-Il ** 24 e 25 giugno 2016 ** (venerdì e sabato) a Roma si svolgerà **e-privacy 2016 _spring edition_**.
+Il ** 24 e 25 giugno 2016 ** (venerdì e sabato) a Pisa si svolgerà **e-privacy 2016 _spring edition_**.
 
 Il tema dell‘edizione 2016 è:
 
