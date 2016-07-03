@@ -5,7 +5,7 @@ Category: 2016
 lang: it
 Num: XIX
 Year: 2016
-slug: e-privacy-XIX
+slug: e-privacy-XIX-cfp
 City: Pisa
 Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
 When: 24-25 Giugno
@@ -17,9 +17,9 @@ Xnextid: 2015W
 Xnext: e-privacy-XVIII
 Organizzatori: APHIM,hermes,upmansan,pws
 Collaboratori: PI,bba
-Sponsor: cgt,sikurezza.org
+Sponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-XPatrocini: 
+Patrocini: comvilca
 MediaPartner: infomedia
 
 ### È aperto  il Call for Paper di e-privacy 2016 spring edition

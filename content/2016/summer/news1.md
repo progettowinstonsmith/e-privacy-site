@@ -1,91 +1,44 @@
 status: draft
-Template: event
-Title: La trasparenza e la privacy
-Date: 2015-05-29 10:20
-Category: 2015
-lang: it
-Num: XVII
-Year: 2015
-slug: e-privacy-XIX-news-1
-City: Roma
-Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
-When: 2/3 Luglio
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
-oldpage: /materiali/2015
-previd: 2014W
-prev: e-privacy-XVI
-Organizzatori: hermes,pws
-Collaboratori: al,PI,bba,asr
-Sponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-XPatrocini: 
-MediaPartner: senzabarcode,radioradicale,infomedia,lalegatoria
 
-La diciassettesima edizione di E-Privacy, l’ormai storico evento
-italiano dedicato al tema della privacy, si svolgerà, i prossimi **2 e 3
-luglio**, nella prestigiosa cornice della **Nuova Sala dei Gruppi presso
-la Camera dei Deputati in Roma in Via Campo Marzio, 78**.
+### <a name='aterno'></a>Stefano Aterno 
+**Perchè oggi disciplinare a livello legislativo il Trojan è una vittoria del diritto alla privacy e del diritto alle garanzie    **
 
-Il tema dell‘edizione 2015 è: __La trasparenza e la privacy: il
-bilanciamento tra le necessità di trasparenza e pubblicità, e le
-aspettative di rispetto della privacy, dell’anonimato e della
-segretezza.__
+Oggi disciplinare a livello legislativo il Trojan è una vittoria del
+diritto alla privacy e delle garanzie. Può sembrare un controsenso ? E
+invece non lo è. Lo è stato forse il silenzio di molti (troppi) fino a
+quando non è scoppiato lo scandalo hacking team il 5 luglio
+del 2015. Dal 2010 al 2014 gli unici articoli scientifici nei quali si
+denunciava il trojan sono stati pubblicati dal sottoscritto ad
+eccezione di un articolo sulle perquisizioni occulte più generico e
+per nulla tecnico sul captartore. Al netto di convegni nei quali con
+altri amici avvocati (per la verità pochi) e valentissimi tecnici
+informatici si denunciava l'assenza di garanzie e la violazione della
+privacy, il resto era un muro di gomma. Con le sue ragioni certo ma
+pur sempre un muro di gomma che se fosse stato abbattuto fin dal 2011
+avrebbe portato molti più vantaggi che svantaggi per tutti e
+sicuramente per i diritti dei cittadini. Oggi la scelta è in mano al
+legislatore ma anche a tutti coloro che hanno voglia di costruire e
+non dire di no a priori (che equivale a mettere la testa sotto la
+sabbia per toglierla a cose fatte e gridare "la privacy è stata
+violata"): a parte ciò che dicono le motivazioni delle sezioni unite
+della cassazione ( che ovviamente si esprimono sulla parte relativa al
+tema del ricorso ovvero l'intercettazione ambiantale con il trojan e
+quindi l'intercettazione tra presenti), per quanto riguarda "il lato
+oscuro del captatore" spetta al popolo italiano, a mezzo dei suoi
+rappresentanti, decidere se vietarlo completamente per tutte le altre
+attività (captazione dei dati memorizzati sul supporto informatico)
+oppure disciplinarlo, limitandolo ai casi più gravi e prevedendo forti
+garanzie difensive. Vogliamo seguire con senso civico e costruttivo la
+cosa ? La terza via stavolta c'è, ma è l'assenza di diritti e non è
+piacevole per nessuno. Oppure si?
 
-Sin dal 2002 e-privacy è stato il luogo d’incontro e di confronto sui
-temi del mondo sempre più digitale ed interconnesso, dove le
-possibilità di comunicazione ed accesso alla conoscenza crescono
-continuamente, come pure crescono le possibilità di tecno-controllo
-degli individui sin nei più intimi dettagli.
+### <a name='aterno'></a>Aterno, Stefano, studio legale Aterno
+**Regolamento europeo sulla privacy: prime riflessioni generali e alcune considerazioni su alcune norme del Codice privacy che sopravviveranno in quanto applicabili.**
 
-L’approccio è interdisciplinare: dagli specialisti in informatica ai
-legali che si occupano di nuove tecnologie, dagli psicologi agli
-educatori, dagli operatori privati a quanti operano nel settore
-pubblico ed istituzionale.
+Il Regolamento  risponde all’esigenza di garantire un quadro coerente di norme e un sistema complessivamente  armonizzato in grado di superare la frammentazione creatasi in Europa con i diversi ordinamenti che hanno recepito la Direttiva 95/46/Ce. Uno degli obiettivi è quello di non ostacolare quindi lo sviluppo di un mercato unico digitale. In un mondo globalizzato il nuovo quadro giuridico punta a garantire ai cittadini europei un maggior controllo (o meglio possibilità di controllo) sui loro dati, prevedendo l’applicabilità delle regole comunitarie quando il trattamento riguarda comunque l’offerta di beni e servizi nella UE o implichi il controllo dei loro comportamenti (profilazione). 
+Inoltre altro dato obiettivo è stato quello di adeguare la normativa sulla protezione dei dati alla luce dell’evoluzione tecnologica. Con il Regolamento si tende a concretizzare una visione della protezione dei dati più attiva e dinamica che punta a responsabilizzare maggiormente i titolari e i loro responsabili del trattamento eliminando obblighi formali e prevedendo in loro favore misure di semplificazione degli adempimenti e di uniformazione delle regole per le imprese che operano nei diversi Stati.
+Non vengono disciplinati espressamente né il responsabile del trattamento interno né l’ìncaricato. Non lo erano neanche nella vecchia direttiva europea ma è di chiara evidenza che oggi un titolare cosi responsabilizzato dalle norme del Regolamento non potrà che prevedere la presenza di un responsabile o più responsabili interni e di nomine di incaricati.
+Il carattere tipico del Regolamento europeo di norma di principi e applicata da tutti i paesi membri non può che essere scritta a livello di carattere generale in modo da essere comprensibile e applicabile in tutti gli ordinamenti dei Paesi europei molto diversi tra loro. 
+Nel nostro ordinamento dovrà intervenire una norma di dettaglio del legislatore che intervenga chiarendo meglio alcuni principi del codice privacy e salvando quelle parti non in conflitto con i principi generali.
+Avv. Prof. Stefano Aterno
 
-### Iscrizioni
-
-Per iscriversi all'evento si deve usare 
-[EVENTBRITE](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008).
-Le iscrizioni **gratuite** inizieranno il giorno 5 Giugno.
-
-### Iscrizioni per giornalisti
-
-La partecipazione all'intero convegno vale venti crediti formativi per
-la formazione professionale dei giornalisti (ogni giornata vale 10
-crediti). L'iscrizione per ottenere i crediti formativi si dovrà
-effettuare quando disponibile sulla piattaforma
-[S.I.Ge.F.](https://sigef-odg.lansystems.it/sigef/) nei limiti dei
-posti disponibili.
-
-Per avere informazioni in merito (o per lista d'attesa) iscriversi
-[qui](https://docs.google.com/forms/d/18TiDyUJq9y0RDiTfwUWk2oR9x8MRRcfXQn1ezfxOJxk/viewform?c=0&w=1)
-
-### Date importanti
-
-Giorno || Evento
---- | --- | ---
-Venerdì | 29 Maggio | [Apertura Registrazioni con Donazione](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008)
-Lunedì  | 1 Giugno  | **[Chiusura Call for Paper](http://e-privacy.winstonsmith.org/e-privacy-XVII.html)**
-Venerdì | 5 Giugno  | Apertura Registrazioni Gratuite
-Lunerì  | 8 Giugno  | Pubblicazione Programma
-Martedì | 30 Giugno | Chiusura Registrazioni
-Giovedì | 2 Luglio  | Prima Giornata di Congresso
-Venerdì | 3 Luglio  | Seconda Giornata di Congresso
-
-### Organizzazione
-
-La manifestazione è organizzata da:
-
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e
- Diritti Umani Digitali. 
- 
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è
-   un’associazione senza fini di lucro che si occupa della difesa del
-   diritto alla privacy in Rete e fuori.
-
-### Contatti
-
-Per contatti generali e per la stampa:
-[eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i
-relatori
-[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).

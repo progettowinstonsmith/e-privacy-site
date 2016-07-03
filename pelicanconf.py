@@ -4,6 +4,9 @@ from __future__ import unicode_literals
 
 LOAD_CONTENT_CACHE = False
 
+COUNTDOWN = False
+
+HOME_LINK = '/'
 
 def split(string):
     return [x.strip() for x in string.strip().split(',')]
@@ -40,14 +43,15 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "E-PRIVACY 2016 - SUMMER"
 
 THIS = (
-    ('Proposta Talk', 'http://j.mp/call-eprivacy-2016'),
-    ('Call for Paper', '/e-privacy-XIX.html'),
-    # ('Il programma', '/e-privacy-XVIII-programma.html'),
-    # ('Gli interventi', '/e-privacy-XVIII-interventi.html'),
-    # ('I relatori', '/e-privacy-XVIII-relatori.html'),
+    # ('Proposta Talk', 'http://j.mp/call-eprivacy-2016'),
+    # ('Call for Paper', '/e-privacy-XIX.html'),
+    # ('Slides', '/e-privacy-XIX-programma-slides.html'),
+    ('Il programma', '/e-privacy-XIX-programma.html'),
+    ('Gli interventi', '/e-privacy-XIX-interventi.html'),
+    ('I relatori', '/e-privacy-XIX-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XIX-cfs.html'),
-    # ('FAQ per i relatori', '/e-privacy-XVII-faq-relatori.html'),
-    # ('Come arrivare', '/e-privacy-XVII-come-arrivare.html'),
+    ('FAQ per i relatori', '/e-privacy-XIX-faq-relatori.html'),
+    ('Come arrivare', '/e-privacy-XIX-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti-XIX.html'),
@@ -115,6 +119,7 @@ PARTNERS = {
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
     'cgt': ('Circolo dei Giuristi Telematici', 'cgt.jpg', 'http://www.giuristitelematici.it'),
     'clusit': ('Associazione Italiana per la Sicurezza Informatica', 'clusit.jpg', 'http://www.clusit.it/'),
+    'comvilca': ('Comune di Villanova Canavese','covilca.jpg','http://www.comune.villanovacanavese.to.it'),
     'csa': ('Cloud Security Alliance', 'csa.jpg', 'http://cloudsecurityalliance.it'),
     'cloudusb': ('CloudUSB', 'cloudusb.png', 'http://cloudusb.net'),
     'csig': ('Centro Studi di Informatica Giuridica', 'csig.png', 'http://www.csig.it'),

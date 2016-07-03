@@ -1,35 +1,35 @@
-Status: draft
 Title: FAQ per i relatori
-Date: 2015-05-05 10:20
-Category: 2015
-templete: event
+Date: 2016-04-29 10:20
+Category: 2016
 lang: it
-Num: XVII
-Year: 2015
+Num: XIX
+Year: 2016
 slug: e-privacy-XIX-faq-relatori
-City: Roma
-Where: Nuova Sala dei Gruppi<br/>Camera dei Deputati<br/>Via Campo Marzio, 78
-When: 2/3 Luglio
+City: Pisa
+Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
+When: 24-25 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
+previd: 2016
+prev: e-privacy-XIX
+ZOrganizzatori: APHIM,hermes,upmansan,pws
+ZMediaPartner: infomedia
 
-
-Questa FAQ è dedicata ai relatori di eprivacy 2015.
+Questa FAQ è dedicata ai relatori di eprivacy 2016 summer edition Pisa.
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
 il proprio intervento. Se necessario la FAQ sarà aggiornata e resterà
 disponibile sul sito all'indirizzo
 
-[http://e-privacy.winstonsmith.org/e-privacy-XVII-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XVII-faq-relatori.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html)
 
 Per altre domande contattare direttamente la
 [segreteria](mailto:segreteria@winstonsmith.org).
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è obbligatorio**
-consegnarle entro il 29 Giugno](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 20 Giugno, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle
 slides (handouts)](#handouts)
@@ -55,23 +55,21 @@ referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 
 # <a name="proiezione"></a>Posso proiettare delle slides?
 
-Certamente! Per le slide, i servizi tecnici della Camera mettono a
-disposizione un PC Windows e il proiettore.
+Certamente! 
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il 29 Giugno** in uno dei due formati supportati (pdf o powerpoint).
-La consegna in ritardo significa **non** poter avere il supporto delle
-slides.
+il 20 Giugno** in formato PDF obbligatoriamente (se consegnate anche
+powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
 normale navigazione Web (entro limiti ragionevoli).
 
-Le slides consegnate saranno inoltrate ai servizi tecnici della
-Camera che le faranno trovare disponibili sul PC.
+In alternativa sarà possibile collegare un computer personale al
+proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto). 
 
-Non sarà possibile collegare un computer personale al proiettore.
+Il proiettore ha un connettore VGA e una risoluzione di 640x480.
 
-Non è possibile scaricare sul PC slides da chiavette USB.
+Sarà disponibile una rete WiFi, ma non è garantito che funzioni.
 
 Potrebbe essere possibile (ma a vostro rischio e pericolo) usare
 slides direttamente online (Prezi, Keynote iCloud, ecc.) in questo
@@ -79,16 +77,16 @@ caso però *nessuno vi offrirà supporto*.
 
 Nella consegna dei file rispettare le seguenti regole.
 
-Consegnare **un unico** file per le slide da proiettare (in formato ppt(x)
-o un pdf) caricandolo attraverso l'applicazione sulla pagina:
+Consegnare **un unico** file per le slide da proiettare (in formato
+pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://j.mp/eprivacy-slides](http://j.mp/eprivacy-slides)
+[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
 
-* Slide proiettabili (PPT) o,
-* Slide proiettabili (PDF) 
+* Slide proiettabili (PDF) o,
+* Slide proiettabili (PPT)
 
 Se non funziona l'applicazione online di consegna vedere [qui](#viaemail)
 
@@ -107,7 +105,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://j.mp/eprivacy-slides](http://j.mp/eprivacy-slides)
+[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -125,7 +123,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[http://j.mp/eprivacy-slides](http://j.mp/eprivacy-slides)
+[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -143,7 +141,6 @@ Se per qualche motivo di forza maggiore doveste rinunciare
 all'intervento comunicatelo all'organizzazione prima possibile. 
 
 # <a name="contrattempiprima"></a>Se ho dei contrattempi o necessito informazioni prima del convegno?
-
 
 Per qualsiasi informazione e comunicazione verso l'organizzazione è
 necessario SCRIVERE un'email all'indirizzo
@@ -163,25 +160,21 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Giovedì 2:
+Venerdì 24:
 
 Blocco | Relatori
 ---- | ----
-Ore 08.00-10.45 |  Giorio, Aterno, Rodolfi/Somma
-Ore 11.00-12.00 |  Micozzi, Aliprandi
-Ore 12.00-13.30 |  Sarzana, Fuxa, Flora, Monteleone
-Ore 14.40-16.45 |  Barrucci, Reitano, Vantaggiato, Ghirardini, Agosti
+Ore 09.00-11.45 |  Tumietto, Sarzana, Cerno, Scotto D'antuono
+Ore 12.00-13.30 |  Dalmiani, Gobbato, Faini
+Ore 14.40-16.15 |  Colomba, Polito, Modesti, Rufo
+Ore 16.30-18.00 |  Di Leo, Aterno, Micozzi, Augiero
 
-Venerdì 3:
+Sabato 25:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00-11.15 |  Vieri, Vacca, Agosti, Del Vecchio/Shakhmirza, Vaciago
-Ore 11.30-13.30 |  Abeti, Vertua, Ghiglioni, Cerno
-Ore 14.45-16.15 |  Barrucci, Longo, Zugnaz, Mancosu, Faini
-Ore 16.45-18.00 |  Mula, Pappagallo, Senor/Blangino/Gallus
-
-Il tavolo presente sul palco permette la presenza di 6 relatori.
+Ore 08.30-10.35 |  Longo, Aqui, Giorio, Premoli
+Ore 10.40-13.10 |  Vieri, Zanoni, Daly, Carletti, Vertua
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
 alla successiva pausa.
@@ -201,11 +194,11 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno Giovedì 2 è **Diego Giorio**
-per il giorno Venerdì 3 è **Marco Calamari**.
+Il referente dei relatori per il giorno Venerdì 24 è **Marco Calamari**
+per il giorno Sabato 25 è **Diego Giorio**. 
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
-per qualsiasi evenienza.
+per qualsiasi evenienza. 
 
 **È inutile telefonare!**
 
@@ -227,4 +220,5 @@ ad esempio:
     Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
 
 allegando il file al messaggio.
+
 
