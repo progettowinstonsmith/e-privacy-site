@@ -49,32 +49,18 @@ una nuova iniziativa digitale italiana parte di una “Agenda Digitale”
 con un passato pieno di ostacoli, rallentamenti e problemi tecnici,
 rendono il tema fecondo come pochi altri.
 
-Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo
-sempre più digitale ed interconnesso, nel quale le possibilità di
-comunicazione ed accesso alla conoscenza crescono continuamente, come
-pure crescono le possibilità di tecnocontrollo degli individui sin nei
-più intimi dettagli. L’approccio è interdisciplinare; dagli
-specialisti in informatica ai legali che si occupano di nuove
-tecnologie, dagli psicologi agli educatori, dagli operatori privati a
-quanti operano nel settore pubblico ed istituzionale.
-
-
 **Sono stati pubblicate le slides dell'evento, le trovate in questa pagina**
-
-Quanto prima pubblicheremo i video delle relazioni.
 
 Legenda:
 
 Icona | Descrizione
 ---- | ----
+![video](/images/icon/video.png) | Video MP4
 ![pdf](/images/icon/presentation.png) | Presentazione PDF
 ![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT
 ![pdf](/images/icon/handouts.png) | Handouts
 ![pdf](/images/icon/document.png) | Documento (PDF)
 ![URL](/images/icon/link.png) | Link online
-
-
-
 
 
 ### <a name="programma"></a>Programma del Convegno
