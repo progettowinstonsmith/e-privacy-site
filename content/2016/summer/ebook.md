@@ -55,40 +55,33 @@ Per le informazioni sulla licenza e le linee guida di consegna puoi dare una let
 
 https://medium.com/@infomedia_it/come-scrivere-un-articolo-per-le-riviste-infomedia-c73ab3a9f936#.ijf7johkx
 
-Ti consigliamo vivamente di utilizzare direttamente la piattaforma medium per redigere l'articolo (è facile creare un profilo e usare l'editor e poi farci sapere il tuo nome utente in modo che possiamo «associarvi» alla pubblicazione in fieri). Così semplifichereste moltissimo il nostro lavoro. Ma se non vi va o non avete tempo di imparare una cosa nuova (e figa!) e quindi se NON VOLETE USARE MEDIUM, nessuna paura. Se vi è più comodo usare un normale editor o wordprocessor potete tranquillamente consegnare l'articolo in un formato a scelta tra quelli supportati dal programma OpenOffice / LibreOffice (quindi Microsoft Word, RTF, ODF ecc.), oppure il formato testuale Markdown (se sapete cos'è sennò non preoccupatevi di impararlo).
+Ti consigliamo vivamente di utilizzare direttamente la piattaforma medium per redigere l'articolo (è facile creare un profilo e usare l'editor e poi farci sapere il tuo nome utente in modo che possiamo «associarti» alla pubblicazione in fieri). Così semplificheresti moltissimo il nostro lavoro. Ma se non ti va o non hai tempo di imparare una cosa nuova (è molto semplice!!!) e quindi se NON VUOI USARE MEDIUM, nessuna paura! Se ti è più comodo usare un normale editor o wordprocessor puoi tranquillamente consegnare l'articolo in un formato a scelta tra quelli supportati dal programma OpenOffice / LibreOffice (quindi Microsoft Word, RTF, ODF ecc.), oppure il formato testuale Markdown (se sapete cos'è sennò non preoccupatevi di impararlo). Se vuoi spedirlo via mail puoi farlo oppure puoi chiederci un'interfaccia per il caricamento come hai fatto per le slides (preferibile per noi).
 
-L'unica cosa che vi chiederei se usate un formato da wordprocessor
-(DOC, ODF, RTF) è NON PREOCCUPATEVI DELL'IMPAGINAZIONE tanto la
-rifaremo noi. Fate solo in modo che si capiscano i titoli dei
-paragrafi e usate (con tutta la parsimonia del caso) UN SOLO TIPO di
-enfatizzazione (grassetto, sottolineato, corsivo). Per le figure
-riportate nel documento nella posizione della figura SOLO LA DIDASCALIA (nella forma:
+L'unica cosa che ti chiedo se usi un formato da wordprocessor (DOC, ODF, RTF) è NON PREOCCUPARTI DELL'IMPAGINAZIONE tanto la rifaremo noi. Fai solo in modo che si capiscano i titoli dei paragrafi e usa (con tutta la parsimonia del caso) UN SOLO TIPO di enfatizzazione (grassetto, sottolineato, corsivo), meglio se indichi la parola enfatizzata come *parola*, senza usare il corsivo del wordprocessor. 
+
+Per le figure riporta nel documento nella posizione della figura SOLO LA DIDASCALIA (nella forma:
 
      FIGURA 1 - Meravigliosa immagine che serve a capire tutto l'articolo
 
-centrata in una riga indipendente del documento, e richiamatela nel
-testo come: [...] vedi Figura 1 [...]  ). Le figure vere e proprie PER
-PIETA' non inseritete nel testo del documento. Purtroppo i
-wordprocessor combinano tutta una serie di operazioni per "adattare"
-le immagini ai formati spesso perdendo la risoluzione
-necessaria. Semplicemente allegate le figure (di dimensione adeguata)
-all'articolo chiamandole Figura1.png o Figura2.jpg. Quanto ai formati
-delle figure cercate di usare solo PNG o JPG, possibilmente alla
-massima risoluzione che avete a disposizione. Accertatevi che le
-immagini possano essere riprodotte liberamente o richiedete un
-permesso esplicito per farlo, considerate quindi la manleva in questo documento:
+centrata in una riga indipendente del documento, e richiamala nel testo come: [...] vedi Figura 1 [...]  ). 
+
+Le figure vere e proprie, PER PIETÀ!, non inserile nel testo del documento (sennò dovremo comunque richiedertele). Purtroppo i wordprocessor combinano tutta una serie di operazioni per "adattare" le immagini ai formati spesso (sempre) perdendo la risoluzione necessaria. Semplicemente allega le figure (di dimensione adeguata) all'articolo chiamandole Figura1.png o Figura2.jpg. 
+
+Quanto ai formati delle figure cerca di usare solo PNG o JPG, possibilmente alla massima risoluzione che avete a disposizione (se non sai come fare allega quello che hai faremo noi la conversione). 
+
+Accertati però che le immagini possano essere riprodotte liberamente o richiedi all'autore o al possessore di diritti un permesso esplicito per farlo (basta una mail), considera quindi la manleva che è disponibile in questo documento:
 
 https://medium.com/@infomedia_it/come-scrivere-un-articolo-per-le-riviste-infomedia-c73ab3a9f936#.ijf7johkx
 
 Per il momento è tutto.
 
-    Ricordate: 
+    Ricorda: 
         - Consegna dal 15 Luglio al 25 Luglio
         - Possibilmente consegnare l'articolo in forma di bozza su medium mandandoci una email con il link di condivisione
         - In alternativa usare uno dei formati testuali indicati allegando le immagini all'esterno del documento stesso
-        - Verificate la pubblicabilità degli elementi aggiuntivi (come figure) e acquisite il permesso per la riproduzione (anche commerciale)
+        - Verifica la pubblicabilità degli elementi aggiuntivi (come figure) e acquisisci il permesso per la riproduzione (anche commerciale)
 
-Grazie mille, per ogni dubbio non esistate a scriverci
+Grazie mille, per ogni dubbio non esistare a scriverci
 
 E
 

@@ -13,8 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: estate
 previd: 2015W
 prev: e-privacy-XVIII
-Xnextid: 2015W
-Xnext: e-privacy-XVIII
+nextid: 2016W
+next: e-privacy-XX-cfp
 Organizzatori: APHIM,hermes,upmansan,pws
 Collaboratori: PI,bba
 Sponsor: cgt,sepel,sikurezza.org

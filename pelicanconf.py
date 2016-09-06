@@ -4,8 +4,9 @@ from __future__ import unicode_literals
 
 LOAD_CONTENT_CACHE = False
 
-COUNTDOWN = False
+COUNTDOWN = True
 
+# HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
 
 def split(string):
@@ -14,7 +15,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy spring 2016: SPID ed Identità Digitale'
+SITENAME = u'e-privacy autumn 2016: Privacy ed antiterrorismo: “Un equilibrio reale tra obbiettivi apparentemente inconciliabili è possibile?”'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'http://e-privacy.winstonsmith.org'
@@ -40,21 +41,21 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "E-PRIVACY 2016 - SUMMER"
+THIS_TITLE = "E-PRIVACY 2016 - AUTUMN"
 
 THIS = (
-    # ('Proposta Talk', 'http://j.mp/call-eprivacy-2016'),
-    # ('Call for Paper', '/e-privacy-XIX.html'),
+    ('Proposta Talk', '/e-privacy-XX-proposta.html'),
+    ('Call for Paper', '/e-privacy-XX.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
-    ('Il programma', '/e-privacy-XIX-programma.html'),
-    ('Gli interventi', '/e-privacy-XIX-interventi.html'),
-    ('I relatori', '/e-privacy-XIX-relatori.html'),
-    ('Call for Sponsor', '/e-privacy-XIX-cfs.html'),
-    ('FAQ per i relatori', '/e-privacy-XIX-faq-relatori.html'),
-    ('Come arrivare', '/e-privacy-XIX-come-arrivare.html'),
+    # ('Il programma', '/e-privacy-XIX-programma.html'),
+    #('Gli interventi', '/e-privacy-XIX-interventi.html'),
+    #('I relatori', '/e-privacy-XIX-relatori.html'),
+    ('Call for Sponsor', '/e-privacy-XX-cfs.html'),
+    #('FAQ per i relatori', '/e-privacy-XIX-faq-relatori.html'),
+    #('Come arrivare', '/e-privacy-XIX-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
-    ('Contatti', '/contatti-XIX.html'),
+    ('Contatti', '/contatti-XX.html'),
 )
 
 # PAGINATION_PATTERNS = (
@@ -65,14 +66,15 @@ THIS = (
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2016 autumn XX', '/e-privacy-XX.html'),
     ('e-privacy 2016 spring XIX', '/e-privacy-XIX.html'),
-    ('e-privacy 2015 winter XVIII', '/e-privacy-XVIII.html'),
+    ('e-privacy 2015 autumn XVIII', '/e-privacy-XVIII.html'),
     ('e-privacy 2015 spring XVII', '/e-privacy-XVII.html'),
-    ('e-privacy 2014 winter XVI', '/e-privacy-XVI.html'),
+    ('e-privacy 2014 autumn XVI', '/e-privacy-XVI.html'),
     ('e-privacy 2014 spring XV', '/e-privacy-XV.html'),
-    ('e-privacy 2013 winter XIV', '/e-privacy-XIV.html'),
+    ('e-privacy 2013 autumn XIV', '/e-privacy-XIV.html'),
     ('e-privacy 2013 spring XIII', '/e-privacy-XIII.html'),
-    ('e-privacy 2012 winter XII', '/e-privacy-XII.html'),
+    ('e-privacy 2012 autumn XII', '/e-privacy-XII.html'),
     ('e-privacy 2012 spring XI', '/e-privacy-XI.html'),
     ('e-privacy 2011 X', '/e-privacy-X.html'),
     ('e-privacy 2010 IX', '/e-privacy-IX.html'),
