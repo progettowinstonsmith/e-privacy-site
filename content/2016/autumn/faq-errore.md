@@ -1,35 +1,44 @@
-Title: FAQ per i relatori
-Date: 2016-04-29 10:20
+Template: event
+Title: Privacy ed antiterrorismo
+Logo: dontpanicprivacy.png
+Date: 2016-10-10 10:20
 Category: 2016
 lang: it
-Num: XIX
+Num: XX
 Year: 2016
-slug: e-privacy-XIX-faq-relatori-old
-City: Pisa
-Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
-When: 24-25 Giugno
+slug: e-privacy-XIX-faq-relatori
+City: Roma
+Where: Sala Carroccio<br/>Piazza del Campidoglio<br/> Roma 
+When: 4-5 Novembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
+Season: autunno
 previd: 2016
 prev: e-privacy-XIX
-ZOrganizzatori: APHIM,hermes,upmansan,pws
-ZMediaPartner: infomedia
+Xnextid: 2017
+Xnext: e-privacy-XXI
+Organizzatori: hermes,pws
+XCollaboratori: PI,bba
+XSponsor: cgt,sepel,sikurezza.org
+XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
+XPatrocini: romasemplice
+XMediaPartner: infomedia
 
-Questa FAQ è dedicata ai relatori di eprivacy 2016 summer edition Pisa.
+Questa è la versione 1 del 22 Ottobre 2016 delle FAQ dedicathe ai relatori di eprivacy 2016 autumn edition. 
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
 il proprio intervento. Se necessario la FAQ sarà aggiornata e resterà
 disponibile sul sito all'indirizzo
 
-[http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XX-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XX-faq-relatori.html)
 
 Per altre domande contattare direttamente la
 [segreteria](mailto:segreteria@winstonsmith.org).
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 20 Giugno, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 30 Ottobre, 
+anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle
 slides (handouts)](#handouts)
@@ -52,24 +61,34 @@ slides (handouts)](#handouts)
 - [per ogni contrattempo è possibile rivolgerti (via SMS o Whatsapp) ai
 referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 
+- [Il WiFi è garantitp attraverso il progetto Digit ROMA per 4 ore al giorno.](#wifi)
+
 
 # <a name="proiezione"></a>Posso proiettare delle slides?
 
 Certamente! 
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il 20 Giugno** in formato PDF obbligatoriamente (se consegnate anche
+il 30 Ottobre** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
-Il computer a disposizione è connesso ad Internet e permette la
-normale navigazione Web (entro limiti ragionevoli).
+ATTENZIONE, vista la situazione logistica della sala il computer a
+disposizione NON è connesso ad Internet e NON permette la normale
+navigazione Web. Qualora vi sia necessario per la vostra presentazione
+fate in modo di venire attrezzati in modo autonomo. Tenete comunque
+che il segnale 3G/4G dei vari operatori è debole in sala a causa delle
+mura particolarmente spesse del Palazzo Senatorio.
 
-In alternativa sarà possibile collegare un computer personale al
-proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto). 
+Ci hanno garantito che sarà possibile collegare un computer personale
+al proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi
+sotto). In caso che il vostro computer sia un Mac o che non abbia un
+connettore VGA portate un adattatore (funzionante).
 
-Il proiettore ha un connettore VGA e una risoluzione di 640x480.
+Il proiettore ha un connettore VGA e una risoluzione minima di
+640x480.
 
-Sarà disponibile una rete WiFi, ma non è garantito che funzioni.
+Sarà disponibile una rete WiFi, secondo le condizioni della rete Digit
+ROMA del Comune di Roma (vedi la sezione sul [wifi](#wifi)
 
 Potrebbe essere possibile (ma a vostro rischio e pericolo) usare
 slides direttamente online (Prezi, Keynote iCloud, ecc.) in questo
@@ -80,10 +99,11 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
-del relatore, il giorno dell'intervento e come tipo del materiale
+del relatore (che riceverà una mail di conferma), il giorno
+dell'intervento e come tipo del materiale
 
 * Slide proiettabili (PDF) o,
 * Slide proiettabili (PPT)
@@ -99,15 +119,15 @@ transizioni presenti nelle slides proiettabili (programmi come Keynote
 o Power Point hanno opzioni specifiche per realizzare gli handout
 delle slides).
 
-Come per le slide proiettabili nella consegna dei file rispetta le
+Come per le slide proiettabili nella consegna dei file rispettare le
 seguenti regole.
 
-Consegna UN solo file per le slide da stampare (solo in formato pdf)
+Consegnare UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html)
 
-Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
+Indicare come parola d'ordine JULIA, inserire il cognome del relatore e l'email,
 il giorno dell'intervento e come tipo del materiale
 
 * Handouts (slide stampabili) (PDF) 
@@ -117,15 +137,15 @@ Se non funziona l'applicazione online di consegna vedere
 
 # <a name="materiale"></a>Altro materiale
 
-Se vuoi distribuire altro materiale puoi di nuovo usare il pannello di
-consegna allo stesso modo.
+Se si vuole distribuire altro materiale si può di nuovo usare il
+pannello di consegna allo stesso modo.
 
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XX-upload.html)
 
-Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
+Indica come parola d'ordine JULIA, inserire il cognome del relatore e l'email,
 il giorno dell'intervento e come tipo del materiale
 
 * Materiale aggiuntivo (PDF)
@@ -137,8 +157,8 @@ Se non funziona l'applicazione online di consegna vedere
 
 # <a name="rinunce"></a>Se voglio rinunciare all'intervento?
 
-Se per qualche motivo di forza maggiore doveste rinunciare
-all'intervento comunicatelo all'organizzazione prima possibile. 
+Se per qualche motivo di forza maggiore dovessi rinunciare
+all'intervento comunicalo all'organizzazione prima possibile. 
 
 # <a name="contrattempiprima"></a>Se ho dei contrattempi o necessito informazioni prima del convegno?
 
@@ -150,7 +170,8 @@ Leggiamo tutto quello che ci arriva e talvolta lo capiamo persino, ma
 se non vi rispondiamo è perché la cosa che ci avete chiesto ci sta
 ponendo dei problemi, finché non li risolviamo non possiamo
 rispondervi. Non date comunque per scontato che la vostra
-comunicazione equivalga alla nostra accettazione.
+comunicazione equivalga alla nostra accettazione. Faremo comunque
+tutto il possibile per darvi una risposta velocemente.
 
 # <a name="arrivi"></a>Quando devo arrivare?
 
@@ -160,21 +181,22 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Venerdì 24:
+Venerdì 4:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00-11.45 |  Tumietto, Sarzana, Cerno, Scotto D'antuono
-Ore 12.00-13.30 |  Dalmiani, Gobbato, Faini
-Ore 14.40-16.15 |  Colomba, Polito, Modesti, Rufo
-Ore 16.30-18.00 |  Di Leo, Aterno, Micozzi, Augiero
+Ore 09.00-10.50 |  Marzano, Busia, Nicita, Aterno, Abeti
+Ore 10.50-11.15 |  Ghiglioni
+Ore 11.20-13.00 |  Vieri, Zanoni, Blengino, Senor, Sarzana, Nicita, Busia 
+Ore 14.00-16.05 |  Businarolo, Marzano, Coccagna, Rodolfi, Zugnaz, Vicarelli
+Ore 16.15-18.00 |  Vacca, Sarzana, Micozzi, Nazio, Fabiano, Senor
 
-Sabato 25:
+Sabato 5:
 
 Blocco | Relatori
 ---- | ----
-Ore 08.30-10.35 |  Longo, Aqui, Giorio, Premoli
-Ore 10.40-13.10 |  Vieri, Zanoni, Daly, Carletti, Vertua
+Ore 09.00-10.35 |  Giorio, Fabiano, Bozza, Lagrasta
+Ore 10.40-13.00 |  Gallus, Ballicu, Guarino, Flora, Ghirardini, Micozzi, Blengino
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
 alla successiva pausa.
@@ -194,17 +216,17 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno Venerdì 24 è **Marco Calamari**
-per il giorno Sabato 25 è **Diego Giorio**. 
+Il referente dei relatori per il giorno Venerdì 4 è **Emmanuele Somma**
+per il giorno Sabato 5 è **Marco Calamari**. 
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza. 
 
-**È inutile telefonare!**
+**È OVVIAMENTE inutile telefonare!**
 
-Mandate un messaggio SMS o Whatsapp e spiegate se possibile brevemente
-il problema, il referente richiamerà appena può o, se siete in sala,
-chiederà di incontrarvi al banco della reception.
+Mandate un messaggio SMS o Whatsapp o Telegram e spiegate se possibile
+brevemente il problema, il referente richiamerà appena può o, se siete
+in sala, chiederà di incontrarvi al banco della reception.
 
 # <a name="viaemail"></a>Se l'applicazione di consegna non funziona  come consegno le slides o altro materiale?
 
@@ -221,4 +243,13 @@ ad esempio:
 
 allegando il file al messaggio.
 
+
+# <a name="wifi"></a>Come mi connetto al WiFi di Digit ROMA
+
+Per maggiori informazioni sulla rete Digit Roma
+consultare
+[le FAQ](https://splashportal.digitromawifi.it/romawifi/faq.html).
+
+È possibile registrarsi (anche in anticipo sul convegno) alla pagina
+[Digit ROMA](http://www.digitromawifi.it).
 

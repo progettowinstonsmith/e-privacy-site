@@ -1,12 +1,12 @@
 Template: event
 Title: Privacy ed antiterrorismo
 Logo: dontpanicprivacy.png
-Date: 2016-09-02 10:20
+Date: 2016-10-08 10:20
 Category: 2016
 lang: it
 Num: XX
 Year: 2016
-slug: e-privacy-XX-cfp
+slug: e-privacy-XX-1
 City: Roma
 Where: Sala Carroccio<br/>Piazza del Campidoglio<br/> Roma 
 When: 4-5 Novembre
@@ -27,13 +27,14 @@ MediaPartner: infomedia
 ![Terrorismo? Don't Panic and E-Privacy](/images/dontpanicprivacy.png)
 
 
-### È aperto  il Call for Paper di e-privacy 2016 autumn edition
+### Il Call for Paper di e-privacy 2016 autumn edition è chiuso
+
+Stiamo preparando il programma.... Stay Tuned
 
 e-privacy 2016 si svolgerà il *4 e 5 Novembre 2016* (venerdì l'intera
 giornata e sabato mattina) a Roma.
 
 Il tema guida dell‘edizione 2016 di e-privacy è
-
 
 **Privacy ed antiterrorismo**:  _“Un equilibrio reale tra obbiettivi apparentemente inconciliabili è possibile?”_
 
@@ -83,78 +84,11 @@ non verificabili, come nel caso del whistleblowing, sia in relazione
 all'attività giornalistica che a quella di contrasto alla corruzione
 pubblica e alle mal-practice nelle aziende private.
 
-
-# Le proposte di intervento
-
-Il comitato organizzatore valuterà proposte in ambito tecnologico,
-legale, istituzionale e giurisprudenziale, delle scienze sociali,
-della filosofia, dell'informatica e dell'attivismo digitale, della
-privacy, della non-discriminazione, della sorveglianza e dei diritti
-civili digitali.  Verranno prese in considerazione anche proposte su
-temi diversi da quello dell'edizione, purché di interesse e di
-attualità.
-
-Di seguito un elenco - non esaustivo - di argomenti pertinenti:
-
- - Diritti individuali: libertà di espressione, riservatezza ed anonimato
- - strumenti per la privacy, la comunicazione sicura e per il whistleblowing
- - Videosorveglianza, sorveglianza delle comunicazioni e diritti umani
- - Sorveglianza e privacy sul posto di lavoro e nelle scuole
- - Profilazione degli utenti di servizi telematici
- - Data retention; incrocio, circolazione e rivendita dei dati personali
- - Geotagging, privacy locazionale e nuovi diritti civili digitali
- - Privacy e Anonimato nelle pratiche organizzative aziendali
- - Controllo degli utenti sui dati; oscuramento. crittografia ed anonimizzazione
- - Raccolta dei dati personali in rete, captatori informatici, intercettazioni lecite ed illecite
- - OpenData e Privacy; privatizzazione e protezione dei dati pubblici
- - Raccolta, protezione, conservazione e distruzione di dati utili per indagini
- - Sorveglianza ed investigazione criminale
- - Complessità della protezione dei dati
- - Servizi telematici ai cittadini, informatizzazioen obbligatoria, processo telematico.
-
-# Gli interventi
-
-Gli interventi saranno effettuati dal vivo e, previo consenso dei relatori, registrati in audio ed in video.  I relatori potranno utilizzare documenti, slide o filmati, e gli interventi dovranno avere una durata compresa fra 15 e 45 minuti, incluso il tempo per Q&A.
-Potranno essere proposti anche interventi in videoconferenza.
-E' apprezzata la disponibilità del relatore a concedere la pubblicazione del materiale prodotto e delle riprese dell’intervento sotto licenza libera.
-
-# L’organizzazione
-
-Al fine di mantenere la propria indipendenza, il convegno è, come sempre, a budget zero. I relatori ed i partecipanti dovranno provvedere in proprio alle spese di viaggio e soggiorno. Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno carattere non economico e sono intese come adesione morale ai temi ed ai principi trattati.
-
-La manifestazione è organizzata da:
--  HERMES - Centro Studi Trasparenza e Diritti Umani Digitali 
--  Progetto Winston Smith
-
-e da altre organizzazioni, aziende ed associazioni.
-
 Maggiori informazioni saranno pubblicate sul sito del Convegno non appena disponibili, all'indirizzo <a href="http://e-privacy.winstonsmith.org">http://e-privacy.winstonsmith.org </a>
 
 Contatti stampa e richieste di informazioni possono essere inviate
 all'indirizzo: eprivacy@winstonsmith.org
 
-Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile all'indirizzo <a href="http://j.mp/call-eprivacy-XX">http://j.mp/call-eprivacy-XX</a>  che
-fornsce un feedback esplicito alla fine della sottomissione
-
-Le proposte potranno anche essere inviate all’indirizzo mail eprivacy@winstonsmith.org e dovranno contenere, 
-***in un unico file*** :
-
- - Nome del relatore
- - Eventuale associazione rappresentata
- - Indirizzo di posta di riferimento
- - Recapito telefonico
- - Titolo
- - Durata prevista dell'intervento e dell'eventuale Q&A
- - Outline dell'intervento (circa 200-300 battute)
- - Necessità di sussidi particolari oltre la videoproiezione
- - (facoltativo) Abstract con riferimenti (meno di 1500 battute)
- - se disponibile alla pubblicazione del materiale sotto licenza libera
- - se disponibile alla pubblicazione di registrazioni audio
- - se disponibile alla pubblicazione di registrazioni video
-
-Le proposte dovranno pervenire al comitato scientifico entro il
-termine ultimo del *3 ottobre 2016*,
 
 L'accettazione o meno delle proposte sarà comunicata entro il *10 ottobre 2016*.
 

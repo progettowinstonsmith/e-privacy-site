@@ -171,6 +171,10 @@ div.e-num {
                0 20px 20px rgba(0,0,0,.15);    
 }
 
+img.subp {
+    height: 75pt;
+}
+
 #top_img_right {
     position: absolute;
     top: 0px;
@@ -178,7 +182,8 @@ div.e-num {
     display: block;
     height: 70px;
     width: 81px;
-    background: #000000 url(/images/logo/pws.png) no-repeat right;
+    background: #000000 url(/images/logo/pws_small.png) no-repeat right;
+    background-size: 100% 100%;
 }
 
 #top_img_left {
@@ -192,6 +197,7 @@ div.e-num {
     text-indent: -999em;
     text-decoration: none;
     border-bottom: none;
+    background-size: 100% 100%;
 }
 
 body { word-wrap:break-word; }

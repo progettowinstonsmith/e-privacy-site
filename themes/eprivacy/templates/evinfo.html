@@ -6,6 +6,10 @@
   {% if article.when %} <div class="e-when">{{article.when}}</div> {% endif %}
   {% if article.year %} <div class="e-year">{{article.year}}</div> {% endif %}
   {% if article.season %} <div class="e-season">{{article.season}}</div> {% endif %}
+  <br/>
+  {% if article.city %} <div class="e-city">{{article.city}}</div> {% endif %}
+  {% if article.where %} <div class="e-where">{{article.where}}</div> {% endif %}
+  <br/>
   {# Year Navigation #}
   <table style="width:100%">
     <tr>
@@ -20,7 +24,5 @@
       </td>
     </tr>
   </table>
-  {% if article.city %} <div class="e-city">{{article.city}}</div> {% endif %}
-  {% if article.where %} <div class="e-where">{{article.where}}</div> {% endif %}
 </div>
 {% endif %}
