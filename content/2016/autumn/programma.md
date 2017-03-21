@@ -1,12 +1,12 @@
 Template: event
 Title: Privacy ed antiterrorismo
 Logo: dontpanicprivacy.png
-Date: 2016-10-10 10:20
+Date: 2016-10-22 10:20
 Category: 2016
 lang: it
 Num: XX
 Year: 2016
-slug: e-privacy-XX
+slug: e-privacy-XX-programma
 City: Roma
 Where: Sala Carroccio<br/>Piazza del Campidoglio<br/> Roma 
 When: 4-5 Novembre
@@ -83,8 +83,8 @@ Gli interventi indicati con il carattere * sono da confermare.
  
   **Ora** | **Durata** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | ------- | ------- | ------- 
-14:00	|05||	Apertura lavori pomeridiani: Whistleblowing			
-14:05	|10||		Francesca Businarolo (Movimento 5 Stelle)	
+14:15	|05||	Apertura lavori pomeridiani: Whistleblowing			
+<!-- 14:05	|10||		Francesca Businarolo (Movimento 5 Stelle)	 -->
 14:15	|10||		Barbara Coccagna (ANAC)*	
 14:25	|20|		[_Alessandro Rodolfi_](/e-privacy-XX-relatori.html#rodolfi)	|	
 14:45	|20|		[_Efrem Zugnaz (S.p.A. Autovie Venete)_](/e-privacy-XX-relatori.html#zugnaz)	|	[_Sistema di segnalazione di S.p.A. Autovie Venete_](/e-privacy-XX-interventi.html#zugnaz)
@@ -92,7 +92,7 @@ Gli interventi indicati con il carattere * sono da confermare.
 15:25	|40||	Tavola Rotonda _Whistleblowing_: (Modera: Flavia Marzano*) Francesca Businarolo, Barbara Coccagna*, [_Alessandro Rodolfi_](/e-privacy-XX-relatori.html#rodolfi), [_Cristina Vicarelli_](/e-privacy-XX-relatori.html#vicarelli), [_Efrem Zugnaz_](/e-privacy-XX-relatori.html#zugnaz)
 16:05	|10||	PAUSA POMERIDIANA			
 16:15	|00||	Apertura lavori pomeridiani: Cyberbullismo			
-16:15	|20|		[_Manuela Vacca_](/e-privacy-XX-relatori.html#vacca), Renato Gabriele	|	[_Autodifesa digitale del giornalista:un'istantanea della situazione italiana_](/e-privacy-XX-interventi.html#vacca)
+16:15	|20|		[_Manuela Vacca_](/e-privacy-XX-relatori.html#vacca), [_Renato Gabriele_](/e-privacy-XX-relatori.html#gabriele)	|	[_Autodifesa digitale del giornalista:un'istantanea della situazione italiana_](/e-privacy-XX-interventi.html#vacca)
 16:35	|20|		[_Fulvio Sarzana (studio legale sarzana)_](/e-privacy-XX-relatori.html#sarzana)	|	[_Dal cyberbullismo al revenge porn: le norme italiane ed internazionali_](/e-privacy-XX-interventi.html#sarzana)
 16:55	|20|		[_Francesco Paolo Micozzi_](/e-privacy-XX-relatori.html#micozzi)	|	[_Cyberbullismo prossimo venturo_](/e-privacy-XX-interventi.html#micozzi)
 17:15	|45||	Tavola Rotonda _Cyberbullismo_: (Modera: [_Pino Nazio_]()), [_Nicola Fabiano_](/e-privacy-XX-relatori.html#fabiano), [_Francesco Paolo Micozzi_](/e-privacy-XX-relatori.html#micozzi), [_Fulvio Sarzana_](/e-privacy-XX-relatori.html#sarzana),  [_Monica A. Senor_](/e-privacy-XX-relatori.html#senor)

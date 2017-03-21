@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 LOAD_CONTENT_CACHE = False
 
-COUNTDOWN = True
+COUNTDOWN = False
 
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
@@ -44,15 +44,15 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "E-PRIVACY 2016 - AUTUMN"
 
 THIS = (
-    # ('Proposta Talk', '/e-privacy-XX-proposta.html'),
-    # ('Call for Paper', '/e-privacy-XX.html'),
+    ('Proposta Talk', '/e-privacy-XXI-proposta.html'),
+    ('Call for Paper', '/e-privacy-XXI.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
-    ('Il programma', '/e-privacy-XX.html'),
-    ('Gli interventi', '/e-privacy-XX-interventi.html'),
-    ('I relatori', '/e-privacy-XX-relatori.html'),
-    # ('Call for Sponsor', '/e-privacy-XX-cfs.html'),
-    ('FAQ per i relatori', '/e-privacy-XX-faq-relatori.html'),
-    ('Come arrivare', '/e-privacy-XX-come-arrivare.html'),
+    # ('Il programma', '/e-privacy-XX.html'),
+    # ('Gli interventi', '/e-privacy-XX-interventi.html'),
+    # ('I relatori', '/e-privacy-XX-relatori.html'),
+    ('Call for Sponsor', '/e-privacy-XXI-cfs.html'),
+    # ('FAQ per i relatori', '/e-privacy-XX-faq-relatori.html'),
+    # ('Come arrivare', '/e-privacy-XX-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti-XX.html'),
@@ -66,6 +66,7 @@ THIS = (
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2017 summer XXI', '/e-privacy-XXI.html'),
     ('e-privacy 2016 autumn XX', '/e-privacy-XX.html'),
     ('e-privacy 2016 spring XIX', '/e-privacy-XIX.html'),
     ('e-privacy 2015 autumn XVIII', '/e-privacy-XVIII.html'),
@@ -121,6 +122,7 @@ PARTNERS = {
     'cambio': ('Cambio - laboratorio di ricerca sulle trasformazioni sociali', 'cambio.jpg',  'http://www.cambio.unifi.it'),
     'cgt': ('Circolo dei Giuristi Telematici', 'cgt.jpg', 'http://www.giuristitelematici.it'),
     'clusit': ('Associazione Italiana per la Sicurezza Informatica', 'clusit.jpg', 'http://www.clusit.it/'),
+    'comlucca': ('Comune di Lucca', 'comlucca.jpg', 'http://www.comune.lucca.it/home'),
     'comvilca': ('Comune di Villanova Canavese','covilca.jpg','http://www.comune.villanovacanavese.to.it'),
     'csa': ('Cloud Security Alliance', 'csa.jpg', 'http://cloudsecurityalliance.it'),
     'cloudusb': ('CloudUSB', 'cloudusb.png', 'http://cloudusb.net'),
