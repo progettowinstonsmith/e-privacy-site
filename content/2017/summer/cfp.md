@@ -28,7 +28,8 @@ Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _
 
 Il tema guida della XXI edizione di e-privacy è:
 
-**Parole (ostili) contro la Rete**: _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”: l’involuzione della percezione della Rete_
+**Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
+_Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”
 
 «La ferita provocata da una parola non guarisce» cita il proverbio
 africano riferimento del progetto di sensibilizzazione contro
