@@ -15,7 +15,7 @@ Organizzatori: APHIM,hermes,upmansan,pws
 previd: CFP
 prev: e-privacy-XX
 
-### Aperto il Call for Sponsorship di e-privacy 2016 spring edition
+### Aperto il Call for Sponsorship di e-privacy 2017 summer edition
 
 Dal 2002 e-privacy rappresenta una occasione unica in Italia per
 dicutere e confrontarsi sul tema di un mondo sempre più digitale ed
@@ -37,9 +37,9 @@ della filosofia, dell'informatica e dell'attivismo digitale, della
 privacy, della non-discriminazione, della sorveglianza e dei diritti
 civili digitali.
 
-Il tema dell‘edizione 2016 è:
+Il tema dell‘edizione 2017 è:
 
-**SPID ed Identità Digitale**: _Mercificazione, risorsa, opportunità o pericolo?_
+**Parole (ostili) contro la Rete**: _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”: l’involuzione della percezione della Rete_
 
 
 Gli interventi saranno effettuati dal vivo e, previo consenso dei
@@ -96,11 +96,8 @@ riportato nell'apposita sezione della comunicazione.
 La manifestazione e’ organizzata da:
 
 
- - [APIHM](http://www.apihm.it) \- Associazione Privacy and Information Healthcare Manager
- - [Master in Management delle Aziende Sanitarie dell’Università di Pisa](http://www.mastermansan.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
-.
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
 
 ### Contatti
 
@@ -108,4 +105,3 @@ Per contatti generali e per la stampa:
 [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i
 relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-

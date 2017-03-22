@@ -1,5 +1,5 @@
 Template: event
-Title: Proposta Talk
+Title: Parole (ostili) contro la Rete
 Date: 2017-03-21 10:20
 Category: 2017
 lang: it
@@ -13,7 +13,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: estate
 previd: 2016W
 prev: e-privacy-XX
-Xnextid: 2015W
+Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: PI,bba
