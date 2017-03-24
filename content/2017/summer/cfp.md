@@ -24,7 +24,7 @@ MediaPartner: infomedia
 
 ### È aperto  il Call for Paper di e-privacy 2017 summer edition
 
-Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** a Lucca con il patrocinio del Comune.
+Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** con il patrocinio del Comune di Lucca.
 
 Il tema guida della XXI edizione di e-privacy è:
 
@@ -176,7 +176,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile in questa [pagina](http://j.mp/call-eprivacy-2016)
+form disponibile in questa  [pagina](http://bit.ly/eprivacy-XXI-proposta)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 7 maggio 2017__.
