@@ -7,15 +7,15 @@ slug: collabora
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 
-L'intera organizzazione di e-privacy, anche nel 2015, è stata realizzata esclusivamente da volontari. Molte persone hanno regalato un po' del loro tempo per permettere la realizzazione di tutte le attività progettate.
+L'intera organizzazione di e-privacy è realizzata esclusivamente da volontari. Molte persone regalano un po' del loro tempo per permettere la realizzazione di tutte le attività progettate.
 
 Puoi collaborare anche tu entrando in un gruppo dinamico e molto focalizzato sulla realizzazione di progetti pratici e utili.
 
 Non abbiamo bisogno di speciali competenze o particolari attitudini, ma molto spesso la disponibilità ad imparare e condividere con gli altri.
 
-## Per e-privacy 2016 (Logistica evento)
+## Per e-privacy 2017 (Logistica evento)
 
-Per **e-privacy 2016** abbiamo bisogno di volontari per lo staff di accoglienza degli ospiti al congresso.
+Per **e-privacy 2017** abbiamo bisogno di volontari per lo staff di accoglienza degli ospiti al congresso.
 
 Per partecipare allo staff è sufficiente indicare la propria disponibilità all'indirizzo di mail della [segreteria](mailto:segreteria@winstonsmith.org)  e NON DIMENTICARE ANCHE di iscriversi alla mailing-list della [logistica di e-privacy](http://lists.globaleaks.ninja/listinfo.cgi/logistica-eprivacy-globaleaks.ninja).
 
