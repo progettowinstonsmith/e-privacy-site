@@ -11,9 +11,9 @@ Where: Real Collegio<br/>P.zza del Collegio, 13
 When: 23-24 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-Organizzatori: APHIM,hermes,upmansan,pws
+Organizzatori: hermes,pws
 previd: CFP
-prev: e-privacy-XX
+prev: e-privacy-XXI
 
 ### Aperto il Call for Sponsorship di e-privacy 2017 summer edition
 

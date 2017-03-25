@@ -16,9 +16,10 @@ prev: e-privacy-XX
 Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
-Collaboratori: PI,bba
+Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
+Sponsor: grusp,sikurezza.org,ush,puntoi
 Patrocini: comlucca
 MediaPartner: infomedia
 
