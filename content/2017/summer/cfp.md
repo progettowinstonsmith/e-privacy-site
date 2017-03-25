@@ -216,3 +216,4 @@ relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
 
+![Parole (ostili) contro la rete](/images/eprivacy2017s.png)
