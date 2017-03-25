@@ -23,6 +23,8 @@ Sponsor: grusp,sikurezza.org,ush,puntoi
 Patrocini: comlucca
 MediaPartner: infomedia
 
+![Parole (ostili) contro la rete](/images/eprivacy2017s.png)
+
 ### È aperto  il Call for Paper di e-privacy 2017 summer edition
 
 Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** con il patrocinio del Comune di Lucca.
@@ -216,4 +218,4 @@ relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
 
-![Parole (ostili) contro la rete](/images/eprivacy2017s.png)
+
