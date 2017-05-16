@@ -44,12 +44,12 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "E-PRIVACY 2016 - AUTUMN"
 
 THIS = (
-    ('Proposta Talk', '/e-privacy-XXI-proposta.html'),
-    ('Call for Paper', '/e-privacy-XXI.html'),
+    # ('Proposta Talk', '/e-privacy-XXI-proposta.html'),
+    # ('Call for Paper', '/e-privacy-XXI.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
-    # ('Il programma', '/e-privacy-XX.html'),
-    # ('Gli interventi', '/e-privacy-XX-interventi.html'),
-    # ('I relatori', '/e-privacy-XX-relatori.html'),
+     ('Il programma', '/e-privacy-XXI.html'),
+    ('Gli interventi', '/e-privacy-XXI-interventi.html'),
+    ('I relatori', '/e-privacy-XXI-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XXI-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XX-faq-relatori.html'),
     # ('Come arrivare', '/e-privacy-XX-come-arrivare.html'),
