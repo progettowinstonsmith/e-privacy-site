@@ -20,7 +20,7 @@ Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 Sponsor: grusp,sikurezza.org,ush,puntoi
-Patrocini: comlucca
+Patrocini: comlucca,luording
 MediaPartner: infomedia
 
 ## <a name="talks"></a>Gli interventi

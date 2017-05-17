@@ -19,7 +19,7 @@ Organizzatori: hermes,pws
 Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: grusp,sikurezza.org,ush,puntoi,lucna
+Sponsor: grusp,sikurezza.org,ush,puntoi
 Patrocini: comlucca,luording
 MediaPartner: infomedia,radioradicale
 
