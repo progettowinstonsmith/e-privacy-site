@@ -91,6 +91,20 @@ Mi occupo principalmente di sicurezza applicativa e dei sistemi embedded.
 <!-- ### <a name='falcomata'></a>Igor Falcomata' -->
 
 
+### <a name='cerrato'></a>Giovanni Cerrato
+
+Penetration tester da sempre appassionato di sicurezza degli
+applicativi Web. Ha conseguito la laurea specialistica in Ingegneria
+Informatica discutendo un elaborato nel quale venivano analizzati i
+meccanismi utilizzati dal rinomato “The great firewall of China” e i
+principi di funzionamento della censura su Internet. Attualmente
+lavora per la società AizoOn Technology Consulting e si occupa di
+tematiche inerenti la sicurezza di applicazioni Web, Mobile e sistemi
+Iot. E’ membro attivo del capitolato Italiano di Owasp con il quale ha
+partecipato al progetto “Adopt Open Source Software”, un iniziativa
+finalizzata a fornire supporto all’analisi di sicurezza di progetti
+open-source, nel gruppo di lavoro che si è occupato della piattaforma
+di whistleblowing GlobaLeaks.
 
 ### <a name='carletti'></a>Fabio Carletti 
 
@@ -106,6 +120,7 @@ Prima che un avvocato è un cittadino dell'Unione europea.
 Prima che un cittadino dell'Unione europea è una persona.
 E come persona è iscritto al Partito Radicale Nonviolento Transnazionale e Transpartito."
 
+<!--
 ### <a name='fabiano'></a>Nicola Fabiano
 
 Avvocato Cassazionista, Specialista in Diritto Civile, fondatore dello Studio Legale Fabiano nel 1994, consulente ed esperto su privacy, protezione dei dati personali e sicurezza informatica.
@@ -115,6 +130,7 @@ Vincitore del 7th Annual Global Law Experts Awards come “Law Firm of the Year 
 Ricercatore indipendente.
 È autore di libri, articoli, saggi, e contributi in genere.
 È membro del “Council of The Internet of Things”.
+-->
 
 ### <a name='flora'></a>Matteo Flora (The Fool srl)
 

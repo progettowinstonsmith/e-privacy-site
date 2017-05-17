@@ -105,6 +105,26 @@ e come reagire il disagio adolescenziale e la problematica di una
 relazione virtuale anche per gli adulti spesso vittima di ricatti e il
 bisogno dei giovani è sempre quello di esserci nel web
 
+### <a name='cerrato></a>Giovanni Cerrato
+**Analisi delle tecniche di censura della piattaforma Tor**
+
+L’aumento incontrollato dei contenuti pubblicati sul web negli ultimi
+anni se da un lato ha favorito l’interscambio di informazioni
+dall’altro ha aperto lo scenario a un'altra tematica tanto importante
+quanto delicata ovvero quella della libertà digitale. A sua volta la
+libertà digitale risulta strettamente legata al tema della censura su
+Internet, in quanto gli Stati o i provider di servizi hanno la facoltà
+di negare l’accesso ai contenuti sulla rete Internet. L’utilizzo
+troppo oppressivo delle restrizioni col tempo ha dato ha dato vita
+alla nascita di opportuni meccanismi di evasione delle censure e allo
+stato attuale uno dei meccanismi più adoperati è senza dubbio la
+piattaforma Tor.  Nella presentazione verranno illustrate le tecniche
+utilizzate dagli Stati per censurare e inibire l’utilizzo della
+piattaforma Tor. Verrà fornito inoltre un accenno ai principi e alle
+metodologie su cui si è basato lo sviluppo di un tool in grado di
+appurare se in un determinato stato tale censura viene adoperata.
+
+
 ### <a name='Del Soldato'></a>Flavio Del Soldato
 **L'indipendenza delle autorità di controllo. Il caso italiano.**
 
