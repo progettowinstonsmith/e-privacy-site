@@ -126,18 +126,18 @@ sulla Rete.
   **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | --- | ------- | ------- 
 14:30	|		    |	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) | Apertura lavori pomeridiani: Internet of Things (reloaded)
-14:30	|	0:25	|	[_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
-14:55	|	0:25	|	[_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
+14:30	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
+14:55	|	0:25	|	[_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 15:20	|	0:25	|	[_Stefano Vignera (Bislab)_](e-privacy-XXI-relatori.html#vignera)	|	[_Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa_](e-privacy-XXI-interventi.html#vignera)
-15:45	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
-16:10	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
-16:35	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
+15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
+16:10	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
+16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari) e [_Igor Falcomata' _](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
 17:00	|	1:00	|	Introduce: [_Stefano Aterno _](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari _](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza _](e-privacy-XXI-relatori.html#bozza), [_Nicola Fabiano _](e-privacy-XXI-relatori.html#fabiano), [_Igor Falcomata' _](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo _](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con gli IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
 
 #### <a name="sa"></a>Sabato 24 Giugno 2017 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
 
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
@@ -157,7 +157,7 @@ sulla Rete.
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
 15:00	|	0:05	||	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma)  | Apertura lavori pomeridiani:  ÈStato di Diritto. E ora?			
-15:05	|	0:30	|
+15:05	|	0:30	| [_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
 15:35	|	0:40	|		[_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
 16:15	|	0:45	|		[_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
 17:00	|	0:30	|		[_Pasquale Annicchino (Lex Digital)_](e-privacy-XXI-relatori.html#annicchino)	|	[_La sorveglianza delle minoranze religiose nell'era del terrorismo globale_](e-privacy-XXI-interventi.html#annicchino)
