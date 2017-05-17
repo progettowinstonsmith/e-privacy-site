@@ -3,8 +3,8 @@ Title:Parole (Ostili) contro la RETE
 Date: 2017-05-03 08:20
 Category: 2017
 lang: it
-Num: XIX
-Year: 2016
+Num: XXI
+Year: 2017
 slug: e-privacy-XXI-relatori
 City: Lucca
 Where: Real Collegio<br/>P.zza del Collegio, 13
