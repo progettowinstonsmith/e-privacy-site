@@ -22,6 +22,7 @@ XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 Sponsor: grusp,sikurezza.org,ush,puntoi,lucna
 Patrocini: comlucca,luording
 MediaPartner: infomedia
+Buy: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
 
 <!--
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.it/tickets-external?eid=25913807897&ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/r/etckt">Con tecnologia Eventbrite</a></div></div>
@@ -98,6 +99,8 @@ Rete, e per questo, anche con una retrospettiva storica, la XXI
 edizione di e-privacy sarà un’edizione speciale a sostegno della
 libertà di espressione e contro l’odio e la sopraffazione nella e
 sulla Rete.
+
+Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
 
 
 ### <a name="programma"></a>Programma del Convegno

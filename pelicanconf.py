@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 LOAD_CONTENT_CACHE = False
 
-COUNTDOWN = False
+COUNTDOWN = True
 
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'

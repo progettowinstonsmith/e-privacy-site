@@ -53,20 +53,33 @@ Internet wealth"".
 
 ### <a name='annicchino'></a>Pasquale Annicchino (Lex Digital)
 
-Pasquale Annicchino, Research Fellow presso l'European University Institute di Fiesole è il direttore scientifico di Lex Digital (www.lexdigital.it). Su nomina del Ministro dell'interno è membro del consiglio per l'Islam italiano. Ha pubblicato su numerose riviste italiane ed internazionali. Si occupa dell'interazione fra sviluppo  del diritto della tecnologia e tutela dei diritti fondamentali.
+Pasquale Annicchino, Research Fellow presso l'European University
+Institute di Fiesole è il direttore scientifico di Lex Digital
+(www.lexdigital.it). Su nomina del Ministro dell'interno è membro del
+consiglio per l'Islam italiano. Ha pubblicato su numerose riviste
+italiane ed internazionali. Si occupa dell'interazione fra sviluppo
+del diritto della tecnologia e tutela dei diritti fondamentali.
 
 ### <a name='aterno'></a>Stefano Aterno
 
-Avvocato cassazionista, docente universitario, Certificato Lead auditor ISO 27001
-Consulente privacy di enti istituzionali, società private e multinazionali. 
-Autore di numerose pubblicazioni e monografie sugli aspetti giurdici della riservatezza dei dati personali e della privacy, del diritto penale dell'informatica e sul diritto delle nuove tecnologie. 
-elenco quasi completo su www.studioaterno.it
+Avvocato cassazionista, docente universitario, Certificato Lead
+auditor ISO 27001 Consulente privacy di enti istituzionali, società
+private e multinazionali.  Autore di numerose pubblicazioni e
+monografie sugli aspetti giurdici della riservatezza dei dati
+personali e della privacy, del diritto penale dell'informatica e sul
+diritto delle nuove tecnologie.  elenco quasi completo su
+www.studioaterno.it
 
 ### <a name='blengino"></a>Carlo Blengino
 
-Carlo Blengino svolge la professione esclusivamente nel settore penale, con specializzazione in proprietà intellettuale, diritto dell'informatica, delle nuove tecnologie, tutela della riservatezza e dei dati personali.
-Collabora con le riviste on-line Medialaws.eu, Nova.ilsole24ore.com ed ha pubblicato lavori con Giappichelli Editore, UTET Giuridica, EGEA ed Aracne. 
-E' fellow del Nexa Center for Internet & Society del Politecnico di Torino ed ha un blog personale sul quotidiano on-line ilPOST.it.
+Carlo Blengino svolge la professione esclusivamente nel settore
+penale, con specializzazione in proprietà intellettuale, diritto
+dell'informatica, delle nuove tecnologie, tutela della riservatezza e
+dei dati personali.  Collabora con le riviste on-line Medialaws.eu,
+Nova.ilsole24ore.com ed ha pubblicato lavori con Giappichelli Editore,
+UTET Giuridica, EGEA ed Aracne.  E' fellow del Nexa Center for
+Internet & Society del Politecnico di Torino ed ha un blog personale
+sul quotidiano on-line ilPOST.it.
 
 
 ### <a name='bozza'></a>Massimo Bozza
