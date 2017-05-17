@@ -70,7 +70,7 @@ personali e della privacy, del diritto penale dell'informatica e sul
 diritto delle nuove tecnologie.  elenco quasi completo su
 www.studioaterno.it
 
-### <a name='blengino"></a>Carlo Blengino
+### <a name='blengino'></a>Carlo Blengino
 
 Carlo Blengino svolge la professione esclusivamente nel settore
 penale, con specializzazione in proprietà intellettuale, diritto
