@@ -108,7 +108,7 @@ sulla Rete.
 
   **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | | ------- | ------- 
-9:00	|	0:15	|  Apertura lavori: Parole (Ostili) contro la Rete
+9:00	|	0:15	|  Apertura lavori: Parole (ostili) contro la Rete
 9:15	|	0:15	|	Saluto del Sindaco di Lucca Alessandro Tambellini			
 9:30	|	0:30	|		[_Matteo Flora (The Fool srl)_](e-privacy-XXI-relatori.html#flora)	|	[_Osservare la Rete che Odia: una analisi dell'Odio Online_](e-privacy-XXI-interventi.html#flora)
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
@@ -125,9 +125,9 @@ sulla Rete.
  
   **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | --- | ------- | ------- 
-14:30	|		    | Apertura lavori: «eprivacy è grande e internet è il suo profeta»
-14:30	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
-14:55	|	0:25	|	[_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
+14:30	|		    | Apertura lavori pomeridiani
+14:30	|	0:25	|		[_Pasquale Annicchino (Lex Digital)_](e-privacy-XXI-relatori.html#annicchino)	|	[_La sorveglianza delle minoranze religiose nell'era del terrorismo globale_](e-privacy-XXI-interventi.html#annicchino)
+14:55	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
 15:20	|	0:25	|	[_Stefano Vignera (Bislab)_](e-privacy-XXI-relatori.html#vignera)	|	[_Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa_](e-privacy-XXI-interventi.html#vignera)
 15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
 16:10	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
@@ -135,7 +135,7 @@ sulla Rete.
 17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza), <!-- [_Nicola Fabiano_](e-privacy-XXI-relatori.html#fabiano), --> [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
 
-#### <a name="sa"></a>Sabato 24 Giugno 2017 - mattina
+#### <a name="sam"></a>Sabato 24 Giugno 2017 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
 
@@ -151,17 +151,17 @@ sulla Rete.
 12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
 13:30   |   | PAUSA PRANZO
 
-#### <a name="sa"></a>Sabato 24 Giugno 2017 - mattina
+#### <a name="sap"></a>Sabato 24 Giugno 2017 - pomeriggio
 
  * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
  
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
-15:00	|	0:05	||	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma)  | Apertura lavori pomeridiani:  ÈStato di Diritto. E ora?			
+15:00	|	0:05	||	Apertura lavori pomeridiani
 15:05	|	0:30	| [_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
-15:35	|	0:40	|		[_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
-16:15	|	0:45	|		[_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
-17:00	|	0:30	|		[_Pasquale Annicchino (Lex Digital)_](e-privacy-XXI-relatori.html#annicchino)	|	[_La sorveglianza delle minoranze religiose nell'era del terrorismo globale_](e-privacy-XXI-interventi.html#annicchino)
+15:35	|	0:40	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
+16:15	|	0:45	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
+17:00	|	0:30	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 
 ### Sede di e-privacy 2017 summer edition
 
