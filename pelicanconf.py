@@ -141,6 +141,7 @@ PARTNERS = {
     'interdatnet': ('InterDatNet', 'Interdatanet_no_bg_66.png', 'http://www.interdatanet.org'),
     'isgroup': ('Information Security Group', 'isgroup.png', 'http://www.isgroup.it/it/index.html'),
     'lilik': ('Lilik', 'lilik.png', 'http://www.lilik.it'),
+    'luording' : ('Ordine degli Ingegneri della Provincia di Lucca', 'lu.ording.png','http://www.ordineingegneri.lucca.it/'),
     'medialaws': ('MediaLaws', 'medialaws.png', 'http://www.medialaws.eu'),
     'metro': ('Associazione Culturale Informatica Metro Olografix', 'metro.png', 'http://www.olografix.org/'),
     'nexa': ('Centro Nexa', 'nexa.jpg', 'http://nexa.polito.it/press-kit'),

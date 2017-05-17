@@ -20,7 +20,7 @@ Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 Sponsor: grusp,sikurezza.org,ush,puntoi
-Patrocini: comlucca
+Patrocini: comlucca,luording
 MediaPartner: infomedia
 
 <!--
@@ -108,7 +108,7 @@ sulla Rete.
 
   **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | | ------- | ------- 
-9:00	|	0:15	|	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) | Apertura lavori: Parole (Ostili) contro la Rete
+9:00	|	0:15	|  Apertura lavori: Parole (Ostili) contro la Rete
 9:15	|	0:15	|	Saluto del Sindaco di Lucca			
 9:30	|	0:30	|		[_Matteo Flora (The Fool srl)_](e-privacy-XXI-relatori.html#flora)	|	[_Osservare la Rete che Odia: una analisi dell'Odio Online_](e-privacy-XXI-interventi.html#flora)
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
@@ -125,14 +125,14 @@ sulla Rete.
  
   **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | --- | ------- | ------- 
-14:30	|		    |	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) | Apertura lavori pomeridiani: Internet of Things (reloaded)
+14:30	|		    | Apertura lavori: «Internet è grande e la privacy è il suo profeta»
 14:30	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
 14:55	|	0:25	|	[_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 15:20	|	0:25	|	[_Stefano Vignera (Bislab)_](e-privacy-XXI-relatori.html#vignera)	|	[_Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa_](e-privacy-XXI-interventi.html#vignera)
 15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
 16:10	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
-16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari) e [_Igor Falcomata' _](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
-17:00	|	1:00	|	Introduce: [_Stefano Aterno _](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari _](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza _](e-privacy-XXI-relatori.html#bozza), [_Nicola Fabiano _](e-privacy-XXI-relatori.html#fabiano), [_Igor Falcomata' _](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo _](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con gli IOT_](e-privacy-XXI-interventi.html#tavola2)
+16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari) e [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
+17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza), <!-- [_Nicola Fabiano_](e-privacy-XXI-relatori.html#fabiano), --> [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
 
 #### <a name="sa"></a>Sabato 24 Giugno 2017 - mattina
@@ -141,7 +141,7 @@ sulla Rete.
 
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
-9:00	|	0:25	| [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) |	Apertura lavori: Nuovi diritti della conoscenzaxs
+9:00	|	0:25	|	Apertura lavori: Nuovi diritti della conoscenza
 9:25	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#vacca), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
 9:55	|	0:30	|	[_Aldo A. Pazzaglia (Studio legale Pazzaglia)_](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?_](e-privacy-XXI-interventi.html#pazzaglia)
 10:25	|	0:30	|	[_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) e [_Monica Senor_](e-privacy-XXI-relatori.html#senor)	|	[_Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete_](e-privacy-XXI-interventi.html#blenginosenor)
@@ -164,7 +164,7 @@ sulla Rete.
 
 La sede di e-privacy 2017 summer edition sarà Sala dell’Affresco del Real Collegio.
 
-<!-- ![La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
+![Lucca - Real Collegio](images/sale/lu-rc-saladellaffresco.jpg) 
 
 ### Organizzazione
 
