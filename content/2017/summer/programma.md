@@ -109,7 +109,7 @@ sulla Rete.
   **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | | ------- | ------- 
 9:00	|	0:15	|  Apertura lavori: Parole (Ostili) contro la Rete
-9:15	|	0:15	|	Saluto del Sindaco di Lucca			
+9:15	|	0:15	|	Saluto del Sindaco di Lucca Alessandro Tambellini			
 9:30	|	0:30	|		[_Matteo Flora (The Fool srl)_](e-privacy-XXI-relatori.html#flora)	|	[_Osservare la Rete che Odia: una analisi dell'Odio Online_](e-privacy-XXI-interventi.html#flora)
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
 10:30	|	0:30	|		[_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana)	|	[_Tutela della personalità e fake news. Quale regolamentazione e quali tutele?_](e-privacy-XXI-interventi.html#sarzana)
@@ -148,9 +148,10 @@ sulla Rete.
 10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#del soldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#del soldato)
 11:35	|	0:25	|	[_Diego Naranjo (EDRi)_](e-privacy-XXI-relatori.html#naranjo)	|	[_Track or be tracked? The challenges of the ePrivacy Regulation_](e-privacy-XXI-interventi.html#naranjo)
 12:00   |   0:25    |	[_Laura Harth_](e-privacy-XXI-relatori.html#hart)	|	[_Diritto alla Conoscenza come Diritto Umano_](e-privacy-XXI-interventi.html#hart)
-12:05	|	1:20	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
+12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
+13:30   |   | PAUSA PRANZO
 
-### Sede di e-privacy 2017 summer edition
+#### <a name="sa"></a>Sabato 24 Giugno 2017 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
  
@@ -161,6 +162,9 @@ sulla Rete.
 15:35	|	0:40	|		[_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
 16:15	|	0:45	|		[_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
 17:00	|	0:30	|		[_Pasquale Annicchino (Lex Digital)_](e-privacy-XXI-relatori.html#annicchino)	|	[_La sorveglianza delle minoranze religiose nell'era del terrorismo globale_](e-privacy-XXI-interventi.html#annicchino)
+
+### Sede di e-privacy 2017 summer edition
+
 
 La sede di e-privacy 2017 summer edition sarà Sala dell’Affresco del Real Collegio.
 
