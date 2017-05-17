@@ -15,7 +15,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy autumn 2016: Privacy ed antiterrorismo: “Un equilibrio reale tra obbiettivi apparentemente inconciliabili è possibile?”'
+SITENAME = u'e-privacy 2017 summer: Parole (ostili) contro la rete'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'http://e-privacy.winstonsmith.org'
@@ -26,7 +26,7 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2016'
+YEAR = u'2017'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -41,7 +41,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "E-PRIVACY 2016 - AUTUMN"
+THIS_TITLE = "EPRIVACY 2017 - SUMMER"
 
 THIS = (
     # ('Proposta Talk', '/e-privacy-XXI-proposta.html'),
