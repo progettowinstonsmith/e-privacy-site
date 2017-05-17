@@ -1,6 +1,6 @@
 Template: event
 Title:Parole (Ostili) contro la RETE
-Date: 2016-05-03 08:20
+Date: 2017-05-03 08:20
 Category: 2017
 lang: it
 Num: XIX
@@ -19,9 +19,9 @@ Organizzatori: hermes,pws
 Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: grusp,sikurezza.org,ush,puntoi
-Patrocini: comlucca
-MediaPartner: infomedia
+Sponsor: grusp,sikurezza.org,ush,puntoi,lucna
+Patrocini: comlucca,luording
+MediaPartner: infomedia,radioradicale
 
 ## <a name="speakers"></a>I relatori
 

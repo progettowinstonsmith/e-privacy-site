@@ -22,11 +22,6 @@ XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 Sponsor: grusp,sikurezza.org,ush,puntoi,lucna
 Patrocini: comlucca,luording
 MediaPartner: infomedia
-Buy: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
-
-<!--
-<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.it/tickets-external?eid=25913807897&ref=etckt" frameborder="0" height="360" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/r/etckt">Con tecnologia Eventbrite</a></div></div>
--->
 
 ### Programma (provvisorio) di e-privacy 2017 summer edition
 
@@ -107,7 +102,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
  
 #### <a name="vem"></a>Venerdì 23 Giugno 2017 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
 
   **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | | ------- | ------- 
@@ -124,7 +119,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 
 #### <a name="vep"></a>Venerdì 23 Giugno 2017 - pomeriggio
 
- * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
  
   **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | --- | ------- | ------- 
@@ -134,13 +129,13 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 15:20	|	0:25	|	[_Stefano Vignera (Bislab)_](e-privacy-XXI-relatori.html#vignera)	|	[_Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa_](e-privacy-XXI-interventi.html#vignera)
 15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
 16:10	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
-16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari) e [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
+16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) e [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
 17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza), <!-- [_Nicola Fabiano_](e-privacy-XXI-relatori.html#fabiano), --> [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
 
 #### <a name="sam"></a>Sabato 24 Giugno 2017 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith
 
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
@@ -151,12 +146,12 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#del soldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#del soldato)
 11:35	|	0:25	|	[_Diego Naranjo (EDRi)_](e-privacy-XXI-relatori.html#naranjo)	|	[_Track or be tracked? The challenges of the ePrivacy Regulation_](e-privacy-XXI-interventi.html#naranjo)
 12:00   |   0:25    |	[_Laura Harth_](e-privacy-XXI-relatori.html#hart)	|	[_Diritto alla Conoscenza come Diritto Umano_](e-privacy-XXI-interventi.html#hart)
-12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
+12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
 13:30   |   | PAUSA PRANZO
 
 #### <a name="sap"></a>Sabato 24 Giugno 2017 - pomeriggio
 
- * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith
  
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
