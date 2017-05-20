@@ -23,7 +23,7 @@ Sponsor: grusp,sikurezza.org,ush,puntoi
 Patrocini: comlucca,luording
 MediaPartner: infomedia
 
-### Programma (quasi definitivo) di e-privacy 2017 summer edition
+### Programma di e-privacy 2017 summer edition
 
 Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** con il patrocinio del Comune di Lucca.
 
@@ -157,10 +157,9 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
   ------- || ------- | ------- 
 15:00	|	0:05	||	Apertura lavori pomeridiani
 15:05	|	0:30	| [_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
-15:35	|	0:40	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
-16:15	|	0:45	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
-17:00	|	0:30	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
-17:30	|	0:30	|  [_Giovanni Cerrato_](e-privacy-XXI-relatori.html#cerrato)	|	[_Analisi delle tecniche di censura della piattaforma Tor_](e-privacy-XXI-interventi.html#cerrato)
+15:35	|	0:35	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
+16:10	|	0:35	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
+16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_TBA_](e-privacy-XXI-interventi.html#premoli)
 
 ### Sede di e-privacy 2017 summer edition
 
