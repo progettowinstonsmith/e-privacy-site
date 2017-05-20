@@ -220,7 +220,16 @@ la forensics.
 
 ### <a name='hart'></a>Laura Harth (rappresentante all'ONU del Partito Radicale)
 
-
+Laura Harth è ricercatrice dottoranda presso l'Università di Exeter,
+Regno Unito. Il dottorato è finanziato dal South West Doctoral
+Training Centre (Economic and Social Research Council, UK). Ha
+completato con lode il suo Master in Diritto Internazionale ed Europeo
+presso l'Università di Ghent, in Belgio, il Master europeo in Diritti
+dell'Uomo e Democratizzazione con una tesi sul potere della
+nonviolenza presso l'Università di Padova, Italia, e il Master di
+Ricerca in Scienze Politiche presso l’Università di Exeter. È
+attualmente Rappresentante del Partito Radicale Nonviolento
+Transnazionale e Transpartito presso le Nazioni Unite.
 
 ### <a name='micozzi'></a>Francesco Paolo Micozzi
 
