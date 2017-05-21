@@ -1,4 +1,3 @@
-Status: Draft
 Title: Come arrivare ad eprivacy
 Date: 2016-04-29 10:20
 Category: 2017
