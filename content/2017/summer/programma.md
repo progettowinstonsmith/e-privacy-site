@@ -64,7 +64,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 14:55	|	0:25	|	[_Giovambatttista Vieri_](e-privacy-XXI-relatori.html#vieri)	|	[_Il giuoco nell'occhio_](e-privacy-XXI-interventi.html#vieri)
 15:20	|	0:25	|	[_Stefano Vignera (Bislab)_](e-privacy-XXI-relatori.html#vignera)	|	[_Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa_](e-privacy-XXI-interventi.html#vignera)
 15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
-16:10	|	0:25	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
+16:10	|	0:25	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) e [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
 17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza), <!-- [_Nicola Fabiano_](e-privacy-XXI-relatori.html#fabiano), --> [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
@@ -96,7 +96,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 15:35	|	0:35	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
 16:10	|	0:35	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
 16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_Mezzi di comunicazione sicuri in un modo spiato_](e-privacy-XXI-interventi.html#premoli)
-17:00	|	0:30	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
+17:00	|	0:30	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
 17:30	|	0:30	|  [_Giovanni Cerrato_](e-privacy-XXI-relatori.html#cerrato)	|	[_Analisi delle tecniche di censura della piattaforma Tor_](e-privacy-XXI-interventi.html#cerrato)
 
 
