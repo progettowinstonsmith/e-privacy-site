@@ -95,7 +95,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 15:05	|	0:30	| [_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
 15:35	|	0:35	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
 16:10	|	0:35	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
-16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_Mezzi di comunicazione sicuri in un modo spiato_](e-privacy-XXI-interventi.html#premoli)
+16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_Mezzi di comunicazione sicuri in un mondo spiato_](e-privacy-XXI-interventi.html#premoli)
 17:00	|	0:30	|	[_Efrem Zugnaz_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Webprepping - Survivalismo dell'identità digitale_](e-privacy-XXI-interventi.html#zugnaz)
 17:30	|	0:30	|  [_Giovanni Cerrato_](e-privacy-XXI-relatori.html#cerrato)	|	[_Analisi delle tecniche di censura della piattaforma Tor_](e-privacy-XXI-interventi.html#cerrato)
 

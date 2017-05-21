@@ -540,7 +540,7 @@ pensiero che possa accadere? E’ una prospettiva affatto scontata.
 Quindi cosa rimane da fare? Prepararci.
 
 ### <a name='premoli'></a>Roberto Premoli
-**Mezzi di comunicazione sicuri in un modo spiato**
+**Mezzi di comunicazione sicuri in un mondo spiato**
 
 Analisi dell'evoluzione del tecnocontrollo utilizzato dagli USA a partire
  dagli anni '70, la relazione mostrerà i progressi tecnici, politici e
