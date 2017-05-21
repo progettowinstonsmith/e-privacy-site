@@ -40,7 +40,7 @@ dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
 Dal 2002 organizza il convegno "e-privacy" dedicato alla
 privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
 dove pubblica la rubrica settimanale 
-<a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html">"Cassandra Crossing"</a>.
+<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
 
 
 ### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
