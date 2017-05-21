@@ -23,7 +23,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,puntoi,sepel
 Patrocini: comlucca,luording
 MediaPartner: infomedia, radioradicale
 
-### Programma di e-privacy 2017 summer edition
+###e-privacy 2017 - summer edition
 
 Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** con il patrocinio del Comune di Lucca.
 
