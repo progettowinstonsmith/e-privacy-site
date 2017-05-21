@@ -19,9 +19,9 @@ Organizzatori: hermes,pws
 Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: grusp,sikurezza.org,ush,puntoi
+Sponsor: cgt,grusp,sikurezza.org,ush,puntoi,sepel
 Patrocini: comlucca,luording
-MediaPartner: infomedia
+MediaPartner: infomedia, radioradicale
 
 ### Programma di e-privacy 2017 summer edition
 
