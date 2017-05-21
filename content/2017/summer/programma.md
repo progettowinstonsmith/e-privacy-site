@@ -71,7 +71,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 
 #### <a name="sam"></a>Sabato 24 Giugno 2017 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith
+* Chairman: [_Giuseppe Busia_](e-privacy-XXI-relatori.html#busia) (Segretario Generale del Garante Privacy)
 
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
