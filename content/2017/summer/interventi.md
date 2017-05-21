@@ -26,7 +26,7 @@ MediaPartner: infomedia
 ## <a name="talks"></a>Gli interventi
 
 
-### <a name='Annicchino'></a>Pasquale Annicchino (Lex Digital)
+### <a name='annicchino'></a>Pasquale Annicchino (Lex Digital)
 **La sorveglianza delle minoranze religiose nell'era del terrorismo globale**
 
 Lo sviluppo delle tecnologie della sorveglianza ha mutato
@@ -42,7 +42,7 @@ del diritto alla privacy. L'intento di questo contributo è quello di
 analizzare alcuni aspetti generali di questi sviluppi partendo
 dall'esperienza statunitense.
 
-### <a name='Aterno'></a>Stefano Aterno
+### <a name='aterno'></a>Stefano Aterno
 **Il concetto di domicilio informatico nell'epoca dell' IOT   **
 
 Si affonterà la delicata questione del domicilio informatico e la sua
@@ -125,7 +125,7 @@ metodologie su cui si è basato lo sviluppo di un tool in grado di
 appurare se in un determinato stato tale censura viene adoperata.
 
 
-### <a name='Del Soldato'></a>Flavio Del Soldato
+### <a name='delsoldato'></a>Flavio Del Soldato
 **L'indipendenza delle autorità di controllo. Il caso italiano.**
 
 “Per garantire un’effettiva protezione dei dati devono essere create
@@ -143,7 +143,7 @@ pende presso la Commissione europea una denuncia ad oggetto la mancata
 piena indipendenza del Garante per la protezione dei dati personali.
 L'intervento illustra gli elementi sui quali si fonda la denuncia.
 
-### <a name='Fabiano'></a>Nicola Fabiano
+### <a name='fabiano'></a>Nicola Fabiano
 **Internet of Things, blockchain e privacy: la sfida**
 
 L'Internet of Things è un fenomeno innovativo e importante per molte
@@ -176,7 +176,7 @@ by Default. In particolare per la blockchain sussistono questioni di
 rilievo relative alla privacy ma allo stesso tempo con essa si possono
 sviluppare applicazioni sicure in materia di eID.
 
-### <a name='Flora'></a>Matteo Flora (The Fool srl)
+### <a name='flora'></a>Matteo Flora (The Fool srl)
 **Osservare la Rete che Odia: una analisi dell'Odio Online**
 
 Che la rete "odi" è ormai banale, quasi lapalissiano: ne osserviamo
@@ -257,7 +257,7 @@ problemi importanti. Ma il detto panem et circences non è stato
 inventato da Zuckerberg. Tutto sommato, parafrasando Voltaire, meglio
 10 stupidaggini in libertà che un’idea geniale censurata.
 
-### <a name='Guarino'></a>Alessandro Guarino (StudioAG)
+### <a name='guarino'></a>Alessandro Guarino (StudioAG)
 **Attenti allo Stato Etico (Voi avrete i soldi e i dati ma noi abbiamo le armi)**
 
 Nella “Dichiarazione di indipendenza del cyberspazio”, nel 1996, John
@@ -290,7 +290,7 @@ tendenza e agli spauracchi invocati per giustificarla (terrorismo,
 pedopornografia, cyberbullismo, evasione fiscale e ultimamente ""fake
 news""): sono le parole ostili più potenti di tutte.
 
-### <a name='Hart'></a>Laura Harth (Partito Radicale)
+### <a name='hart'></a>Laura Harth (Partito Radicale)
 **Diritto alla Conoscenza come Diritto Umano**
 
 La campagna per l’affermazione del diritto del pubblico a conoscere
@@ -323,7 +323,7 @@ e di revisione. Questa ecologia di strumenti è fondamentale per
 consentire il dibattito pubblico vero e pluralistico, così come la
 partecipazione piena in una società democratica
 
-### <a name='Naranjo'></a>Diego Naranjo (EDRi)
+### <a name='naranjo'></a>Diego Naranjo (EDRi)
 **Track or be tracked? The challenges of the ePrivacy Regulation**
 
 This is the quick guide of European Digital Rights where we discuss
@@ -336,7 +336,7 @@ during the ongoing debate. Relatively soon we will need the attention
 of the general public, and this talk is an attempt to make that
 happen.
 
-### <a name='Palumbo'></a>Andrea Palumbo
+### <a name='palumbo'></a>Andrea Palumbo
 **Big Data e trattamenti di dati anonimi. Un inquadramento normativo**
 
 Soprattutto nel campo dei Big Data, il tema dell’anonimizzazione dei
@@ -363,7 +363,7 @@ se debbano essere considerate “trattamenti di dati personali” ai sensi
 dell’attuale normativa -e di quella di futura applicazione- e sulla
 base di quali presupposti normativi possano essere effettuate.
 
-### <a name='Pazzaglia'></a>Aldo A. Pazzaglia  (Studio legale avv. Aldo A. Pazzaglia)
+### <a name='pazzaglia'></a>Aldo A. Pazzaglia  (Studio legale avv. Aldo A. Pazzaglia)
 **Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?**
 
 L'art. 1 del D.Lgs 196 del 30/06/2003 recita: “Chiunque ha diritto
@@ -385,7 +385,7 @@ ma, ad esempio, invece, si riconosce il diritto alla tutela del nome
 Corte di Giustizia dell'Unione Europea, 9.11.2010, C-92 e C. 93/10,
 Schecke e Eifert ?
 
-### <a name='Puligheddu'></a>Andrea Puligheddu  (Orlandi&Partners Studio Legale)
+### <a name='puligheddu'></a>Andrea Puligheddu  (Orlandi&Partners Studio Legale)
 **Il diritto all'oblio nell'era dei Big Data**
 
 Le cronache di questi giorni sono davanti ai nostri occhi, e ci
@@ -427,7 +427,7 @@ gli attacchi frequenti ai media e il consolidamento costante delle
 agenzie di stampa.  Quali strumenti dovrebbero essere messi in atto
 per far fronte a questa situazione?
 
-### <a name='Sarzana'></a>Fulvio Sarzana
+### <a name='sarzana'></a>Fulvio Sarzana
 **Tutela della personalità e fake news. Quale regolamentazione e quali tutele?**
 
 Fake news, post-verita' e tutela dei diritti dei cittadini, è questo
@@ -440,7 +440,7 @@ online. si analizzeranno anche i provvedimenti giurisprudenziali che
 hanno affrontato il tema delle cd bufale on line e le possibili
 implicazioni penali della diffusione di notizie false in rete.
 
-### <a name='Somma'></a>Emmanuele Somma  (Progetto Winston Smith)
+### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
 **Odio Online - il caso del Forum Radicale Inufficiale**
 
 Questa presentazione riporta uno studio sul comportamento all'interno
@@ -452,7 +452,7 @@ invertire un modello di comportamento basato su odio, violenza e
 prevaricazione per diventare un ambiente dialogicamente superiore, non
 senza qualche spunto umoristico.
 
-### <a name='Vacca'></a>Renato Gabriele Bigdata42, Manuela Vacca
+### <a name='vacca'></a>Renato Gabriele Bigdata42, Manuela Vacca
 **Dallo stato delle bufale alle bufale di Stato**
 
 L'Italia è un Paese dalla memoria corta. Purtroppo la memoria corta
@@ -470,7 +470,7 @@ si propone di ricostruire le tappe fondamentali dello stato della
 disinformazione come propaganda politica, analogica e telematica.
 
 
-### <a name='Vieri'></a>Giovambatttista Vieri
+### <a name='vieri'></a>Giovambattista Vieri
 **Il giuoco nell'occhio**
 
 Attualmente ricognizione aerea e/o satellitare e gamification
@@ -485,7 +485,7 @@ traffico/economici diventa possibile. E come valutare i loro impatti
 se non inserendo tutto cio' in una bella simulazione giocosa ? Che uso
 per questi dati e queste previsioni ? Che privacy in un videogame ?
 
-### <a name='Vignera'></a>Stefano Vignera (Bislab)
+### <a name='vignera'></a>Stefano Vignera (Bislab)
 **Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa**
 
 Nel piano internazionale di digitalizzazione dell'industria
@@ -515,8 +515,7 @@ licenziamento), commentando alcuni provvedimenti del Garante Privacy,
 del Ministero del Lavoro e della giurisprudenza maggiormente rilevanti
 sul tema delle nuove tecnologie.
 
-
-### <a name='Zugnaz'></a>Efrem Zugnaz
+### <a name='zugnaz'></a>Efrem Zugnaz
 **Webprepping - Survivalismo dell'identità digitale**
 
 Film apocalittici e teorie sulla fine del mondo non avevano catturato
@@ -540,7 +539,18 @@ viene un brivido lungo la schiena e il battito accellerato al solo
 pensiero che possa accadere? E’ una prospettiva affatto scontata.
 Quindi cosa rimane da fare? Prepararci.
 
+### <a name='premoli'></a>Roberto Premoli
+**Mezzi di comunicazione sicuri in un modo spiato**
 
+Analisi dell'evoluzione del tecnocontrollo utilizzato dagli USA a partire
+ dagli anni '70, la relazione mostrerà i progressi tecnici, politici e
+ sociologici di come sia stata costruita una società in cui tutti sono
+ spiabili ma sopratutto di come la gente è stata resa felice di essere
+ spiata. MA in un modno omologato, c'e' sempre qualcuno che dice “no”
+ e io sono uno di quelli. 
+Verrà presentato un metodo di comunicazione
+ privato, indipendente, autonomo e indecifrabile per chi ancora assegna
+ valore alla propria privacy e non vuole fare parte del “gregge”.
 
 ### <a name='tavola1'></a>Tavola Rotonda: **Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
 _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_

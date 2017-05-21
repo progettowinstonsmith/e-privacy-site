@@ -438,6 +438,16 @@ gratuita a quanti piu' possibile buone prassi ed informazioni per i
 cittadini digitali, con lo scopo di alimentare una sfera privata
 digitale etica e corretta.
 
+### <a name='premoli'></a>Roberto Premoli
+
+Faccio parte della generazione che ha imparato a programmare sugli
+ "8 bit". Passato a GNU/Linux apprezzandone la filosofia della
+ condivisione e della cooperazione. Non sono d'accordo sulla
+ pervasività dei metodi di tecnocontrollo e ho sviluppato 
+ una soluzione che la constrasta.
+
+
+
 
 
 

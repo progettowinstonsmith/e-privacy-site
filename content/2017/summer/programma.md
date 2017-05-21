@@ -143,7 +143,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 9:25	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#vacca), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
 9:55	|	0:30	|	[_Aldo A. Pazzaglia (Studio legale Pazzaglia)_](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?_](e-privacy-XXI-interventi.html#pazzaglia)
 10:25	|	0:30	|	[_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) e [_Monica Senor_](e-privacy-XXI-relatori.html#senor)	|	[_Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete_](e-privacy-XXI-interventi.html#blenginosenor)
-10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#del soldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#del soldato)
+10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#delsoldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#delsoldato)
 11:35	|	0:25	|	[_Diego Naranjo (EDRi)_](e-privacy-XXI-relatori.html#naranjo)	|	[_Track or be tracked? The challenges of the ePrivacy Regulation_](e-privacy-XXI-interventi.html#naranjo)
 12:00   |   0:25    |	[_Laura Harth_](e-privacy-XXI-relatori.html#hart)	|	[_Diritto alla Conoscenza come Diritto Umano_](e-privacy-XXI-interventi.html#hart)
 12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
@@ -159,9 +159,10 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 15:05	|	0:30	| [_Puligheddu Andrea (Orlandi&Partners Studio Legale)_](e-privacy-XXI-relatori.html#puligheddu)	|	[_Il diritto all'oblio nell'era dei Big Data_](e-privacy-XXI-interventi.html#puligheddu)
 15:35	|	0:35	| [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi) |	[_Più trojan per tutti: le diverse modalità di utilizzo dei "captatori informatici", tra giurisprudenza e progetti di legge_](e-privacy-XXI-interventi.html#gallus2)
 16:10	|	0:35	| [_Andrea Ghirardini_](e-privacy-XXI-relatori.html#ghirardini)	|	[_Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza_](e-privacy-XXI-interventi.html#ghirardini)
-16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_TBA_](e-privacy-XXI-interventi.html#premoli)
+16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_Mezzi di comunicazione sicuri in un modo spiato_](e-privacy-XXI-interventi.html#premoli)
 17:00	|	0:30	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 17:30	|	0:30	|  [_Giovanni Cerrato_](e-privacy-XXI-relatori.html#cerrato)	|	[_Analisi delle tecniche di censura della piattaforma Tor_](e-privacy-XXI-interventi.html#cerrato)
+
 ### Sede di e-privacy 2017 summer edition
 
 
