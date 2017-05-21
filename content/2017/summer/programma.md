@@ -32,73 +32,9 @@ Il tema guida della XXI edizione di e-privacy è:
 **Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
 _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
 
-«La ferita provocata da una parola non guarisce» cita il proverbio
-africano riferimento del progetto di sensibilizzazione contro
-l’ostilità delle parole in Rete. Internet dà la parola a tutti, anche
-a «legioni di imbecilli» (cfr. Umberto Eco), e permette che le idee
-dei suoi utenti, senza distinzione di classe, educazione e ceto
-sociale, vengano condivise e trasmesse senza filtri.
-
-Le “parole ostili” feriscono tutti, vip e poveracci; d’altra parte la
-Rete è sempre stata un grande equalizzatore.
-
-Ciò ha vantaggi e svantaggi. Una cosa è certa però, non è della Rete
-la colpa dell’ostilità che affiora: forse dell’ignoranza di chi si
-esprime, forse dell’ipocrisia di chi manipola e condiziona l’opinione
-pubblica, forse di chi è ormai tanto abituato a falsificare la
-conoscenza per aizzare il pubblico contro i propri nemici, che la
-verità gli sembra una bufala. E, viceversa, molte bufale diventano
-tanto condivise e date per certe da diventare verità incontestabili.
-
-Le parole ostili, a volte, hanno fondamento nell’ostilità dei
-comportamenti di chi le denuncia. E se una parola ferisce, certi
-comportamenti assassinano, letteralmente, chi non ha strumenti per
-difendersi.  Oggi forse gli si vorrebbe levare anche la voce ai
-cittadini per denunciare.
-
-Non è colpa della Rete se i governi comunicano ai cittadini
-informazioni distorte o false, in nome di una malintesa Ragion di
-Stato.
-
-Non è colpa della Rete se i potenti sentono crollare il velo di
-ipocrisia che accompagna la loro posizione sociale.
-
-Non è colpa della Rete se la voce dei popolani non è tanto adorabile
-quanto farebbe comodo a chi li vessa.
-
-Non è colpa della Rete se la Giustizia è lenta e prende decisioni che
-contrastano col senso comune.
-
-Oggi la Rete è molto diversa da quella che i più fortunati tra noi
-hanno conosciuto fin dall’inizio; la fisiologia di chi capiva e si
-sentiva la Rete è ormai morta, l’estromissione automatica di stupidi e
-vandali non è più praticata, ed anche le semplici regole di buon senso
-e buona educazione che esistevano non funzionano più.
-
-In alcuni casi, si è anche assistito ad un ribaltamento delle
-prerogative peculiari della Rete.
-
-L’identificazione forzata degli utenti operata dai Social Network e
-dai fornitori di comunicazioni rende la Rete funzionale al controllo
-sociale più che alla condivisione della conoscenza.
-
-Nei paesi in cui le difese democratiche sono più deboli non stupisce
-che il potere “dimentichi” di tutelare chi lo mette in crisi.  Sono
-sotto il mirino i giornalisti freelance, i tecnologi e i ricercatori
-delle tecnologie della liberazione, gli attivisti della libertà di
-espressione su Internet, i cypherpunk, le Cassandre e i cani da
-guardia dei diritti umani digitali.
-
-Abbiamo quindi ascoltato parole ostili più contro la Rete che per la
-Rete, e per questo, anche con una retrospettiva storica, la XXI
-edizione di e-privacy sarà un’edizione speciale a sostegno della
-libertà di espressione e contro l’odio e la sopraffazione nella e
-sulla Rete.
+### <a name="programma"></a>Programma del Convegno
 
 Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
-
-
-### <a name="programma"></a>Programma del Convegno
  
 #### <a name="vem"></a>Venerdì 23 Giugno 2017 - mattina
 
@@ -162,6 +98,72 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 16:45	|	0:15	| [_Roberto Premoli_](e-privacy-XXI-relatori.html#premoli)	|	[_Mezzi di comunicazione sicuri in un modo spiato_](e-privacy-XXI-interventi.html#premoli)
 17:00	|	0:30	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 17:30	|	0:30	|  [_Giovanni Cerrato_](e-privacy-XXI-relatori.html#cerrato)	|	[_Analisi delle tecniche di censura della piattaforma Tor_](e-privacy-XXI-interventi.html#cerrato)
+
+
+«La ferita provocata da una parola non guarisce» cita il proverbio
+africano riferimento del progetto di sensibilizzazione contro
+l’ostilità delle parole in Rete. Internet dà la parola a tutti, anche
+a «legioni di imbecilli» (cfr. Umberto Eco), e permette che le idee
+dei suoi utenti, senza distinzione di classe, educazione e ceto
+sociale, vengano condivise e trasmesse senza filtri.
+
+Le “parole ostili” feriscono tutti, vip e poveracci; d’altra parte la
+Rete è sempre stata un grande equalizzatore.
+
+Ciò ha vantaggi e svantaggi. Una cosa è certa però, non è della Rete
+la colpa dell’ostilità che affiora: forse dell’ignoranza di chi si
+esprime, forse dell’ipocrisia di chi manipola e condiziona l’opinione
+pubblica, forse di chi è ormai tanto abituato a falsificare la
+conoscenza per aizzare il pubblico contro i propri nemici, che la
+verità gli sembra una bufala. E, viceversa, molte bufale diventano
+tanto condivise e date per certe da diventare verità incontestabili.
+
+Le parole ostili, a volte, hanno fondamento nell’ostilità dei
+comportamenti di chi le denuncia. E se una parola ferisce, certi
+comportamenti assassinano, letteralmente, chi non ha strumenti per
+difendersi.  Oggi forse gli si vorrebbe levare anche la voce ai
+cittadini per denunciare.
+
+Non è colpa della Rete se i governi comunicano ai cittadini
+informazioni distorte o false, in nome di una malintesa Ragion di
+Stato.
+
+Non è colpa della Rete se i potenti sentono crollare il velo di
+ipocrisia che accompagna la loro posizione sociale.
+
+Non è colpa della Rete se la voce dei popolani non è tanto adorabile
+quanto farebbe comodo a chi li vessa.
+
+Non è colpa della Rete se la Giustizia è lenta e prende decisioni che
+contrastano col senso comune.
+
+Oggi la Rete è molto diversa da quella che i più fortunati tra noi
+hanno conosciuto fin dall’inizio; la fisiologia di chi capiva e si
+sentiva la Rete è ormai morta, l’estromissione automatica di stupidi e
+vandali non è più praticata, ed anche le semplici regole di buon senso
+e buona educazione che esistevano non funzionano più.
+
+In alcuni casi, si è anche assistito ad un ribaltamento delle
+prerogative peculiari della Rete.
+
+L’identificazione forzata degli utenti operata dai Social Network e
+dai fornitori di comunicazioni rende la Rete funzionale al controllo
+sociale più che alla condivisione della conoscenza.
+
+Nei paesi in cui le difese democratiche sono più deboli non stupisce
+che il potere “dimentichi” di tutelare chi lo mette in crisi.  Sono
+sotto il mirino i giornalisti freelance, i tecnologi e i ricercatori
+delle tecnologie della liberazione, gli attivisti della libertà di
+espressione su Internet, i cypherpunk, le Cassandre e i cani da
+guardia dei diritti umani digitali.
+
+Abbiamo quindi ascoltato parole ostili più contro la Rete che per la
+Rete, e per questo, anche con una retrospettiva storica, la XXI
+edizione di e-privacy sarà un’edizione speciale a sostegno della
+libertà di espressione e contro l’odio e la sopraffazione nella e
+sulla Rete.
+
+
 
 ### Sede di e-privacy 2017 summer edition
 
