@@ -1,29 +1,28 @@
-Status: Draft
 Title: FAQ per i relatori
-Date: 2016-04-29 10:20
-Category: 2016
+Date: 2016-05-02 10:20
+Category: 2017
 lang: it
-Num: XIX
-Year: 2016
-slug: e-privacy-XXI-faq-relatori-old
-City: Pisa
-Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
-When: 24-25 Giugno
+Num: XXI
+Year: 2017
+slug: e-privacy-XXI-faq-relatori
+City: Lucca
+Where: Real Collegio<br/>P.zza del Collegio, 13
+When: 23-24 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2016
-prev: e-privacy-XIX
-ZOrganizzatori: APHIM,hermes,upmansan,pws
-ZMediaPartner: infomedia
+previd: 2016W
+prev: e-privacy-XX
+Xnextid: 2016W
+Xnext: e-privacy-XVIII
 
-Questa FAQ è dedicata ai relatori di eprivacy 2016 summer edition Pisa.
+Questa FAQ è dedicata ai relatori di eprivacy 2017 summer edition Lucca.
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
 il proprio intervento. Se necessario la FAQ sarà aggiornata e resterà
 disponibile sul sito all'indirizzo
 
-[http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XIX-faq-relatori.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXI-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XXI-faq-relatori.html)
 
 Per altre domande contattare direttamente la
 [segreteria](mailto:segreteria@winstonsmith.org).
@@ -81,7 +80,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://bit.ly/eprivacy-consegna-2017s](http://bit.ly/eprivacy-consegna-2017s)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -106,7 +105,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://bit.ly/eprivacy-consegna-2017s](http://bit.ly/eprivacy-consegna-2017s)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -124,7 +123,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2016s](http://bit.ly/eprivacy-consegna-2016s)
+[http://bit.ly/eprivacy-consegna-2017s](http://bit.ly/eprivacy-consegna-2017s)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -161,21 +160,23 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Venerdì 24:
+Venerdì 23:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00-11.45 |  Tumietto, Sarzana, Cerno, Scotto D'antuono
-Ore 12.00-13.30 |  Dalmiani, Gobbato, Faini
-Ore 14.40-16.15 |  Colomba, Polito, Modesti, Rufo
-Ore 16.30-18.00 |  Di Leo, Aterno, Micozzi, Augiero
+Ore 09.00-11.45 |  
+Ore 12.00-13.30 |  
+Ore 14.40-16.15 |  
+Ore 16.30-18.00 |  
 
-Sabato 25:
+Sabato 24:
 
 Blocco | Relatori
 ---- | ----
-Ore 08.30-10.35 |  Longo, Aqui, Giorio, Premoli
-Ore 10.40-13.10 |  Vieri, Zanoni, Daly, Carletti, Vertua
+Ore 08.30-10.35 |  
+Ore 10.40-13.10 |  
+Ore 10.40-13.10 |  
+Ore 10.40-13.10 |  
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
 alla successiva pausa.
@@ -195,8 +196,8 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno Venerdì 24 è **Marco Calamari**
-per il giorno Sabato 25 è **Diego Giorio**. 
+Il referente dei relatori per il giorno Venerdì 24 è **Emmanuele Somma**
+per il giorno Sabato 24 è **Marco Calamari**. 
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza. 
