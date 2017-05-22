@@ -183,7 +183,7 @@ STATIC_PATHS = ['images', 'pdfs', 'audio', '.htaccess']
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = 'themes/eprivacy'
+THEME = 'themes/eprivacy2'
 
 
 DATE_FORMATS = {
