@@ -35,6 +35,8 @@ _Da “utopia di condivisione democratica” a “strumento di controllo e covo 
 ### <a name="programma"></a>Programma del Convegno
 
 Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
+
+**Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso.  
  
 #### <a name="vem"></a>Venerdì 23 Giugno 2017 - mattina
 
@@ -76,7 +78,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
 9:00	|	0:25	|	Apertura lavori: Nuovi diritti della conoscenza
-9:25	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#vacca), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
+9:25	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#gabriele) e [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
 9:55	|	0:30	|	[_Aldo A. Pazzaglia (Studio legale Pazzaglia)_](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?_](e-privacy-XXI-interventi.html#pazzaglia)
 10:25	|	0:30	|	[_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) e [_Monica Senor_](e-privacy-XXI-relatori.html#senor)	|	[_Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete_](e-privacy-XXI-interventi.html#blenginosenor)
 10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#delsoldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#delsoldato)

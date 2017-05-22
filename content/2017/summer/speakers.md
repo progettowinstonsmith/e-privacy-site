@@ -161,12 +161,24 @@ Source Intelligence”."
 
 ### <a name="gabriele"></a>Renato Gabriele
 
-Renato Gabriele si è occupato di ICT e reti di computer dagli anni
-'90, per imprese e per pubbliche amministrazioni. Partecipa al
-progetto dadaista di Gilda35, sperimentando le dinamiche e le
-influenze sui bigdata dei social network. È stato membro dell'IBM WW
-Mid-Market Advisory Council e del comitato direttivo di IASA
-(International Association of System Architects).
+Renato Gabriele si è occupato di ICT e reti di computer dagli
+ anni '90, per imprese e per pubbliche amministrazioni. 
+Partecipa al progetto dadaista di Gilda35, sperimentando
+ le dinamiche e le influenze sui bigdata dei social network. 
+È stato membro dell'IBM WW Mid-Market Advisory Council e
+ del comitato direttivo di IASA (International Association
+ of System Architects). 
+Tra gli ultimi convegni come relatore: E-privacy 2016 -
+  Privacy ed antiterrorismo (Roma, 4-5 novembre 2016,
+ con Manuela Vacca), Festival Internazionale del Giornalismo,
+ X edizione (Perugia, 9 aprile 2016, con Renato Gabriele: 
+ Hacking Team, big data e social media: quando la notizia
+ passa (quasi) inosservata), Hackmeeting 2014:
+ Alla ricerca della Black-op perduta, Festival
+ Internazionale del Giornalismo 2015: Swarm
+ Intelligence a Perugia e "@ItaGovEdits:
+ quando i governi modificano Wikipedia" a Bologna. 
+
 
 ### <a name='gallus'></a>Giovanni Battista Gallus
 
@@ -289,11 +301,16 @@ Twitter: @DNBSevilla
 
 ### <a name='palumbo'></a>Andrea Palumbo
 
-Sono avvocato e mi occupo di Privacy e diritto delle nuove tecnologie,
-materie nelle quali svolgo anche attività di consulenza e
-formazione. Attualmente sono Dottorando in Giurisprudenza presso
-l’Università degli Studi Milano-Bicocca dove sto completando un
-progetto di ricerca sul concetto tedesco di Privacy.
+Andrea Palumbo è avvocato e si occupa di privacy, diritto delle
+ nuove tecnologie e sicurezza informatica, materie nelle
+ quali svolge anche attività di consulenza e formazione
+ presso imprese e pubbliche amministrazioni.
+Attualmente è Dottorando in Giurisprudenza presso
+ l’Università degli Studi Milano-Bicocca dove sta
+ completando un progetto di ricerca sul concetto
+ tedesco di privacy.
+E’ spesso relatore a convegni e conferenze specialistici
+ sui temi di legati al mondo ICT.
 
 ### <a name='pazzaglia'></a>Aldo A. Pazzaglia (Studio legale avv. Aldo A. Pazzaglia)
 
@@ -385,27 +402,29 @@ UTET Giuridica ed Aracne.
 Ingegnere Informatico, Security Consultant principalmente nel campo
 della sicurezza applicativa. Appassionato del mondo open-source e
 della sua filosofia, con un debole per la crittografia e il
-""low-level"" :).
+"low-level".
 
 ### <a name='vacca'></a>Manuela Vacca
 
-Manuela Vacca, giornalista. PhD, si occupa di tecnologia e
-innovazione, cultura e spettacolo, economia e cronaca, è attualmente
-addetto stampa della Regione Sardegna. Come attivista per la
-diffusione della cultura dei dati aperti ha promosso e ha partecipato
-alle quattro edizioni del Cagliari Open Data Day. Tra gli ultimi
-convegni a cui ha partecipato in qualità di relatore: Festival
-Internazionale del Giornalismo, X edizione (Perugia, 9 aprile 2016,
-con R. Gabriele: ""Hacking Team, big data e social media: quando la
-notizia passa (quasi) inosservata""), E-privacy 2015 XVIII edizione -
-Captatori informatici e società civile: una convivenza possibile?
-(Cagliari, 16-17 ottobre 2015, con Renato Gabriele), E-privacy 2015 -
-La trasparenza e la privacy (Roma, 2-3 luglio 2015), Open Data in
-Italy and Europe: HOMER project results, lessons learnt and future
-development. HOMER steering committee meeting (Cagliari, 3 febbraio
-2015) e E-privacy 2014. Internet delle cose (Cagliari, 17-18 ottobre
-2014).
-
+Manuela Vacca è una giornalista. 
+PhD, si occupa di tecnologia e innovazione, cultura
+ e spettacolo, economia e cronaca, è attualmente addetto
+ stampa della Regione Sardegna. 
+Come attivista per la diffusione della cultura dei dati
+ aperti ha promosso e ha partecipato alle quattro edizioni
+ del ""Cagliari open data day"". 
+Sente l'urgenza di diffondere consapevolezza dell'importanza
+ di difendere la privacy. 
+Tra gli ultimi convegni in qualità di relatore:
+ "E-privacy 2016 - Privacy ed antiterrorismo"
+ (Roma, 4-5 novembre 2016, con Renato Gabriele),
+ Festival Internazionale del Giornalismo, X
+ edizione (Perugia, 9 aprile 2016, con R. Gabriele:
+ "Hacking Team, big data e social media: quando la notizia passa (quasi) inosservata"),
+ "E-privacy 2015 - La trasparenza e la privacy" (Roma, 2-3 luglio 2015),
+ "Open Data in Italy and Europe: HOMER project results,
+ lessons learnt and future development. HOMER steering 
+committee meeting" (Cagliari, 3 febbraio 2015).
 
 ### <a name='vicarelli></a>Cristina Vicarelli
 
