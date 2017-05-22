@@ -32,12 +32,12 @@ Il tema guida della XXI edizione di e-privacy è:
 **Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
 _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
 
-### <a name="programma"></a>Programma del Convegno
-
 Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a>
 
-**Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso.  
- 
+**Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso.
+
+### <a name="programma"></a>Programma del Convegno
+
 #### <a name="vem"></a>Venerdì 23 Giugno 2017 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
@@ -45,7 +45,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
   **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | | ------- | ------- 
 9:00	|	0:15	|  Apertura lavori: Parole (ostili) contro la Rete
-9:15	|	0:15	|	Saluto del Sindaco di Lucca Alessandro Tambellini			
+9:15	|	0:15	|	Saluto del Sindaco di Lucca Alessandro Tambellini
 9:30	|	0:30	|		[_Matteo Flora (The Fool srl)_](e-privacy-XXI-relatori.html#flora)	|	[_Osservare la Rete che Odia: una analisi dell'Odio Online_](e-privacy-XXI-interventi.html#flora)
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
 10:30	|	0:30	|		[_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana)	|	[_Tutela della personalità e fake news. Quale regolamentazione e quali tutele?_](e-privacy-XXI-interventi.html#sarzana)
