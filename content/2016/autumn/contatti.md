@@ -24,6 +24,11 @@ Solo i relatori
 # Seguici online
 
 - Sito web: [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org)
+
+<!--
 - Pagina Facebook: [www.facebook.com/events/120596381605441](http://www.facebook.com/events/120596381605441)
+-->
+
 - Gruppo Linkedin: [www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about](http://www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about)
+
 - Twitter: [@eprivacy](http://twitter.com/@eprivacy)
