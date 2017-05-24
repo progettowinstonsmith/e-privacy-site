@@ -105,7 +105,7 @@ e come reagire il disagio adolescenziale e la problematica di una
 relazione virtuale anche per gli adulti spesso vittima di ricatti e il
 bisogno dei giovani è sempre quello di esserci nel web
 
-### <a name='cerrato></a>Giovanni Cerrato
+### <a name='cerrato'></a>Giovanni Cerrato
 **Analisi delle tecniche di censura della piattaforma Tor**
 
 L’aumento incontrollato dei contenuti pubblicati sul web negli ultimi
