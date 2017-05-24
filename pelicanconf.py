@@ -161,7 +161,7 @@ PARTNERS = {
     'secure_network': ('Secure Network S.r.l.', 'secure_network.png', 'http://www.securenetwork.it'),
     'segment': ('Segment is an Italian company involved in IT security and ethical hacking','segment.png','https://www.wearesegment.com'),
     'sel': ('SEL', 'sel.jpg', 'http://www.selfirenze.org'),
-    'sepel': ('Sepel', 'Sepel.png', "http://www.sepel.it"),
+    'sepel': ('SEPEL', 'sepel.png', "http://www.sepel.it"),
     'sikurezza.org': ('Sikurezza.org', 'sikurezza.png', 'http://www.sikurezza.org'),
     'tramaci': ('Tramaci', 'tramaci.png', 'http://www.tramaci.org'),
     'unica': ('Università degli Studi di Cagliari - Facolta’ di Scienze Economiche, Giuridiche e Politiche', 'unica.jpg', 'http://www.unica.it/pub/7/show.jsp?id=20415&amp;iso=-2&amp;is=7'),
