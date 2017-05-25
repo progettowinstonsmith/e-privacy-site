@@ -105,7 +105,20 @@ Ingegnere Elettronico, Security Consultant, Redbull addicted.
 Mi occupo principalmente di sicurezza applicativa e dei sistemi embedded.
 
 
-<!-- ### <a name='falcomata'></a>Igor Falcomata' -->
+### <a name='falcomata'></a>Igor Falcomatà
+
+Si occupa professionalmente di ricerca, consulenza e formazione nell'ambito
+della sicurezza dei sistemi informativi e delle reti di telecomunicazione
+dal '98 e di informatica dal '92.
+Nella sua carriera ha seguito progetti per infrastrutture di sicurezza;
+attivita' di verifica ed analisi del rischio e delle vulnerabilita', ethical
+hacking, gestione e risposta agli incidenti informatici, formazione. Tra i
+clienti che ha seguito rientrano istituti bancari, enti pubblici ed aziende
+di rilevanza nazionale ed internazionale. Ha partecipato come docente o
+relatore a corsi, master e conferenze.
+E' uno dei fondatori del progetto "sikurezza.org", portale non commerciale
+finalizzato alla divulgazione di tematiche legate alla sicurezza
+informatica.
 
 
 ### <a name='cerrato'></a>Giovanni Cerrato
