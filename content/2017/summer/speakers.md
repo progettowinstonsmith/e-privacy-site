@@ -410,7 +410,7 @@ e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer,
 UTET Giuridica ed Aracne.
 
 
-### <a name='stroia></a>Pietro Stroia
+### <a name='stroia'></a>Pietro Stroia
 
 Ingegnere Informatico, Security Consultant principalmente nel campo
 della sicurezza applicativa. Appassionato del mondo open-source e
