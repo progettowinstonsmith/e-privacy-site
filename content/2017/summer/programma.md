@@ -68,7 +68,7 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 15:45	|	0:25	|	[_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti)	|	[_Cyberbullismo giovani e adulti in pericolo_](e-privacy-XXI-interventi.html#carletti)
 16:10	|	0:25	|  [_Diego Giorio (SEPEL Editrice)_](e-privacy-XXI-relatori.html#giorio)	|	[_Panem et circenses l’ha detto Zuckerberg?_](e-privacy-XXI-interventi.html#giorio)
 16:35	|	0:25	|	[_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) e [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata) | [_Internet of Thing: istruzioni per l'uso_](e-privacy-XXI-interventi.html#falcomata)
-17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza), <!-- [_Nicola Fabiano_](e-privacy-XXI-relatori.html#fabiano), --> [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
+17:00	|	1:00	|	Introduce: [_Stefano Aterno_](e-privacy-XXI-relatori.html#aterno) Modera: [_Marco Calamari_](e-privacy-XXI-relatori.html#calamari) Partecipano: [_Massimo Bozza_](e-privacy-XXI-relatori.html#bozza),  [_Fabio Carletti_](e-privacy-XXI-relatori.html#carletti),  [_Igor Falcomata'_](e-privacy-XXI-relatori.html#falcomata), [_Andrea Palumbo_](e-privacy-XXI-relatori.html#palumbo) 	|	[_Tavola Rotonda: Quali diritti con la IOT_](e-privacy-XXI-interventi.html#tavola2)
 18:00	|		|	Chiusura lavori
 
 #### <a name="sam"></a>Sabato 24 Giugno 2017 - mattina

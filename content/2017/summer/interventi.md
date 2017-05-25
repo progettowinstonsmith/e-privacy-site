@@ -555,20 +555,72 @@ Verrà presentato un metodo di comunicazione
 ### <a name='tavola1'></a>Tavola Rotonda: **Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
 _Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
 
-Nel romanzo “Il Cerchio” di Dave Eggers, sono tre i motti che riassumono la filosofia di un mondo distopico, improntato alla trasparenza, ove è stato sconfitto l’odio on line, sono scomparsi i troll e tutte le transazioni in rete sono sicure: “i segreti sono bugie; condividere è prendersi cura; la privacy è un furto”. La pietra angolare sulla quale poggia la società immaginata da Eggers, è l’abolizione dell’anonimato. Una volta che ognuno è sempre e solo il “vero sè”, egli è spinto a condividere tutta la sua vita con gli altri, in una delle tante declinazioni del “se non hai nulla da nascondere non hai nulla da temere”. La trasparenza, in nome della sicurezza, transita dalla dimensione digitale a quella analogica; i personaggi si convincono a indossare telecamere sempre connesse, dando vita ad un gigantesco Panopticon. Ci sono sempre ottime motivazioni dietro ogni azione compiuta ne Il Cerchio: persino inserire un microchip nella testa dei bambini appare perfettamente giustificato, dato che impedisce che si smarriscano.
-Il mondo immaginato da Eggers non è una dittatura violenta, e non passa dalla imposizione normativa: nasce da una propagazione conformista, in cui le persone, poco a poco, si abituano a condividere ogni aspetto della loro vita quotidiana, e ad assistere alle vite degli altri, vite svuotate, mediate, frammentate in una serie di rituali che non hanno alcun senso, ma servono a mantenere un equilibrio sociale perfetto, senza più attriti o conflitti.
-E’ davvero possibile partire dalla rete (caotica, insicura e violenta come siamo noi, come sono le strade che percorriamo ogni giorno) per sterilizzare la vita? È opportuno abituarci a subire una sorveglianza ininterrotta e pervasiva nell’era dell’internet of things, ossia nel momento in cui sfuma del tutto la separazione tra online e offline, essendo circondati da una miriade di oggetti sempre connessi?
-Oppure possiamo imparare a gestirlo, questo straordinario strumento, come abbiamo gestito ogni tecnologia che ci ha stordito e spaventando, creando anticorpi per difenderci gli agenti patogeni senza necessariamente anestetizzarne il fluire magmatico di idee, persone e conoscenze?
-È possibile difendersi dalla disinformazione, dalla misinformazione, dall’hate speech senza mutilare la democraticità della rete? 
-E magari domandiamoci anche se sia corretto dire che la rete è democratica finché vi saranno utenti di serie A e utenti, invece, di serie B che si vorrebbero proteggere da sé stessi e dalle dinamiche del web, che non potranno mai essere del tutto positive, perché non siamo ne Il Cerchio e i segreti sono parte di noi, condividere è una scelta, e la privacy è un diritto fondamentale.
-Approfondendo i temi trattati durante la mattinata, proveremo a cercare soluzioni non banali, interrogandoci sull’efficacia delle prassi, delle norme e delle iniziative culturali che ruotano attorno  alle criticità del web, valutandone i possibili colpi di coda sugli aspetti che, invece, dovremmo proteggere, dato che sono davvero il maggiore strumento di conoscenza e partecipazione che abbiamo mai avuto.
+Nel romanzo “Il Cerchio” di Dave Eggers, sono tre i motti che
+riassumono la filosofia di un mondo distopico, improntato alla
+trasparenza, ove è stato sconfitto l’odio on line, sono scomparsi i
+troll e tutte le transazioni in rete sono sicure: “i segreti sono
+bugie; condividere è prendersi cura; la privacy è un furto”. La pietra
+angolare sulla quale poggia la società immaginata da Eggers, è
+l’abolizione dell’anonimato. Una volta che ognuno è sempre e solo il
+“vero sè”, egli è spinto a condividere tutta la sua vita con gli
+altri, in una delle tante declinazioni del “se non hai nulla da
+nascondere non hai nulla da temere”. La trasparenza, in nome della
+sicurezza, transita dalla dimensione digitale a quella analogica; i
+personaggi si convincono a indossare telecamere sempre connesse, dando
+vita ad un gigantesco Panopticon. Ci sono sempre ottime motivazioni
+dietro ogni azione compiuta ne Il Cerchio: persino inserire un
+microchip nella testa dei bambini appare perfettamente giustificato,
+dato che impedisce che si smarriscano.  Il mondo immaginato da Eggers
+non è una dittatura violenta, e non passa dalla imposizione normativa:
+nasce da una propagazione conformista, in cui le persone, poco a poco,
+si abituano a condividere ogni aspetto della loro vita quotidiana, e
+ad assistere alle vite degli altri, vite svuotate, mediate,
+frammentate in una serie di rituali che non hanno alcun senso, ma
+servono a mantenere un equilibrio sociale perfetto, senza più attriti
+o conflitti.  E’ davvero possibile partire dalla rete (caotica,
+insicura e violenta come siamo noi, come sono le strade che
+percorriamo ogni giorno) per sterilizzare la vita? È opportuno
+abituarci a subire una sorveglianza ininterrotta e pervasiva nell’era
+dell’internet of things, ossia nel momento in cui sfuma del tutto la
+separazione tra online e offline, essendo circondati da una miriade di
+oggetti sempre connessi?  Oppure possiamo imparare a gestirlo, questo
+straordinario strumento, come abbiamo gestito ogni tecnologia che ci
+ha stordito e spaventando, creando anticorpi per difenderci gli agenti
+patogeni senza necessariamente anestetizzarne il fluire magmatico di
+idee, persone e conoscenze?  È possibile difendersi dalla
+disinformazione, dalla misinformazione, dall’hate speech senza
+mutilare la democraticità della rete?  E magari domandiamoci anche se
+sia corretto dire che la rete è democratica finché vi saranno utenti
+di serie A e utenti, invece, di serie B che si vorrebbero proteggere
+da sé stessi e dalle dinamiche del web, che non potranno mai essere
+del tutto positive, perché non siamo ne Il Cerchio e i segreti sono
+parte di noi, condividere è una scelta, e la privacy è un diritto
+fondamentale.  Approfondendo i temi trattati durante la mattinata,
+proveremo a cercare soluzioni non banali, interrogandoci
+sull’efficacia delle prassi, delle norme e delle iniziative culturali
+che ruotano attorno alle criticità del web, valutandone i possibili
+colpi di coda sugli aspetti che, invece, dovremmo proteggere, dato che
+sono davvero il maggiore strumento di conoscenza e partecipazione che
+abbiamo mai avuto.
 
 
 ### <a name='tavola2'></a>Tavola Rotonda: **Quali diritti su IOT**
 
-TBA
+La Internet of Thing è il «trend topic» degli ultimi anni. La Rete ha
+iniziato a colonizzare anche oggetti di uso comune e le possibilità di
+abuso sono cresciute a dismisura. Quali sono i rischi e le opportunità
+che abbiamo di fronte e come affrontarli dal punto di vista
+tecnologico e giuridico.
+
 
 ### <a name='tavola3'></a>Tavola Rotonda: **Nuovi diritti della conoscenza**
 
-TBA
+«Conoscere per deliberare», lo slogan einaudiano a base del processo
+democratico acquista un valore ancora più rilevante in quella che è
+considerata la «società della conoscenza».  La conoscenza è alla base
+di tutti i processi, non solo democratici, ma nel mondo moderno anche
+del mercato e della produzione industriale. Qual'è il panorama dei
+nuovi diritti che nascono in una società della conoscenza e dove il
+cittadino può attendersi di ricevere (o rivendicare) tutele per i
+propri diritti alla conoscenza.
 
