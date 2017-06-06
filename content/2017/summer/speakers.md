@@ -417,27 +417,28 @@ della sicurezza applicativa. Appassionato del mondo open-source e
 della sua filosofia, con un debole per la crittografia e il
 "low-level".
 
+
 ### <a name='vacca'></a>Manuela Vacca
 
-Manuela Vacca è una giornalista. 
-PhD, si occupa di tecnologia e innovazione, cultura
- e spettacolo, economia e cronaca, è attualmente addetto
- stampa della Regione Sardegna. 
-Come attivista per la diffusione della cultura dei dati
- aperti ha promosso e ha partecipato alle quattro edizioni
- del ""Cagliari open data day"". 
-Sente l'urgenza di diffondere consapevolezza dell'importanza
- di difendere la privacy. 
-Tra gli ultimi convegni in qualità di relatore:
+Giornalista, PhD, si occupa di tecnologia e innovazione, cultura
+ e spettacolo, economia e cronaca, è attualmente addetto stampa
+ della Regione Sardegna. Come attivista per la diffusione della
+ cultura dei dati aperti ha promosso le cinque edizioni del "Cagliari open data day". 
+Sente l'urgenza di diffondere consapevolezza sull'importanza di difendere la privacy. 
+Tra gli ultimi convegni: 
+"Festival Internazionale del Giornalismo", XI edizione (Perugia, 7 aprile 2017),
+ con Renato Gabriele: "Autodifesa digitale: istantanee del giornalismo italiano",
  "E-privacy 2016 - Privacy ed antiterrorismo"
  (Roma, 4-5 novembre 2016, con Renato Gabriele),
- Festival Internazionale del Giornalismo, X
- edizione (Perugia, 9 aprile 2016, con R. Gabriele:
- "Hacking Team, big data e social media: quando la notizia passa (quasi) inosservata"),
+ Festival Internazionale del Giornalismo, X edizione (Perugia,
+ 9 aprile 2016), con R. Gabriele: "Hacking Team, big data e social media:
+ quando la notizia passa (quasi) inosservata",
  "E-privacy 2015 - La trasparenza e la privacy" (Roma, 2-3 luglio 2015),
- "Open Data in Italy and Europe: HOMER project results,
- lessons learnt and future development. HOMER steering 
-committee meeting" (Cagliari, 3 febbraio 2015).
+ "Open Data in Italy and Europe: HOMER project results, lessons learnt
+ and future development. HOMER steering committee meeting" (Cagliari,
+ 3 febbraio 2015)
+ e "E-privacy 2014. Internet delle cose" (Cagliari, 17-18 ottobre 2014).
+
 
 ### <a name='vicarelli></a>Cristina Vicarelli
 
@@ -452,7 +453,7 @@ propone di aiutare avvocati e studi legali a gestire le implicazioni
 etiche connesse all’uso delle tecnologie. Per ulteriori informazioni
 www.cristina-vicarelli.it
 
-### <a name='vieri'></a>Giovambatttista Vieri
+### <a name='vieri'></a>Giovambattista Vieri
 
 Giovambattista Vieri, son nato nel 1964, sono appassionato di
 informatica da quando avevo 16 anni e con l'aiuto del saldatore
