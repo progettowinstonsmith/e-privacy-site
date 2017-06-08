@@ -105,21 +105,6 @@ Ingegnere Elettronico, Security Consultant, Redbull addicted.
 Mi occupo principalmente di sicurezza applicativa e dei sistemi embedded.
 
 
-### <a name='falcomata'></a>Igor Falcomatà
-
-Si occupa professionalmente di ricerca, consulenza e formazione nell'ambito
-della sicurezza dei sistemi informativi e delle reti di telecomunicazione
-dal '98 e di informatica dal '92.
-Nella sua carriera ha seguito progetti per infrastrutture di sicurezza;
-attivita' di verifica ed analisi del rischio e delle vulnerabilita', ethical
-hacking, gestione e risposta agli incidenti informatici, formazione. Tra i
-clienti che ha seguito rientrano istituti bancari, enti pubblici ed aziende
-di rilevanza nazionale ed internazionale. Ha partecipato come docente o
-relatore a corsi, master e conferenze.
-E' uno dei fondatori del progetto "sikurezza.org", portale non commerciale
-finalizzato alla divulgazione di tematiche legate alla sicurezza
-informatica.
-
 
 ### <a name='cerrato'></a>Giovanni Cerrato
 
@@ -144,6 +129,16 @@ apprezzamenti in attività investigative per conto di Carabinieri e
 Polizia Postale.  Oltre alla Sicurezza Informatica si occupa anche di
 Digital Forensics.
 
+
+### <a name='coluccini'></a>Coluccini, Riccardo
+
+Riccardo Coluccini, collaboratore esterno di Motherboard Italia,
+scrive di diritti digitali ed internet governance, e si sta lentamente
+avvicinando al mondo dell'attivismo. Ha conseguito una laurea
+Magistrale in Ingegneria Meccatronica ma dopo un incontro ravvicinato
+con un drone ha avuto qualche ripensamento. 
+
+
 ### <a name='delsoldato'></a>Flavio Del Soldato (Studio legale avv. Flavio Del Soldato)
 
 Prima che un avvocato è un cittadino dell'Unione europea. 
@@ -161,6 +156,22 @@ Ricercatore indipendente.
 È autore di libri, articoli, saggi, e contributi in genere.
 È membro del “Council of The Internet of Things”.
 -->
+
+### <a name='falcomata'></a>Igor Falcomatà
+
+Si occupa professionalmente di ricerca, consulenza e formazione nell'ambito
+della sicurezza dei sistemi informativi e delle reti di telecomunicazione
+dal '98 e di informatica dal '92.
+Nella sua carriera ha seguito progetti per infrastrutture di sicurezza;
+attivita' di verifica ed analisi del rischio e delle vulnerabilita', ethical
+hacking, gestione e risposta agli incidenti informatici, formazione. Tra i
+clienti che ha seguito rientrano istituti bancari, enti pubblici ed aziende
+di rilevanza nazionale ed internazionale. Ha partecipato come docente o
+relatore a corsi, master e conferenze.
+E' uno dei fondatori del progetto "sikurezza.org", portale non commerciale
+finalizzato alla divulgazione di tematiche legate alla sicurezza
+informatica.
+
 
 ### <a name='flora'></a>Matteo Flora (The Fool srl)
 
@@ -341,6 +352,30 @@ e professionale, nella tutela dei diritti fondamentali dei clienti,
 anche non persone fisiche, tra cui quello alla riservatezza ed alla
 tutela dei dati personali ex Convenzione Europea dei Diritti
 dell'Uomo.
+
+
+### <a name="pietrosanti"></a>Fabio Pietrosanti (HERMES)
+
+Fabio Pietrosanti frequenta, con il soprannome “naif” l’underground
+digitale italiano dal 1995 e si occupa professionalmente di digital
+security dal 1998. Presidente e co-fondatore del Centro Hermes per la
+Trasparenza e i Diritti Umani Digitali, è attivo in diversi progetti
+per la diffusione di consapevolezza, strumenti e tecnologie a supporto
+della libertà di espressione e della trasparenza. Membro di
+Transparency International Italia, gestore di nodi di anonimato Tor e
+di pubblicazione anonima Tor2web, è fra i fondatori del progetto di
+Whistleblowing GlobaLeaks, oggi in uso tanto nel mondo del
+giornalismo, dell’attivismo quanto nella pubblica amministrazione con
+finalità di contrasto della corruzione. Si occupa di innovazione
+tecnologica, progettazione software nell’ambito del whistleblowing,
+della tutela della riservatezza delle informazioni e dell’anonimato
+digitale. Veterano del mondo dell’hacking e del software libero, ha
+partecipato a progetti e community quali sikurezza.org, s0ftpj,
+Progetto Winston Smith, Metro Olografix. Professionalmente ha avuto
+esperienze come network security manager, senior security advisor,
+imprenditore e CTO di una startup impegnata nello sviluppo di sistemi
+di cifratura delle telefonate cellulari.
+
 
 ### <a name='puligheddu'></a>Andrea Puligheddu  (Orlandi&Partners Studio Legale)
 

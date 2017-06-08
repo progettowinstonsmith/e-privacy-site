@@ -125,6 +125,36 @@ metodologie su cui si è basato lo sviluppo di un tool in grado di
 appurare se in un determinato stato tale censura viene adoperata.
 
 
+### <a name='coluccini'></a>Coluccini, Riccardo, Pietrosanti, Fabio (Hermes)
+**Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza**
+
+Questo è un progetto che cerca di sfruttare la disponibilità di dati
+sugli appalti pubblici, richiesti dalle leggi sulla trasparenza
+anticorruzione, per scoprire le capacità di sorveglianza del governo.
+
+Presenteremo i primi risultati di un approccio strategico misto,
+basato sulla trasparenza e l'attivismo per la privacy, per scoprire le
+capacità governative analizzano i dati degli appalti del Ministero
+dell'Interno, della Giustizia e della Difesa. i quali per legge
+possono acquistare ed utilizzare prodotti e servizi di sorveglianza.
+ 
+Questo progetto presenterà molteplici aspetti, come la mappatura delle
+capacità di sorveglianza, le spese, i nomi in codice dei progetti
+governativi, i fornitori e i singoli partecipanti alle offerte di
+sorveglianza.
+ 
+Il progetto prevede successivamente l'utilizzo delle nuove leggi FOIA
+chiedendo:
+- tutte le fatture di ciascuna società che abbiamo scoperto vendere
+  tecnologie di sorveglianza al governo
+- tutte le offerte tecniche ed economiche di tutti gli appaltatori
+  legati alle tecnologie di sorveglianza
+ 
+In questo modo cercheremo di mettere in luce l'uso delle tecnologie di
+sorveglianza, fornendo una banca dati pubblica di informazioni in
+grado di contribuire a rendere i governi più responsabili per quanto
+riguarda le violazioni dei diritti umani.
+
 ### <a name='delsoldato'></a>Flavio Del Soldato
 **L'indipendenza delle autorità di controllo. Il caso italiano.**
 

@@ -49,7 +49,8 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 9:30	|	0:30	|		[_Matteo Flora (The Fool srl)_](e-privacy-XXI-relatori.html#flora)	|	[_Osservare la Rete che Odia: una analisi dell'Odio Online_](e-privacy-XXI-interventi.html#flora)
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
 10:30	|	0:30	|		[_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana)	|	[_Tutela della personalità e fake news. Quale regolamentazione e quali tutele?_](e-privacy-XXI-interventi.html#sarzana)
-11:00	|	0:30	|		[_Emmanuele Somma (Winston Smith)_](e-privacy-XXI-relatori.html#somma)	|	[_Odio Online - il caso del Forum Radicale Inufficiale_](e-privacy-XXI-interventi.html#somma)
+11:00	|	0:30	|       [_Riccardo Coluccini_](e-privacy-XXI-relatori.html#coluccini) e [_Fabio Pietrosanti (Hermes)_](e-privacy-XXI-relatori.html#pietrosanti)	|	[_Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza_](e-privacy-XXI-interventi.html#coluccini)
+<!-- 		[_Emmanuele Somma (Winston Smith)_](e-privacy-XXI-relatori.html#somma)	|	[_Odio Online - il caso del Forum Radicale Inufficiale_](e-privacy-XXI-interventi.html#somma) -->
 11:30	|	0:30	|		[_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi)	|	[_Ultime notizie dal Miniver: la Rete è un covo di psicocriminali_](e-privacy-XXI-interventi.html#gallus)
 12:00	|	0:30	|		[_Alessandro Guarino  (StudioAG)_](e-privacy-XXI-relatori.html#guarino)	|	[_Attenti allo Stato Etico (Voi avrete i soldi e i dati ma noi abbiamo le armi)_](e-privacy-XXI-interventi.html#guarino)
 12:30	|	1:00	|		Introduce: [_Cristina Vicarelli_](e-privacy-XXI-relatori.html#vicarelli) Modera: [_Emmanuele Somma_](e-privacy-XXI-relatori.html#somma) Partecipa: [_Matteo Flora_](e-privacy-XXI-relatori.html#flora), [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana), [_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)  |	[_Tavola Rotonda: Parole (ostili) contro la Rete_](e-privacy-XXI-interventi.html#tavola1)
@@ -75,16 +76,17 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 
 * Chairman: [_Giuseppe Busia_](e-privacy-XXI-relatori.html#busia) (Segretario Generale del Garante Privacy)
 
+
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
 9:00	|	0:25	|	Apertura lavori: Nuovi diritti della conoscenza
-9:25	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#gabriele) e [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
-9:55	|	0:30	|	[_Aldo A. Pazzaglia (Studio legale Pazzaglia)_](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?_](e-privacy-XXI-interventi.html#pazzaglia)
-10:25	|	0:30	|	[_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) e [_Monica Senor_](e-privacy-XXI-relatori.html#senor)	|	[_Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete_](e-privacy-XXI-interventi.html#blenginosenor)
-10:55	|	0:40	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#delsoldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#delsoldato)
-11:35	|	0:25	|	[_Diego Naranjo (EDRi)_](e-privacy-XXI-relatori.html#naranjo)	|	[_Track or be tracked? The challenges of the ePrivacy Regulation_](e-privacy-XXI-interventi.html#naranjo)
+9:25	|	0:30	|	[_Diego Naranjo (EDRi)_](e-privacy-XXI-relatori.html#naranjo)	|	[_Track or be tracked? The challenges of the ePrivacy Regulation_](e-privacy-XXI-interventi.html#naranjo)
+9:55	|	0:30	|	[_Renato Gabriele Bigdata42_](e-privacy-XXI-relatori.html#gabriele) e [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Dallo stato delle bufale alle bufale di Stato_](e-privacy-XXI-interventi.html#vacca)
+10:25	|	0:30	|	[_Aldo A. Pazzaglia (Studio legale Pazzaglia)_](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?_](e-privacy-XXI-interventi.html#pazzaglia)
+10:55	|	0:40	|	[_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) e [_Monica Senor_](e-privacy-XXI-relatori.html#senor)	|	[_Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete_](e-privacy-XXI-interventi.html#blenginosenor)
+11:35	|	0:25	|	[_Flavio Del Soldato_](e-privacy-XXI-relatori.html#delsoldato)	|	[_L'indipendenza delle autorità di controllo. Il caso italiano._](e-privacy-XXI-interventi.html#delsoldato)
 12:00   |   0:25    |	[_Laura Harth_](e-privacy-XXI-relatori.html#hart)	|	[_Diritto alla Conoscenza come Diritto Umano_](e-privacy-XXI-interventi.html#hart)
-12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca)	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
+12:05	|	1:25	|	Introduce: [_Giuseppe Busia (Segretario Generale del Garante Privacy)_](e-privacy-XXI-relatori.html#busia), Modera: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Partecipano: [_Laura Harth_](e-privacy-XXI-relatori.html#hart), [_Monica Senor_](e-privacy-XXI-relatori.html#senor), [_Manuela Vacca_](e-privacy-XXI-relatori.html#vacca), [_Carlo Blengino_](e-privacy-XXI-relatori.html#blengino) 	|	[_Tavola Rotonda: Nuovi diritti della conoscenza_](e-privacy-XXI-interventi.html#tavola3)
 13:30   |   | PAUSA PRANZO
 
 #### <a name="sap"></a>Sabato 24 Giugno 2017 - pomeriggio
