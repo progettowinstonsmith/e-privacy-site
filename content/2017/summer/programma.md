@@ -50,7 +50,6 @@ Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-sum
 10:00	|	0:30	|		[_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)	|	[_Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione_](e-privacy-XXI-interventi.html#roggero)
 10:30	|	0:30	|		[_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana)	|	[_Tutela della personalità e fake news. Quale regolamentazione e quali tutele?_](e-privacy-XXI-interventi.html#sarzana)
 11:00	|	0:30	|       [_Riccardo Coluccini_](e-privacy-XXI-relatori.html#coluccini) e [_Fabio Pietrosanti (Hermes)_](e-privacy-XXI-relatori.html#pietrosanti)	|	[_Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza_](e-privacy-XXI-interventi.html#coluccini)
-<!-- 		[_Emmanuele Somma (Winston Smith)_](e-privacy-XXI-relatori.html#somma)	|	[_Odio Online - il caso del Forum Radicale Inufficiale_](e-privacy-XXI-interventi.html#somma) -->
 11:30	|	0:30	|		[_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#micozzi)	|	[_Ultime notizie dal Miniver: la Rete è un covo di psicocriminali_](e-privacy-XXI-interventi.html#gallus)
 12:00	|	0:30	|		[_Alessandro Guarino  (StudioAG)_](e-privacy-XXI-relatori.html#guarino)	|	[_Attenti allo Stato Etico (Voi avrete i soldi e i dati ma noi abbiamo le armi)_](e-privacy-XXI-interventi.html#guarino)
 12:30	|	1:00	|		Introduce: [_Cristina Vicarelli_](e-privacy-XXI-relatori.html#vicarelli) Modera: [_Emmanuele Somma_](e-privacy-XXI-relatori.html#somma) Partecipa: [_Matteo Flora_](e-privacy-XXI-relatori.html#flora), [_Giovanni  Battista Gallus (Array, Nexa Center, Circolo dei Giuristi Telematici)_](e-privacy-XXI-relatori.html#gallus), [_Fulvio Sarzana_](e-privacy-XXI-relatori.html#sarzana), [_Claudia Roggero, Valentina Mayer (Dandi Media)_](e-privacy-XXI-relatori.html#roggero)  |	[_Tavola Rotonda: Parole (ostili) contro la Rete_](e-privacy-XXI-interventi.html#tavola1)
@@ -196,3 +195,6 @@ relatori
 
 
 
+
+
+<!-- 		[_Emmanuele Somma (Winston Smith)_](e-privacy-XXI-relatori.html#somma)	|	[_Odio Online - il caso del Forum Radicale Inufficiale_](e-privacy-XXI-interventi.html#somma) -->
