@@ -105,6 +105,30 @@ Ingegnere Elettronico, Security Consultant, Redbull addicted.
 Mi occupo principalmente di sicurezza applicativa e dei sistemi embedded.
 
 
+### <a name='canavese'></a>Claudio Canavese
+
+Claudio Canavese (nickname CoD) è sviluppatore software presso
+l'Università degli Studi di Genova nell'ambito delle tecnologie per il
+web. Dal 1998 si occupa attivamente di Software Libero, diritti
+digitali ed accessibilità, dal 2009 al 2016 è stato presidente della
+Associazione per le Libertà Informatiche e Digitali di Genova, curando
+in particolar modo progetti legati al mondo della scuola primaria e
+secondaria di primo grado.  Praticante di arti marziali fin dal
+lontano 1985, nel 2014 fonda, assieme ad altri tre maestri, lo Zanshin
+Tech (https://zanshintech.it/) la prima arte marziale digitale che
+unisce gli insegnamenti tradizionali delle arti marziali orientali con
+conoscenze tecnologiche tratte dal mondo della cyber security. Ha
+pubblicato numerosi articoli riguardanti l'aggressione digitale ed in
+particolare il cyberbullismo.
+
+### <a name='carletti'></a>Fabio Carletti 
+
+ Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più
+per questioni legate alla Sicurezza Informatica ha ottenuto importanti
+apprezzamenti in attività investigative per conto di Carabinieri e
+Polizia Postale.  Oltre alla Sicurezza Informatica si occupa anche di
+Digital Forensics.
+
 
 ### <a name='cerrato'></a>Giovanni Cerrato
 
@@ -121,16 +145,7 @@ finalizzata a fornire supporto all’analisi di sicurezza di progetti
 open-source, nel gruppo di lavoro che si è occupato della piattaforma
 di whistleblowing GlobaLeaks.
 
-### <a name='carletti'></a>Fabio Carletti 
-
- Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più
-per questioni legate alla Sicurezza Informatica ha ottenuto importanti
-apprezzamenti in attività investigative per conto di Carabinieri e
-Polizia Postale.  Oltre alla Sicurezza Informatica si occupa anche di
-Digital Forensics.
-
-
-### <a name='coluccini'></a>Coluccini, Riccardo
+### <a name='coluccini'></a>Riccardo Coluccini
 
 Riccardo Coluccini, collaboratore esterno di Motherboard Italia,
 scrive di diritti digitali ed internet governance, e si sta lentamente
