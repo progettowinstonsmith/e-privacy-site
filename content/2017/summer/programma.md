@@ -137,8 +137,9 @@ ipocrisia che accompagna la loro posizione sociale.
 Non è colpa della Rete se la voce dei popolani non è tanto adorabile
 quanto farebbe comodo a chi li vessa.
 
-Non è colpa della Rete se la Giustizia è lenta e prende decisioni che
-contrastano col senso comune.
+Non è colpa della Rete se la Giustizia è mantenuta in uno stato di
+inservibilità per i cittadini.
+
 
 Oggi la Rete è molto diversa da quella che i più fortunati tra noi
 hanno conosciuto fin dall’inizio; la fisiologia di chi capiva e si
