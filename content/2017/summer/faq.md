@@ -164,19 +164,18 @@ Venerdì 23:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00-11.45 |  
-Ore 12.00-13.30 |  
-Ore 14.40-16.15 |  
-Ore 16.30-18.00 |  
+Ore 09.00 |  Flora, Roggero/Mayer, Sarzana, Coluccini/Pietrosanti, Gallus, Guarino
+Ore 12.00 |  Vicarelli, Canavese
+Ore 14.25 |  Annichino, Vieri, Vignera, Carletti, Giorio, Falcomatà
+Ore 16.30 |  Aterno, Bozza, Carletti, Palumbo
 
 Sabato 24:
 
 Blocco | Relatori
 ---- | ----
-Ore 08.30-10.35 |  
-Ore 10.40-13.10 |  
-Ore 10.40-13.10 |  
-Ore 10.40-13.10 |  
+Ore 09.00 |  Busia, Gabriele/Vacca, Pazzaglia, Blengino/Senor, Del Soldato, Harth
+Ore 14.50 |  Puligheddu, Micozzi, Ghirardini, Premoli, Zugnaz, Cerrato
+
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
 alla successiva pausa.
@@ -196,7 +195,7 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno Venerdì 24 è **Emmanuele Somma**
+Il referente dei relatori per il giorno Venerdì 23 è **Emmanuele Somma**
 per il giorno Sabato 24 è **Marco Calamari**. 
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
