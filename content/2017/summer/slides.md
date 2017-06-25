@@ -23,7 +23,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
 Patrocini: comlucca,luording
 MediaPartner: infomedia, radioradicale
 
-Pubblicati i video e gli atti del Convegno e-privacy XXI edizione.
+### Pubblicati i video e gli atti del Convegno e-privacy XXI edizione.
 
 Legenda:
 
