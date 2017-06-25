@@ -56,7 +56,7 @@ help:
 
 html:
 	chmod -R o+r $(INPUTDIR)/
-	git pull
+	# git pull
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:

@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-COUNTDOWN = True
+COUNTDOWN = False
 
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
