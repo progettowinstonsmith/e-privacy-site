@@ -61,7 +61,7 @@ Radio Radicale ha curato la registrazione dell'evento che è accessibile sulle s
 
 #### <a name="vep"></a>Venerdì 23 Giugno 2017 - pomeriggio
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Nabaztag_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
  
   **Ora** |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | ------- | ------- 
