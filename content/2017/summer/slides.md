@@ -35,7 +35,7 @@ Icona | Descrizione | Icona | Descrizione
 
 ### <a name="video"></a>Riprese video a cura di Radio Radicale
 
-Radio Radicale ha curato la registrazione dell'evento che è accessibile sulle seguenti pagine (le schede archivistiche sono in revisione):
+Radio Radicale ha curato la registrazione dell'evento, accessibile a questi link:
 
 * [![video](/images/icon/video.png)](http://www.radioradicale.it/scheda/512627/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della) Venerdì 23 Giugno 2017
 * [![video](/images/icon/video.png)](http://www.radioradicale.it/scheda/512628/e-privacy-2017-summer-edition-parole-ostili-contro-la-rete-linvoluzione-della) Sabato 24 Giugno 2017
