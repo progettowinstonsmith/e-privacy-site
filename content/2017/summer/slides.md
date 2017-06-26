@@ -25,6 +25,16 @@ MediaPartner: infomedia, radioradicale
 
 ### Pubblicati i video e gli atti del Convegno e-privacy XXI edizione.
 
+L'edizione estiva di e-privacy 2017 si è svolta il *23 e 24 Giugno
+ 2017* al Real Collegio a Lucca nella Sala dell'Affresco, grazie
+ all'ospitalita' del Comune di Lucca.
+
+Il tema guida della XXI edizione di e-privacy è stato:
+
+**Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
+_Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
+
+
 Legenda:
 
 Icona | Descrizione | Icona | Descrizione
