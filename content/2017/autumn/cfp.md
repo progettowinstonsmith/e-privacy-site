@@ -181,7 +181,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://bit.ly/eprivacy-XXII-proposta)
+form disponibile in questa  [pagina](http://bit.ly/e-privacy-XXII-proposte)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 31 luglio 2017__.
