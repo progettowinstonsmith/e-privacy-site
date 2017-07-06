@@ -45,18 +45,18 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "EPRIVACY 2017 - SUMMER"
 
 THIS = (
-    # ('Proposta Talk', '/e-privacy-XXI-proposta.html'),
-    # ('Call for Paper', '/e-privacy-XXI-cfp.html'),
+    ('Proposta Talk', '/e-privacy-XXII-proposta.html'),
+    ('Call for Paper', '/e-privacy-XXII-cfp.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
-     ('Il programma', '/e-privacy-XXI-programma.html'),
-    ('Gli interventi', '/e-privacy-XXI-interventi.html'),
-    ('I relatori', '/e-privacy-XXI-relatori.html'),
+    # ('Il programma', '/e-privacy-XXI-programma.html'),
+    # ('Gli interventi', '/e-privacy-XXI-interventi.html'),
+    # ('I relatori', '/e-privacy-XXI-relatori.html'),
     ('Call for Sponsor', '/e-privacy-XXI-cfs.html'),
-    ('FAQ per i relatori', '/e-privacy-XXI-faq-relatori.html'),
-    ('Come arrivare', '/e-privacy-XXI-come-arrivare.html'),
+    # ('FAQ per i relatori', '/e-privacy-XXI-faq-relatori.html'),
+    # ('Come arrivare', '/e-privacy-XXI-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
-    ('Contatti', '/contatti-XX.html'),
+    ('Contatti', '/contatti-XXII.html'),
 )
 
 # PAGINATION_PATTERNS = (
