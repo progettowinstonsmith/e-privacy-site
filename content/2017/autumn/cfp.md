@@ -194,7 +194,7 @@ forma elettronica sul form online in seguito comunicato ai relatori.
 **entro il 10 ottobre 2017**.
 
 
-### Sede di e-privacy 2017 summer edition
+### Sede di e-privacy 2017 autumn edition
 
 
 La sede di e-privacy 2017 autumn edition sarà l'Aula d'Assise del
@@ -206,8 +206,8 @@ Tribunale di Rialto a Venezia.
 
 La manifestazione e’ organizzata:
 
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+ - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
 e da altre organizzazioni, aziende ed associazioni.
 
