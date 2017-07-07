@@ -20,6 +20,8 @@ XPatrocini: comlucca
 MediaPartner: infomedia,radioradicale
 
 <!-- ![Parole (ostili) contro la rete](/images/eprivacy2017s.png) -->
+## e-privacy XXII
+##"I dati perduti - Processo al Cloud"
 
 Il Progetto Winston Smith e l’Hermes Center for Transparency and
 Digital Human Rights sono lieti di invitarti come relatore
