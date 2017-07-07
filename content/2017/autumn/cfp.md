@@ -36,13 +36,13 @@ L’avvento del Cloud ha confermato i timori espressi sulla perdita di
 privacy e di identità digitale e sta anche producendo un effetto
 imprevisto: la perdita della Rete.
 
-Internet è persa!
+__Internet è persa!__
 
 Da backup e contenitore di dati, il Cloud si è evoluto in fornitore
 virtuale di sistemi IT in grado di gestire infrastrutture aziendali
 senza server fisici e storage locali. Ogni sistema IT sembra oggi solo
 fatto di «comunicazione». Ma non di sola comunicazione è il tessuto
-della Rete: ci sono i dati personali e non, ci sono processi.
+della Rete: ci sono i dati personali e non, ci sono i processi.
 
 Il fluire dei dati nella Rete permette la distribuzione della
 conoscenza.
@@ -66,7 +66,7 @@ neppure l’esistenza. Tutto funziona, la vita scorre felice, si può
 migrare da terminale all’altro, da uno smartphone all’altro, da un
 sistema operativo all’altro, purché vi sia un’apposita app.
 
-Ma i dati dove sono?
+__Ma i dati dove sono?__
 
 Smartphone e tablet non hanno più i dati personali dentro di
 sé. Questi dispositivi sono relegati al ruolo di effimere "cache di
@@ -104,8 +104,8 @@ perduto, con i propri dati e processi, i propri diritti, di fare
 impresa, di competere, di essere cittadini, di ottenere conoscenza e
 informazione.
 
-La questione non è "se" li hanno perduti, perché li hanno persi ed è
-certo - ma fino a che punto. Fin dove si estende la perdita dei
+La questione non è "se" li hanno perduti, __perché li hanno persi ed è
+certo__ - ma fino a che punto. Fin dove si estende la perdita dei
 diritti sociali, economici, civili, politici, umani dei «figli del
 cloud»?
 
@@ -114,7 +114,7 @@ idea, non possiamo dare risposte o dettare agende. Ma per esercitare
 il nostro spirito critico ti invitiamo come relatore a partecipare al
 nostro:
 
-Processo al Cloud
+__Processo al Cloud__
 
 Dalle relazioni presentate aspettiamo, come sempre, commenti,
 risposte, analisi e magari, come nella migliore tradizione di
@@ -182,8 +182,8 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni audio
 - se disponibile alla pubblicazione di registrazioni video
 
-Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://bit.ly/e-privacy-XXII-proposte)
+__Le proposte di intervento devono essere presentate esclusivamente utilizzando il
+form disponibile in questa  [pagina](http://bit.ly/e-privacy-XXII-proposte)__
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 31 luglio 2017__.
