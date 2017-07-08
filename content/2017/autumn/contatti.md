@@ -2,7 +2,7 @@ Status: Draft
 Template: event
 Title: Contatti
 Date: 2017-06-04 10:20
-Category: 2015
+Category: 2017
 lang: it
 slug: contatti-XXII
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>

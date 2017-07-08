@@ -42,7 +42,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2017 - SUMMER"
+THIS_TITLE = "EPRIVACY 2017 - AUTUMN"
 
 THIS = (
     ('Proposta Talk', '/e-privacy-XXII-proposta.html'),
@@ -51,7 +51,7 @@ THIS = (
     # ('Il programma', '/e-privacy-XXI-programma.html'),
     # ('Gli interventi', '/e-privacy-XXI-interventi.html'),
     # ('I relatori', '/e-privacy-XXI-relatori.html'),
-    ('Call for Sponsor', '/e-privacy-XXI-cfs.html'),
+    ('Call for Sponsor', '/e-privacy-XXII-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XXI-faq-relatori.html'),
     # ('Come arrivare', '/e-privacy-XXI-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
