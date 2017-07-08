@@ -5,7 +5,7 @@ Category: 2017
 lang: it
 Num: XXI
 Year: 2017
-slug: e-privacy-XXI
+slug: e-privacy-XXI-cfp
 City: Lucca
 Where: Real Collegio<br/>P.zza del Collegio, 13
 When: 23-24 Giugno
