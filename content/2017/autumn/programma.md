@@ -25,13 +25,14 @@ Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si svolgerà
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
 Tribunale di Venezia, presso il Ponte di Rialto.
 
+
+##I dati perduti - Processo al Cloud
+
+
 Parleremo di Cloud, già tema di e-privacy nel 2011. Perche ripetersi?
-Cosa è cambiato?
+Cosa è cambiato? 
 
-L’avvento del Cloud ha confermato i timori espressi sulla perdita di
-privacy e di identità digitale e sta anche producendo un effetto
-imprevisto: la perdita della Rete.
-
+Se non lo sai ancora, leggi più avanti.
 
 
 <!-- Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a> -->
@@ -68,7 +69,7 @@ imprevisto: la perdita della Rete.
   ------- | --- | ------- | ------- 
 14:00	|		|	Apertura lavori pomeridiani: privacy			
 14:00	|	30	|		[_La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza_](e-privacy-XXII-interventi.html#gobbato)	|	[_Monica Gobbato, Studio Gobbato, Avvocato_](e-privacy-XXII-relatori.html#gobbato)
-14:30	|	30	|		[_La Privcy è questione di carattere_](e-privacy-XXII-interventi.html#ferri)	|	[_Edoardo Ferri (Studio Tecnico Ferri & Costantino)_](e-privacy-XXII-relatori.html#ferri)
+14:30	|	30	|		[_La Privacy è questione di carattere_](e-privacy-XXII-interventi.html#ferri)	|	[_Edoardo Ferri (Studio Tecnico Ferri & Costantino)_](e-privacy-XXII-relatori.html#ferri)
 15:00	|	30	|		[_Privacy e pubblica amministrazione. La nuova sfida._](e-privacy-XXII-interventi.html#longo)	|	[_Valentina Longo_](e-privacy-XXII-relatori.html#longo)
 15:30	|	30	|		[_Tutela dell'Identità Digitale tra pubblico e privato_](e-privacy-XXII-interventi.html#scire)	|	[_Tavella Scirè Alberto - Studio di Avvocati_](e-privacy-XXII-relatori.html#scire)
 16:00	|	30	|		[_MindCloud! Chi controlla il caos?_](e-privacy-XXII-interventi.html#epto)	|	[_Epto Tramaci_](e-privacy-XXII-relatori.html#epto)
