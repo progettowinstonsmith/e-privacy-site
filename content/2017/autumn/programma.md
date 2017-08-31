@@ -94,11 +94,8 @@ Se non lo sai ancora, leggi più avanti.
 12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[__](e-privacy-XXII-relatori.html#verdetto)
 13:00	|		|	Chiusura dei lavori			
 
-Il Progetto Winston Smith e l’Hermes Center for Transparency and
-Digital Human Rights sono lieti di invitarti come relatore
-all’edizione autunnale di e-privacy, che si terrà a Venezia il 13 e 14
-ottobre 2017 nella prestigiosa sede storica del Tribunale di Venezia,
-presso il Ponte di Rialto.
+
+## Il tema di questa edizione
 
 Parleremo di Cloud, già tema di e-privacy nel 2011. Perche ripetersi?
 Cosa è cambiato?
