@@ -7,17 +7,28 @@ slug: collabora
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 
-L'intera organizzazione di e-privacy è realizzata esclusivamente da volontari. Molte persone regalano un po' del loro tempo per permettere la realizzazione di tutte le attività progettate.
+L'intera organizzazione di e-privacy è realizzata esclusivamente da
+volontari. Molte persone regalano un po' del loro tempo per permettere
+la realizzazione di tutte le attività progettate.
 
-Puoi collaborare anche tu entrando in un gruppo dinamico e molto focalizzato sulla realizzazione di progetti pratici e utili.
+Puoi collaborare anche tu entrando in un gruppo dinamico e molto
+focalizzato sulla realizzazione di progetti pratici e utili.
 
-Non abbiamo bisogno di speciali competenze o particolari attitudini, ma molto spesso la disponibilità ad imparare e condividere con gli altri.
+Non abbiamo bisogno di speciali competenze o particolari attitudini,
+ma molto spesso la disponibilità ad imparare e condividere con gli
+altri.
 
 ## Per e-privacy 2017 (Logistica evento)
 
-Per **e-privacy 2017** abbiamo bisogno di volontari per lo staff di accoglienza degli ospiti al congresso.
+Per **e-privacy 2017** abbiamo bisogno di volontari per lo staff di
+accoglienza degli ospiti al congresso.
 
-Per partecipare allo staff è sufficiente indicare la propria disponibilità all'indirizzo di mail della [segreteria](mailto:segreteria@winstonsmith.org)  e NON DIMENTICARE ANCHE di iscriversi alla mailing-list della [logistica di e-privacy](http://lists.globaleaks.ninja/listinfo.cgi/logistica-eprivacy-globaleaks.ninja).
+Per partecipare allo staff è sufficiente indicare la propria
+disponibilità all'indirizzo di mail
+della [segreteria](mailto:segreteria@winstonsmith.org) e NON
+DIMENTICARE ANCHE di iscriversi alla mailing-list
+della
+[logistica di e-privacy](http://lists.globaleaks.ninja/listinfo.cgi/logistica-eprivacy-globaleaks.ninja).
 
 ## Collaborazioni tecniche
 
@@ -29,9 +40,12 @@ Abbiamo anche bisogno di volontari competenti in alcune aree tecniche:
 
 ## Collaborazioni generali
 
-Per il miglioramento e il rinnovamento del materiale disponibile sui siti di e-privacy e del Progetto Winston Smith nel suo complesso abbiamo bisogno di volontari per:
+Per il miglioramento e il rinnovamento del materiale disponibile sui
+siti di e-privacy e del Progetto Winston Smith nel suo complesso
+abbiamo bisogno di volontari per:
 
-- editing, aggiornamento e miglioramento dei testi (nessuna competenza tecnica necessaria oltre il word-processing e l'email)
+- editing, aggiornamento e miglioramento dei testi (nessuna competenza
+  tecnica necessaria oltre il word-processing e l'email)
 - la realizzazione di disegni, grafica e loghi
 
 
