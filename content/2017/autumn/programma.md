@@ -60,7 +60,7 @@ Puoi registrarti subito usando questo pulsante: <a href="https://www.eventbrite.
 
 
 
-#### <a name="vep"></a>Venerdì 23 Giugno 2017 - pomeriggio
+#### <a name="vep"></a>Venerdì 13 Ottobre 2017 - pomeriggio
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXII-relatori.html#somma) Progetto Winston Smith 
  
