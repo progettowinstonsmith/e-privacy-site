@@ -35,8 +35,7 @@ Cosa è cambiato?
 Se non lo sai ancora, leggi più avanti.
 
 
-<!-- Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a> -->
-
+Puoi registrarti subito usando questo pulsante: <a href="https://www.eventbrite.it/e/biglietti-e-privacy-2017-autumn-edition-processo-al-cloud-venezia-37526459651?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=37526459651" alt="Eventbrite - e-privacy 2017 - autumn edition - Processo al Cloud - Venezia" /></a>
 
 <!-- **Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
 
