@@ -13,10 +13,10 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2017
 prev: e-privacy-XXI
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
 Collaboratori: bba
 Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
-XPatrocini: comlucca,luording
+XPatrocini: comlucca,luording,comvilca
 MediaPartner: infomedia, radioradicale
 
 ###e-privacy 2017 - autumn edition
