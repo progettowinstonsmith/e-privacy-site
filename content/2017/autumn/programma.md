@@ -187,7 +187,7 @@ Dalle relazioni presentate aspettiamo, come sempre, commenti,
 risposte, analisi e magari, come nella migliore tradizione di
 e-privacy, la manifestazione di ulteriori problemi.
 
-### Sede di e-privacy 2017 summer edition
+### Sede di e-privacy 2017 autumn edition
 
 
 
@@ -198,8 +198,8 @@ Tribunale di Rialto a Venezia.
 
 La manifestazione e’ organizzata:
 
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) - associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
 
 e da altre organizzazioni, aziende ed associazioni.
 
