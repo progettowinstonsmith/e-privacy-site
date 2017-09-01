@@ -10,7 +10,7 @@ When: 13-14 Ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
 previd: 2017
-prev: e-privacy-XXII-programma
+prev: e-privacy-XXII-come-arrivare
 Organizzatori: hermes,pws
 Collaboratori: bba
 XSponsor: grusp,sikurezza.org,ush,puntoi
@@ -24,6 +24,14 @@ Sede di svolgimento:
 
 La sede di e-privacy 2017 autumn edition sarà l'Aula d'Assise del
 Tribunale di Rialto a Venezia.
+
+Il Tribunale di Venezia ha sede in Sestiere San Polo 119, come illustrato nella mappa sottostante:
+
+Piazzale Roma è il punto di interscambio tra mezzi su gomma (autovetture e autobus) e mezzi acquei. 
+Il Tribunale, Sede di Rialto, è raggiungibile da Piazzale Roma con il vaporetto linea 1) fermata "Mercato" oppure con la linea 2) fermata "Rialto".
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5599.016086072196!2d12.32375632567711!3d45.439417494445834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x477eb1c7511cd1f1%3A0xfc7c01f280ca9309!2sStazione+di+Venezia+Santa+Lucia%2C+30100+Venezia+VE%2C+Italy!3m2!1d45.4410697!2d12.3210436!4m5!1s0x477eb1db9fa9d6bf%3A0x714fe84e1b5dbb7e!2sTribunale+Ordinario+di+Venezia%2C+Ruga+dei+Oresi%2C+120%2C+30125+Venezia+VE%2C+Italy!3m2!1d45.4388852!2d12.3352238!5e0!3m2!1sen!2sus!4v1504217277540" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <!--

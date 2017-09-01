@@ -5,7 +5,10 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-COUNTDOWN = False
+COUNTDOWN = True
+EVENTBRITE_EID="""
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.it/countdown-widget?eid=37526459651" frameborder="0" height="544" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
+"""
 
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
@@ -49,11 +52,11 @@ THIS = (
     # ('Call for Paper', '/e-privacy-XXII-cfp.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
     ('Il programma', '/e-privacy-XXII-programma.html'),
-    ('Gli interventi', '/e-privacy-XXI-interventi.html'),
-    ('I relatori', '/e-privacy-XXI-relatori.html'),
+    ('Gli interventi', '/e-privacy-XXII-interventi.html'),
+    ('I relatori', '/e-privacy-XXII-relatori.html'),
     # ('Call for Sponsor', '/e-privacy-XXII-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XXI-faq-relatori.html'),
-    # ('Come arrivare', '/e-privacy-XXI-come-arrivare.html'),
+    ('Come arrivare', '/e-privacy-XXII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti-XXII.html'),
