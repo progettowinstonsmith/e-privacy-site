@@ -17,8 +17,8 @@ Organizzatori: hermes,pws
 Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
-Patrocini: comlucca,luording
+XSponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
+XPatrocini: comlucca,luording
 MediaPartner: infomedia,radioradicale
 
 ## <a name="speakers"></a>I relatori
