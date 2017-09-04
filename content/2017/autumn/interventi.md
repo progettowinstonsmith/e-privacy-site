@@ -52,7 +52,7 @@ materia della Conferenza internazionale delle Autorità di protezione
 dati e privacy di Montevideo, fino alle regole del Regolamento UE
 679/2016 sulla protezione dei dati personali.
 
-### <a name='destefani'></a>**""Società del Controllo"" e documentazione informatica: il problema della prova digitale** di Marco Alvise De Stefani (Synaptic)
+### <a name='destefani'></a>**"Società del Controllo" e documentazione informatica: il problema della prova digitale** di Marco Alvise De Stefani (Synaptic)
 
 E' noto che l'epoca attuale è dominata dalla tecnologia, che
 costituisce l'infrastruttura delle relazioni sociali.
@@ -105,9 +105,9 @@ Nel nostro contributo si sostiene la tesi che non si può pensare di
 risolvere il problema della prova informatica semplicemente
 digitalizzando le attuali procedure o adeguandole alle tecnologie
 informatiche più recenti. Occorre superare l’attuale approccio, che si
-può chiamare genericamente ""analogico"", con una visione ""digitale""
+può chiamare genericamente "analogico", con una visione "digitale"
 in cui vi è sinergia tra la prova, le figure professionali che a vario
-titolo dispongono della prova - e quindi la ""controllano"" - e le
+titolo dispongono della prova - e quindi la "controllano" - e le
 regole che garantiscono i diritti dell’imputato nella dialettica tra
 accusa e difesa. Ciò vale ancor di più se si considera che in ambienti
 cloud gli utenti – e, nelle ipotesi più avanzate, anche chi fornisce
@@ -164,10 +164,10 @@ descritta) su alcune pattuizioni contrattuali. Ma nessuno se ne è
 accorto, fino a poco tempo fa. Come nessuno, pur di usare il wi-fi, si
 è preoccupato di cedere il proprio figlio primogenito durante un
 esperimento condotto da F-Secure, che nelle condizioni aveva inserito
-una ""Herod Clause"". Dato per assodato che nessuno si preoccupa delle
+una "Herod Clause". Dato per assodato che nessuno si preoccupa delle
 condizioni di servizio sull'utilizzo del cloud e che queste contengono
 pattuizioni certamente vessatorie e unilaterali, non solo in cambio di
-servizi ""gratuiti"" ma anche di quelli a pagamento, c'è ancora spazio
+servizi "gratuiti" ma anche di quelli a pagamento, c'è ancora spazio
 per la tutela dei cittadini e consumatori? Siamo destinati ad essere
 perpetui prigionieri delle condizioni di servizio, affetti da sindrome
 contrattuale di Stoccolma, o abbiamo ancora qualche speranza?
@@ -277,7 +277,18 @@ del servizio.
 
 ### <a name='scire'></a>**Tutela dell'Identità Digitale tra pubblico e privato** di Alberto Scire' (Tavella - Studio di Avvocati)
 
-L'identità digitale di ciascun individuo, oggi, passa attraverso il controllo dei dati personali su Internet, la loro circolazione, la loro ""detenzione"", la loro cancellazione. Molti (e molto diversi) sono gli strumenti disponibili in questa direzione: alcuni - a dire il vero, i più diffusi - forniti da OTT di stampo (e regolazione) americana; altri, di carattere prettamente pubblico e di regolamentazione statale (SPID, con le sue gioie e i suoi dolori); alcuni, ancora poco diffusi, passano attraverso iniziative private mosse da intenti più o meno ""sociali"". L'analisi dei diversi approcci pare interessante, per tentare di raggiungere i limiti della legislazione attuale sulla scorta del GDPR e delle tecnologie disponibili.
+L'identità digitale di ciascun individuo, oggi, passa attraverso il
+controllo dei dati personali su Internet, la loro circolazione, la
+loro "detenzione", la loro cancellazione. Molti (e molto diversi) sono
+gli strumenti disponibili in questa direzione: alcuni - a dire il
+vero, i più diffusi - forniti da OTT di stampo (e regolazione)
+americana; altri, di carattere prettamente pubblico e di
+regolamentazione statale (SPID, con le sue gioie e i suoi dolori);
+alcuni, ancora poco diffusi, passano attraverso iniziative private
+mosse da intenti più o meno "sociali". L'analisi dei diversi approcci
+pare interessante, per tentare di raggiungere i limiti della
+legislazione attuale sulla scorta del GDPR e delle tecnologie
+disponibili.
 
 ### <a name='senor'></a>**Le Procure nelle nuvole** di Monica Senor ()
 
