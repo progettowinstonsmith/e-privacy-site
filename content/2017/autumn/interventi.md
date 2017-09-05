@@ -13,12 +13,10 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2017
 prev: e-privacy-XXI
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
 Collaboratori: bba
-XXSponsor: cgt,sepel,sikurezza.org
-XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-XSponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
-XPatrocini: comlucca,luording
+Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvilca
+Patrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
 ## <a name="talks"></a>Gli interventi
@@ -119,7 +117,7 @@ Nel presente contributo si esaminano alcune possibili procedure per
 l’acquisizione forense in ambienti cloud alla luce del quadro
 normativo di riferimento in Unione Europea.
 
-### <a name='epto'></a>**MindCloud! Chi controlla il caos?** di Tramaci Epto (Tramaci.org)
+### <a name='epto'></a>**MindCloud! Chi controlla il caos?** di Epto (Tramaci.org)
 
 L'informatica è “informazione automatica”, informazione che elabora e
 si rielabora quando attraversa, è captata, è digitalizzata, da
@@ -144,7 +142,7 @@ cercando di individuare le problematiche che si conoscono di meno ma
 che sono più diffuse.
 
 
-### <a name='ferri'></a>**La Privcy è questione di carattere** di Edoardo Ferri (Studio Tecnico Ferri & Costantino)
+### <a name='ferri'></a>**La Privacy è questione di carattere** di Edoardo Ferri (Studio Tecnico Ferri & Costantino)
 
 La diffusione dell'implementazione da parte degli sviluppatori e
 designer web dei font esterni(web-font) offerti, anche gratuitamente,
@@ -203,7 +201,7 @@ obbligo della designazione del Data Protection Officer (DPO).
 3. Quando occorre verificare il nuovo livello di tutela dei dati nel cloud (localizzazione dei server, garanzia di confidenzialità, migrazione, assicurazione danni, portabilità dei dati, tempi di conservazione dei dati, la formazione, privacy by design e by default, ecc.).
 4. Le novità a 5 anni dal Vademecum Privacy del Garante Italiano
 
-### <a name='lamuscatella'></a>**I diritti (sui dati) perduti** di Donato La Muscatella (Avv. Donato La Muscatella)
+### <a name='lamuscatella'></a>**I diritti (sui dati) perduti** di Donato La Muscatella (avvocato)
 
 La costante crescita, diffusione e frammentazione dei nostri dati ha
 portato indubbi vantaggi.  È oggi possibile, infatti, accedere
