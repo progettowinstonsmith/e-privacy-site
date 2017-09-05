@@ -288,11 +288,13 @@ pare interessante, per tentare di raggiungere i limiti della
 legislazione attuale sulla scorta del GDPR e delle tecnologie
 disponibili.
 
-### <a name='senor'></a>**Le Procure nelle nuvole** di Monica Senor ()
+### <a name='senor'></a>**Le Procure nelle nuvole** di Carlo Blengino e Monica Senor ()
 
 Ispezioni, perquisizioni e sequestri nell'infosfera.
 
-YTBD
+Quali sono gli strumenti processuali che le Procure hanno a disposizione per cercare prove nel cloud? 
+I tradizionali mezzi di ricerca della prova - ispezioni, perquisizioni, sequestri ed intercettazioni telematiche - sono strumenti di indagine ancora idonei nell’infosfera? 
+Il transborder data access previsto dalla Convenzione di Budapest e l’art.234 bis del codice di procedura penale, introdotto nel 2015 in attuazione della Risoluzione 2178/2014 sulla lotta al terrorismo internazionale, sono misure in grado di superare i conflitti di giurisdizione nazionale?
 
 ### <a name='zugnaz'></a>**La privacy dell'anima** di Efrem Zugnaz (WebPrepping)
 
