@@ -78,10 +78,17 @@ UTET Giuridica, EGEA ed Aracne.  E' fellow del Nexa Center for
 Internet & Society del Politecnico di Torino ed ha un blog personale
 sul quotidiano on-line ilPOST.it.
 
+### <a name='ghirardini'></a>Andrea Ghirardini
+
+Andrea "Pila" Ghirardini lavora da oltre 17 anni nel campo della
+sicurezza informatica, al supporto di forze dell'ordine e compagnie
+private. Ha inoltre un POV particolare avendo lavorato sia per una
+telco a caso ex monopolista sia per una società che si occupa di
+intercettazione e sorveglianza di massa.
 
 ### <a name='agostini'></a>Yvette Agostini (CSA)
 
-YTBD
+Non pervenuto
 
 
 L'intervento per eprivacy 2017: Cloud computing: se lo conosci, lo apprezzi
@@ -89,45 +96,28 @@ L'intervento per eprivacy 2017: Cloud computing: se lo conosci, lo apprezzi
 ### <a name='delninno'></a>ALESSANDRO DEL NINNO (STUDIO LEGALE TONUCCI & PARTNERS)
 
 Avvocato Responsabile del Dipartimenti Data Protection, ICT Law e IP Law dello Studio legale Tonucci & Partners di Roma.
-
 Professore a contratto di Informatica Giuridica (LUISS Guido Carli  - 1996 ad oggi)
-
 Professore a contratto di Aspetti giuridici del Telelavoro e del Lavoro Digitale (LUISS Guido Carli  - 2009 ad oggi)
-
 Professore a contratto - di “Diritto delle Tecnologie dell’Informazione” (Università degli Studi di Venezia Ca Foscari - 2002 - 2008)
-
 Professore a contratto - di “Diritto delle Nuove Tecnologie” (Scuola di Specializzazione LUISS Management - 2000 - 2005)
-
 Membro del Comitato Scientifico dell’Istituto Italiano Privacy (2009 ad oggi)
-
 Membro del corpo docente ufficiale della Agenzia Regionale per lo Sviluppo delle Amministrazioni  Pubbliche del  Lazio (2008 ad oggi)
-
 Membro del Comitato Scientifico e docente della Scuola Forense “Vittorio Emanuele Orlando” dell’Ordine degli Avvocati di Roma (2007 ad oggi)
-
 Membro del corpo docente ICE (Istituto per il commercio con l’estero – 2006 ad oggi)
-
 Membro del corpo docente ufficiale della Scuola Superiore dell’Amministrazione dell’Interno (S.S.A.I. - 2004 – ad oggi)  
 
 E’ relatore nell’ambito dei più importanti convegni nazionali ed internazionali ove viene frequentemente invitato in qualità di esperto su tematiche legate all’Information & Communication Technology, all’IP e alla Data Protection. Ad oggi, ha tenuto 93 conferenze nazionali e internazionali. 
-
 Nelle stesse materie è autore di oltre 100 tra libri, trattati, monografie, saggi e articoli.
-
 Per le stesse materie è di frequente intervistato e consultato in qualità di esperto dalle principali testate giornalistiche ed editoriali, radio ed emittenti televisive nazionali.
-
 L'intervento per eprivacy 2017: Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016
 
 ### <a name='destefani'></a>Marco Alvise De Stefani (Synaptic)
 
 Marco Alvise De Stefani collabora dal 2004 con il Ministero della Giustizia in Veneto e in Friuli-Venezia Giulia, dove ha seguito oltre 150 indagini.
-
 È Amministratore Unico di Synaptic Srls, azienda specializzata in Digital Forensics e Incident Response.
-
 È consulente tecnico di aziende e studi legali eccellenti del Friuli-Venezia Giulia.
-
 E’ docente di Digital Forensics in corsi di formazione per le Forze dell’Ordine, la Magistratura e gli Avvocati, per l’Università Svizzera e per seminari organizzati dall’IISFA (International Information Systems Forensics Association), dall’Università degli Studi di Udine e altre associazioni/enti del settore.
-
 Ha partecipato come relatore a convegni nazionali e internazionali sulla Digital Forensics e a eventi divulgativi. È autore di svariate pubblicazioni e articoli scientifici.
-
 L'intervento per eprivacy 2017: "Società del Controllo" e documentazione informatica: il problema della prova digitale
 
 ### <a name='epto'></a>Tramaci Epto (Tramaci.org)
