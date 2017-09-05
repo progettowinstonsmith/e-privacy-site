@@ -96,6 +96,20 @@ private. Ha inoltre un POV particolare avendo lavorato sia per una
 telco a caso ex monopolista sia per una società che si occupa di
 intercettazione e sorveglianza di massa.
 
+### <a name='vertua'></a>Valerio Edoardo Vertua
+
+Avvocato Cassazionista con studio in Milano; i settori di attività professionale
+ prevalenti sono: il diritto tributario, il diritto societario e il diritto
+ dell’informatica e delle nuove tecnologie; 
+è perfezionato in Diritto Societario ed in Computer Forensics ed Investigazioni
+ Digitali presso l’Università degli Studi di Milano; 
+è componente della Commissione Giustizia Tributaria dell’Ordine degli Avvocati di Milano;
+è collaboratore della Cattedra di Informatica Giuridica ed Informatica Giuridica Avanzata
+ della Facoltà di Giurisprudenza presso l’Università degli Studi di Milano; 
+è Presidente dell’associazione DFA (Digital Forensics Alumni - http://www.perfezionisti.it); 
+è co-fondatore e Vice-Presidente dell’associazione CSA Italy (Cloud Security Alliance Italy - http://cloudsecurityalliance.it).
+
+
 ### <a name='agostini'></a>Yvette Agostini (CSA)
 
 Non pervenuto
