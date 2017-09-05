@@ -88,7 +88,7 @@ scientifico dello CSIG (Centro studi di informatica giuridica
 Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico).
 Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it
 e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer,
-UTET Giuridica ed Aracne.
+UTET Giuridica ed Aracne. 
 
 ### <a name='ghirardini'></a>Andrea Ghirardini
 
