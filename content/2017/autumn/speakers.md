@@ -78,6 +78,18 @@ UTET Giuridica, EGEA ed Aracne.  E' fellow del Nexa Center for
 Internet & Society del Politecnico di Torino ed ha un blog personale
 sul quotidiano on-line ilPOST.it.
 
+### <a name='senor'></a>Monica Senor
+
+Monica Senor è avvocato penalista specializzato in diritto penale
+delle nuove tecnologie, privacy e data protection. E' fellow di NEXA,
+il Centro per Internet & Società del Politecnico di Torino, membro
+della Commissione informatica del COA di Torino, del comitato
+scientifico dello CSIG (Centro studi di informatica giuridica
+Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico).
+Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it
+e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer,
+UTET Giuridica ed Aracne.
+
 ### <a name='ghirardini'></a>Andrea Ghirardini
 
 Andrea "Pila" Ghirardini lavora da oltre 17 anni nel campo della
@@ -260,18 +272,6 @@ conflitto d'interessi tra l'anima da avvocato e quella di (piccolo)
 imprenditore. Che poi, in fondo, sono la stessa cosa.  L'intervento
 per eprivacy 2017: Tutela dell'Identità Digitale tra pubblico e
 privato
-
-### <a name='senor'></a>Monica Senor
-
-Monica Senor è avvocato penalista specializzato in diritto penale
-delle nuove tecnologie, privacy e data protection. E' fellow di NEXA,
-il Centro per Internet & Società del Politecnico di Torino, membro
-della Commissione informatica del COA di Torino, del comitato
-scientifico dello CSIG (Centro studi di informatica giuridica
-Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico).
-Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it
-e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer,
-UTET Giuridica ed Aracne.
 
 ### <a name='zugnaz'></a>Efrem Zugnaz (WebPrepping)
 

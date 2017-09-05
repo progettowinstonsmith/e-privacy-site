@@ -84,13 +84,13 @@ Se non lo sai ancora, leggi più avanti.
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
   9:45	|	05	|	Apertura lavori: Processo al Cloud			
-9:50	|	20	| [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv.ti Carlo Blengino e Monica Senor_](e-privacy-XXII-relatori.html#imputazione)
-10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#gallus)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#accusa)
+9:50	|	20	| [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv.ti Carlo Blengino e Monica Senor_](e-privacy-XXII-relatori.html#blengino)
+10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:40	|	30	|		[_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#difesa)
-11:10	|	20	|		[_La società civile e il cloud_](e-privacy-XXII-interventi.html#calamari)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#partecivile)
+11:10	|	20	|		[_La società civile e il cloud_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#calamari)
 11:30	|	20	|		[_Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
 11:50	|	1.00	|		[_Il dibattimento (tavola rotonda)_](e-privacy-XXII-interventi.html#dibattimento)	|	[__](e-privacy-XXII-relatori.html#dibattimento)
-12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv.ti Carlo Blengino e Monica Senor_](e-privacy-XXII-relatori.html#verdetto)
+12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv.ti Carlo Blengino e Monica Senor_](e-privacy-XXII-relatori.html#blengino)
 13:00	|		|	Chiusura dei lavori			
 
 
