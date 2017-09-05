@@ -87,9 +87,9 @@ Se non lo sai ancora, leggi più avanti.
 9:50	|	20	| [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
 10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:40	|	30	|		[_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
-11:10	|	20	|		[_La società civile e il cloud_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#calamari)
-11:30	|	20	|		[_Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
-11:50	|	1.00	|		[_Il dibattimento (tavola rotonda)_](e-privacy-XXII-interventi.html#dibattimento)	|	[__](e-privacy-XXII-relatori.html#dibattimento)
+11:10	|	20	|		[_Parti civili: la società civile e il cloud_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#calamari)
+11:30	|	20	|		[_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
+11:50	|	1.00	|		[_Il dibattimento_](e-privacy-XXII-interventi.html#dibattimento)	|	[_tavola rotonda_](e-privacy-XXII-relatori.html#dibattimento)
 12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv. Carlo Blengino_](e-privacy-XXII-relatori.html#blengino)
 13:00	|		|	Chiusura dei lavori			
 
