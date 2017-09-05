@@ -71,7 +71,7 @@ Se non lo sai ancora, leggi più avanti.
 14:30	|	30	|		[_La Privacy è questione di carattere_](e-privacy-XXII-interventi.html#ferri)	|	[_Edoardo Ferri (Studio Tecnico Ferri & Costantino)_](e-privacy-XXII-relatori.html#ferri)
 15:00	|	30	|		[_Privacy e pubblica amministrazione. La nuova sfida._](e-privacy-XXII-interventi.html#longo)	|	[_Valentina Longo_](e-privacy-XXII-relatori.html#longo)
 15:30	|	30	|		[_Tutela dell'Identità Digitale tra pubblico e privato_](e-privacy-XXII-interventi.html#scire)	|	[_Scirè Alberto - Studio di Avvocati Tavella_](e-privacy-XXII-relatori.html#scire)
-16:00	|	30	|		[_MindCloud! Chi controlla il caos?_](e-privacy-XXII-interventi.html#epto)	|	[_Epto Tramaci_](e-privacy-XXII-relatori.html#epto)
+16:00	|	30	|		[_MindCloud! Chi controlla il caos?_](e-privacy-XXII-interventi.html#epto)	|	[_Epto_](e-privacy-XXII-relatori.html#epto)
 16:30	|	30	|		[_Cloud o non cloud? Questo è il dilemma (almeno nella PA)_](e-privacy-XXII-interventi.html#giorio)	|	[_Diego Giorio  (SEPEL Editrice - Comune di Villanova Canavese)_](e-privacy-XXII-relatori.html#giorio)
 17:00	|	30	|		[_Le Procure nelle nuvole_](e-privacy-XXII-interventi.html#senor)	|	[_Carlo Blengino, Monica Senor_](e-privacy-XXII-relatori.html#senor)
 17:30	|	30	|		[_La privacy dell'anima_](e-privacy-XXII-interventi.html#zugnaz)	|	[_Efrem Zugnaz_](e-privacy-XXII-relatori.html#zugnaz)

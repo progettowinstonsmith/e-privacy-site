@@ -130,7 +130,7 @@ E’ docente di Digital Forensics in corsi di formazione per le Forze dell’Ord
 Ha partecipato come relatore a convegni nazionali e internazionali sulla Digital Forensics e a eventi divulgativi. È autore di svariate pubblicazioni e articoli scientifici.
 L'intervento per eprivacy 2017: "Società del Controllo" e documentazione informatica: il problema della prova digitale
 
-### <a name='epto'></a>Tramaci Epto (Tramaci.org)
+### <a name='epto'></a>Epto (Tramaci.org)
 
 Fondatore dei progetti: 
 Anopticon (Mappa delle telecamere di videosorveglianza),
