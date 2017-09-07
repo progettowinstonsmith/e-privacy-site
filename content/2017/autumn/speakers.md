@@ -112,7 +112,9 @@ Avvocato Cassazionista con studio in Milano; i settori di attività professional
 
 ### <a name='agostini'></a>Yvette Agostini (CSA)
 
-Non pervenuto
+Laureata in ingegneria elettrotecnica presso l’Università di Pavia, si occupa di sicurezza informatica e delle informazioni da tre lustri, ed ha all’attivo progetti di incident handling, computer forensics, disaster recovery, risk assessment, adeguamento standard BS7799, due diligence tecnologiche. 
+Project manager del Centro Hermes per la Trasparenza e i diritti umani digitali. 
+E' socio fondatore e segretario di CSA Italy, capitolo italiano di Cloud Security Alliance.
 
 
 L'intervento per eprivacy 2017: Cloud computing: se lo conosci, lo apprezzi
