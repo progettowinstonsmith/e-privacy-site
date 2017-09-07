@@ -49,6 +49,7 @@ abbiamo bisogno di volontari per:
 - la realizzazione di disegni, grafica e loghi
 
 
-Per queste collaborazioni spedite la vostra disponibilità all'indirizzo dei [volontari](mailto:volontari@winstonsmith.org).
+Per queste collaborazioni spedite la vostra disponibilità
+all'indirizzo dei [volontari](mailto:volontari@winstonsmith.org).
 
 
