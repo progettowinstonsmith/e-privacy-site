@@ -26,6 +26,10 @@ Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si svolgerà
 Tribunale di Venezia, presso il Ponte di Rialto.
 
 
+** ATTENZIONE: quest'anno è NECESSARIO REGISTRARSI; l'ingresso al Convegno è libero, ma dobbiamo fornire la lista dei partecipanti per accedere alla sede**
+
+** ACCREDITO: è stato richiesto l'accredito come corso di formazione all'Ordine degli Avvocati della provincia di Venezia**
+
 ##I dati perduti - Processo al Cloud
 
 
@@ -36,8 +40,6 @@ Se non lo sai ancora, leggi più avanti.
 
 
 ** Invece puoi registrarti subito con un click**  <a href="https://www.eventbrite.it/e/biglietti-e-privacy-2017-autumn-edition-processo-al-cloud-venezia-37526459651?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=37526459651" alt="Eventbrite - e-privacy 2017 - autumn edition - Processo al Cloud - Venezia" /></a>
-
-** ATTENZIONE: quest'anno è NECESSARIO REGISTRARSI; l'ingresso al Convegno è libero, ma dobbiamo fornire la lista dei partecipanti per accedere alla sede**
 
 <!-- **Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
 
