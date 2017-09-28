@@ -15,7 +15,7 @@ previd: 2017
 prev: e-privacy-XXI
 Organizzatori: pws,hermes
 Collaboratori: bba
-Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
+Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca,hackthewire
 XPatrocini: comlucca
 MediaPartner: infomedia,radioradicale
 
