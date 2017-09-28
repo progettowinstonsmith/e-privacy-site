@@ -177,6 +177,7 @@ PARTNERS = {
     'senzabarcode': ('SenzaBarcode.it', 'senzabarcode.png', 'http://www.senzabarcode.it'),
     'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
     'lalegatoria': ('la legatoria', 'lalegatoria.jpg', 'http://www.lalegatoria.it'),
+    'hackthewire': ('HackTheWire', 'logo-hackthewire.png', 'https://www.hackthewire.it'),
 }
 
 
