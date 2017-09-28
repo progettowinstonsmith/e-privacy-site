@@ -9,7 +9,7 @@ slug: e-privacy-XXII-programma
 City: Venezia
 Where: Corte d'Assise<br/>Tribunale di Rialto
 When: 13-14 Ottobre
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> <br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
 previd: 2017
 prev: e-privacy-XXI
