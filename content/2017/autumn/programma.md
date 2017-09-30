@@ -19,7 +19,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvil
 XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
-###e-privacy 2017 - autumn edition
+###e-privacy 2017 - autumn edition 
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si svolgerà
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
