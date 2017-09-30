@@ -28,7 +28,12 @@ Tribunale di Venezia, presso il Ponte di Rialto.
 
 ** ATTENZIONE: quest'anno è NECESSARIO REGISTRARSI; l'ingresso al Convegno è libero, ma dobbiamo fornire la lista dei partecipanti per accedere alla sede**
 
-** ACCREDITO: è stato richiesto l'accredito come corso di formazione all'Ordine degli Avvocati della provincia di Venezia**
+** CREDITI FORMATIVI:  il Convegno è in corso di accreditamento da parte dell'Ordine degli Avvocati di Venezia ai fini della formazione obbligatoria (8 crediti formativi, per la frequenza di minimo l’80%)**
+
+Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desidera utilizzare il Convegno ai fini della formazione obbligatoria. 
+**La manifestazione di volontà è necessaria.** 
+Chi si fosse già registrato deve comunicare la sua scelta di utilizzare il Convegno per la formazione
+ obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>.
 
 ##I dati perduti - Processo al Cloud
 
