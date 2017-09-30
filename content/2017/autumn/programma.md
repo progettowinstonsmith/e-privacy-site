@@ -19,7 +19,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvil
 XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
-###e-privacy 2017 - autumn edition 
+###e-privacy 2017 - autumn edition
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si svolgerà
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
@@ -30,7 +30,7 @@ Tribunale di Venezia, presso il Ponte di Rialto.
 
 ** CREDITI FORMATIVI:  il Convegno è in corso di accreditamento da parte dell'Ordine degli Avvocati di Venezia ai fini della formazione obbligatoria (8 crediti formativi, per la frequenza di minimo l’80%)**
 
-Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desidera utilizzare il Convegno ai fini della formazione obbligatoria. 
+Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desideri utilizzare il Convegno ai fini della formazione obbligatoria. 
 **La manifestazione di volontà è necessaria.** 
 Chi si fosse già registrato deve comunicare la sua scelta di utilizzare il Convegno per la formazione
  obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>.
