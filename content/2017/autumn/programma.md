@@ -35,6 +35,9 @@ Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si
 Chi si fosse già registrato deve comunicare la sua scelta di utilizzare il Convegno per la formazione
  obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>.
 
+![ Licenza Creative Commons BY-NC-SA ]({filename}/images/sale/ve-tribunalerialtosalaassise.jpg
+ "La sala della Corte di Assise del Tribunale di Venezia")
+
 ##I dati perduti - Processo al Cloud
 
 
