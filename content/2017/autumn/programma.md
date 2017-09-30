@@ -25,29 +25,27 @@ Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si svolgerà
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
 Tribunale di Venezia, presso il Ponte di Rialto.
 
+##I dati perduti - Processo al Cloud
 
-** ATTENZIONE: quest'anno è NECESSARIO REGISTRARSI; l'ingresso al Convegno è libero, ma dobbiamo fornire la lista dei partecipanti per accedere alla sede**
+** ATTENZIONE: quest'anno è NECESSARIO REGISTRARSI; l'ingresso al Convegno è libero, ma dobbiamo fornire la lista dei partecipanti per accedere alla sede. **
+ <a href="https://www.eventbrite.it/e/biglietti-e-privacy-2017-autumn-edition-processo-al-cloud-venezia-37526459651?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=37526459651" alt="Eventbrite - e-privacy 2017 - autumn edition - Processo al Cloud - Venezia" /></a>
 
 ** CREDITI FORMATIVI:  il Convegno è in corso di accreditamento da parte dell'Ordine degli Avvocati di Venezia ai fini della formazione obbligatoria (8 crediti formativi, per la frequenza di minimo l’80%)**
 
-Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desideri utilizzare il Convegno ai fini della formazione obbligatoria. 
+Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desideri utilizzare il Convegno ai fini della formazione obbligatoria; selezionare "avvocato" ed operare la scelta che appare. 
 **La manifestazione di volontà è necessaria.** 
 Chi si fosse già registrato deve comunicare la sua scelta di utilizzare il Convegno per la formazione
- obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>.
+ obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>. 
+
 
 ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/sale/ve-tribunalerialtosalaassise.jpg
  "La sala della Corte di Assise del Tribunale di Venezia")
-
-##I dati perduti - Processo al Cloud
 
 
 Parleremo di Cloud, già tema di e-privacy nel 2011. Perche ripetersi?
 Cosa è cambiato? 
 
 Se non lo sai ancora, leggi più avanti.
-
-
-** Invece puoi registrarti subito con un click**  <a href="https://www.eventbrite.it/e/biglietti-e-privacy-2017-autumn-edition-processo-al-cloud-venezia-37526459651?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=37526459651" alt="Eventbrite - e-privacy 2017 - autumn edition - Processo al Cloud - Venezia" /></a>
 
 <!-- **Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
 
