@@ -15,7 +15,7 @@ prev: e-privacy-XXII
 previd: 2017
 slug: e-privacy-XXII-faq-relatori
 
-Questa FAQ è dedicata ai relatori di eprivacy 2017 autumn edition Lucca.
+**Questa FAQ è dedicata ai relatori di eprivacy. Grazie di essere tra noi.**
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
@@ -56,9 +56,9 @@ referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 
 Certamente! 
 
-Le slide da proiettare dovranno essere consegnate **entro e non oltre
+**Le slide da proiettare dovranno essere consegnate **entro e non oltre
 il 10 Ottobre** in formato PDF obbligatoriamente (se consegnate anche
-powerpoint, provvederemo a metterli online).
+powerpoint, provvederemo a metterli online).**
 
 Il computer a disposizione è connesso ad Internet e permette la
 normale navigazione Web (entro limiti ragionevoli).
@@ -104,7 +104,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://bit.ly/eprivacy-consegna-2017-s](http://bit.ly/eprivacy-consegna-2017-s)
+**[http://bit.ly/eprivacy-consegna-2017-s](http://bit.ly/eprivacy-consegna-2017-s)**
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
