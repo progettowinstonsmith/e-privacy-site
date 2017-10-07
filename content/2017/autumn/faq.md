@@ -104,7 +104,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-**[http://bit.ly/eprivacy-consegna-2017-s](http://bit.ly/eprivacy-consegna-2017-s)**
+**[http://bit.ly/eprivacy-consegna-2017-a](http://bit.ly/eprivacy-consegna-2017-a)**
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -122,7 +122,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2017-s](http://bit.ly/eprivacy-consegna-2017-s)
+[http://bit.ly/eprivacy-consegna-2017-a](http://bit.ly/eprivacy-consegna-2017-a)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
