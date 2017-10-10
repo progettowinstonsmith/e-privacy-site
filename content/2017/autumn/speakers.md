@@ -249,7 +249,7 @@ Componente di enti di ricerca indipendenti, è stato docente per numerosi incont
 
 L'intervento per eprivacy 2017: I diritti (sui dati) perduti
 
-### <a name='longo'></a>Valentina Longo
+### <a name='longo'></a>Avv. Valentina Longo
 
 Avvocato, si occupa di privacy, protezione dei dati personali, da
 oltre quindici anni. In qualità di consulente legale per il Mipaaf,
