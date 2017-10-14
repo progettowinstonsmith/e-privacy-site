@@ -19,13 +19,16 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvil
 XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
-###e-privacy 2017 - autumn edition
+##
+##BREAKING NEWS - Assolto il Cloud!
+### Al Processo veneziano molte condanne ed una clamorosa assoluzione.
+### Tutti i particolari nella sentenza [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf)
+
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si è svolto
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
 Tribunale di Venezia, presso il Ponte di Rialto.
 
-##I dati perduti - Processo al Cloud
 
 Legenda:
 
@@ -80,13 +83,13 @@ Icona | Descrizione | Icona | Descrizione
   **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- || ------- | ------- 
   9:45	|	05	|	Apertura lavori: Processo al Cloud			
-9:50	|	20	|  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_21_senor_processo_capi-incolpazione.pdf) [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
+9:50	|	20	|  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_21_senor_relatore_capi_incolpazione.pdf) [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
 10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:40	|	30	|		[_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
 11:10	|	20	|		[_Parti civili: la società civile e il cloud_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#calamari)
-11:30	|	20	|		[_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
+11:30	|	20	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_24_ghirardini_difesa_civile_cloud_se_conosci_apprezzi.pdf)[_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
 11:50	|	1.00	|		[_Il dibattimento_](e-privacy-XXII-interventi.html#dibattimento)	|	[_tavola rotonda_](e-privacy-XXII-relatori.html#dibattimento)
-12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv. Carlo Blengino_](e-privacy-XXII-relatori.html#blengino)
+12:50	|	10	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf) [_Il Verdetto_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv. Carlo Blengino_](e-privacy-XXII-relatori.html#verdetto)
 13:00	|		|	Chiusura dei lavori			
 
 
