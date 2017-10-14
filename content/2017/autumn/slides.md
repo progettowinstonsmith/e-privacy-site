@@ -22,12 +22,16 @@ MediaPartner: infomedia, radioradicale
 ##
 ##BREAKING NEWS - Assolto il Cloud!
 ### Al Processo veneziano molte condanne ed una clamorosa assoluzione.
-### Tutti i particolari nella sentenza [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf)
+### Tutti i particolari nella sentenza [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf) e nelle slide dei relatori.
 
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si è svolto
 **e-privacy 2017 _autumn edition_** nella prestigiosa sede storica del
 Tribunale di Venezia, presso il Ponte di Rialto.
+
+
+![ Licenza Creative Commons BY-NC-SA ]({filename}/images/sale/ve-tribunalerialtosalaassise.jpg
+ "La sala della Corte di Assise del Tribunale di Venezia")
 
 
 Legenda:
