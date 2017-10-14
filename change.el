@@ -17,7 +17,13 @@
     (query-replace-regexp "u'" "ù" )
     ))
 
-
+(defun pp-mk ()
+  (interactive)
+  (save-excursion)
+  (push-mark)
+  (forward-word)
+  
+)
 (defun pp-end ()
   (interactive)
   (save-excursion
@@ -32,7 +38,7 @@
     (goto-char 1)
     (query-replace-regexp
      "(\\(atti\\|audio\\|video\\)/"
-    "(http://urna.winstonsmith.org/materiali/2009/\\1/"
+    "(http://urna.winstonsmith.org/materiali/2017/\\1/"
      )))
 
 
@@ -93,6 +99,12 @@
 (query-replace-regexp
  "[,;]? *relazione in formato +\\[ *pdf,?\\]"
  "[![pdf]({filename}/images/icon/pdf.png)]"))
+
+(defun px-pdf ()
+(interactive)
+(query-replace-regexp
+ "([^ ]+)+\\[\.pdf\\]"
+ "[![pdf]({filename}/images/icon/presentation.png)](\\1)"))
 
 (defun pp-slide ()
 (interactive)
