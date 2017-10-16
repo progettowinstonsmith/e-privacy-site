@@ -40,7 +40,7 @@ Icona | Descrizione | Icona | Descrizione
 ---- | ---- | ----- | ----
 ![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF)
 ![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![URL](/images/icon/link.png) | Link online
-![pdf](/images/icon/handouts.png) | Handouts
+![pdf](/images/icon/handouts.png) | Handouts| ![mp3](/images/icon/video.png) | Video
 
 ### <a name="programma"></a>Programma del Convegno
 
@@ -88,8 +88,8 @@ Icona | Descrizione | Icona | Descrizione
   ------- || ------- | ------- 
   9:45	|	05	|	Apertura lavori: Processo al Cloud			
 9:50	|	20	|  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_21_senor_relatore_capi_incolpazione.pdf) [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
-10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
-10:40	|	30	|		[_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
+10:10	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_22_gallus_pubblica_accusa.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_22_gallus_pubblica_accusa.mp4) [_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
+10:40	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_25_vertua_difesa.pdf) [_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
 11:10	|	20	|		[_Parti civili: la società civile e il cloud_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Marco Calamari_](e-privacy-XXII-relatori.html#calamari)
 11:30	|	20	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_24_ghirardini_difesa_civile_cloud_se_conosci_apprezzi.pdf) [_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
 11:50	|	1.00	|		[_Il dibattimento_](e-privacy-XXII-interventi.html#dibattimento)	|	[_tavola rotonda_](e-privacy-XXII-relatori.html#dibattimento)
