@@ -20,9 +20,9 @@ XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
 ##
-##BREAKING NEWS - Assolto il Cloud!
+## Il video della sentenza - Assolto il Cloud!
 ### Al Processo veneziano molte condanne ed una clamorosa assoluzione.
-### Tutti i particolari nella sentenza [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf) e nelle slide dei relatori.
+### I particolari nel video e nel testo della sentenza [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_26_blengino_presidente_sentenza.mp4) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf), nonche' nelle slide dei relatori.
 
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si è svolto
@@ -75,7 +75,7 @@ Icona | Descrizione | Icona | Descrizione
 15:00	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_09_longo_privacy_e_pa.pdf) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_09_longo_privacy_e_pa_2.pdf)	[_Privacy e pubblica amministrazione. La nuova sfida._](e-privacy-XXII-interventi.html#longo)	|	[_Valentina Longo_](e-privacy-XXII-relatori.html#longo)
 15:30	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_10_scire_tutela_identita_digitale.pdf) 	[_Tutela dell'Identità Digitale tra pubblico e privato_](e-privacy-XXII-interventi.html#scire)	|	[_Scirè Alberto - Studio di Avvocati Tavella_](e-privacy-XXII-relatori.html#scire)
 16:00	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_11_epto_mind_cloud.odp)  [_MindCloud! Chi controlla il caos?_](e-privacy-XXII-interventi.html#epto)	|	[_Epto_](e-privacy-XXII-relatori.html#epto)
-16:30	|	30	|	[![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_12_giorio_cloud_o_non_cloud.pptx)	 [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_12_giorio_cloud_o_non_cloud_relazione.pdf) [_Cloud o non cloud? Questo è il dilemma (almeno nella PA)_](e-privacy-XXII-interventi.html#giorio)	|	[_Diego Giorio  (SEPEL Editrice - Comune di Villanova Canavese)_](e-privacy-XXII-relatori.html#giorio)
+16:30	|	30	|	[![pptx](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_12_giorio_cloud_o_non_cloud.pptx)	 [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_12_giorio_cloud_o_non_cloud.pdf) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_12_giorio_cloud_o_non_cloud_relazione.pdf) [_Cloud o non cloud? Questo è il dilemma (almeno nella PA)_](e-privacy-XXII-interventi.html#giorio)	|	[_Diego Giorio  (SEPEL Editrice - Comune di Villanova Canavese)_](e-privacy-XXII-relatori.html#giorio)
 17:00	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_13_blengino_senor_procure_nelle_nuvole.pdf) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_13_blengino_senor_procure_nelle_nuvole_handout.pdf)	[_Le Procure nelle nuvole_](e-privacy-XXII-interventi.html#senor)	|	[_Carlo Blengino, Monica Senor_](e-privacy-XXII-relatori.html#senor)
 17:30	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_14_zugnaz_privacy_anima.pdf)	[_La privacy dell'anima_](e-privacy-XXII-interventi.html#zugnaz)	|	[_Efrem Zugnaz_](e-privacy-XXII-relatori.html#zugnaz)
 18:00	|		|	Chiusura lavori
