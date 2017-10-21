@@ -19,7 +19,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvil
 XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
-##
+## 
 ## Il video della sentenza - Assolto il Cloud!
 ## Pubblicate tutte le registrazioni audio del Convegno.
 ### Al Processo veneziano molte condanne ed una clamorosa assoluzione.
