@@ -20,10 +20,10 @@ XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
 ## 
-## Il video dell'intero Processo  [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_21_processo.mp4) - Assolto il Cloud!
-## Pubblicate tutte le registrazioni audio.
-### Al Processo veneziano molte condanne ed una clamorosa assoluzione.
-### I particolari nel video e nel testo della sentenza [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_26_blengino_presidente_sentenza.mp4) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf), nonche' nelle slide dei relatori.
+## Pubblicato il video "Cronache dalla XXII edizione di e-privacy" [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_27_cronache.mp4).
+### Pubblicate le registrazioni audio e le slide dei relatori.
+### Assolto il Cloud! Il video del Processo  [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_21_processo.mp4)
+### Al Processo veneziano molte condanne ed una clamorosa assoluzione: video e testo della sentenza [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_26_blengino_presidente_sentenza.mp4) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf).
 
 
 Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si è svolto
