@@ -1,6 +1,5 @@
 Status: Draft
 Template: event
-Status: draft
 Title:SPID ed Identità Digitale
 Date: 2016-06-25 10:20
 Category: 2016

@@ -1,11 +1,9 @@
 Status: Draft
 Template: event
-Status: draft
 Title: e-privacy estate 2015 - La trasparenza e la privacy - comunicato stampa
 Date: 2015-05-10 10:20
 Category: 2015
 lang: it
-Status: draft
 slug: cs-XXIII
 
 

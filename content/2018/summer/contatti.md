@@ -1,6 +1,5 @@
 Status: Draft
 Template: event
-Status: draft
 Title: Contatti
 Date: 2017-06-04 10:20
 Category: 2015
