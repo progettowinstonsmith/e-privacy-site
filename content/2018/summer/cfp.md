@@ -128,7 +128,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento dovranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://bit.ly/eprivacy-XXIII-proposta)
+form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXIII-proposta.html)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 27 aprile 2018__.
