@@ -19,7 +19,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2017 summer: Parole (ostili) contro la rete'
+SITENAME = u'e-privacy 2018 summer: Singolarità'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'http://e-privacy.winstonsmith.org'
@@ -30,7 +30,7 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2017'
+YEAR = u'2018'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -45,18 +45,18 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2017 - AUTUMN"
+THIS_TITLE = "EPRIVACY 2018 - SUMMER"
 
 THIS = (
     # ('Proposta Talk', '/e-privacy-XXII-proposta.html'),
     # ('Call for Paper', '/e-privacy-XXII-cfp.html'),
     # ('Slides', '/e-privacy-XIX-programma-slides.html'),
-    ('Il programma', '/e-privacy-XXII-programma.html'),
-    ('Gli interventi', '/e-privacy-XXII-interventi.html'),
-    ('I relatori', '/e-privacy-XXII-relatori.html'),
+    #('Il programma', '/e-privacy-XXII-programma.html'),
+    #('Gli interventi', '/e-privacy-XXII-interventi.html'),
+    #('I relatori', '/e-privacy-XXII-relatori.html'),
     # ('Call for Sponsor', '/e-privacy-XXII-cfs.html'),
     ('FAQ per i relatori', '/e-privacy-XXII-faq-relatori.html'),
-    ('Come arrivare', '/e-privacy-XXII-come-arrivare.html'),
+    #('Come arrivare', '/e-privacy-XXII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti-XXII.html'),
@@ -70,6 +70,7 @@ THIS = (
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2017 autumn XXII', '/e-privacy-XXII.html'),
     ('e-privacy 2017 summer XXI', '/e-privacy-XXI.html'),
     ('e-privacy 2016 autumn XX', '/e-privacy-XX.html'),
     ('e-privacy 2016 spring XIX', '/e-privacy-XIX.html'),

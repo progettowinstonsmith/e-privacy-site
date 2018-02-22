@@ -1,102 +1,86 @@
 Template: event
-Status: draft
-Title: Parole (ostili) contro la Rete
-Date: 2017-03-21 10:20
-Category: 2017
+XStatus: draft
+Title: Singolarità
+Date: 2018-02-22 20:20
+Category: 2018
 lang: it
-Num: XXI
-Year: 2017
+Num: XXIII
+Year: 2018
 slug: e-privacy-XXIII-cfp
-City: Lucca
-Where: Real Collegio<br/>P.zza del Collegio, 13
-When: 23-24 Giugno
+City: Bologna
+Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
+When: 8-9 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2016W
-prev: e-privacy-XX
+previd: 2017W
+prev: e-privacy-XXII
 Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
-Collaboratori: bba
-XXSponsor: cgt,sepel,sikurezza.org
-XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: grusp,sikurezza.org,ush,puntoi
-Patrocini: comlucca
-MediaPartner: infomedia
+Collaboratori: bba, comvilca
+Sponsor: sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia, radioradicale
 
-![Parole (ostili) contro la rete](/images/eprivacy2017s.png)
 
-### È aperto  il Call for Paper di e-privacy 2017 summer edition
+### È aperto  il Call for Paper di e-privacy 2018 summer edition
 
-Il ** 23 e 24 giugno 2017 ** (venerdì e sabato) si svolgerà **e-privacy 2017 _summer edition_** con il patrocinio del Comune di Lucca.
+L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna, nella [Biblioteca Salaborsa](https://it.wikipedia.org/wiki/Biblioteca_Salaborsa) - Palazzo d'Accursio, Piazza Nettuno 3 
+ si svolgerà **e-privacy 2018 _summer edition_**.
 
-Il tema guida della XXI edizione di e-privacy è:
+Il tema guida della XXIII edizione di e-privacy è:
 
-**Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
-_Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
+**Singolarità** <br> _Come l'IoT, A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy._
 
-«La ferita provocata da una parola non guarisce» cita il proverbio
-africano riferimento del progetto di sensibilizzazione contro
-l’ostilità delle parole in Rete. Internet dà la parola a tutti, anche
-a «legioni di imbecilli» (cfr. Umberto Eco), e permette che le idee
-dei suoi utenti, senza distinzione di classe, educazione e ceto
-sociale, vengano condivise e trasmesse senza filtri.
+# Call for Papers
 
-Le “parole ostili” feriscono tutti, vip e poveracci; d’altra parte la
-Rete è sempre stata un grande equalizzatore.
+Non è la prima volta che si parla di fine della privacy; già nel 1999 Scott
+McNealy, fondatore di Sun Microsystems, aveva dichiarato, _"You have zero privacy
+anyway. Get over it - Avete privacy zero, fatevene una ragione"_.
 
-Ciò ha vantaggi e svantaggi. Una cosa è certa però, non è della Rete
-la colpa dell’ostilità che affiora: forse dell’ignoranza di chi si
-esprime, forse dell’ipocrisia di chi manipola e condiziona l’opinione
-pubblica, forse di chi è ormai tanto abituato a falsificare la
-conoscenza per aizzare il pubblico contro i propri nemici, che la
-verità gli sembra una bufala. E, viceversa, molte bufale diventano
-tanto condivise e date per certe da diventare verità incontestabili.
+Per fortuna la privacy, benché malmessa, è sopravissuta alle dichiarazioni di
+McNealy ed e' arrivata ai giorni nostri.
 
-Le parole ostili, a volte, hanno fondamento nell’ostilità dei
-comportamenti di chi le denuncia. E se una parola ferisce, certi
-comportamenti assassinano, letteralmente, chi non ha strumenti per
-difendersi.  Oggi forse gli si vorrebbe levare anche la voce ai
-cittadini per denunciare.
+Ma oggi molte situazioni e tecnologie lesive della privacy stanno giungendo a
+maturazione contemporaneamente, creando una situazione critica, anzi una vera e
+propria singolarità nella storia evolutiva dei rapporti sociali che puo'
+portare davvero ad un azzeramento della privacy.
 
-Non è colpa della Rete se i governi comunicano ai cittadini
-informazioni distorte o false, in nome di una malintesa Ragion di
-Stato.
+Non semplicemente obbligarci a vivere una vita totalmente pubblica in case di
+vetro, ma condizionare la nostra capacità di accedere ad informazioni corrette
+secondo la nostra volontà.
 
-Non è colpa della Rete se i potenti sentono crollare il velo di
-ipocrisia che accompagna la loro posizione sociale.
+Le tecnologie di Intelligenza Artificiale e di Deep Learning possono estrarre
+informazioni ed effettuare inferenze, correlando moli enormi di dati ad un
+livello impensabile fino a pochi anni fa, e giungendo a deduzioni di livello pari o superiore a quello di un analista umano. Gli algoritmi, davvero, sanno oggi più cose su di noi di quante ne conosciamo noi stessi
 
-Non è colpa della Rete se la voce dei popolani non è tanto adorabile
-quanto farebbe comodo a chi li vessa.
+L'Internet delle Cose sta popolando le nostre case ed i nostri corpi, lo stuolo
+di sensori che gli oggetti dell'IoT contengono pompa quantità crescenti di dati
+personali e sensibili nella Rete, senza che più nessuno se ne preoccupi,
+nutrendo i voraci algoritmi, e presto le voraci A.I, di Google, Amazon ed altri
+big e meno big data player.
 
-Non è colpa della Rete se la Giustizia è lenta e prende decisioni che
-contrastano col senso comune.
+Le fake news, su cui tanto hanno chiacchierato persone che dovrebbero
+invece stare accuratamente zitte al riguardo, degenereranno presto in vere e
+proprie azioni di guerra informativa (non informatica) in cui, grazie alla
+possibilita' di generare in maniera automatica filmati ed audio perfettamente
+falsificati, si potranno "combattere battaglie", non nel cyberspazio ma proprio
+nell'infosfera stessa.
 
-Oggi la Rete è molto diversa da quella che i più fortunati tra noi
-hanno conosciuto fin dall’inizio; la fisiologia di chi capiva e si
-sentiva la Rete è ormai morta, l’estromissione automatica di stupidi e
-vandali non è più praticata, ed anche le semplici regole di buon senso
-e buona educazione che esistevano non funzionano più.
+Per tutto questo, ed anche per tante altre ragioni che i relatori non
+mancheranno di cogliere ed evidenziare, quest'anno e-privacy non ha un vero e
+proprio tema guida da proporre.
 
-In alcuni casi, si è anche assistito ad un ribaltamento delle
-prerogative peculiari della Rete.
+Propone quindi una presa di coscienza collettiva della singolarità in cui ci
+apprestiamo a vivere, ed un reciproco scambio di informazioni su particolari
+aspetti di questa singolarità, e su soluzioni (se ne esistono) per cercare di
+guidarne, limitarne o ridurne le conseguenze negative.
 
-L’identificazione forzata degli utenti operata dai Social Network e
-dai fornitori di comunicazioni rende la Rete funzionale al controllo
-sociale più che alla condivisione della conoscenza.
-
-Nei paesi in cui le difese democratiche sono più deboli non stupisce
-che il potere “dimentichi” di tutelare chi lo mette in crisi.  Sono
-sotto il mirino i giornalisti freelance, i tecnologi e i ricercatori
-delle tecnologie della liberazione, gli attivisti della libertà di
-espressione su Internet, i cypherpunk, le Cassandre e i cani da
-guardia dei diritti umani digitali.
-
-Abbiamo quindi ascoltato parole ostili più contro la Rete che per la
-Rete, e per questo, anche con una retrospettiva storica, la XXI
-edizione di e-privacy sarà un’edizione speciale a sostegno della
-libertà di espressione e contro l’odio e la sopraffazione nella e
-sulla Rete.
+Quindi il Convegno, accettando come sempre qualsiasi intervento di interesse per la
+privacy, organizzerà sui temi dell'Internet delle Cose, della I.A. e
+delle fake news/bolle informative tre tavole rotonde che raccoglieranno i
+contributi omogenei a questi tre argomenti, lasciando tuttavia adeguato spazio a tutti
+gli altri interventi di qualità che verrannno proposti.
 
 # Il convegno
 
@@ -111,58 +95,13 @@ quanti operano nel settore pubblico ed istituzionale.
 
 # Le proposte d'intervento
 
-Verranno prese in considerazione anche proposte su temi diversi da
-quello dell'edizione, purché di interesse e di attualità.
-
 Il comitato organizzatore valuterà proposte in ambito tecnologico,
 legale, istituzionale e giurisprudenziale, delle scienze sociali,
 della filosofia, dell'informatica e dell'attivismo digitale, della
-privacy, della non-discriminazione, della sorveglianza e dei diritti
-civili digitali.
-
-Di seguito un elenco - non esaustivo - di argomenti pertinenti:
-
- - Diritto alla conoscenza
- - Diritti individuali: libertà di espressione, riservatezza ed anonimato
- - Videosorveglianza, sorveglianza delle comunicazioni e diritti umani
- - Sorveglianza e privacy sul posto di lavoro e nelle scuole
- - Profilazione degli utenti di servizi telematici
- - Data retention; incrocio, circolazione e rivendita dei dati personali
- - Geotagging, privacy locazionale e nuovi diritti civili digitali
- - Privacy e Anonimato nelle pratiche organizzative aziendali
- - Controllo degli utenti sui dati; oscuramento. crittografia ed anonimizzazione
- - Raccolta dei dati personali in rete, intercettazioni lecite ed illecite
- - OpenData e Privacy; privatizzazione e protezione dei dati pubblici
- - Raccolta, protezione, conservazione e distruzione di dati utili per indagini
- - Diritto all'Oblio
- - Sorveglianza ed investigazione criminale
- - Complessità della protezione dei dati
- - Processo telematico, avvocati telematici e privacy.
-
-# Gli interventi
-
-Gli interventi saranno effettuati dal vivo e, previo consenso dei
-relatori, registrati in audio ed in video. I relatori potranno
-utilizzare documenti, slide o filmati, e gli interventi dovranno avere
-una durata compresa fra 15 e 45 minuti, incluso il tempo per
-Q&A. Potranno essere proposti anche interventi in videoconferenza.
-
-È apprezzata la disponibilità del relatore a concedere la
-pubblicazione del materiale prodotto e delle riprese dell’intervento
-sotto licenza libera.
-
-# L'organizzazione
-
-Al fine di mantenere la propria indipendenza, il convegno è, come
-sempre, _a budget zero_.  I relatori ed i partecipanti dovranno
-provvedere in proprio alle spese di viaggio e soggiorno.
-
-Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno
-carattere non economico e sono intese come adesione morale ai temi ed
-ai principi.
-
-
-# Proposte d'intervento
+privacy, della non-discriminazione, della sorveglianza e dei
+diritti civili digitali.
+Verranno prese in considerazione anche proposte su temi diversi da
+quello dell'edizione, purché di interesse e di attualità.
 
 Le proposte dovranno contenere:
 
@@ -179,30 +118,65 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni audio
 - se disponibile alla pubblicazione di registrazioni video
 
-Le proposte di intervento potranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://bit.ly/eprivacy-XXI-proposta)
+Le proposte di intervento dovranno essere presentate utilizzando il
+form disponibile in questa  [pagina](http://bit.ly/eprivacy-XXIII-proposta)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
-termine ultimo del 7 maggio 2017__.
+termine ultimo del 27 aprile 2018__.
 
-L'accettazione o meno delle proposte sarà **comunicata entro il 14
-maggio 2017**.
+L'accettazione o meno delle proposte sarà **comunicata entro il 4
+maggio 2018**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 20 giugno 2017**.
+**entro il 25 maggio 2018**.
 
+Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
-### Sede di e-privacy 2017 summer edition
+- Diritto alla Conoscenza e democrazie avanzate
+- Diritti civili e politici dell’individuo: libertà di espressione, riservatezza ed anonimato;
+- Profilazione, geotagging, biometria, riconoscimento facciale
+- Tecnologie della liberazione per l’arricchimento della privacy, crittografia e comunicazione sicura.
+- Impatto delle tecnologie di controllo e dell’anonimato sui diritti dei lavoratori e degli studenti.
+- Evoluzione dei mercati di dati personali: data retention, analisi big-data, circolazione e rivendita
+- Dati personali in rete: captatori, intercettazioni lecite ed illecite, anonimizzazione, ciclo di vita dei dati raccolti a fini d’investigazione criminale o di sorveglianza di polizia.
+- Servizi digitali di Stato, informatizzazione obbligatoria, processo telematico.
 
+# Gli interventi
 
-La sede di e-privacy 2017 summer edition sarà Sala dell’Affresco del Real Collegio.
+Gli interventi saranno effettuati dal vivo e, con il consenso dei
+ relatori, registrati in audio ed in video.
+
+I relatori potranno utilizzare documenti, slide o filmati, e gli interventi
+dovranno avere una durata compresa fra 15 e 45 minuti, incluso il tempo per
+Q&A. 
+
+Potranno essere proposti anche interventi in videoconferenza.
+
+È apprezzata la disponibilità del relatore a concedere la pubblicazione del
+materiale prodotto e delle riprese dell’intervento sotto licenza libera.
+
+# L'Organizzazione
+
+Al fine di mantenere la propria indipendenza, il convegno è, come
+sempre, _a budget zero_.  I relatori ed i partecipanti dovranno
+provvedere in proprio alle spese di viaggio e soggiorno.
+
+Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno
+carattere non economico e sono intese come adesione morale ai temi ed
+ai principi.
+
+### Sede di e-privacy 2018 summer edition
+
+La sede di e-privacy 2018 summer edition sarà la
+ [Biblioteca Salaborsa](https://it.wikipedia.org/wiki/Biblioteca_Salaborsa)
+ - Palazzo d'Accursio, Piazza Nettuno 3 .
 
 <!-- ![La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
 
-### Organizzazione
+### Gli organizzatori
 
-La manifestazione e’ organizzata:
+La manifestazione e’ organizzata da:
 
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
@@ -214,9 +188,13 @@ e da altre organizzazioni, aziende ed associazioni.
 
 Per contatti generali e per la
 stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
-per i
-relatori
+per i relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
+
+Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
+disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org). 
+
+**Vi aspettiamo**.
 
 
 
