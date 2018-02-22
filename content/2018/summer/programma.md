@@ -1,27 +1,27 @@
 Template: event
 Status: draft
-Title: Parole (ostili) contro la Rete
+Title: Singolarità
 Date: 2017-05-15 10:20
-Category: 2017
+Category: 2018
 lang: it
-Num: XXI
-Year: 2017
+Num: XXIII
+Year: 2018
 slug: e-privacy-XXIII-programma
-City: Lucca
-Where: Real Collegio<br/>P.zza del Collegio, 13
-When: 23-24 Giugno
+City: Bologna
+Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
+When: 8-9 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2016W
-prev: e-privacy-XX
-Xnextid: 2016W
+previd: 2017W
+prev: e-privacy-XXII
+Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba
 XXSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
 Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
-Patrocini: comlucca,luording
+XPatrocini: comlucca,luording
 MediaPartner: infomedia, radioradicale
 
 ###e-privacy 2017 - summer edition
