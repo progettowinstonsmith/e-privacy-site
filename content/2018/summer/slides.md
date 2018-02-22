@@ -6,7 +6,7 @@ Category: 2017
 lang: it
 Num: XXI
 Year: 2017
-slug: e-privacy-XXIII
+slug: e-privacy-XXIII-slides
 City: Lucca
 Where: Real Collegio<br/>P.zza del Collegio, 13
 When: 23-24 Giugno
