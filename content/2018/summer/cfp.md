@@ -18,7 +18,7 @@ Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup
+Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi
 Patrocini: 
 MediaPartner: infomedia, radioradicale
 
@@ -33,7 +33,7 @@ _summer edition_**.
 
 Il tema guida della XXIII edizione di e-privacy è:
 
-**Singolarità** <br> _Come l'IoT, A.I., le fake news e le bolle
+**Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
 
 # Call for Papers
@@ -58,7 +58,9 @@ informazioni corrette secondo la nostra volontà.
 
 Le tecnologie di Intelligenza Artificiale e di Deep Learning possono estrarre
 informazioni ed effettuare inferenze, correlando moli enormi di dati ad un
-livello impensabile fino a pochi anni fa, e giungendo a deduzioni di livello pari o superiore a quello di un analista umano. Gli algoritmi, davvero, sanno oggi più cose su di noi di quante ne conosciamo noi stessi
+livello impensabile fino a pochi anni fa, e giungendo a deduzioni di livello 
+pari o superiore a quello di un analista umano. Gli algoritmi, davvero, sanno 
+oggi più cose su di noi di quante ne conosciamo noi stessi.
 
 L'Internet delle Cose sta popolando le nostre case ed i nostri corpi,
 lo stuolo di sensori che gli oggetti dell'IoT contengono pompa
@@ -97,7 +99,8 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo
 sempre più digitale ed interconnesso, nel quale le possibilità di
 comunicazione ed accesso alla conoscenza crescono continuamente, come
 pure crescono le possibilità di tecnocontrollo degli individui sin nei
-più intimi dettagli. L’approccio è interdisciplinare; dagli
+più intimi dettagli. 
+L’approccio è interdisciplinare; dagli
 specialisti in informatica ai legali che si occupano di nuove
 tecnologie, dagli psicologi agli educatori, dagli operatori privati a
 quanti operano nel settore pubblico ed istituzionale.
