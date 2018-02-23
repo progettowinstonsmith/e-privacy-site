@@ -5,7 +5,7 @@ Category: 2017
 lang: it
 Num: XXII
 Year: 2017
-slug: e-privacy-XXII-slides
+slug: e-privacy-XXII
 City: Venezia
 Where: Corte d'Assise<br/>Tribunale di Rialto
 When: 13-14 Ottobre
