@@ -33,7 +33,7 @@ _summer edition_**.
 
 Il tema guida della XXIII edizione di e-privacy è:
 
-**Singolarità** <br> _Come l'IoT, A.I., le fake news e le bolle
+**Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
 
 # Call for Papers
