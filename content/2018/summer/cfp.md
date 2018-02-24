@@ -27,7 +27,7 @@ MediaPartner: infomedia, radioradicale
 
 L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna,
 nella
-[Biblioteca Salaborsa](https://it.wikipedia.org/wiki/Biblioteca_Salaborsa) -
+[Biblioteca Salaborsa](https://www.bibliotecasalaborsa.it) -
 Palazzo d'Accursio, Piazza Nettuno 3 si svolgerà **e-privacy 2018
 _summer edition_**.
 
@@ -35,6 +35,8 @@ Il tema guida della XXIII edizione di e-privacy è:
 
 **Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
+
+[Foto Roberto Ravaioli](https://upload.wikimedia.org/wikipedia/it/e/e7/Bsb_macrosegnaletica_16.jpg)
 
 # Call for Papers
 
