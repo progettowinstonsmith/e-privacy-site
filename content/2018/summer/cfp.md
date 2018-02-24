@@ -18,7 +18,7 @@ Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi
+Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,mes3hacklab
 Patrocini: 
 MediaPartner: infomedia, radioradicale
 

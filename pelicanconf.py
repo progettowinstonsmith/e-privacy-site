@@ -179,6 +179,7 @@ PARTNERS = {
     'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
     'lalegatoria': ('la legatoria', 'lalegatoria.jpg', 'http://www.lalegatoria.it'),
     'hackthewire': ('HackTheWire', 'logo-hackthewire.png', 'https://www.hackthewire.it'),
+    'mes3hacklab': ('mes3hacklab', 'mes3hacklab.png', 'http://mes3hacklab.org'),
 }
 
 
