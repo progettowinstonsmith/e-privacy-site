@@ -20,7 +20,7 @@ Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
 Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
 Patrocini: 
-MediaPartner: infomedia, radioradicale
+MediaPartner: infomedia,radioradicale,aneddotica
 
 
 ### È aperto  il Call for Paper di e-privacy 2018 summer edition
