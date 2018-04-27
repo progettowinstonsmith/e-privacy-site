@@ -8,7 +8,7 @@ Num: XXIII
 Year: 2018
 slug: e-privacy-XXIII-cfp
 City: Bologna
-Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
+Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3 
 When: 8-9 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
@@ -18,23 +18,27 @@ Xnextid: 2016W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi
+Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
 Patrocini: 
-MediaPartner: infomedia, radioradicale
+MediaPartner: infomedia,radioradicale,aneddotica
 
 
 ### È aperto  il Call for Paper di e-privacy 2018 summer edition
 
 L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna,
 nella
-[Biblioteca Salaborsa](https://it.wikipedia.org/wiki/Biblioteca_Salaborsa) -
+[Biblioteca Salaborsa](https://www.bibliotecasalaborsa.it) -
 Palazzo d'Accursio, Piazza Nettuno 3 si svolgerà **e-privacy 2018
 _summer edition_**.
 
 Il tema guida della XXIII edizione di e-privacy è:
 
-**Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
-informative ci obbligano a ripensare il concetto di privacy._
+##**Singolarità**
+<h3><I>Come l'IoT, l'A.I., le fake news e le bolle informative ci obbligano a ripensare il concetto di privacy</I></h3>
+
+
+![Biblioteca Salaborsa](https://upload.wikimedia.org/wikipedia/it/e/e7/Bsb_macrosegnaletica_16.jpg "Foto Roberto Ravaioli - licenza CC BY-NC-SA")
+
 
 # Call for Papers
 

@@ -56,7 +56,7 @@ THIS = (
     #('I relatori', '/e-privacy-XXII-relatori.html'),
     # ('Call for Sponsor', '/e-privacy-XXII-cfs.html'),
     # ('FAQ per i relatori', '/e-privacy-XXII-faq-relatori.html'),
-    #('Come arrivare', '/e-privacy-XXII-come-arrivare.html'),
+    ('Come arrivare', '/e-privacy-XXIII-come-arrivare.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti-XXIII.html'),
@@ -179,6 +179,9 @@ PARTNERS = {
     'radioradicale': ('Radio Radicale', 'radioradicale.png', 'http://www.radioradicale.it'),
     'lalegatoria': ('la legatoria', 'lalegatoria.jpg', 'http://www.lalegatoria.it'),
     'hackthewire': ('HackTheWire', 'logo-hackthewire.png', 'https://www.hackthewire.it'),
+    'mes3hacklab': ('mes3hacklab', 'mes3hacklab.png', 'http://mes3hacklab.org'),
+    'overvolt': ('overvolt', 'logo_overvolt.png', 'https://www.youtube.com/channel/UCw6ekhAtFahKr7gImCIoYwg/featured'),
+    'aneddotica': ('aneddotica', 'logo_aneddotica.png', 'https://www.aneddoticamagazine.com/it/'),
 }
 
 
