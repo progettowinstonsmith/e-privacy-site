@@ -16,12 +16,7 @@ prev: e-privacy-XXII
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
-Collaboratori: bba
-XXSponsor: cgt,sepel,sikurezza.org
-XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions
-XPatrocini: comlucca,luording
-MediaPartner: infomedia, radioradicale
+
 
 ###e-privacy 2018 - summer edition
 
@@ -46,21 +41,21 @@ informative ci obbligano a ripensare il concetto di privacy._
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
 
-  **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- | | ------- | ------- 
-9:30	|	0:15:00	|	Apertura lavori: "Singolarità" Marco Calamari				
-9:45	|	0:15:00	|	Saluti istituzionali				
-10:00	|	0:20:00	|		[_La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia_](e-privacy-XXI-relatori.html#giorio)	|	[_GIORIO Diego - SEPEL Editrice - Comune di Villanova Canavese_](e-privacy-XXI-interventi.html#giorio)	|
-10:20	|	0:20:00	|		[_E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!_](e-privacy-XXI-relatori.html#tramaci)	|	[_Enzo (Epto) Anci (Tramaci.org)_](e-privacy-XXI-interventi.html#tramaci)	|
-10:40	|	0:20:00	|		[_AI contro ? _](e-privacy-XXI-relatori.html#vieri)	|	[_Vieri, Giovambattista (ENT SRL)_](e-privacy-XXI-interventi.html#vieri)	|
-11:00	|	0:20:00	|		[_Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati_](e-privacy-XXI-relatori.html#dolcetti)	|	[_Marianna Dolcetti; Carmine Andrea Trovato_](e-privacy-XXI-interventi.html#dolcetti)	|
-11:20	|	0:20:00	|		[_Maledetto distributore automatico non avrai la mia identità_](e-privacy-XXI-relatori.html#casagrande)	|	[_Casagrande, Emanuele_](e-privacy-XXI-interventi.html#casagrande)	|
-11:40	|	0:20:00	|		[_Privacy e internet of things: quali sono i rischi?_](e-privacy-XXI-relatori.html#gallese)	|	[_Gallese, Chiara (Studio Legale Gallese), Nobile, Marco Salvatore (Università degli Studi di Milano-Bicocca)_](e-privacy-XXI-interventi.html#gallese)	|
-12:00	|	0:20:00	|		[_Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester_](e-privacy-XXI-relatori.html#abeti)	|	[_Abeti Riccardo (UAE)_](e-privacy-XXI-interventi.html#abeti)	|
-12:20	|	0:20:00	|		[_L'intelligenza naturale e il corpo digitale_](e-privacy-XXI-relatori.html#ciurcina)	|	[_Ciurcina Marco StudioLegale.it_](e-privacy-XXI-interventi.html#ciurcina)	|
-12:40	|	0:20:00	|		[_Consenso e trasparenza_](e-privacy-XXI-relatori.html#cerno)	|	[_Cerno Italo_](e-privacy-XXI-interventi.html#cerno)	|
-13:00	|	1:00:00	|		Tavola Rotonda: [_Singolarità_](e-privacy-XXI-interventi.html#tavola1)<br/>Modera:<br/>Partecipano<br/>			
-14:00	|		|	PAUSA PRANZO				
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  ------- | --- | ------- | ------- 
+<a name="vm1"></a>9:30|15|Apertura lavori: "Singolarità" Marco Calamari
+<a name="vm2"></a>9:45|15|Saluti istituzionali
+<a name="vm3"></a>10:00|20|<a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
+<a name="vm4"></a>10:20|20|<a href='/e-privacy-XXIII-interventi.html#tramaci'>E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!</a>|<a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a>
+<a name="vm5"></a>10:40|20|<a href='/e-privacy-XXIII-interventi.html#vieri'>AI contro?</a>|<a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>
+<a name="vm6"></a>11:00|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a>
+<a name="vm7"></a>11:20|20|<a href='/e-privacy-XXIII-interventi.html#casagrande'>Maledetto distributore automatico non avrai la mia identità</a>|<a href="/e-privacy-XXIII-relatori.html#casagrande">Emanuele Casagrande </a>
+<a name="vm8"></a>11:40|20|<a href='/e-privacy-XXIII-interventi.html#gallese'>Privacy e internet of things: quali sono i rischi?</a>|<a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a>
+<a name="vm9"></a>12:00|20|<a href='/e-privacy-XXIII-interventi.html#abeti'>Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester</a>|<a href="/e-privacy-XXIII-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a>
+<a name="vm10"></a>12:20|20|<a href='/e-privacy-XXIII-interventi.html#ciurcina'>L'intelligenza naturale e il corpo digitale</a>|<a href="/e-privacy-XXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>
+<a name="vm11"></a>12:40|20|<a href='/e-privacy-XXIII-interventi.html#gobbato'>Fake news e diritto all’oblio, nuove declinazioni dei diritti civili digitali: dialogo a tre.</a>|<a href="/e-privacy-XXIII-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a>, <a href="/e-privacy-XXIII-relatori.html#monte">Nicole Monte </a> e <a href="/e-privacy-XXIII-relatori.html#casonato">Guendalina Casonato </a>
+<a name="vm12"></a>13:00|01:00|Tavola Rotonda: [_Singolarità_](e-privacy-XXIII-interventi.html#tavola1)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipa: 
+<a name="vm13"></a>14:00||PAUSA PRANZO
 
 
 #### <a name="vep"></a>Venerdì 8 Giugno 2018 - pomeriggio
@@ -69,15 +64,18 @@ informative ci obbligano a ripensare il concetto di privacy._
  
   **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
 ------- | --- | ------- | ------- 
-15:00	|	0:20:00	|		[_da Cambridge analytica ai dati di whatsapp: storia e gloria del trasferimento di dati all'estero_](e-privacy-XXI-relatori.html#sarzana)	|	[_sarzana Fulvio_](e-privacy-XXI-interventi.html#sarzana)	|
-15:20	|	0:20:00	|		[_Blockchain e protezione dei dati personali: il valore del dato personale_](e-privacy-XXI-relatori.html#fabiano)	|	[_Fabiano, Nicola (Studio Legale Fabiano)_](e-privacy-XXI-interventi.html#fabiano)	|
-15:40	|	0:20:00	|		[_GDPR e sicurezza informatica: è vero che sono in antitesi?_](e-privacy-XXI-relatori.html#vicarelli)	|	[_Vicarelli Cristina_](e-privacy-XXI-interventi.html#vicarelli)	|
-16:00	|	0:20:00	|		[_Data Breach e GDPR: profili operativi e best practices internazionali_](e-privacy-XXI-relatori.html#vaciago)	|	[_Giuseppe Vaciago (LT42 S.r.l.)_](e-privacy-XXI-interventi.html#vaciago)	|
-16:20	|	0:20:00	|		[_Big data, dati sanitari e GDPR_](e-privacy-XXI-relatori.html#ricci)	|	[_Ricci, Stefano (BiSLab Bicocca Security Lab)_](e-privacy-XXI-interventi.html#ricci)	|
-16:20	|	0:20:00	|		[_Quando la privacy cade nella trappola dell’anonimizzazione_](e-privacy-XXI-relatori.html#senor)	|	[_Blengino, Carlo, Senor, Monica _](e-privacy-XXI-interventi.html#senor)	|
-16:40	|	0:20:00	|		[_Oops they did it again: il data breach nell’era del GDPR_](e-privacy-XXI-relatori.html#gallus)	|	[_Gallus, Giovanni Battista (Circolo dei Giuristi Telematici, Nexa Center)_](e-privacy-XXI-interventi.html#gallus)	|
-17:00	|	0:10:00	|		[_Big Brother Awards_](e-privacy-XXI-relatori.html#bba)	|	[__](e-privacy-XXI-interventi.html#bba)	|
-17:20	|	1:10:00	|		Tavola Rotonda: [_GDPR_](e-privacy-XXI-interventi.html#tavola2)<br/>Modera:<br/>Partecipano<br/>			|
+<a name="vp1"></a>15:00||Apertura lavori pomeridiani: GDPR
+<a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#bba">Award Big Brother </a>
+<a name="vp3"></a>15:25|20|<a href='/e-privacy-XXIII-interventi.html#fabiano'>Blockchain e protezione dei dati personali: il valore del dato personale</a>|<a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>
+<a name="vp4"></a>15:45|20|<a href='/e-privacy-XXIII-interventi.html#vicarelli'>GDPR e sicurezza informatica: è vero che sono in antitesi?</a>|<a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a>
+<a name="vp5"></a>16:05|20|<a href='/e-privacy-XXIII-interventi.html#vaciago'>Data Breach e GDPR: profili operativi e best practices internazionali</a>|<a href="/e-privacy-XXIII-relatori.html#vaciago">Giuseppe Vaciago (LT42 S.r.l.)</a>
+<a name="vp6"></a>16:25|20|<a href='/e-privacy-XXIII-interventi.html#ricci'>Big data, dati sanitari e GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a>
+<a name="vp7"></a>16:45|20|<a href='/e-privacy-XXIII-interventi.html#senor'>Quando la privacy cade nella trappola dell’anonimizzazione</a>|<a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> e <a href="/e-privacy-XXIII-relatori.html#blengino">Carlo Blengino </a>
+<a name="vp8"></a>17:05|20|<a href='/e-privacy-XXIII-interventi.html#gallus'>Oops they did it again: il data breach nell’era del GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>
+<a name="vp9"></a>17:25|20|<a href='/e-privacy-XXIII-interventi.html#sarzana'>Da Cambridge aAalytica ai dati di Whatsapp: storia e gloria del trasferimento di dati all'estero</a>|<a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>
+<a name="vp10"></a>17:45|01:00|Tavola Rotonda: [_GDPR_](e-privacy-XXIII-interventi.html#tavola2)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a><br/>Partecipa: 
+<a name="vp11"></a>18:45||Chiusura lavori prima giornata
+
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - mattina
 
@@ -85,21 +83,22 @@ informative ci obbligano a ripensare il concetto di privacy._
  
 
 
-  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- || ------- | ------- 
-9:30	|	0:05:00	||	Apertura lavori: 				
-9:35	|	0:15:00	|	[_ Il ragazzo che giocava con gli Ufo_](e-privacy-XXI-relatori.html#scrofani)	|	[_Scrofani, Giovanni_](e-privacy-XXI-interventi.html#scrofani)	|
-9:50	|	0:20:00	|	[_PRIVACY AND COUNTER-TERRORISM MEASURES: REAL FIGHT AGAINST TERRORISM OR CITIZEN RIGHT VIOLATION  IN  MODERN RUSSIA?_](e-privacy-XXI-relatori.html#shakhmirza)	|	[_Shakhmirza Bella_](e-privacy-XXI-interventi.html#shakhmirza)	|
-10:10	|	0:20:00	|	[_Diritti digitali_](e-privacy-XXI-relatori.html#filippini)	|	[_Nicola Filippini_](e-privacy-XXI-interventi.html#filippini)	|
-10:30	|	0:20:00	|	[_Tutta l'intelligenza (artificiale) nelle mani della polizia_](e-privacy-XXI-relatori.html#coluccini)	|	[_Coluccini, Riccardo (Hermes)_](e-privacy-XXI-interventi.html#coluccini)	|
-10:50	|	0:20:00	|		[_La digitalizzazione di dati personali nella Deutsche Demokratische Republik_](e-privacy-XXI-relatori.html#ferri)	|	[_Ferri Edoardo (Studio Tecnico Ferri & Costantino)_](e-privacy-XXI-interventi.html#ferri)	|
-11:10	|	0:20:00	|		[_Riconoscimento oggetti e volti nelle immagini dei social media_](e-privacy-XXI-relatori.html#marmo)	|	[_Marmo, Roberto (Università di Pavia)_](e-privacy-XXI-interventi.html#marmo)	|
-11:30	|	0:20:00	|		[_Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico._](e-privacy-XXI-relatori.html#pazzaglia)	|	[_Pazzaglia, Aldo Antonio (CRSUE)_](e-privacy-XXI-interventi.html#pazzaglia)	|
-11:50	|	0:30:00	|		[_La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete_](e-privacy-XXI-relatori.html#gabriele)	|	[_Renato Gabriele, fondatore Oohmm; Manuela Vacca, giornalista; Giorgio Gresci, sviluppatore_](e-privacy-XXI-interventi.html#gabriele)	|
-12:20	|	0:20:00	|		[_Catalunya, un corto circuito democratico nell'era dei Big Data_](e-privacy-XXI-relatori.html#seno)	|	[_Giulia Seno_](e-privacy-XXI-interventi.html#seno)	|
-12:20	|	0:20:00	|		[_Lo shutdown di Internet in Catalogna_](e-privacy-XXI-relatori.html#radd)	|	[_Relatori: Norrin Radd, un attivista catalano_](e-privacy-XXI-interventi.html#radd)	|
-13:00	|	1:00:00	|		Tavola Rotonda: [_Democrazia digitale diretta (male?)_](e-privacy-XXI-interventi.html#tavola3)<br/>Modera:<br/>Partecipano<br/>			
-14:00	|		|	PAUSA PRANZO				
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  ------- | --- | ------- | ------- 
+<a name="sm1"></a>9:30|05|Apertura lavori mattutina
+<a name="sm2"></a>9:35|20|<a href='/e-privacy-XXIII-interventi.html#filippini'>Diritti digitali</a>|<a href="/e-privacy-XXIII-relatori.html#filippini">Nicola Filippini </a>
+<a name="sm3"></a>9:55|20|<a href='/e-privacy-XXIII-interventi.html#shakhmirza'>Privacy And Counter-Terrorism Measures: Real Fight Against Terrorism Or Citizen Right Violation In Modern Russia?</a>|<a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a>
+<a name="sm4"></a>10:15|20|<a href='/e-privacy-XXIII-interventi.html#coluccini'>Tutta l'intelligenza (artificiale) nelle mani della polizia</a>|<a href="/e-privacy-XXIII-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a>
+<a name="sm5"></a>10:35|20|<a href='/e-privacy-XXIII-interventi.html#ferri'>La digitalizzazione di dati personali nella Deutsche Demokratische Republik</a>|<a href="/e-privacy-XXIII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a>
+<a name="sm6"></a>10:55|20|<a href='/e-privacy-XXIII-interventi.html#marmo'>Riconoscimento oggetti e volti nelle immagini dei social media</a>|<a href="/e-privacy-XXIII-relatori.html#marmo">Roberto Marmo (Università di Pavia)</a>
+<a name="sm7"></a>11:15|20|<a href='/e-privacy-XXIII-interventi.html#seno'>Catalunya, un corto circuito democratico nell'era dei Big Data</a>|<a href="/e-privacy-XXIII-relatori.html#seno">Giulia Seno (Giornalista)</a>
+<a name="sm8"></a>11:35|20|<a href='/e-privacy-XXIII-interventi.html#radd'>Lo shutdown di Internet in Catalogna</a>|<a href="/e-privacy-XXIII-relatori.html#radd">Norrin Radd (Attivista informatico Catalano)</a>
+<a name="sm9"></a>11:55|20|<a href='/e-privacy-XXIII-interventi.html#pazzaglia'>Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico.</a>|<a href="/e-privacy-XXIII-relatori.html#pazzaglia">Aldo Antonio Pazzaglia (Consulta delle Regioni per gli Stati Uniti d'Europa)</a>
+<a name="sm10"></a>12:15|30|<a href='/e-privacy-XXIII-interventi.html#gabriele'>La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a>|<a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Resci Giorgio </a>
+<a name="sm11"></a>12:45|15|<a href='/e-privacy-XXIII-interventi.html#scrofani'>Il ragazzo che giocava con gli Ufo</a>|<a href="/e-privacy-XXIII-relatori.html#scrofani">Giovanni Scrofani </a>
+<a name="sm12"></a>13:00|01:00|Tavola Rotonda: [_Democrazia digitale diretta_](e-privacy-XXIII-interventi.html#tavola3)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipa: 
+<a name="sm13"></a>14:00||PAUSA PRANZO
+
   
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - pomeriggio
@@ -107,16 +106,17 @@ informative ci obbligano a ripensare il concetto di privacy._
 * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
 
 
-  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- || ------- | ------- 
-15:00	|		|	Apertura lavori pomeridiani
-15:00	|	0:20:00	|		[_DPIbon - "dual use is megl che uan"_](e-privacy-XXI-relatori.html#bozza)	|	[_Massimo Bozza_](e-privacy-XXI-interventi.html#bozza)	|
-15:20	|	0:20:00	|		[_Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica_](e-privacy-XXI-relatori.html#premoli)	|	[_Premoli (IOTHAT)_](e-privacy-XXI-interventi.html#premoli)	|
-15:40	|	0:20:00	|		[_Singolarità o privacy disruption?_](e-privacy-XXI-relatori.html#zugnaz)	|	[_Zugnaz, Efrem e la comunità del WEBPREPPING_](e-privacy-XXI-interventi.html#zugnaz)	|
-16:00	|	0:20:00	|		[_FAKE NEWS e DIRITTO ALL’OBLIO, NUOVE DECLINAZIONI DEI DIRITTI CIVILI DIGITALI: Dialogo a tre_](e-privacy-XXI-relatori.html#gobbato)	|	[_Gobbato Moica, Monte Nicole Casonato Guendalina_](e-privacy-XXI-interventi.html#gobbato)	|
-16:20	|	0:20:00	|		[_How To Be Anonymous Online To Protect Privacy_](e-privacy-XXI-relatori.html#carletti)	|	[_carletti fabio_](e-privacy-XXI-interventi.html#carletti)	|
-16:40	|	0:20:00	|		[_Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti_](e-privacy-XXI-relatori.html#ronca)	|	[_Calzone, Samuele (INDIRE), Lotti, Patrizia (INDIRE)_](e-privacy-XXI-interventi.html#ronca)	|
-17:00	|		|	Chiusura Lavori
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  ------- | ---- | ------- | ------- 
+<a name="sp1"></a>15:00||Apertura lavori pomeridiani: privacy
+<a name="sp2"></a>15:00|20|<a href='/e-privacy-XXIII-interventi.html#bozza'>DPIbon - "dual use is megl che uan"</a>|<a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a>
+<a name="sp3"></a>15:20|20|<a href='/e-privacy-XXIII-interventi.html#premoli'>Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a>|<a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a>
+<a name="sp4"></a>15:40|20|<a href='/e-privacy-XXIII-interventi.html#zugnaz'>Singolarità o privacy disruption?</a>|<a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a>
+<a name="sp5"></a>16:00|20|<a href='/e-privacy-XXIII-interventi.html#cerno'>Consenso e trasparenza</a>|<a href="/e-privacy-XXIII-relatori.html#cerno">Italo Cerno (ITLawFirm)</a>
+<a name="sp6"></a>16:20|20|<a href='/e-privacy-XXIII-interventi.html#carletti'>How To Be Anonymous Online To Protect Privacy</a>|<a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>
+<a name="sp7"></a>16:40|20|<a href='/e-privacy-XXIII-interventi.html#ronca'>Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti</a>|<a href="/e-privacy-XXIII-relatori.html#ronca">Antonio Ronca (INDIRE)</a>
+<a name="sp8"></a>17:00||Chiusura Lavori
+
   
 
 ### Sede di e-privacy 2018 summer edition

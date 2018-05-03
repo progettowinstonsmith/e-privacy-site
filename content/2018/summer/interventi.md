@@ -1,657 +1,346 @@
 Template: event
-Status: draft
-Title: Parole (ostili) contro la Rete
-Date: 2017-05-13 10:20
-Category: 2017
+Title: Singolarità
+Date: 2017-05-15 10:20
+Category: 2018
 lang: it
-Num: XXI
-Year: 2017
+Num: XXIII
+Year: 2018
 slug: e-privacy-XXIII-interventi
-City: Lucca
-Where: Real Collegio<br/>P.zza del Collegio, 13
-When: 23-24 Giugno
+City: Bologna
+Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
+When: 8-9 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2016W
-prev: e-privacy-XX-interventi
-Xnextid: 2016W
+previd: 2017W
+prev: e-privacy-XXII
+Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba
-XXSponsor: cgt,sepel,sikurezza.org
-XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: grusp,sikurezza.org,ush,puntoi
-Patrocini: comlucca,luording
-MediaPartner: infomedia
+MediaPartner: infomedia, radioradicale
 
 ## <a name="talks"></a>Gli interventi
 
 
-### <a name='annicchino'></a>Pasquale Annicchino (Lex Digital)
-**La sorveglianza delle minoranze religiose nell'era del terrorismo globale**
-
-Lo sviluppo delle tecnologie della sorveglianza ha mutato
-profondamente la gestione dell'ordine pubblico e della sicurezza
-nazionale in numerosi Paesi. Le necessità dettate dal diffondersi
-dell'islamismo radicale hanno fatto si che in alcuni casi si siano
-sviluppate particolari politiche della sicurezza che sollecitano
-numerose domande rispetto alla loro liceità. E' questo il caso degli
-Stati Uniti d'America, ed in particolare della città di New York, dove
-alcuni sviluppi recenti interrogano in maniera profonda la concezione
-occidentale dei diritti fondamentali, ed in particolare della tutela
-del diritto alla privacy. L'intento di questo contributo è quello di
-analizzare alcuni aspetti generali di questi sviluppi partendo
-dall'esperienza statunitense.
-
-### <a name='aterno'></a>Stefano Aterno
-**Il concetto di domicilio informatico nell'epoca dell' IOT   **
-
-Si affonterà la delicata questione del domicilio informatico e la sua
-""resistenza"" nel prossimo futuro. Il suo essere un principio di
-libertà e il suo comprimersi in presenza di indagini di polizia; il
-suo rapporto con la riservatezza e l'ammissibilità delle limitazioni
-finalizzate da esigenze non solo investigative ma anche commerciali e
-di marketing. La visione futura della tutela e del rispetto del
-domicilio informatico (più o meno forte) sarà uno degli indici sui
-quali nei prossimi anni si misurerà il grado di riservatezza degli
-individui di un Paese democratico.
-
-### <a name='blenginosenor'></a>Carlo Blengino e Monica Senor 
-**Buoni propositi, soluzionismo e danni collaterali: le peculiari dinamiche dei contenuti sgraditi e dell'odio in rete**
-
-"Siamo circondati da persone animate da buone intenzioni” scrive la
-sociologa americana Danah Boyd in When good intentions backfire: tutti
-noi, educatori, attivisti, esperti, giornalisti, informatici
-costruiamo sistemi ideali individuando spesso facili soluzioni a
-problemi complessi. Anche i legislatori (con buone intenzioni?) si
-affannano nel ricorrere un soluzionismo di facciata che nasconde i
-problemi, il più delle volte senza neppure definirli. Ma la rete
-possiede dinamiche peculiari e le migliori intenzioni possono produrre
-disastri.
-
-### <a name='bozza'></a>Massimo Bozza, Pietro Stroia
-**Low-end Chinese IoT wearables**
-
-La sempre maggiore diffusione di dispositivi indossabili (wearables) e
-collegati ad Internet (IoT), apre a scenari futuri di maggiore rischio
-per la sicurezza e la privacy dei loro utilizzatori. Il talk proposto
-presenta uno spaccato sulle problematiche di privacy e sicurezza
-emerse analizzando dispositivi IoT wearables basati su chipset low
-cost cinesi ma reperibili facilmente e molto diffusi sul mercato
-italiano.  La minaccia alla privacy degli utilizzatori è insita sia
-nelle criticità di sicurezza dei dispositivi che dall'utilizzo di un
-ecosistema software proprietario e chiuso.
-
-### <a name='calamarifalcomata'></a>Marco Calamari, (Progetto Winston Smith),  Igor Falcomata'
-**Internet of Thing: istruzioni per l'uso**
-
-L'Internet delle Cose e' ormai tra noi per restare. Utile e simpatica,
-e' anche insidiosa, ficcanaso, ed in certi casi addirittura
-pericolosa.  L'intervento sara' diviso in tre parti: una breve storia
-dell'IoT, dal 2005 a ierisera, dal Nabaztag ad Echo, poi un excursus
-sui problemi industriali di produzione del software che la anima, ed
-infine alcune piccole dimostrazioni di attacchi per suscitare un po'
-di sana paranoia nei proprietari, o meglio di coloro che credono di
-essere proprietari, di oggetti dell'IoT.
-
-### <a name='carletti'></a>Fabio Carletti
-**Cyberbullismo giovani e adulti in pericolo**
-
-Parole (ostili) contro la Rete: l’involuzione della percezione della
-Rete - Per l'evento e-privacy vorrei proporrere due talk il primo talk
-si riferirebbe al tema attuale del cyber bullismo descrivendo i metodi
-che utilizzano gli adolescenti in special modo per prendersi gioco dei
-coetanei social network fake email,..ecc riportando casi reali attuali
-e come reagire il disagio adolescenziale e la problematica di una
-relazione virtuale anche per gli adulti spesso vittima di ricatti e il
-bisogno dei giovani è sempre quello di esserci nel web
-
-### <a name='cerrato'></a>Giovanni Cerrato
-**Analisi delle tecniche di censura della piattaforma Tor**
-
-L’aumento incontrollato dei contenuti pubblicati sul web negli ultimi
-anni se da un lato ha favorito l’interscambio di informazioni
-dall’altro ha aperto lo scenario a un'altra tematica tanto importante
-quanto delicata ovvero quella della libertà digitale. A sua volta la
-libertà digitale risulta strettamente legata al tema della censura su
-Internet, in quanto gli Stati o i provider di servizi hanno la facoltà
-di negare l’accesso ai contenuti sulla rete Internet. L’utilizzo
-troppo oppressivo delle restrizioni col tempo ha dato ha dato vita
-alla nascita di opportuni meccanismi di evasione delle censure e allo
-stato attuale uno dei meccanismi più adoperati è senza dubbio la
-piattaforma Tor.  Nella presentazione verranno illustrate le tecniche
-utilizzate dagli Stati per censurare e inibire l’utilizzo della
-piattaforma Tor. Verrà fornito inoltre un accenno ai principi e alle
-metodologie su cui si è basato lo sviluppo di un tool in grado di
-appurare se in un determinato stato tale censura viene adoperata.
-
-
-### <a name='coluccini'></a>Coluccini, Riccardo, Pietrosanti, Fabio (Hermes)
-**Come monitorare la sorveglianza governativa utilizzando le leggi sulla trasparenza**
-
-Questo è un progetto che cerca di sfruttare la disponibilità di dati
-sugli appalti pubblici, richiesti dalle leggi sulla trasparenza
-anticorruzione, per scoprire le capacità di sorveglianza del governo.
-
-Presenteremo i primi risultati di un approccio strategico misto,
-basato sulla trasparenza e l'attivismo per la privacy, per scoprire le
-capacità governative analizzano i dati degli appalti del Ministero
-dell'Interno, della Giustizia e della Difesa. i quali per legge
-possono acquistare ed utilizzare prodotti e servizi di sorveglianza.
- 
-Questo progetto presenterà molteplici aspetti, come la mappatura delle
-capacità di sorveglianza, le spese, i nomi in codice dei progetti
-governativi, i fornitori e i singoli partecipanti alle offerte di
-sorveglianza.
- 
-Il progetto prevede successivamente l'utilizzo delle nuove leggi FOIA
-chiedendo:
-- tutte le fatture di ciascuna società che abbiamo scoperto vendere
-  tecnologie di sorveglianza al governo
-- tutte le offerte tecniche ed economiche di tutti gli appaltatori
-  legati alle tecnologie di sorveglianza
- 
-In questo modo cercheremo di mettere in luce l'uso delle tecnologie di
-sorveglianza, fornendo una banca dati pubblica di informazioni in
-grado di contribuire a rendere i governi più responsabili per quanto
-riguarda le violazioni dei diritti umani.
-
-### <a name='delsoldato'></a>Flavio Del Soldato
-**L'indipendenza delle autorità di controllo. Il caso italiano.**
-
-“Per garantire un’effettiva protezione dei dati devono essere create
-autorità di controllo indipendenti ai sensi della normativa
-nazionale. Le autorità di controllo nazionali devono agire in assoluta
-indipendenza, garantita dalla legge che le istituisce e ripresa nella
-specifica struttura organizzativa dell’autorità di controllo”. Fonte:
-Manuale sul diritto europeo in materia di protezione dei dati, Agenzia
-dell’Unione europea per i diritti fondamentali, Consiglio d’Europa.
-Fin qui la teoria.  Quanto alla pratica, la Corte di Giustizia
-dell'Unione europea ha avuto occasione di pronunciarsi sulla mancanza
-di piena indipendenza delle autorità di controllo, rispettivamente,
-tedesca, austriaca e ungherese.  E in Italia? Dal 19 gennaio 2016
-pende presso la Commissione europea una denuncia ad oggetto la mancata
-piena indipendenza del Garante per la protezione dei dati personali.
-L'intervento illustra gli elementi sui quali si fonda la denuncia.
-
-### <a name='fabiano'></a>Nicola Fabiano
-**Internet of Things, blockchain e privacy: la sfida**
-
-L'Internet of Things è un fenomeno innovativo e importante per molte
-applicazioni di servizi, ma dovrebbe considerare le questioni legali
-legate alla legge sulla protezione dei dati.  Occorre tuttavia tener
-conto delle questioni legali legate alla normativa sulla protezione
-dei dati e sulla privacy. Le soluzioni tecnologiche sono sempre
-positive, ma prima di sviluppare le applicazioni è necessario
-considerare i rischi da cui non si può prescindere. I dati personali
-sono un valore. In questo contesto è fondamentale valutare le
-problematiche legali e prevenirle, adottando in ciascun progetto
-l'approccio Privacy by Design. Il sistema IoT ci permette di
-trasferire dati su Internet, inclusi i dati personali. In questo
-contesto, è importante considerare il nuovo regolamento europeo sulla
-protezione dei dati (DPP), già in vigore dal 24 maggio 2016, che sarà
-applicabile il 25 maggio 2018. Il GDPR introduce la valutazione
-dell'impatto sulla protezione dei dati (DPIA), la notifica della
-violazione dei dati e sanzioni amministrative molto severe per le
-violazioni alle norme del Regolamento. L'ecosistema di IoT è in rapida
-evoluzione e si sviluppano molte applicazioni in diversi settori. I
-temi più rilevanti sono Big Data e la Blockchain. Si presta attenzione
-alla blockchain, per il suo potenziale concreto utilizzo per servizi e
-applicazioni, aumentando le misure di sicurezza per garantire un
-sistema sicuro. Tuttavia, è altrettanto importante analizzare le
-questioni giuridiche. Ognuno ha il diritto alla protezione dei dati
-personali che lo riguardano. In questo contesto, non si può
-prescindere dal garantire un'adeguata protezione dei dati personali
-secondo i principi di Privacy by Design o Data Protection by Design e
-by Default. In particolare per la blockchain sussistono questioni di
-rilievo relative alla privacy ma allo stesso tempo con essa si possono
-sviluppare applicazioni sicure in materia di eID.
-
-### <a name='flora'></a>Matteo Flora (The Fool srl)
-**Osservare la Rete che Odia: una analisi dell'Odio Online**
-
-Che la rete "odi" è ormai banale, quasi lapalissiano: ne osserviamo
-gli effetti giorno dopo giorno nel corso di qualunque accesso ai
-popolari Social Media.  Ma le tecnologie hanno consentito di fare un
-passo successivo: quantificare ed analizzare l'Odio Online in molti
-aspetti, tracciando una mappa precisa e puntuale di argomenti, di
-geografie, di reti sociali che si occupano di odiare.  Alcuni per
-""gioco"", altri per ""bravata"", altri ancora con fine strumentale
-politico.  In questo intervento osserveremo i fenomeni della rete con
-tecnologie d'avanguardia e con ampiezze di analisi mai prima
-sperimentate in Italia per mostrare un volto della rete che Odia
-(forse) inedito e tracciarne contorni e ritratti più precisi.
-
-### <a name='gallus'></a>Giovanni Battista Gallus  (Array, Nexa Center, Circolo dei Giuristi Telematici), Francesco Paolo Micozzi  (Array, Circolo dei Giuristi Telematici)
-**Ultime notizie dal Miniver: la Rete è un covo di psicocriminali**
-
-La Rete (e la telematica in genere) è passata, in brevissimo tempo, da
-tecnologia risolutrice di qualsiasi problema umano a fucina di ogni
-nefandezza, dal terrorismo alla riduzione dei vaccini. Questa
-evidentissima inversione di tendenza (non priva di accenti
-schizofrenici) sta avendo un impatto diretto sulla produzione
-normativa, sia in Italia che in Europa. Dal pullulare di aggravanti
-legate all'uso del mezzo informatico e telematico, alla progressiva
-erosione dei margini di esclusione della responsabilità del prestatori
-di servizi dell'informazione, il percorso sembra tracciato: la colpa
-non è delle persone ma della tecnologia, e quindi occorre filtrare,
-censurare, controllare. Il talk si propone di evidenziare i caratteri
-principali di questa involuzione, e analizzare le possibili soluzioni
-alternative.
-
-### <a name='gallus2'></a>Giovanni Battista Gallus,  (Array, Nexa Center, Circolo dei Giuristi Telematici), Francesco Paolo Micozzi (Array, Circolo dei Giuristi Telematici)
-**Più trojan per tutti: le diverse modalità di utilizzo dei ""captatori informatici"", tra giurisprudenza e progetti di legge**
-
-A E-privacy si parla di trojan horse ""di Stato"" da quasi un
-decennio, dal ""Bundestrojaner"". Nonostante il tempo trascorso, e
-l'aumento esponenziale del loro utilizzo, a livello nazionale e
-internazionale, i problemi sono ben lungi dall'essere risolti. La
-enorme invasività di questi strumenti, il fatto che possano essere
-utilizzati per diverse funzioni contemporaneamente, la difficoltà di
-utilizzo, il mercato non sempre cristallino che ne caratterizza la
-commercializzazione sono tra i fattori che rendono estremamente
-complessa una regolamentazione che concili le (legittime) esigenze
-investigative con le garanzie di tutela delle libertà fondamentali. Il
-talk si propone di estendere l'analisi non solo alle intercettazioni
-di comunicazioni tra presenti (affrontate dalle Sezioni Unite della
-Cassazione), ma anche e soprattutto agli altri possibili utilizzi
-(geolocalizzazione, ""perquisizione permanente"" da remoto,
-keylogging, registrazioni video etc.), mediante l'analisi della
-giurisprudenza e delle proposte di legge attualmente in
-discussione. Che scenari si prospettano?
-
-### <a name='ghirardini'></a>Andrea Ghirardini
-**Tecnocontrollo e diffusione indiscriminata delle tecnologie di sorveglianza**
-
-Il talk parla non solo delle tecnologie di tecnocontrollo e della loro
-diffusione dovuta alla mancanza di coscienza e di etica delle
-compagnie che possiedono, rivendono e sviluppano tali tecnologie, ma
-anche della possibilità di difendersi nonostante le comunicazioni
-pervasive, delle tecniche di difesa e di antiforensics, e di come il
-legislatore possa cercare, con un minimo di buona volontà di porvi
-rimedio con una regolamentazione stringente. Saranno rpesi esempi
-dall'attuale normativa dual use e dagli enormi buchi in essa presenti
-
-### <a name='giorio'></a>Diego Giorio, SEPEL Editrice
-**Panem et circenses l’ha detto Zuckerberg?**
-
-Più o meno velocemente, bufale ed errori circolavano già da secoli. Se
-Internet ha reso più facile la diffusione di stupidaggini ed ha dato
-diritto di parola anche agli imbecilli, ha però consentito di accedere
-ad un più alto grado di conoscenza, ha consento di replicare
-altrettanto facilmente, ha consentito di condividere idee e risultati,
-riducendo il numero di errori attraverso una revisione di gruppo,
-basti pensare a Wikipedia.  Certo, essere oggetto di un attacco a
-mezzo WEB è fastidioso ed insidioso, così come un uso distorno del
-flusso di informazioni può consentire di distrarre la gente dai
-problemi importanti. Ma il detto panem et circences non è stato
-inventato da Zuckerberg. Tutto sommato, parafrasando Voltaire, meglio
-10 stupidaggini in libertà che un’idea geniale censurata.
-
-### <a name='guarino'></a>Alessandro Guarino (StudioAG)
-**Attenti allo Stato Etico (Voi avrete i soldi e i dati ma noi abbiamo le armi)**
-
-Nella “Dichiarazione di indipendenza del cyberspazio”, nel 1996, John
-Perry Barlow descriveva la “rete”, allora appena uscita dagli ambienti
-universitari e militari per aprirsi a tutto il mondo, come un nuovo
-territorio distinto dalla realtà fisica e dove regnava la totale
-libertà. Si invitavano I governi, “stanchi giganti di carne e di
-acciaio”, a non interferire con questa nuova realtà: “Non avete alcuna
-sovranità sui luoghi in cui ci incontriamo”.  Se esiste un manifesto
-di Internet come utopia di condivisione democratica, è proprio questo
-testo. La tensione nel governo di Internet da allora ad oggi tra
-sovranità delle nazioni e totale libertà decentralizzata ha
-caratterizzato la vita della rete negli ultimi decenni e anche dato
-vita a interessanti e innovativi esperimenti nelle relazioni
-internazionali. L’intervento ripercorrerà in breve come si evoluta la
-governance di Internet concentrandosi soprattutto sulla tendenza
-evidente degli stati nazionali a rivendicare con tutti i mezzi la loro
-sovranità sulla rete, dopo la ""distrazione"" che ha portato al boom
-degli anni 1990 e allo sviluppo dei concetti espressi nella
-Dichiarazione e all'utopia di Internet come ""global common"".
-Vedremo i mezzi - tecnici, legislativi e di propaganda - che gli stati
-mettono in campo per raggiungere questo obiettivo e anche che le
-cosiddette ""liberal-democrazie"" non differiscono poi molto dalle
-nazioni illiberali, Cina e Russia in testa. Anche se una concezione
-molto diffusa vede i cosiddetti ""giganti del web"" come la maggiore
-minaccia alla libertà della rete, nella realtà il potere dei governi è
-e sarà sempre incomparabilmente maggiore... Attenzione quindi alle
-motivazioni ""etiche"" sempre più invocate per giustificare questa
-tendenza e agli spauracchi invocati per giustificarla (terrorismo,
-pedopornografia, cyberbullismo, evasione fiscale e ultimamente ""fake
-news""): sono le parole ostili più potenti di tutte.
-
-### <a name='hart'></a>Laura Harth (Partito Radicale)
-**Diritto alla Conoscenza come Diritto Umano**
-
-La campagna per l’affermazione del diritto del pubblico a conoscere
-mira ad affrontare l’erosione dello Stato di Diritto e dei diritti
-umani nel mondo, impegnandosi sull’attivazione di un dibattito globale
-in tutte le istituzioni governative pertinenti e nella società civile
-con lo scopo di rafforzare e affermare il primato degli standard
-internazionali in materia di diritti umani, la partecipazione dei
-cittadini, e delle efficaci misure di accountability. Proponiamo a tal
-fine il riconoscimento del diritto umano e civile di conoscere, come
-strumento chiave per raggiungere tali obiettivi e come elemento
-fondamentale dello Stato di Diritto.  Il documento esplicativo e
-concettuale per il Diritto alla Conoscenza presenta una panoramica
-delle caratteristiche principali di questo diritto umano, come (a) il
-diritto civile e politico del cittadino (b) di essere attivamente
-informato su tutti gli aspetti relativi alla gestione di tutti i beni
-pubblici (c) durante l’intero processo politico e decisionale, al fine
-di consentire (d) la partecipazione piena e democratica al dibattito
-pubblico riguardante tali beni ed (e) tenere gli amministratori di
-tali beni pubblici accountable in base agli standard dei diritti umani
-e dello Stato di Diritto.  Il diritto pubblico alla conoscenza è
-attivato tramite una ecologia di strumenti riguardante il dibattito
-pubblico, misure di trasparenza e diritti umani (libertà di
-espressione e di stampa). L’insieme degli strumenti garantisce la
-diffusione di tutte le informazioni pertinenti sul chi, cosa, come e
-perché, al pubblico, in tutte le fasi del processo
-decisionale. Inoltre, eventuali limitazioni a tale diffusione
-proattiva sono essi stessi oggetto di dibattito pubblico, di controllo
-e di revisione. Questa ecologia di strumenti è fondamentale per
-consentire il dibattito pubblico vero e pluralistico, così come la
-partecipazione piena in una società democratica
-
-### <a name='naranjo'></a>Diego Naranjo (EDRi)
-**Track or be tracked? The challenges of the ePrivacy Regulation**
-
-This is the quick guide of European Digital Rights where we discuss
-all the challenges in the ePrivacy Regulation proposal. From online
-and offline tracking, how to protect our conversations in OTT
-services, the need for collective redress, etc... In this guide we
-give a quick glance at all the challenges that we believe need to be
-taken into consideration by policy makers and other stakeholders
-during the ongoing debate. Relatively soon we will need the attention
-of the general public, and this talk is an attempt to make that
-happen.
-
-### <a name='palumbo'></a>Andrea Palumbo
-**Big Data e trattamenti di dati anonimi. Un inquadramento normativo**
-
-Soprattutto nel campo dei Big Data, il tema dell’anonimizzazione dei
-dati personali riveste un ruolo centrale. In tale ambito, la
-riferibilità di un dato ad un soggetto specifico assume in molti casi
-un’importanza residuale: le attività di elaborazione statistica, di
-analisi delle tendenze e delle correlazioni tra le informazioni o di
-Data Discovery, molto spesso non necessitano di dati personali, bensì
-di dati aggregati. Ecco perché occorre verificare quale sia la
-normativa applicabile a questo tipo di trattamenti di dati, quali
-differenze vi siano rispetto a quella prevista per i trattamenti di
-dati riguardanti soggetti identificati o identificabili e quali
-problemi sollevi questa tematica. Dopo un breve inquadramento della
-disciplina applicabile ai trattamenti di dati anonimi, ci si
-soffermerà, in particolare, sull'analisi delle problematiche
-giuridiche derivanti dal concetto di “dato anonimo” e sui criteri
-individuati dalle più recenti pronunce giurisprudenziali –sia
-nazionali che europee- per la loro distinzione dai “dati personali”,
-anche alla luce del nuovo Regolamento Generale sulla Protezione dei
-Dati Personali. Nella seconda parte della relazione, si affronterà
-invece l’annoso tema relativo alla natura dei operazioni di
-anonimizzazione di dati personali; si cercherà, pertanto, di stabilire
-se debbano essere considerate “trattamenti di dati personali” ai sensi
-dell’attuale normativa -e di quella di futura applicazione- e sulla
-base di quali presupposti normativi possano essere effettuate.
-
-### <a name='pazzaglia'></a>Aldo A. Pazzaglia  (Studio legale avv. Aldo A. Pazzaglia)
-**Il Governo Monti ha sottratto a “società, enti e associazioni” la tutela dei loro dati personali.  Perchè funzionava ?**
-
-L'art. 1 del D.Lgs 196 del 30/06/2003 recita: “Chiunque ha diritto
-alla protezione dei dati personali che lo riguardano.”. Tuttavia la
-recente modifica dell'art. 4, comma 1, lettera i) del D.Lgs 196 del
-30/06/2003, eliminando dalla definizione di interessato “la persona
-giuridica, l'ente o l'associazione”, esclude che questi ottengano
-tutela.  Il “chiunque” dell'art. 1 è diventato solo “le persone
-fisiche”.  Ma anche le società, gli enti e le associazioni hanno
-propri dati personali. Quale tutela è offerta al posto di quella del
-codice della privacy cui sono stati esclusi (era prevista ed ora non
-più) ?  Le società, gli enti e le associazioni agiscono tramite
-persone fisiche (cd. immedesimazione organica). I miei dati personali
-sono tutelati salvo quando sia nella qualità di amministratore. Perchè
-?  Le società, gli enti e le associazioni sono assimilate alle persone
-fisiche. Perchè ad esse non si riconosce la tutela dei dati personali,
-ma, ad esempio, invece, si riconosce il diritto alla tutela del nome
-(il primo e più importante dato personale) ?  E la sentenza della
-Corte di Giustizia dell'Unione Europea, 9.11.2010, C-92 e C. 93/10,
-Schecke e Eifert ?
-
-### <a name='puligheddu'></a>Andrea Puligheddu  (Orlandi&Partners Studio Legale)
-**Il diritto all'oblio nell'era dei Big Data**
-
-Le cronache di questi giorni sono davanti ai nostri occhi, e ci
-mostrano una realtà in cui sempre di più l’identità della persona si
-forma e si costituisce, oltre che sul piano analogico, anche sul piano
-digitale: social network, chat e piattaforme di comunicazione sono gli
-strumenti di una rivoluzione culturale e giuridica, prima che
-tecnologica, di cui noi che viviamo in quest’epoca siamo solo i primi
-pionieri.  Per la prima volta dopo secoli di storia umana, con
-l’avvento della Rete ricordare è divenuta la regola, dimenticare
-l’eccezione. E’ nata nella società l’esigenza di contestualizzare,
-bloccare o nei casi più estremi rimuovere alcune informazioni dalla
-Rete, il grande panopticon di perenne memoria: è nato il diritto
-all’oblio. Quale ruolo per questo diritto emergente in un contesto
-culturale, sociale e giuridico dove vengono generati ogni giorno
-enormi quantità di dati di varia natura, elaborati ad altissima
-velocità (i c.d. “Big Data”)? La Relazione in oggetto vuole vertere
-proprio su questo tema. Saranno esaminati in maniera sintetica e
-puntuale i contorni del diritto all’oblio a partire dalla sua storia
-giuridica e culturale (sia a livello nazionale che comunitario),
-soffermandosi in particolar modo sulle innovazioni apportate dalla
-sentenza della Corte di Giustizia dell’Unione Europea C-131/12 “Google
-Spain” e sulle criticità esistenti rispetto al fenomeno dei Big Data.
-
-### <a name='roggero'></a>Claudia Roggero, Valentina Mayer (Dandi Media)
-**Nuovi fenomeni online: Fake news, Hate speech e strumenti di prevenzione**
-
-Fake news Hate speech e strumenti di prevenzione dei nuovi fenomeni
-online. Molto è stato scritto e detto in questi giorni sulle minacce
-che le “fake news“ costituiscono per i diritti alla base della libertà
-di informazione e su come l’atteggiamento generale nei confronti dei
-media stia gradualmente cambiando.  Una nuova voce denominata
-“post-truth politics” (teoria della post-verità) è stata aggiunta a
-Wikipedia lo scorso agosto e a questa definizione vengono apportati
-aggiornamenti su una base quasi giornaliera.  Tra i principali fattori
-che stanno causando un grosso danno alla veridicità delle informazioni
-fornite dai media sono: la sfocata distinzione tra fatti e finzione,
-gli attacchi frequenti ai media e il consolidamento costante delle
-agenzie di stampa.  Quali strumenti dovrebbero essere messi in atto
-per far fronte a questa situazione?
-
-### <a name='sarzana'></a>Fulvio Sarzana
-**Tutela della personalità e fake news. Quale regolamentazione e quali tutele?**
-
-Fake news, post-verita' e tutela dei diritti dei cittadini, è questo
-il titolo dello speech di fulvio sarzana a eprivacy 2017. La relazione
-affronterà i complessi temi della regolamentazione giuridica della
-tutela della personalità rispetto al mondo dell'informazione on
-line. lo speech analizzerà anche profili regolatori ed esempi di
-autodisciplina al fine di migliorare la qualità dell'informazione
-online. si analizzeranno anche i provvedimenti giurisprudenziali che
-hanno affrontato il tema delle cd bufale on line e le possibili
-implicazioni penali della diffusione di notizie false in rete.
-
-### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
-**Odio Online - il caso del Forum Radicale Inufficiale**
-
-Questa presentazione riporta uno studio sul comportamento all'interno
-di un forum Facebook dedicato al mondo radicale, il cd. "Forum
-Radicale (Inufficiale)", a seguito della cosiddetta scissione nel
-Partito Radicale. Ovvero di come i comportamenti basati su ingiurie,
-diffamazioni o violenza verbale possono essere arginati e si può
-invertire un modello di comportamento basato su odio, violenza e
-prevaricazione per diventare un ambiente dialogicamente superiore, non
-senza qualche spunto umoristico.
-
-### <a name='vacca'></a>Renato Gabriele Bigdata42, Manuela Vacca
-**Dallo stato delle bufale alle bufale di Stato**
-
-L'Italia è un Paese dalla memoria corta. Purtroppo la memoria corta
-crea pascolo florido per le bufale e non solo. Fake news è espressione
-must del 2017. La disinformazione nel frattempo dilaga. Questo ""stato
-delle cose"" diviene questione da affrontare nel mondo
-dell'informazione e nella democrazia. Inoltre c'è chi, con anni di
-anticipo ha parlato di propaganda computazionale (political bots) -
-versione tecnologica della disinformazione - senza che la portata
-rivoluzionaria sia stata colta appieno in Italia.  Intanto le bufale
-di Stato non sono scenari irrealizzabili. E si fa confusione tra
-condotte innocue dell'informazione e inquinamento programmato.  Non
-esiste una completa storicizzazione dell'argomento, e quindi il talk
-si propone di ricostruire le tappe fondamentali dello stato della
-disinformazione come propaganda politica, analogica e telematica.
-
-
-### <a name='vieri'></a>Giovambattista Vieri
-**Il giuoco nell'occhio**
-
-Attualmente ricognizione aerea e/o satellitare e gamification
-cominciano ad avere un impatto notevole sulle nostre vite. Sigle come
-EO/SAR/LIDAR compaiono nei media con sempre maggiore frequenza. Al
-tempo stesso i giochi diventano sempre piu' realistici e con
-importanza economica che trascende spesso la mera vendita o
-affitto. Attualmente grandi basi dati di fotografie del territorio
-sono disponibili a costo nullo o minimo. E cosi' anche la previsione
-dei movimenti delle folle, la crescita delle piante o dei flussi di
-traffico/economici diventa possibile. E come valutare i loro impatti
-se non inserendo tutto cio' in una bella simulazione giocosa ? Che uso
-per questi dati e queste previsioni ? Che privacy in un videogame ?
-
-### <a name='vignera'></a>Stefano Vignera (Bislab)
-**Industria 4.0, libertà del lavoratore e controllo della prestazione lavorativa**
-
-Nel piano internazionale di digitalizzazione dell'industria
-(c.d. “Industria 4.0”) assume rilievo preminente l'impatto delle nuove
-tecnologie sull'evoluzione della tradizionale figura del lavoratore e
-della prestazione lavorativa.  La trasformazione della fabbrica in
-smart factory introduce nuovi strumenti tecnologici (realtà aumentata;
-simulazione dei processi produttivi; utilizzo di Big Data & Analytics)
-che incidono su tempi e modi di esercizio della prestazione
-lavorativa.  La Quarta Rivoluzione Industriale ripropone la questione
-del diritto del datore di lavoro di controllare, anche per mezzo delle
-nuove tecnologie, la prestazione del lavoratore in contrasto con un
-correlativo diritto di quest'ultimo al rispetto della propria Privacy.
-Obiettivo dell'intervento è quello di individuare le nuove minacce
-alla libertà, di azione ed espressione, del lavoratore e gli strumenti
-normativi posti a tutela di tale fondamentale diritto nell'era
-dell'Industria 4.0.  Si esamineranno sommariamente i concetti di
-Industria 4.0 e le nuove tecnologie che la caratterizzano. Si cercherà
-di individuare la nuova figura di lavoratore che emergerà dalla
-trasformazione dei processi produttivi, presentando alcuni esempi di
-smart factory e le valutazioni del World Economic Forum sulle
-conseguenze della digitalizzazione dei processi produttivi.  In una
-seconda parte si tratterà, per sommi capi, il tema degli strumenti
-normativi a tutela della libertà di azione ed espressione del
-lavoratore (controlli a distanza; procedimento disciplinare;
-licenziamento), commentando alcuni provvedimenti del Garante Privacy,
-del Ministero del Lavoro e della giurisprudenza maggiormente rilevanti
-sul tema delle nuove tecnologie.
-
-### <a name='zugnaz'></a>Efrem Zugnaz
-**Webprepping - Survivalismo dell'identità digitale**
-
-Film apocalittici e teorie sulla fine del mondo non avevano catturato
-la mia attenzione finchè non ho scoperto una comunità varia e vivace:
-quella dei preppers. Tra le comunità prepper vi sono coloro che
-immaginano la fine del mondo, altri il collasso economico, ma questi
-funamboli della sopravvivenza fanno emergere dei concetti trasversali
-che mi hanno catturato ed appassionato: l’ambiente, la comunità, la
-condivisione e l’essere pronti a ciò che accadrà.  Si preparano
-informandosi, ritrovandosi e condividendo informazioni e cultura, ed è
-stato proprio questo punto che mi ha fatto pensare al parallelismo tra
-il mondo reale e quello digitale. Salvare più copie di foto e
-documenti per me è naturale, orientato a questo approccio per
-deformazione professionale, in qualità di previdente informatico ed
-occupandomi da oltre vent’anni di salvataggio dei dati. Non è così per
-tutti, nel confronto frequente con le nuove generazioni emerge quanto
-sia scontato pensare che il mondo digitale rimanga immutato con i dati
-sempre a disposizione…. e se non fosse così? E se ci venisse chiesta
-una contropartita per rientrare in possesso dei nostri dati?  Non vi
-viene un brivido lungo la schiena e il battito accellerato al solo
-pensiero che possa accadere? E’ una prospettiva affatto scontata.
-Quindi cosa rimane da fare? Prepararci.
-
-### <a name='premoli'></a>Roberto Premoli
-**Mezzi di comunicazione sicuri in un mondo spiato**
-
-Analisi dell'evoluzione del tecnocontrollo utilizzato dagli USA a partire
- dagli anni '70, la relazione mostrerà i progressi tecnici, politici e
- sociologici di come sia stata costruita una società in cui tutti sono
- spiabili ma sopratutto di come la gente è stata resa felice di essere
- spiata. MA in un modno omologato, c'e' sempre qualcuno che dice “no”
- e io sono uno di quelli. 
-Verrà presentato un metodo di comunicazione
- privato, indipendente, autonomo e indecifrabile per chi ancora assegna
- valore alla propria privacy e non vuole fare parte del “gregge”.
-
-### <a name='tavola1'></a>Tavola Rotonda: **Parole (ostili) contro la Rete**:  l’involuzione della percezione della Rete.  
-_Da “utopia di condivisione democratica” a “strumento di controllo e covo di criminali”_
-
-Nel romanzo “Il Cerchio” di Dave Eggers, sono tre i motti che
-riassumono la filosofia di un mondo distopico, improntato alla
-trasparenza, ove è stato sconfitto l’odio on line, sono scomparsi i
-troll e tutte le transazioni in rete sono sicure: “i segreti sono
-bugie; condividere è prendersi cura; la privacy è un furto”. La pietra
-angolare sulla quale poggia la società immaginata da Eggers, è
-l’abolizione dell’anonimato. Una volta che ognuno è sempre e solo il
-“vero sè”, egli è spinto a condividere tutta la sua vita con gli
-altri, in una delle tante declinazioni del “se non hai nulla da
-nascondere non hai nulla da temere”. La trasparenza, in nome della
-sicurezza, transita dalla dimensione digitale a quella analogica; i
-personaggi si convincono a indossare telecamere sempre connesse, dando
-vita ad un gigantesco Panopticon. Ci sono sempre ottime motivazioni
-dietro ogni azione compiuta ne Il Cerchio: persino inserire un
-microchip nella testa dei bambini appare perfettamente giustificato,
-dato che impedisce che si smarriscano.  Il mondo immaginato da Eggers
-non è una dittatura violenta, e non passa dalla imposizione normativa:
-nasce da una propagazione conformista, in cui le persone, poco a poco,
-si abituano a condividere ogni aspetto della loro vita quotidiana, e
-ad assistere alle vite degli altri, vite svuotate, mediate,
-frammentate in una serie di rituali che non hanno alcun senso, ma
-servono a mantenere un equilibrio sociale perfetto, senza più attriti
-o conflitti.  E’ davvero possibile partire dalla rete (caotica,
-insicura e violenta come siamo noi, come sono le strade che
-percorriamo ogni giorno) per sterilizzare la vita? È opportuno
-abituarci a subire una sorveglianza ininterrotta e pervasiva nell’era
-dell’internet of things, ossia nel momento in cui sfuma del tutto la
-separazione tra online e offline, essendo circondati da una miriade di
-oggetti sempre connessi?  Oppure possiamo imparare a gestirlo, questo
-straordinario strumento, come abbiamo gestito ogni tecnologia che ci
-ha stordito e spaventando, creando anticorpi per difenderci gli agenti
-patogeni senza necessariamente anestetizzarne il fluire magmatico di
-idee, persone e conoscenze?  È possibile difendersi dalla
-disinformazione, dalla misinformazione, dall’hate speech senza
-mutilare la democraticità della rete?  E magari domandiamoci anche se
-sia corretto dire che la rete è democratica finché vi saranno utenti
-di serie A e utenti, invece, di serie B che si vorrebbero proteggere
-da sé stessi e dalle dinamiche del web, che non potranno mai essere
-del tutto positive, perché non siamo ne Il Cerchio e i segreti sono
-parte di noi, condividere è una scelta, e la privacy è un diritto
-fondamentale.  Approfondendo i temi trattati durante la mattinata,
-proveremo a cercare soluzioni non banali, interrogandoci
-sull’efficacia delle prassi, delle norme e delle iniziative culturali
-che ruotano attorno alle criticità del web, valutandone i possibili
-colpi di coda sugli aspetti che, invece, dovremmo proteggere, dato che
-sono davvero il maggiore strumento di conoscenza e partecipazione che
-abbiamo mai avuto.
-
-
-### <a name='tavola2'></a>Tavola Rotonda: **Quali diritti su IOT**
-
-La Internet of Thing è il «trend topic» degli ultimi anni. La Rete ha
-iniziato a colonizzare anche oggetti di uso comune e le possibilità di
-abuso sono cresciute a dismisura. Quali sono i rischi e le opportunità
-che abbiamo di fronte e come affrontarli dal punto di vista
-tecnologico e giuridico.
-
-
-### <a name='tavola3'></a>Tavola Rotonda: **Nuovi diritti della conoscenza**
-
-«Conoscere per deliberare», lo slogan einaudiano a base del processo
-democratico acquista un valore ancora più rilevante in quella che è
-considerata la «società della conoscenza».  La conoscenza è alla base
-di tutti i processi, non solo democratici, ma nel mondo moderno anche
-del mercato e della produzione industriale. Qual'è il panorama dei
-nuovi diritti che nascono in una società della conoscenza e dove il
-cittadino può attendersi di ricevere (o rivendicare) tutele per i
-propri diritti alla conoscenza.
+#### <a name="giorio"></a> La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia <a href="/e-privacy-XXIII-programma.html#vm3">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#giorio"><a href="/e-privacy-XXIII-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a></a>**  
+
+In passato vi sono state molte singolarità, sia nella storia geologica del pianeta che nella storia tecnologica dell’uomo. In generale l’attenzione alla privacy è aumentata nel corso dei secoli, anche se negli ultimi anni sembra che la curva presenti una flessione. Non potendo sapere con certezza come si svilupperà in futuro, si possono immaginare tre scenari: uno utopico, nel quale la tecnologia migliora la vita senza pretendere un contrappasso, uno distopico, laddove saremo noi schiavi di un’intelligenza artificiale dispotica, uno ucronico, con pregi e difetti, con una battaglia che continua senza vinti o vincitori.
+Ma soprattutto, la domanda principale sarà: quale futuro vogliamo davvero costruire?
+
+
+
+
+#### <a name="tramaci"></a> E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo! <a href="/e-privacy-XXIII-programma.html#vm4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#tramaci"><a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a></a>**  
+
+L'umanità è in gabbia, oramai siamo nel pieno tecnocontrollo. Non per scelta ma per adattamento alle continue ingerenze dei "tecnodittatori".
+Gli esseri umani sono come criceti che camminando fanno giare la ruota economica dei dati?
+Mentre il "Grande Fratello" è incerto se scegliere un milione di volte tra "0" o "1" sulla base delle nostre azioni, impara e crea il nostro profilo.
+Tuttavia con qualche accorgimento possiamo produrre piccoli programmi che generano dati al nostro posto insegnando cose molto sbagliate su di noi al Grande Fratello.
+L'utente medio è vulnerabile ed allo stesso momento molto potente, ma non se ne rende conto.
+
+
+
+
+#### <a name="vieri"></a> AI contro? <a href="/e-privacy-XXIII-programma.html#vm5">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#vieri"><a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a></a>**  
+
+Un nuovo spettro si aggira per il mondo. Ci priva di privacy, di lavori consolidati, rende inutile acquisire professionalita'. Esso si chiama IA. IA non solo ci sostituisce e ci rendera' obsoleti MA ci segue e riconosce ovunque. Tutto vero ? Cominciamo a parlare di IA con riferimenti a casi reali. Qualche bibliografia e poi uno dei casi d'uso della IA apparentemente piu' in voga: il riconoscimento facciale! Passando poi  allo sblocco di un "device" usando una telecamera. Ci avviamo verso una sorveglianza ubiqua e totale ?  Vediamo come IA potrebbe aiutarci a non essere riconosciuti "dove potremmo farci male" e come. 
+
+
+
+#### <a name="dolcetti"></a> Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati <a href="/e-privacy-XXIII-programma.html#vm6">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#dolcetti"><a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a></a>**  
+
+Dal 2006 al 2012 sono stati prodotti più di 180 exabyte di dati sufficienti a riempire quotidianamente tutte le librerie americane (per 18 volte).
+Con le tecnologie dell’ IoT e dell’AI, tale produzione è destinata ad aumentare e a spostare il centro
+di sviluppo ed elaborazione del dato, dall’essere umano alla macchina. Sta progressivamente maturando la consapevolezza che i dati sono importanti, sono il nuovo “oro nero”, e se è vero che l’informazione è potere, l’informazione sulle persone è potere sulle persone. Capire i meccanismi che stanno plasmando e orientando il mondo è fondamentale per capire dove stiamo andando.
+
+Il rapporto tra l’individuo e le informazioni che lo riguardano è stato concepito in due modi distinti:
+
+philosophy of economic: ossia in termini economici e proprietari, “io sono proprietario dei miei dati” (così come lo sono della mia casa o della mia macchina), l’individuo esercita un diritto proprietario che segue le regole civilistiche sulla disposizione dei beni da parte di un soggetto o della collettività.  
+
+philosophy of identity: ossia come diritto fondamentale dell’uomo. Le informazioni descrivono l’individuo all’interno della società e contribuiscono a definirne l’identità. Il  dato è un’estensione del corpo e non ne posso disporre commercialmente
+
+Queste due prospettive riflettono una dicotomia rigida di come può configurarsi la relazione dell’individuo con un elemento esterno: o come un bene (materiale o immateriale), o come un carattere (elemento costitutivo della personalità umana). 
+Questa dicotomia si è rivelata in tutta la sua fallacia, mostrando i limiti alla tutela che è riuscita a garantire ai cittadini europei, anche alla luce del recente scandalo che ha coinvolto Facebook. 
+Il dato personale è un bene completamente nuovo e diverso, che non può esser semplicemente ricondotto alle categorie giuridiche esistenti, rivelatesi insufficienti e inadatte a svolgere quell'operazione di codificazione della realtà necessaria per garantire una tutela reale ed efficace.
+
+La gratuità della maggior parte dei servizi dell’informazione rischia di intrappolare gli individui in un meccanismo perverso e di spogliarli del loro ruolo di cittadini, di votanti o di clienti, riducendoli a semplici utenti, categoria priva di diritti. 
+E’ importante capire se gli strumenti giuridici di cui disponiamo oggi sono sufficienti a garantire il rispetto della libertà e della dignità della persona, o se invece - com’è più probabile - è necessario uno sforzo intellettuale più sofisticato che concepisca una terza opzione, una relazione tra l’individuo e le sue informazioni che racchiuda sia elementi della philosophy of economics sia della philosophy of identity, riconoscendo ai soggetti un reale potere di controllo sui loro dati, che non mercifichi la loro identità.
+
+È possibile sviluppare un corpus normativo che regoli un modello economico di protezione dei dati personali in cui l’individuo possa esercitare un maggior controllo su di essi, traendone peraltro benefici economici? Quali conseguenze avrebbe questo fenomeno? 
+L’utilizzo massiccio delle nuove tecnologie in ogni settore della vita moderna impone un ripensamento di alcuni sistemi regolatori. Ripensamento che, proprio in virtù della particolare natura e pervasività delle nuove tecnologie, deve esser frutto della collaborazione di professionalità diverse: giuristi, psicologi, antropologi, economisti, filosofi e politici.
+Nel nostro intervento cercheremo di dare una risposta a queste domande portando alcuni esempi concreti di norme e di modelli di business che si stanno muovendo in questa direzione. 
+
+
+
+
+#### <a name="casagrande"></a> Maledetto distributore automatico non avrai la mia identità <a href="/e-privacy-XXIII-programma.html#vm7">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#casagrande"><a href="/e-privacy-XXIII-relatori.html#casagrande">Emanuele Casagrande </a></a>**  
+
+I distributori di sigarette richiedono l'inserimento di un documento di identità.
+Altri permettono anche la registrazione dell'impronta digitale e contengono delle telecamere.
+Cosa ne viene fatto del mio codice fiscale, impronta o immagine? Vengono loggati? Vengono comunicati a qualcuno? Viene fatta profilazione?
+Essere riconosciuto come fumatore potrebbe essere considerato un dato sensibile legato alla salute. Come viene tutelata la mia privacy, in vista dell'entrata in vigore del GDPR?
+E' possibile generare una tessera anonima che viene accettata dai distributori automatici? (ovviamente si)
+
+
+
+
+#### <a name="gallese"></a> Privacy e internet of things: quali sono i rischi? <a href="/e-privacy-XXIII-programma.html#vm8">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#gallese"><a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a></a>**  
+
+Il nuovo Regolamento europeo in tema di protezione di dati personali ha armonizzato la disciplina della privacy in tutti gli Stati dell’UE, introducendo, inter alia, il principio di accountability.
+Con il costante e rapido sviluppo della tecnologia, tuttavia, permangono rischi concreti per la sicurezza della popolazione, che le norme non hanno saputo affrontare, stante l’incolmabile gap tra processo legislativo e progresso tecnologico. Tra le tante innovazioni recenti, l’Internet of Things, le auto a guida autonoma, i dispositivi medici o di cura automatizzati, uniti alla sempre maggiore diffusione dei dati personali a livello globale, pongono l’obbligo di rivedere il modo in cui le normative internazionali e nazionali affrontano le nuove tecnologie, non solo in ambito privacy ma anche in materia di cybersecurity. 
+Allo stato attuale, nonostante la nuova disciplina sulla privacy abbia cercato di porre un freno all’abuso da parte dei grandi operatori economici, i rischi a cui far fronte sono molteplici, come ad esempio i reati informatici, il cyberterrorismo o il cyberbullismo.
+L’intervento analizzerà alcuni di questi rischi e avanzerà delle proposte per la risoluzione dei problemi più significativi.
+
+
+
+#### <a name="abeti"></a> Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester <a href="/e-privacy-XXIII-programma.html#vm9">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#abeti"><a href="/e-privacy-XXIII-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a></a>**  
+
+Nel corso degli anni, il nostro ordinamento ha predisposto strumenti che con alterni risultati hanno provato a tutelarci e a indicare la rilevanza dei nostri diritti rispetto a servizi che ne proponevano il superamento in nome di utilità e progresso e in nome di funzionalità che ci supportano spesso impigrendoci anziché stimolarci. A distanza di 23 anni dalla direttiva 95/46 CE, anziché interrogarci sulle applicazioni del quadro normativo a tutela dei dati, ancora ci interroghiamo sul suo fondamento. Il risultato di queste considerazioni è un cittadino che, in cambio di denaro (talvolta poco altre molto) e informazioni (sempre troppe), riceve servizi immaturi che è costretto a testare in prima persona e diventa rapidamente non solo oggetto di controllo ma anche di manipolazione e perde la percezione di quali scelte ha fatto consapevolmente e di quali è stato indotto a fare.
+
+
+
+#### <a name="ciurcina"></a> L'intelligenza naturale e il corpo digitale <a href="/e-privacy-XXIII-programma.html#vm10">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#ciurcina"><a href="/e-privacy-XXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a></a>**  
+
+Le tecnologie della cosiddetta intelligenza artificiale permettono nuove forme di abuso del corpo digitale delle persone.
+Le norme sulla privacy disciplinano la materia in modo insoddisfacente lasciando alle persone strumenti insoddisfacenti per opporsi a tali forme di abuso consentendo l’adozione di strategie di estrazione del valore dal corpo digitale delle persone.
+Si illustrano alcuni scenari tecnologici (tecnologie di criptazione e contratti su registri distribuiti) che potrebbero permettere di disegnare forme di azione collettiva capaci di migliorare la difesa del corpo digitale contro le nuove forme di abuso.
+
+
+
+#### <a name="gobbato"></a> Fake news e diritto all’oblio, nuove declinazioni dei diritti civili digitali: dialogo a tre. <a href="/e-privacy-XXIII-programma.html#vm11">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#gobbato"><a href="/e-privacy-XXIII-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a>, <a href="/e-privacy-XXIII-relatori.html#monte">Nicole Monte </a> e <a href="/e-privacy-XXIII-relatori.html#casonato">Guendalina Casonato </a></a>**  
+
+l caso Stamina: una fake news prima dell’avvento del social media networking? Dalle bolle mediatiche chi ci difende(va)? Cosa è fake e cosa c’è di vero nei casi mediatici creati, troppo spesso, ad arte?
+Il caso mediatico è noto: fu creato dalla trasmissione TV Le Iene, perché alcune persone affette da malattie neurodegenerative avevano visto alcuni miglioramenti sottoponendosi ad una (asserita) sperimentazione scientifica a base di cellule staminali, creata da Davide Vannoni, ma la magistratura aveva bloccato la somministrazione delle cure, a fronte di diverse denunce di soggetti che dopo avere speso cifre folli, non avevano tratto alcun beneficio. L’appello straziante delle famiglie dei malati fu mediaticamente fortemente supportato ma si contrapponeva alla condanna della comunità scientifica. L’opinione pubblica letteralmente si divise. Con il passare del tempo la bolla mediatica venne meno e Davide Vannoni di recente è stato condannato per il reato di truffa con lo stop definitivo alla somministrazione delle discusse cure.
+
+Le bolle mediatiche ed il giornalismo d’inchiesta sono certamente sempre esistiti ma con l’avvento dei social media assumono nuove forme.
+Ancora prima dello scandalo di Cambridge Analytica, nel corso del 2017 si è parlato molto di Fake news
+poiché si è compresa appieno la loro portata distruttiva del pensiero critico sociale.
+Come è ben noto a tutti, le notizie false sono sempre esistite, le fake news sono vecchie quanto è vecchio il
+mondo, ma con la proliferazione di blog, siti internet e social network la diffusione della disinformazione sta
+assumendo dei connotati epidemici.
+Come affermato dalla Commissaria dell’UE al digital Mariya Gabriel,
+le fake news oggi fanno paura perchè “non sono illegali e non sono nuove”.
+Non ci si limita più a recepire una notizia alla televisione e a condividerla con il nostro compagno o i nostri
+amici al bar, la CONDIVISIONE DELLE NOTIZIE OGGI AVVIENE nel web che, per definizione, significa
+rete di grandezza mondiale! ed una notizia falsa, dal contenuto ingannevole può quindi creare allarmi, essere
+un facile mezzo con il quale manipolare il nostro pensiero critico, un mezzo per attacchi politici….
+Se volessi fornire una descrizione compiuta di cosa sia una fake news, prenderei spunto dalle parole del
+professor Pollicino (Oreste POLLICINO, Giovanni PITRUZELLA e Stefano QUINTARELLI
+“Parole e potere, libertà d’espressione, hate speech e fake news” pubblicato da EGEA nel 2017)
+articoli recanti notizie che sono intenzionalmente e verificabilmente false
+e potrebbero trarre in inganno i lettori.
+Quindi non sono “fake” gli errori non intenzionali, i rumori del web, le teorie cospiratorie o la satira..
+La domanda pertanto che mi sono posta e che vorrei discutere con voi è la seguente:
+le fake news fanno parte o meno della libertà di espressione? 
+
+
+
+#### <a name="fabiano"></a> Blockchain e protezione dei dati personali: il valore del dato personale <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#fabiano"><a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a></a>**  
+
+Il dato personale è un valore.
+La Carta dei Diritti Fondamentali dell’Unione Europea contempla anche la protezione dei dati personali e come anche la Convenzione Europea sui Diritti dell’Uomo preveda (Art. 7) il “Diritto al rispetto della vita privata e familiare”. Il principio enunciato nella Convenzione ha determinato il sorgere di una giurisprudenza della Corte Europea sui Diritti dell’Uomo proprio a tutela della riservatezza.
+Il dato personale costituisce un valore assoluto, ma più recentemente è emersa una tendenza volta ad attribuirgli anche un valore economico. Il processo di “monetizzazione” è particolarmente accentuato con i servizi fruibili da Internet. Molto spesso vengono erogati servizi gratuiti o offerte applicazioni gratuite per i quali sono richiesti i dati personali anche sotto forma di registrazione. In realtà, la gratuità è apparente, posto che il corrispettivo è costituito dai dati personali forniti. 
+Quale approccio va utilizzato anche alla luce del GDPR ?
+Quali aspetti vanno considerati in un momento in cui il legislatore europeo sta scrivendo la nuova norma europea in materia di e-privacy ?
+
+
+
+#### <a name="vicarelli"></a> GDPR e sicurezza informatica: è vero che sono in antitesi? <a href="/e-privacy-XXIII-programma.html#vp4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#vicarelli"><a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a></a>**  
+
+Iniziano a circolare alcune fuorvianti interpretazioni del Regolamento generale sulla protezione dei dati in rapporto alla sicurezza informatica che, enfatizzando il principio di minimizzazione, inquadrano come illeciti alcuni trattamenti di dati personali effettuati per finalità di sicurezza. Negli ultimi mesi, infatti, si sono moltiplicati gli interventi online e offline sul Regolamento generale sulla protezione dei dati e il proliferare di commenti, non sempre centrati, sta consolidando alcuni “falsi miti”, una sorta di “fake news giuridiche” (frutto di interpretazioni estemporanee e sradicate dalla conoscenza del sistema giuridico), che si generano in ambiti dedicati a discussioni settoriali e poi si espandono a macchia d’olio. In particolare mi hanno colpito alcune osservazioni (ancora confinate in ambiti circoscritti) in ordine alla presunta incompatibilità del GDPR con le buone prassi di sicurezza informatica: è vero che il GDPR impedendo di "trattare" più dati dello stretto necessario potrebbe mutilare la sicurezza informatica? Si potranno trattare ancora file di log e indirizzi IP, anche senza chiedere il consenso agli interessati? Oppure saranno trattamenti eccedenti? Sono questi alcuni degli interrogativi ai quali il mio intervento si propone di rispondere, provando a fornire una bussola con la quale orientarsi tra il principio di minimizzazione dei dati e le basi giuridiche del trattamento, per dimostrare che il GDPR mira a potenziare la sicurezza informatica e non si pone in antitesi con essa.
+
+
+
+
+#### <a name="vaciago"></a> Data Breach e GDPR: profili operativi e best practices internazionali <a href="/e-privacy-XXIII-programma.html#vp5">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#vaciago"><a href="/e-privacy-XXIII-relatori.html#vaciago">Giuseppe Vaciago (LT42 S.r.l.)</a></a>**  
+
+Ogni data breach ha, sempre con maggiore frequenza, rilevanza transazionale. Basti pensare ai casi in cui i target di attacco sono gruppi multinazionali o cloud provider che operano su più Stati Membri dell’Unione Europea. Questi fenomeni hanno reso evidente la particolare complessità della procedura di segnalazione di un data breach in grado di compromettere i dati personali relativi a cittadini appartenenti a più giurisdizioni europee. Rispondere in modo efficace a un data breach richiede pertanto un approccio multidisciplinare ed integrato, dove vengono presi in esame aspetti di natura tecnica, legale, finanziaria e sociale che coinvolgono tanto il singolo data controller, quanto le stesse Autorità Garanti di ogni Stato Membro. L'obiettivo principale della relazione sarà quello di esaminare le varie procedure di segnalazioni di data breach, alla luce dell'entrata in vigore del Regolamento,  che saranno introdotte dalle varie Autorità Garanti a livello nazionale ed europeo evidenziando pregi e difetti di ogni singola procedura.
+
+
+
+#### <a name="ricci"></a> Big data, dati sanitari e GDPR <a href="/e-privacy-XXIII-programma.html#vp6">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#ricci"><a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a></a>**  
+
+L'intervento delinea il modello di responsabilità per i trattamenti di dati sanitari in un contesto di big data alla luce del Regolamento UE 2016/679 sulla protezione dei dati (General Data Protection Regulation, di seguito GDPR). Si analizza quindi dapprima il contesto - big data ed Internet of things (di seguito IoT) - per poi passare all'aspetto normativo, ossia il modello di responsabilità imperniato su accountabilty e risk-based approach. In questo scenario, gli istituti giuridici più importanti sono quelli che riguardano la figura del Data Protection Officer (di seguito DPO) e l’attività di Data Protection Impact Assessment (DPIA). 
+
+
+
+#### <a name="senor"></a> Quando la privacy cade nella trappola dell’anonimizzazione <a href="/e-privacy-XXIII-programma.html#vp7">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#senor"><a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> e <a href="/e-privacy-XXIII-relatori.html#blengino">Carlo Blengino </a></a>**  
+
+La normativa a protezione dei dati personali garantisce la vita privata e la riservatezza di cui all'art.7 della Carta dei diritti fondamenti dell'Unione europea?
+Il dato anonimo, che non trova tutela, consente profilazioni di massa che costituiscono il presupposto per trattamenti automatizzati che, grazie a AI e IoT, azzerano tale diritto.
+Nel mare dei big data siamo indifferentemente balene e sardine.
+
+Blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+
+
+
+#### <a name="gallus"></a> Oops they did it again: il data breach nell’era del GDPR <a href="/e-privacy-XXIII-programma.html#vp8">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#gallus"><a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a></a>**  
+
+I data breach, da arcano argomento per addetti ai lavori, sono diventati in pochissimo tempo un tema di primo piano: da Yahoo a Ashley Madison, dai Ministeri agli enti locali, dai provider ai professionisti, le violazioni di dati personali oramai fanno davvero notizia.
+Una delle grandi novità del GDPR è proprio la generalizzazione dell’obbligo di notificazione del data breach al Garante e di comunicazione (eventuale) agli interessati: il talk si propone di esaminare la regolamentazione in materia, le garanzie per le persone fisiche e i nuovi adempimenti per enti e aziende.
+
+
+
+#### <a name="sarzana"></a> Da Cambridge aAalytica ai dati di Whatsapp: storia e gloria del trasferimento di dati all'estero <a href="/e-privacy-XXIII-programma.html#vp9">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#sarzana"><a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a></a>**  
+
+La problematica della regolamentazione del trasferimento di dati all'estero, e dei flussi transfrontalieri, e di conseguenza anche dell'utilizzo di servizi che non abbiano sede nel paese di residenza, è questione complessa e dibattuta.
+Negli ultimi anni, infatti, lo scandalo delle intercettazioni dell'NSA americana ha irrigidito le posizioni dell'Unione europea che si è vista costretta a riformare parte della regolamentazione.
+I recenti casi di Cambridge Analytica e i connessi usi di dati da parte degli OTT hanno posto in luce l'esigenza di tutelare in maniera stringente l'utente europeo i cui trattamenti di dati sono effettuati all'estero. 
+
+
+
+#### <a name="filippini"></a> Diritti digitali <a href="/e-privacy-XXIII-programma.html#sm2">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#filippini"><a href="/e-privacy-XXIII-relatori.html#filippini">Nicola Filippini </a></a>**  
+
+Una veloce panoramica sui diritti digitali che sono riconosciuti ai cittadini e sulle modalità di esercitarli; sulla “carta” siamo un paese che ha tutte le premesse per essere digitalmente evoluto ma mentre da un lato parliamo di “orizzonte 2020”  dall'altro nel 2018 ancora una buona parte dei cittadini ignora i propri diritti digitali e difficilmente riesce ad esercitarli sia in maniera basilare nelle interazioni con le pubbliche amministrazioni che in maniera combinata per una maggiore efficenza per il rilascio del mitico lasciapassare A38.
+
+
+
+#### <a name="shakhmirza"></a> Privacy And Counter-Terrorism Measures: Real Fight Against Terrorism Or Citizen Right Violation In Modern Russia? <a href="/e-privacy-XXIII-programma.html#sm3">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#shakhmirza"><a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a></a>**  
+
+In Russia negli ultimi 5 anni sono state accettate parecchie leggi contro il terrorismo che però limitano i diritti dei cittadini per distribuire, ricevere e trasmettere informazione e acconsentono ai servizi segreti l'accesso ai profili social. Gli operatori telefonici e provider internet dal 2018 per legge devono conservare le informazioni di tutti gli utenti su chiamate, sms, trafico internet per 6 mesi. VK analogo russo di Facebook è un piattaforma gli utenti di cui possono finire in prigione per aver condiviso un post, foto o video con i contenuti "che dichiarano razzismo, odio o violentano il potere dello stato". VK dà l'accesso per la polizia o servizi segreti (come Centro E) ai profili di persone, ai chat etc senza fare tante storie. 
+
+
+
+#### <a name="coluccini"></a> Tutta l'intelligenza (artificiale) nelle mani della polizia <a href="/e-privacy-XXIII-programma.html#sm4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#coluccini"><a href="/e-privacy-XXIII-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a></a>**  
+
+Gli sviluppi tecnologici nel campo dell'intelligenza artificiale hanno visto il fiorire di numerose aziende italiane: che si tratti di riconoscimento vocale o facciale, di identificazione degli oggetti o persino di analisi predittiva, ogni settore è stato già ampiamente conquistato.Queste tecnologie, però, sono rapidamente finite anche nelle mani delle forze dell'ordine. 
+
+In questo talk, grazie ai documenti ottenuti tramite richieste FOIA al Ministero dell'Interno: la polizia ha acquistato dei sistemi di riconoscimento vocale per gli audio presenti online e persino 10 videocamere per il riconoscimento facciale in tempo reale, da utilizzare durante manifestazioni pubbliche. 
+
+Analizzeremo quindi alcuni dettagli tecnici delle tecnologie a disposizione della polizia italiana e  offriremo alcuni spunti di riflessione sui rischi che queste tecnologie possono avere per la privacy dei cittadini.
+
+
+
+#### <a name="ferri"></a> La digitalizzazione di dati personali nella Deutsche Demokratische Republik <a href="/e-privacy-XXIII-programma.html#sm5">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#ferri"><a href="/e-privacy-XXIII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a></a>**  
+
+I rapporti della STASI (Ministerium für Staatssicherheit) con l’informatica iniziarano ben presto, inzialmente con un sistema di calcolo basato su schede perforate, successivamente con un mainframe computer di prima generazione di origine francese acquistato segretamente nel 1968.
+Nel 1972 l’intero schedario centrale era stato digitalizzato su nastri magnetici e quindi a disposizione per la consultazione computerizzata.
+I tecnici della Stasi/HV A inziarono a inserire in un Siemens 4004 tutte le informazioni procurate dagli operatori attivi.
+
+
+
+#### <a name="marmo"></a> Riconoscimento oggetti e volti nelle immagini dei social media <a href="/e-privacy-XXIII-programma.html#sm6">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#marmo"><a href="/e-privacy-XXIII-relatori.html#marmo">Roberto Marmo (Università di Pavia)</a></a>**  
+
+I social media utilizzano tecnologie di intelligenza artificiale e visione artificiale per riconoscere la presenza di oggetti e volti umani nelle immagini, tramite l'analisi di colori e forme anche senza il supporto del testo scritto dall'autore. Queste analisi vengono svolte per gestire la grande quantità di immagini e per fornire una descrizione in formato testo a favore dell'accessibilità. In questa relazione si descrivono a grandi linee le tecnologie usate e si cerca di verificare se creano un pericolo per la privacy delle persone riprese nelle immagini.
+
+
+
+#### <a name="seno"></a> Catalunya, un corto circuito democratico nell'era dei Big Data <a href="/e-privacy-XXIII-programma.html#sm7">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#seno"><a href="/e-privacy-XXIII-relatori.html#seno">Giulia Seno (Giornalista)</a></a>**  
+
+Catalunya, un corto circuito democratico nell'era dei Big Data - Il conflitto tra il Governo della Spagna monarchica e la Generalitat che ha proclamato una Repubblica catalana ha finito per mettere in discussione diritti fondamentali come quelli di espressione dell’individuo e di neutralità della rete Internet, Adottando ogni forma di censura online, come nei paesi non democratici. L’assenza di violenza in ogni azione indipendentista non ha impedito al Governo spagnolo una decisa repressione, con tanto di carcere e accuse gravi alle più alte cariche politico-istituzionali catalane. La vicenda, culminata nel referendum contestato dell’1 ottobre 2017, è stata rilanciata dalle elezioni vinte nuovamente dagli indipendentisti il 21 dicembre.
+
+Relatori: Giulia Seno, giornalista (20')
+
+
+
+#### <a name="radd"></a> Lo shutdown di Internet in Catalogna <a href="/e-privacy-XXIII-programma.html#sm8">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#radd"><a href="/e-privacy-XXIII-relatori.html#radd">Norrin Radd (Attivista informatico Catalano)</a></a>**  
+
+Lo shutdown di Internet in Catalogna - Il soccorso civico per far ripartire la Rete –​ Bloccati per ore anche i centralini telefonici in molti uffici pubblici e altri servizi che dipendono dalla Rete. Censura totale per il dominio .cat usato dalle istituzioni catalane oltre che da cittadini e imprese. Fin dai giorni prima del referendum indipendentista dell'1 ottobre 2017 la statunitense Internet Society, organizzazione internazionale creata dai pionieri di Internet che promuove l'accesso alla Rete (composta da oltre 100 realtà di 125 Paesi), denunciò le azioni contro decine di siti e gli arresti di persone, puntando al fermo di tutti i domini che avessero "qualsiasi tipo di informazione sul referendum"​
+
+Relatori: Norrin Radd, un attivista catalano (20')
+
+
+
+#### <a name="pazzaglia"></a> Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico. <a href="/e-privacy-XXIII-programma.html#sm9">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#pazzaglia"><a href="/e-privacy-XXIII-relatori.html#pazzaglia">Aldo Antonio Pazzaglia (Consulta delle Regioni per gli Stati Uniti d'Europa)</a></a>**  
+
+L'innovazione tecnologica ha consentito di sperimentare la sostituzione delle procedure di voto cartacee con, dapprima, sistemi meccanizzati e poi con procedure di voto elettroniche. Recentemente, in Italia, il referendum promosso dalla Regione Lombardia ha previsto il voto solo mediante procedure elettroniche. Precedentemente sono state fatte prove limitate sempre sostituendo il "cartaceo" con l' "elettronico". Volgendo lo sguardo in ambito internazionale altri paesi, ben prima dell'Italia l'hanno sperimentato. Quasi tutti, però, dopo un iniziale fervore innovativo stanno ripensando la cosa. Eclatante il caso Germania in quanto vi è una pronuncia espressa della Corte Costituzionale Tedesca che afferma la inconciliabilità costituzionale del voto elettronico. Non basandosi sulla programmazione che, seppur attualmente carente in quanto in evoluzione, prima o poi raggiungerà la maturità e sarà emendata, ma in quanto la procedura elettronica, a dispetto di quella "cartacea" non consente il controllo da parte dell'elettore delle procedure di voto. Controllo per cui deve essere consentito all'elettore, digiuno di competenze tecniche, di poter controllare le singole fasi e quindi l'intera procedura di voto, in particolare tutto lo spoglio (con l'eccezione della riferibilità del voto che, ovviamente, deve rimanere non verificabile in quanto il voto è segreto).
+
+
+
+#### <a name="gabriele"></a> La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete <a href="/e-privacy-XXIII-programma.html#sm10">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#gabriele"><a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Resci Giorgio </a></a>**  
+
+- La propaganda computazionale tra Catalogna, Italia e altri mondi
+- L'odio automatizzato in rete
+
+Bot popolano hashtag #Estamosporti promosso dal Governo spagnolo – Indipendentisti attaccati anche nei messaggi privati con le modalità dei “Peñabot” messicani (2012), usate a volte anche in Italia, tra l'altro​​ contro figure femminili di rilevanza pubblica - Privacy inquinata nei social media anche dall'uso distorto delle app di sondaggistica: possono funzionare in modo anonimo, al contrario del caso dei dati poi finiti a Cambridge Analytica, e insieme garantire che le persone partecipino una sola volta al sondaggio.​
+
+Relatori: Renato Gabriele, fondatore Oohmm; Manuela Vacca, giornalista; Giorgio Gresci, sviluppatore (45’)​
+
+
+
+#### <a name="scrofani"></a> Il ragazzo che giocava con gli Ufo <a href="/e-privacy-XXIII-programma.html#sm11">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#scrofani"><a href="/e-privacy-XXIII-relatori.html#scrofani">Giovanni Scrofani </a></a>**  
+
+Esempio positivo di campagna computazionale, nata dal basso - Il successo dell'iniziativa contro l'estradizione negli Stati Uniti di Gary McKinnon, hacker britannico disabile, affetto dalla Sindrome di Asperger,  che aveva già scontato in Gran Bretagna la condanna per aver hackerato alcuni server Usa alla ricerca di immagini sull'esistenza degli Ufo. La campagna, conclusa nel 2010, contribuì alla nascita del movimento "Twitterstorm" e di una pratica poi purtroppo adottata anche nella propaganda con i Political Bots. 
+
+Relatore: avv. Giovanni Scrofani (15')
+
+
+
+#### <a name="bozza"></a> DPIbon - "dual use is megl che uan" <a href="/e-privacy-XXIII-programma.html#sp2">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#bozza"><a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a></a>**  
+
+Deep Packet Inspection, prendendo spunto dall'ultima relazione di Citizen Lab "BAD TRAFFIC", in questo intervento si esaminerà chi sono i player delle tecnologie di Deep Packet Inspection; come tali tecnologie sono oggi impiegate e quali dati possono essere estratti, analizzandone il doppio utilizzo; come queste tecnologie sono in evoluzione nell'ottica di nuovi paradigmi di networking come NFV. 
+Tali tecnologie saranno fonte di dati che, correlati con l'ausilio di Intelligenza artificiale, potranno minare la libertà e la privacy degli utilizzatori della rete: in tale ottica verranno valutate delle possibili contromisure per preservare la privacy degli utenti.
+
+
+
+#### <a name="premoli"></a> Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica <a href="/e-privacy-XXIII-programma.html#sp3">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#premoli"><a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a></a>**  
+
+Disamina semiseria di come i metodi di Spionaggio si siano affinati negli ultimi 50 anni e di come gli Stati Uniti D'america siano in prima file nell'attentare alla privacy, non solo dei propri cittadini, ma dell'intero mondo. L'europa, pur avendo preso atto della situazione, sembra incapace di reagire al di la' di timide dichiarazioni di facciata. Ma quando il Potere esita a dicendere i cittadini, è dovere di ognuno provedere alla difesa di sè stesso e dei propri interessi economici, politici e personali. 
+
+
+
+#### <a name="zugnaz"></a> Singolarità o privacy disruption? <a href="/e-privacy-XXIII-programma.html#sp4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#zugnaz"><a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a></a>**  
+
+Internet ed una sottile paura di impiegare il nostro tempo nel modo sbagliato.
+Il modo in cui impattiamo la nostra privacy di tutti i giorni è una singolarità o disruption? O è una patologia come la FOMO, “Fear of missing out” e affligge tutti, non solo i giovani.
+Un’incontrollabile desiderio di essere connessi. E quella sensazione di agitazione, pentimento e invidia e “crea un turbinio emozionale e un risentimento verso noi stessi o gli altri, insoddisfazione, ansia e sentimento incapacità” come dice  Sherry Turkle. 
+Ma dall'esperienza webprepping "survivalismo digitale" non ci sembra così. 
+Nuovo internet, nuovi cittadini  e c'è la moltitudine innarrestabile che non si mette a commentare i cambiamenti di internet ma la cavalca e cerca di trasformarla in speranza.
+
+
+
+#### <a name="cerno"></a> Consenso e trasparenza <a href="/e-privacy-XXIII-programma.html#sp5">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#cerno"><a href="/e-privacy-XXIII-relatori.html#cerno">Italo Cerno (ITLawFirm)</a></a>**  
+
+Il caso “Cambridge Analytica” ha portato all’attenzione dell’opinione pubblica mondiale alcune questioni inerenti il trattamento dei dati personali: quando la loro raccolta è legittima, il loro utilizzo lecito, la loro condivisione con soggetti terzi possibile.
+L’intervento si propone di analizzare i concetti di “consenso” e “trasparenza” alla base della nuova disciplina in materia di protezione dei dati personali dettata dal Regolamento (UE) 2016/679 (General Data Protection Regulation - GDPR).
+
+
+
+#### <a name="carletti"></a> How To Be Anonymous Online To Protect Privacy <a href="/e-privacy-XXIII-programma.html#sp6">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#carletti"><a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a></a>**  
+
+Vorrei trattare un talk sugli strumenti opensource e free per avere privacy durante la navigazione web quali vpn, tor, email sicure,ecc talk orientato alla divulgazione per i non tecnici per suggerire strumenti per aumentare la privacy elencando servizi free e strumenti e progetti open per la navigazione, invio di email posta-elettronica crittografata. I servizi e programmi trattati sono multipiattaforma quindi anche per android.
+
+Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative per conto di Carabinieri e Polizia Postale. Oltre alla Sicurezza Informatica si occupa anche di Digital Forensics.
+
+
+
+#### <a name="ronca"></a> Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti <a href="/e-privacy-XXIII-programma.html#sp7">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#ronca"><a href="/e-privacy-XXIII-relatori.html#ronca">Antonio Ronca (INDIRE)</a></a>**  
+
+GPU è un sistema informativo, sviluppato da INDIRE, a titolarità dell’Autorità di Gestione (MIUR), che accompagna l’attuazione degli interventi del PON Per la scuola 2014-2020 “Competenze e ambienti per l’apprendimento”. Tramite questo sistema INDIRE realizza le attività di assistenza tecnica per i beneficiari e destinatari del Programma, le azioni di monitoraggio e di supporto alla governance per la sua attuazione, e le analisi finalizzate alla ricerca. Questo sistema consente la verifica costante della partecipazione al Programma e degli elementi utili al miglioramento dell’efficacia dell’attuazione stessa. Il sistema guida le oltre 8000 scuole nella candidatura e nella gestione dei progetti finanziati con il Fondo Sociale Europeo (FSE) e Fondo Europeo Sviluppo Regionale (FESR): al momento il sistema gestisce 450.000 anagrafiche di studenti, 100.000 docenti e oltre 30.000 progetti delle scuole.  La raccolta e il tracciamento di dati relativi a tutti i percettori dell’offerta formativa (studenti e personale scolastico) e di altri soggetti coinvolti nel Programma (tutor, esperti, ecc), e la loro conseguente lettura critica, oltre ad essere un obbligo comunitario, è funzionale alla valutazione dell’efficienza degli interventi realizzati e quindi elemento importante nella programmazione di quelli successivi. Talvolta questa raccolta si scontra con la reticenza o la diffidenza di chi si vede richiedere dati per poter fruire della formazione e, per questo, il sistema GPU cerca di raggiungere una sintesi fra  il miglioramento dell’efficienza tramite l’analisi dei dati e il rispetto della privacy dei singoli utenti.
+
+
+
+
 
