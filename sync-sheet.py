@@ -199,7 +199,7 @@ def make_programma(service,id,db,pr):
     for day in pr.values():
         str_out_x = ""
         for key,item in day.items():
-            item['Durata']=re.sub('^00:','',item['Durata'])
+            item['Durata']=re.sub('^0(0:)?','',item['Durata'])
             nocols = False
             titolo = item['Titolo']            
             if titolo[0]=='*':
@@ -214,8 +214,11 @@ def make_programma(service,id,db,pr):
                 if re.match(r'^tavola',item['pres']):
                     titolo = make_tavolarotonda(item,db)
                     nocols = True
-            ora = '<a name="{label}"></a>{Ora}|{Durata}|{xtitolo}'.format(
-                xtitolo = titolo,
+            tech = ""
+            if 'TECH' in item and item['TECH']=='X':
+                tech = " <img width=50 src='/images/icon/tech.svg' alt='tech'/>"
+            ora = '<a name="{label}"></a>{Ora}|{Durata}|{xtitolo}{tech}'.format(
+                xtitolo = titolo,tech=tech,
                 **item
             )
             di = ""
