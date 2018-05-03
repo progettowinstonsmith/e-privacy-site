@@ -63,11 +63,11 @@ E' fellow del Nexa Center for Internet & Society del Politecnico di Torino ed ha
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#senor">Quando la privacy cade nella trappola dell’anonimizzazione</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp7">16:45 di Venerdì</a> con <a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor</a>.
 
 
-#### <a name="bozza"></a> Massimo Bozza  <a href="/e-privacy-XXIII-programma.html#sp2">⇧</a>
+#### <a name="bozza"></a> Massimo Bozza  <a href="/e-privacy-XXIII-programma.html#sp3">⇧</a>
 
 Ingegnere Elettronico, Security Engineer, Redbull addicted. Da sempre spinto dalla curiosità cerco di esplorare la tecnologia che mi circonda, mi occupo principalmente di sicurezza applicativa, mobile e sistemi Iot.
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#bozza">DPIbon - "dual use is megl che uan"</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp2">15:00 di Sabato</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#bozza">DPIbon - "dual use is megl che uan"</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp3">15:20 di Sabato</a>.
 
 
 #### <a name="carletti"></a> Fabio Carletti (lejot opensource tecnology) <a href="/e-privacy-XXIII-programma.html#sp6">⇧</a>
@@ -226,11 +226,11 @@ Laureato in giurisprudenza con tesi e tesine sul diritto amministrativo e diritt
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#pazzaglia">Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico.</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm9">11:55 di Sabato</a>.
 
 
-#### <a name="premoli"></a> Roberto Premoli (IOTHAT) <a href="/e-privacy-XXIII-programma.html#sp3">⇧</a>
+#### <a name="premoli"></a> Roberto Premoli (IOTHAT) <a href="/e-privacy-XXIII-programma.html#vp4">⇧</a>
 
 Progettista di hardware, programmatore, articolista a tempo perso...  Non ho ceduto alle tentazioni della condivisione a tutti i costi, i fatti miei sono miei e basta: se mi doveste cercare, di sicuro non mi troverete su Facebook, whatsapp, G+ e tutto il resto del ciarpame “Social”.
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#premoli">Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp3">15:20 di Sabato</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#premoli">Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp4">15:45 di Venerdì</a>.
 
 
 #### <a name="radd"></a> Norrin Radd (Attivista informatico Catalano) <a href="/e-privacy-XXIII-programma.html#sm8">⇧</a>
@@ -362,11 +362,11 @@ Ha conseguito un PHD in Digital Forensics all’Università degli Studi di Milan
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#vaciago">Data Breach e GDPR: profili operativi e best practices internazionali</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp5">16:05 di Venerdì</a>.
 
 
-#### <a name="vicarelli"></a> Cristina Vicarelli  <a href="/e-privacy-XXIII-programma.html#vp4">⇧</a>
+#### <a name="vicarelli"></a> Cristina Vicarelli  <a href="/e-privacy-XXIII-programma.html#sp2">⇧</a>
 
 Avvocato del Foro di Perugia, svolge la propria attività professionale prevalentemente  in materia di protezione dei dati personali, privacy, diritto informatico, diritto di Internet. Svolge altresì attività di formazione in materia di protezione dei dati personali. Dal 2015 è contributor di Technethics (www.technethics.com), una community statunitense che si propone di aiutare avvocati e studi legali a gestire le implicazioni etiche connesse all’uso delle tecnologie. Per ulteriori informazioni www.cristina-vicarelli.it
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#vicarelli">GDPR e sicurezza informatica: è vero che sono in antitesi?</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp4">15:45 di Venerdì</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#vicarelli">GDPR e sicurezza informatica: è vero che sono in antitesi?</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp2">15:00 di Sabato</a>.
 
 
 #### <a name="vieri"></a> Giovambattista Vieri (ENT SRL ) <a href="/e-privacy-XXIII-programma.html#vm5">⇧</a>

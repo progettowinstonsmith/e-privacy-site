@@ -155,11 +155,10 @@ Quali aspetti vanno considerati in un momento in cui il legislatore europeo sta 
 
 
 
-#### <a name="vicarelli"></a> GDPR e sicurezza informatica: è vero che sono in antitesi? <a href="/e-privacy-XXIII-programma.html#vp4">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#vicarelli"><a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a></a>**  
+#### <a name="premoli"></a> Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica <a href="/e-privacy-XXIII-programma.html#vp4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#premoli"><a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a></a>**  
 
-Iniziano a circolare alcune fuorvianti interpretazioni del Regolamento generale sulla protezione dei dati in rapporto alla sicurezza informatica che, enfatizzando il principio di minimizzazione, inquadrano come illeciti alcuni trattamenti di dati personali effettuati per finalità di sicurezza. Negli ultimi mesi, infatti, si sono moltiplicati gli interventi online e offline sul Regolamento generale sulla protezione dei dati e il proliferare di commenti, non sempre centrati, sta consolidando alcuni “falsi miti”, una sorta di “fake news giuridiche” (frutto di interpretazioni estemporanee e sradicate dalla conoscenza del sistema giuridico), che si generano in ambiti dedicati a discussioni settoriali e poi si espandono a macchia d’olio. In particolare mi hanno colpito alcune osservazioni (ancora confinate in ambiti circoscritti) in ordine alla presunta incompatibilità del GDPR con le buone prassi di sicurezza informatica: è vero che il GDPR impedendo di "trattare" più dati dello stretto necessario potrebbe mutilare la sicurezza informatica? Si potranno trattare ancora file di log e indirizzi IP, anche senza chiedere il consenso agli interessati? Oppure saranno trattamenti eccedenti? Sono questi alcuni degli interrogativi ai quali il mio intervento si propone di rispondere, provando a fornire una bussola con la quale orientarsi tra il principio di minimizzazione dei dati e le basi giuridiche del trattamento, per dimostrare che il GDPR mira a potenziare la sicurezza informatica e non si pone in antitesi con essa.
-
+Disamina semiseria di come i metodi di Spionaggio si siano affinati negli ultimi 50 anni e di come gli Stati Uniti D'america siano in prima file nell'attentare alla privacy, non solo dei propri cittadini, ma dell'intero mondo. L'europa, pur avendo preso atto della situazione, sembra incapace di reagire al di la' di timide dichiarazioni di facciata. Ma quando il Potere esita a dicendere i cittadini, è dovere di ognuno provedere alla difesa di sè stesso e dei propri interessi economici, politici e personali. 
 
 
 
@@ -292,18 +291,19 @@ Relatore: avv. Giovanni Scrofani (15')
 
 
 
-#### <a name="bozza"></a> DPIbon - "dual use is megl che uan" <a href="/e-privacy-XXIII-programma.html#sp2">⇧</a>
+#### <a name="vicarelli"></a> GDPR e sicurezza informatica: è vero che sono in antitesi? <a href="/e-privacy-XXIII-programma.html#sp2">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#vicarelli"><a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a></a>**  
+
+Iniziano a circolare alcune fuorvianti interpretazioni del Regolamento generale sulla protezione dei dati in rapporto alla sicurezza informatica che, enfatizzando il principio di minimizzazione, inquadrano come illeciti alcuni trattamenti di dati personali effettuati per finalità di sicurezza. Negli ultimi mesi, infatti, si sono moltiplicati gli interventi online e offline sul Regolamento generale sulla protezione dei dati e il proliferare di commenti, non sempre centrati, sta consolidando alcuni “falsi miti”, una sorta di “fake news giuridiche” (frutto di interpretazioni estemporanee e sradicate dalla conoscenza del sistema giuridico), che si generano in ambiti dedicati a discussioni settoriali e poi si espandono a macchia d’olio. In particolare mi hanno colpito alcune osservazioni (ancora confinate in ambiti circoscritti) in ordine alla presunta incompatibilità del GDPR con le buone prassi di sicurezza informatica: è vero che il GDPR impedendo di "trattare" più dati dello stretto necessario potrebbe mutilare la sicurezza informatica? Si potranno trattare ancora file di log e indirizzi IP, anche senza chiedere il consenso agli interessati? Oppure saranno trattamenti eccedenti? Sono questi alcuni degli interrogativi ai quali il mio intervento si propone di rispondere, provando a fornire una bussola con la quale orientarsi tra il principio di minimizzazione dei dati e le basi giuridiche del trattamento, per dimostrare che il GDPR mira a potenziare la sicurezza informatica e non si pone in antitesi con essa.
+
+
+
+
+#### <a name="bozza"></a> DPIbon - "dual use is megl che uan" <a href="/e-privacy-XXIII-programma.html#sp3">⇧</a>
 **<a href="e-privacy-XXIII-relatori.html#bozza"><a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a></a>**  
 
 Deep Packet Inspection, prendendo spunto dall'ultima relazione di Citizen Lab "BAD TRAFFIC", in questo intervento si esaminerà chi sono i player delle tecnologie di Deep Packet Inspection; come tali tecnologie sono oggi impiegate e quali dati possono essere estratti, analizzandone il doppio utilizzo; come queste tecnologie sono in evoluzione nell'ottica di nuovi paradigmi di networking come NFV. 
 Tali tecnologie saranno fonte di dati che, correlati con l'ausilio di Intelligenza artificiale, potranno minare la libertà e la privacy degli utilizzatori della rete: in tale ottica verranno valutate delle possibili contromisure per preservare la privacy degli utenti.
-
-
-
-#### <a name="premoli"></a> Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica <a href="/e-privacy-XXIII-programma.html#sp3">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#premoli"><a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a></a>**  
-
-Disamina semiseria di come i metodi di Spionaggio si siano affinati negli ultimi 50 anni e di come gli Stati Uniti D'america siano in prima file nell'attentare alla privacy, non solo dei propri cittadini, ma dell'intero mondo. L'europa, pur avendo preso atto della situazione, sembra incapace di reagire al di la' di timide dichiarazioni di facciata. Ma quando il Potere esita a dicendere i cittadini, è dovere di ognuno provedere alla difesa di sè stesso e dei propri interessi economici, politici e personali. 
 
 
 
