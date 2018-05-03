@@ -42,8 +42,8 @@ dove pubblica la rubrica settimanale
 Emmanuele Somma è prestato da anni al Progetto Winston Smith,
 collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
 Digitali ed è militante del Partito Radicale. È giornalista
-pubblicista, ha fondato Linux Magazine e dirige ""LOGIN, saving the
-Internet wealth"".
+pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
+Internet wealth".
 
 
 #### <a name="abeti"></a> Riccardo Abeti (Unione Avvocati Europei) <a href="/e-privacy-XXIII-programma.html#vm9">⇧</a>

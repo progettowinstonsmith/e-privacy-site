@@ -118,7 +118,7 @@ Si illustrano alcuni scenari tecnologici (tecnologie di criptazione e contratti 
 #### <a name="gobbato"></a> Fake news e diritto all’oblio, nuove declinazioni dei diritti civili digitali: dialogo a tre. <a href="/e-privacy-XXIII-programma.html#vm11">⇧</a>
 **<a href="e-privacy-XXIII-relatori.html#gobbato"><a href="/e-privacy-XXIII-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a>, <a href="/e-privacy-XXIII-relatori.html#monte">Nicole Monte </a> e <a href="/e-privacy-XXIII-relatori.html#casonato">Guendalina Casonato </a></a>**  
 
-l caso Stamina: una fake news prima dell’avvento del social media networking? Dalle bolle mediatiche chi ci difende(va)? Cosa è fake e cosa c’è di vero nei casi mediatici creati, troppo spesso, ad arte?
+Il caso Stamina: una fake news prima dell’avvento del social media networking? Dalle bolle mediatiche chi ci difende(va)? Cosa è fake e cosa c’è di vero nei casi mediatici creati, troppo spesso, ad arte?
 Il caso mediatico è noto: fu creato dalla trasmissione TV Le Iene, perché alcune persone affette da malattie neurodegenerative avevano visto alcuni miglioramenti sottoponendosi ad una (asserita) sperimentazione scientifica a base di cellule staminali, creata da Davide Vannoni, ma la magistratura aveva bloccato la somministrazione delle cure, a fronte di diverse denunce di soggetti che dopo avere speso cifre folli, non avevano tratto alcun beneficio. L’appello straziante delle famiglie dei malati fu mediaticamente fortemente supportato ma si contrapponeva alla condanna della comunità scientifica. L’opinione pubblica letteralmente si divise. Con il passare del tempo la bolla mediatica venne meno e Davide Vannoni di recente è stato condannato per il reato di truffa con lo stop definitivo alla somministrazione delle discusse cure.
 
 Le bolle mediatiche ed il giornalismo d’inchiesta sono certamente sempre esistiti ma con l’avvento dei social media assumono nuove forme.
@@ -182,8 +182,6 @@ L'intervento delinea il modello di responsabilità per i trattamenti di dati san
 La normativa a protezione dei dati personali garantisce la vita privata e la riservatezza di cui all'art.7 della Carta dei diritti fondamenti dell'Unione europea?
 Il dato anonimo, che non trova tutela, consente profilazioni di massa che costituiscono il presupposto per trattamenti automatizzati che, grazie a AI e IoT, azzerano tale diritto.
 Nel mare dei big data siamo indifferentemente balene e sardine.
-
-Blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
 
 
 
