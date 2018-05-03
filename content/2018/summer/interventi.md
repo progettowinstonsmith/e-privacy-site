@@ -51,7 +51,7 @@ Un nuovo spettro si aggira per il mondo. Ci priva di privacy, di lavori consolid
 
 
 #### <a name="dolcetti"></a> Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati <a href="/e-privacy-XXIII-programma.html#vm6">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#dolcetti"><a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a></a>**  
+**<a href="e-privacy-XXIII-relatori.html#dolcetti"><a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a></a>**  
 
 Dal 2006 al 2012 sono stati prodotti più di 180 exabyte di dati sufficienti a riempire quotidianamente tutte le librerie americane (per 18 volte).
 Con le tecnologie dell’ IoT e dell’AI, tale produzione è destinata ad aumentare e a spostare il centro

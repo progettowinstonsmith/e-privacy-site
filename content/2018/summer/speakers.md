@@ -125,7 +125,7 @@ Contemporaneamente ha fondato DPOInnovation, associazione no-profit volta a diff
 Dal 2018 lavora nel dipartimento legale di Enel S.p.A. occupandosi di privacy, GDPR compliance, data governance, corporate policeis e risk management.
 
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti">Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm6">11:00 di Venerdì</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti">Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm6">11:00 di Venerdì</a> con <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato</a>.
 
 
 #### <a name="fabiano"></a> Nicola Fabiano (Studio Legale Fabiano) <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
@@ -343,7 +343,7 @@ Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#tramaci"
 
 Carmine Andrea Trovato è Associate dello studio legale CRC-Lex. È stato membro del team di implementazione di diversi progetti di ricerca europei sul tema Industry 4.0 presso ADAPT – Associazione per gli Studi Internazionali e Comparati sul Diritto del lavoro. È stato presidente e co-fondatore dello Europroject Team di ELSA Italia. Laureato in Giurisprudenza con il massimo dei voti (Università di Modena e Reggio Emilia), ha conseguito inoltre l’LL.M. “Il Responsabile della protezione dei dati personali: Data protection officer e Privacy expert”  con il patrocinio del Garante per la protezione dei dati personali (Università Roma Tre) e il Master Privacy Officer & Consulente della Privacy (Federprivacy).
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti">Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm6">11:00 di Venerdì</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti">Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm6">11:00 di Venerdì</a> con <a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti</a>.
 
 
 #### <a name="vacca"></a> Vacca Manuela  <a href="/e-privacy-XXIII-programma.html#sm10">⇧</a>
