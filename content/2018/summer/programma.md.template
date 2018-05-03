@@ -16,6 +16,10 @@ prev: e-privacy-XXII
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
+Collaboratori: bba, comvilca
+Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
+Patrocini: 
+MediaPartner: infomedia,radioradicale,aneddotica
 
 
 ###e-privacy 2018 - summer edition
