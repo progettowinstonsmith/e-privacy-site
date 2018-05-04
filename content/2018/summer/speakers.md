@@ -128,7 +128,7 @@ Dal 2018 lavora nel dipartimento legale di Enel S.p.A. occupandosi di privacy, G
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti">Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm6">11:00 di Venerdì</a> con <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato</a>.
 
 
-#### <a name="fabiano"></a> Nicola Fabiano (Studio Legale Fabiano) <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
+#### <a name="fabiano"></a> Nicola Fabiano (Studio Legale Fabiano) <a href="/e-privacy-XXIII-programma.html#sp4">⇧</a>
 
 Nicola Fabiano, Avvocato cassazionista, Specialista in Diritto Civile, esperto in materia di protezione dei dati personali, privacy e sicurezza informatica, innovatore.
 Nel 1994 fonda lo Studio Legale Fabiano.
@@ -143,7 +143,7 @@ E’ Referente Informatico del Consiglio dell’Ordine degli Avvocati di Foggia 
 E’ componente del Gruppo di lavoro della FIIF (Fondazione Italiana per l’Innovazione Forense) del CNF (Consiglio Nazionale Forense).
 È “Direttore Settore E-commerce e Consumatori Digitali” all’Istituto Italiano per la Privacy (IIP).
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#fabiano">Blockchain e protezione dei dati personali: il valore del dato personale</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp3">15:25 di Venerdì</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#fabiano">Blockchain e protezione dei dati personali: il valore del dato personale</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp4">15:40 di Sabato</a>.
 
 
 #### <a name="ferri"></a> Edoardo Ferri (Studio Tecnico Ferri & Costantino) <a href="/e-privacy-XXIII-programma.html#sm5">⇧</a>
@@ -170,7 +170,7 @@ Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#filippin
 Renato Gabriele si è occupato di ICT e reti di computer dagli anni '90, per imprese e per pubbliche amministrazioni. Partecipa al progetto dadaista di Gilda35, sperimentando le dinamiche e le influenze sui Big Data dei social network. È stato membro dell'IBM WW Mid-Market Advisory Council e del comitato direttivo di IASA (International Association of System Architects). Fa parte di Bigdata42, spazio nato per usare i Big data su political bots e altri. È fondatore di Oohmm (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
 
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#gabriele">La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm10">12:15 di Sabato</a> con <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela</a> e <a href="/e-privacy-XXIII-relatori.html#resci">Resci Giorgio</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#gabriele">La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm10">12:15 di Sabato</a> con <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela</a> e <a href="/e-privacy-XXIII-relatori.html#resci">Giorgio Resci</a>.
 
 
 #### <a name="gallese"></a> Chiara Gallese (Studio Legale Gallese) <a href="/e-privacy-XXIII-programma.html#vm8">⇧</a>
@@ -187,7 +187,7 @@ Diritto d’autore, diritto penale, tutela della privacy e diritto dell’inform
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#gallus">Oops they did it again: il data breach nell’era del GDPR</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp8">17:05 di Venerdì</a>.
 
 
-#### <a name="giorio"></a> Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese) <a href="/e-privacy-XXIII-programma.html#vm3">⇧</a>
+#### <a name="giorio"></a> Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese) <a href="/e-privacy-XXIII-programma.html#vm3">⇧</a>
 
 Dopo gli studi in elettrotecnica ed ingegneria meccanica, ho lavorato nella Ricerca&Sviluppo di un’azienda elettronica, in seguito mi sono trasferito negli USA per occuparmi di technical marketing e successivamente di WEB marketing. Dopo qualche altra esperienza nell'industria, sono entrato nella PA ed ho continuato ad interessarmi dell’informatizzazione, particolarmente applicata alla PA, affiancando quindi agli aspetti tecnici i problemi giuridici. Dal 2009 collaboro con la rivista Lo Stato Civile Italiano, ed. SEPEL, con la quale ho pubblicato svariati articoli in materia di informatizzazione ed in materie demografiche. Membro del Centro Studi Informatica Giuridica Torino Ivrea (http://www.csigivreatorino.it), ho collaborato, attraverso l’Associazione, alla Commissione Madia per le problematiche del telelavoro. Anche attraverso l’Associazione Federprivacy (http://www.federprivacy.it/), seguo le problematiche relative alla privacy, naturalmente con particolare riferimento alla Pubblica Amministrazione. 
 
@@ -244,7 +244,7 @@ Relatori: Norrin Radd, un attivista catalano (20')
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#radd">Lo shutdown di Internet in Catalogna</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm8">11:35 di Sabato</a>.
 
 
-#### <a name="resci"></a> Resci Giorgio  <a href="/e-privacy-XXIII-programma.html#sm10">⇧</a>
+#### <a name="resci"></a> Giorgio Resci  <a href="/e-privacy-XXIII-programma.html#sm10">⇧</a>
 
 Giorgio Resci, sviluppatore. Python addicted. Si interessa di data analysis, cyber security e machine learning. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
 
@@ -350,7 +350,7 @@ Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#dolcetti
 
 Manuela Vacca, giornalista. PhD, addetto stampa della Regione Sardegna, come attivista per la diffusione della cultura dei dati aperti ha promosso e ha partecipato alle cinque edizioni del Cagliari Open Data Day ed è impegnata su difesa della privacy e sorveglianza globale. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#gabriele">La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm10">12:15 di Sabato</a> con <a href="/e-privacy-XXIII-relatori.html#resci">Resci Giorgio</a> e <a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#gabriele">La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm10">12:15 di Sabato</a> con <a href="/e-privacy-XXIII-relatori.html#resci">Giorgio Resci</a> e <a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele</a>.
 
 
 #### <a name="vaciago"></a> Giuseppe Vaciago (LT42 S.r.l.) <a href="/e-privacy-XXIII-programma.html#vp5">⇧</a>
@@ -376,11 +376,11 @@ Son del 1964, mi occupo di informatica da quando avevo 16 anni e studiavo Elettr
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#vieri">AI contro?</a></b> alle <a href="/e-privacy-XXIII-programma.html#vm5">10:40 di Venerdì</a>.
 
 
-#### <a name="zugnaz"></a> Efrem Zugnaz (Webprepping) <a href="/e-privacy-XXIII-programma.html#sp4">⇧</a>
+#### <a name="zugnaz"></a> Efrem Zugnaz (Webprepping) <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
 
 Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente si occupa di IT Governance per una concessionaria Autostradale. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti piu' possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera privata digitale etica e corretta
 
-Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#zugnaz">Singolarità o privacy disruption?</a></b> alle <a href="/e-privacy-XXIII-programma.html#sp4">15:40 di Sabato</a>.
+Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#zugnaz">Singolarità o privacy disruption?</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp3">15:25 di Venerdì</a>.
 
 
 

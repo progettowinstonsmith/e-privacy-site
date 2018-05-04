@@ -23,7 +23,7 @@ MediaPartner: infomedia, radioradicale
 
 
 #### <a name="giorio"></a> La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia <a href="/e-privacy-XXIII-programma.html#vm3">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#giorio"><a href="/e-privacy-XXIII-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a></a>**  
+**<a href="e-privacy-XXIII-relatori.html#giorio"><a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a></a>**  
 
 In passato vi sono state molte singolarità, sia nella storia geologica del pianeta che nella storia tecnologica dell’uomo. In generale l’attenzione alla privacy è aumentata nel corso dei secoli, anche se negli ultimi anni sembra che la curva presenti una flessione. Non potendo sapere con certezza come si svilupperà in futuro, si possono immaginare tre scenari: uno utopico, nel quale la tecnologia migliora la vita senza pretendere un contrappasso, uno distopico, laddove saremo noi schiavi di un’intelligenza artificiale dispotica, uno ucronico, con pregi e difetti, con una battaglia che continua senza vinti o vincitori.
 Ma soprattutto, la domanda principale sarà: quale futuro vogliamo davvero costruire?
@@ -144,14 +144,14 @@ le fake news fanno parte o meno della libertà di espressione?
 
 
 
-#### <a name="fabiano"></a> Blockchain e protezione dei dati personali: il valore del dato personale <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#fabiano"><a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a></a>**  
+#### <a name="zugnaz"></a> Singolarità o privacy disruption? <a href="/e-privacy-XXIII-programma.html#vp3">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#zugnaz"><a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a></a>**  
 
-Il dato personale è un valore.
-La Carta dei Diritti Fondamentali dell’Unione Europea contempla anche la protezione dei dati personali e come anche la Convenzione Europea sui Diritti dell’Uomo preveda (Art. 7) il “Diritto al rispetto della vita privata e familiare”. Il principio enunciato nella Convenzione ha determinato il sorgere di una giurisprudenza della Corte Europea sui Diritti dell’Uomo proprio a tutela della riservatezza.
-Il dato personale costituisce un valore assoluto, ma più recentemente è emersa una tendenza volta ad attribuirgli anche un valore economico. Il processo di “monetizzazione” è particolarmente accentuato con i servizi fruibili da Internet. Molto spesso vengono erogati servizi gratuiti o offerte applicazioni gratuite per i quali sono richiesti i dati personali anche sotto forma di registrazione. In realtà, la gratuità è apparente, posto che il corrispettivo è costituito dai dati personali forniti. 
-Quale approccio va utilizzato anche alla luce del GDPR ?
-Quali aspetti vanno considerati in un momento in cui il legislatore europeo sta scrivendo la nuova norma europea in materia di e-privacy ?
+Internet ed una sottile paura di impiegare il nostro tempo nel modo sbagliato.
+Il modo in cui impattiamo la nostra privacy di tutti i giorni è una singolarità o disruption? O è una patologia come la FOMO, “Fear of missing out” e affligge tutti, non solo i giovani.
+Un’incontrollabile desiderio di essere connessi. E quella sensazione di agitazione, pentimento e invidia e “crea un turbinio emozionale e un risentimento verso noi stessi o gli altri, insoddisfazione, ansia e sentimento incapacità” come dice  Sherry Turkle. 
+Ma dall'esperienza webprepping "survivalismo digitale" non ci sembra così. 
+Nuovo internet, nuovi cittadini  e c'è la moltitudine innarrestabile che non si mette a commentare i cambiamenti di internet ma la cavalca e cerca di trasformarla in speranza.
 
 
 
@@ -269,7 +269,7 @@ L'innovazione tecnologica ha consentito di sperimentare la sostituzione delle pr
 
 
 #### <a name="gabriele"></a> La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete <a href="/e-privacy-XXIII-programma.html#sm10">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#gabriele"><a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Resci Giorgio </a></a>**  
+**<a href="e-privacy-XXIII-relatori.html#gabriele"><a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Giorgio Resci </a></a>**  
 
 - La propaganda computazionale tra Catalogna, Italia e altri mondi
 - L'odio automatizzato in rete
@@ -305,14 +305,14 @@ Tali tecnologie saranno fonte di dati che, correlati con l'ausilio di Intelligen
 
 
 
-#### <a name="zugnaz"></a> Singolarità o privacy disruption? <a href="/e-privacy-XXIII-programma.html#sp4">⇧</a>
-**<a href="e-privacy-XXIII-relatori.html#zugnaz"><a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a></a>**  
+#### <a name="fabiano"></a> Blockchain e protezione dei dati personali: il valore del dato personale <a href="/e-privacy-XXIII-programma.html#sp4">⇧</a>
+**<a href="e-privacy-XXIII-relatori.html#fabiano"><a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a></a>**  
 
-Internet ed una sottile paura di impiegare il nostro tempo nel modo sbagliato.
-Il modo in cui impattiamo la nostra privacy di tutti i giorni è una singolarità o disruption? O è una patologia come la FOMO, “Fear of missing out” e affligge tutti, non solo i giovani.
-Un’incontrollabile desiderio di essere connessi. E quella sensazione di agitazione, pentimento e invidia e “crea un turbinio emozionale e un risentimento verso noi stessi o gli altri, insoddisfazione, ansia e sentimento incapacità” come dice  Sherry Turkle. 
-Ma dall'esperienza webprepping "survivalismo digitale" non ci sembra così. 
-Nuovo internet, nuovi cittadini  e c'è la moltitudine innarrestabile che non si mette a commentare i cambiamenti di internet ma la cavalca e cerca di trasformarla in speranza.
+Il dato personale è un valore.
+La Carta dei Diritti Fondamentali dell’Unione Europea contempla anche la protezione dei dati personali e come anche la Convenzione Europea sui Diritti dell’Uomo preveda (Art. 7) il “Diritto al rispetto della vita privata e familiare”. Il principio enunciato nella Convenzione ha determinato il sorgere di una giurisprudenza della Corte Europea sui Diritti dell’Uomo proprio a tutela della riservatezza.
+Il dato personale costituisce un valore assoluto, ma più recentemente è emersa una tendenza volta ad attribuirgli anche un valore economico. Il processo di “monetizzazione” è particolarmente accentuato con i servizi fruibili da Internet. Molto spesso vengono erogati servizi gratuiti o offerte applicazioni gratuite per i quali sono richiesti i dati personali anche sotto forma di registrazione. In realtà, la gratuità è apparente, posto che il corrispettivo è costituito dai dati personali forniti. 
+Quale approccio va utilizzato anche alla luce del GDPR ?
+Quali aspetti vanno considerati in un momento in cui il legislatore europeo sta scrivendo la nuova norma europea in materia di e-privacy ?
 
 
 
