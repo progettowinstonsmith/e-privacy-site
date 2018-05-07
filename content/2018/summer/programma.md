@@ -1,6 +1,6 @@
 Template: event
 Title: Singolarità
-Date: 2017-05-15 10:20
+Date: 2018-05-06 10:20
 Category: 2018
 lang: it
 Num: XXIII
