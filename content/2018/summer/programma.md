@@ -45,7 +45,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
 <a name="vm1"></a>9:30|15|Apertura lavori: "Singolarità" Marco Calamari
 <a name="vm2"></a>9:45|15|Saluti istituzionali
@@ -54,7 +54,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 <a name="vm5"></a>10:40|20|<a href='/e-privacy-XXIII-interventi.html#vieri'>AI contro?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>
 <a name="vm6"></a>11:00|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a>
 <a name="vm7"></a>11:20|20|<a href='/e-privacy-XXIII-interventi.html#casagrande'>Maledetto distributore automatico non avrai la mia identità</a>|<a href="/e-privacy-XXIII-relatori.html#casagrande">Emanuele Casagrande </a>
-<a name="vm8"></a>11:40|20|<a href='/e-privacy-XXIII-interventi.html#gallese'>Privacy e internet of things: quali sono i rischi?</a>|<a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a>
+<a name="vm8"></a>11:40|20|<a href='/e-privacy-XXIII-interventi.html#fabiano'>Blockchain e protezione dei dati personali: il valore del dato personale</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>
 <a name="vm9"></a>12:00|20|<a href='/e-privacy-XXIII-interventi.html#abeti'>Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester</a>|<a href="/e-privacy-XXIII-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a>
 <a name="vm10"></a>12:20|20|<a href='/e-privacy-XXIII-interventi.html#ciurcina'>L'intelligenza naturale e il corpo digitale</a>|<a href="/e-privacy-XXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>
 <a name="vm11"></a>12:40|20|<a href='/e-privacy-XXIII-interventi.html#gobbato'>Fake news e diritto all’oblio, nuove declinazioni dei diritti civili digitali: dialogo a tre.</a>|<a href="/e-privacy-XXIII-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a>, <a href="/e-privacy-XXIII-relatori.html#monte">Nicole Monte </a> e <a href="/e-privacy-XXIII-relatori.html#casonato">Guendalina Casonato </a>
@@ -66,7 +66,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
  
-  **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
 ------- | --- | ------- | ------- 
 <a name="vp1"></a>15:00||Apertura lavori pomeridiani: GDPR
 <a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#bba">Award Big Brother </a>
@@ -87,7 +87,7 @@ informative ci obbligano a ripensare il concetto di privacy._
  
 
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
 <a name="sm1"></a>9:30|05|Apertura lavori mattutina
 <a name="sm2"></a>9:35|20|<a href='/e-privacy-XXIII-interventi.html#filippini'>Diritti digitali</a>|<a href="/e-privacy-XXIII-relatori.html#filippini">Nicola Filippini </a>
@@ -110,12 +110,12 @@ informative ci obbligano a ripensare il concetto di privacy._
 * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
 
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | ---- | ------- | ------- 
 <a name="sp1"></a>15:00||Apertura lavori pomeridiani: privacy
 <a name="sp2"></a>15:00|20|<a href='/e-privacy-XXIII-interventi.html#vicarelli'>GDPR e sicurezza informatica: è vero che sono in antitesi?</a>|<a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a>
 <a name="sp3"></a>15:20|20|<a href='/e-privacy-XXIII-interventi.html#bozza'>DPIbon - "dual use is megl che uan"</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a>
-<a name="sp4"></a>15:40|20|<a href='/e-privacy-XXIII-interventi.html#fabiano'>Blockchain e protezione dei dati personali: il valore del dato personale</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>
+<a name="sp4"></a>15:40|20|<a href='/e-privacy-XXIII-interventi.html#gallese'>Privacy e internet of things: quali sono i rischi?</a>|<a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a>
 <a name="sp5"></a>16:00|20|<a href='/e-privacy-XXIII-interventi.html#cerno'>Consenso e trasparenza</a>|<a href="/e-privacy-XXIII-relatori.html#cerno">Italo Cerno (ITLawFirm)</a>
 <a name="sp6"></a>16:20|20|<a href='/e-privacy-XXIII-interventi.html#carletti'>How To Be Anonymous Online To Protect Privacy</a>|<a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>
 <a name="sp7"></a>16:40|20|<a href='/e-privacy-XXIII-interventi.html#ronca'>Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#ronca">Antonio Ronca (INDIRE)</a>
