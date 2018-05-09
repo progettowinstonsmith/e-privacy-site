@@ -457,3 +457,40 @@ body { background-color: #ffffff; }
     top: 72px;
   }
 }
+
+a.linkbutton {
+  font: bold 18px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+
+    background: #00bf9a;
+    color: #fff;
+    border: none;
+    border-width: 0;
+    max-width: 16rem;
+    display: inline-block;
+    border-radius: 2rem;
+    padding: .8rem 1rem;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    -webkit-transition: all 1s cubic-bezier(.19, 1, .22, 1);
+    transition: all 1s cubic-bezier(.19, 1, .22, 1);
+    -webkit-box-shadow: -2px 2px 2px 0 rgba(0, 0, 0, .2);
+    -moz-box-shadow: -2px 2px 2px 0 rgba(0, 0, 0, .2);
+    box-shadow: -2px 2px 2px 0 rgba(0, 0, 0, .2);
+
+}
+
+
+
+div.linkbutton {
+    width: 30%;
+    margin: auto;
+}
