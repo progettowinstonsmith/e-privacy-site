@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
+Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt,ihc
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 
@@ -35,6 +35,10 @@ Il tema guida della XXIII edizione di e-privacy è:
 **Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
 
+###Iscrizioni
+
+** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
+Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a></div>
 
@@ -55,7 +59,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 <a name="vm3"></a>10:00|20|<a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
 <a name="vm4"></a>10:20|20|<a href='/e-privacy-XXIII-interventi.html#tramaci'>E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a>
 <a name="vm5"></a>10:40|20|<a href='/e-privacy-XXIII-interventi.html#vieri'>AI contro?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>
-<a name="vm6"></a>11:00|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a>
+<a name="vm6"></a>11:00|20|<a href='/e-privacy-XXIII-interventi.html#vaciago'>Data Breach e GDPR: profili operativi e best practices internazionali</a>|<a href="/e-privacy-XXIII-relatori.html#vaciago">Giuseppe Vaciago (LT42 S.r.l.)</a>
 <a name="vm7"></a>11:20|20|<a href='/e-privacy-XXIII-interventi.html#casagrande'>Maledetto distributore automatico non avrai la mia identità</a>|<a href="/e-privacy-XXIII-relatori.html#casagrande">Emanuele Casagrande </a>
 <a name="vm8"></a>11:40|20|<a href='/e-privacy-XXIII-interventi.html#fabiano'>Blockchain e protezione dei dati personali: il valore del dato personale</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>
 <a name="vm9"></a>12:00|20|<a href='/e-privacy-XXIII-interventi.html#abeti'>Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester</a>|<a href="/e-privacy-XXIII-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a>
@@ -75,7 +79,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 <a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#bba">Award Big Brother </a>
 <a name="vp3"></a>15:25|20|<a href='/e-privacy-XXIII-interventi.html#zugnaz'>Singolarità o privacy disruption?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a>
 <a name="vp4"></a>15:45|20|<a href='/e-privacy-XXIII-interventi.html#premoli'>Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a>
-<a name="vp5"></a>16:05|20|<a href='/e-privacy-XXIII-interventi.html#vaciago'>Data Breach e GDPR: profili operativi e best practices internazionali</a>|<a href="/e-privacy-XXIII-relatori.html#vaciago">Giuseppe Vaciago (LT42 S.r.l.)</a>
+<a name="vp5"></a>16:05|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a>
 <a name="vp6"></a>16:25|20|<a href='/e-privacy-XXIII-interventi.html#ricci'>Big data, dati sanitari e GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a>
 <a name="vp7"></a>16:45|20|<a href='/e-privacy-XXIII-interventi.html#senor'>Quando la privacy cade nella trappola dell’anonimizzazione</a>|<a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> e <a href="/e-privacy-XXIII-relatori.html#blengino">Carlo Blengino </a>
 <a name="vp8"></a>17:05|20|<a href='/e-privacy-XXIII-interventi.html#gallus'>Oops they did it again: il data breach nell’era del GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>
