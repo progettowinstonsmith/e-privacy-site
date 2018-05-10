@@ -237,13 +237,9 @@ Progettista di hardware, programmatore, articolista a tempo perso...  Non ho ced
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#premoli">Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp4">15:45 di Venerdì</a>.
 
 
-#### <a name="radd"></a> Norrin Radd (Attivista informatico Catalano) <a href="/e-privacy-XXIII-programma.html#sm8">⇧</a>
+#### <a name="radd"></a> Norrin Radd <a href="/e-privacy-XXIII-programma.html#sm8">⇧</a>
 
-Chiedere a Renato Gabriele di Oohmm.
-Relatori: Norrin Radd, un attivista catalano (20')
-Relatori: Norrin Radd, un attivista catalano (20')
-Relatori: Norrin Radd, un attivista catalano (20')
-Relatori: Norrin Radd, un attivista catalano (20')
+Attivista informatico Catalano. 
 
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#radd">Lo shutdown di Internet in Catalogna</a></b> alle <a href="/e-privacy-XXIII-programma.html#sm8">11:35 di Sabato</a>.
 
