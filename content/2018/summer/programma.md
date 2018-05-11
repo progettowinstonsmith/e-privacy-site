@@ -37,8 +37,9 @@ informative ci obbligano a ripensare il concetto di privacy._
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+** La partecipazione al convegno è libera e gratuita, e l'iscrizione è
+facoltativa. ** Iscrivendovi rimarrete informati e ci aiuterete a
+gestire meglio la logistica dell'evento.
 
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a></div>
 
