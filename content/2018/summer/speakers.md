@@ -1,6 +1,6 @@
 Template: event
-Title:Parole (Ostili) contro la RETE
-Date: 2017-05-03 08:20
+Title: Singolarità
+Date: 2018-05-04 08:20
 Category: 2018
 lang: it
 Num: XXIII
