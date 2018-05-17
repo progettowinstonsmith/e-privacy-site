@@ -84,7 +84,7 @@ gestire meglio la logistica dell'evento.
 <a name="vp6"></a>16:25|20|<a href='/e-privacy-XXIII-interventi.html#ricci'>Big data, dati sanitari e GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a>
 <a name="vp7"></a>16:45|20|<a href='/e-privacy-XXIII-interventi.html#senor'>Quando la privacy cade nella trappola dell’anonimizzazione</a>|<a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> e <a href="/e-privacy-XXIII-relatori.html#blengino">Carlo Blengino </a>
 <a name="vp8"></a>17:05|20|<a href='/e-privacy-XXIII-interventi.html#gallus'>Oops they did it again: il data breach nell’era del GDPR</a>|<a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>
-<a name="vp9"></a>17:25|20|<a href='/e-privacy-XXIII-interventi.html#sarzana'>Da Cambridge aAalytica ai dati di Whatsapp: storia e gloria del trasferimento di dati all'estero</a>|<a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>
+<a name="vp9"></a>17:25|20|<a href='/e-privacy-XXIII-interventi.html#sarzana'>Da Cambridge Analytica ai dati di Whatsapp: storia e gloria del trasferimento di dati all'estero</a>|<a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>
 <a name="vp10"></a>17:45|1:00|Tavola Rotonda: [_GDPR_](e-privacy-XXIII-interventi.html#tavola2)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a><br/>Partecipa: 
 <a name="vp11"></a>18:45||Chiusura lavori prima giornata
 
