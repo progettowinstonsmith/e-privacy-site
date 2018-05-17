@@ -66,7 +66,7 @@ gestire meglio la logistica dell'evento.
 <a name="vm9"></a>12:00|20|<a href='/e-privacy-XXIII-interventi.html#abeti'>Dovremmo essere consumatori e interessati (al trattamento) invece siamo tester</a>|<a href="/e-privacy-XXIII-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a>
 <a name="vm10"></a>12:20|20|<a href='/e-privacy-XXIII-interventi.html#ciurcina'>L'intelligenza naturale e il corpo digitale</a>|<a href="/e-privacy-XXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>
 <a name="vm11"></a>12:40|20|<a href='/e-privacy-XXIII-interventi.html#gobbato'>Fake news e diritto all’oblio, nuove declinazioni dei diritti civili digitali: dialogo a tre.</a>|<a href="/e-privacy-XXIII-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a>, <a href="/e-privacy-XXIII-relatori.html#monte">Nicole Monte </a> e <a href="/e-privacy-XXIII-relatori.html#casonato">Guendalina Casonato </a>
-<a name="vm12"></a>13:00|1:00|Tavola Rotonda: [_Singolarità_](e-privacy-XXIII-interventi.html#tavola1)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipa: 
+<a name="vm12"></a>13:00|1:00|Tavola Rotonda: [_Singolarità_](e-privacy-XXIII-interventi.html#tavola1)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: Carlo Blengino, Marco Ciurcina, Riccardo Coluccini, Monica Senor, Giovambattista Vieri, Efrem Zugnaz
 <a name="vm13"></a>14:00||PAUSA PRANZO
 
 
