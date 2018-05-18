@@ -35,6 +35,11 @@ Il tema guida della XXIII edizione di e-privacy è:
 **Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
 
+### Big Brother Awards
+
+**Durante il convegno avrà luogo la cerimonia di assegnazione dei 
+<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards Italia 2018</a>, a cura del Centro HERMES.**
+
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è
@@ -51,11 +56,11 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="vem"></a>Venerdì 8 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari)
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
-<a name="vm1"></a>9:30|15|Apertura lavori: "Singolarità" Marco Calamari
+<a name="vm1"></a>9:30|15|Apertura lavori: **"Singolarità"** Marco Calamari
 <a name="vm2"></a>9:45|15|Saluti istituzionali
 <a name="vm3"></a>10:00|20|<a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
 <a name="vm4"></a>10:20|20|<a href='/e-privacy-XXIII-interventi.html#tramaci'>E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a>
@@ -72,13 +77,13 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="vep"></a>Venerdì 8 Giugno 2018 - pomeriggio
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
  
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
 ------- | --- | ------- | ------- 
-<a name="vp1"></a>15:00||Apertura lavori pomeridiani: Assegnazione Big Brother Awards Italia 2018
+<a name="vp1"></a>15:00||Apertura lavori pomeridiani: **Assegnazione Big Brother Awards Italia 2018**
 <a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#pietrosanti">Fabio Pietrosanti (HERMES Center)</a>
-<a name="vp1"></a>15:25||Sessione GDPR
+<a name="vp1"></a>15:25||**Sessione GDPR**
 <a name="vp3"></a>15:25|20|<a href='/e-privacy-XXIII-interventi.html#zugnaz'>Singolarità o privacy disruption?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a>
 <a name="vp4"></a>15:45|20|<a href='/e-privacy-XXIII-interventi.html#premoli'>Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a>
 <a name="vp5"></a>16:05|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a>
@@ -92,7 +97,7 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
  
 
 
@@ -116,12 +121,12 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - pomeriggio
 
-* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari)
 
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | ---- | ------- | ------- 
-<a name="sp1"></a>15:00||Apertura lavori pomeridiani: Sessione Privacy
+<a name="sp1"></a>15:00||Apertura lavori pomeridiani: **Sessione Privacy**
 <a name="sp2"></a>15:00|20|<a href='/e-privacy-XXIII-interventi.html#vicarelli'>GDPR e sicurezza informatica: è vero che sono in antitesi?</a>|<a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a>
 <a name="sp3"></a>15:20|20|<a href='/e-privacy-XXIII-interventi.html#bozza'>DPIbon - "dual use is megl che uan"</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a>
 <a name="sp4"></a>15:40|20|<a href='/e-privacy-XXIII-interventi.html#gallese'>Privacy e internet of things: quali sono i rischi?</a>|<a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a>
@@ -142,10 +147,11 @@ La sede di e-privacy 2018 summer edition sarà la
 
 ### Gli organizzatori
 
-La manifestazione e’ organizzata da:
 
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+La manifestazione e’ organizzata da:
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla 
+ - [HERMES](http://hermescenter.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
+privacy in Rete e fuori
 
 e da altre organizzazioni, aziende ed associazioni.
 
