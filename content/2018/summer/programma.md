@@ -76,8 +76,9 @@ gestire meglio la logistica dell'evento.
  
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
 ------- | --- | ------- | ------- 
-<a name="vp1"></a>15:00||Apertura lavori pomeridiani: GDPR
-<a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#bba">Award Big Brother </a>
+<a name="vp1"></a>15:00||Apertura lavori pomeridiani: Assegnazione Big Brother Awards Italia 2018
+<a name="vp2"></a>15:00|25|<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#pietrosanti">Fabio Pietrosanti (HERMES Center)</a>
+<a name="vp1"></a>15:25||Sessione GDPR
 <a name="vp3"></a>15:25|20|<a href='/e-privacy-XXIII-interventi.html#zugnaz'>Singolarità o privacy disruption?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a>
 <a name="vp4"></a>15:45|20|<a href='/e-privacy-XXIII-interventi.html#premoli'>Privacy assediata: come difendere le proprie comunicazioni via Posta Elettronica</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#premoli">Roberto Premoli (IOTHAT)</a>
 <a name="vp5"></a>16:05|20|<a href='/e-privacy-XXIII-interventi.html#dolcetti'>Data ownership: cosa cambia se ognuno di noi può guadagnare attraverso i propri dati</a>|<a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> e <a href="/e-privacy-XXIII-relatori.html#trovato">Carmine Andrea  Trovato (DPOInnovation)</a>
@@ -97,7 +98,7 @@ gestire meglio la logistica dell'evento.
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
-<a name="sm1"></a>9:30|05|Apertura lavori mattutina
+<a name="sm1"></a>9:30|05|Apertura lavori della mattina
 <a name="sm2"></a>9:35|20|<a href='/e-privacy-XXIII-interventi.html#filippini'>Diritti digitali</a>|<a href="/e-privacy-XXIII-relatori.html#filippini">Nicola Filippini </a>
 <a name="sm3"></a>9:55|20|<a href='/e-privacy-XXIII-interventi.html#shakhmirza'>Privacy And Counter-Terrorism Measures: Real Fight Against Terrorism Or Citizen Right Violation In Modern Russia?</a>|<a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a>
 <a name="sm4"></a>10:15|20|<a href='/e-privacy-XXIII-interventi.html#coluccini'>Tutta l'intelligenza (artificiale) nelle mani della polizia</a>|<a href="/e-privacy-XXIII-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a>
@@ -120,7 +121,7 @@ gestire meglio la logistica dell'evento.
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | ---- | ------- | ------- 
-<a name="sp1"></a>15:00||Apertura lavori pomeridiani: privacy
+<a name="sp1"></a>15:00||Apertura lavori pomeridiani: Sessione Privacy
 <a name="sp2"></a>15:00|20|<a href='/e-privacy-XXIII-interventi.html#vicarelli'>GDPR e sicurezza informatica: è vero che sono in antitesi?</a>|<a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a>
 <a name="sp3"></a>15:20|20|<a href='/e-privacy-XXIII-interventi.html#bozza'>DPIbon - "dual use is megl che uan"</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a>
 <a name="sp4"></a>15:40|20|<a href='/e-privacy-XXIII-interventi.html#gallese'>Privacy e internet of things: quali sono i rischi?</a>|<a href="/e-privacy-XXIII-relatori.html#gallese">Chiara Gallese (Studio Legale Gallese)</a>

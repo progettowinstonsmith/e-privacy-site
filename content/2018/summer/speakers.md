@@ -50,6 +50,29 @@ pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
 Internet wealth".
 
 
+### <a name="pietrosanti"></a>Fabio Pietrosanti (HERMES Center)
+
+Fabio Pietrosanti frequenta, con il soprannome “naif” l’underground
+digitale italiano dal 1995 e si occupa professionalmente di digital
+security dal 1998. Presidente e co-fondatore del Centro Hermes per la
+Trasparenza e i Diritti Umani Digitali, è attivo in diversi progetti
+per la diffusione di consapevolezza, strumenti e tecnologie a supporto
+della libertà di espressione e della trasparenza. Membro di
+Transparency International Italia, gestore di nodi di anonimato Tor e
+di pubblicazione anonima Tor2web, è fra i fondatori del progetto di
+Whistleblowing GlobaLeaks, oggi in uso tanto nel mondo del
+giornalismo, dell’attivismo quanto nella pubblica amministrazione con
+finalità di contrasto della corruzione. Si occupa di innovazione
+tecnologica, progettazione software nell’ambito del whistleblowing,
+della tutela della riservatezza delle informazioni e dell’anonimato
+digitale. Veterano del mondo dell’hacking e del software libero, ha
+partecipato a progetti e community quali sikurezza.org, s0ftpj,
+Progetto Winston Smith, Metro Olografix. Professionalmente ha avuto
+esperienze come network security manager, senior security advisor,
+imprenditore e CTO di una startup impegnata nello sviluppo di sistemi
+di cifratura delle telefonate cellulari.
+
+
 #### <a name="abeti"></a> Riccardo Abeti (Unione Avvocati Europei) <a href="/e-privacy-XXIII-programma.html#vm9">⇧</a>
 
 
