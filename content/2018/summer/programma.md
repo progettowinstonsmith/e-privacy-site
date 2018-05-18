@@ -40,6 +40,10 @@ informative ci obbligano a ripensare il concetto di privacy._
 **Durante il convegno avrà luogo la cerimonia di assegnazione dei 
 <a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards Italia 2018</a>, a cura del Centro HERMES.**
 
+![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
+ "Logo Big Brother Awards")
+
+
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è
