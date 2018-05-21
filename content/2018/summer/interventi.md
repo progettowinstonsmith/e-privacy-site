@@ -329,10 +329,7 @@ L’intervento si propone di analizzare i concetti di “consenso” e “traspa
 #### <a name="carletti"></a> How To Be Anonymous Online To Protect Privacy <a href="/e-privacy-XXIII-programma.html#sp6">⇧</a>
 **<a href="e-privacy-XXIII-relatori.html#carletti"><a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a></a>**  
 
-Vorrei trattare un talk sugli strumenti opensource e free per avere privacy durante la navigazione web quali vpn, tor, email sicure,ecc talk orientato alla divulgazione per i non tecnici per suggerire strumenti per aumentare la privacy elencando servizi free e strumenti e progetti open per la navigazione, invio di email posta-elettronica crittografata. I servizi e programmi trattati sono multipiattaforma quindi anche per android.
-
-Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative per conto di Carabinieri e Polizia Postale. Oltre alla Sicurezza Informatica si occupa anche di Digital Forensics.
-
+Il diritto alla riservatezza della vita privata di ogni persona è oggi giorno un tema sempre più sentito, specie dopo i fatti storici di Snowden, il progetto prism e lo scandalo di FaceBook Analytica. Verranno trattati tutti gli aspetti dell'operabilità vpn,deepweb,secure messaging, filesharing e internet alternativi come gnunet e freenet. Il talk si propone di fare una panoramica di strumenti opensource e free multipiattaforma per ottenere privacy e anonimato nel mondo del WEB. 
 
 
 #### <a name="ronca"></a> Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti <a href="/e-privacy-XXIII-programma.html#sp7">⇧</a>
