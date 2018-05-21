@@ -1,5 +1,5 @@
 Title: FAQ per i relatori
-Date: 2016-05-02 10:20
+Date: 2018-05-21 10:20
 Category: 2018
 lang: it
 Num: XXIII
