@@ -29,7 +29,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 4 Giugno, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il <del>25 Maggio</del> 4 Giugno, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -49,7 +49,7 @@ Per sintetizzare quello che è scritto più estesamente dopo:
   coperto da altri).](#ritardo)
 
 - [per ogni contrattempo è possibile rivolgerti (via SMS o Whatsapp) ai
-referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
+referenti dei relatori.](#contrattempidurante)
 
 
 # <a name="proiezione"></a>Posso proiettare delle slides?
@@ -57,7 +57,7 @@ referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 Certamente! 
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il 4 Giugno** in formato PDF obbligatoriamente (se consegnate anche
+il  <del>25 Maggio</del> 4 Giugno** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
@@ -168,7 +168,7 @@ Ore 11.00 |  Casagrande, Fabiano, Abeti, Ciurcina, Gobbato
 Ore 15.00 |  Pietrosanti, Zugnaz, Premoli, Dolcetti
 Ore 16.00 |  Ricci, Senor, Blengino, Gallus, Sarzana
 
-Sabato 24:
+Sabato 9:
 
 Blocco | Relatori
 ---- | ----
