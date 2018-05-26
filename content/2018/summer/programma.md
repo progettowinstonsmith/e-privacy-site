@@ -137,7 +137,7 @@ gestire meglio la logistica dell'evento.
 <a name="sp5"></a>16:00|20|<a href='/e-privacy-XXIII-interventi.html#cerno'>Consenso e trasparenza</a>|<a href="/e-privacy-XXIII-relatori.html#cerno">Italo Cerno (ITLawFirm)</a>
 <a name="sp6"></a>16:20|20|<a href='/e-privacy-XXIII-interventi.html#carletti'>How To Be Anonymous Online To Protect Privacy</a>|<a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>
 <a name="sp7"></a>16:40|20|<a href='/e-privacy-XXIII-interventi.html#ronca'>Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#ronca">Antonio Ronca (INDIRE)</a>
-<a name="sp8"></a>17:00|10|<a href='/e-privacy-XXIII-interventi.html#sostenibilita>Manifesto per la sostenibilità digitale in Sud Tirolo.</a>|<a href="/e-privacy-XXIII-relatori.html#sostenibilita">Markus Egger, Anton Auer</a>
+<a name="sp8"></a>17:00|10|<a href='/e-privacy-XXIII-interventi.html#sostenibilita'>Manifesto per la sostenibilità digitale in Sud Tirolo.</a>|<a href="/e-privacy-XXIII-relatori.html#sostenibilita">Markus Egger, Anton Auer</a>
 <a name="sp8"></a>17:10||Chiusura Lavori
 
   
