@@ -175,7 +175,7 @@ Blocco | Relatori
 Ore 09.00 |  Filippini, Shakhmirza, Coluccini, Ferri, Marmo
 Ore 11.00 |  Seno, Radd, Gabriele, Vacca, Resci, Scrofani
 Ore 15.00 |  Vicarelli, Bozza, Gallese
-Ore 16.00 |  Cerno, Carletti, Ronca
+Ore 16.00 |  Cerno, Carletti, Ronca, Auer
 
 
 

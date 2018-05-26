@@ -405,8 +405,10 @@ Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente si occupa 
 
 Ad e-privacy XXIII presenta <b><a href="e-privacy-XXIII-interventi.html#zugnaz">Singolarità o privacy disruption?</a></b> alle <a href="/e-privacy-XXIII-programma.html#vp3">15:25 di Venerdì</a>.
 
+### <a name="sostenibilita"></a>Manifesto per la sostenibilità digitale in Sud Tirolo (Markus Egger, Paolo Dongilli, Anton Auer) <a href="/e-privacy-XXIII-programma.html#sp8">⇧</a>
 
-
-
-
+I due relatori hanno le loro radici nelle esperienze pre-internet (
+fidonet - apc/association for progressive communications) e
+nell´avanzamento della digitalizzazione nella pubblica amministrazione
+della provincia autonoma di Bolzano
 

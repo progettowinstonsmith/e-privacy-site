@@ -347,3 +347,28 @@ Anche in questa atmosfera cupa, il BBA rimane una iniziativa seria ma realizzata
 
 
 
+### <a name="sostenibilita"></a>Manifesto per la sostenibilità digitale in Sud Tirolo 
+**<a href="/e-privacy-XXIII-relatori.html#sostenibilità">Markus Egger, Paolo Dongilli, Anton Auer</a>**  
+
+Il gruppo sostenibilità digitale è stato costituito nel 2016 da un
+gruppo di attivisti sudtirolesi con l’ obiettivo di difondere una
+nuova cultura del digitale che si focalizza sui seguenti punti:
+
+* uno sviluppo digitale-economico che salvaguarda l’ambiente e i beni liberi per le generazioni future
+
+* uno sviluppo digitale-sociale che salvaguarda la dignità personale e il rispetto per le persone
+
+* uno sviluppo digitale-personale che concilia la velocità del digitale con la velocità biologica umana
+
+Il gruppo ha formulato nel 2016 un primo manifesto che riassume i
+tratti distintivi e gli obiettivi della sostenibilità
+digitale. Attualmente sono in corso approfondimenti riguardo alle
+tematiche del manifesto. Ulteriori informazioni si trovano sul blog:
+https://openbz.eu/?p=502&lang=it
+
+Il gruppo viene coordinato da Anton Auer e Markus Egger con gentile
+supporto di Paolo Dongilli, Matthias Wallnöfer e Andrea Congiu.
+
+
+
+

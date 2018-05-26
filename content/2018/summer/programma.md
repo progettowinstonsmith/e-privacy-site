@@ -115,7 +115,7 @@ gestire meglio la logistica dell'evento.
 <a name="sm6"></a>10:55|20|<a href='/e-privacy-XXIII-interventi.html#marmo'>Riconoscimento oggetti e volti nelle immagini dei social media</a>|<a href="/e-privacy-XXIII-relatori.html#marmo">Roberto Marmo (Università di Pavia)</a>
 <a name="sm7"></a>11:15|20|<a href='/e-privacy-XXIII-interventi.html#seno'>Catalunya, un corto circuito democratico nell'era dei Big Data</a>|<a href="/e-privacy-XXIII-relatori.html#seno">Giulia Seno (Giornalista)</a>
 <a name="sm8"></a>11:35|20|<a href='/e-privacy-XXIII-interventi.html#radd'>Lo shutdown di Internet in Catalogna</a>|<a href="/e-privacy-XXIII-relatori.html#radd">Norrin Radd (Attivista informatico Catalano)</a>
-<a name="sm9"></a>11:55|20|<a href='/e-privacy-XXIII-interventi.html#pazzaglia'>Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico.</a>|<a href="/e-privacy-XXIII-relatori.html#pazzaglia">Aldo Antonio Pazzaglia (Consulta delle Regioni per gli Stati Uniti d'Europa)</a>
+<a name="sm9"></a>11:55|20|<a href='/e-privacy-XXIII-interventi.html#pazzaglia'>Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico.</a>|<a href="/e-privacy-XXIII-relatori.html#somma">Comitato per i Requisiti del Voto in Democrazia</a>
 <a name="sm10"></a>12:15|30|<a href='/e-privacy-XXIII-interventi.html#gabriele'>La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a>|<a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Vacca Manuela </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Giorgio Resci </a>
 <a name="sm11"></a>12:45|15|<a href='/e-privacy-XXIII-interventi.html#scrofani'>Il ragazzo che giocava con gli Ufo</a>|<a href="/e-privacy-XXIII-relatori.html#scrofani">Giovanni Scrofani </a>
 <a name="sm12"></a>13:00|1:00|Tavola Rotonda: [_Democrazia digitale diretta_](e-privacy-XXIII-interventi.html#tavola3)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipa: 
@@ -137,7 +137,8 @@ gestire meglio la logistica dell'evento.
 <a name="sp5"></a>16:00|20|<a href='/e-privacy-XXIII-interventi.html#cerno'>Consenso e trasparenza</a>|<a href="/e-privacy-XXIII-relatori.html#cerno">Italo Cerno (ITLawFirm)</a>
 <a name="sp6"></a>16:20|20|<a href='/e-privacy-XXIII-interventi.html#carletti'>How To Be Anonymous Online To Protect Privacy</a>|<a href="/e-privacy-XXIII-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>
 <a name="sp7"></a>16:40|20|<a href='/e-privacy-XXIII-interventi.html#ronca'>Il sistema GPU, ricerca di equilibrio fra miglioramento dell’efficienza tramite l’analisi dei dati e rispetto della privacy dei singoli utenti</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#ronca">Antonio Ronca (INDIRE)</a>
-<a name="sp8"></a>17:00||Chiusura Lavori
+<a name="sp8"></a>17:00|10|<a href='/e-privacy-XXIII-interventi.html#sostenibilita>Manifesto per la sostenibilità digitale in Sud Tirolo.</a>|<a href="/e-privacy-XXIII-relatori.html#sostenibilita">Markus Egger, Anton Auer</a>
+<a name="sp8"></a>17:10||Chiusura Lavori
 
   
 
