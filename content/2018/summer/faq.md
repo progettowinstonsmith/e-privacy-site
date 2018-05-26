@@ -66,7 +66,7 @@ normale navigazione Web (entro limiti ragionevoli).
 In alternativa sarà possibile collegare un computer personale al
 proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto). 
 
-Il proiettore ha un connettore VGA e una risoluzione di 640x480.
+<!-- Il proiettore ha un connettore VGA e una risoluzione di 640x480. -->
 
 Sarà disponibile una rete WiFi, ma non è garantito che funzioni.
 
