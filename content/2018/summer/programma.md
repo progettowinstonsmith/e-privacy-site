@@ -65,7 +65,7 @@ gestire meglio la logistica dell'evento.
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
 <a name="vm1"></a>9:30|15|Apertura lavori: **"Singolarità"** Marco Calamari
-<a name="vm2"></a>9:45|15|Saluti istituzionali
+<a name="vm2"></a>9:45|15|Saluti istituzionali e note introduttive | Daniele Donati (CDA - Istituzione Biblioteche Comune di Bologna)
 <a name="vm3"></a>10:00|20|<a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
 <a name="vm4"></a>10:20|20|<a href='/e-privacy-XXIII-interventi.html#tramaci'>E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a>
 <a name="vm5"></a>10:40|20|<a href='/e-privacy-XXIII-interventi.html#vieri'>AI contro?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>
