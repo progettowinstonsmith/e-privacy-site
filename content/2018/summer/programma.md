@@ -62,7 +62,7 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="vem"></a>Venerdì 8 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari)
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
   ------- | --- | ------- | ------- 
@@ -127,7 +127,7 @@ gestire meglio la logistica dell'evento.
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - pomeriggio
 
-* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari)
+* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
 
 
   **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
