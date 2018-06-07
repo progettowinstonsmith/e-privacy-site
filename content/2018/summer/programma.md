@@ -156,7 +156,9 @@ La sede di e-privacy 2018 summer edition sarà la
 
 
 La manifestazione e’ organizzata da:
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla 
+
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy
+
  - [HERMES](http://hermescenter.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 privacy in Rete e fuori
 
