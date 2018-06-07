@@ -18,7 +18,7 @@ Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
 Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt,ihc
-Patrocini: combologna,combologna-cb
+Patrocini: combologna,combologna-cb,ogem
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
