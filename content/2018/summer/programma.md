@@ -37,8 +37,10 @@ informative ci obbligano a ripensare il concetto di privacy._
 
 ### Big Brother Awards
 
-**Durante il convegno avrà luogo la cerimonia di assegnazione dei 
+**Oggi, durante il convegno, avrà luogo la cerimonia di assegnazione dei 
 <a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>, a cura del [Centro HERMES](https://www.hermescenter.org/). **
+
+**Sul sito sono pubblicati l'elenco dei vinctori e le motivazioni dei premi che verranno assegnati oggi.**
 
 <!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
