@@ -21,7 +21,7 @@ Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt,ihc
 Patrocini: combologna,combologna-cb,ogem
 MediaPartner: infomedia,radioradicale,aneddotica
 
-### Pubblicati gli atti del Convegno e-privacy 2018 XXIII - summer edition.
+### Pubblicati gli atti ed il video integrale del Convegno e-privacy 2018 XXIII - summer edition.
 
 L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna,
 nella
@@ -39,7 +39,9 @@ informative ci obbligano a ripensare il concetto di privacy._
 **Durante il convegno, si è svolta la cerimonia di assegnazione dei 
 <a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>, a cura del [Centro HERMES](https://www.hermescenter.org/). **
 
-**Sul sito sono pubblicati l'elenco dei vincitori e le motivazioni dei premi assegnati.**
+**Sul sito del BBA trovate l'elenco dei vincitori e le motivazioni dei premi assegnati.**
+
+**Grazie a [Radio Radicale](https://www.radioradicale.it/), ecco i video della [prima](https://www.radioradicale.it/scheda/543790/xxiii-edizione-di-e-privacy-2018-dal-tema-singolarita-come-liot-lai-le-fake-news-e-le) e della [seconda](https://www.radioradicale.it/scheda/543791/xxiii-edizione-di-e-privacy-2018-dal-tema-singolarita-come-liot-lai-le-fake-news-e-le) giornata.**
 
 <!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
