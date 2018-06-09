@@ -27,7 +27,7 @@ MediaPartner: infomedia,radioradicale,aneddotica
 L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna,
 nella
 [Biblioteca Salaborsa](https://it.wikipedia.org/wiki/Biblioteca_Salaborsa) -
-Palazzo d'Accursio, Piazza Nettuno 3 si svolgerà **e-privacy 2018
+Palazzo d'Accursio, Piazza Nettuno 3 si è svolta **e-privacy 2018
 _summer edition_**.
 
 Il tema guida della XXIII edizione di e-privacy è:
@@ -37,10 +37,10 @@ informative ci obbligano a ripensare il concetto di privacy._
 
 ### Big Brother Awards
 
-**Oggi, durante il convegno, avrà luogo la cerimonia di assegnazione dei 
+**Durante il convegno, si è svolta la cerimonia di assegnazione dei 
 <a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>, a cura del [Centro HERMES](https://www.hermescenter.org/). **
 
-**Sul sito sono pubblicati l'elenco dei vinctori e le motivazioni dei premi che verranno assegnati oggi.**
+**Sul sito sono pubblicati l'elenco dei vinctori e le motivazioni dei premi assegnati.**
 
 <!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
@@ -48,13 +48,14 @@ informative ci obbligano a ripensare il concetto di privacy._
  "Logo Big Brother Awards Italia 2018")
 
 
-###Iscrizioni
+<!-- ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è
 facoltativa. ** Iscrivendovi rimarrete informati e ci aiuterete a
 gestire meglio la logistica dell'evento.
 
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a></div>
+-->
 
 <!-- Registrati qui: <a href="https://www.eventbrite.it/e/biglietti-eprivacy-2017-summer-edition-parole-ostili-contro-la-rete-34692161188?ref=ebtn" target="_blank"><img src="https://www.eventbrite.it/custombutton?eid=34692161188" alt="Eventbrite - eprivacy 2017 - summer edition - Parole (ostili) contro la rete" /></a> -->
 
