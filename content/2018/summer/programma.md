@@ -30,7 +30,7 @@ nella
 Palazzo d'Accursio, Piazza Nettuno 3 si è svolta **e-privacy 2018
 _summer edition_**.
 
-Il tema guida della XXIII edizione di e-privacy è:
+Il tema guida di questa XXIII edizione di e-privacy è:
 
 **Singolarità** <br> _Come l'IoT, l'A.I., le fake news e le bolle
 informative ci obbligano a ripensare il concetto di privacy._
@@ -40,7 +40,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 **Durante il convegno, si è svolta la cerimonia di assegnazione dei 
 <a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>, a cura del [Centro HERMES](https://www.hermescenter.org/). **
 
-**Sul sito sono pubblicati l'elenco dei vinctori e le motivazioni dei premi assegnati.**
+**Sul sito sono pubblicati l'elenco dei vincitori e le motivazioni dei premi assegnati.**
 
 <!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
