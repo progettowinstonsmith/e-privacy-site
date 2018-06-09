@@ -37,7 +37,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 ### Big Brother Awards
 
 **Durante il convegno, si è svolta la cerimonia di assegnazione dei 
-<a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>, a cura del [Centro HERMES](https://www.hermescenter.org/). **
+<a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>,  a cura del [Centro HERMES](https://www.hermescenter.org/). **
 
 **Sul sito del BBA trovate l'elenco dei vincitori e le motivazioni dei premi assegnati.**
 
