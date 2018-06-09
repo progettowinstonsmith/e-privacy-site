@@ -21,7 +21,7 @@ Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt,ihc
 Patrocini: combologna,combologna-cb,ogem
 MediaPartner: infomedia,radioradicale,aneddotica
 
-### Pubblicati gli atti del Convegno e-privacy 2018 XIII - summer edition.
+### Pubblicati gli atti del Convegno e-privacy 2018 XXIII - summer edition.
 
 L' ** 8 e 9 giugno 2018 ** (venerdì e sabato) a Bologna,
 nella
