@@ -63,6 +63,15 @@ gestire meglio la logistica dell'evento.
 
 ### <a name="programma"></a>Programma del Convegno
 
+Legenda:
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF)
+![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![URL](/images/icon/link.png) | Link online |
+![pdf](/images/icon/handouts.png) | Handouts| ![mp3](/images/icon/audio.png) | Audio |
+![mp4](/images/icon/video.png) | Video
+
 #### <a name="vem"></a>Venerdì 8 Giugno 2018 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
@@ -71,7 +80,7 @@ gestire meglio la logistica dell'evento.
   ------- | --- | ------- | ------- 
 <a name="vm1"></a>9:30|15|Apertura lavori: **"Singolarità"** Marco Calamari
 <a name="vm2"></a>9:45|15|Saluti istituzionali e note introduttive | Daniele Donati (CDA - Istituzione Biblioteche Comune di Bologna)
-<a name="vm3"></a>10:00|20|<a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
+<a name="vm3"></a>10:00|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018se/atti/ep2018se_03_giorio_privacy_2118.pdf)  [![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2018se/atti/ep2018se_03_giorio_privacy_2118.pptx) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018se/video/ep2018se_03_giorio_privacy_2118.mp4) <a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
 <a name="vm4"></a>10:20|20|<a href='/e-privacy-XXIII-interventi.html#tramaci'>E adesso? Andiamo a teatro e divertiamoci con i giochi di ruolo!</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#tramaci">Epto Tramaci (Tramaci.org progetto Anopticon)</a>
 <a name="vm5"></a>10:40|20|<a href='/e-privacy-XXIII-interventi.html#vieri'>AI contro?</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>
 <a name="vp4"></a>11:00|20|Intervallo
@@ -175,10 +184,10 @@ stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
 per i relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
-Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
-disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org). 
+<!-- Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
+disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org). -->
 
-**Vi aspettiamo**.
+**Grazie per aver partecipato**.
 
 
 
