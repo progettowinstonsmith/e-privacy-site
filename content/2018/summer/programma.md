@@ -44,9 +44,6 @@ informative ci obbligano a ripensare il concetto di privacy._
 **Grazie a [Radio Radicale](https://www.radioradicale.it/), ecco i video integrali della [prima](https://www.radioradicale.it/scheda/543790/xxiii-edizione-di-e-privacy-2018-dal-tema-singolarita-come-liot-lai-le-fake-news-e-le) e della [seconda](https://www.radioradicale.it/scheda/543791/xxiii-edizione-di-e-privacy-2018-dal-tema-singolarita-come-liot-lai-le-fake-news-e-le) giornata.**
 
 **Sono anche disponibili i video separati di ogni singolo intervento.** <br>
-La qualità dell'audio non è perfetta.<br>
-Nei video integrali delle giornate ci sono dei piccoli intervalli muti, nei singoli interventi l'audio è invece sempre presente, anche se di qualità inferiore.<br>
-Scusateci, la prossima volta faremo ancora meglio!<br>
 
 <!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
