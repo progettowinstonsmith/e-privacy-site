@@ -24,7 +24,7 @@ AUTHOR = u'Winston Smith'
 SITENAME = u'e-privacy 2018 summer: Singolarità'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
-OLDSITE = 'http://e-privacy.winstonsmith.org'
+OLDSITE = 'https://e-privacy.winstonsmith.org'
 
 PATH = 'content'
 
@@ -103,7 +103,7 @@ PREVS = (
 
 # Social widget
 LINKS = (
-    ('Progetto Winston Smith', 'http://pws.winstonsmith.org/'),
+    ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
     ('Centro HERMES', 'http://logioshermes.org/'),
     #    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
 )

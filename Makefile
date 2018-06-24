@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=casellante.winstonsmith.info
+SSH_HOST=huxley.winstonsmith.info
 SSH_PORT=22
-SSH_USER=ampleforth
-SSH_TARGET_DIR=/var/www/e-privacy.winstonsmith.info/
+SSH_USER=ws
+SSH_TARGET_DIR=/home/sites/e-privacy.winstonsmith.org/site/
 
 S3_BUCKET=my_s3_bucket
 
@@ -94,13 +94,13 @@ ssh_upload: publish
 
 upload: publish	
 	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali
+	# ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali
 
 
 rsync_upload: publish 
 	rsync -e "ssh  -Y -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali"
-#	ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf 2015.html $(SSH_TARGET_DIR)/2015"
+	# ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali"
+	# ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf 2015.html $(SSH_TARGET_DIR)/2015"
 	git pull && git commit -a -m step && git push || echo ole
 
 # --usermap=ampleforth:www-data --groupmap=ampleforth:www-data
