@@ -1,10 +1,10 @@
 Status: draft
 Template: event
 Date: 2017-07-07 10:20
-Category: 2017
+Category: 2018
 lang: it
-Num: XXII
-Year: 2017
+Num: XXIV
+Year: 2018
 City: Venezia
 Where: Corte d'Assise<br/>Tribunale di Rialto
 When: 13-14 Ottobre
@@ -18,7 +18,7 @@ XSponsor: grusp,sikurezza.org,ush,puntoi
 XPatrocini: comlucca
 XMediaPartner: infomedia,radioradicale
 Title: Come arrivare ad eprivacy
-slug: e-privacy-XXII-come-arrivare
+slug: e-privacy-XXIV-come-arrivare
 
 Sede di svolgimento:
 
