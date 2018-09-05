@@ -129,7 +129,7 @@ Le proposte dovranno contenere:
 
 
 __Le proposte di intervento devono essere presentate esclusivamente utilizzando il
-form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXIV-proposta.html)__
+form disponibile in questa  [pagina](https://docs.google.com/forms/d/e/1FAIpQLSd6_7uV7nr9HXiL-R7jG9V8qXZvbDH2CJq0ci42pLj-9nSrSw/viewform)__
 
 Le proposte dovranno pervenire al comitato scientifico entro il termine ultimo
 del 30 settembre 2018.
