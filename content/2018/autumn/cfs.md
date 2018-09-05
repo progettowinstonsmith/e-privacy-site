@@ -1,12 +1,12 @@
 XStatus: draft
-Template: event
 Title: Call for Sponsors
+slug: e-privacy-XXIV-cfs
+Template: event
 Date: 2017-07-07 10:10
 Category: 2018
 lang: it
 Num: XXIV
 Year: 2018
-slug: e-privacy-XXIV-cfs
 City: Torino
 Where: Campus Einaudi<br/>Torino
 When: 9 - 10 Novembre
@@ -14,9 +14,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2018
 prev: e-privacy-XXIII
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
 Collaboratori: bba
-XSponsor: grusp,sikurezza.org,ush,puntoi
 XPatrocini: comlucca
 MediaPartner: infomedia,radioradicale
 

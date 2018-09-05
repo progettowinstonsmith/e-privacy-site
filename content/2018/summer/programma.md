@@ -5,7 +5,7 @@ Category: 2018
 lang: it
 Num: XXIII
 Year: 2018
-slug: e-privacy-XXIII-programma
+slug: e-privacy-XXIII
 City: Bologna
 Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
 When: 8-9 Giugno

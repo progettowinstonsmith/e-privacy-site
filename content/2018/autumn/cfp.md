@@ -1,12 +1,12 @@
 XStatus: draft
-Template: event
+slug: e-privacy-XXIV-cfp
 Title: GDPR vs. Tecnologie Emergenti
+Template: event
 Date: 2018-09-03 10:20
 Category: 2018
 lang: it
 Num: XXIV
 Year: 2018
-slug: e-privacy-XXIV-cfp
 City: Torino
 Where: Campus Einaudi<br/>Torino
 When: 9 - 10 Novembre
@@ -28,14 +28,14 @@ Il Progetto Winston Smith e l’Hermes Center for Transparency and
 Digital Human Rights sono lieti di invitarti come relatore
 all’edizione autunnale di e-privacy, che si terrà il
 9 e 10 novembre 2018 (venerdì e sabato) presso il Campus Einaudi
-dell'Universita' di Torino.
+dell'Università di Torino.
 
 Il tema guida della XXIV edizione di e-privacy è:
 
 
 **GDPR vs. Tecnologie Emergenti**
 
-_Il GDPR sara' in grado di proteggere i diritti digitali dei cittadini europei
+_Il GDPR sarà in grado di proteggere i diritti digitali dei cittadini europei
 da tecnologie come il sequencing del DNA, l'Internet delle Cose e l'Intelligenza
 Artificiale?._
 
@@ -43,16 +43,16 @@ Artificiale?._
 ##Call for Papers
 
 Il GDPR, nel campo dei diritti digitali, ha ottenuto risultati solo
-apparentemente secondari, ma in realta' impensabili fino a pochi mesi fa.
+apparentemente secondari, ma in realtà impensabili fino a pochi mesi fa.
 
 Ha obbligato i big player come Google e facebook a "liberare" i dati personali
 degli utenti, permettendo ad essi di estrarne copia per tornarne (o meglio
 venirne per la prima volta) in possesso, come pure a ridurre e rendere esplicito
 l'uso dei cookie. 
-Per aziende che vivono di dati personali questo e' davvero un comportamento
+Per aziende che vivono di dati personali questo è davvero un comportamento
 "contro natura". Potenza del GDPR!
 
-Ma sfide ben piu' grandi sono sul tappeto; i fenomeni discussi nella scorsa
+Ma sfide ben più grandi sono sul tappeto; i fenomeni discussi nella scorsa
 edizione di e-privacy si stanno aggravando.
 
 L'Internet delle Cose, l'Intelligenza Artificiale, i Big Data ed il sequencing
@@ -61,19 +61,19 @@ iniziato ad invadere anche quella "analogica".
 
 Google Home, Alexa, Siri e Cortana ci ascoltano, memorizzzando le nostre azioni
 ed i nostri comportamenti, mentre le loro I.A. deducono le nostre abitudini, la
-nostra personalita' e le nostre inclinazioni.
+nostra personalità e le nostre inclinazioni.
 
 Le sequenze di nostri DNA vengono lette, memorizzate e modificate con tecniche
-quali Crispr/Cas9, e, grazie alla cosiddetta "proprieta' intellettuale",
-divengono proprieta' privata di altri. 
+quali Crispr/Cas9, e, grazie alla cosiddetta "proprietà intellettuale",
+divengono proprietà privata di altri. 
 
 I fronti sui quali il cittadino europeo deve essere protetto sono tanti, 
 mentre,nel panorama nazionale ed europeo, l'unica legge che ha davvero
-spaventato e fatto cambiare alcuni abitudini ai big data player e' stato il
+spaventato e fatto cambiare alcuni abitudini ai big data player è stato il
 GDPR.
 
-Quanto potra' essere efficace il GDPR per proteggere i cittadini europei dalle
-tecnologie emergenti, e quanto dovra' essere esteso e modificato per riuscirvi? 
+Quanto potrà essere efficace il GDPR per proteggere i cittadini europei dalle
+tecnologie emergenti, e quanto dovrà essere esteso e modificato per riuscirvi? 
 
 Quanto peseranno gli indirizzi di altri Stati extra UE, a cominciare dagli Stati
 Uniti?

@@ -1,12 +1,12 @@
 XStatus: draft
-Template: event
+slug: e-privacy-XXIV-proposta
 Title: Proposta Talk
+Template: event
 Date: 2017-07-07 10:20
 Category: 2018W
 lang: it
 Num: XXIV
 Year: 2018
-slug: e-privacy-XXIV-proposta
 City: Venezia
 Where: Campus Einaudi<br/>Torino
 When: 9 - 10 Novembre
