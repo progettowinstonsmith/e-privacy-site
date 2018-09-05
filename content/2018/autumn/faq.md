@@ -1,19 +1,20 @@
+XStatus: draft
 Category: 2018
-City: Venezia
+City: Torino
 Collaboratori: bba
 Date: 2017-07-07 10:20
 Num: XXIV
 Season: autunno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Status: draft
 Template: event
 Title: FAQ per i relatori
-When: 13-14 Ottobre
-Where: Corte d'Assise<br/>Tribunale di Rialto
+City: Torino
+Where: Campus Einaudi <br> Torino
+When: 9 - 10 Novembre
 Year: 2018
 lang: it
-prev: e-privacy-XXII
-previd: 2017
+prev: e-privacy-XXIII
+previd: 2018
 slug: e-privacy-XXIV-faq-relatori
 
 **Questa FAQ è dedicata ai relatori di eprivacy. Grazie di essere tra noi.**

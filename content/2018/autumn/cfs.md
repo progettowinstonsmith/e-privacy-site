@@ -1,12 +1,12 @@
-Status: draft
+XStatus: draft
 Template: event
 Title: Call for Sponsors
 Date: 2017-07-07 10:10
-Category: 2017
+Category: 2018
 lang: it
-Num: XXII
-Year: 2017
-slug: e-privacy-XXII-cfs
+Num: XXIV
+Year: 2018
+slug: e-privacy-XXIV-cfs
 City: Venezia
 Where: Corte d'Assise<br/>Tribunale di Rialto
 When: 13-14 Ottobre
