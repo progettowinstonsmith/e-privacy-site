@@ -8,8 +8,7 @@ Season: autunno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Template: event
 Title: FAQ per i relatori
-City: Torino
-Where: Campus Einaudi <br> Torino
+Where: Campus Einaudi<br/>Torino
 When: 9 - 10 Novembre
 Year: 2018
 lang: it

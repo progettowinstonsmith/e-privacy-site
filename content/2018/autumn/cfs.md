@@ -7,20 +7,20 @@ lang: it
 Num: XXIV
 Year: 2018
 slug: e-privacy-XXIV-cfs
-City: Venezia
-Where: Corte d'Assise<br/>Tribunale di Rialto
-When: 13-14 Ottobre
+City: Torino
+Where: Campus Einaudi<br/>Torino
+When: 9 - 10 Novembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
-previd: 2017
-prev: e-privacy-XXI
+previd: 2018
+prev: e-privacy-XXIII
 Organizzatori: hermes,pws
 Collaboratori: bba
 XSponsor: grusp,sikurezza.org,ush,puntoi
 XPatrocini: comlucca
 MediaPartner: infomedia,radioradicale
 
-### Aperto il Call for Sponsorship di e-privacy 2017 autumn edition
+### Aperto il Call for Sponsorship di e-privacy 2018 autumn edition
 
 Dal 2002 e-privacy rappresenta una occasione unica in Italia per
 dicutere e confrontarsi sul tema di un mondo sempre più digitale ed
