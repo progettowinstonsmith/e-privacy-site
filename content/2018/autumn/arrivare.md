@@ -1,4 +1,4 @@
-Status: draft
+XStatus: draft
 Template: event
 Date: 2017-07-07 10:20
 Category: 2018
@@ -20,38 +20,35 @@ XMediaPartner: infomedia,radioradicale
 Title: Come arrivare ad eprivacy
 slug: e-privacy-XXIV-come-arrivare
 
-Sede di svolgimento:
+##Sede di svolgimento:
+
+La “Sala del Carroccio” si trova in piazza del Campidoglio nel Palazzo Senatorio (il palazzo
+del Sindaco).
 
 
-La sede di e-privacy 2017 autumn edition sarà l'Aula d'Assise del
-Tribunale di Rialto a Venezia.
+Per chi arriva in taxi, può farsi portare fino a Via San Pietro in
+Carcere e da li salire al Campidoglio, una volta arrivati in cima si
+arriva direttamente alle scale per la sala.
 
-Il Tribunale di Venezia ha sede in Sestiere San Polo 119, come illustrato nella mappa sottostante:
-
-Piazzale Roma è il punto di interscambio tra mezzi su gomma (autovetture e autobus) e mezzi acquei. 
-Il Tribunale, Sede di Rialto, è raggiungibile da Piazzale Roma con il vaporetto linea 1) fermata "Mercato" oppure con la linea 2) fermata "Rialto".
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d5599.016086072196!2d12.32375632567711!3d45.439417494445834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x477eb1c7511cd1f1%3A0xfc7c01f280ca9309!2sStazione+di+Venezia+Santa+Lucia%2C+30100+Venezia+VE%2C+Italy!3m2!1d45.4410697!2d12.3210436!4m5!1s0x477eb1db9fa9d6bf%3A0x714fe84e1b5dbb7e!2sTribunale+Ordinario+di+Venezia%2C+Ruga+dei+Oresi%2C+120%2C+30125+Venezia+VE%2C+Italy!3m2!1d45.4388852!2d12.3352238!5e0!3m2!1sen!2sus!4v1504217277540" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
-<!--
-<h2>Servizi Pubblici</h2>
-
-<p><strong>Informazioni turistiche:<br /></strong>Per informazioni e prenotazioni &egrave; attivo il servizio online dell'<strong><a href="http://www.luccatourist.it/" target="_blank" title="APT Lucca">Agenzia di Promozione Turistica</a></strong>.</p>
-
-<p><strong>Parcheggi a Lucca:</strong><br />Sia in prossimit&agrave; del centro storico, sia in alcune zone interne alle mura, &egrave; possibile trovare un'offerta pressoch&eacute; infinita di possibilit&agrave; per lasciare la propria auto.<br />I camper hanno accesso all'area comunale di viale Luporini e all'area privata <strong><a href="http://www.camperilserchio.it" target="_blank" title="Area Camper Il Serchio">Il Serchio</a></strong>.<br /><em>Per una mappa completa dei parcheggi &egrave; possibile consultare il sito di <strong><a href="http://www.metrosrl.it/" target="_blank" title="Parcheggi a Lucca - ">Metro</a></strong>.</em></p>
-
-<p><strong>Trasporto pubblico lucchese:</strong><br />I parcheggi e l'immediata periferia sono collegati tramite navetta, il resto della Provincia &egrave; collegato con servizio bus. In particolare, la zona del Real Collegio &egrave; servita dalle navette 1 e 2.<br /><em>per informazioni su linee, orari e percorsi consultare il sito di <strong><a href="http://www.vaibus.it/" target="_blank" title="Trasporto pubblico lucchese">Vaibus</a></strong>.</em><br /><br /><strong>Treni:</strong><br />La stazione di Lucca &egrave; a 20 minuti di passeggiata dal Real Collegio, per consultare l'orario dei treni &egrave; disponibile il sito di <strong><a href="http://www.trenitalia.com/" target="_blank" title="Ferrovie dello Stato">Trenitalia</a></strong><br /><br /><strong>Autostrade:</strong><br />I caselli di Lucca Est e Lucca Ovest sono prossimi al centro storico. Tariffe e itinerari sul sito di <strong><a href="http://www.autostrade.it/" target="_blank" title="Autostrade per l'Italia">Autostrade per l'Italia</a></strong>.<br /><br /><strong>Aeroporti:</strong><br />Il piccolo <strong><a href="http://www.aeroportoluccatassignano.it/" target="_blank" title="Aeroporto di Lucca-Tassignano">aeroporto di Tassignano</a></strong>, attrezzato per voli turistici, si trova a 20 minuti di automobile dalla citt&agrave;. Gli scali internazionali di <strong><a href="http://www.pisa-airport.com/" target="_blank" title="Aeroporto Galilei di Pisa">Pisa</a></strong> e <strong><a href="http://www.aeroporto.firenze.it/IT/index.php" target="_blank" title="Aeroporto di Firenze">Firenze</a></strong> sono ben collegati via bus e treno.</p>
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.986878568344!2d12.480257715441574!3d41.893139279220996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f604c9b68c939%3A0xa560a5d14750a8e3!2sSala+Del+Carroccio!5e0!3m2!1sit!2sit!4v1473830966297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # In autobus
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d10146.679156239647!2d10.496938182041198!3d43.84255654216743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e3!4m5!1s0x12d5847526c1d879%3A0x89fe55018409175e!2sStazione+di+Lucca%2C+Viale+Camillo+Benso+Cavour%2C+Lucca%2C+LU%2C+Italia!3m2!1d43.8374125!2d10.5061477!4m3!3m2!1d43.846565!2d10.503905!5e1!3m2!1sit!2sus!4v1495386742773" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+Per chi arriva alla stazione Termini, prende l’autobus dall’antistante Piazza dei
+Cinquecento:
+
+- Linea 170 Linea 170 Linea 170 – Scendere alla fermata “Teatro Marcello”
+- Linea 85 Linea 85 Linea 85 – Scendere alla fermata “Piazza Venezia”
+
+in entrambi i casi proseguire a piedi e salire la scalinata del Campidoglio. In cima si
+giungerà di fronte al Palazzo Senatorio, le scale per salire alla sala sono a lato sulla
+sinistra. Le scale sono strette e contraddistinte da una colonna con una lupa in cima.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11878.391281538907!2d12.482450528135717!3d41.90150568841525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x132f61a439c0ffef%3A0xa4307dbef261a994!2sStazione+Termini%2C+Piazza+dei+Cinquecento%2C+Roma%2C+RM!3m2!1d41.9009273!2d12.5022603!4m5!1s0x132f604c9b68c939%3A0xa560a5d14750a8e3!2sSala+Del+Carroccio%2C+Piazza+del+Campidoglio%2C+00186+Roma!3m2!1d41.8931393!2d12.482446399999999!5e0!3m2!1sit!2sit!4v1473831119738" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 # A piedi
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d5073.39125093735!2d10.499577825452299!3d43.84194890468592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x12d5847526c1d879%3A0x89fe55018409175e!2sStazione+di+Lucca%2C+Viale+Camillo+Benso+Cavour%2C+Lucca%2C+LU%2C+Italia!3m2!1d43.8374125!2d10.5061477!4m3!3m2!1d43.846565!2d10.503905!5e1!3m2!1sit!2sus!4v1495386682733" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11878.91209008647!2d12.483598578134098!3d41.898705939119075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x132f61a439c0ffef%3A0xa4307dbef261a994!2sStazione+Termini%2C+Piazza+dei+Cinquecento%2C+Roma%2C+RM!3m2!1d41.9009273!2d12.5022603!4m5!1s0x132f604c9b68c939%3A0xa560a5d14750a8e3!2sSala+Del+Carroccio%2C+Piazza+del+Campidoglio%2C+00186+Roma!3m2!1d41.8931393!2d12.482446399999999!5e0!3m2!1sit!2sit!4v1473831168345" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
--->
+
