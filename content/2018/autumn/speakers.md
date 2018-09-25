@@ -7,9 +7,9 @@ lang: it
 Num: XXIV
 Year: 2018
 slug: e-privacy-XXIV-relatori
-City: Torino
-Where: Campus Einaudi<br/>Università di Torino
-When: 9-10 novembre
+City: Roma
+Where: Campidoglio<br/>Roma
+When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autumn
 previd: 2018

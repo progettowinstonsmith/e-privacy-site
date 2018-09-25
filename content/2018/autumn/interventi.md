@@ -1,19 +1,19 @@
 Status: draft
 Template: event
-Title: I dati perduti — Processo al Cloud
+Title: GDPR vs. Tecnologie Emergenti
 Date: 2017-08-28 10:20
-Category: 2017
+Category: 2018
 lang: it
-Num: XXII
-Year: 2017
-slug: e-privacy-XXII-interventi
-City: Venezia
-Where: Corte d'Assise<br/>Tribunale di Rialto
-When: 13-14 Ottobre
+Num: XXIV
+Year: 2018
+slug: e-privacy-XXIV-interventi
+City: Roma
+Where: Campidoglio<br/>Roma
+When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
-previd: 2017
-prev: e-privacy-XXI
+previd: 2018
+prev: e-privacy-XXIII
 Organizzatori: pws,hermes
 Collaboratori: bba
 Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvilca,hackthewire

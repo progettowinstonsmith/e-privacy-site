@@ -2,14 +2,14 @@ XStatus: draft
 Title: FAQ per i relatori
 slug: e-privacy-XXIV-faq-relatori
 Category: 2018
-City: Torino
 Date: 2017-07-07 10:20
 Num: XXIV
 Season: autunno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Template: event
-Where: Campus Einaudi<br/>Torino
-When: 9 - 10 Novembre
+City: Roma
+Where: Campidoglio<br/>Roma
+When: 30 novembre - 1 dicembre
 Year: 2018
 lang: it
 prev: e-privacy-XXIII

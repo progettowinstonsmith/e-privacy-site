@@ -6,8 +6,9 @@ Date: 2017-06-04 10:20
 Category: 2018
 Num: XXIV
 Year: 2018
-Where: Campus Einaudi<br/>Torino
-When: 9 - 10 Novembre
+City: Roma
+Where: Campidoglio<br/>Roma
+When: 30 novembre - 1 dicembre
 lang: it
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 

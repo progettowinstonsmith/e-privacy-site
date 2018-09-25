@@ -2,14 +2,14 @@ XStatus: draft
 slug: e-privacy-XXIV-cfp
 Title: GDPR vs. Tecnologie Emergenti
 Template: event
-Date: 2018-09-03 10:20
+Date: 2018-11-30 09:02
 Category: 2018
 lang: it
 Num: XXIV
 Year: 2018
-City: Torino
-Where: Campus Einaudi<br/>Torino
-When: 9 - 10 Novembre
+City: Roma
+Where: Campidoglio
+When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
 previd: 2018
@@ -24,11 +24,11 @@ MediaPartner: infomedia,radioradicale
 ## e-privacy XXIV
 ##"GDPR vs. Tecnologie Emergenti"
 
-Il Progetto Winston Smith e l’Hermes Center for Transparency and
+Il Progetto Winston Smith 2 e l’Hermes Center for Transparency and
 Digital Human Rights sono lieti di invitarti come relatore
 all’edizione autunnale di e-privacy, che si terrà il
-9 e 10 novembre 2018 (venerdì e sabato) presso il Campus Einaudi
-dell'Università di Torino.
+30 novembre e 1 dicembre 2018 (venerdì e sabato) presso presso il Palazzo
+Senatorio in Campidoglio a Roma, nella Sala del Carroccio 
 
 Il tema guida della XXIV edizione di e-privacy è:
 
@@ -50,7 +50,9 @@ degli utenti, permettendo ad essi di estrarne copia per tornarne (o meglio
 venirne per la prima volta) in possesso, come pure a ridurre e rendere esplicito
 l'uso dei cookie. 
 Per aziende che vivono di dati personali questo è davvero un comportamento
-"contro natura". Potenza del GDPR!
+"contro natura". 
+
+Potenza del GDPR!
 
 Ma sfide ben più grandi sono sul tappeto; i fenomeni discussi nella scorsa
 edizione di e-privacy si stanno aggravando.
@@ -80,28 +82,38 @@ Uniti?
 
 Il Convegno invita a proporre interventi che coprano il tema di questa edizione,
 sia per gli aspetti legali che per quelli tecnici delle tecnologie emergenti;
-come  sempre valutera' anche altre proposte di intervento di interesse per la
+come  sempre valuterà anche altre proposte di intervento di interesse per la
 privacy, riservando adeguato spazio a tutti gli altri interventi che verrannno
 proposti.
 
 
 ##Il convegno
 
+
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre
 più digitale ed interconnesso, nel quale le possibilità di comunicazione ed
-accesso alla conoscenza crescono continuamente, come pure le possibilità di
-tecnocontrollo degli individui sin nei più intimi dettagli.
+accesso alla conoscenza crescono continuamente, come pure crescono le
+possibilità di tecnocontrollo degli individui sin nei più intimi dettagli.
 
 L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che
 si occupano di nuove tecnologie, dagli psicologi agli educatori, dagli operatori
 privati a quanti operano nel settore pubblico ed istituzionale.
 
-Sul sito https://e-privacy.winstonsmith.org/ sono raccolti tutti gli interventi
-effettuati nel corso degli anni. 
+Da 23 edizioni e-privacy è stato il luogo in cui si è discusso la sfaccettata
+visione dell'evoluzione di una società moderna con le sue opportunità e i suoi
+rischi.
 
-Molte edizioni del Convegno sono state riconosciute da ordini professionali
-giornalisti, ingegneri, avvocati) per la formazione continua, con l'assegnazione
-di crediti formativi per i loro iscritti.
+Nato grazie alla collaborazione con il Comune di Firenze, città dove si è tenuto
+molte volte in Palazzo Vecchio, è poi stato ospitato in sedi diverse e
+prestigiose, quali la Bocconi, la Camera dei Deputati, il Campidoglio, la
+Statale di Milano, il Comune di Cagliari, l’Università di Pisa, l’Università di
+Bologna, il Tribunale di Rialto a Venezia ed altre ancora.
+
+Il sito https://e-privacy.winstonsmith.org/, raccoglie tutti gli interventi
+effettuati, gli atti e le registrazioni video ed audio. 
+
+In molte edizioni vari ordini professionali (giornalisti, ingegneri, avvocati)
+hanno riconosciuto crediti formativi per la partecipazione dei loro iscritti.
 
 
 ##Le proposte d'intervento
@@ -129,16 +141,15 @@ Le proposte dovranno contenere:
 
 
 __Le proposte di intervento devono essere presentate esclusivamente utilizzando il
-form disponibile in questa  [pagina](e-privacy-XXIV-proposta)__
+form disponibile in questa  [pagina](e-privacy-XXIV-proposta.html)__
 
-Le proposte dovranno pervenire al comitato scientifico entro il termine ultimo
-del 30 settembre 2018.
+Le proposte dovranno pervenire al comitato scientifico **entro il termine ultimo del 26 ottobre 2018**.
 
-L'accettazione o meno delle proposte sarà comunicata entro l'8 ottobre 2018.
+L'accettazione o meno delle proposte sarà comunicata entro il **2 novembre 2018**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in forma
-elettronica tramite il form online, che verra' reso disponibile ai relatori,
-entro il 28 ottobre 2018.
+elettronica sul form online, che sarà in seguito comunicato ai soli relatori,
+**entro il 23 novembre 2018**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 

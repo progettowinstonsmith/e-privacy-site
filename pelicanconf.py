@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2018/11/09 00:09:30'
+EVENT_TIME = '2018/11/30 00:09:30'
 
 COUNTDOWN = True
 EVENTBRITE_EID="""
