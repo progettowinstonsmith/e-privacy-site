@@ -52,7 +52,7 @@ l'uso dei cookie.
 Per aziende che vivono di dati personali questo è davvero un comportamento
 "contro natura". 
 
-Potenza del GDPR!
+**Potenza del GDPR!**
 
 Ma sfide ben più grandi sono sul tappeto; i fenomeni discussi nella scorsa
 edizione di e-privacy si stanno aggravando.
@@ -71,7 +71,7 @@ divengono proprietà privata di altri.
 
 I fronti sui quali il cittadino europeo deve essere protetto sono tanti, 
 mentre,nel panorama nazionale ed europeo, l'unica legge che ha davvero
-spaventato e fatto cambiare alcuni abitudini ai big data player è stato il
+spaventato e fatto cambiare alcune perniciose abitudini ai big data player è stato il
 GDPR.
 
 Quanto potrà essere efficace il GDPR per proteggere i cittadini europei dalle
@@ -109,8 +109,7 @@ prestigiose, quali la Bocconi, la Camera dei Deputati, il Campidoglio, la
 Statale di Milano, il Comune di Cagliari, l’Università di Pisa, l’Università di
 Bologna, il Tribunale di Rialto a Venezia ed altre ancora.
 
-Il sito https://e-privacy.winstonsmith.org/, raccoglie tutti gli interventi
-effettuati, gli atti e le registrazioni video ed audio. 
+Il sito [storico](https://e-privacy.winstonsmith.org/e-privacy-XXIII.html) (menù di destra), raccoglie tutti gli interventi effettuati, gli atti e le registrazioni video ed audio. 
 
 In molte edizioni vari ordini professionali (giornalisti, ingegneri, avvocati)
 hanno riconosciuto crediti formativi per la partecipazione dei loro iscritti.
