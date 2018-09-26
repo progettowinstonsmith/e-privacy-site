@@ -24,7 +24,7 @@ MediaPartner: infomedia,radioradicale
 ## e-privacy XXIV
 ##"GDPR vs. Tecnologie Emergenti"
 
-Il Progetto Winston Smith e l’Hermes Center for Transparency and
+Il Progetto Winston Smith e l’Hermes Center for Transparency and 
 Digital Human Rights sono lieti di invitarti come relatore
 all’edizione autunnale di e-privacy, che si terrà il
 30 novembre e 1 dicembre 2018 (venerdì e sabato) presso presso il Palazzo
