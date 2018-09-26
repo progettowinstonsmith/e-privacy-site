@@ -29,7 +29,7 @@ Solo i relatori
 
 # Luogo della conferenza
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.58274784029!2d7.6974664156099415!3d45.073974679098335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47887281e1311a15%3A0xd605be48387bc2bd!2sCampus+Luigi+Einaudi!5e0!3m2!1sit!2sit!4v1536176913500" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.986878568344!2d12.480257715441574!3d41.893139279220996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f604c9b68c939%3A0xa560a5d14750a8e3!2sSala+Del+Carroccio!5e0!3m2!1sit!2sit!4v1473830966297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 # Seguici online
