@@ -23,7 +23,7 @@ PER FAVORE CONTATTATECI ESCLUSIVAMENTE VIA EMAIL ALL'INDIRIZZO
 
 [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org)
 
-Solo i relatori
+Solo i relatori 
 
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org)
 
