@@ -7,14 +7,9 @@ slug: mappa
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 <!-- Usa height="1000px" -->
-<div>
 
-
-<iframe width="100%" height="1000px" frameBorder="0" src="http://umap.openstreetmap.fr/it/map/eprivacy-3_58511?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="http://umap.openstreetmap.fr/it/map/eprivacy-3_58511">Visualiza schermo intero</a></p>
-
-
-</div>
-
+<p><a href="http://umap.openstreetmap.fr/it/map/eprivacy-3_58511">Visualizza a schermo intero</a></p>
+<iframe width="100%" height="1000px" frameBorder="0" allowfullscreen src="http://umap.openstreetmap.fr/it/map/eprivacy-3_58511?scaleControl=true&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 
 <!--
