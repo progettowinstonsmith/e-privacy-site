@@ -14,7 +14,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: estate
 Organizzatori: hermes,pws
 previd: CFP
-prev: e-privacy-XXI
+prev: e-privacy-XXIII-cfp
 
 ### Aperto il Call for Sponsorship di e-privacy 2017 summer edition
 

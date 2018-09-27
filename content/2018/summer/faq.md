@@ -12,8 +12,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: estate
 previd: 2017W
 prev: e-privacy-XXII
-Xnextid: 2016W
-Xnext: e-privacy-XVIII
+nextid: 2018W
+next: e-privacy-XXIV
 
 Questa FAQ è dedicata ai relatori di eprivacy 2018 summer edition Bologna.
 

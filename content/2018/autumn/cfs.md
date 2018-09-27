@@ -12,11 +12,10 @@ Where: Campidoglio<br/>Roma
 When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
-previd: 2018
-prev: e-privacy-XXIII
+previd: CFP
+prev: e-privacy-XXIV-cfp
 Organizzatori: pws,hermes
 Collaboratori: bba
-XPatrocini: comlucca
 MediaPartner: infomedia,radioradicale
 
 ### Aperto il Call for Sponsorship di e-privacy 2018 autumn edition

@@ -11,10 +11,10 @@ Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
 When: 8-9 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2017
-prev: e-privacy-XXIII
-Xnextid: 2018
-Xnext: e-privacy-XVIII
+previd: 2017W
+prev: e-privacy-XXII
+nextid: 2018W
+next: e-privacy-XXIV
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
 Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt,ihc
