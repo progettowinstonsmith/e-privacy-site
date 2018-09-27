@@ -12,8 +12,8 @@ Where: Campidoglio<br/>Roma
 When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
-previd: CFP
-prev: e-privacy-XXIV-cfp
+previd: &lt;
+prev: e-privacy-XXIV
 Organizzatori: pws,hermes
 Collaboratori: bba
 MediaPartner: infomedia,radioradicale

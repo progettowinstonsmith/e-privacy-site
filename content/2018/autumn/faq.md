@@ -13,7 +13,7 @@ When: 30 novembre - 1 dicembre
 Year: 2018
 lang: it
 prev: e-privacy-XXIII
-previd: 2018
+previd: 2018W
 
 **Questa FAQ è dedicata ai relatori di eprivacy. Grazie di essere tra noi.**
 

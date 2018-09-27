@@ -1,5 +1,5 @@
 XStatus: draft
-slug: e-privacy-XXIV-cfp
+slug: e-privacy-XXIV
 Title: GDPR vs. Tecnologie Emergenti
 Template: event
 Date: 2018-11-30 09:02
