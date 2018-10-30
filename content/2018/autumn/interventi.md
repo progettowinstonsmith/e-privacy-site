@@ -203,6 +203,13 @@ In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, 
 
 
 
+#### <a name="vonlynx"></a> TBA <a href="/e-privacy-XXIV-programma.html#vp9">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx"> TBA </a></a>**  
+
+TBA
+
+
+
 #### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#sm1">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
 
