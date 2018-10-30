@@ -91,7 +91,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
   **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
   ------- | --- | ------- 
-9:30 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>
+9:30 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><span class='talk'>[_Tecnologia, business ed etica degli Oggetti Intelligenti_](e-privacy-XXIV-interventi.html#calamari)</span>
 9:45 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#prandin">Edoardo Prandin (Bicocca Security Lab)</a><br/><span class='talk'>[_Sono finiti i biscotti – Device fingerprinting e tracciamento dell’utente senza l’utilizzo dei cookie ai tempi del GDPR_](e-privacy-XXIV-interventi.html#prandin)</span>
 10:00 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><span class='talk'>[_La psicanalisi di un chatbot_](e-privacy-XXIV-interventi.html#ferri)</span>
 10:15 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a><br/><span class='talk'>[_Più di un anno di proteste possono anche far scappare Google_](e-privacy-XXIV-interventi.html#agosti2)</span>

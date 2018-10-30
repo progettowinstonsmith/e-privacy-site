@@ -34,8 +34,7 @@ SESSIONI = (
         ("Chiusura lavori prima giornata", 'pausa', 'Venerdì!A25:J25'),
     )),
     ("SABATO_MATTINA", 1, 0, (
-        ("Apertura", 'open', 'Sabato!A2:J2'),
-        ("Sabato Mattina", 'talks', "Sabato!A3:J7"),
+        ("Sabato Mattina", 'talks', "Sabato!A2:J7"),
         ("Tavola Rotonda", 'roundtable', 'Sabato!A8:J8'),
         ("Chiusura lavori", 'pausa', 'Sabato!A9:J9'),
     )))
