@@ -1,23 +1,26 @@
+XStatus: draft
+slug: e-privacy-XXIV-relatori
+Title: GDPR vs. Tecnologie Emergenti
 Template: event
-Title:Parole (Ostili) contro la RETE
-Date: 2017-05-03 08:20
+Date: 2018-11-30 09:02
 Category: 2018
 lang: it
-Num: XXIII
+Num: XXIV
 Year: 2018
-slug: e-privacy-XXIII-relatori
-City: Bologna
-Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
-When: 8-9 Giugno
+City: Roma
+Where: Campidoglio
+When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
-previd: 2017W
-prev: e-privacy-XXII
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
-Organizzatori: hermes,pws
+Season: autunno
+previd: 2018
+prev: e-privacy-XXIII
+Organizzatori: pws,hermes
+Collaboratori: bba
+Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
+XPatrocini: comlucca
+MediaPartner: infomedia,radioradicale
 
-## <a name="speakers"></a>I relatori
+## <a name="speakers"></a>Gli organizzatori
 
 ### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
 
@@ -41,10 +44,11 @@ dove pubblica la rubrica settimanale
 
 Emmanuele Somma è prestato da anni al Progetto Winston Smith,
 collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
-Digitali ed è militante del Partito Radicale. È giornalista
-pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
+Digitali. È giornalista
+pubblicista, ha fondato Linux Magazine e diretto "LOGIN, saving the
 Internet wealth".
 
+## <a name="speakers"></a>I relatori
 
 {RELATORI}
 

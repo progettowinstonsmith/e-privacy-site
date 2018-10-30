@@ -1,26 +1,26 @@
+XStatus: draft
+slug: e-privacy-XXIV-interventi
+Title: GDPR vs. Tecnologie Emergenti
 Template: event
-Title: Singolarità
-Date: 2017-05-15 10:20
+Date: 2018-11-30 09:02
 Category: 2018
 lang: it
-Num: XXIII
+Num: XXIV
 Year: 2018
-slug: e-privacy-XXIII-interventi
-City: Bologna
-Where: Biblioteca Salaborsa<br/>Palazzo d'Accursio, Piazza Nettuno 3
-When: 8-9 Giugno
+City: Roma
+Where: Campidoglio
+When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
-previd: 2017W
-prev: e-privacy-XXII
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
-Organizzatori: hermes,pws
+Season: autunno
+previd: 2018
+prev: e-privacy-XXIII
+Organizzatori: pws,hermes
 Collaboratori: bba
-MediaPartner: infomedia, radioradicale
+Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
+XPatrocini: comlucca
+MediaPartner: infomedia,radioradicale
 
 ## <a name="talks"></a>Gli interventi
-
 
 {INTERVENTI}
 

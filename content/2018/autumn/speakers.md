@@ -1,26 +1,26 @@
-Status: draft
-Template: event
+XStatus: draft
+slug: e-privacy-XXIV-relatori
 Title: GDPR vs. Tecnologie Emergenti
-Date: 2017-08-28 10:20
+Template: event
+Date: 2018-11-30 09:02
 Category: 2018
 lang: it
 Num: XXIV
 Year: 2018
-slug: e-privacy-XXIV-relatori
 City: Roma
-Where: Campidoglio<br/>Roma
+Where: Campidoglio
 When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: autumn
+Season: autunno
 previd: 2018
 prev: e-privacy-XXIII
 Organizzatori: pws,hermes
 Collaboratori: bba
-Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvilca,hackthewire
-XPatrocini: comvilca
-MediaPartner: infomedia, radioradicale
+Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
+XPatrocini: comlucca
+MediaPartner: infomedia,radioradicale
 
-## <a name="speakers"></a>I relatori
+## <a name="speakers"></a>Gli organizzatori
 
 ### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
 
@@ -44,13 +44,89 @@ dove pubblica la rubrica settimanale
 
 Emmanuele Somma è prestato da anni al Progetto Winston Smith,
 collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
-Digitali ed è militante del Partito Radicale. È giornalista
-pubblicista, ha fondato Linux Magazine e dirige ""LOGIN, saving the
-Internet wealth"".
+Digitali. È giornalista
+pubblicista, ha fondato Linux Magazine e diretto "LOGIN, saving the
+Internet wealth".
 
-<!--
+## <a name="speakers"></a>I relatori
+
+#### <a name="abeti"></a> Riccardo Abeti (Unione Avvocati Europei)
+
+Riccardo Abeti si occupa da 19 anni di diritto delle nuove tecnologie, privacy, protezione dei dati personali (GDPR, e-privacy, ...) e responsabilità da reato degli enti (c.d. "231"). E’ Membro eletto del Comitato esecutivo e Presidente della Commissione “New Technology, Personal Data and Communication Law” dell’Unione Avvocati Europei.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#abeti">Data Protection by Design e trattamenti "fluidi"</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp4">15:00 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="agosti2"></a> Claudio Agosti 
+
+Claudio Agosti è un autodidatta esperto di privacy informatica, con un background nella sicurezza, attivismo e sviluppo software. Attivo nell'hacking al 1998 ha trovato nella difesa dei diritti umani in rete la sua passione. Negli ultimi 2 anni ha creato un gruppo attorno ad il progetto open source https://tracking.exposed che vuole fornire tecnologie a gruppi di ricerca e di attivismo digitale, che si contrappongono alla profilazione di massa, ed ai monopolisti dei dati.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#agosti2">Più di un anno di proteste possono anche far scappare Google</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm4">10:15 di Sabato</a>.<br/><br/>
+
+
+
+#### <a name="aterno"></a> Stefano Aterno 
+
+Professore a contratto presso l'Università degli Studi di Foggia - Facoltà di Giurisprudenza, Cassazionista, svolge la professione di avvocato e consulente da più di 20 anni prevalentemente nel settore del diritto delle nuove tecnologie. 
+E’ docente presso diversi Master in aclune delle più prestigiose Università italiane. 
+Certificato Lead auditor ISO 27001 (certificazione internazionale sulla sicurezza dei dati e delle informazioni). Ha acquisito in quasi 20 anni di esperienza una elevata professionalità in tema di diritto alla riservatezza dei dati personali, diritto delle nuove tecnologie, reati informatici nonché acquisizione e intercettazione degli elementi di prova digitali. 
+Ha pubblicato diversi libri e numerosi articoli scientifici in tema di criminalità informatica, indagini informatiche e privacy; per un elenco non esaustivo dei titoli e delle opere si consiglia di consultare il sito web  www.studioaterno.it o cercare in rete. 
+E’ consulente privacy di importanti enti e organismi pubblici e di aziende private e multinazionali. Da alcuni mesi svolge per alcuni di essi le funzioni di Data protection officer
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#aterno">GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm4">10:15 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="augenti"></a> Adriana Augenti 
+
+Adriana Augenti è avvocato in Bari, segretario della Commissione Informatica del Consiglio dell'Ordine degli Avvocati di Bari nonché Responsabile per la Protezione Dati del ridetto Ordine. E' segretario del Centro Studi Informatica Giuridica di Bari e Vice Presidente del Centro Studi Processo Telematico. Si occupa da anni di diritto delle nuove teconologie, è docente in corsi e seminari nelle materie di sua competenza presso strutture pubbliche e private, direttore scientifico di corsi di formazione per privacy officer e autrice di articoli di settore. Come professionista si sta occupando dell'adeguamento alla nuova normativa sulla tutela dei dati personali della propria clientela, tra cui oltre a PMI annovera anche PA e imprese medio/grandi.
+Gennaro Maria Amoruso è avvocato in Roma. Responsabile per la Protezione Dati presso l'Azienda Sanitaria Locale di Viterbo e presso l'Azienda Ospedaliera San Giovanni Addolorata di Roma. È Avvocato patrocinante in Cassazione e presso le Magistrature Superiori, esperto in diritto delle nuove tecnologie e della privacy. Vanta una lunga esperienza come docente e formatore. E' Valutatore privacy ai sensi della norma UNI 11697:2017 e Auditor Data Protection per lo schema ISDP©10003:2015.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp7">16:30 di Venerdì</a>.<br/><br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp9">17:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
+
+
+
+
+#### <a name="bba"></a> Winston Smith 
+
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#bba">Presentazione BBA 2019</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp2">14:25 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="berto"></a> Rebecca Berto 
+
+Rebecca Berto è consulente legale del'ECC -NET Italia, progetto finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'ECC. Ha continuato a studiare specializzadosi in Risoluzione internazionale delle dispute commerciali, in altre parole arbitrati internazionli e dispute internazionali relativi ad investimenti: per questo motivo procedure come quelle previste dal WTO o ICSID sono perfettamente conosciute. Se volete chiederle dell'Energy Charter Treaty ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più. Ha iniziato per lavoro a dover fornire informazioni ed assistenza legale in materia di criptovalute: è stato il punto di partenza per approfondire sempre di più blockchain le tecnologie distribuite, seguirne i dibattiti in merito e ad approfondire i relativi aspetti giuridici.
+<br/>
+<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a>.<br/>
+
+
+
+
+#### <a name="blengino"></a> Carlo Blengino 
+
+Carlo Blengino svolge la professione esclusivamente nel settore penale, con specializzazione in proprietà intellettuale, diritto dell'informatica, delle nuove tecnologie e tutela della riservatezza e dei dati personali.
+E' fellow del Nexa Center for Internet & Society del Politecnico di Torino, cura un blog personale sul quotidiano on-line ilPOST.it ed ha pubblicato lavori con Giappichelli, UTET Giuridica, Egea ed Aracne. 
+
+
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#blengino">Algoritmi giudiziari e bias cognitivi</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm5">10:30 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor</a>.<br/><br/>
+
+
+
 #### <a name="busia"></a> Giuseppe Busia (Segretario Generale Garante Privacy)
-     
+
 Giuseppe Busia (1969), ha iniziato a lavorare presso il Garante fin dalla sua istituzione ed ha assunto l'incarico di Segretario generale dal luglio 2012.
 
 Avvocato, ha fra l'altro conseguito il Dottorato di ricerca in Teoria dello Stato e istituzioni politiche comparate presso l'Università di Roma "La Sapienza"; il Dottorato di ricerca in Diritto dell'economia presso l'Università degli Studi di Foggia; il Diploma di primo e di secondo livello della Faculté Internationale de Droit Comparé di Strasburgo, nonché il Diploma dell'Académie Internationale de Droit Constitutionnel di Tunisi, oltre ad aver svolto corsi di master e perfezionamento presso la New York University (New York- USA), la Scuola di scienza e tecnica della legislazione (ISLE) di Roma, la LUISS Business School di Roma, l'Universitad Católica Argentina (Buenos Aires).
@@ -64,672 +140,237 @@ Nel 2006 è stato inoltre vice capo di Gabinetto del Ministero dei beni cultural
 Dal 1998 al 2005 ha fatto parte dell'Autorità di Controllo Comune istituita dalla Convenzione Europol, di cui è stato vice presidente del Comitato di Appello, nonché del'Autorità di Controllo Comune prevista dalla Convenzione sull'uso dell'informatica nel settore doganale, del quale è stato anche vicepresidente.
 
 Ha svolto e svolge attività di docenza in diverse università italiane ed è autore di numerose pubblicazioni a carattere scientifico.
--->
-
-### <a name='blengino'></a>Carlo Blengino
-
-Carlo Blengino svolge la professione esclusivamente nel settore
-penale, con specializzazione in proprietà intellettuale, diritto
-dell'informatica, delle nuove tecnologie, tutela della riservatezza e
-dei dati personali.  Collabora con le riviste on-line Medialaws.eu,
-Nova.ilsole24ore.com ed ha pubblicato lavori con Giappichelli Editore,
-UTET Giuridica, EGEA ed Aracne.  E' fellow del Nexa Center for
-Internet & Society del Politecnico di Torino ed ha un blog personale
-sul quotidiano on-line ilPOST.it.
-
-### <a name='senor'></a>Monica Senor
-
-Monica Senor è avvocato penalista specializzato in diritto penale
-delle nuove tecnologie, privacy e data protection. E' fellow di NEXA,
-il Centro per Internet & Società del Politecnico di Torino, membro
-della Commissione informatica del COA di Torino, del comitato
-scientifico dello CSIG (Centro studi di informatica giuridica
-Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico).
-Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it
-e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer,
-UTET Giuridica ed Aracne. 
-
-### <a name='ghirardini'></a>Andrea Ghirardini
-
-Andrea "Pila" Ghirardini lavora da oltre 17 anni nel campo della
-sicurezza informatica, al supporto di forze dell'ordine e compagnie
-private. Ha inoltre un POV particolare avendo lavorato sia per una
-telco a caso ex monopolista sia per una società che si occupa di
-intercettazione e sorveglianza di massa.
-
-### <a name='vertua'></a>Valerio Edoardo Vertua
-
-Avvocato Cassazionista con studio in Milano; i settori di attività professionale
- prevalenti sono: il diritto tributario, il diritto societario e il diritto
- dell’informatica e delle nuove tecnologie; 
-è perfezionato in Diritto Societario ed in Computer Forensics ed Investigazioni
- Digitali presso l’Università degli Studi di Milano; 
-è componente della Commissione Giustizia Tributaria dell’Ordine degli Avvocati di Milano;
-è collaboratore della Cattedra di Informatica Giuridica ed Informatica Giuridica Avanzata
- della Facoltà di Giurisprudenza presso l’Università degli Studi di Milano; 
-è Presidente dell’associazione DFA (Digital Forensics Alumni - http://www.perfezionisti.it); 
-è co-fondatore e Vice-Presidente dell’associazione CSA Italy (Cloud Security Alliance Italy - http://cloudsecurityalliance.it).
-
-
-### <a name='agostini'></a>Yvette Agostini (CSA)
-
-Laureata in ingegneria elettrotecnica presso l’Università di Pavia, si occupa di sicurezza informatica e delle informazioni da tre lustri, ed ha all’attivo progetti di incident handling, computer forensics, disaster recovery, risk assessment, adeguamento standard BS7799, due diligence tecnologiche. 
-Project manager del Centro Hermes per la Trasparenza e i diritti umani digitali. 
-E' socio fondatore e segretario di CSA Italy, capitolo italiano di Cloud Security Alliance.
-
-
-L'intervento per eprivacy 2017: Cloud computing: se lo conosci, lo apprezzi
-
-### <a name='delninno'></a>ALESSANDRO DEL NINNO (STUDIO LEGALE TONUCCI & PARTNERS)
-
-Avvocato Responsabile del Dipartimenti Data Protection, ICT Law e IP Law dello Studio legale Tonucci & Partners di Roma.
-Professore a contratto di Informatica Giuridica (LUISS Guido Carli  - 1996 ad oggi)
-Professore a contratto di Aspetti giuridici del Telelavoro e del Lavoro Digitale (LUISS Guido Carli  - 2009 ad oggi)
-Professore a contratto - di “Diritto delle Tecnologie dell’Informazione” (Università degli Studi di Venezia Ca Foscari - 2002 - 2008)
-Professore a contratto - di “Diritto delle Nuove Tecnologie” (Scuola di Specializzazione LUISS Management - 2000 - 2005)
-Membro del Comitato Scientifico dell’Istituto Italiano Privacy (2009 ad oggi)
-Membro del corpo docente ufficiale della Agenzia Regionale per lo Sviluppo delle Amministrazioni  Pubbliche del  Lazio (2008 ad oggi)
-Membro del Comitato Scientifico e docente della Scuola Forense “Vittorio Emanuele Orlando” dell’Ordine degli Avvocati di Roma (2007 ad oggi)
-Membro del corpo docente ICE (Istituto per il commercio con l’estero – 2006 ad oggi)
-Membro del corpo docente ufficiale della Scuola Superiore dell’Amministrazione dell’Interno (S.S.A.I. - 2004 – ad oggi)  
-
-E’ relatore nell’ambito dei più importanti convegni nazionali ed internazionali ove viene frequentemente invitato in qualità di esperto su tematiche legate all’Information & Communication Technology, all’IP e alla Data Protection. Ad oggi, ha tenuto 93 conferenze nazionali e internazionali. 
-Nelle stesse materie è autore di oltre 100 tra libri, trattati, monografie, saggi e articoli.
-Per le stesse materie è di frequente intervistato e consultato in qualità di esperto dalle principali testate giornalistiche ed editoriali, radio ed emittenti televisive nazionali.
-L'intervento per eprivacy 2017: Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016
-
-### <a name='destefani'></a>Marco Alvise De Stefani (Synaptic)
-
-Marco Alvise De Stefani collabora dal 2004 con il Ministero della Giustizia in Veneto e in Friuli-Venezia Giulia, dove ha seguito oltre 150 indagini.
-È Amministratore Unico di Synaptic Srls, azienda specializzata in Digital Forensics e Incident Response.
-È consulente tecnico di aziende e studi legali eccellenti del Friuli-Venezia Giulia.
-E’ docente di Digital Forensics in corsi di formazione per le Forze dell’Ordine, la Magistratura e gli Avvocati, per l’Università Svizzera e per seminari organizzati dall’IISFA (International Information Systems Forensics Association), dall’Università degli Studi di Udine e altre associazioni/enti del settore.
-Ha partecipato come relatore a convegni nazionali e internazionali sulla Digital Forensics e a eventi divulgativi. È autore di svariate pubblicazioni e articoli scientifici.
-L'intervento per eprivacy 2017: "Società del Controllo" e documentazione informatica: il problema della prova digitale
-
-### <a name='epto'></a>Epto (Tramaci.org)
-
-Fondatore dei progetti: 
-Anopticon (Mappa delle telecamere di videosorveglianza),
-Anopticon (Psicologia del Potere), 
-tramaci.org (Sistema operativo per l'analisi della censura e del ""Grande Fratello""),
-Onion Mail (Server di posta elettronica crittato su Tor).
-Attivista hacker, membro del mes3hacklab e del Progetto Winston Smith.
-
-L'intervento per eprivacy 2017: MindCloud! Chi controlla il caos?
-
-### <a name='ferri'></a>Edoardo Ferri (Studio Tecnico Ferri & Costantino)
-
-Perito Industriale Libero Professionista esercita la libera
-professione come Consulente Tecnico in materia di Informatica forense
-e sicurezza.  Consulente Tecnico del Giudice presso il Tribunale di
-Pavia Fondatore dello Studio Tecnico Ferri & Costantino e membro del
-Bicocca Security Lab dell'Università degli Studi di Milano Bicocca
-
-L'intervento per eprivacy 2017: La Privcy è questione di carattere
-
-### <a name='gallus'></a>Giovanni Battista Gallus (Array - Nexa Center - Circolo dei Giuristi Telematici)
-
-Diritto d’autore, diritto penale, tutela della privacy e diritto
-dell’informatica e delle nuove tecnologie sono le sue principali
-materie di competenza. Dopo la laurea cum laude in giurisprudenza in
-Italia si trasferisce in Gran Bretagna per il Master of Laws in
-Maritime Law e Information Technology Law alla University College
-London – UCL.. In seguito consegue il titolo di dottore di
-ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and
-Electronic Evidence (ECCE). È ISO 27001:2005 Certified Lead Auditor
-(Information Security Management System).Iscritto all’Albo degli
-Avvocati dal 1996, Cassazionista dal 2009, collabora con la cattedra
-di Informatica Giuridica dell’Università di Milano ed è docente al
-Corso di Perfezionamento in Digital Forensics, Privacy, Cloud e Cyber
-Warfare. Fellow del Nexa Center on Internet e Society e del Hermes
-Center for Transparency and Digital Human Rights. Autore di diverse
-pubblicazioni sui temi citati e relatore nei principali convegni
-nazionali e internazionali, affianca alla professione attività di
-formazione, in particolare nel campo del diritto d’autore, del Free
-software – Open Source, della tutela della privacy, della sicurezza
-informatica e della digital forensics. Past Presidente del Circolo dei
-Giuristi Telematici, fondato nel 1998, primo esempio italiano di
-associazione giuridica telematica. È inoltre membro del Consiglio
-Direttivo di ANORC, Associazione Nazionale per Operatori e
-Responsabili della Conservazione Digitale, e di ABIRT, Advisory Board
-Italiano dei Responsabili del Trattamento dei dati personali.
-
-L'intervento per eprivacy 2017: L' apocalisse zombie colpisce anche le condizioni di servizio del cloud (ma noi le accettiamo lo stesso)
-
-
-### <a name='giorio'></a>Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)
-
-Dopo gli studi in elettrotecnica ed ingegneria meccanica, ho lavorato
-nella Ricerca&Sviluppo di un’azienda elettronica, in seguito mi sono
-trasferito negli USA per occuparmi di technical marketing e
-successivamente di WEB marketing. Dopo qualche altra esperienza
-nell’industria, sono entrato nella PA ed ho continuato ad interessarmi
-dell’informatizzazione, particolarmente applicata alla PA, affiancando
-quindi agli aspetti tecnici i problemi giuridici. Dal 2009 collaboro
-con la rivista Lo Stato Civile Italiano, ed. SEPEL, con la quale ho
-pubblicato svariati articoli in materia di informatizzazione ed in
-materie demografiche. Membro del Centro Studi Informatica Giuridica
-Torino Ivrea (http://www.csigivreatorino.it), ho collaborato,
-attraverso l’Associazione, alla Commissione Madia per le problematiche
-del telelavoro. Anche attraverso l’Associazione Federprivacy
-(http://www.federprivacy.it/), seguo le problematiche relative alla
-privacy, naturalmente con particolare riferimento alla Pubblica
-Amministrazione. Collaboro inoltre col Punto Informatico
-(http://punto­informatico.it/) L'intervento per eprivacy 2017: Cloud o
-non cloud? Questo è il dilemma (almeno nella PA)
-
-### <a name='gobbato'></a>Monica Gobbato (Avvocato)
-
-Avvocato digitale, già commissario d’esame per Privacy Officer nel
-2013/2014 e Digital Champion per il Comune di Camogli- Dal 1996 al
-2004 è stata senior associate di due grandi studi legali
-internazionali: Gianni, Origoni & Partners e Baker e MCKenzie a
-Milano, dove ha coordinato i dipartimenti di Diritto della Privacy
-nell’ambito di Information Technology.
-
-Si occupa di Privacy dal 1997 e di Diritto dell’informatica dal 2003.
-Prof A.C. all’università Ca’ Foscari a Venezia dal 2007, è docente in
-Master Universitari, Seminari e Corsi in tutta Italia. Relatrice e
-moderatrice in materia di Diritto dell’informatica, privacy e
-cybercrime.
-
-Scrive per Assodigitale, StartUPItalia, CheFuturo, Key4Biz
-www.monicagobbato.it
-
-L'intervento per eprivacy 2017: La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza
-
-### <a name='lamuscatella'></a>Donato La Muscatella (Avv. Donato La Muscatella)
-
-Avvocato, BSI Qualified Implementer and Auditor ISO/IEC 27001:2013. 
-Dopo la laurea con lode presso l'Università di Ferrara, si è specializzato presso le Università di Padova e Milano. 
-
-Si occupa prevalentemente di diritto delle nuove tecnologie, operando sull'intero territorio nazionale ed assistendo clienti individuali ed aziende. 
-
-Componente di enti di ricerca indipendenti, è stato docente per numerosi incontri di studio, in ambito professionale, accademico e per gli istituti di formazione delle forze di polizia. Autore di svariati contributi scientifici pubblicati in opere collettanee e su riviste italiane e straniere, dal 2014 collabora stabilmente, in materia di diritto e procedura penale, con Diritto e Giustizia, il quotidiano d’informazione giuridica edito da Giuffrè Editore. 
-
-L'intervento per eprivacy 2017: I diritti (sui dati) perduti
-
-### <a name='longo'></a>Avv. Valentina Longo
-
-Avvocato, si occupa di privacy, protezione dei dati personali, da
-oltre quindici anni. In qualità di consulente legale per il Mipaaf,
-partecipa agli incontri organizzati dal Garante con la delegazione del
-Ministero.
-
-L'intervento per eprivacy 2017: Privacy e pubblica amministrazione. La nuova sfida.
-
-### <a name='pedrazzi'></a>Giorgio  Pedrazzi (Università degli studi di Brescia)
-
-Giorgio PEDRAZZI, professore aggregato di Istituzioni di diritto
-privato presso l'Università di Brescia, insegna “Privacy & Copyright
-nel Web e nei Social network"" al master Innovare con il cloud presso
-l'Università di Padova. Ha conseguito il Dottorato in Diritto privato
-presso l'Università di Pisa.  E' stato visiting fellow presso
-l'Institute of European and Comparative Law di Oxford (UK) e presso la
-School of Law della Loyola University in Los Angeles (USA). Avvocato,
-consulente e formatore in materia di privacy, assicurazioni e
-responsabilità civile, videosorveglianza, dematerializzazione,
-commercio elettronico e diritto del consumo. Attualmente impegnato in
-progetti di ricerca sui profili giuridici delle ""smart cities"", è
-abitualmente relatore in convegni scientifici e masters, nonché autore
-di pubblicazioni giuridiche.
-
-L'intervento per eprivacy 2017: Al di la’ delle nuvole: il Cloud in Europa tra regolazione e contratto
-
-### <a name='scire'></a>Alberto Scire' (Tavella - Studio di Avvocati)
-
-Avvocato, appassionato di informatica, mi occupo (ormai si può dire
-""da tempo""!) di trattamento dei dati personali e rapporti tra
-diritto e tecnologia, sia nella mia vita professionale che in quella
-accademica. Sono anche socio di una start-up, perciò in perenne
-conflitto d'interessi tra l'anima da avvocato e quella di (piccolo)
-imprenditore. Che poi, in fondo, sono la stessa cosa.  L'intervento
-per eprivacy 2017: Tutela dell'Identità Digitale tra pubblico e
-privato
-
-### <a name='zugnaz'></a>Efrem Zugnaz (WebPrepping)
-
-Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente si occupa di IT Governance per una concessionaria Autostradale. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti piu' possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera privata digitale etica e corretta.
-L'intervento per eprivacy 2017: La privacy dell'anima"
-
-<!--
-
-### <a name='bozza'></a>Massimo Bozza
-
-Ingegnere Elettronico, Security Consultant, Redbull addicted.
-Mi occupo principalmente di sicurezza applicativa e dei sistemi embedded.
-
-
-### <a name='canavese'></a>Claudio Canavese
-
-Claudio Canavese (nickname CoD) è sviluppatore software presso
-l'Università degli Studi di Genova nell'ambito delle tecnologie per il
-web. Dal 1998 si occupa attivamente di Software Libero, diritti
-digitali ed accessibilità, dal 2009 al 2016 è stato presidente della
-Associazione per le Libertà Informatiche e Digitali di Genova, curando
-in particolar modo progetti legati al mondo della scuola primaria e
-secondaria di primo grado.  Praticante di arti marziali fin dal
-lontano 1985, nel 2014 fonda, assieme ad altri tre maestri, lo Zanshin
-Tech (https://zanshintech.it/) la prima arte marziale digitale che
-unisce gli insegnamenti tradizionali delle arti marziali orientali con
-conoscenze tecnologiche tratte dal mondo della cyber security. Ha
-pubblicato numerosi articoli riguardanti l'aggressione digitale ed in
-particolare il cyberbullismo.
-
-### <a name='carletti'></a>Fabio Carletti 
-
- Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più
-per questioni legate alla Sicurezza Informatica ha ottenuto importanti
-apprezzamenti in attività investigative per conto di Carabinieri e
-Polizia Postale.  Oltre alla Sicurezza Informatica si occupa anche di
-Digital Forensics.
-
-
-### <a name='cerrato'></a>Giovanni Cerrato
-
-Penetration tester da sempre appassionato di sicurezza degli
-applicativi Web. Ha conseguito la laurea specialistica in Ingegneria
-Informatica discutendo un elaborato nel quale venivano analizzati i
-meccanismi utilizzati dal rinomato “The great firewall of China” e i
-principi di funzionamento della censura su Internet. Attualmente
-lavora per la società AizoOn Technology Consulting e si occupa di
-tematiche inerenti la sicurezza di applicazioni Web, Mobile e sistemi
-Iot. E’ membro attivo del capitolato Italiano di Owasp con il quale ha
-partecipato al progetto “Adopt Open Source Software”, un iniziativa
-finalizzata a fornire supporto all’analisi di sicurezza di progetti
-open-source, nel gruppo di lavoro che si è occupato della piattaforma
-di whistleblowing GlobaLeaks.
-
-### <a name='coluccini'></a>Riccardo Coluccini
-
-Riccardo Coluccini, collaboratore esterno di Motherboard Italia,
-scrive di diritti digitali ed internet governance, e si sta lentamente
-avvicinando al mondo dell'attivismo. Ha conseguito una laurea
-Magistrale in Ingegneria Meccatronica ma dopo un incontro ravvicinato
-con un drone ha avuto qualche ripensamento. 
-
-
-### <a name='delsoldato'></a>Flavio Del Soldato (Studio legale avv. Flavio Del Soldato)
-
-Prima che un avvocato è un cittadino dell'Unione europea. 
-Prima che un cittadino dell'Unione europea è una persona.
-E come persona è iscritto al Partito Radicale Nonviolento Transnazionale e Transpartito."
-
-### <a name='fabiano'></a>Nicola Fabiano
-
-Avvocato Cassazionista, Specialista in Diritto Civile, fondatore dello Studio Legale Fabiano nel 1994, consulente ed esperto su privacy, protezione dei dati personali e sicurezza informatica.
-Membro del Gruppo di lavoro della FIIF (Fondazione Italiana per l’Innovazione Forense) del CNF (Consiglio Nazionale Forense);
-Vincitore del corso promosso dal Consiglio d’Europa in collaborazione con il Consiglio Nazionale Forense (CNF) su “Data Protection and Privacy Rights”, febbraio 2017.  
-Vincitore del 7th Annual Global Law Experts Awards come “Law Firm of the Year in Italy – 2016” per ICT Security e - Internet & E-Commerce.  
-Ricercatore indipendente.
-È autore di libri, articoli, saggi, e contributi in genere.
-È membro del “Council of The Internet of Things”.
-
-### <a name='falcomata'></a>Igor Falcomatà
-
-Si occupa professionalmente di ricerca, consulenza e formazione nell'ambito
-della sicurezza dei sistemi informativi e delle reti di telecomunicazione
-dal '98 e di informatica dal '92.
-Nella sua carriera ha seguito progetti per infrastrutture di sicurezza;
-attivita' di verifica ed analisi del rischio e delle vulnerabilita', ethical
-hacking, gestione e risposta agli incidenti informatici, formazione. Tra i
-clienti che ha seguito rientrano istituti bancari, enti pubblici ed aziende
-di rilevanza nazionale ed internazionale. Ha partecipato come docente o
-relatore a corsi, master e conferenze.
-E' uno dei fondatori del progetto "sikurezza.org", portale non commerciale
-finalizzato alla divulgazione di tematiche legate alla sicurezza
-informatica.
-
-
-### <a name='flora'></a>Matteo Flora (The Fool srl)
-
-Esperto in Digital Reputation e Computer Forensics, con un forte
-background in Sicurezza Informativa, è CEO di The Fool, la Digital
-Reputation Company italiana. Ha partecipato all’IVLP2012, che
-seleziona personaggi nel mondo che possono portare maggiore
-consapevolezza e cooperazione tra gli Stati Uniti e l’Italia,
-co-fondatore del Centro Hermes e Professore a Contratto in “Open
-Source Intelligence”."
-
-### <a name="gabriele"></a>Renato Gabriele
-
-Renato Gabriele si è occupato di ICT e reti di computer dagli
- anni '90, per imprese e per pubbliche amministrazioni. 
-Partecipa al progetto dadaista di Gilda35, sperimentando
- le dinamiche e le influenze sui bigdata dei social network. 
-È stato membro dell'IBM WW Mid-Market Advisory Council e
- del comitato direttivo di IASA (International Association
- of System Architects). 
-Tra gli ultimi convegni come relatore: E-privacy 2016 -
-  Privacy ed antiterrorismo (Roma, 4-5 novembre 2016,
- con Manuela Vacca), Festival Internazionale del Giornalismo,
- X edizione (Perugia, 9 aprile 2016, con Renato Gabriele: 
- Hacking Team, big data e social media: quando la notizia
- passa (quasi) inosservata), Hackmeeting 2014:
- Alla ricerca della Black-op perduta, Festival
- Internazionale del Giornalismo 2015: Swarm
- Intelligence a Perugia e "@ItaGovEdits:
- quando i governi modificano Wikipedia" a Bologna. 
-
-
-### <a name='gallus'></a>Giovanni Battista Gallus
-
-Diritto d’autore, diritto penale, tutela della privacy e diritto
-dell’informatica e delle nuove tecnologie sono le sue principali
-materie di competenza. Dopo la laurea cum laude in giurisprudenza in
-Italia si trasferisce in Gran Bretagna per il Master of Laws in
-Maritime Law e Information Technology Law alla University College
-London – UCL.. In seguito consegue il titolo di dottore di
-ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and
-Electronic Evidence (ECCE). È ISO 27001:2005 Certified Lead Auditor
-(Information Security Management System).Iscritto all’Albo degli
-Avvocati dal 1996, Cassazionista dal 2009, collabora con la cattedra
-di Informatica Giuridica dell’Università di Milano ed è docente al
-Corso di Perfezionamento in Digital Forensics, Privacy, Cloud e Cyber
-Warfare. Fellow del Nexa Center on Internet e Society e del Hermes
-Center for Transparency and Digital Human Rights. Autore di diverse
-pubblicazioni sui temi citati e relatore nei principali convegni
-nazionali e internazionali, affianca alla professione attività di
-formazione, in particolare nel campo del diritto d’autore, del Free
-software – Open Source, della tutela della privacy, della sicurezza
-informatica e della digital forensics. Past Presidente del Circolo dei
-Giuristi Telematici, fondato nel 1998, primo esempio italiano di
-associazione giuridica telematica. È inoltre membro del Consiglio
-Direttivo di ANORC, Associazione Nazionale per Operatori e
-Responsabili della Conservazione Digitale, e di ABIRT, Advisory Board
-Italiano dei Responsabili del Trattamento dei dati personali.
-
-### <a name='ghirardini'></a>Andrea Ghirardini
-
-Andrea "Pila" Ghirardini lavora da oltre 17 anni nel campo della
-sicurezza informatica, al supporto di forze dell'ordine e compagnie
-private. Ha inoltre un POV particolare avendo lavorato sia per una
-telco a caso ex monopolista sia per una società che si occupa di
-intercettazione e sorveglianza di massa.
-
-### <a name='giorio'></a>Diego giorio (SEPEL Editrice)
-
-Dopo gli studi in elettrotecnica ed ingegneria meccanica, ho lavorato
-nella Ricerca&Sviluppo di un’azienda elettronica, in seguito mi sono
-trasferito negli USA per occuparmi di technical marketing e
-successivamente di WEB marketing. Dopo qualche altra esperienza
-nell’industria, sono entrato nella PA ed ho continuato ad interessarmi
-dell’informatizzazione, particolarmente applicata alla PA, affiancando
-quindi agli aspetti tecnici i problemi giuridici. Dal 2009 collaboro
-con la rivista Lo Stato Civile Italiano, ed. SEPEL, con la quale ho
-pubblicato svariati articoli in materia di informatizzazione ed in
-materie demografiche. Membro del Centro Studi Informatica Giuridica
-Torino Ivrea (http://www.csigivreatorino.it), ho collaborato,
-attraverso l’Associazione, alla Commissione Madia per le problematiche
-del telelavoro. Anche attraverso l’Associazione Federprivacy
-(http://www.federprivacy.it/), seguo le problematiche relative alla
-privacy, naturalmente con particolare riferimento alla Pubblica
-Amministrazione. Collaboro inoltre col Punto Informatico
-(http://punto­informatico.it/)
-
-### <a name='guarino'></a>Alessandro Guarino (StudioAG)
-
-Consulente in materia di sicurezza delle informazioni, cyber security
-e protezione dei dati. Specialista in informatica forense e consulente
-tecnico di parte e di ufficio. Ricercatore indipendente, ha avuto
-l'opportunità di presentare il suo lavoro tra l'altro a CyCon 2013
-(5th NATO CCD COE Conference on Cyber Conflict), ISSE (Information
-Security Solutions Europe) e in vari workshop in Europa e Asia. Attivo
-nelle organizzazioni europee per la standardizzazione, ha in
-particolare contribuito alle norme ISO sulle investigazioni digitali e
-la forensics.
-
-### <a name='hart'></a>Laura Harth (rappresentante all'ONU del Partito Radicale)
-
-Laura Harth è ricercatrice dottoranda presso l'Università di Exeter,
-Regno Unito. Il dottorato è finanziato dal South West Doctoral
-Training Centre (Economic and Social Research Council, UK). Ha
-completato con lode il suo Master in Diritto Internazionale ed Europeo
-presso l'Università di Ghent, in Belgio, il Master europeo in Diritti
-dell'Uomo e Democratizzazione con una tesi sul potere della
-nonviolenza presso l'Università di Padova, Italia, e il Master di
-Ricerca in Scienze Politiche presso l’Università di Exeter. È
-attualmente Rappresentante del Partito Radicale Nonviolento
-Transnazionale e Transpartito presso le Nazioni Unite.
-
-### <a name='micozzi'></a>Francesco Paolo Micozzi
-
-Francesco Paolo Micozzi: avvocato specializzato in diritto
-dell’informatica e delle nuove tecnologie, privacy e diritto
-d’autore. Scrive per LeggiOggi e cura il blog Quid Novi. Collabora con
-le cattedre di Informatica Giuridica e Informatica Giuridica Avanzata
-dell'Università di Milano, ed è fellow del Centro Hermes per la
-Trasparenza e i Diritti Umani Digitali. Autore di pubblicazioni in
-tema di diritto penale dell'informatica e diritto d'autore e relatore
-nei principali convegni nazionali in materia, svolge anche attività di
-formazione per professionisti e pubbliche amministrazioni. Fa parte
-del gruppo di lavoro della Fondazione Italiana per l'Innovazione
-Forense presso il Consiglio Nazionale Forense, per il quale, a
-Bruxelles, presso il Consiglio degli Ordini Forensi Europei siede nei
-gruppi Surveillance ed E-justice.
-
-### <a name='naranjo'></a>Diego Naranjo (EDRi)
-
-Diego Naranjo is a qualified lawyer and co-founder of the Andalusian
-human rights organisation Grupo 17 de Marzo. During the last six
-years, Diego has been specialising on human rights law. He owns a
-Master's degree in human rights from the European Inter-University
-Centre for Human Rights and Democratisation in Venice.
-
-Diego joined EDRi in October 2014 as Advocacy Manager. He advocates
-for the protection of citizens' fundamental rights and freedoms online
-in the fields of data protection, surveillance and copyright. In the
-past, Diego gained experience in the International Criminal Tribunal
-for former Yugoslavia, the EU Fundamental Rights Agency (FRA) and the
-Free Software Foundation Europe. Previously to all that he worked as a
-lawyer in Spain.
-
-Diego is co-author of the Council of Europe's Study DGI(2014)31
-""Human Rights Violations Online"":
-https://edri.org/files/EDRI_CoE.pdf, prepared by EDRi for the Council
-of Europe on 4 December 2014.
-
-Twitter: @DNBSevilla
-
-### <a name='palumbo'></a>Andrea Palumbo
-
-Andrea Palumbo è avvocato e si occupa di privacy, diritto delle
- nuove tecnologie e sicurezza informatica, materie nelle
- quali svolge anche attività di consulenza e formazione
- presso imprese e pubbliche amministrazioni.
-Attualmente è Dottorando in Giurisprudenza presso
- l’Università degli Studi Milano-Bicocca dove sta
- completando un progetto di ricerca sul concetto
- tedesco di privacy.
-E’ spesso relatore a convegni e conferenze specialistici
- sui temi di legati al mondo ICT.
-
-### <a name='pazzaglia'></a>Aldo A. Pazzaglia (Studio legale avv. Aldo A. Pazzaglia)
-
-L'avv. Aldo A. Pazzaglia si occupa da diversi anni della tutela dei
-dati personali, sia delle persone fisiche che delle società, enti ed
-associazioni. Ha al suo attivo una serie di ricorsi, ai sensi del
-Codice della Privacy, al Garante per la Protezione dei Dati Personali,
-di ricorsi all'Autorità Giudiziaria Ordinaria, nello specifico al
-Tribunale, anche sotto il profilo del risarcimento del danno, ed,
-infine, di ricorsi alla Corte di Cassazione, con richieste di rinvio
-pregiudiziale, obbligatorio o facoltativo, alla Corte di Giustizia
-dell'Unione Europea. Membro del Comitato Radicale per la Giustizia
-""Piero Calamandrei"" si è sempre interessato, nell'attività personale
-e professionale, nella tutela dei diritti fondamentali dei clienti,
-anche non persone fisiche, tra cui quello alla riservatezza ed alla
-tutela dei dati personali ex Convenzione Europea dei Diritti
-dell'Uomo.
-
-
-### <a name="pietrosanti"></a>Fabio Pietrosanti (HERMES)
-
-Fabio Pietrosanti frequenta, con il soprannome “naif” l’underground
-digitale italiano dal 1995 e si occupa professionalmente di digital
-security dal 1998. Presidente e co-fondatore del Centro Hermes per la
-Trasparenza e i Diritti Umani Digitali, è attivo in diversi progetti
-per la diffusione di consapevolezza, strumenti e tecnologie a supporto
-della libertà di espressione e della trasparenza. Membro di
-Transparency International Italia, gestore di nodi di anonimato Tor e
-di pubblicazione anonima Tor2web, è fra i fondatori del progetto di
-Whistleblowing GlobaLeaks, oggi in uso tanto nel mondo del
-giornalismo, dell’attivismo quanto nella pubblica amministrazione con
-finalità di contrasto della corruzione. Si occupa di innovazione
-tecnologica, progettazione software nell’ambito del whistleblowing,
-della tutela della riservatezza delle informazioni e dell’anonimato
-digitale. Veterano del mondo dell’hacking e del software libero, ha
-partecipato a progetti e community quali sikurezza.org, s0ftpj,
-Progetto Winston Smith, Metro Olografix. Professionalmente ha avuto
-esperienze come network security manager, senior security advisor,
-imprenditore e CTO di una startup impegnata nello sviluppo di sistemi
-di cifratura delle telefonate cellulari.
-
-
-### <a name='puligheddu'></a>Andrea Puligheddu  (Orlandi&Partners Studio Legale)
-
-Mi sono laureato in Giurisprudenza a Bologna nel 2015 con una tesi in
-materia di diritto di Internet e Social Media. La mia passione per il
-diritto applicato alla tecnologia nasce già all’interno dell’ambito
-universitario, portandomi a trascorrere un periodo di studio e lavoro
-all’estero in cui ho approfondito attraverso un progetto formativo il
-tema del diritto all’oblio, i big data applicati all’ambito bancario e
-il nuovo Regolamento Europeo n. 679/2016 in materia di protezione dei
-dati personali (GDPR).  Da lì in avanti ho maturato una crescente
-esperienza come Praticante Avvocato in materia di diritto
-dell’informatica, privacy e protezione dei dati personali, fornendo
-servizi di consulenza a società pubbliche e private (sia di carattere
-nazionale che internazionale), assistenza in contenziosi dinanzi
-all’Autorità Garante per la protezione dei dati personali e
-partecipando come relatore a workshop e corsi di formazione. Dal 2016
-sono Partner dello Studio Legale Orlandi.  Mi occupo anche di
-tecnologia in ambito militare e sorveglianza di massa, pubblicando
-regolarmente contenuti editoriali. Dirigo la sezione Cyber della
-testata Difesa Online, nella quale vengono affrontati i temi connessi
-alla protezione delle infrastrutture critiche e alla difesa dei dei
-cittadini nel cyberspazio; collaboro infine con Limes Online -Gruppo
-Repubblica Espresso per quanto concerne il rapporto tra tecnologia e
-geopolitica.  Dal 2017 sono Tutor Didattico per gli studenti di
-Giurisprudenza, nel contesto delle attività formative del Collegio
-Universitario d'Eccellenza Bononia, Fondazione CEUR.
-
-### <a name='roggero'></a>Claudia Roggero, Valentina Mayer  (Dandi Media)
-
-Gli avvocati Claudia Roggero e Valentina Mayer sono le co-founder
-partners di DANDI.
-
-Siamo specializzate in diritto d’autore e dei media e forniamo la
-consulenza legale necessaria a chi lavora con la creatività e la
-proprietà intellettuale, attraverso l’esperienza professionale e un
-aggiornamento costante sui cambiamenti legali del copyright e dei new
-media.
-
-
-### <a name='sarzana'></a>Fulvio Sarzana 
-
-Fulvio Sarzana di S. Ippolito, si è laureato in Giurisprudenza
-all’Università degli Studi di Roma “La Sapienza” con lode.
-
-E’ autore di Monografie sui profili Organizzativi e Normativi del
-Governo degli Enti Locali
-
-E’ autore di testi sulla sicurezza dei cittadini negli Enti Locali,
-attraverso l’uso delle nuove tecnologie.
- 
-Ha partecipato alle Campagne sulla trasparenza degli Enti Locali e
-centrali attraverso l’accesso ai documenti delle Pubbliche
-Amministrazioni, promuovendo iniziative di sensibilizzazione sulla
-Trasparenza e sul conflitto di interessi.
-
-
-
-### <a name='stroia'></a>Pietro Stroia
-
-Ingegnere Informatico, Security Consultant principalmente nel campo
-della sicurezza applicativa. Appassionato del mondo open-source e
-della sua filosofia, con un debole per la crittografia e il
-"low-level".
-
-
-### <a name='vacca'></a>Manuela Vacca
-
-Giornalista, PhD, si occupa di tecnologia e innovazione, cultura
- e spettacolo, economia e cronaca, è attualmente addetto stampa
- della Regione Sardegna. Come attivista per la diffusione della
- cultura dei dati aperti ha promosso le cinque edizioni del "Cagliari open data day". 
-Sente l'urgenza di diffondere consapevolezza sull'importanza di difendere la privacy. 
-Tra gli ultimi convegni: 
-"Festival Internazionale del Giornalismo", XI edizione (Perugia, 7 aprile 2017),
- con Renato Gabriele: "Autodifesa digitale: istantanee del giornalismo italiano",
- "E-privacy 2016 - Privacy ed antiterrorismo"
- (Roma, 4-5 novembre 2016, con Renato Gabriele),
- Festival Internazionale del Giornalismo, X edizione (Perugia,
- 9 aprile 2016), con R. Gabriele: "Hacking Team, big data e social media:
- quando la notizia passa (quasi) inosservata",
- "E-privacy 2015 - La trasparenza e la privacy" (Roma, 2-3 luglio 2015),
- "Open Data in Italy and Europe: HOMER project results, lessons learnt
- and future development. HOMER steering committee meeting" (Cagliari,
- 3 febbraio 2015)
- e "E-privacy 2014. Internet delle cose" (Cagliari, 17-18 ottobre 2014).
-
-
-### <a name='vicarelli></a>Cristina Vicarelli
-
-Avvocato del Foro di Perugia, dal 2009 offre assistenza giudiziale e
-stragiudiziale a privati e imprese esclusivamente in materia di
-protezione dei dati personali, privacy, diritto informatico, diritto
-di Internet. Occasionalmente ha svolto attività di formazione
-accreditata da ordini professionali o presso imprese private in
-materia di protezione dei dati personali. Dal 2015 è contributor di
-Technethics (www.technethics.com), una community statunitense che si
-propone di aiutare avvocati e studi legali a gestire le implicazioni
-etiche connesse all’uso delle tecnologie. Per ulteriori informazioni
-www.cristina-vicarelli.it
-
-### <a name='vieri'></a>Giovambattista Vieri
-
-Giovambattista Vieri, son nato nel 1964, sono appassionato di
-informatica da quando avevo 16 anni e con l'aiuto del saldatore
-modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale
-(project leader) sia su GUI sia su apparati embedded, passando poi a
-societa' di consulenza e formazione (responsabile gruppo internet),
-poi a societa' editoriali con ruoli anche inerenti la IT
-security. Infine imprenditore (molto piccolo) e consulente. Nei
-ritagli di tempo, scrivo software che poi libero . Son anche molto
-appassionato di Storia (antica e recente) e sport. Amo la cucina e la
-buona tavola condita da discussioni interessanti.
-
-### <a name='vignera'></a>Stefano Vignera (Bislab)
-
-Mi chiamo Stefano Vignera, mi sono laureato in Giurisprudenza,
-indirizzo internazionale, presso l'Università degli studi di Milano
-(Statale) e dal 2012 lavoro in uno studio legale di Milano
-specializzato in Diritto del Lavoro.
-
-Dal 2017 sono entrato a far parte del Bislab, laboratorio di ricerca
-dell'Università di Milano Bicocca che si occupa di sicurezza nel
-settore dell'information technology, raggruppando professori,
-ricercatori, professionisti e studenti specializzati in Informatica e
-Diritto.
-
-### <a name='zugnaz'></a>Efrem Zugnaz (Progetto Graesanus)
-
-Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente
-si occupa di IT Governance per una concessionaria Autostradale. Avendo
-passato molte fasi tecnologiche ora si occupa di portare in maniera
-gratuita a quanti piu' possibile buone prassi ed informazioni per i
-cittadini digitali, con lo scopo di alimentare una sfera privata
-digitale etica e corretta.
-
-### <a name='premoli'></a>Roberto Premoli
-
-Faccio parte della generazione che ha imparato a programmare sugli
- "8 bit". Passato a GNU/Linux apprezzandone la filosofia della
- condivisione e della cooperazione. Non sono d'accordo sulla
- pervasività dei metodi di tecnocontrollo e ho sviluppato 
- una soluzione che la constrasta.
-
--->
+
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#busia">IA vs GDPR</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm3">10:00 di Venerdì</a>.<br/><br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola1">AI vs GDPR: chi ci protegge dai protettori?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm8">12:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino</a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato</a> moderata da <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>.<br/>
+
+
+
+
+#### <a name="carletti"></a> Fabio Carletti (lejot opensource tecnology)
+
+Fabio Carletti aka Ryuw è un White Hat (Hacker) italiano.Noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative per conto di Carabinieri e Polizia di Stato. Consulente di studi legali, studi commercialisti e aziende oltre alla Sicurezza Informatica si occupa anche di Digital Forensics come perito di parte.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#carletti">IoT in-sicurezza dei dati raccolti</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp6">16:00 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="carrer"></a> Laura Carrer (Transparency International Italia)
+
+A Transparency Italia, Laura Carrer si occupa di assistenza ai whistleblower che segnalano anonimamente casi di corruzione sul posto di lavoro ed è responsabile di FOIA4journalists, attività di supporto per i giornalisti nell'accesso alle fonti. In Hermes Center si occupa invece di sviluppo e promozione del progetto GlobaLeaks, piattaforma open source sicura e anonima che aiuta i whistleblower a rompere il silenzio.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#carrer">Dove finisce la privacy nelle istanze FOIA?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp8">17:00 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi</a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini</a>.<br/><br/>
+<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp9">17:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a>.<br/>
+
+
+
+
+#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
+
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
+Docente in "Diritto ed etica della comunicazione" presso la facoltà di Ingegneria dell'Informazione del Politecnico di Torino.
+Attivamente impegnato per la promozione del software libero e delle libertà digitali.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#ciurcina">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp3">14:30 di Venerdì</a>.<br/><br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp9">17:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
+
+
+
+
+#### <a name="coluccini"></a> Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)
+
+Riccardo Coluccini ha conseguito la laurea Magistrale in Ingegneria Meccatronica presso il Politecnico di Torino e ora lavora come giornalista freelance — scrivendo principalmente su Motherboard Italia — e si occupa della difesa dei diritti digitali. È membro del Hermes Center for Transparency and Digital Human Rights e attualmente gestisce un progetto che utilizza le leggi sulla trasparenza per monitorare le tecnologie di sorveglianza impiegate dal governo italiano.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#carrer">Tutta l'intelligenza (artificiale) nelle mani della polizia</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp8">17:00 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi</a> e <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/><br/>
+
+
+
+#### <a name="del ninno"></a> Alessandro Del Ninno (Studio legale Tonucci & Partners)
+
+Alessandro del Ninno, avvocato e professore universitario, è uno dei riconosciuti esperti italiani in materia di ICT e data protection. Autore di oltre 100 pubblicazioni, tra articoli, saggi, libri e monografie giuridiche dedicate alle materie dell’ICT, data protection e diritto d’autore. Ad oggi è stato invitato come relatore a circa 150 conferenze organizzate sia a livello nazionale che internazionale dalle principali istituzioni italiane e straniere.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#del ninno">Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm5">10:45 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="del soldato"></a> Flavio Del Soldato (Matris lingua - I Want My Language Back.)
+
+Antagonista. Radicale. Avvocato.
+
+Pochi giorni fa ho riaperto un libro regalatomi dai miei amici al tempo del Liceo (Tasso di Roma). Una storia semplice di Leonardo Sciascia.  E vi si può leggere:
+
+Il magistrato scoppiò a ridere. «L'italiano: ero piuttosto debole in italiano. Ma, come vede, non è poi stato un gran guaio: sono qui, procuratore della Repubblica...».
+«L'italiano non è l'italiano: è il ragionare» disse il professore. «Con meno italiano, lei sarebbe forse ancora più in alto».
+
+Voglio vedere quanto, essi, sono in alto.
+<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola1">AI vs GDPR: chi ci protegge dai protettori?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm8">12:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino</a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato</a> moderata da <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>.<br/>
+
+
+
+
+#### <a name="ferri"></a> Edoardo Ferri (Studio Tecnico Ferri & Costantino)
+
+Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri & Costantino. Senior Partner del BiSLab – Bicocca Security Lab, laboratorio interdipartimentale in materia di sicurezza informatica della facoltà di Giurisprudenza e di Informatica dell’Università Bicocca.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#ferri">La psicanalisi di un chatbot</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm3">10:00 di Sabato</a>.<br/><br/>
+
+
+
+#### <a name="frasca"></a> Carlotta Frasca (Privacy Academy (associazione in fase di costituzione))
+
+Carlotta Frasca. Dottoressa Magistrale in Relazioni Internazionali
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#gobbato">Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp5">15:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo</a> e <a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato</a>.<br/><br/>
+
+
+
+#### <a name="giorio"></a> Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)
+
+Dopo gli studi in elettrotecnica ed ingegneria meccanica, ho lavorato nella Ricerca&Sviluppo di un’azienda elettronica, in seguito mi sono trasferito negli USA per occuparmi di technical marketing e successivamente di WEB marketing. Dopo qualche altra esperienza nell'industria, ho vinto un concorso in un Comune ed ho continuato ad interessarmi dell’informatizzazione, particolarmente applicata alla PA, affiancando quindi agli aspetti tecnici i problemi giuridici. Dal 2009 collaboro con la rivista Lo Stato Civile Italiano, ed. SEPEL, con la quale ho pubblicato svariati articoli in materia di informatizzazione ed in materie demografiche. Membro del Centro Studi Informatica Giuridica Torino Ivrea (http://www.csigivreatorino.it), e di Federprivacy (http://www.federprivacy.it/), seguo le problematiche relative alla privacy, naturalmente con particolare riferimento alla Pubblica Amministrazione.
+<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+
+
+
+
+#### <a name="giustozzi"></a> Corrado Giustozzi 
+
+Consulente, docente e divulgatore sui temi della cybersecurity dei quali si occupa da oltre trent’anni. Dal 2010 è componente del Permanent Stakeholders' Group dell'Agenzia dell'Unione Europea per la Sicurezza delle Reti e delle Informazioni (ENISA), e dal 2015 esperto di sicurezza cibernetica presso l'Agenzia per l'Italia Digitale per lo sviluppo del CERT della Pubblica Amministrazione. Componente del Consiglio direttivo di Clusit, membro di varie associazioni scientifiche e tecniche, componente di molteplici comitati scientifici, docente presso varie Università sui temi della cybersecurity e della criminalità informatica, collabora da molti anni con le forze dell'ordine nel contrasto al cybercrime ed al cyberterrorismo. Parallelamente svolge da sempre un’intensa attività di divulgazione culturale della materia, tenendo frequentemente conferenze e seminari specialistici. Ha al suo attivo oltre mille articoli e quattro libri.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#giustozzi">La sicurezza delle informazioni nella società postindustriale</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm6">11:00 di Sabato</a>.<br/><br/>
+
+
+
+#### <a name="gobbato"></a> Monica Gobbato (Privacy Academy (associazione in fase di costituzione))
+
+Avvocato Monica Gobbato è Data Protection Officer e responsabile di Corsi Specialistici per DPO. Docente a contratto per l'Università Ca' Foscari, è autrice di diverse monografie in tema di Privacy e diritto dell'informatica. Ha scritto per StartupItalia, Doctor33, Ninjamarketing. Si occupa di Protezione Dati Personali dal 1997.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#gobbato">Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp5">15:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca</a>.<br/><br/>
+
+
+
+#### <a name="guarino"></a> Alessandro Guarino 
+
+Consulente in materia di sicurezza delle informazioni, cyber security e protezione dei dati.  Responsabile per la Protezione dei Dati per Enti e Pubbliche Amministrazioni. Specialista in informatica forense e consulente tecnico di parte e di ufficio. Come ricercatore indipendente, ha avuto l'opportunità di presentare il suo lavoro tra l'altro a CyCon 2013 (5th NATO CCD COE Conference on Cyber Conflict), ISSE (Information Security Solutions Europe) e in vari workshop in Europa e Asia. Attivo nelle organizzazioni europee per la standardizzazione (CEN-CENELEC ed ETSI), ha in particolare contribuito allo sviluppo delle norme ISO sulle investigazioni digitali. Attualmente chair del gruppo CEN-CENELEC su privacy e data protection e membro del gruppo di ricerca NATO IST 152 sugli agenti autonomi.
+<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola1">AI vs GDPR: chi ci protegge dai protettori?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm8">12:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino</a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato</a> moderata da <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>.<br/>
+
+
+
+
+#### <a name="marzano"></a> Flavia Marzano (Assessora Roma Semplice)
+
+(Savona 1954), diplomata a Roma, laureata a Pisa in Scienze dell'Informazione. Da più di 25 anni opera per l'innovazione della Pubblica Amministrazione. Docente in Tecnologie per la pubblica amministrazione presso università di Bologna, Torino, Roma Sapienza e Link Campus University dove ha ideato e dirige il Master Smart Public Administration.
+L’attività degli ultimi dieci anni si è svolta principalmente nei seguenti ambiti: Open Government, Smart City, Agenda Digitale, Trasparenza, Partecipazione, Open Source, Open data, Cittadinanza attiva, Divario digitale e di genere.  Social network manager, esperta di comunità virtuali, fondatrice e Presidente (dimissionaria a seguito dell’incarico di assessora) di Stati Generali dell'Innovazione, ideatrice e animatrice della rete WISTER (Women for Intelligent and Smart Territories).
+Si occuperà di rendere più semplice, inclusiva e innovativa la nostra città favorendo la partecipazione e la cittadinanza attiva.
+<br/>
+
+
+
+#### <a name="micillo"></a> Emanuela Micillo (Privacy Academy (associazione in fase di costituzione))
+
+Emanuela Micillo, Avvocato Penalista in Roma e Data Protection Specialist.
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#gobbato">Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp5">15:30 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca</a> e <a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato</a>.<br/><br/>
+
+
+
+#### <a name="monteleone"></a> Daniele Monteleone (Bitcoin Private)
+
+Daniele Monteleone aka Robotica è uno dei primi  italiani ad utilizzare il Bitcoin sin dal 2010,
+imprenditore seriale, cripto-specialista, cypherpunk e programmatore con oltre 20 anni di esperienza, acquisita nello sviluppo di progetti scalabili.
+
+Attualmente Core Developer per la comunità open source Bitcoin Private e Chief Visionary Officer di Metalyfe - il primo browser agnostico web 3.0 decentralizzato.
+
+Nel 2010 è stato coinvolto nell'ecosistema bitcoin come hacker, senza successo, partecipando alla prima conferenza su Bitcoin a Praga 2011 con il suo amico da vita Rick Falckvinge e Max Keizer (alla prima Conferenza pubblica del Bitcoin nella storia).
+<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+
+
+
+
+#### <a name="prandin"></a> Edoardo Prandin (Bicocca Security Lab)
+
+Dottore in giurisprudenza presso l'università degli studi di Milano Bicocca, si laurea in informatica giuridica con un lavoro di tesi in materia di metodologie di valutazioni d’impatto e ruolo del responsabile per la protezione dei dati personali nel regolamento (EU) 679/2016. È membro del Bicocca Security Lab (conosciuto anche come BiSLab), un laboratorio interdipartimentale, che raccoglie l'esperienza nel campo della sicurezza informatica del Dipartimento di Informatica, Sistemistica e Comunicazione e del Dipartimento di Giurisprudenza dell'Università di Milano-Bicocca. Nel laboratorio ha potuto sviluppare competenze trasversali, svolgendo un ruolo attivo di ricerca sulle implicazioni giuridiche dell’innovazione digitale e supportando le attività di divulgazione e formazione, partecipando all’organizzazione di eventi come Meet Me Tonight e di convegni, anche come relatore. Dopo la laurea ha intrapreso la strada della consulenza legale, inizialmente occupandosi degli adeguamenti alla normativa in materia di protezione dei dati personali delle farmacie. Attualmente svolge un tirocinio formativo presso la società di consulenza AGM Solutions, proseguendo nell’attività di consulenza legale. Nello specifico per quanto riguarda gli adeguamenti alla normativa in ambito privacy in un panorama più ampio ed eterogeneo, curando gli aspetti non solo legali ma anche tecnico informatici dell’adeguamento alla normativa. Supporta attivamente il team di ricerca e sviluppo della società nei progetti di applicazione della tecnologia blockchain e di distributed ledger technology. Si dedica nel tempo libero alla promozione del pensiero critico e alla divulgazione scientifica nell’Associazione Culturale Albatros, nella quale ricopre la carica di consigliere direttivo. 
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#prandin">Sono finiti i biscotti – Device fingerprinting e tracciamento dell’utente senza l’utilizzo dei cookie ai tempi del GDPR</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm2">9:45 di Sabato</a>.<br/><br/>
+
+
+
+#### <a name="rinaldi"></a> Luca Rinaldi 
+
+
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#carrer"></a></b> alle <a href="/e-privacy-XXIV-programma.html#vp8">17:00 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini</a> e <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/><br/>
+
+
+
+#### <a name="senor"></a> Monica Senor 
+
+Monica Senor ha scritto numerosi articoli in materia di diritto penale delle nuove tecnologie e data protection per le riviste Medialaws, ICT Security Magazine, Il Processo Telematico, Agenda digitale ed Altalex ed ha pubblicato lavori con Egea, Giappichelli, Springer, UTET Giuridica ed Aracne. E’ fellow di NEXA, il Centro per Internet & Società del Politecnico di Torino.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#blengino"></a></b> alle <a href="/e-privacy-XXIV-programma.html#sm5">10:30 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino</a>.<br/><br/>
+
+
+
+#### <a name="tavola3"></a>   
+
+
+<br/>
+
+
+
+#### <a name="vacca"></a> Manuela Vacca  (Oohm)
+
+ Manuela Vacca
+Manuela Vacca, giornalista. PhD, addetto stampa della Regione Sardegna, come attivista per la diffusione della cultura dei dati aperti ha promosso e ha partecipato alle cinque edizioni del Cagliari Open Data Day ed è impegnata su difesa della privacy e sorveglianza globale. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
+
+Giulia Seno (Giornalista) 
+Giulia Seno è giornalista d'ANSA. Ha cominciato il mestieraccio in periodo di monopolio e lo esercita ancora oggi, quando le agenzie non sanno più che pesci prendere. Per questo si è messa a studiare quel che c'è online, tra open data e social media, a un'età in cui si pensa più all'ultima spiaggia che ai banchi di scuola. Online è anche la lavandaia.wordpress.com. Nata a Roma nel 1963, cresciuta in Perù, vive e lavora a Bologna. Pensa in italiano e spagnolo, ogni tanto parla un po' d'inglese. Ha aderito con entusiasmo a Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
+
+Renato Gabriele (Oohmm) 
+Renato Gabriele si è occupato di ICT e reti di computer dagli anni '90, per imprese e per pubbliche amministrazioni. Partecipa al progetto dadaista di Gilda35, sperimentando le dinamiche e le influenze sui Big Data dei social network. È stato membro dell'IBM WW Mid-Market Advisory Council e del comitato direttivo di IASA (International Association of System Architects). Fa parte di Bigdata42, spazio nato per usare i Big data su political bots e altri. È fondatore di Oohmm (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#vacca">Le vite (social) degli altri. Un'analisi sui dati propri che svela quelli altrui</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm6">11:15 di Venerdì</a>.<br/><br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola1">AI vs GDPR: chi ci protegge dai protettori?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm8">12:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino</a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato</a> moderata da <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>.<br/>
+
+
+
+
+#### <a name="vieri"></a> Giovambattista Vieri (ENT SRL )
+
+Son del 1964, mi occupo di informatica da quando avevo 16 anni e studiavo Elettronica Industriale. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi pubblico come software libero . Son molto appassionato di Storia e sport (praticato). Amo la buona tavola apparecchiata da discussioni interessanti.
+<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+
+
+
+
+#### <a name="zallone"></a> Raffaele Zallone (STUDIO LEGALE)
+
+Raffaele Zallone, mi occupo di privacy dal 1982 quando ero direttore dell'ufficio legale della IBM. Una volta lasciata la IBM, nel 1997, ho continuato ad occuparmi di privacy e di nuove tecnologie in vari campi: informatica, biotecnologie, telecomunicazione, ecc. negli ultimi quattro anni ho approfondito le tematiche relative alle auto autonome, per cui sono stato invitato come relatore a Werobots 2016 presso la Miami University e più recentemente all'Università di Pavia
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#zallone">Le auto a guida autonoma ed i trattamento dei dati: serve il  il gdpr?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm7">11:45 di Venerdì</a>.<br/><br/>
 
 
 

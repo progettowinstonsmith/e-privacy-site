@@ -494,3 +494,25 @@ div.linkbutton {
     width: 30%;
     margin: auto;
 }
+
+
+/* unvisited link */
+span.talk > a:visited {
+    color: red;
+}
+
+/* visited link */
+span.talk > a:link {
+    color: green;
+}
+
+/* mouse over link */
+span.talk > a:hover {
+    color: gray;
+}
+
+/* selected link */
+span.talk > a:active {
+    color: blue;
+}
+

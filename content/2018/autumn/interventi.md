@@ -1,14 +1,14 @@
-Status: draft
-Template: event
+XStatus: draft
+slug: e-privacy-XXIV-interventi
 Title: GDPR vs. Tecnologie Emergenti
-Date: 2017-08-28 10:20
+Template: event
+Date: 2018-11-30 09:02
 Category: 2018
 lang: it
 Num: XXIV
 Year: 2018
-slug: e-privacy-XXIV-interventi
 City: Roma
-Where: Campidoglio<br/>Roma
+Where: Campidoglio
 When: 30 novembre - 1 dicembre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
@@ -16,294 +16,259 @@ previd: 2018
 prev: e-privacy-XXIII
 Organizzatori: pws,hermes
 Collaboratori: bba
-Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvilca,hackthewire
-XPatrocini: comvilca
-MediaPartner: infomedia, radioradicale
+Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
+XPatrocini: comlucca
+MediaPartner: infomedia,radioradicale
 
 ## <a name="talks"></a>Gli interventi
 
-### <a name='agostini'></a> **Cloud computing: se lo conosci, lo apprezzi** di Yvette Agostini (CSA)
+#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vm1">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
 
-il cloud computing è un paradigma, non una panacea ne' tantomeno è un
-comodo capo espiatorio per quelli che sono i più comuni errori di
-progettazione in ambito informatico. Non verranno trattati i problemi
-di privacy e/o utilizzo incauto dei servizi cloud da parte degli
-utenti finali.
-
-### <a name='delninno'></a>**Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016** di Alessandro Del Ninno (Studio Legale Tonucci & Partners)
-
-L’internazionalizzazione dei mercati e la globalizzazione degli
-scenari tecnologici pongono nuove sfide alla protezione dei dati
-personali di clienti, consumatori, cittadini. I servizi di cloud
-computing, per le modalità della loro resa tecnica, rendono
-difficilmente applicabile in pratica lo stesso concetto
-giuridico-legale di “trasferimento all’estero di dati personali”: gli
-stessi dati possono essere trasferiti verso server di differenti Paesi
-in momenti diversi della stessa giornata. Quali le criticità e i
-rischi? Quali le risposte tecniche, organizzative e legali che sono
-state date dai legislatori e dalle Autorità privacy internazionali? La
-relazione si prefigge di offrire – in un’ottica pratica – l’analisi
-critica del quadro normativo di riferimento, dalla Comunicazione della
-Commissione relativa alla strategie UE in materia di cloud computing,
-alle Opinion del Gruppo dei Garanti UE sul cloud; dal parere dello
-European Data Protection Supervisor sul cloud alla risoluzione in
-materia della Conferenza internazionale delle Autorità di protezione
-dati e privacy di Montevideo, fino alle regole del Regolamento UE
-679/2016 sulla protezione dei dati personali.
-
-### <a name='destefani'></a>**"Società del Controllo" e documentazione informatica: il problema della prova digitale** di Marco Alvise De Stefani (Synaptic)
-
-E' noto che l'epoca attuale è dominata dalla tecnologia, che
-costituisce l'infrastruttura delle relazioni sociali.
-
-La comunicazione, peraltro sempre più pervasiva, avviene ormai per la
-maggior parte attraverso strumenti tecnologici. Ciò non implica
-soltanto la possibilità da parte di terzi - lo Stato, i provider,
-altri soggetti - di manipolare il flusso informativo o di intervenire
-esternamente sui contenuti, ma pone una sempre maggiore difficoltà
-nella documentazione dei rapporti sociali. Se è vero che la
-documentazione, infatti, è da sempre un elemento centrale nello
-sviluppo della socialità umana - essa può essere intesa in senso ampio
-come un'attività compiuta dall'uomo per rappresentare fatti o eventi
-attraverso degli artefatti - e se è vero che nell'antichità questa
-funzione era svolta anche in modo primitivo ma efficace - si pensi ai
-monumenti, alle opere d'arte in generale o alla scrittura - oggi
-tuttavia si assiste alla smaterializzazione dei supporti su cui tali
-rappresentazioni sono fissate. I rapporti sociali sono documentati
-essenzialmente attraverso tracce informatiche ed è complicato portare
-a sostegno delle proprie rivendicazioni giuridiche le rappresentazioni
-delle vicende umane che ne costituiscono il fondamento o che ne fanno
-titolo (es: un’email, un messaggio WhatsApp, un SMS, un post su
-Facebook).
-
-Se si considera l'ambito specifico del diritto ed in particolare il
-campo forense, si può osservare che le particolari caratteristiche
-della prova digitale impongono specifiche cautele concernenti non
-soltanto la fase di acquisizione bensì l’intero ciclo di utilizzo nel
-processo e persino la sua archiviazione al termine del
-giudizio. Spesso si sottovaluta che la prova digitale contiene
-informazioni che riguardano non solo il “cosa facciamo” (evidenze
-empiriche della nostra condotta come intercettazioni di comunicazioni,
-coordinate GPS degli spostamenti, abitudini di consumo) ma anche il
-“chi siamo” (tracce riproducibili di caratteri fisici come impronte
-digitali, registrazioni vocali, immagini). E si sottovaluta il fatto
-che tali informazioni sono facilmente manipolabili perché difficili da
-archiviare in modo definivo.  Dal punto di vista operativo il problema
-del “controllo” si pone come garanzia della funzionalità della prova
-sia rispetto all’acquisizione che alla sua gestione. Nel primo
-momento, infatti, la selezione del materiale da raccogliere deve
-tenere conto di due esigenze contrapposte: il rispetto della
-riservatezza dell’indagato, da una parte, e la necessità di verificare
-una possibile contraffazione dei dati, dall’altra. In secondo luogo,
-si prospetta l’opportunità di sottoporre i dati ad opportune misure di
-sicurezza per limitare l’accesso a quelle figure individuate
-dall’aspetto organizzativo e come strumento di gestione interna delle
-informazioni.
-
-Nel nostro contributo si sostiene la tesi che non si può pensare di
-risolvere il problema della prova informatica semplicemente
-digitalizzando le attuali procedure o adeguandole alle tecnologie
-informatiche più recenti. Occorre superare l’attuale approccio, che si
-può chiamare genericamente "analogico", con una visione "digitale"
-in cui vi è sinergia tra la prova, le figure professionali che a vario
-titolo dispongono della prova - e quindi la "controllano" - e le
-regole che garantiscono i diritti dell’imputato nella dialettica tra
-accusa e difesa. Ciò vale ancor di più se si considera che in ambienti
-cloud gli utenti – e, nelle ipotesi più avanzate, anche chi fornisce
-il servizio – non hanno accesso diretto ai calcolatori in cui sono
-memorizzate le loro risorse. In questo senso il “controllo” è solo
-apparente, anche per lo stesso provider.
-
-Nel presente contributo si esaminano alcune possibili procedure per
-l’acquisizione forense in ambienti cloud alla luce del quadro
-normativo di riferimento in Unione Europea.
-
-### <a name='epto'></a>**MindCloud! Chi controlla il caos?** di Epto (Tramaci.org)
-
-L'informatica è “informazione automatica”, informazione che elabora e
-si rielabora quando attraversa, è captata, è digitalizzata, da
-qualunque cosa sia in grado di elaborarla, sia questo un computer, un
-sistema in cloud oppure un cervelo umano.
-
-La tecnologia è sempre più connessa alla nostra realtà. Siamo immersi
-in un ambiente ricco di sistemi che raccolgono informazioni prodotte
-dalle nostre attività.
-
-Se considerassimo tutto, anche noi stessi, facenti parte di un sistema
-in cloud oppure in grid computing, quale sarebbe la nostra prospettiva
-per il futuro? Quali sono le minacce per la nostra privacy e la nostra
-integrità?
-
-Ma soprattutto, prendendo in considerazione la “teoria del caos”, come
-il caos può essere controllato e da chi? Come il controllo del caos
-sia come input che come output può influenzare i nostri comportamenti?
-
-Proveremo ad ipotizzare ed analizzare alcuni di questi aspetti
-cercando di individuare le problematiche che si conoscono di meno ma
-che sono più diffuse.
+Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
+Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
+Gli oggetti "intelligenti" richiedono cura per un utilizzo sicuro, una cura maggiore per sceglierli, un'estrema cura per concepirli e progettarli. Ma purtroppo vengono comprati d'impulso, usati malaccortamente. Vengono anche progettati in fretta e senza una visione d'insieme, contando su un'utenza preda della fascinazione e che per usarli non impiegherà nemmeno la stessa attenzione che dedica alla scelta dei pelati al supermercato.
+Come districarci tra gli oggetti intelligenti e connessi di oggi? Come prepararci all'invasione dei loro successori, sempre più piccoli, economici e per questo invisibili? O sempre più preoccupanti, come le armi autonome (AWS), antenati della razza di Terminator?
+Nello sviluppo di oggetti "intelligenti", di oggetti connessi e di oggetti dell'Internet delle Cose è importante considerare non solo la tecnologia, ma anche i modelli di business ed etici.
+Inizieremo descrivendo quelli di essi che sono considerati "archetipi", verranno poi descritte le tecnologie, sempre più impercettibili, che ne sono alla base, i modelli di business che ne guidano lo sviluppo, ed infine le problematiche etiche connesse ad essi
+Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" alla luce del GDPR chiuderanno la relazione
 
 
-### <a name='ferri'></a>**La Privacy è questione di carattere** di Edoardo Ferri (Studio Tecnico Ferri & Costantino)
 
-La diffusione dell'implementazione da parte degli sviluppatori e
-designer web dei font esterni(web-font) offerti, anche gratuitamente,
-dalle principali multinazionali operanti nel settore dell'informatica
-possono presentare dei rischi per la privacy degli utenti, così come
-un'opportunità commerciale per i fornitori del servizio. L'utilizzo
-dei caratteri esterni costituisce indubbio vantaggio in termini di
-esperienza d'uso e programmazione software, tuttavia la soluzione
-descritta può comportare la cessione inconsapevole e involontaria di
-dati informatici.
-
-### <a name='gallus'></a>**L' apocalisse zombie colpisce anche le condizioni di servizio del cloud (ma noi le accettiamo lo stesso)** di Giovanni Battista Gallus (Array - Nexa Center - Circolo dei Giuristi Telematici)
-
-Amazon, nelle sue torrenziali condizioni di utilizzo, arriva a
-regolare anche gli effetti di un apocalisse zombie (puntigliosamente
-descritta) su alcune pattuizioni contrattuali. Ma nessuno se ne è
-accorto, fino a poco tempo fa. Come nessuno, pur di usare il wi-fi, si
-è preoccupato di cedere il proprio figlio primogenito durante un
-esperimento condotto da F-Secure, che nelle condizioni aveva inserito
-una "Herod Clause". Dato per assodato che nessuno si preoccupa delle
-condizioni di servizio sull'utilizzo del cloud e che queste contengono
-pattuizioni certamente vessatorie e unilaterali, non solo in cambio di
-servizi "gratuiti" ma anche di quelli a pagamento, c'è ancora spazio
-per la tutela dei cittadini e consumatori? Siamo destinati ad essere
-perpetui prigionieri delle condizioni di servizio, affetti da sindrome
-contrattuale di Stoccolma, o abbiamo ancora qualche speranza?
-
-### <a name='giorio'></a>**Cloud o non cloud? Questo è il dilemma (almeno nella PA)** di Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)
-
-Oggi si parla di cloud, cyberspazio, macchine virtuali come una volta
-si parlava dell'etere, una sostanza immaginaria ed inafferabile, che
-si supponeva producesse effetti senza poter essere perfettamente
-compresa. In realtà non esiste il cloud, esistono HD fisici installati
-e pagati da qualcuno, localizzati in qualche punto ben preciso del
-pianeta. Non esistono macchine virtuali, esistono server gestiti in
-luoghi ban identificabili da Società registrate e finalizzate al
-profitto. Se questo concetto viene compreso, si può decidere di
-utilizzare o meno questi servizi, ma in modo cosciente, massimizzando
-i vantaggi e riducendo gli svantaggi. In particolare per le Pubbliche
-Amministrazioni, che devono districarsi fra norme, esigenze di
-bilancio, limiti tecnici e grandi raccolte di dati, spesso molto
-sensibili, si tratta di una scelta delicata che deve essere ben
-ponderata.
-
-### <a name='gobbato'></a>**La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza** di Monica Gobbato (Avvocato)
-
-La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza
-
-L'intervento mira a esaminare le novità in tema di responsabilità
-privacy per i fornitori di servizi cloud dopo l'entrata in vigore del
-nuove Regolamento Europeo Privacy (REG UE 679/2016) e dopo il nuovo
-obbligo della designazione del Data Protection Officer (DPO).
-
-1. Il Data Protection Officer e il nuovo Responsabile Esterno del trattamento nel Cloud. Quando è obbligatorio il primo e quando è sufficiente il secondo.
-2. Come si prefigura la responsabilità esterna nel cloud
-3. Quando occorre verificare il nuovo livello di tutela dei dati nel cloud (localizzazione dei server, garanzia di confidenzialità, migrazione, assicurazione danni, portabilità dei dati, tempi di conservazione dei dati, la formazione, privacy by design e by default, ecc.).
-4. Le novità a 5 anni dal Vademecum Privacy del Garante Italiano
-
-### <a name='lamuscatella'></a>**I diritti (sui dati) perduti** di Donato La Muscatella (avvocato)
-
-La costante crescita, diffusione e frammentazione dei nostri dati ha
-portato indubbi vantaggi.  È oggi possibile, infatti, accedere
-rapidamente ed in modo efficiente, da qualunque punto del globo, al
-proprio patrimonio informativo, aumentando la produttività e, per
-altro verso, diminuendo il rischio di perdere informazioni per
-incidenti di sicurezza o mancanza di attenzione dell'utente. La
-condivisione facile ed istantanea, poi, è ormai una realtà quotidiana.
-
-Ma c'è un rovescio della medaglia.
-
-Chi ha il controllo delle informazioni? Chi il potere su quei dati? 
-
-Il talk affronterà, da un punto di vista giuridico ed operativo, le
-problematiche derivanti dal rapporto tra Big Data e diritto
-all'autodeterminazione informativa, alla luce dei più recenti sviluppi
-del fenomeno.
-
-### <a name='longo'></a>**Privacy e pubblica amministrazione. La nuova sfida.** di Valentina Longo ()
+#### <a name="marzano"></a>  <a href="/e-privacy-XXIV-programma.html#vm2">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#marzano"><a href="/e-privacy-XXIV-relatori.html#marzano">Flavia Marzano (Assessora Roma Semplice)</a></a>**  
 
 
-Quali sfide dovrà affrontare la pubblica amministrazione entro il
-termine previsto per l’applicazione del Regolamento europeo? Un anno
-prima di questa importante scadenza il Garante ha richiamato
-l’attenzione delle amministrazioni sulla necessità di intraprendere
-l’insieme delle azioni preliminari alla definitiva applicazione della
-nuova disciplina. L’impatto organizzativo sarà forte, per questo sin
-dal mese di giugno il Garante ha avviato una fase di interlocuzione
-con i soggetti pubblici. Cultura, risorse dedicate e competenze,
-questa è la strada da percorrere.
-
-### <a name='pedrazzi'></a>**AL DI LA’ DELLE NUVOLE: IL CLOUD IN EUROPA TRA REGOLAZIONE E CONTRATTO** di Giorgio  Pedrazzi (Università degli studi di Brescia)
-
-OUTLINE:
-1.	Il Cloud “europeo” e la localizzazione dei dati
-2.	Il quadro normativo attuale e le prospettive
-3.	Il ruolo dell’autoregolamentazione e dei contratti 
-4.	I codici di condotta e la questione della “data retention”
-
-L’utilizzo del Cloud in Europa è in costante aumento e si moltiplicano
-anche gli strumenti a disposizione per prevenire i rischi per la
-sicurezza e la privacy degli utenti, siano essi consumatori, imprese o
-enti pubblici. I rischi connessi al cloud sono legati alle violazioni
-(data breach) e alla perdita dei dati, resi ancor meno trasparenti
-dall’invisibilità delle infrastrutture tecnologiche che supportano il
-cloud. Accanto alle risposte informatiche, il raggiungimento di
-un’elevata protezione dei dati raccolti passa anche attraverso la
-corretta applicazione di strumenti giuridici più o meno vincolanti. Il
-quadro normativo muterà con l’applicazione della (GDPR General Data
-Protection Regulation) che pone al centro la responsabilizzazione del
-titolare del trattamento e del responsabile introduce nuovi diritti,
-come la portabilità dei dati. Tra i nodi da sciogliere vi è senz’altro
-la localizzazione dei dati: la strategia dell’Unione per
-l’affermazione del Digital Single Market si va arricchendo, non senza
-scossoni come per il caso francese del cloud “sovrano”. In
-particolare, sotto il profilo del trasferimento dei dati anche al di
-fuori dell’Unione Europea è necessario analizzare gli strumenti
-giuridici come le BCR (Binding Corporate Rules) e le clausole standard
-nei contratti e i Service Level Agreement (SLA). In tema di soft law
-il ruolo dell’Analisi dei codici di condotta in ambito cloud, con
-riferimento al codice elaborato per la Commissione dal Cloud Select
-Industry Group (C-SIG), al parere del gruppo di lavoro europeo dei
-garanti art. 29 incorporato nella versione di
-maggio 2017. Parallelamente va preso in considerazione il codice di
-condotta adottato dal CISPE (Cloud Infrastructure Services Providers
-in Europe) nel gennaio di quest’anno. Tra i punti di particolare
-interesse vi è la questione della data retention, ovvero della durata
-in cui saranno conservati i dati presso il Provider dopo la cessazione
-del servizio.
 
 
-### <a name='scire'></a>**Tutela dell'Identità Digitale tra pubblico e privato** di Alberto Scire' (Tavella - Studio di Avvocati)
 
-L'identità digitale di ciascun individuo, oggi, passa attraverso il
-controllo dei dati personali su Internet, la loro circolazione, la
-loro "detenzione", la loro cancellazione. Molti (e molto diversi) sono
-gli strumenti disponibili in questa direzione: alcuni - a dire il
-vero, i più diffusi - forniti da OTT di stampo (e regolazione)
-americana; altri, di carattere prettamente pubblico e di
-regolamentazione statale (SPID, con le sue gioie e i suoi dolori);
-alcuni, ancora poco diffusi, passano attraverso iniziative private
-mosse da intenti più o meno "sociali". L'analisi dei diversi approcci
-pare interessante, per tentare di raggiungere i limiti della
-legislazione attuale sulla scorta del GDPR e delle tecnologie
-disponibili.
+#### <a name="busia"></a> IA vs GDPR <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#busia"><a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a></a>**  
 
-### <a name='senor'></a>**Le Procure nelle nuvole** di Carlo Blengino e Monica Senor ()
 
-Ispezioni, perquisizioni e sequestri nell'infosfera.
 
-Quali sono gli strumenti processuali che le Procure hanno a disposizione per cercare prove nel cloud? 
-I tradizionali mezzi di ricerca della prova - ispezioni, perquisizioni, sequestri ed intercettazioni telematiche - sono strumenti di indagine ancora idonei nell’infosfera? 
-Il transborder data access previsto dalla Convenzione di Budapest e l’art.234 bis del codice di procedura penale, introdotto nel 2015 in attuazione della Risoluzione 2178/2014 sulla lotta al terrorismo internazionale, sono misure in grado di superare i conflitti di giurisdizione nazionale?
 
-### <a name='zugnaz'></a>**La privacy dell'anima** di Efrem Zugnaz (WebPrepping)
 
-L’avvento del Cloud ha confermato i timori espressi sulla perdita di
-privacy e di identità digitale e sta anche producendo un effetto
-imprevisto: la perdita della Rete.  Ma cosa succede alla nostra anima?
-gestire la privacy dei dati è già di per sè difficile, specialmente se
-abbiamo più identità e dati diffusi nella rete. Perdere le identità
-digitali significa perdere i dati, ma non solo, anche parte della
-nostra anima. Piu' account od identità digitali sono da gestire, piu'
-STRESS e piu' PERICOLI per la sicurezza vengono introdotti."
+#### <a name="aterno"></a> GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design <a href="/e-privacy-XXIV-programma.html#vm4">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#aterno"><a href="/e-privacy-XXIV-relatori.html#aterno">Stefano Aterno </a></a>**  
+
+GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design 
+di Stefano Aterno
+
+L’etica nell’uso della tecnologia dovrebbe basarsi su un assunto semplice: la vocazione della tecnologia è aiutare gli uomini.
+Non esiste un’etica soltanto della tecnologia e in ogni settore, quando parliamo di Etica,  facciamo fatica ad applicarla e ad perseguirla veramente. Tendiamo a chiederla e ad esigerla agli altri: ognuno ha una sua Etica per esempio nello sviluppare o nell’usare la tecnologia. 
+La relazione tra tecnica ed etica è molto complessa: per riassumerla, si potrebbe sostenere che la dimensione valoriale si ritrova non solo nella deﬁnizione degli scopi, che la tecnologia dovrebbe aiutare a raggiungere, ma anche nella produzione della tecnologia stessa. La tecnologia, a sua volta, è determinante nella produzione dei valori, non solo nella misura in cui è strumento per raggiungerli, ma anche perché modiﬁca, per il suo carattere intrinseco di mediazione, il rapporto tra uomo e mondo. 
+Si tratta allora di riflettere su come configurare un’etica adeguata per le tecnologie sviluppate negli ultimi decenni: un’analisi che raccolga questo concetto e permetta di applicarlo in un contesto regolatorio (soft law).
+La descrizione della tecnologia è comunque cruciale, a livello etico, perché alcune
+implicazioni etiche del suo uso diventano evidenti solo se si conosce la sua funzionalità
+tecnica. Chi non la conosce non può comprendere. Ecco perché è importante anche la divulgazione e la conoscenza più capillare possibile sulle modalità di funzionamento degli strumenti tecnologici basati su IOT e su IA. Avvertire ora e prevenire rischi per il futuro anche perché poi, come la storia dimostra, indietro non si torna.
+ Chissà, forse hanno ragione coloro che ritengono necessario cambiare punto di vista: anziché sperare che il trattamento dei dati venga effettuato in maniera etica, bisogna costruire dei sistemi che implicano l'etica nel processo di trattamento stessa: principio di ethics by design. 
+E’ arrivato il momento di gestire questi dati compatibilmente con i diritti umani. Non è più un problema soltanto di trattamento dei dati ma di cambiamento del modo di vivere e di vivere le relazioni sociali. Al momento, sembra che ogni cosa venga conservata per sempre, ed è un aspetto che deve essere declinato nel rispetto dei diritti dell’uomo presente e futuro.
+Per l'utente medio s’impone una conoscenza sempre più attenta della tecnologia, più la conoscerà maggiori saranno le probabilità che si interfacci ad essere in maniera responsabile. 
+Questo processo deve prevedere anche la trasmissione dei principi etici di base della nostra società, dove per “Ethics by design” si deve intendere semplicemente che gli sviluppatori e gli ingegneri informatici, nello sviluppare queste nuove tecnologie, non devono rispondere solamente al codice deontologico che regola la loro professione (che molti neanche conoscono……) , ma anche ai principi etici che regolano la società in senso più ampio. 
+Si deve trattare di un cambiamento che può avvenire soltanto in senso verticale. Difficilmente avverrà dall'alto, perché che ci piaccia o no queste violazioni dei principi etici nel trattamento dei dati da parte dell'industria sono ormai legate a doppio filo con dei flussi di denaro indispensabili per la sopravvivenza delle entità stesse. 
+Quello che serve è un'educazione dal basso, di modo che gli stessi operatori dell'industria possano agire eticamente a partire direttamente dallo sviluppo delle tecnologie. Nessuno pensi di poter limitare il progresso tecnologico oppure a  vincolarlo con leggi e leggine ma in maniera direttamente proporzionale al progresso deve svilupparsi, come esigenza primaria nella cultura dell’uomo, un processo che tenda alle virtù e al vivere civile.
+Stefano Aterno
+18 ottobre 2018
+
+
+
+
+#### <a name="del ninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vm5">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#del ninno"><a href="/e-privacy-XXIV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a></a>**  
+
+Il regolamento generale sulla protezione dei dati tratta in maniera specifica la profilazione e il processo decisionale automatizzato relativo alle persone fisiche, compresa la profilazione. 
+
+La profilazione e il processo decisionale automatizzato sono utilizzati in un numero crescente di settori, tanto privati quanto pubblici. Banche e finanza, assistenza sanitaria, fiscalità, assicurazioni, marketing e pubblicità sono soltanto alcuni esempi dei settori nei quali la profilazione viene effettuata con maggiore regolarità a sostegno del processo decisionale.
+
+I progressi tecnologici e le capacità in materia di analisi dei megadati (big data), intelligenza artificiale e apprendimento automatico hanno reso più facile la creazione di profili e l’adozione di decisioni automatizzate, con potenziali ripercussioni significative sui diritti e sulle libertà delle persone fisiche.
+
+La diffusa disponibilità di dati personali su Internet e di quelli ricavabili dai dispositivi di Internet delle cose, associata alla capacità di trovare correlazioni e creare collegamenti, può consentire la determinazione, l’analisi e la previsione di aspetti della personalità, del comportamento, degli interessi e delle abitudini di una persona. 
+
+La profilazione e il processo decisionale automatizzato possono essere utili per le persone fisiche e le organizzazioni, offrendo loro vantaggi quali:
+
+•	miglioramenti dell’efficienza; 
+•	risparmi di risorse.
+
+Presentano inoltre numerose applicazioni commerciali: ad esempio, possono essere utilizzati per segmentare meglio i mercati e personalizzare i servizi e i prodotti allineandoli alle singole esigenze. Anche la medicina, l’istruzione, l’assistenza sanitaria e i trasporti possono beneficiare di questi processi.
+
+Tuttavia, la profilazione e il processo decisionale automatizzato possono comportare rischi significativi per i diritti e le libertà delle persone fisiche, che richiedono garanzie adeguate. 
+
+Questi processi possono essere poco trasparenti. Le persone fisiche potrebbero non sapere di essere profilate o non comprenderne le conseguenze. 
+
+La profilazione può perpetuare stereotipi e la segregazione sociale. Può anche confinare una persona in una categoria specifica e limitarla alle preferenze suggerite per tale categoria. Ciò può minare la libertà delle persone di scegliere, ad esempio, determinati prodotti o servizi quali libri, musica o newsfeed. In taluni casi, la profilazione può portare a previsioni imprecise, in altri al diniego di servizi e beni e a discriminazioni ingiustificate. 
+
+Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi derivanti dalla profilazione e dal processo decisionale automatizzato. Il paper intende illustrare gli impatti pratici delle Line Guida ed analizzare se le tutele predisposte siano sufficienti nell'attuale società tecnocontrollata.
+
+
+
+
+#### <a name="vacca"></a> Le vite (social) degli altri. Un'analisi sui dati propri che svela quelli altrui <a href="/e-privacy-XXIV-programma.html#vm6">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#vacca"><a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a></a>**  
+
+ll Gdpr consente un interessante esercizio di stretching dei dati. Grazie al nuovo regolamento europeo è possibile infatti accedere ai dati personali propri e ottenerne una copia richiedendoli ai grandi player. La disponibilità di dati in formato strutturato consente un 'allungamento' anche sui dati di tutti coloro che hanno interazioni con quel profilo. Nel paper proposto si analizzano le vite altrui partendo da alcuni profili social di giornalisti. Quanto questa attività impatta sui dati dei terzi?
+
+
+
+#### <a name="zallone"></a> Le auto a guida autonoma ed i trattamento dei dati: serve il  il gdpr? <a href="/e-privacy-XXIV-programma.html#vm7">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#zallone"><a href="/e-privacy-XXIV-relatori.html#zallone">Raffaele Zallone (STUDIO LEGALE)</a></a>**  
+
+Tra le nuove tecnologie pronte per essere lanciate sul mercato vi è quella delle auto a guida autonoma, un nuovo tipo di prodotto robotizzato che potrà operare solo grazie ed attraverso un sofisticato, costante, capillare  meccanismo di raccolta, elaborazione, invio e ricezione di dati, la maggior parte dei quali saranno dati personali, non solo di chi guida, ma anche relativi all'ambiente circostante in cui si muove la macchina. Come sarà regolata questa attività di trattamento di dati? con quali misure di sicurezza? e chi saranno i soggetti autorizzati a trattare questi dati. Vi sono una serie enorme di problemi che difficilmente potranno trovare risposta con il tradizionale meccanismo di informativa e consenso. Una volta ancora la legge si trova a dover inseguire una realtà del tutto nuova, che richiede di rivedere l'approccio tradizionale seguito sin qui dal legislatore
+
+
+
+#### <a name="tavola1"></a> AI vs GDPR: chi ci protegge dai protettori? <a href="/e-privacy-XXIV-programma.html#vm8">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#tavola1"><a href="/e-privacy-XXIV-relatori.html#tavola1">  </a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a></a>**  
+
+
+
+
+
+#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vp1">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
+
+Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
+Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
+Gli oggetti "intelligenti" richiedono cura per un utilizzo sicuro, una cura maggiore per sceglierli, un'estrema cura per concepirli e progettarli. Ma purtroppo vengono comprati d'impulso, usati malaccortamente. Vengono anche progettati in fretta e senza una visione d'insieme, contando su un'utenza preda della fascinazione e che per usarli non impiegherà nemmeno la stessa attenzione che dedica alla scelta dei pelati al supermercato.
+Come districarci tra gli oggetti intelligenti e connessi di oggi? Come prepararci all'invasione dei loro successori, sempre più piccoli, economici e per questo invisibili? O sempre più preoccupanti, come le armi autonome (AWS), antenati della razza di Terminator?
+Nello sviluppo di oggetti "intelligenti", di oggetti connessi e di oggetti dell'Internet delle Cose è importante considerare non solo la tecnologia, ma anche i modelli di business ed etici.
+Inizieremo descrivendo quelli di essi che sono considerati "archetipi", verranno poi descritte le tecnologie, sempre più impercettibili, che ne sono alla base, i modelli di business che ne guidano lo sviluppo, ed infine le problematiche etiche connesse ad essi
+Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" alla luce del GDPR chiuderanno la relazione
+
+
+
+#### <a name="bba"></a> Presentazione BBA 2019 <a href="/e-privacy-XXIV-programma.html#vp2">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#bba"><a href="/e-privacy-XXIV-relatori.html#bba">Winston Smith </a></a>**  
+
+
+
+
+
+#### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp3">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#ciurcina"><a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a></a>**  
+
+Le licenze libere sono state utili nel costruire beni comuni digitali, ma sono strumenti limitati sul piano tecnico-legale.
+La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contracts e come potrebbe essere utilizzato per costruire beni comuni digitali che includono anche dati personali mettendo anche a frutto il potenziale offerto dai nuovi diritti previsti dal GDPR (diritto alla portabilità dei dati, ecc.) e cercando di superarne i limiti (ambito di applicazione limitato).
+
+
+
+#### <a name="abeti"></a> Data Protection by Design e trattamenti "fluidi" <a href="/e-privacy-XXIV-programma.html#vp4">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#abeti"><a href="/e-privacy-XXIV-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a></a>**  
+
+Uno dei capisaldi del GDPR è rappresentato dalla Data Protection by Design ("DPbD"), adempimento solo apparentemente elementare. Cosa accade se la DPbD deve essere applicata a un software oppure se si progetta un trattamento con determinate finalità ma poi, lo stesso, si inserisce in un trattamento con finalità differenti?
+Come l’analisi che occorre compiere sui dati prima di comunicarli a un terzo, così la progettazione di un trattamento deve prevedere la possibilità che l’interazione non sia prevedibile a priori.
+Rifacendoci alle parole del Garante contenute nella scheda informativa resa disponibile a proposito di droni
+In base a quanto previsto dal nuovo Regolamento europeo in materia di protezione dei dati personali (Regolamento UE 2016/679), i droni, come tutti i dispositivi elettronici, devono rispettare i principi di privacy by design e privacy by default. Cioè devono essere costruiti e configurati per raccogliere meno dati possibile.
+Nell’ambito dell’Internet of Everything questo concetto assume dimensioni amplificate in quanto un orologio può nascere per indicare l’ora e questa rimane la sua unica finalità, mentre le “SmartThings” nascono con molteplici finalità, alcune definite e altre indefinite e quando entrano a far parte di una “rete” che tratta dati personali, diventano asset e possono diventare punti di debolezza del sistema di cui entrano a far parte.
+
+
+
+#### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp5">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#gobbato"><a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy (associazione in fase di costituzione))</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy (associazione in fase di costituzione))</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy (associazione in fase di costituzione))</a></a>**  
+
+ In Cina esiste già un programma nel quale ogni informazione fa parte del punteggio del Social Credit System: comportamenti d’acquisto, posizione di credito, amicizie e relazioni online. Uno scenario alla Black Mirror, con ricompense per le persone ritenute più “affidabili” e "malus" per quelle inaffidabili.
+Nel mondo, e ormai anche in Italia, sono presenti specifici siti e app mobile riguardanti strutture e professionisti sanitari che recensiscono e votano (attraverso il metodo di scoring) visite specifiche, medici e strutture.
+Secondo i dati del Journal of the American Medical Association, il 35% degli utenti ha ammesso di scegliere il medico da cui andare basandosi sulle recensioni positive.
+E’ chiaro allora come un tale processo possa portare dei rischi altissimi in termini di diritti che coinvolgono, fra l’altro, il bene supremo costituzionalmente garantito quale la libertà.  E’ proprio in questi termini che occorre ragionare ed evitare risvolti “drammatici” e “pericolosi” che segnino lo sconfinamento alla deriva di quello che potrebbe metaforicamente essere intitolato “ gli 007 sono ovunque anche se hanno una nuova veste”.  
+La relazione illustrerà gli scenari più inquietanti come quello cinese e quelli più eventualmente utili come quello sanitario. Nelle modalità di programmazione di tali attività si prenderà in esame il modello di valutazione di impatto come proposto dal WP29 sulla DPIA.
+(La relazione sarà una discussione a tre voci)
+
+
+
+#### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp6">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#carletti"><a href="/e-privacy-XXIV-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a></a>**  
+
+IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre meno perchè considerati usa e getta. I dati che raccolgono tramite sensori, webcam,..ecc non vengono tenuti a regola d'arte. Sempre più spesso è possibile trovare accesso da remoto con passwd di default a questi dispositivi o connessi alla wify di casa/alberghi senza controllo di accesso da parte di IP non autorizzati. Il mio talk che vado a proporrere è l'insicurezza di questi dispositivi attuali progettati fin dal principio come un oggetto fine a se stesso e non considerando il problema di privacy e/o sicurezza del software/firmware e dell'utilizzo/custodia dei dati raccolti.
+
+
+
+#### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp7">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#augenti"><a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a></a>**  
+
+L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
+
+
+
+#### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp8">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#carrer"><a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a></a>**  
+
+Il Freedom of Information Act (d.lgs. 97/2016) è la legge che ha introdotto in Italia il diritto di accesso agli atti prodotti e detenuti dalle Pubbliche Amministrazioni, dagli enti controllati e da quelli partecipati dallo Stato. Chiunque ha accesso ad un gran numero di documenti, dati ed informazioni che altrimenti resterebbero negli archivi.
+A due anni dalla sua introduzione e dal suo utilizzo, si rileva come il FOIA viaggi su un binario parallelo a quello della privacy, senza mai intersecarsi: questi due diritti fondamentali trovano infatti difficile applicazione durante il processo di richiesta alle informazioni. Spesso le istanze FOIA sono rigettate per motivi di privacy; altre volte le amministrazioni sembrano tutelare solo i dati personali di alcuni attori del processo. Sarebbe importante venisse attuato un delicato bilanciamento fra i due diritti, in modo tale da non incappare in un meccanismo “o tutto o niente”. In secondo luogo, sarebbe utile porre l’attenzione del legislatore sulla tutela dei dati personali del richiedente FOIA.
+
+Nello specifico siamo di fronte a un’asimmetria informativa che colloca il richiedente su un gradino più basso rispetto al controinteressato o alla PA. Una situazione che minaccia la sicurezza di particolari categorie, come ad esempio quella dei giornalisti. Dall’altra parte, e paradossalmente, le PA si trincerano dietro la protezione dei dati personali dei controinteressati per negare l’accesso agli atti. Per questo motivo, vogliamo chiedere al Garante per la privacy - attraverso un esposto (anche in ottica GDPR, al quale il nostro FOIA non si è allineato) - di tutelare in primis chi richiede informazioni pubbliche e di far prevalere il diritto alla conoscenza rispetto al segreto.
+
+Transparency Italia ha lanciato, a giugno di quest'anno, FOIA4journalists, attività di supporto alla stesura di istanze di accesso da parte dei giornalisti. Per capire quanto, effettivamente, le PA siano aperte alla condivisione di informazioni relative al numero, la tipologia e l’esito delle richieste FOIA inoltrate dai cittadini, e quanto siano sensibili alla privacy, abbiamo effettuato un monitoraggio sui 13 Ministeri italiani. Poter attribuire una categoria a quel "chiunque" che ha diritto ad inviare le richieste di accesso — siano essi giornalisti, comuni cittadini, avvocati - può infatti dare l’idea dello scenario italiano sull’utilizzo del diritto all’accesso.
+In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, sottolineando tutte le problematiche che sorgono quando il diritto di accesso si scontra con la protezione della privacy.
+
+
+
+
+#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#sm1">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
+
+Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
+Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
+Gli oggetti "intelligenti" richiedono cura per un utilizzo sicuro, una cura maggiore per sceglierli, un'estrema cura per concepirli e progettarli. Ma purtroppo vengono comprati d'impulso, usati malaccortamente. Vengono anche progettati in fretta e senza una visione d'insieme, contando su un'utenza preda della fascinazione e che per usarli non impiegherà nemmeno la stessa attenzione che dedica alla scelta dei pelati al supermercato.
+Come districarci tra gli oggetti intelligenti e connessi di oggi? Come prepararci all'invasione dei loro successori, sempre più piccoli, economici e per questo invisibili? O sempre più preoccupanti, come le armi autonome (AWS), antenati della razza di Terminator?
+Nello sviluppo di oggetti "intelligenti", di oggetti connessi e di oggetti dell'Internet delle Cose è importante considerare non solo la tecnologia, ma anche i modelli di business ed etici.
+Inizieremo descrivendo quelli di essi che sono considerati "archetipi", verranno poi descritte le tecnologie, sempre più impercettibili, che ne sono alla base, i modelli di business che ne guidano lo sviluppo, ed infine le problematiche etiche connesse ad essi
+Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" alla luce del GDPR chiuderanno la relazione
+
+
+
+#### <a name="prandin"></a> Sono finiti i biscotti – Device fingerprinting e tracciamento dell’utente senza l’utilizzo dei cookie ai tempi del GDPR <a href="/e-privacy-XXIV-programma.html#sm2">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#prandin"><a href="/e-privacy-XXIV-relatori.html#prandin">Edoardo Prandin (Bicocca Security Lab)</a></a>**  
+
+La relazione analizzerà i profili giuridici dell’utilizzo del device fingerprinting al fine di profilare e tracciare gli utenti, come tecnica alternativa all’utilizzo dei cookie, con riferimento all’attuale quadro normativo in materia di protezione dei dati personali, costituito dal nuovo regolamento generale in materia di protezione dei dati personali (Regolamento (EU) 679/206 cd. GDPR), dalla direttiva e-privacy (Direttiva 2002/58/CE) e dal progetto di regolamento che andrà a sostituirla, con considerazione delle pronunce del gruppo di lavoro articolo 29.
+
+Il nuovo regolamento in materia di protezione dei dati personali, e i testi normativi ad esso antecedenti, fanno espressa menzione, in riferimento al tracciamento dell’utente, dell’uso dello strumento dei cookie. Questa tecnica di tracciamento permette, con il salvataggio di semplici stringhe di testo sul dispositivo dell’utente, di “riconoscerlo” durante le diverse sessioni di navigazione. Ciò avviene per diverse finalità, quella più diffusa ad oggi è sicuramente il marketing. L’invio di messaggi pubblicitari mirati sulla base delle preferenze dell’utente garantisce un’accuratezza ed efficacia maggiori rispetto alle pubblicità rivolte ad un pubblico indeterminato. Per come oggi è strutturato il world wide web e gli strumenti che ad esso si appoggiano, esistono in realtà metodi alternativi per tracciare l’utente, che non prevedono l’utilizzo dei cookies.
+Collegandosi alla rete ogni dispositivo, nel momento in cui comunica con un server, invia informazioni sulle sue caratteristiche, queste informazioni spaziano dalla risoluzione in pixel dello schermo, alle dimensioni della finestra aperta dall’utente, alle caratteristiche ambientali (eventuali parti hardware come fotocamera, lettore di impronta digitale, flash), come anche versioni di software e plugin installati. Tutte queste informazioni se raccolte ed elaborate possono permettere di tracciare una sorta di “impronta digitale del dispositivo”, attraverso questa è possibile identificare in tutto o in parte i singoli utenti, anche quando questi non acconsentono all’utilizzo di cookies di profilazione. Mediante queste tecniche, definite di device fingerprinting, è possibile monitorare l’utente attraverso la raccolta di dati puramente tecnici e di proprietà del dispositivo, passivamente o attivamente e soprattutto a sua insaputa. Maggiore è il numero di informazioni che si hanno a disposizione, maggiori sono le probabilità di effettuare il single out dell’utente che sta visitando il sito o fruendo del un servizio, l’identificazione può avvenire anche fra piattaforme o dispositivi diversi. Ciò implica una serie di conseguenze sul piano giuridico della riservatezza dei dati poiché è molto difficile opporsi o sottrarsi a queste tecniche di profilazione e monitoraggio, dato che spesso si celano dietro a richieste con finalità di tipo tecnico. 
+
+	Il nuovo regolamento non menziona espressamente le tecniche di fingerprinting, questo perché, sulla base di una scelta ponderata grazie all’esperienza pregressa, il legislatore europeo ha preferito rimanere “tecnologicamente neutrale”, dettando norme generiche, al fine di evitare che eventuali nuove tecnologie non rimanessero escluse dalla disciplina. Considerata l’ampia definizione di dati personali data dal GDPR e le pronunce in materia di fingerprinting del gruppo di lavoro articolo 29, che afferma che questa tecnica può costituire trattamento di dati personali, è pacifico affermare che l’utilizzo del fingerprinting debba rispettare ed essere conforme alla normativa in materia di protezione dei dati personali. È necessario inoltre, come espressamente affermato dallo stesso gruppo di lavoro, la necessità di informare l’utente e acquisirne il consenso. 
+
+Osservando però come sono state sino ad oggi utilizzate tecniche di fingerprinting, è molto difficile immaginare che vi sia un cambiamento che porti dall'oscurità intenzionale alla piena trasparenza e alla comunicazione diretta con gli utenti, in ottemperanza ai principi del GDPR. Sicuramente un adeguamento dei trattamenti, come già avvenuto nel caso dei cookie, è quantomeno necessario ma appare evidente che l’uso del fingerprinting presenta rischi maggiori, in virtù della sua natura e della pratica diffusa di occultare l’utilizzo di queste tecniche di tracciamento. Se oggi il tema dei cookie è un argomento per il quale vi è una diffusa consapevolezza da entrambe le parti (interessati e titolari) ed è stato oggetto di un’intensa campagna di sensibilizzazione, lo stesso non accade per il device fingerprinting, forse proprio in conseguenza dell’evoluzione normativa. Con l’entrata in vigore del GDPR sarà sicuramente più difficile e costoso effettuare trattamenti sfuggendo ai controlli o operando appena al di sotto della normativa con giustificazioni ambigue. Questo sul piano teorico, dal punto di vista pratico, come la stessa direttiva e-privacy non ha determinato la scomparsa dell’uso dei cookie, non ci si può aspettare che il fingerprinting scompaia a causa del nuovo regolamento o che sia sempre ed in ogni caso conforme alla normativa. Seppure sia evidente che questo tipo di tecnica rientri nei casi regolamentati dal regolamento europeo, ciò non appare sufficiente al fine di tutelare i diritti degli interessati, sarebbe necessaria un’opera più invasiva da parte delle autorità di controllo nazionali e del EDPB, con ad esempio l’inclusione dei trattamenti basati su tecniche di fingerprinting nel novero dei trattamenti soggetti obbligatoriamente a valutazione d’impatto sul trattamento dei dati personali. 
+
+
+
+
+
+#### <a name="ferri"></a> La psicanalisi di un chatbot <a href="/e-privacy-XXIV-programma.html#sm3">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#ferri"><a href="/e-privacy-XXIV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a></a>**  
+
+Il terapista di fiducia sarà un chatbot, un robot software che verrà a conoscenza delle nostre abitudini più intime, dei farmaci di cui avremo bisogno. Saremo pronti a raccontargli i dettagli dei nostri incubi notturni. Tutto verrà processato da efficientissimi algoritmi che formuleranno la migliore terapia. Una rapida panoramica sui principali servizi sanitari gestiti per mezzo di chatbot osservando, con il dovuto senso critico, i limiti tecnici nella gestione dei dati sensibili che verranno trasformati in sensibilissime informazioni personali.
+
+
+
+#### <a name="agosti2"></a> Più di un anno di proteste possono anche far scappare Google <a href="/e-privacy-XXIV-programma.html#sm4">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#agosti2"><a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a></a>**  
+
+Circa 2 anni fa, Google annunciò il suo interesse ad installare un Campus a Berlino, nel quartiere di Kreuzberg. Poichè il gradimento del brand di G. è uno dei più alti al mondo, la notizia poteva sembrare posivita ad eccezione del gruppo di attivisti locali che vedeva, in Alphabet, una serie di problemi sociali e politici normalmente ignorati dalla stampa generalista che tristemente, si trova ad elemosinare da Google visibilità e advertising. Fast forward: a causa delle costanti proteste, il 24 Ottobre viene annunciato l'abbandono del progetto, ma la resistenza non smette, il problema si delinea sempre di più, e dopo la prima vittoria da Berlino si pianificano le prossime azioni.
+
+
+
+#### <a name="blengino"></a> Algoritmi giudiziari e bias cognitivi <a href="/e-privacy-XXIV-programma.html#sm5">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#blengino"><a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor </a></a>**  
+
+Gli algoritmi si stanno sempre più diffondendo nell’ambiente giudiziario, sia come strumenti di supporto alle professioni legali che come sistemi esperti artificiali in grado di sostituirsi o quanto meno affiancarsi al giudice nella decisione dei casi, anche in settori particolarmente delicati come il diritto penale: negli USA, ad esempio, gli algoritmi predittivi del rischio di recidiva vengono utilizzati per la determinazione della cauzione, per la definizione dei procedimenti con la "probation" e per la concessione della "parole".
+Il tema vede spesso contrapposti i tecno-entusiasti, che magnificano l’efficacia degli algoritmi predittivi e la superiore efficienza delle macchine ed i tecno-scettici, che vedono nell’algoritmo un pericolo, la misteriosa ruminazione di dati che restituisce vaticini inconfutabili che espropriano il confortante giudizio razionale dell’uomo.
+Forse ancora una volta il problema è mal posto e non c’è un vincitore, quanto a fallacia, tra la macchina e l’uomo. 
+
+
+
+
+#### <a name="giustozzi"></a> La sicurezza delle informazioni nella società postindustriale <a href="/e-privacy-XXIV-programma.html#sm6">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#giustozzi"><a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a></a>**  
+
+Si dice che l’informazione è il petrolio del terzo millennio, e non è solo un luogo comune: la società nella quale viviamo infatti è davvero la “società dell’informazione”, nel senso che trova valore in attività che riguardano l’elaborazione delle informazioni, come in passato il valore era nella trasformazione delle materie prime. Il riflesso nella nostra vita di tutti i giorni è che anche le nostre informazioni, quelle che ci riguardano, hanno un grande valore, e spesso a nostra insaputa: esse vanno quindi tutelate contro chi cerca di abusarne o sfruttarle a nostro danno. E se nell’era digitale la privacy è morta, occorre essere ancora più consapevoli e attenti per non rischiare di cadere vittima di situazioni spiacevoli o addirittura pericolose.
+
+
+
+#### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a></a>**  
+
+
+
+
+
+
+
