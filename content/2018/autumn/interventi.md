@@ -42,7 +42,7 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 
-#### <a name="busia"></a> IA vs GDPR <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
+#### <a name="busia"></a> TBA <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#busia"><a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a></a>**  
 
 
@@ -104,7 +104,7 @@ Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi d
 
 
 #### <a name="vacca"></a> Le vite (social) degli altri. Un'analisi sui dati propri che svela quelli altrui <a href="/e-privacy-XXIV-programma.html#vm6">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#vacca"><a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#vacca"><a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a></a>**  
 
 ll Gdpr consente un interessante esercizio di stretching dei dati. Grazie al nuovo regolamento europeo è possibile infatti accedere ai dati personali propri e ottenerne una copia richiedendoli ai grandi player. La disponibilità di dati in formato strutturato consente un 'allungamento' anche sui dati di tutti coloro che hanno interazioni con quel profilo. Nel paper proposto si analizzano le vite altrui partendo da alcuni profili social di giornalisti. Quanto questa attività impatta sui dati dei terzi?
 
@@ -124,7 +124,7 @@ Tra le nuove tecnologie pronte per essere lanciate sul mercato vi è quella dell
 
 
 
-#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vp1">⇧</a>
+#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vp01">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
 
 Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
@@ -137,14 +137,14 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 
-#### <a name="bba"></a> Presentazione BBA 2019 <a href="/e-privacy-XXIV-programma.html#vp2">⇧</a>
+#### <a name="bba"></a> Presentazione BBA 2019 <a href="/e-privacy-XXIV-programma.html#vp02">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#bba"><a href="/e-privacy-XXIV-relatori.html#bba">Winston Smith </a></a>**  
 
 
 
 
 
-#### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp3">⇧</a>
+#### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp03">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#ciurcina"><a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a></a>**  
 
 Le licenze libere sono state utili nel costruire beni comuni digitali, ma sono strumenti limitati sul piano tecnico-legale.
@@ -152,18 +152,14 @@ La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contra
 
 
 
-#### <a name="abeti"></a> Data Protection by Design e trattamenti "fluidi" <a href="/e-privacy-XXIV-programma.html#vp4">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#abeti"><a href="/e-privacy-XXIV-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a></a>**  
+#### <a name="gabriele"></a> TBA <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#gabriele"><a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a></a>**  
 
-Uno dei capisaldi del GDPR è rappresentato dalla Data Protection by Design ("DPbD"), adempimento solo apparentemente elementare. Cosa accade se la DPbD deve essere applicata a un software oppure se si progetta un trattamento con determinate finalità ma poi, lo stesso, si inserisce in un trattamento con finalità differenti?
-Come l’analisi che occorre compiere sui dati prima di comunicarli a un terzo, così la progettazione di un trattamento deve prevedere la possibilità che l’interazione non sia prevedibile a priori.
-Rifacendoci alle parole del Garante contenute nella scheda informativa resa disponibile a proposito di droni
-In base a quanto previsto dal nuovo Regolamento europeo in materia di protezione dei dati personali (Regolamento UE 2016/679), i droni, come tutti i dispositivi elettronici, devono rispettare i principi di privacy by design e privacy by default. Cioè devono essere costruiti e configurati per raccogliere meno dati possibile.
-Nell’ambito dell’Internet of Everything questo concetto assume dimensioni amplificate in quanto un orologio può nascere per indicare l’ora e questa rimane la sua unica finalità, mentre le “SmartThings” nascono con molteplici finalità, alcune definite e altre indefinite e quando entrano a far parte di una “rete” che tratta dati personali, diventano asset e possono diventare punti di debolezza del sistema di cui entrano a far parte.
+TBA
 
 
 
-#### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp5">⇧</a>
+#### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp05">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#gobbato"><a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy (associazione in fase di costituzione))</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy (associazione in fase di costituzione))</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy (associazione in fase di costituzione))</a></a>**  
 
  In Cina esiste già un programma nel quale ogni informazione fa parte del punteggio del Social Credit System: comportamenti d’acquisto, posizione di credito, amicizie e relazioni online. Uno scenario alla Black Mirror, con ricompense per le persone ritenute più “affidabili” e "malus" per quelle inaffidabili.
@@ -175,21 +171,21 @@ La relazione illustrerà gli scenari più inquietanti come quello cinese e quell
 
 
 
-#### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp6">⇧</a>
+#### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp06">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#carletti"><a href="/e-privacy-XXIV-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a></a>**  
 
 IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre meno perchè considerati usa e getta. I dati che raccolgono tramite sensori, webcam,..ecc non vengono tenuti a regola d'arte. Sempre più spesso è possibile trovare accesso da remoto con passwd di default a questi dispositivi o connessi alla wify di casa/alberghi senza controllo di accesso da parte di IP non autorizzati. Il mio talk che vado a proporrere è l'insicurezza di questi dispositivi attuali progettati fin dal principio come un oggetto fine a se stesso e non considerando il problema di privacy e/o sicurezza del software/firmware e dell'utilizzo/custodia dei dati raccolti.
 
 
 
-#### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp7">⇧</a>
+#### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#augenti"><a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a></a>**  
 
 L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
 
 
 
-#### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp8">⇧</a>
+#### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp08">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#carrer"><a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a></a>**  
 
 Il Freedom of Information Act (d.lgs. 97/2016) è la legge che ha introdotto in Italia il diritto di accesso agli atti prodotti e detenuti dalle Pubbliche Amministrazioni, dagli enti controllati e da quelli partecipati dallo Stato. Chiunque ha accesso ad un gran numero di documenti, dati ed informazioni che altrimenti resterebbero negli archivi.
@@ -203,10 +199,22 @@ In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, 
 
 
 
-#### <a name="vonlynx"></a> TBA <a href="/e-privacy-XXIV-programma.html#vp9">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx"> TBA </a></a>**  
+#### <a name="vonlynx"></a> Obcrypto: una proposta di legge per la privacy by default <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata)</a></a>**  
 
-TBA
+End-to-end encryption by default su tutti i dispositivi. Per legge. Questa l'unica soluzione per garantire il rispetto dell'articolo 15 della Costituzione nell'era della tecno-sorveglianza. 
+Presentazione di una proposta di legge scritta in modo collaborativo da un gruppo di attivisti politici, e che propone, tra le altre cose, anche il divieto di tracciamento dei dispositivi e l'obbligatorietà, per i produttori, di rendere pubblico e anonimamente visionabile sotto licenza General Public Affero il codice sorgente del software utilizzato per implementare le funzionalità di comunicazione.
+
+
+
+#### <a name="abeti"></a> Data Protection by Design e trattamenti "fluidi" <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#abeti"><a href="/e-privacy-XXIV-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a></a>**  
+
+Uno dei capisaldi del GDPR è rappresentato dalla Data Protection by Design ("DPbD"), adempimento solo apparentemente elementare. Cosa accade se la DPbD deve essere applicata a un software oppure se si progetta un trattamento con determinate finalità ma poi, lo stesso, si inserisce in un trattamento con finalità differenti?
+Come l’analisi che occorre compiere sui dati prima di comunicarli a un terzo, così la progettazione di un trattamento deve prevedere la possibilità che l’interazione non sia prevedibile a priori.
+Rifacendoci alle parole del Garante contenute nella scheda informativa resa disponibile a proposito di droni
+In base a quanto previsto dal nuovo Regolamento europeo in materia di protezione dei dati personali (Regolamento UE 2016/679), i droni, come tutti i dispositivi elettronici, devono rispettare i principi di privacy by design e privacy by default. Cioè devono essere costruiti e configurati per raccogliere meno dati possibile.
+Nell’ambito dell’Internet of Everything questo concetto assume dimensioni amplificate in quanto un orologio può nascere per indicare l’ora e questa rimane la sua unica finalità, mentre le “SmartThings” nascono con molteplici finalità, alcune definite e altre indefinite e quando entrano a far parte di una “rete” che tratta dati personali, diventano asset e possono diventare punti di debolezza del sistema di cui entrano a far parte.
 
 
 
@@ -271,7 +279,7 @@ Si dice che l’informazione è il petrolio del terzo millennio, e non è solo u
 
 
 #### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata)</a></a>**  
 
 
 
