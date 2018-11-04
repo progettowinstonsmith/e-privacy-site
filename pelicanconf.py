@@ -50,14 +50,14 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "EPRIVACY 2018 - AUTUMN"
 
 THIS = (
-    #('Iscriviti', 'http://lists.xed.it/ep2018-registration-form'),
-     ('Proposta Talk', '/e-privacy-XXIV-proposta.html'),
-    # ('Call for Paper', '/e-privacy-XXIV-cfp.html'),
-    # ('Slides', '/e-privacy-XXIV-programma-slides.html'),
-    #('Il programma', '/e-privacy-XXIV-programma.html'),
-    #('Gli interventi', '/e-privacy-XXIV-interventi.html'),
-    #('I relatori', '/e-privacy-XXIV-relatori.html'),
-     ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
+     #('Iscriviti', 'http://lists.xed.it/ep2018-registration-form'),
+     # ('Proposta Talk', '/e-privacy-XXIV-proposta.html'),
+     # ('Call for Paper', '/e-privacy-XXIV-cfp.html'),
+     # ('Slides', '/e-privacy-XXIV-programma-slides.html'),
+    ('Il programma', '/e-privacy-XXIV-programma.html'),
+    ('Gli interventi', '/e-privacy-XXIV-interventi.html'),
+    ('I relatori', '/e-privacy-XXIV-relatori.html'),
+     # ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
      ('FAQ per i relatori', '/e-privacy-XXIV-faq-relatori.html'),
      ('Come arrivare', '/e-privacy-XXIV-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
