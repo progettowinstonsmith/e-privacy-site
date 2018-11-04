@@ -42,7 +42,7 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 
-#### <a name="busia"></a> TBA <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
+#### <a name="busia"></a> GDPR vs. Tecnologie Emergenti <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#busia"><a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a></a>**  
 
 
@@ -62,9 +62,9 @@ Si tratta allora di riflettere su come configurare un’etica adeguata per le te
 La descrizione della tecnologia è comunque cruciale, a livello etico, perché alcune
 implicazioni etiche del suo uso diventano evidenti solo se si conosce la sua funzionalità
 tecnica. Chi non la conosce non può comprendere. Ecco perché è importante anche la divulgazione e la conoscenza più capillare possibile sulle modalità di funzionamento degli strumenti tecnologici basati su IOT e su IA. Avvertire ora e prevenire rischi per il futuro anche perché poi, come la storia dimostra, indietro non si torna.
- Chissà, forse hanno ragione coloro che ritengono necessario cambiare punto di vista: anziché sperare che il trattamento dei dati venga effettuato in maniera etica, bisogna costruire dei sistemi che implicano l'etica nel processo di trattamento stessa: principio di ethics by design. 
+ Chissà, forse hanno ragione coloro che ritengono necessario cambiare punto di vista: anziché sperare che il trattamento dei dati venga effettuato in maniera etica, bisogna costruire dei sistemi che implicano l'etica stessa nel processo di trattamento: principio di ethics by design. 
 E’ arrivato il momento di gestire questi dati compatibilmente con i diritti umani. Non è più un problema soltanto di trattamento dei dati ma di cambiamento del modo di vivere e di vivere le relazioni sociali. Al momento, sembra che ogni cosa venga conservata per sempre, ed è un aspetto che deve essere declinato nel rispetto dei diritti dell’uomo presente e futuro.
-Per l'utente medio s’impone una conoscenza sempre più attenta della tecnologia, più la conoscerà maggiori saranno le probabilità che si interfacci ad essere in maniera responsabile. 
+Per l'utente medio s’impone una conoscenza sempre più attenta della tecnologia, più la conoscerà maggiori saranno le probabilità che si interfacci ad essa in maniera responsabile. 
 Questo processo deve prevedere anche la trasmissione dei principi etici di base della nostra società, dove per “Ethics by design” si deve intendere semplicemente che gli sviluppatori e gli ingegneri informatici, nello sviluppare queste nuove tecnologie, non devono rispondere solamente al codice deontologico che regola la loro professione (che molti neanche conoscono……) , ma anche ai principi etici che regolano la società in senso più ampio. 
 Si deve trattare di un cambiamento che può avvenire soltanto in senso verticale. Difficilmente avverrà dall'alto, perché che ci piaccia o no queste violazioni dei principi etici nel trattamento dei dati da parte dell'industria sono ormai legate a doppio filo con dei flussi di denaro indispensabili per la sopravvivenza delle entità stesse. 
 Quello che serve è un'educazione dal basso, di modo che gli stessi operatori dell'industria possano agire eticamente a partire direttamente dallo sviluppo delle tecnologie. Nessuno pensi di poter limitare il progresso tecnologico oppure a  vincolarlo con leggi e leggine ma in maniera direttamente proporzionale al progresso deve svilupparsi, come esigenza primaria nella cultura dell’uomo, un processo che tenda alle virtù e al vivere civile.
@@ -74,32 +74,11 @@ Stefano Aterno
 
 
 
-#### <a name="del ninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vm5">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#del ninno"><a href="/e-privacy-XXIV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a></a>**  
+#### <a name="gallus"></a> Più DPO per tutti: il Data protection officer tra mito e realtà <a href="/e-privacy-XXIV-programma.html#vm5">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#gallus"><a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a></a>**  
 
-Il regolamento generale sulla protezione dei dati tratta in maniera specifica la profilazione e il processo decisionale automatizzato relativo alle persone fisiche, compresa la profilazione. 
-
-La profilazione e il processo decisionale automatizzato sono utilizzati in un numero crescente di settori, tanto privati quanto pubblici. Banche e finanza, assistenza sanitaria, fiscalità, assicurazioni, marketing e pubblicità sono soltanto alcuni esempi dei settori nei quali la profilazione viene effettuata con maggiore regolarità a sostegno del processo decisionale.
-
-I progressi tecnologici e le capacità in materia di analisi dei megadati (big data), intelligenza artificiale e apprendimento automatico hanno reso più facile la creazione di profili e l’adozione di decisioni automatizzate, con potenziali ripercussioni significative sui diritti e sulle libertà delle persone fisiche.
-
-La diffusa disponibilità di dati personali su Internet e di quelli ricavabili dai dispositivi di Internet delle cose, associata alla capacità di trovare correlazioni e creare collegamenti, può consentire la determinazione, l’analisi e la previsione di aspetti della personalità, del comportamento, degli interessi e delle abitudini di una persona. 
-
-La profilazione e il processo decisionale automatizzato possono essere utili per le persone fisiche e le organizzazioni, offrendo loro vantaggi quali:
-
-•	miglioramenti dell’efficienza; 
-•	risparmi di risorse.
-
-Presentano inoltre numerose applicazioni commerciali: ad esempio, possono essere utilizzati per segmentare meglio i mercati e personalizzare i servizi e i prodotti allineandoli alle singole esigenze. Anche la medicina, l’istruzione, l’assistenza sanitaria e i trasporti possono beneficiare di questi processi.
-
-Tuttavia, la profilazione e il processo decisionale automatizzato possono comportare rischi significativi per i diritti e le libertà delle persone fisiche, che richiedono garanzie adeguate. 
-
-Questi processi possono essere poco trasparenti. Le persone fisiche potrebbero non sapere di essere profilate o non comprenderne le conseguenze. 
-
-La profilazione può perpetuare stereotipi e la segregazione sociale. Può anche confinare una persona in una categoria specifica e limitarla alle preferenze suggerite per tale categoria. Ciò può minare la libertà delle persone di scegliere, ad esempio, determinati prodotti o servizi quali libri, musica o newsfeed. In taluni casi, la profilazione può portare a previsioni imprecise, in altri al diniego di servizi e beni e a discriminazioni ingiustificate. 
-
-Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi derivanti dalla profilazione e dal processo decisionale automatizzato. Il paper intende illustrare gli impatti pratici delle Line Guida ed analizzare se le tutele predisposte siano sufficienti nell'attuale società tecnocontrollata.
-
+Il Regolamento generale sulla protezione dei dati (Regolamento 2016/679/UE -GDPR) ha generalizzato la figura del Data protection officer, soggetto che dovrebbe avere una competenza specialistica in tema di protezione dei dati personali, unita alla capacità di adempiere ai propri compiti, che spaziano dalla consulenza alla sorveglianza del rispetto del Regolamento e delle policy interne, alla cooperazione con l'autorità di controllo. Nell'imminenza dell'entrata in efficacia del GDPR, si è assistito a una corsa forsennata alla nomina, che ha portato a risultati quasi comici, come nel caso di alcuni che, attanagliati dal dubbio e pressati da "consulenti" fantasiosi, hanno nominato DPO se stessi. 
+Il talk si propone di analizzare le principali problematiche sorte in ordine alla scelta del DPO, ed all'esercizio delle funzioni e compiti di questa figura nell'ambito degli enti pubblici e privati.
 
 
 
@@ -118,7 +97,7 @@ Tra le nuove tecnologie pronte per essere lanciate sul mercato vi è quella dell
 
 
 #### <a name="tavola1"></a> AI vs GDPR: chi ci protegge dai protettori? <a href="/e-privacy-XXIV-programma.html#vm8">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola1"><a href="/e-privacy-XXIV-relatori.html#tavola1">  </a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a> e <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#tavola1"><a href="/e-privacy-XXIV-relatori.html#tavola1">  </a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a>, <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a> e <a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a></a>**  
 
 
 
@@ -160,7 +139,7 @@ TBA
 
 
 #### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp05">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#gobbato"><a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy (associazione in fase di costituzione))</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy (associazione in fase di costituzione))</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy (associazione in fase di costituzione))</a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#gobbato"><a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy)</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy)</a></a>**  
 
  In Cina esiste già un programma nel quale ogni informazione fa parte del punteggio del Social Credit System: comportamenti d’acquisto, posizione di credito, amicizie e relazioni online. Uno scenario alla Black Mirror, con ricompense per le persone ritenute più “affidabili” e "malus" per quelle inaffidabili.
 Nel mondo, e ormai anche in Italia, sono presenti specifici siti e app mobile riguardanti strutture e professionisti sanitari che recensiscono e votano (attraverso il metodo di scoring) visite specifiche, medici e strutture.
@@ -179,7 +158,7 @@ IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre
 
 
 #### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#augenti"><a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#augenti"><a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso </a></a>**  
 
 L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
 
@@ -199,8 +178,8 @@ In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, 
 
 
 
-#### <a name="vonlynx"></a> Obcrypto: una proposta di legge per la privacy by default <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata)</a></a>**  
+#### <a name="vonlynx"></a> Opzioni Legislative per una Rete che non metta in Disagio la Democrazia <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
 
 End-to-end encryption by default su tutti i dispositivi. Per legge. Questa l'unica soluzione per garantire il rispetto dell'articolo 15 della Costituzione nell'era della tecno-sorveglianza. 
 Presentazione di una proposta di legge scritta in modo collaborativo da un gruppo di attivisti politici, e che propone, tra le altre cose, anche il divieto di tracciamento dei dispositivi e l'obbligatorietà, per i produttori, di rendere pubblico e anonimamente visionabile sotto licenza General Public Affero il codice sorgente del software utilizzato per implementare le funzionalità di comunicazione.
@@ -279,7 +258,7 @@ Si dice che l’informazione è il petrolio del terzo millennio, e non è solo u
 
 
 #### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata)</a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
 
 
 
