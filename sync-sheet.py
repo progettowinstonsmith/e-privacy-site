@@ -84,7 +84,7 @@ def section_talks(label, kind, srange, service, _id, info, rdb):
     for label, record in sorted(info.items()):
         try:
             people = [record['pres'], ]
-            if 'altri' in record:
+            if 'altri' in record and len(record['altri'].strip())>0:
                 altri = re.split(r', *', record['altri'])
                 people.extend(altri)
             for person in people:
@@ -190,7 +190,7 @@ def make_authors(info, rdb):
         num=EPRIVACY_N,
         org=org,
         **record)
-    if 'altri' in info:
+    if 'altri' in info and len(info['altri'])>0:
         altri = list(map(lambda x: x.strip(), re.split(',', info['altri'])))
         di += ", " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
             num=EPRIVACY_N,
@@ -279,16 +279,17 @@ def lay_talk(talk, item, db):
     con = ""
     if titolo in db:
         titolo = db[titolo]['Titolo']
-    if 'altri' in talk:
+    if 'altri' in talk and len(talk['altri'])>0:
         label = item['label']
         altri = list(map(lambda x: x.strip(), 
                          re.split(',', talk['altri'])))
         altri.append(talk['pres'])
         if label in altri:
             altri.remove(label)
-        con = ", ".join(map(
-            lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome}</a>".format(
-                num=EPRIVACY_N, **db[x.strip()]), altri))
+        if len(altri)>0:
+            con = ", ".join(map(
+                lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome}</a>".format(
+                    num=EPRIVACY_N, **db[x.strip()]), altri))
         con = " con " + re.sub(r'(.*), ([^.]*)', '\\1 e \\2', con)
     return talk, titolo, con
 
