@@ -23,7 +23,7 @@ MediaPartner: infomedia,radioradicale
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vm1">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
 
 Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
 Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
@@ -35,22 +35,15 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 
-#### <a name="marzano"></a>  <a href="/e-privacy-XXIV-programma.html#vm2">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#marzano"><a href="/e-privacy-XXIV-relatori.html#marzano">Flavia Marzano (Assessora Roma Semplice)</a></a>**  
-
-
-
-
-
 #### <a name="busia"></a> GDPR vs. Tecnologie Emergenti <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#busia"><a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a>**  
 
 
 
 
 
 #### <a name="aterno"></a> GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design <a href="/e-privacy-XXIV-programma.html#vm4">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#aterno"><a href="/e-privacy-XXIV-relatori.html#aterno">Stefano Aterno </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#aterno">Stefano Aterno </a>**  
 
 GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design 
 di Stefano Aterno
@@ -75,7 +68,7 @@ Stefano Aterno
 
 
 #### <a name="gallus"></a> Più DPO per tutti: il Data protection officer tra mito e realtà <a href="/e-privacy-XXIV-programma.html#vm5">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#gallus"><a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a>**  
 
 Il Regolamento generale sulla protezione dei dati (Regolamento 2016/679/UE -GDPR) ha generalizzato la figura del Data protection officer, soggetto che dovrebbe avere una competenza specialistica in tema di protezione dei dati personali, unita alla capacità di adempiere ai propri compiti, che spaziano dalla consulenza alla sorveglianza del rispetto del Regolamento e delle policy interne, alla cooperazione con l'autorità di controllo. Nell'imminenza dell'entrata in efficacia del GDPR, si è assistito a una corsa forsennata alla nomina, che ha portato a risultati quasi comici, come nel caso di alcuni che, attanagliati dal dubbio e pressati da "consulenti" fantasiosi, hanno nominato DPO se stessi. 
 Il talk si propone di analizzare le principali problematiche sorte in ordine alla scelta del DPO, ed all'esercizio delle funzioni e compiti di questa figura nell'ambito degli enti pubblici e privati.
@@ -83,28 +76,28 @@ Il talk si propone di analizzare le principali problematiche sorte in ordine all
 
 
 #### <a name="vacca"></a> Le vite (social) degli altri. Un'analisi sui dati propri che svela quelli altrui <a href="/e-privacy-XXIV-programma.html#vm6">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#vacca"><a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a>**  
 
 ll Gdpr consente un interessante esercizio di stretching dei dati. Grazie al nuovo regolamento europeo è possibile infatti accedere ai dati personali propri e ottenerne una copia richiedendoli ai grandi player. La disponibilità di dati in formato strutturato consente un 'allungamento' anche sui dati di tutti coloro che hanno interazioni con quel profilo. Nel paper proposto si analizzano le vite altrui partendo da alcuni profili social di giornalisti. Quanto questa attività impatta sui dati dei terzi?
 
 
 
 #### <a name="zallone"></a> Le auto a guida autonoma ed i trattamento dei dati: serve il  il gdpr? <a href="/e-privacy-XXIV-programma.html#vm7">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#zallone"><a href="/e-privacy-XXIV-relatori.html#zallone">Raffaele Zallone (STUDIO LEGALE)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#zallone">Raffaele Zallone (STUDIO LEGALE)</a>**  
 
 Tra le nuove tecnologie pronte per essere lanciate sul mercato vi è quella delle auto a guida autonoma, un nuovo tipo di prodotto robotizzato che potrà operare solo grazie ed attraverso un sofisticato, costante, capillare  meccanismo di raccolta, elaborazione, invio e ricezione di dati, la maggior parte dei quali saranno dati personali, non solo di chi guida, ma anche relativi all'ambiente circostante in cui si muove la macchina. Come sarà regolata questa attività di trattamento di dati? con quali misure di sicurezza? e chi saranno i soggetti autorizzati a trattare questi dati. Vi sono una serie enorme di problemi che difficilmente potranno trovare risposta con il tradizionale meccanismo di informativa e consenso. Una volta ancora la legge si trova a dover inseguire una realtà del tutto nuova, che richiede di rivedere l'approccio tradizionale seguito sin qui dal legislatore
 
 
 
 #### <a name="tavola1"></a> AI vs GDPR: chi ci protegge dai protettori? <a href="/e-privacy-XXIV-programma.html#vm8">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola1"><a href="/e-privacy-XXIV-relatori.html#tavola1">  </a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a>, <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a> e <a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a></a>**  
+**Modera: <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a>, <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a>, <a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a>**  
 
 
 
 
 
 #### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vp01">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
 
 Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
 Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
@@ -117,14 +110,14 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 #### <a name="bba"></a> Presentazione BBA 2019 <a href="/e-privacy-XXIV-programma.html#vp02">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#bba"><a href="/e-privacy-XXIV-relatori.html#bba">Winston Smith </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#bba">Winston Smith </a>**  
 
 
 
 
 
 #### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp03">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#ciurcina"><a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>**  
 
 Le licenze libere sono state utili nel costruire beni comuni digitali, ma sono strumenti limitati sul piano tecnico-legale.
 La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contracts e come potrebbe essere utilizzato per costruire beni comuni digitali che includono anche dati personali mettendo anche a frutto il potenziale offerto dai nuovi diritti previsti dal GDPR (diritto alla portabilità dei dati, ecc.) e cercando di superarne i limiti (ambito di applicazione limitato).
@@ -132,7 +125,7 @@ La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contra
 
 
 #### <a name="gabriele"></a> "Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll? <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#gabriele"><a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>**  
 
 Le conversazioni in Rete sono continuamente inquinate e la produzione di dati sporchi cresce senza argini. In particolare, negli ultimi mesi, i ricercatori internazionali hanno notato un massiccio aumento di troll e bot sui social media.
 Il dibattito pubblico e i profili privati sono ormai dominati dai contenuti di account automatizzati guidati da pochi utenti politicizzati, in grado di colpire o sostenere facilmente candidati e campagne elettorali, come è già avvenuto dopo l'estate in Svezia, in Assia (Germania) e come si teme anche per le elezioni di midterm negli Stati Uniti, nonostante il forte allarme arrivato già nel voto 2016 che portò Donald Trump alla presidenza.
@@ -142,7 +135,7 @@ Conoscere il reale attraverso i big data è un'azione concreta a favore dell'eco
 
 
 #### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp05">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#gobbato"><a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy)</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy)</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy)</a>**  
 
  In Cina esiste già un programma nel quale ogni informazione fa parte del punteggio del Social Credit System: comportamenti d’acquisto, posizione di credito, amicizie e relazioni online. Uno scenario alla Black Mirror, con ricompense per le persone ritenute più “affidabili” e "malus" per quelle inaffidabili.
 Nel mondo, e ormai anche in Italia, sono presenti specifici siti e app mobile riguardanti strutture e professionisti sanitari che recensiscono e votano (attraverso il metodo di scoring) visite specifiche, medici e strutture.
@@ -154,21 +147,21 @@ La relazione illustrerà gli scenari più inquietanti come quello cinese e quell
 
 
 #### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp06">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#carletti"><a href="/e-privacy-XXIV-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>**  
 
 IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre meno perchè considerati usa e getta. I dati che raccolgono tramite sensori, webcam,..ecc non vengono tenuti a regola d'arte. Sempre più spesso è possibile trovare accesso da remoto con passwd di default a questi dispositivi o connessi alla wify di casa/alberghi senza controllo di accesso da parte di IP non autorizzati. Il mio talk che vado a proporrere è l'insicurezza di questi dispositivi attuali progettati fin dal principio come un oggetto fine a se stesso e non considerando il problema di privacy e/o sicurezza del software/firmware e dell'utilizzo/custodia dei dati raccolti.
 
 
 
 #### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#augenti"><a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso </a>**  
 
 L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
 
 
 
 #### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp08">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#carrer"><a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a>**  
 
 Il Freedom of Information Act (d.lgs. 97/2016) è la legge che ha introdotto in Italia il diritto di accesso agli atti prodotti e detenuti dalle Pubbliche Amministrazioni, dagli enti controllati e da quelli partecipati dallo Stato. Chiunque ha accesso ad un gran numero di documenti, dati ed informazioni che altrimenti resterebbero negli archivi.
 A due anni dalla sua introduzione e dal suo utilizzo, si rileva come il FOIA viaggi su un binario parallelo a quello della privacy, senza mai intersecarsi: questi due diritti fondamentali trovano infatti difficile applicazione durante il processo di richiesta alle informazioni. Spesso le istanze FOIA sono rigettate per motivi di privacy; altre volte le amministrazioni sembrano tutelare solo i dati personali di alcuni attori del processo. Sarebbe importante venisse attuato un delicato bilanciamento fra i due diritti, in modo tale da non incappare in un meccanismo “o tutto o niente”. In secondo luogo, sarebbe utile porre l’attenzione del legislatore sulla tutela dei dati personali del richiedente FOIA.
@@ -182,7 +175,7 @@ In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, 
 
 
 #### <a name="vonlynx"></a> Opzioni Legislative per una Rete che non metta in Disagio la Democrazia <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#vonlynx"><a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a>**  
 
 End-to-end encryption by default su tutti i dispositivi. Per legge. Questa l'unica soluzione per garantire il rispetto dell'articolo 15 della Costituzione nell'era della tecno-sorveglianza. 
 Presentazione di una proposta di legge scritta in modo collaborativo da un gruppo di attivisti politici, e che propone, tra le altre cose, anche il divieto di tracciamento dei dispositivi e l'obbligatorietà, per i produttori, di rendere pubblico e anonimamente visionabile sotto licenza General Public Affero il codice sorgente del software utilizzato per implementare le funzionalità di comunicazione.
@@ -190,7 +183,7 @@ Presentazione di una proposta di legge scritta in modo collaborativo da un grupp
 
 
 #### <a name="delninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#delninno"><a href="/e-privacy-XXIV-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a>**  
 
 Il regolamento generale sulla protezione dei dati tratta in maniera specifica la profilazione e il processo decisionale automatizzato relativo alle persone fisiche, compresa la profilazione. 
 
@@ -219,7 +212,7 @@ Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi d
 
 
 #### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#sm1">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#calamari"><a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
 
 Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
 Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
@@ -232,7 +225,7 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 #### <a name="prandin"></a> Sono finiti i biscotti – Device fingerprinting e tracciamento dell’utente senza l’utilizzo dei cookie ai tempi del GDPR <a href="/e-privacy-XXIV-programma.html#sm2">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#prandin"><a href="/e-privacy-XXIV-relatori.html#prandin">Edoardo Prandin (Bicocca Security Lab)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#prandin">Edoardo Prandin (Bicocca Security Lab)</a>**  
 
 La relazione analizzerà i profili giuridici dell’utilizzo del device fingerprinting al fine di profilare e tracciare gli utenti, come tecnica alternativa all’utilizzo dei cookie, con riferimento all’attuale quadro normativo in materia di protezione dei dati personali, costituito dal nuovo regolamento generale in materia di protezione dei dati personali (Regolamento (EU) 679/206 cd. GDPR), dalla direttiva e-privacy (Direttiva 2002/58/CE) e dal progetto di regolamento che andrà a sostituirla, con considerazione delle pronunce del gruppo di lavoro articolo 29.
 
@@ -248,21 +241,21 @@ Osservando però come sono state sino ad oggi utilizzate tecniche di fingerprint
 
 
 #### <a name="ferri"></a> La psicanalisi di un chatbot <a href="/e-privacy-XXIV-programma.html#sm3">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#ferri"><a href="/e-privacy-XXIV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a>**  
 
 Il terapista di fiducia sarà un chatbot, un robot software che verrà a conoscenza delle nostre abitudini più intime, dei farmaci di cui avremo bisogno. Saremo pronti a raccontargli i dettagli dei nostri incubi notturni. Tutto verrà processato da efficientissimi algoritmi che formuleranno la migliore terapia. Una rapida panoramica sui principali servizi sanitari gestiti per mezzo di chatbot osservando, con il dovuto senso critico, i limiti tecnici nella gestione dei dati sensibili che verranno trasformati in sensibilissime informazioni personali.
 
 
 
 #### <a name="agosti2"></a> Più di un anno di proteste possono anche far scappare Google <a href="/e-privacy-XXIV-programma.html#sm4">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#agosti2"><a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a>**  
 
 Circa 2 anni fa, Google annunciò il suo interesse ad installare un Campus a Berlino, nel quartiere di Kreuzberg. Poichè il gradimento del brand di G. è uno dei più alti al mondo, la notizia poteva sembrare posivita ad eccezione del gruppo di attivisti locali che vedeva, in Alphabet, una serie di problemi sociali e politici normalmente ignorati dalla stampa generalista che tristemente, si trova ad elemosinare da Google visibilità e advertising. Fast forward: a causa delle costanti proteste, il 24 Ottobre viene annunciato l'abbandono del progetto, ma la resistenza non smette, il problema si delinea sempre di più, e dopo la prima vittoria da Berlino si pianificano le prossime azioni.
 
 
 
 #### <a name="blengino"></a> Algoritmi giudiziari e bias cognitivi <a href="/e-privacy-XXIV-programma.html#sm5">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#blengino"><a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor </a>**  
 
 Gli algoritmi si stanno sempre più diffondendo nell’ambiente giudiziario, sia come strumenti di supporto alle professioni legali che come sistemi esperti artificiali in grado di sostituirsi o quanto meno affiancarsi al giudice nella decisione dei casi, anche in settori particolarmente delicati come il diritto penale: negli USA, ad esempio, gli algoritmi predittivi del rischio di recidiva vengono utilizzati per la determinazione della cauzione, per la definizione dei procedimenti con la "probation" e per la concessione della "parole".
 Il tema vede spesso contrapposti i tecno-entusiasti, che magnificano l’efficacia degli algoritmi predittivi e la superiore efficienza delle macchine ed i tecno-scettici, che vedono nell’algoritmo un pericolo, la misteriosa ruminazione di dati che restituisce vaticini inconfutabili che espropriano il confortante giudizio razionale dell’uomo.
@@ -272,14 +265,14 @@ Forse ancora una volta il problema è mal posto e non c’è un vincitore, quant
 
 
 #### <a name="giustozzi"></a> La sicurezza delle informazioni nella società postindustriale <a href="/e-privacy-XXIV-programma.html#sm6">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#giustozzi"><a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a></a>**  
+**<a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>**  
 
 Si dice che l’informazione è il petrolio del terzo millennio, e non è solo un luogo comune: la società nella quale viviamo infatti è davvero la “società dell’informazione”, nel senso che trova valore in attività che riguardano l’elaborazione delle informazioni, come in passato il valore era nella trasformazione delle materie prime. Il riflesso nella nostra vita di tutti i giorni è che anche le nostre informazioni, quelle che ci riguardano, hanno un grande valore, e spesso a nostra insaputa: esse vanno quindi tutelate contro chi cerca di abusarne o sfruttarle a nostro danno. E se nell’era digitale la privacy è morta, occorre essere ancora più consapevoli e attenti per non rischiare di cadere vittima di situazioni spiacevoli o addirittura pericolose.
 
 
 
 #### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
+**Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a>**  
 
 
 

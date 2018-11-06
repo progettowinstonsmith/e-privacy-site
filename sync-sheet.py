@@ -200,6 +200,29 @@ def make_authors(info, rdb):
         di = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', di)
     return di
 
+def make_authors_roundtable(info, rdb):
+    if 'altri' in info and len(info['altri'])>0:
+        altri = list(map(lambda x: x.strip(), re.split(',', info['altri'])))
+        pres = altri.pop(0)
+        if pres in rdb:
+            record = rdb[pres]
+        else:
+            return ""
+        org = ""
+        if 'Organizzazione' in record and len(record['Organizzazione']) > 0:
+            org = "({Organizzazione})".format(**record)
+        di = "Modera: <a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
+            num=EPRIVACY_N,
+            org=org,
+            **record)
+        di += "<br/>Partecipano: " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
+            num=EPRIVACY_N,
+            **rdb[x],
+            org=("("+rdb[x]['Organizzazione']+")") if 'Organizzazione' in rdb[x] and len(rdb[x]['Organizzazione']) > 0 else '',),
+                                                   altri))
+        di = re.sub(r'(.*), ([^.]+)$', '\\1 e \\2', di)
+    return di
+
 
 def read_db(service, id, range, HEADERS=SHEET_HEADERS):
     result = service.spreadsheets().values().get(spreadsheetId=id,
@@ -372,10 +395,15 @@ def make_interventi(service, id, db, pr):
             if 'pres' in item:
                 pres = item['pres']
                 if pres in db:
-                    xdb = db[pres]
-                    if 'Descrizione' in xdb:
+                    if re.match('^tavola',pres):
+                        autori = make_authors_roundtable(item,db)
+                    else:
                         autori = make_authors(item, db)
-                        info = '#### <a name="{label}"></a> {Titolo} <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>\n**<a href="e-privacy-{num}-relatori.html#{label}">{autori}</a>**  \n\n{Descrizione}\n\n\n'.format(
+                    xdb = db[pres]
+                    if 'Titolo' in xdb and len(xdb['Titolo'].strip())==0:
+                        continue
+                    if 'Descrizione' in xdb:                        
+                        info = '#### <a name="{label}"></a> {Titolo} <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>\n**{autori}**  \n\n{Descrizione}\n\n\n'.format(
                             num=EPRIVACY_N,
                             autori=autori,
                             intervento=item['label'],

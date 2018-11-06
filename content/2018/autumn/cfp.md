@@ -2,7 +2,7 @@ XStatus: draft
 slug: e-privacy-XXIV
 Title: GDPR vs. Tecnologie Emergenti
 Template: event
-Date: 2018-11-30 09:02
+Date: 2018-10-30 09:02
 Category: 2018
 lang: it
 Num: XXIV
