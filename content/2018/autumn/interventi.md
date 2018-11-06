@@ -131,10 +131,13 @@ La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contra
 
 
 
-#### <a name="gabriele"></a> TBA <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
+#### <a name="gabriele"></a> "Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll? <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
 **<a href="e-privacy-XXIV-relatori.html#gabriele"><a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a></a>**  
 
-TBA
+Le conversazioni in Rete sono continuamente inquinate e la produzione di dati sporchi cresce senza argini. In particolare, negli ultimi mesi, i ricercatori internazionali hanno notato un massiccio aumento di troll e bot sui social media.
+Il dibattito pubblico e i profili privati sono ormai dominati dai contenuti di account automatizzati guidati da pochi utenti politicizzati, in grado di colpire o sostenere facilmente candidati e campagne elettorali, come è già avvenuto dopo l'estate in Svezia, in Assia (Germania) e come si teme anche per le elezioni di midterm negli Stati Uniti, nonostante il forte allarme arrivato già nel voto 2016 che portò Donald Trump alla presidenza.
+La vicenda italiana che ha avuto più spazio nelle top news è stata quella dei troll che hanno attaccato gli account del presidente Mattarella, in occasione della formazione del governo dopo le elezioni del 4 marzo 2018, episodio di 'odio automatizzato' sul quale ha aperto un'inchiesta la Procura di Roma e sul quale l'osservatorio Oohmm ha raccolto i big data.
+Conoscere il reale attraverso i big data è un'azione concreta a favore dell'ecologia dell'informazione e presentare i reali numeri dei fenomeni più recenti è l'ultima operazione antiboting e di contrasto all'odio in rete intrapresa dall'osservatorio Oohmm.
 
 
 
@@ -186,14 +189,32 @@ Presentazione di una proposta di legge scritta in modo collaborativo da un grupp
 
 
 
-#### <a name="abeti"></a> Data Protection by Design e trattamenti "fluidi" <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#abeti"><a href="/e-privacy-XXIV-relatori.html#abeti">Riccardo Abeti (Unione Avvocati Europei)</a></a>**  
+#### <a name="delninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
+**<a href="e-privacy-XXIV-relatori.html#delninno"><a href="/e-privacy-XXIV-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a></a>**  
 
-Uno dei capisaldi del GDPR è rappresentato dalla Data Protection by Design ("DPbD"), adempimento solo apparentemente elementare. Cosa accade se la DPbD deve essere applicata a un software oppure se si progetta un trattamento con determinate finalità ma poi, lo stesso, si inserisce in un trattamento con finalità differenti?
-Come l’analisi che occorre compiere sui dati prima di comunicarli a un terzo, così la progettazione di un trattamento deve prevedere la possibilità che l’interazione non sia prevedibile a priori.
-Rifacendoci alle parole del Garante contenute nella scheda informativa resa disponibile a proposito di droni
-In base a quanto previsto dal nuovo Regolamento europeo in materia di protezione dei dati personali (Regolamento UE 2016/679), i droni, come tutti i dispositivi elettronici, devono rispettare i principi di privacy by design e privacy by default. Cioè devono essere costruiti e configurati per raccogliere meno dati possibile.
-Nell’ambito dell’Internet of Everything questo concetto assume dimensioni amplificate in quanto un orologio può nascere per indicare l’ora e questa rimane la sua unica finalità, mentre le “SmartThings” nascono con molteplici finalità, alcune definite e altre indefinite e quando entrano a far parte di una “rete” che tratta dati personali, diventano asset e possono diventare punti di debolezza del sistema di cui entrano a far parte.
+Il regolamento generale sulla protezione dei dati tratta in maniera specifica la profilazione e il processo decisionale automatizzato relativo alle persone fisiche, compresa la profilazione. 
+
+La profilazione e il processo decisionale automatizzato sono utilizzati in un numero crescente di settori, tanto privati quanto pubblici. Banche e finanza, assistenza sanitaria, fiscalità, assicurazioni, marketing e pubblicità sono soltanto alcuni esempi dei settori nei quali la profilazione viene effettuata con maggiore regolarità a sostegno del processo decisionale.
+
+I progressi tecnologici e le capacità in materia di analisi dei megadati (big data), intelligenza artificiale e apprendimento automatico hanno reso più facile la creazione di profili e l’adozione di decisioni automatizzate, con potenziali ripercussioni significative sui diritti e sulle libertà delle persone fisiche.
+
+La diffusa disponibilità di dati personali su Internet e di quelli ricavabili dai dispositivi di Internet delle cose, associata alla capacità di trovare correlazioni e creare collegamenti, può consentire la determinazione, l’analisi e la previsione di aspetti della personalità, del comportamento, degli interessi e delle abitudini di una persona. 
+
+La profilazione e il processo decisionale automatizzato possono essere utili per le persone fisiche e le organizzazioni, offrendo loro vantaggi quali:
+
+•	miglioramenti dell’efficienza; 
+•	risparmi di risorse.
+
+Presentano inoltre numerose applicazioni commerciali: ad esempio, possono essere utilizzati per segmentare meglio i mercati e personalizzare i servizi e i prodotti allineandoli alle singole esigenze. Anche la medicina, l’istruzione, l’assistenza sanitaria e i trasporti possono beneficiare di questi processi.
+
+Tuttavia, la profilazione e il processo decisionale automatizzato possono comportare rischi significativi per i diritti e le libertà delle persone fisiche, che richiedono garanzie adeguate. 
+
+Questi processi possono essere poco trasparenti. Le persone fisiche potrebbero non sapere di essere profilate o non comprenderne le conseguenze. 
+
+La profilazione può perpetuare stereotipi e la segregazione sociale. Può anche confinare una persona in una categoria specifica e limitarla alle preferenze suggerite per tale categoria. Ciò può minare la libertà delle persone di scegliere, ad esempio, determinati prodotti o servizi quali libri, musica o newsfeed. In taluni casi, la profilazione può portare a previsioni imprecise, in altri al diniego di servizi e beni e a discriminazioni ingiustificate. 
+
+Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi derivanti dalla profilazione e dal processo decisionale automatizzato. Il paper intende illustrare gli impatti pratici delle Line Guida ed analizzare se le tutele predisposte siano sufficienti nell'attuale società tecnocontrollata.
+
 
 
 
@@ -258,7 +279,7 @@ Si dice che l’informazione è il petrolio del terzo millennio, e non è solo u
 
 
 #### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
-**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
+**<a href="e-privacy-XXIV-relatori.html#tavola3"><a href="/e-privacy-XXIV-relatori.html#tavola3">  </a>, <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a>, <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone (Bitcoin Private)</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a></a>**  
 
 
 

@@ -44,18 +44,15 @@ dove pubblica la rubrica settimanale
 
 Emmanuele Somma è prestato da anni al Progetto Winston Smith,
 collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
-Digitali. È giornalista
-pubblicista, ha fondato Linux Magazine e diretto "LOGIN, saving the
-Internet wealth".
+Digitali. È giornalista pubblicista, ha fondato Linux Magazine e
+diretto "LOGIN, saving the Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
 #### <a name="abeti"></a> Riccardo Abeti (Unione Avvocati Europei)
 
 Riccardo Abeti si occupa da 19 anni di diritto delle nuove tecnologie, privacy, protezione dei dati personali (GDPR, e-privacy, ...) e responsabilità da reato degli enti (c.d. "231"). E’ Membro eletto del Comitato esecutivo e Presidente della Commissione “New Technology, Personal Data and Communication Law” dell’Unione Avvocati Europei.
-
-Ad e-privacy XXIV presenta <br/>
-<b><a href="e-privacy-XXIV-interventi.html#abeti">Data Protection by Design e trattamenti "fluidi"</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp10">16:55 di Venerdì</a>.<br/><br/>
+<br/>
 
 
 
@@ -97,7 +94,7 @@ Adriana Augenti è avvocato in Bari, segretario della Commissione Informatica de
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
 
 
 
@@ -115,7 +112,7 @@ Ad e-privacy XXIV presenta <br/>
 
 Rebecca Berto è consulente legale del'ECC -NET Italia, progetto finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'ECC. Ha continuato a studiare specializzadosi in Risoluzione internazionale delle dispute commerciali, in altre parole arbitrati internazionli e dispute internazionali relativi ad investimenti: per questo motivo procedure come quelle previste dal WTO o ICSID sono perfettamente conosciute. Se volete chiederle dell'Energy Charter Treaty ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più. Ha iniziato per lavoro a dover fornire informazioni ed assistenza legale in materia di criptovalute: è stato il punto di partenza per approfondire sempre di più blockchain le tecnologie distribuite, seguirne i dibattiti in merito e ad approfondire i relativi aspetti giuridici.
 <br/>
-<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a>.<br/>
+<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a>.<br/>
 
 
 
@@ -171,7 +168,7 @@ A Transparency Italia, Laura Carrer si occupa di assistenza ai whistleblower che
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#carrer">Dove finisce la privacy nelle istanze FOIA?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp08">16:05 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi</a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini</a>.<br/><br/>
-<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a>.<br/>
+<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a>.<br/>
 
 
 
@@ -184,7 +181,7 @@ Attivamente impegnato per la promozione del software libero e delle libertà dig
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#ciurcina">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp03">14:15 di Venerdì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:15 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
 
 
 
@@ -217,7 +214,9 @@ Voglio vedere quanto, essi, sono in alto.
 #### <a name="delninno"></a> Alessandro Del Ninno (Studio legale Tonucci & Partners)
 
 Alessandro del Ninno, avvocato e professore universitario, è uno dei riconosciuti esperti italiani in materia di ICT e data protection. Autore di oltre 100 pubblicazioni, tra articoli, saggi, libri e monografie giuridiche dedicate alle materie dell’ICT, data protection e diritto d’autore. Ad oggi è stato invitato come relatore a circa 150 conferenze organizzate sia a livello nazionale che internazionale dalle principali istituzioni italiane e straniere.
-<br/>
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#delninno">Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp10">16:55 di Venerdì</a>.<br/><br/>
 
 
 
@@ -245,7 +244,7 @@ Renato Gabriele si è occupato di ICT e reti di computer dagli anni '90, per imp
 
 
 Ad e-privacy XXIV presenta <br/>
-<b><a href="e-privacy-XXIV-interventi.html#vacca">TBA</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm6">11:00 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>.<br/><b><a href="e-privacy-XXIV-interventi.html#gabriele">TBA</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp04">14:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>.<br/><br/>
+<b><a href="e-privacy-XXIV-interventi.html#vacca">"Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm6">11:00 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>.<br/><b><a href="e-privacy-XXIV-interventi.html#gabriele">"Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp04">14:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca </a>.<br/><br/>
 
 
 
@@ -264,7 +263,7 @@ Ad e-privacy XXIV presenta <br/>
 
 Dopo gli studi in elettrotecnica ed ingegneria meccanica, ho lavorato nella Ricerca&Sviluppo di un’azienda elettronica, in seguito mi sono trasferito negli USA per occuparmi di technical marketing e successivamente di WEB marketing. Dopo qualche altra esperienza nell'industria, ho vinto un concorso in un Comune ed ho continuato ad interessarmi dell’informatizzazione, particolarmente applicata alla PA, affiancando quindi agli aspetti tecnici i problemi giuridici. Dal 2009 collaboro con la rivista Lo Stato Civile Italiano, ed. SEPEL, con la quale ho pubblicato svariati articoli in materia di informatizzazione ed in materie demografiche. Membro del Centro Studi Informatica Giuridica Torino Ivrea (http://www.csigivreatorino.it), e di Federprivacy (http://www.federprivacy.it/), seguo le problematiche relative alla privacy, naturalmente con particolare riferimento alla Pubblica Amministrazione.
 <br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
 
 
 
@@ -324,7 +323,7 @@ Attualmente Core Developer per la comunità open source Bitcoin Private e Chief 
 
 Nel 2010 è stato coinvolto nell'ecosistema bitcoin come hacker, senza successo, partecipando alla prima conferenza su Bitcoin a Praga 2011 con il suo amico da vita Rick Falckvinge e Max Keizer (alla prima Conferenza pubblica del Bitcoin nella storia).
 <br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
 
 
 
@@ -390,7 +389,7 @@ Ad e-privacy XXIV presenta <br/>
 
 Son del 1964, mi occupo di informatica da quando avevo 16 anni e studiavo Elettronica Industriale. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi pubblico come software libero . Son molto appassionato di Storia e sport (praticato). Amo la buona tavola apparecchiata da discussioni interessanti.
 <br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
 
 
 
@@ -406,7 +405,7 @@ Carlo von LynX, tedesco cresciuto a Roma, è un attivista della rete dal 1989, l
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#vonlynx">Opzioni Legislative per una Rete che non metta in Disagio la Democrazia</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp09">16:35 di Venerdì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola3">Cryptovalute e Blòckchain alla luce della privacy</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm7">11:45 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#monteleone">Daniele Monteleone</a>, <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari</a> e <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx</a> moderata da <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto</a>.<br/>
 
 
 
