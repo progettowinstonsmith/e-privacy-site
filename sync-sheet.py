@@ -298,6 +298,8 @@ def setup_sheet_work(SPREADSHEET_ID):
     return service
 
 def lay_talk(talk, item, db):
+    pres = talk['pres']
+    item = db[pres]
     titolo = item['Titolo']
     con = ""
     if titolo in db:
@@ -337,7 +339,7 @@ def lay_roundtable(talk, item, db):
     return talk, ruolo, titolo, con
 
 def make_speaker_bio(item,db):
-    if 'Bio' in item:
+    if 'Bio' in item and 'talk' in item:
         org = ""
         if 'Organizzazione' in item and \
         len(item['Organizzazione']) > 0:
