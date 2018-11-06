@@ -154,7 +154,7 @@ IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre
 
 
 #### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
-**<a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso </a>**  
+**<a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gennaro Maria Amoruso </a>**  
 
 L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
 

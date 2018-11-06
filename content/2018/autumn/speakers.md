@@ -67,12 +67,12 @@ Ad e-privacy XXIV presenta <br/>
 
 
 
-#### <a name="amoruso"></a> Gaetano Maria Amoruso 
+#### <a name="amoruso"></a> Gennaro Maria Amoruso 
 
 Gennaro Maria Amoruso è avvocato in Roma. Responsabile per la Protezione Dati presso l'Azienda Sanitaria Locale di Viterbo e presso l'Azienda Ospedaliera San Giovanni Addolorata di Roma. È Avvocato patrocinante in Cassazione e presso le Magistrature Superiori, esperto in diritto delle nuove tecnologie e della privacy. Vanta una lunga esperienza come docente e formatore. E' Valutatore privacy ai sensi della norma UNI 11697:2017 e Auditor Data Protection per lo schema ISDP©10003:2015.
 
 Ad e-privacy XXIV presenta <br/>
-<b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso</a>.<br/><br/>
+<b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gennaro Maria Amoruso</a>.<br/><br/>
 
 
 
@@ -95,7 +95,7 @@ Ad e-privacy XXIV presenta <br/>
 Adriana Augenti è avvocato in Bari, segretario della Commissione Informatica del Consiglio dell'Ordine degli Avvocati di Bari nonché Responsabile per la Protezione Dati del ridetto Ordine. E' segretario del Centro Studi Informatica Giuridica di Bari e Vice Presidente del Centro Studi Processo Telematico. Si occupa da anni di diritto delle nuove teconologie, è docente in corsi e seminari nelle materie di sua competenza presso strutture pubbliche e private, direttore scientifico di corsi di formazione per privacy officer e autrice di articoli di settore. Come professionista si sta occupando dell'adeguamento alla nuova normativa sulla tutela dei dati personali della propria clientela, tra cui oltre a PMI annovera anche PA e imprese medio/grandi.
 
 Ad e-privacy XXIV presenta <br/>
-<b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gaetano Maria Amoruso</a>.<br/><br/>
+<b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gennaro Maria Amoruso</a>.<br/><br/>
 <br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
 
 
