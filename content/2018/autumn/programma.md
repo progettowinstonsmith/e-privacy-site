@@ -46,7 +46,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018w-registration-form">Iscriviti!</a></div>
 
-
+<br/><br/>
 ### <a name="programma"></a>Programma del Convegno
 
 #### <a name="vem"></a>Venerdì 30 Novembre 2018 - mattina
