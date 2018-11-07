@@ -37,16 +37,15 @@ _Il GDPR sarà in grado di proteggere i diritti digitali dei cittadini europei
 da tecnologie come il sequencing del DNA, l'Internet delle Cose e l'Intelligenza
 Artificiale?._
 
-<!--
+
 ###Iscrizioni
 
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
 Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
-<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a></div>
+<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2018w-registration-form">Iscriviti!</a></div>
 
--->
 
 ### <a name="programma"></a>Programma del Convegno
 
