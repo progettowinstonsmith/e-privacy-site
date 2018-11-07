@@ -29,7 +29,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 10 Ottobre, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 27 Novembre, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -57,7 +57,7 @@ referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 Certamente! 
 
 **Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il 10 Ottobre** in formato PDF obbligatoriamente (se consegnate anche
+il 27 Novembre** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).**
 
 Il computer a disposizione è connesso ad Internet e permette la
