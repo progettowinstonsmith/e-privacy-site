@@ -79,7 +79,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2017-a](http://bit.ly/eprivacy-consegna-2017-a)
+[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -104,7 +104,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-**[http://bit.ly/eprivacy-consegna-2017-a](http://bit.ly/eprivacy-consegna-2017-a)**
+[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -122,7 +122,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2017-a](http://bit.ly/eprivacy-consegna-2017-a)
+[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
