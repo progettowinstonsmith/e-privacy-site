@@ -79,7 +79,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
+[consegna slides](https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -104,7 +104,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
+[consegna slides](https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -122,7 +122,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
 caricandolo sempre sulla pagina:
 
-[https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec](consegna slides)
+[consegna slides](https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -159,20 +159,22 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Venerdì 13:
+Venerdì 30:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Gallus, Del Ninno, La Muscatella, 
-Ore 11.30 |  Agostini, Pedrazzi, Costantini, De Marco
-Ore 14.00 |  Gobbato, Ferri, Longo, Scirè
-Ore 16.30 |  Epto, Giorio, Blengino, Senor, Zugnaz
+Ore 09.00 |  
+Ore 11.30 |  
+Ore 14.00 |  
+Ore 16.30 |  
 
 Sabato 24:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Tutti
+Ore 09.00 |  
+Ore 11.00 |  
+
 
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
