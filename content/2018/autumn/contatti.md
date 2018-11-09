@@ -36,5 +36,5 @@ Solo i relatori
 
 - Sito web: [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org)
 <!-- - Pagina Facebook: [www.facebook.com/events/120596381605441](http://www.facebook.com/events/120596381605441) -->
-- Gruppo Linkedin: [https://www.linkedin.com/groups/1888831/](https://www.linkedin.com/groups/1888831/)
+- Gruppo Linkedin:  [https://www.linkedin.com/groups/1888831/](https://www.linkedin.com/groups/1888831/)
 
