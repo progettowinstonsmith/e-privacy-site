@@ -25,10 +25,10 @@ accoglienza degli ospiti al congresso.
 
 Per partecipare allo staff è sufficiente indicare la propria
 disponibilità all'indirizzo di mail
-della [segreteria](mailto:segreteria@winstonsmith.org) e NON
+della [segreteria](mailto:segreteria@winstonsmith.org) <!-- e NON
 DIMENTICARE ANCHE di iscriversi alla mailing-list
 della
-[logistica di e-privacy](http://lists.globaleaks.ninja/listinfo.cgi/logistica-eprivacy-globaleaks.ninja).
+[logistica di e-privacy](mailto:segreteria@winstonsmith.org). -->
 
 ## Collaborazioni tecniche
 

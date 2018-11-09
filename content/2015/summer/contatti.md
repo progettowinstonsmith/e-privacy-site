@@ -48,6 +48,6 @@ google.maps.event.addDomListener(window, 'load', init_map);
 # Seguici online
 
 - Sito web: [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org)
-- Pagina Facebook: [www.facebook.com/events/120596381605441](http://www.facebook.com/events/120596381605441)
-- Gruppo Linkedin: [www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about](http://www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about)
+- Facebook: [https://www.facebook.com/progetto.winston.smith](https://www.facebook.com/progetto.winston.smith)
+<!-- - Gruppo Linkedin: [www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about](http://www.linkedin.com/groups/Progetto-Winston-Smith-1888831/about) -->
 
