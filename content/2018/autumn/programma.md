@@ -17,7 +17,7 @@ prev: e-privacy-XXIII
 Organizzatori: pws,hermes
 Collaboratori: bba
 Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
-XPatrocini: comlucca
+Patrocini: romasemplice
 MediaPartner: infomedia,radioradicale
 
 ###e-privacy 2018 - winter edition
