@@ -66,7 +66,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 12:00 | 1:00 | Tavola Rotonda: <span class='talk'>[_AI vs GDPR: chi ci protegge dai protettori?_](e-privacy-XXIV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a>, <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a> e <a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a>
 13:00 |  | *PAUSA PRANZO*
 
-#### <a name="vep"></a>Venerdì 30 Novembre 2018 - pomeriggio
+#### <a name="vep"></a>Venerdì 30 Novembre 2018 - pomeriggio 
 
  * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
  
