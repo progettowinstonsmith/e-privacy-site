@@ -49,12 +49,6 @@ diretto "LOGIN, saving the Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
-#### <a name="abeti"></a> Riccardo Abeti (Unione Avvocati Europei)
-
-Riccardo Abeti si occupa da 19 anni di diritto delle nuove tecnologie, privacy, protezione dei dati personali (GDPR, e-privacy, ...) e responsabilità da reato degli enti (c.d. "231"). E’ Membro eletto del Comitato esecutivo e Presidente della Commissione “New Technology, Personal Data and Communication Law” dell’Unione Avvocati Europei.
-<br/>
-
-
 
 #### <a name="agosti2"></a> Claudio Agosti 
 
@@ -318,18 +312,6 @@ Ad e-privacy XXIV presenta <br/>
 
 
 
-#### <a name="monteleone"></a> Daniele Monteleone (Bitcoin Private)
-
-Daniele Monteleone aka Robotica è uno dei primi  italiani ad utilizzare il Bitcoin sin dal 2010,
-imprenditore seriale, cripto-specialista, cypherpunk e programmatore con oltre 20 anni di esperienza, acquisita nello sviluppo di progetti scalabili.
-
-Attualmente Core Developer per la comunità open source Bitcoin Private e Chief Visionary Officer di Metalyfe - il primo browser agnostico web 3.0 decentralizzato.
-
-Nel 2010 è stato coinvolto nell'ecosistema bitcoin come hacker, senza successo, partecipando alla prima conferenza su Bitcoin a Praga 2011 con il suo amico da vita Rick Falckvinge e Max Keizer (alla prima Conferenza pubblica del Bitcoin nella storia).
-<br/>
-
-
-
 #### <a name="prandin"></a> Edoardo Prandin (Bicocca Security Lab)
 
 Dottore in giurisprudenza presso l'università degli studi di Milano Bicocca, si laurea in informatica giuridica con un lavoro di tesi in materia di metodologie di valutazioni d’impatto e ruolo del responsabile per la protezione dei dati personali nel regolamento (EU) 679/2016. È membro del Bicocca Security Lab (conosciuto anche come BiSLab), un laboratorio interdipartimentale, che raccoglie l'esperienza nel campo della sicurezza informatica del Dipartimento di Informatica, Sistemistica e Comunicazione e del Dipartimento di Giurisprudenza dell'Università di Milano-Bicocca. Nel laboratorio ha potuto sviluppare competenze trasversali, svolgendo un ruolo attivo di ricerca sulle implicazioni giuridiche dell’innovazione digitale e supportando le attività di divulgazione e formazione, partecipando all’organizzazione di eventi come Meet Me Tonight e di convegni, anche come relatore. Dopo la laurea ha intrapreso la strada della consulenza legale, inizialmente occupandosi degli adeguamenti alla normativa in materia di protezione dei dati personali delle farmacie. Attualmente svolge un tirocinio formativo presso la società di consulenza AGM Solutions, proseguendo nell’attività di consulenza legale. Nello specifico per quanto riguarda gli adeguamenti alla normativa in ambito privacy in un panorama più ampio ed eterogeneo, curando gli aspetti non solo legali ma anche tecnico informatici dell’adeguamento alla normativa. Supporta attivamente il team di ricerca e sviluppo della società nei progetti di applicazione della tecnologia blockchain e di distributed ledger technology. Si dedica nel tempo libero alla promozione del pensiero critico e alla divulgazione scientifica nell’Associazione Culturale Albatros, nella quale ricopre la carica di consigliere direttivo. 
@@ -418,10 +400,5 @@ Raffaele Zallone, mi occupo di privacy dal 1982 quando ero direttore dell'uffici
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#zallone">Le auto a guida autonoma ed i trattamento dei dati: serve il  il gdpr?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vm7">11:30 di Venerdì</a>.<br/><br/>
-
-
-
-
-
 
 
