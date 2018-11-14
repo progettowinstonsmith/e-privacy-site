@@ -52,7 +52,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="vem"></a>Venerdì 30 Novembre 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXIV-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXIV-relatori.html#somma) Progetto Winston Smith 
 
   **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
   ------- | --- | ------- 
@@ -68,7 +68,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="vep"></a>Venerdì 30 Novembre 2018 - pomeriggio 
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXIV-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXIV-relatori.html#somma) Progetto Winston Smith 
  
   **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
   ------- | --- | ------- 
@@ -87,7 +87,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="sam"></a>Sabato 1° Dicembre 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXIV-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XXIV-relatori.html#somma) Progetto Winston Smith 
  
 
 
@@ -99,7 +99,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 10:15 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a><br/><span class='talk'>[_Più di un anno di proteste possono anche far scappare Google_](e-privacy-XXIV-interventi.html#agosti2)</span>
 10:30 | 0:30 | <a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor </a><br/><span class='talk'>[_Algoritmi giudiziari e bias cognitivi_](e-privacy-XXIV-interventi.html#blengino)</span>
 11:00 | 0:45 | <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a><br/><span class='talk'>[_La sicurezza delle informazioni nella società postindustriale_](e-privacy-XXIV-interventi.html#giustozzi)</span>
-11:45 | 1:25 | Tavola Rotonda: <span class='talk'>[_Cryptovalute e Blòckchain alla luce della privacy_](e-privacy-XXIV-interventi.html#tavola3)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a> <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a> e <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>
+11:45 | 1:25 | Tavola Rotonda: <span class='talk'>[_Cryptovalute e Blockchain alla luce della privacy_](e-privacy-XXIV-interventi.html#tavola3)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a> <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a> e <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>
 13:10 |  | Chiusura dei lavori
   
   
