@@ -116,7 +116,14 @@ Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" all
 
 
 
-#### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp03">⇧</a>
+#### <a name="sghaier"></a> Banned from Lebanon: General Security crackdown on activists  <a href="/e-privacy-XXIV-programma.html#vp03">⇧</a>
+**<a href="/e-privacy-XXIV-relatori.html#sghaier">Rima Sghaier (Hermes Center for Transparency and Digital Human Rights)</a>**  
+
+The session will be in a story-telling format. Starting from a personal account of my recent deportation from Hariri Airport in Lebanon, how it happened and why, I will try to draw the big picture of the crackdown of Lebanese General Security on activists especially those focusing on LGBT rights or anti-corruption from or coming to the country. It's a tale of abuse of power or what they call "administrative decisions" that is keeping Lebanese activists inside the country (travel ban) and foreign activists out of it (entry ban) revealing an ever-growing state of paranoia. 
+
+
+
+#### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>**  
 
 Le licenze libere sono state utili nel costruire beni comuni digitali, ma sono strumenti limitati sul piano tecnico-legale.
@@ -124,7 +131,7 @@ La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contra
 
 
 
-#### <a name="gabriele"></a> "Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll? <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
+#### <a name="gabriele"></a> "Operazione antiboting": come prendere coscienza dei dati sporchi di bot e troll? <a href="/e-privacy-XXIV-programma.html#vp05">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIV-relatori.html#seno">Giulia Seno (Giornalista)</a> e <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>**  
 
 Le conversazioni in Rete sono continuamente inquinate e la produzione di dati sporchi cresce senza argini. In particolare, negli ultimi mesi, i ricercatori internazionali hanno notato un massiccio aumento di troll e bot sui social media.
@@ -134,7 +141,7 @@ Conoscere il reale attraverso i big data è un'azione concreta a favore dell'eco
 
 
 
-#### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp05">⇧</a>
+#### <a name="gobbato"></a> Social Scoring. Dalla Cina all'Italia: come fronteggiare il trattamento dei dati di profilazione. La DPIA nel GDPR <a href="/e-privacy-XXIV-programma.html#vp06">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a>, <a href="/e-privacy-XXIV-relatori.html#micillo">Emanuela Micillo (Privacy Academy)</a> e <a href="/e-privacy-XXIV-relatori.html#frasca">Carlotta Frasca (Privacy Academy)</a>**  
 
  In Cina esiste già un programma nel quale ogni informazione fa parte del punteggio del Social Credit System: comportamenti d’acquisto, posizione di credito, amicizie e relazioni online. Uno scenario alla Black Mirror, con ricompense per le persone ritenute più “affidabili” e "malus" per quelle inaffidabili.
@@ -146,21 +153,21 @@ La relazione illustrerà gli scenari più inquietanti come quello cinese e quell
 
 
 
-#### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp06">⇧</a>
+#### <a name="carletti"></a> IoT in-sicurezza dei dati raccolti <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#carletti">Fabio Carletti (lejot opensource tecnology)</a>**  
 
 IoT sta prendendo sempre più piede ma la sicurezza dei dispositivi viene sempre meno perchè considerati usa e getta. I dati che raccolgono tramite sensori, webcam,..ecc non vengono tenuti a regola d'arte. Sempre più spesso è possibile trovare accesso da remoto con passwd di default a questi dispositivi o connessi alla wify di casa/alberghi senza controllo di accesso da parte di IP non autorizzati. Il mio talk che vado a proporrere è l'insicurezza di questi dispositivi attuali progettati fin dal principio come un oggetto fine a se stesso e non considerando il problema di privacy e/o sicurezza del software/firmware e dell'utilizzo/custodia dei dati raccolti.
 
 
 
-#### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp07">⇧</a>
+#### <a name="augenti"></a> Ricerca scientifica, dato genetico e tecnologie <a href="/e-privacy-XXIV-programma.html#vp08">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#amoruso">Gennaro Maria Amoruso </a>**  
 
 L’intervento mira ad evidenziare l’importanza della ricerca scientifica e il bilanciamento di interessi tra le finalità proprie della ricerca e le tutele e i diritti dell’interessato. Dopo una breve disamina del contesto normativo europeo e di quello nazionale, anche al fine di verificare l’aderenza del secondo al primo, si verterà sull’analisi delle nuove tecnologie applicate alla ricerca scientifica in campo genetico e l’impatto che queste hanno sulla tutela dei dati personali. In proposito verrà approfondita l’opportunità dell’adozione di misure di garanzia volte a determinare la minimizzazione e l’anonimizzazione dei dati personali e l’effettività delle stesse nonché l’opportunità e le misure di salvaguardia per il riuso di tali dati.
 
 
 
-#### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp08">⇧</a>
+#### <a name="carrer"></a> Dove finisce la privacy nelle istanze FOIA? <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a>**  
 
 Il Freedom of Information Act (d.lgs. 97/2016) è la legge che ha introdotto in Italia il diritto di accesso agli atti prodotti e detenuti dalle Pubbliche Amministrazioni, dagli enti controllati e da quelli partecipati dallo Stato. Chiunque ha accesso ad un gran numero di documenti, dati ed informazioni che altrimenti resterebbero negli archivi.
@@ -174,7 +181,7 @@ In questo talk, quindi, presenteremo anche i risultati del nostro monitoraggio, 
 
 
 
-#### <a name="vonlynx"></a> Opzioni Legislative per una Rete che non metta in Disagio la Democrazia <a href="/e-privacy-XXIV-programma.html#vp09">⇧</a>
+#### <a name="vonlynx"></a> Opzioni Legislative per una Rete che non metta in Disagio la Democrazia <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a>**  
 
 End-to-end encryption by default su tutti i dispositivi. Per legge. Questa l'unica soluzione per garantire il rispetto dell'articolo 15 della Costituzione nell'era della tecno-sorveglianza. 
@@ -182,7 +189,7 @@ Presentazione di una proposta di legge scritta in modo collaborativo da un grupp
 
 
 
-#### <a name="delninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vp10">⇧</a>
+#### <a name="delninno"></a> Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche? <a href="/e-privacy-XXIV-programma.html#vp11">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a>**  
 
 Il regolamento generale sulla protezione dei dati tratta in maniera specifica la profilazione e il processo decisionale automatizzato relativo alle persone fisiche, compresa la profilazione. 
@@ -211,17 +218,10 @@ Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi d
 
 
 
-#### <a name="agosti1"></a> aprire l'algoritmo e liberare i dati <a href="/e-privacy-XXIV-programma.html#vp11">⇧</a>
+#### <a name="agosti1"></a> aprire l'algoritmo e liberare i dati <a href="/e-privacy-XXIV-programma.html#vp12">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a>**  
 
 Da circa 2 anni un progetto sta cercando di rendere visibile l'algoritmo di Facebook. Il social network è semplicemente il primo target scelto, ma l'analisi si potrebbe applicare ad ogni piattaforma che crea contenuti personalizzati sulla base del profilo utente. Come puoi essere sicura che alcune cose di tuo interesse non ti vengano sottratte? e che altre non vengano, artificiosamente, promosse? Non c'è un modo di comprenderlo, perchè è un segreto industriale ed anche una tecnologia di tale complessità che il concetto di trasparenza smette di avere senso. Abbiamo allora sviluppato una riflessione attorno alle persone, per poter collezionare evidenze di questi trattamenti. Far esercitare, forse, anche il mitico "articolo 22" della GDPR, e per i ricercatori più dedicati, creare dati con documentata metodologia scientifica per poter iniziare a comprendere entro quali limiti di arbitrarietà, l'algoritmo, si muove.
-
-
-
-#### <a name="sghaier"></a> Banned from Lebanon: General Security crackdown on activists  <a href="/e-privacy-XXIV-programma.html#vp12">⇧</a>
-**<a href="/e-privacy-XXIV-relatori.html#sghaier">Rima Sghaier (Hermes Center for Transparency and Digital Human Rights)</a>**  
-
-The session will be in a story-telling format. Starting from a personal account of my recent deportation from Hariri Airport in Lebanon, how it happened and why, I will try to draw the big picture of the crackdown of Lebanese General Security on activists especially those focusing on LGBT rights or anti-corruption from or coming to the country. It's a tale of abuse of power or what they call "administrative decisions" that is keeping Lebanese activists inside the country (travel ban) and foreign activists out of it (entry ban) revealing an ever-growing state of paranoia. 
 
 
 
