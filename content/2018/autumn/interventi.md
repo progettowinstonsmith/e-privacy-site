@@ -211,6 +211,20 @@ Le Linee Guida WP 251 specificano i principi del GDPR per far fronte ai rischi d
 
 
 
+#### <a name="agosti1"></a> aprire l'algoritmo e liberare i dati <a href="/e-privacy-XXIV-programma.html#vp11">⇧</a>
+**<a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a>**  
+
+Da circa 2 anni un progetto sta cercando di rendere visibile l'algoritmo di Facebook. Il social network è semplicemente il primo target scelto, ma l'analisi si potrebbe applicare ad ogni piattaforma che crea contenuti personalizzati sulla base del profilo utente. Come puoi essere sicura che alcune cose di tuo interesse non ti vengano sottratte? e che altre non vengano, artificiosamente, promosse? Non c'è un modo di comprenderlo, perchè è un segreto industriale ed anche una tecnologia di tale complessità che il concetto di trasparenza smette di avere senso. Abbiamo allora sviluppato una riflessione attorno alle persone, per poter collezionare evidenze di questi trattamenti. Far esercitare, forse, anche il mitico "articolo 22" della GDPR, e per i ricercatori più dedicati, creare dati con documentata metodologia scientifica per poter iniziare a comprendere entro quali limiti di arbitrarietà, l'algoritmo, si muove.
+
+
+
+#### <a name="sghaier"></a> Banned from Lebanon: General Security crackdown on activists  <a href="/e-privacy-XXIV-programma.html#vp12">⇧</a>
+**<a href="/e-privacy-XXIV-relatori.html#sghaier">Rima Sghaier (Hermes Center for Transparency and Digital Human Rights)</a>**  
+
+The session will be in a story-telling format. Starting from a personal account of my recent deportation from Hariri Airport in Lebanon, how it happened and why, I will try to draw the big picture of the crackdown of Lebanese General Security on activists especially those focusing on LGBT rights or anti-corruption from or coming to the country. It's a tale of abuse of power or what they call "administrative decisions" that is keeping Lebanese activists inside the country (travel ban) and foreign activists out of it (entry ban) revealing an ever-growing state of paranoia. 
+
+
+
 #### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#sm1">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
 

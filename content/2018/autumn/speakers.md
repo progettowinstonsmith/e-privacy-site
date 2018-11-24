@@ -62,8 +62,6 @@ Claudio Agosti è un autodidatta esperto di privacy informatica, con un backgrou
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#agosti2">Più di un anno di proteste possono anche far scappare Google</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm4">10:15 di Sabato</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
-
 
 
 
@@ -96,8 +94,6 @@ Adriana Augenti è avvocato in Bari, segretario della Commissione Informatica de
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#augenti">Ricerca scientifica, dato genetico e tecnologie</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp07">15:35 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#amoruso">Gennaro Maria Amoruso</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
-
 
 
 
@@ -170,8 +166,6 @@ A Transparency Italia, Laura Carrer si occupa di assistenza ai whistleblower che
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#carrer">Dove finisce la privacy nelle istanze FOIA?</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp08">16:05 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi</a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini</a>.<br/><br/>
-<br/>Modera la Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti</a>.<br/>
-
 
 
 
@@ -183,8 +177,6 @@ Attivamente impegnato per la promozione del software libero e delle libertà dig
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#ciurcina">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp03">14:15 di Venerdì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXIV-interventi.html#tavola2">Dati personali e beni comuni digitali</a></b> alle <a href="/e-privacy-XXIV-programma.html#vp11">17:25 di Venerdì</a> con <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti</a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti</a> moderata da <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer</a>.<br/>
-
 
 
 
@@ -364,6 +356,27 @@ Monica Senor ha scritto numerosi articoli in materia di diritto penale delle nuo
 
 Ad e-privacy XXIV presenta <br/>
 <b><a href="e-privacy-XXIV-interventi.html#blengino">Algoritmi giudiziari e bias cognitivi</a></b> alle <a href="/e-privacy-XXIV-programma.html#sm5">10:30 di Sabato</a> con <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor</a>.<br/><br/>
+
+
+
+#### <a name="sghaier"></a> Rima Sghaier (Hermes Center for Transparency and Digital Human Rights)
+
+Rima Sghaier is an international citizen born in Tunisia and currently based in Milan, where she leads outreach and localization efforts at the Hermes Center for Transparency and Digital Human Rights, managing and contributing to projects to support NGOs, media, and investigative journalists to create secure whistleblowing platforms.
+
+She is the program manager of Digital Whistleblowing Fund, a small-grant project by the Hermes Center and Renewable Freedom Foundation that enables investigative journalism groups and human rights grassroots organizations to apply to receive financial, operational and strategic support in starting a secure digital whistleblowing initiative.
+
+Rima holds degrees in Public Law and Political Science from the Faculty of Juridical, Political and Social Sciences of Tunis.
+
+She has been active in various Tunisian and international human rights NGOs with a focus on citizen journalism, gender equality, LGBT rights and the use of technology for social change.
+
+As an independent researcher, she has been collaborating with the Hermes Center on Safe First Contact, a research project that aims to audit and improve digital security skills of communities at risk in MENA, being independent journalists/media, bloggers, religious minorities, civil society/political activists, sexual minorities and human rights NGOs/HRDs, for what relates to their first contact and community-building methods.
+
+In July 2016, she was nominated by The Guardian as one of Africa’s top 10 emerging talents to lead the continent’s digital transformation.
+
+In November 2017, she was nominated as one of 20 youth from the MENA region to participate in the 2017 edition of “SafirLab” by the French Institute and CFI, a social innovation program that supports project leaders from North Africa and the Middle East in addressing the issues facing civil society and media.
+
+Ad e-privacy XXIV presenta <br/>
+<b><a href="e-privacy-XXIV-interventi.html#sghaier">Banned from Lebanon: General Security crackdown on activists </a></b> alle <a href="/e-privacy-XXIV-programma.html#vp12">17:45 di Venerdì</a>.<br/><br/>
 
 
 

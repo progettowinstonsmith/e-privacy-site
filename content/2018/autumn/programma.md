@@ -82,8 +82,9 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 16:05 | 0:30 | <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a>, <a href="/e-privacy-XXIV-relatori.html#rinaldi">Luca Rinaldi </a> e <a href="/e-privacy-XXIV-relatori.html#coluccini">Riccardo Coluccini (Hermes Center for Transparency and Digital Human Rights)</a><br/><span class='talk'>[_Dove finisce la privacy nelle istanze FOIA?_](e-privacy-XXIV-interventi.html#carrer)</span>
 16:35 | 0:20 | <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a><br/><span class='talk'>[_Opzioni Legislative per una Rete che non metta in Disagio la Democrazia_](e-privacy-XXIV-interventi.html#vonlynx)</span>
 16:55 | 0:30 | <a href="/e-privacy-XXIV-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Le Linee guida WP 251 sul processo decisionale automatizzato relativo alle persone fisiche e sulla profilazione ai fini del regolamento 2016/679: quali tutele pratiche?_](e-privacy-XXIV-interventi.html#delninno)</span>
-17:25 | 1:00 | Tavola Rotonda: <span class='talk'>[_Dati personali e beni comuni digitali_](e-privacy-XXIV-interventi.html#tavola2)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#carrer">Laura Carrer (Transparency International Italia)</a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXIV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a>
-18:25 |  | Chiusura lavori prima giornata
+17:25 | 0:20 | <a href="/e-privacy-XXIV-relatori.html#agosti1">Claudio Agosti </a><br/><span class='talk'>[_aprire l'algoritmo e liberare i dati_](e-privacy-XXIV-interventi.html#agosti1)</span>
+17:45 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#sghaier">Rima Sghaier (Hermes Center for Transparency and Digital Human Rights)</a><br/><span class='talk'>[_Banned from Lebanon: General Security crackdown on activists _](e-privacy-XXIV-interventi.html#sghaier)</span>
+18:00 |  | Chiusura lavori prima giornata
 
 #### <a name="sam"></a>Sabato 1° Dicembre 2018 - mattina
 

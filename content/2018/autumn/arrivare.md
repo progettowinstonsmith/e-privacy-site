@@ -25,7 +25,6 @@ slug: e-privacy-XXIV-come-arrivare
 La “Sala del Carroccio” si trova in piazza del Campidoglio nel Palazzo Senatorio (il palazzo
 del Sindaco).
 
-
 Per chi arriva in taxi, può farsi portare fino a Via San Pietro in
 Carcere e da li salire al Campidoglio, una volta arrivati in cima si
 arriva direttamente alle scale per la sala.
@@ -50,5 +49,3 @@ sinistra. Le scale sono strette e contraddistinte da una colonna con una lupa in
 # A piedi
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11878.91209008647!2d12.483598578134098!3d41.898705939119075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x132f61a439c0ffef%3A0xa4307dbef261a994!2sStazione+Termini%2C+Piazza+dei+Cinquecento%2C+Roma%2C+RM!3m2!1d41.9009273!2d12.5022603!4m5!1s0x132f604c9b68c939%3A0xa560a5d14750a8e3!2sSala+Del+Carroccio%2C+Piazza+del+Campidoglio%2C+00186+Roma!3m2!1d41.8931393!2d12.482446399999999!5e0!3m2!1sit!2sit!4v1473831168345" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-

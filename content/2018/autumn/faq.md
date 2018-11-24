@@ -54,7 +54,7 @@ referenti dei relatori di Giovedì e Venerdì.](#contrattempidurante)
 
 # <a name="proiezione"></a>Posso proiettare delle slides?
 
-Certamente! 
+Certamente!
 
 **Le slide da proiettare dovranno essere consegnate **entro e non oltre
 il 27 Novembre** in formato PDF obbligatoriamente (se consegnate anche
@@ -64,7 +64,7 @@ Il computer a disposizione è connesso ad Internet e permette la
 normale navigazione Web (entro limiti ragionevoli).
 
 In alternativa sarà possibile collegare un computer personale al
-proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto). 
+proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto).
 
 Il proiettore ha un connettore VGA e una risoluzione di 640x480.
 
@@ -109,7 +109,7 @@ caricandolo su questa pagina:
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
 
-* Handouts (slide stampabili) (PDF) 
+* Handouts (slide stampabili) (PDF)
 
 Se non funziona l'applicazione online di consegna vedere
 [qui](#viaemail)
@@ -119,7 +119,7 @@ Se non funziona l'applicazione online di consegna vedere
 Se vuoi distribuire altro materiale puoi di nuovo usare il pannello di
 consegna allo stesso modo.
 
-Puoi consegnare più file (purché il nome del file che alleghi sia diverso) 
+Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
 [consegna slides](https://script.google.com/macros/s/AKfycbxGz1Ln8085KBFs-3ZH3ixHb_oeLCbLrgTDOYonBw/exec)
@@ -137,7 +137,7 @@ Se non funziona l'applicazione online di consegna vedere
 # <a name="rinunce"></a>Se voglio rinunciare all'intervento?
 
 Se per qualche motivo di forza maggiore doveste rinunciare
-all'intervento comunicatelo all'organizzazione prima possibile. 
+all'intervento comunicatelo all'organizzazione prima possibile.
 
 # <a name="contrattempiprima"></a>Se ho dei contrattempi o necessito informazioni prima del convegno?
 
@@ -149,7 +149,7 @@ Leggiamo tutto quello che ci arriva e talvolta lo capiamo persino, ma
 se non vi rispondiamo è perché la cosa che ci avete chiesto ci sta
 ponendo dei problemi, finché non li risolviamo non possiamo
 rispondervi. Non date comunque per scontato che la vostra
-comunicazione equivalga alla nostra accettazione. 
+comunicazione equivalga alla nostra accettazione.
 
 # <a name="arrivi"></a>Quando devo arrivare?
 
@@ -163,18 +163,18 @@ Venerdì 30:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  
-Ore 11.30 |  
-Ore 14.00 |  
-Ore 16.30 |  
+Ore 09.15 | Aterno, Gallus, Vacca
+Ore 11.30 | Zallone, Del Soldato, Guarino, Gobbato
+Ore 14.00 | Ciurcina, Gabriele, Carletti, Augenti
+Ore 15.30 | Carrer, Von Lynx, Del Ninno
 
-Sabato 24:
+
+Sabato 1:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  
-Ore 11.00 |  
-
+Ore 09.15 |  Prandin,Ferri,Agosti,Blengino/Senor
+Ore 11.00 |  Giustozzi,Berto,Giorio,Von Lynx,Coluccini
 
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
@@ -199,7 +199,7 @@ Il referente dei relatori per il giorno Venerdì 13 è **Marco Calamari**
 per il giorno Sabato 14 è **Emmanuele Somma**.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
-per qualsiasi evenienza. 
+per qualsiasi evenienza.
 
 **È inutile telefonare!**
 
@@ -221,5 +221,3 @@ ad esempio:
     Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
 
 allegando il file al messaggio.
-
-

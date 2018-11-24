@@ -1,3 +1,5 @@
+# coding: utf-8
+
 """
 Shows basic usage of the Sheets API. Prints values from a Google Spreadsheet.
 """
@@ -29,9 +31,9 @@ SESSIONI = (
     )),
     ("VENERDI_POMERIGGIO", 0, 1, (
         ("Apertura", 'open', 'Venerdì!A16:J16'),
-        ("Venerdì Pomeriggio", 'talks', "Venerdì!A17:J25"),
-        ("Tavola Rotonda", 'roundtable', 'Venerdì!A26:J26'),
-        ("Chiusura lavori prima giornata", 'pausa', 'Venerdì!A27:J27'),
+        ("Venerdì Pomeriggio", 'talks', "Venerdì!A17:J27"),
+        # ("Tavola Rotonda", 'roundtable', 'Venerdì!A26:J26'),
+        ("Chiusura lavori prima giornata", 'pausa', 'Venerdì!A28:J28'),
     )),
     ("SABATO_MATTINA", 1, 0, (
         ("Sabato Mattina", 'talks', "Sabato!A2:J7"),
@@ -95,7 +97,7 @@ def section_talks(label, kind, srange, service, _id, info, rdb):
             names = make_persons(people, rdb)
             durata = re.sub(r'^0(|(0:))', '', record['Durata'])
             titolo = rdb[record['pres']]['Titolo']
-            titolo = mk_intervento(titolo, record['pres']) 
+            titolo = mk_intervento(titolo, record['pres'])
             lines.append(program_line(record['Ora'],
                                       durata,
                                       names + "<br/>" + titolo ))
@@ -125,7 +127,7 @@ def section_roundtable(label, kind, srange, service, _id, info, rdb):
             names = "Modera: "+modera+"<br/>Partecipano: "+names
             durata = re.sub(r'^0(|(0:))', '', record['Durata'])
             titolo = rdb[record['pres']]['Titolo']
-            titolo = "Tavola Rotonda: " + mk_intervento(titolo, record['pres']) 
+            titolo = "Tavola Rotonda: " + mk_intervento(titolo, record['pres'])
             lines.append(program_line(record['Ora'],
                                       durata,
                                       titolo + "<br/>" + names))
@@ -257,21 +259,21 @@ def read_programma_db(service, _id, rdb, SESSIONI):
         LOGGER.info('SESSIONE '+variable)
         for label, kind, srange in sessione:
             LOGGER.info('    PARTE '+label)
-            prog = read_db(service, 
-                           _id, 
-                           srange, 
+            prog = read_db(service,
+                           _id,
+                           srange,
                            HEADERS=('label', 'Giorno', 'Ora',
-                                    'Durata', 'TECH', 'Titolo', 
+                                    'Durata', 'TECH', 'Titolo',
                                     'Autore', 'pres', 'altri',
                                     'conferma'))
             db["{}.{}".format(J,K)].update(prog)
             func = "section_" + kind
             if func not in globals():
-                raise SyntaxError('function {} ' 
+                raise SyntaxError('function {} '
                 'not in globals()'.format(func))
             else:
                 func = globals()[func]
-            prglines, rdb = func(label, kind, srange, 
+            prglines, rdb = func(label, kind, srange,
                             service, _id, prog, rdb)
             program.extend(prglines)
         variables[variable] = '\n'.join(program)
@@ -306,7 +308,7 @@ def lay_talk(talk, item, db):
         titolo = db[titolo]['Titolo']
     if 'altri' in talk and len(talk['altri'])>0:
         label = item['label']
-        altri = list(map(lambda x: x.strip(), 
+        altri = list(map(lambda x: x.strip(),
                          re.split(',', talk['altri'])))
         altri.append(talk['pres'])
         if label in altri:
@@ -325,11 +327,11 @@ def lay_roundtable(talk, item, db):
     ruolo = "Partecipa al"
     if 'altri' in talk:
         label = item['label']
-        altri = list(map(lambda x: x.strip(), 
+        altri = list(map(lambda x: x.strip(),
                          re.split(',', talk['altri'])))
         moderatore = altri.pop(0)
         if moderatore == label:
-            ruolo = "Modera "        
+            ruolo = "Modera "
         con = ", ".join(map(
             lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome}</a>".format(
                 num=EPRIVACY_N, **db[x.strip()]), altri))
@@ -348,10 +350,10 @@ def make_speaker_bio(item,db):
         #    item['talk'] = db[item['Titolo']]['talk']
         bio = '#### <a name="{label}"></a> {Nome} {Cognome} {org}\n\n{Bio}\n'.format(
             num=EPRIVACY_N,
-            org=org, 
+            org=org,
             **item )
         # <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>
-        #                 intervento=item['talk']['label'], 
+        #                 intervento=item['talk']['label'],
         talks = []
         if 'talk' in item:
             for talk in item['talk']:
@@ -374,7 +376,7 @@ def make_speaker_bio(item,db):
                 bio += "<br/>{ruolo}la Tavola Rotonda <b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(ruolo=ruolo,num=EPRIVACY_N, label=talk['pres']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format(  num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>\n\n"
         bio += '\n\n'
         return bio
-        
+
 def make_speakers(service, id, db):
     relatori = {}
     for key, item in db.items():
@@ -404,7 +406,7 @@ def make_interventi(service, id, db, pr):
                     xdb = db[pres]
                     if 'Titolo' in xdb and len(xdb['Titolo'].strip())==0:
                         continue
-                    if 'Descrizione' in xdb:                        
+                    if 'Descrizione' in xdb:
                         info = '#### <a name="{label}"></a> {Titolo} <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>\n**{autori}**  \n\n{Descrizione}\n\n\n'.format(
                             num=EPRIVACY_N,
                             autori=autori,
