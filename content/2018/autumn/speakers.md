@@ -169,7 +169,7 @@ Ad e-privacy XXIV presenta <br/>
 
 
 
-#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
+#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it, Fellow Nexa Center)
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
 Docente in "Diritto ed etica della comunicazione" presso la facoltà di Ingegneria dell'Informazione del Politecnico di Torino.

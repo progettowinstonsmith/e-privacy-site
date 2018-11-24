@@ -124,7 +124,7 @@ The session will be in a story-telling format. Starting from a personal account 
 
 
 #### <a name="ciurcina"></a> Dati personali e beni comuni digitali <a href="/e-privacy-XXIV-programma.html#vp04">⇧</a>
-**<a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>**  
+**<a href="/e-privacy-XXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it, Fellow Nexa Center)</a>**  
 
 Le licenze libere sono state utili nel costruire beni comuni digitali, ma sono strumenti limitati sul piano tecnico-legale.
 La presentazione esplora il potenziale tecnico-legale offerto dagli smart-contracts e come potrebbe essere utilizzato per costruire beni comuni digitali che includono anche dati personali mettendo anche a frutto il potenziale offerto dai nuovi diritti previsti dal GDPR (diritto alla portabilità dei dati, ecc.) e cercando di superarne i limiti (ambito di applicazione limitato).
