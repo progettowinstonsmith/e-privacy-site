@@ -22,24 +22,12 @@ MediaPartner: infomedia,radioradicale
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vm1">⇧</a>
+#### <a name="calamari"></a> GDPR vs. Tecnologie Emergenti <a href="/e-privacy-XXIV-programma.html#vm1">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
-
-Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
-Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
-Gli oggetti "intelligenti" richiedono cura per un utilizzo sicuro, una cura maggiore per sceglierli, un'estrema cura per concepirli e progettarli. Ma purtroppo vengono comprati d'impulso, usati malaccortamente. Vengono anche progettati in fretta e senza una visione d'insieme, contando su un'utenza preda della fascinazione e che per usarli non impiegherà nemmeno la stessa attenzione che dedica alla scelta dei pelati al supermercato.
-Come districarci tra gli oggetti intelligenti e connessi di oggi? Come prepararci all'invasione dei loro successori, sempre più piccoli, economici e per questo invisibili? O sempre più preoccupanti, come le armi autonome (AWS), antenati della razza di Terminator?
-Nello sviluppo di oggetti "intelligenti", di oggetti connessi e di oggetti dell'Internet delle Cose è importante considerare non solo la tecnologia, ma anche i modelli di business ed etici.
-Inizieremo descrivendo quelli di essi che sono considerati "archetipi", verranno poi descritte le tecnologie, sempre più impercettibili, che ne sono alla base, i modelli di business che ne guidano lo sviluppo, ed infine le problematiche etiche connesse ad essi
-Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" alla luce del GDPR chiuderanno la relazione
-
 
 
 #### <a name="busia"></a> GDPR vs. Tecnologie Emergenti <a href="/e-privacy-XXIV-programma.html#vm3">⇧</a>
 **<a href="/e-privacy-XXIV-relatori.html#busia">Giuseppe Busia (Segretario Generale Garante Privacy)</a>**  
-
-
-
 
 
 #### <a name="aterno"></a> GDPR, Intelligenza artificiale e IOT: un approccio Ethics by design <a href="/e-privacy-XXIV-programma.html#vm4">⇧</a>
@@ -93,19 +81,6 @@ Tra le nuove tecnologie pronte per essere lanciate sul mercato vi è quella dell
 **Modera: <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#vacca">Manuela Vacca  (Oohm)</a>, <a href="/e-privacy-XXIV-relatori.html#guarino">Alessandro Guarino </a>, <a href="/e-privacy-XXIV-relatori.html#del soldato">Flavio Del Soldato (Matris lingua - I Want My Language Back.)</a>, <a href="/e-privacy-XXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a>**  
 
 
-
-
-
-#### <a name="calamari"></a> Tecnologia, business ed etica degli Oggetti Intelligenti <a href="/e-privacy-XXIV-programma.html#vp01">⇧</a>
-**<a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>**  
-
-Gli "oggetti intelligenti" sono con noi da anni, e sono con noi per restare, anzi per "colonizzarci".
-Non si tratta di una descrizione negativa; ogni oggetto intelligente che compriamo ed utilizziamo ci rende, potenzialmente  più abili, più veloci e più intelligenti. Ma può renderci più pigri, più lenti, più stupidi.
-Gli oggetti "intelligenti" richiedono cura per un utilizzo sicuro, una cura maggiore per sceglierli, un'estrema cura per concepirli e progettarli. Ma purtroppo vengono comprati d'impulso, usati malaccortamente. Vengono anche progettati in fretta e senza una visione d'insieme, contando su un'utenza preda della fascinazione e che per usarli non impiegherà nemmeno la stessa attenzione che dedica alla scelta dei pelati al supermercato.
-Come districarci tra gli oggetti intelligenti e connessi di oggi? Come prepararci all'invasione dei loro successori, sempre più piccoli, economici e per questo invisibili? O sempre più preoccupanti, come le armi autonome (AWS), antenati della razza di Terminator?
-Nello sviluppo di oggetti "intelligenti", di oggetti connessi e di oggetti dell'Internet delle Cose è importante considerare non solo la tecnologia, ma anche i modelli di business ed etici.
-Inizieremo descrivendo quelli di essi che sono considerati "archetipi", verranno poi descritte le tecnologie, sempre più impercettibili, che ne sono alla base, i modelli di business che ne guidano lo sviluppo, ed infine le problematiche etiche connesse ad essi
-Alcune considerazioni sulla sicurezza e privacy degli oggetti "intelligenti" alla luce del GDPR chiuderanno la relazione
 
 
 
