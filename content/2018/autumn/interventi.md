@@ -260,7 +260,7 @@ Si dice che l’informazione è il petrolio del terzo millennio, e non è solo u
 
 
 
-#### <a name="tavola3"></a> Cryptovalute e Blòckchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
+#### <a name="tavola3"></a> Cryptovalute e Blockchain alla luce della privacy <a href="/e-privacy-XXIV-programma.html#sm7">⇧</a>
 **Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a>, <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>**  
 
 
