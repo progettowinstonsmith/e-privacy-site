@@ -30,8 +30,7 @@ MediaPartner: infomedia,radioradicale
 
 ** Il 30 novembre e il 1° dicembre 2018 ** (venerdì e sabato) a Roma,
 presso il Palazzo Senatorio in Campidoglio, nella Sala
-del Carroccio, si è tenuto **e-privacy 2018
-_winter edition_**.
+del Carroccio, si è tenuto **e-privacy 2018 XXIV - _winter edition_**.
 
 
 Il tema guida della XXIV edizione di e-privacy è stato:
@@ -117,7 +116,7 @@ Radio Radicale ha curato la registrazione dell'evento, accessibile a questi link
 10:15 | 0:15 | <a href="/e-privacy-XXIV-relatori.html#agosti2">Claudio Agosti </a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018we/atti/2018W_SAMA_AGOSTI_SP-PDF_proteste_scappare_google.pdf)[ _Più di un anno di proteste possono anche far scappare Google_](e-privacy-XXIV-interventi.html#agosti2)</span>
 10:30 | 0:30 | <a href="/e-privacy-XXIV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXIV-relatori.html#senor">Monica Senor </a><br/><span class='talk'>[![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018we/atti/2018W_SAMA_BLENGINO_IM-JPG_IMG_2931.jpg)[ _Algoritmi giudiziari e bias cognitivi_](e-privacy-XXIV-interventi.html#blengino)</span>
 11:00 | 0:45 | <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a><br/><span class='talk'>[_La sicurezza delle informazioni nella società postindustriale_](e-privacy-XXIV-interventi.html#giustozzi)</span>
-11:45 | 1:25 | Tavola Rotonda: <span class='talk'>[ _Cryptovalute e Blòckchain alla luce della privacy_](e-privacy-XXIV-interventi.html#tavola3)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018we/atti/2018W_SAMA_GIORIO_SP-PDF_blockchain-elezioni_GDPR_02.pdf)<a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese) </a>, <a href="/e-privacy-XXIV-relatori.html#vieri"> Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a> e <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>
+11:45 | 1:25 | Tavola Rotonda: <span class='talk'>[ _Cryptovalute e Blòckchain alla luce della privacy_](e-privacy-XXIV-interventi.html#tavola3)</span><br/>Modera: <a href="/e-privacy-XXIV-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018we/atti/2018W_SAMA_GIORIO_SP-PDF_blockchain-elezioni_GDPR_02.pdf) [![pdf](/images/icon/document.png)](http://urna.winstonsmith.org/materiali/2018we/atti/2018W_SAMA_GIORIO_MA-PDF_blockchain-elezioni_GDPR.pdf) <a href="/e-privacy-XXIV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese) </a>, <a href="/e-privacy-XXIV-relatori.html#vieri"> Giovambattista Vieri (ENT SRL )</a>, <a href="/e-privacy-XXIV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXIV-relatori.html#vonlynx">Carlo Von Lynx (Partito Pirata Italiano)</a> e <a href="/e-privacy-XXIV-relatori.html#giustozzi">Corrado Giustozzi </a>
 13:10 |  | Chiusura dei lavori
   
 
