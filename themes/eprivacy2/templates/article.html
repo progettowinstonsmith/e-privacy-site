@@ -36,7 +36,7 @@
       <td>
         <a href="{{ PARTNERS[org][2] }}"
            alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>
         </a>
       </td>
       {%- endfor %}
@@ -44,7 +44,7 @@
     {%- endfor %}
     {% endif %}
 
-    
+
     {% if article.collaboratori %}
     <h3>in collaborazione con</h3>
     {% set orgs = article.collaboratori|split %}
@@ -54,7 +54,7 @@
       <td>
         <a href="{{ PARTNERS[org][2] }}"
            alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>
         </a>
       </td>
       {%- endfor %}
@@ -62,7 +62,7 @@
     {%- endfor %}
     {% endif %}
 
-    
+
     {% if article.sponsor %}
     <h3>Sponsor</h3>
     {% set orgs = article.sponsor|split %}
@@ -72,7 +72,7 @@
       <td>
         <a href="{{ PARTNERS[org][2] }}"
            alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>
         </a>
       </td>
       {%- endfor %}
@@ -89,7 +89,7 @@
       <td>
         <a href="{{ PARTNERS[org][2] }}"
            alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>
         </a>
       </td>
       {%- endfor %}
@@ -97,7 +97,7 @@
     {%- endfor %}
     {% endif %}
 
-    
+
     {% if article.mediapartner %}
     <h3>Media Partner</h3>
     {% set orgs = article.mediapartner|split %}
@@ -107,7 +107,7 @@
       <td>
         <a href="{{ PARTNERS[org][2] }}"
            alt="{{ PARTNERS[org][0] }}">
-          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>          
+          <img src="{{ SITEURL }}/images/logo/{{ PARTNERS[org][1] }}"></img>
         </a>
       </td>
       {%- endfor %}
@@ -115,10 +115,10 @@
     {%- endfor %}
     {% endif %}
 
-    
+
 
     {% include 'article_infos_bottom.html' %}
-    
+
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
 	<h4>Comments</h4>
     {% include 'disqus_script.html' %}

@@ -1,7 +1,7 @@
-[<!DOCTYPE html>
+<!DOCTYPE html>
 <head>
   <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
 
@@ -9,13 +9,13 @@
 
     <link rel="stylesheet"
           href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-    
+
     <link rel="stylesheet"
           href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
-    
+
     <link rel="stylesheet"
           href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
-    
+
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
@@ -23,17 +23,17 @@
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
 
     <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
-    <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>    
+    <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/lodash.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.countdown.js"></script>
-    
+
 </head>
 
 <body>
 
 <!-- Nav Bar -->
-<nav>  
+<nav>
   <div class="top-bar">
     <div class="row">
       <a href="/"><div id="top_img_left"></div></a>
@@ -52,7 +52,7 @@
       <ul class="button-group navigation">
 	    {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}" class="button secondary small">{{ title }}</a></li>
-        {% endfor %}        
+        {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}
         {% for page in PAGES %}
         <li><a href="{{ SITEURL }}/{{ page.url }}" class="button secondary small">{{ page.title }}</a></li>
@@ -90,9 +90,9 @@
         {% endfor %}
         </ul>
         {% endif %}
-		
-      
-        <!--      
+
+
+        <!--
         <h5 class="sidebar-title">SITO</h5>
         <ul class="side-nav">
             <li><a href="{{ SITEURL }}/archives.html">Archivi</a>
@@ -105,12 +105,12 @@
             {% endif %}
         </ul>
 
-        {% if categories %}		
+        {% if categories %}
         <h5 class="sidebar-title">Categorie</h5>
         <ul class="side-nav">
         {% for cat, null in categories %}
             <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-        {% endfor %}   
+        {% endfor %}
         </ul>
         {% endif %}
         -->
@@ -123,7 +123,7 @@
         {% endfor %}
         </ul>
         {% endif %}
-		
+
         {% if LINKS %}
         <h5 class="sidebar-title">LINKS</h5>
         <ul class="side-nav">
@@ -132,7 +132,7 @@
         {% endfor %}
         </ul>
         {% endif %}
-		
+
         {% if SOCIAL %}
         <h5 class="sidebar-title">SOCIAL</h5>
         <ul class="side-nav">
@@ -141,17 +141,17 @@
         {% endfor %}
         </ul>
         {% endif %}
-        
+
         {% block oldsite %}{% endblock oldsite %}
 
         {% include 'pws-button.html' %}
 
         <!-- {% include 'savethelink.html' %} -->
-        
+
         <!-- End Sidebar -->
     </aside>
     <!-- End Sidebar -->
-    
+
 </div> <!-- End Main Content and Sidebar -->
 
 

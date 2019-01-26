@@ -5,9 +5,10 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2018/11/30 00:09:30'
+EVENT_TIME = '2019/06/06 09:30'
 
-COUNTDOWN = True
+COUNTDOWN = False
+
 EVENTBRITE_EID="""
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.it/countdown-widget?eid=37526459651" frameborder="0" height="544" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
 """
@@ -21,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2018 autumn: GDPR vs. Tecnologie Emergenti'
+SITENAME = u'e-privacy 2019 summer: Nuove tecnologie di controllo'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
@@ -32,7 +33,8 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2018'
+YEAR = u'2019'
+EDITION = 'summer'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -47,19 +49,19 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2018 - AUTUMN"
+THIS_TITLE = "EPRIVACY 2019 - SUMMER"
 
 THIS = (
-     ('Iscriviti', 'http://lists.xed.it/ep2018w-registration-form'),
-     # ('Proposta Talk', '/e-privacy-XXIV-proposta.html'),
-     # ('Call for Paper', '/e-privacy-XXIV-cfp.html'),
+     # ('Iscriviti', 'http://lists.xed.it/ep2018w-registration-form'),
+     ('Proposta Talk', '/e-privacy-XXV-proposta.html'),
+     ('Call for Paper', '/e-privacy-XXV-cfp.html'),
      # ('Slides', '/e-privacy-XXIV-programma-slides.html'),
-    ('Il programma', '/e-privacy-XXIV-programma.html'),
-    ('Gli interventi', '/e-privacy-XXIV-interventi.html'),
-    ('I relatori', '/e-privacy-XXIV-relatori.html'),
+     # ('Il programma', '/e-privacy-XXIV-programma.html'),
+     # ('Gli interventi', '/e-privacy-XXIV-interventi.html'),
+     # ('I relatori', '/e-privacy-XXIV-relatori.html'),
      # ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
-     ('FAQ per i relatori', '/e-privacy-XXIV-faq-relatori.html'),
-     ('Come arrivare', '/e-privacy-XXIV-come-arrivare.html'),
+     # ('FAQ per i relatori', '/e-privacy-XXIV-faq-relatori.html'),
+     # ('Come arrivare', '/e-privacy-XXIV-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
      ('Contatti', '/contatti-XXIV.html'),
@@ -77,6 +79,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2019 winter XXIV', '/e-privacy-XXIV.html'),
     ('e-privacy 2018 summer XXIII', '/e-privacy-XXIII.html'),
     ('e-privacy 2017 autumn XXII', '/e-privacy-XXII.html'),
     ('e-privacy 2017 summer XXI', '/e-privacy-XXI.html'),
