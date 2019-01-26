@@ -1,0 +1,26 @@
+Template: event
+Title: Nuove tecnologie di controllo
+Date: 2019-01-26 12:00:00
+Category: 2019
+lang: it
+Num: XXV
+Year: 2019
+slug: e-privacy-XXV-interventi
+City: Torino
+Where: Aula Ciminiera<br/>Politecnico di Torino
+When: 6-7 giugno
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Season: estate
+previd: 2018W
+prev: e-privacy-XXIV
+Xnextid: 2017W
+Xnext: e-privacy-XVIII
+Organizzatori: hermes,pws
+Collaboratori: bba
+MediaPartner: infomedia, radioradicale
+
+## <a name="talks"></a>Gli interventi
+
+
+{INTERVENTI}
+
