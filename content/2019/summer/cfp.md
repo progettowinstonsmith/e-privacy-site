@@ -8,7 +8,7 @@ Num: XXV
 Year: 2019
 slug: e-privacy-XXV-cfp
 City: Torino
-Where: Aula Ciminiera<br/>Politecnico di Torino
+Where: Torino<br/>Politecnico, Aula Ciminiera
 When: 6-7 giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
@@ -123,7 +123,7 @@ Le proposte dovranno contenere:
 - Indirizzo di posta di riferimento
 - Email e Recapito telefonico
 - Titolo dell'intervento
-- Durata prevista dell'intervento e dell'eventuale Q&A (15/30/45')
+- Durata prevista dell'intervento e dell'eventuale Q&A (15' o 30')
 - Outline dell'intervento (circa 200-300 battute)
 - Necessità di sussidi particolari oltre la videoproiezione
 - Abstract con riferimenti (min 500 max 1500 battute)
@@ -160,7 +160,7 @@ Gli interventi saranno effettuati dal vivo e, con il consenso dei
  relatori, registrati in audio ed in video.
 
 I relatori potranno utilizzare documenti, slide o filmati, e gli interventi
-dovranno avere una durata compresa fra 15 e 45 minuti, incluso il tempo per
+dovranno avere una durata compresa fra 15 e 30 minuti, incluso il tempo per
 Q&A.
 
 Potranno essere proposti anche interventi in videoconferenza.
