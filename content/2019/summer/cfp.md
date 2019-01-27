@@ -11,7 +11,7 @@ City: Torino
 Where: Politecnico, Aula Ciminiera
 When: 6-7 giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-xSeason: estate
+Season: spring
 previd: 2018W
 prev: e-privacy-XXIV
 Xnextid: 2018W
@@ -27,7 +27,7 @@ css: .title-XXV { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 <div class="title-XXV">«Nuove tecnologie di controllo»</div>
 <div class="subtitle-XXV">Il social scoring oltre ogni immaginabile profilazione</div>
 <br/>
-È aperto  il Call for Participation di e-privacy 2019 summer edition.
+È aperto  il Call for Participation di e-privacy 2019 spring edition.
 
 Il Progetto Winston Smith e l’Hermes Center for Transparency and
 Digital Human Rights sono lieti di invitarti come relatore
@@ -106,6 +106,7 @@ specialisti in informatica ai legali che si occupano di nuove
 tecnologie, dagli psicologi agli educatori, dagli operatori privati a
 quanti operano nel settore pubblico ed istituzionale.
 
+
 # Le proposte d'intervento
 
 Il comitato organizzatore valuterà proposte in ambito tecnologico,
@@ -178,9 +179,9 @@ Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno
 carattere non economico e sono intese come adesione morale ai temi ed
 ai principi.
 
-### Sede di e-privacy 2019 summer edition
+### Sede di e-privacy 2019 spring edition
 
-La sede di e-privacy 2019 summer edition sarà la
+La sede di e-privacy 2019 spring edition sarà la
  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
  - Sede Centrale - Cittadella Politecnica.
 
