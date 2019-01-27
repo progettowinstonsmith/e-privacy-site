@@ -11,7 +11,7 @@ City: Torino
 Where: Politecnico, Aula Ciminiera
 When: 6-7 giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
+xSeason: estate
 previd: 2018W
 prev: e-privacy-XXIV
 Xnextid: 2018W
