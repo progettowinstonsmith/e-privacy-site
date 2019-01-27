@@ -22,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2019 summer: Nuove tecnologie di controllo'
+SITENAME = u'e-privacy 2019 spring: Nuove tecnologie di controllo'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
@@ -34,7 +34,7 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'it'
 
 YEAR = u'2019'
-EDITION = 'summer'
+EDITION = 'spring'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -49,7 +49,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2019 - SUMMER"
+THIS_TITLE = "EPRIVACY 2019 - SPRING"
 
 THIS = (
      # ('Iscriviti', 'http://lists.xed.it/ep2018w-registration-form'),
