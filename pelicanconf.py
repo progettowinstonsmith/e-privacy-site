@@ -61,10 +61,10 @@ THIS = (
      # ('I relatori', '/e-privacy-XXIV-relatori.html'),
      # ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
      # ('FAQ per i relatori', '/e-privacy-XXIV-faq-relatori.html'),
-     # ('Come arrivare', '/e-privacy-XXIV-come-arrivare.html'),
+     ('Come arrivare', '/e-privacy-XXV-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
-     ('Contatti', '/contatti-XXIV.html'),
+     ('Contatti', '/contatti-XXV.html'),
 )
 
 ISCRIVITI='''
