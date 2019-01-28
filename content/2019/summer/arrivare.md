@@ -19,8 +19,7 @@ Xnext: e-privacy-XVIII
 Sede di svolgimento:
 
 Politecnico di Torino
-Sala conferenze "Luigi Ciminiera"
-
+Sala conferenze "Luigi Ciminiera".
 Corso Castelfidardo, 39
 10129 Torino
 
