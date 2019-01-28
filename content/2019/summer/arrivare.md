@@ -36,5 +36,8 @@ I parcheggi e l'immediata periferia sono collegati tramite navetta, il resto del
 
 <h2>Come arrivare in treno</h2>
 
+La stazione di Torino porta Nuova ...
+
+<h2>Mappa della sede</h2>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d2818.1097800386046!2d7.657936015544081!3d45.06328407909825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x47886d1903ca7c67%3A0x3f3cc37977fac37b!2sCorso+Castelfidardo%2C+39%2C+10129+Torino+TO!3m2!1d45.0632841!2d7.6601247!5e0!3m2!1sit!2sit!4v1548697391265" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

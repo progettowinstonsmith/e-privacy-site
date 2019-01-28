@@ -34,7 +34,7 @@ Digital Human Rights sono lieti di invitarti come relatore
 all’edizione primaverile di e-privacy, che si terrà a Torino il **6 e
 7 giugno 2019** (sì, proprio giovedì e venerdì, una piccola variazione
 rispetto alle oramai abituali giornate di venerdì e sabato) nella
-prestigiosa sede dell’Aula Ciminiera del Politecnico di Torino.
+prestigiosa sede dell’Aula Ciminiera del Politecnico di Torino, Corso Castelfidardo 39.
 
 Parleremo di nuove tecnologie di controllo, ovvero di come il nascente
 sistema di social scoring vada oltre ogni pensabile profilazione.
