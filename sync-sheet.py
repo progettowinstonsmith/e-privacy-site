@@ -9,41 +9,59 @@ from httplib2 import Http
 from oauth2client import file, client, tools
 from pprint import pprint
 from pathlib import Path
+import click
 
 import logging
 LOGGER = logging.getLogger("PWS")
 logging.basicConfig(level=logging.INFO)
 
-EPRIVACY_N = 'XXIV'
+### ---------------------------------------- CONFIGURATION
+
+SPREADSHEET_ID = '1ZkK6QvBu1-xdD7sFQF9hI2J4wn1kfj1fqvglFTu43Fw'
+
+RELATORI = 'Relatori!B2:T43'
+
+ORGANIZZATORI = ['calamari','giorio','somma']
+
+EPRIVACY_N = 'XXV'
 
 URL = 'e-privacy-'
 
-PATH = 'content/2018/autumn/'
+PATH = 'content/2019/summer/'
 
+PROG_FNAME = 'programma.md'
+
+GIORNO1 = 'Giorno1'
+GIORNO2 = 'Giorno2'
 
 SESSIONI = (
-    ("VENERDI_MATTINA", 0, 0, (
-        ("Apertura", 'open', 'Venerdì!A2:J2'),
-        ("Saluti", 'saluti', 'Venerdì!A3:J3'),
-        ("Venerdì Mattina", 'talks', "Venerdì!A4:J8"),
-        ("Tavola Rotonda", 'roundtable', 'Venerdì!A9:J9'),
-        ("Pausa Pranzo", 'pausa', 'Venerdì!A10:J10'),
+    ("GIORNO1_MATTINA", 0, 0, (
+        ("Apertura", 'open', GIORNO1 + '!A2:J2'),
+        ("Saluti", 'saluti', GIORNO1 + '!A3:J3'),
+        ("Giovedì Mattina", 'talks', GIORNO1 + '!A4:J7'),
+        ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A8:J8'),
+        ("Pausa Pranzo", 'pausa', GIORNO1 + '!A9:J9'),
     )),
-    ("VENERDI_POMERIGGIO", 0, 1, (
-        ("Apertura", 'open', 'Venerdì!A16:J16'),
-        ("Venerdì Pomeriggio", 'talks', "Venerdì!A17:J27"),
-        # ("Tavola Rotonda", 'roundtable', 'Venerdì!A26:J26'),
-        ("Chiusura lavori prima giornata", 'pausa', 'Venerdì!A28:J28'),
+    ("GIORNO1_POMERIGGIO", 0, 1, (
+        ("Apertura", 'open', GIORNO1 + '!A15:J15'),
+        ("Giovedì Pomeriggio", 'talks', GIORNO1 + "!A16:J23"),
+        # ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A26:J26'),
+        ("Chiusura lavori prima giornata", 'pausa', GIORNO1 + '!A24:J24'),
     )),
-    ("SABATO_MATTINA", 1, 0, (
-        ("Sabato Mattina", 'talks', "Sabato!A2:J7"),
-        ("Tavola Rotonda", 'roundtable', 'Sabato!A8:J8'),
-        ("Chiusura lavori", 'pausa', 'Sabato!A9:J9'),
+    ("GIORNO2_MATTINA", 1, 0, (
+        ("Apertura", 'open', GIORNO2 + '!A2:J2'),
+        ("Venerdì Mattina", 'talks', GIORNO2 + '!A3:J10'),
+        ("Chiusura lavori", 'pausa', GIORNO2 + '!A11:J11'),
+    )),
+    ("GIORNO2_POMERIGGIO", 1, 1, (
+        ("Venerdì Mattina", 'talks', GIORNO2 + '!A17:J23'),
+        ("Tavola Rotonda", 'roundtable', GIORNO2 + '!A24:J24'),
+        ("Chiusura lavori", 'pausa', GIORNO2 + '!A25:J25'),
     )))
 
 
 SHEET_HEADERS=(
-    "label",
+    "label", "FullName",
     "cron",
     "Cognome", "Nome", "X", "Organizzazione",
     "Indirizzo", "Email", "telefono",
@@ -51,7 +69,15 @@ SHEET_HEADERS=(
     "Titolo", "Autori",
     "Descrizione", "Bio",
     "Consenso_pubblicazione", "Consenso_registrazioni",
-    "Note", "FullName")
+    "Note")
+
+
+PROGRAMMA_HEADERS=('label', 'Giorno', 'Ora',
+                   'Durata', 'TECH', 'Titolo',
+                   'Autore', 'pers', 'altri',
+                   'conferma')
+
+## ---------------------------------------- FINE CONFIGURAZIONE
 
 def program_line(*cols):
     return " | ".join(cols)
@@ -61,7 +87,7 @@ def section_open(label, kind, srange, service, _id, info, rdb):
     lines = []
     for label, record in info.items():
         try:
-            people = record['pres'].strip()
+            people = record['pers'].strip()
             if ',' in people:
                 people = re.split(r', *', people)
             else:
@@ -85,7 +111,7 @@ def section_talks(label, kind, srange, service, _id, info, rdb):
     lines = []
     for label, record in sorted(info.items()):
         try:
-            people = [record['pres'], ]
+            people = [record['pers'], ]
             if 'altri' in record and len(record['altri'].strip())>0:
                 altri = re.split(r', *', record['altri'])
                 people.extend(altri)
@@ -96,8 +122,8 @@ def section_talks(label, kind, srange, service, _id, info, rdb):
                     LOGGER.error('TALK: '+person+" non nel DB")
             names = make_persons(people, rdb)
             durata = re.sub(r'^0(|(0:))', '', record['Durata'])
-            titolo = rdb[record['pres']]['Titolo']
-            titolo = mk_intervento(titolo, record['pres'])
+            titolo = rdb[record['pers']]['Titolo']
+            titolo = mk_intervento(titolo, record['pers'])
             lines.append(program_line(record['Ora'],
                                       durata,
                                       names + "<br/>" + titolo ))
@@ -111,9 +137,12 @@ def section_roundtable(label, kind, srange, service, _id, info, rdb):
     lines = []
     for label, record in sorted(info.items()):
         try:
-            tavola = [record['pres'], ]
-            people = re.split(r', *', record['altri'])
-            modera = people.pop(0)
+            tavola = [record['pers'], ]
+            people = []
+            modera = 'tba'
+            if 'altri' in record:
+                people = re.split(r', *', record['altri'])
+                modera = people.pop(0)
             if modera in rdb:
                 record['role'] = 'moderatore'
                 rdb[modera]['roundtable'].append( record )
@@ -126,8 +155,8 @@ def section_roundtable(label, kind, srange, service, _id, info, rdb):
             names = make_persons(people, rdb)
             names = "Modera: "+modera+"<br/>Partecipano: "+names
             durata = re.sub(r'^0(|(0:))', '', record['Durata'])
-            titolo = rdb[record['pres']]['Titolo']
-            titolo = "Tavola Rotonda: " + mk_intervento(titolo, record['pres'])
+            titolo = rdb[record['pers']]['Titolo']
+            titolo = "Tavola Rotonda: " + mk_intervento(titolo, record['pers'])
             lines.append(program_line(record['Ora'],
                                       durata,
                                       titolo + "<br/>" + names))
@@ -178,9 +207,9 @@ FORMATS = (
 )
 
 def make_authors(info, rdb):
-    if 'pres' not in info:
+    if 'pers' not in info:
         return ""
-    pres = info['pres']
+    pres = info['pers']
     if pres in rdb:
         record = rdb[pres]
     else:
@@ -240,8 +269,8 @@ def read_db(service, id, range, HEADERS=SHEET_HEADERS):
                 info['label'] = info['label'].lower()
                 info['talk']=[]
                 info['roundtable']=[]
-                if 'pres' in info:
-                    info['pres'] = info['pres'].lower()
+                if 'pers' in info:
+                    info['pers'] = info['pers'].lower()
                 if 'altri' in info:
                     info['altri'] = info['altri'].lower()
                 infos[info['label'].lower()] = info
@@ -254,6 +283,7 @@ def read_programma_db(service, _id, rdb, SESSIONI):
     J = 0
     K = 0
     for variable, J, K, sessione in SESSIONI:
+
         program = []
         db["{}.{}".format(J,K)] = {}
         LOGGER.info('SESSIONE '+variable)
@@ -261,11 +291,7 @@ def read_programma_db(service, _id, rdb, SESSIONI):
             LOGGER.info('    PARTE '+label)
             prog = read_db(service,
                            _id,
-                           srange,
-                           HEADERS=('label', 'Giorno', 'Ora',
-                                    'Durata', 'TECH', 'Titolo',
-                                    'Autore', 'pres', 'altri',
-                                    'conferma'))
+                           srange, PROGRAMMA_HEADERS)
             db["{}.{}".format(J,K)].update(prog)
             func = "section_" + kind
             if func not in globals():
@@ -300,7 +326,7 @@ def setup_sheet_work(SPREADSHEET_ID):
     return service
 
 def lay_talk(talk, item, db):
-    pres = talk['pres']
+    pres = talk['pers']
     item = db[pres]
     titolo = item['Titolo']
     con = ""
@@ -310,7 +336,7 @@ def lay_talk(talk, item, db):
         label = item['label']
         altri = list(map(lambda x: x.strip(),
                          re.split(',', talk['altri'])))
-        altri.append(talk['pres'])
+        altri.append(talk['pers'])
         if label in altri:
             altri.remove(label)
         if len(altri)>0:
@@ -321,7 +347,7 @@ def lay_talk(talk, item, db):
     return talk, titolo, con
 
 def lay_roundtable(talk, item, db):
-    label = talk['pres']
+    label = talk['pers']
     con = ""
     titolo = db[label]['Titolo']
     ruolo = "Partecipa al"
@@ -362,7 +388,7 @@ def make_speaker_bio(item,db):
         if len(talks)>0:
             bio += "\nAd e-privacy " + EPRIVACY_N + " presenta <br/>\n"
             for talk, titolo, con in talks:
-                bio += "<b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(num=EPRIVACY_N, label=talk['pres']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format( num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>"
+                bio += "<b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format( num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>"
 
         bio += "<br/>\n"
         roundtables = []
@@ -373,20 +399,22 @@ def make_speaker_bio(item,db):
         if len(roundtables)>0:
             # bio += "\nPartecipa alla " + ( "Tavola Rotonda" if len(roundtables) == 1 else "Tavole rotonde" ) + " <br/>\n"
             for talk, ruolo, titolo, con in roundtables:
-                bio += "<br/>{ruolo}la Tavola Rotonda <b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(ruolo=ruolo,num=EPRIVACY_N, label=talk['pres']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format(  num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>\n\n"
+                bio += "<br/>{ruolo}la Tavola Rotonda <b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(ruolo=ruolo,num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format(  num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>\n\n"
         bio += '\n\n'
         return bio
 
 def make_speakers(service, id, db):
     relatori = {}
     for key, item in db.items():
-        LOGGER.info("MK-SPEAKER:"+key)
         rkey = item['Cognome'].capitalize()
-        if rkey in ('Somma', 'Calamari'):
+        LOGGER.info("SPEAKERS:"+key+"/"+rkey)
+        if rkey in ('Somma', 'Calamari', 'Giorio') or len(rkey)==0:
+            LOGGER.info("SPEAKERS:exclude:"+key)
             continue
         relatori[rkey] = make_speaker_bio(item,db)
     str_out = ""
-    for relatore in sorted(relatori.values()):
+    for label,relatore in sorted(relatori.items()):
+        LOGGER.info('SPEAKERS:writeout:'+label)
         str_out += relatore + "\n"
     write_out(PATH, 'speakers.md', RELATORI=str_out)
 
@@ -396,8 +424,8 @@ def make_interventi(service, id, db, pr):
     for day in pr.values():
         for key, item in day.items():
             LOGGER.info('TALK: ' + key)
-            if 'pres' in item:
-                pres = item['pres']
+            if 'pers' in item:
+                pres = item['pers']
                 if pres in db:
                     if re.match('^tavola',pres):
                         autori = make_authors_roundtable(item,db)
@@ -416,7 +444,7 @@ def make_interventi(service, id, db, pr):
     write_out(PATH, 'interventi.md', INTERVENTI=str_out)
 
 def make_tavolarotonda(item, db):
-    pers = item['pres']
+    pers = item['pers']
     record = db[pers]
     aList = re.split(r' *, *', record['Autori'])
     modera = aList.pop(0)
@@ -426,7 +454,7 @@ def make_tavolarotonda(item, db):
 
 def make_person(label, db):
     return make_authors(
-        {'pres': label,
+        {'pers': label,
          'label': label},
         db)
 
@@ -434,7 +462,7 @@ def make_person(label, db):
 def make_persons(aList, db):
     try:
         label = aList.pop(0)
-        param = {'pres': label,
+        param = {'pers': label,
                  'label': label,
                  }
         if len(aList) > 0:
@@ -455,13 +483,13 @@ def make_persons(aList, db):
 #             if titolo[0] == '*':
 #                 nocols = True
 #                 titolo = titolo[1:]
-#             if 'pres' in item:
+#             if 'pers' in item:
 #                 titolo = "<a href='/e-privacy-{num}-interventi.html#{label}'>{titolo}</a>".format(
 #                     num=EPRIVACY_N,
-#                     label=item['pres'],
+#                     label=item['pers'],
 #                     titolo=titolo,
 #                 )
-#                 if re.match(r'^tavola', item['pres']):
+#                 if re.match(r'^tavola', item['pers']):
 #                     titolo = make_tavolarotonda(item, db)
 #                     nocols = True
 #             tech = ""
@@ -473,8 +501,8 @@ def make_persons(aList, db):
 #             )
 #             di = ""
 #             if not nocols:
-#                 if 'pres' in item:
-#                     pres = item['pres']
+#                 if 'pers' in item:
+#                     pres = item['pers']
 #                     if pres not in db:
 #                         continue
 #                     di = "|" + make_authors(item, db)
@@ -487,21 +515,33 @@ def make_persons(aList, db):
 #     write_out(PATH, 'programma.md', **dictionary)
 
 
-def main():
-    # SPREADSHEET_ID = '1ytHRQXyesPblgGe652OZLtaoGWzaaM0x8w93BN72uQM'
-    SPREADSHEET_ID = '1lBx6vQW3tIB3ZsV6E_vI9hnhTCb0xE0ICg_TUBB2EVM'
-    service = setup_sheet_work(SPREADSHEET_ID)
 
-    db = read_db(service, SPREADSHEET_ID, 'Relatori!A2:S50')
+@click.command()
+@click.option('--debug/--no-debug', default=False)
+@click.option('--debug-section', type=click.Choice(['db', 'dictionary']))
+def main(debug,debug_section):
+    # SPREADSHEET_ID = '1ytHRQXyesPblgGe652OZLtaoGWzaaM0x8w93BN72uQM'
+    service = setup_sheet_work(SPREADSHEET_ID)
+    LOGGER.info('service loaded')
+    db = read_db(service, SPREADSHEET_ID, RELATORI )
+    if debug and debug_section=='db':
+        pprint(db)
+        return
+    LOGGER.info('db loaded')
     dictionary, db, pr = read_programma_db(service,
-                                       SPREADSHEET_ID,
-                                       db, SESSIONI)
-    write_out(PATH, 'programma.md', **dictionary)
+                                           SPREADSHEET_ID,
+                                           db,
+                                           SESSIONI)
+    if debug and debug_section=='dictionary':
+        pprint(dictionary)
+        return
+
+    write_out(PATH, PROG_FNAME , **dictionary)
 
     make_speakers(service, SPREADSHEET_ID, db)
+
     make_interventi(service,SPREADSHEET_ID,db, pr)
 
 
 if __name__ == '__main__':
-    import plac
-    plac.call(main)
+    main()
