@@ -1,5 +1,5 @@
 XStatus: draft
-slug: e-privacy-XXIV-slide
+slug: e-privacy-XXIV
 Title: GDPR vs. Tecnologie Emergenti
 Template: event
 Date: 2018-11-30 11:11
@@ -14,6 +14,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2018
 prev: e-privacy-XXIII
+nextid: 2019
+next: e-privacy-XXV
 Organizzatori: pws,hermes
 Collaboratori: bba
 Sponsor: sikurezza.org,cgt,whistleblowingsolutions,sepel,comvilca
