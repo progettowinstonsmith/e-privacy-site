@@ -22,7 +22,7 @@ Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
-###e-privacy 2018 - summer edition
+###e-privacy 2019 - summer edition
 
 Il ** 6 e 7 giugno 2019 ** (GIOVEDÌ e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
