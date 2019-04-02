@@ -206,7 +206,7 @@ Ad e-privacy XXV presenta <br/>
 Avvocato esperto nel settore dell'ICT e della Data Protection. E’ autore di oltre 100 pubblicazioni, tra articoli, saggi, libri e monografie giuridiche dedicate alle materie dell’ICT, Data Protection e diritto d’autore. Ad oggi è stato invitato come relatore ad oltre 150 conferenze organizzate sia a livello nazionale che internazionale dalle principali istituzioni italiane e straniere.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#del ninno">Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m3">10:00 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#del ninno">Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m3">10:00 di Giovedì</a>.<br/><br/>
 
 
 
@@ -233,8 +233,8 @@ Ad e-privacy XXV presenta <br/>
 Diritto d’autore, diritto penale, tutela della privacy e diritto dell’informatica e delle nuove tecnologie sono le sue principali materie di competenza. Dopo la laurea cum laude in giurisprudenza in Italia si trasferisce in Gran Bretagna per il Master of Laws in Maritime Law e Information Technology Law alla University College London – UCL.. In seguito consegue il titolo di dottore di ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and Electronic Evidence (ECCE). Iscritto all’Albo degli Avvocati dal 1996, Cassazionista dal 2009, Data Protection officer per diversi enti, collabora con la cattedra di Informatica Giuridica dell’Università di Milano ed è docente al Corso di Perfezionamento in Criminalità informatica e prova digitale. Fellow del Nexa Center on Internet e Society e dell' Hermes Center for Transparency and Digital Human Rights. Autore di diverse pubblicazioni sui temi citati e relatore nei principali convegni nazionali e internazionali, affianca alla professione attività di formazione, in particolare nel campo del diritto d’autore, del Free software – Open Source, della tutela della privacy, della sicurezza informatica e della digital forensics. Past Presidente del Circolo dei Giuristi Telematici, fondato nel 1998, primo esempio italiano di associazione giuridica telematica, è componente della Commissione Privacy del Consiglio Nazionale Forense.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#gallus">Smart city: la città può essere intelligente senza sorvegliarci tutti?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m5">11:00 di Venerdì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola1">Social Scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#1m7">11:50 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus</a> e <a href="/e-privacy-XXV-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari</a>.<br/>
+<b><a href="e-privacy-XXV-interventi.html#gallus">Smart city: la città può essere intelligente senza sorvegliarci tutti?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m5">11:00 di Giovedì</a>.<br/><br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola1">Social Scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#1m7">11:50 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus</a> e <a href="/e-privacy-XXV-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari</a>.<br/>
 
 
 
@@ -245,7 +245,7 @@ Nicola Gargano, avocato in Bari e Milano, consigliere referente informatico per 
 Graziano Albanese, consulenti informatico amministratore di reti e sistemi. Esperto di sicurezza informatica  delle connettività LAN e WAN e dei processi di Office Automation. Consulente in outsourcing per la progettazione e realizzazione di impianti di comunicazione integrata.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m6">11:20 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m6">11:20 di Giovedì</a>.<br/><br/>
 
 
 
@@ -265,7 +265,7 @@ Prof A.C. all’Università Ca’ Foscari a Venezia dal 2007, è docente in Mast
 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXV-programma.html#1m4">10:30 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXV-programma.html#1m4">10:30 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
 
 
 
@@ -295,7 +295,7 @@ Massimiliano Nicotra. Avvocato, docente di “Introduction to the Legal System�
 di Ricerche Economiche e Giuridiche della medesima Università, svolge attività di coordinatore della sezione Privacy e Compliance ed attività di docenza nel corso di alta specializzazione su Data Protection Officer e information security. È co-autore del volume “Diritto della blockchain, intelligenza artificiale e IoT” edito da IPSOA nel 2018 e coordina la sezione romana della community Legal hackers, presente in oltre 150 Paesi nel mondo.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXV-programma.html#1m4">10:30 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXV-programma.html#1m4">10:30 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
 
 
 

@@ -526,49 +526,6 @@ def make_persons(aList, db):
         return ""
 
 
-# def make_programma(service, id, db, pr):
-#     str_out = []
-#     for day in pr.values():
-#         str_out_x = ""
-#         for key, item in day.items():
-#             item['Durata'] = re.sub('^0(0:)?', '', item['Durata'])
-#             nocols = False
-#             titolo = item['Titolo']
-#             if titolo[0] == '*':
-#                 nocols = True
-#                 titolo = titolo[1:]
-#             if 'pers' in item:
-#                 titolo = "<a href='/e-privacy-{num}-interventi.html#{label}'>{titolo}</a>".format(
-#                     num=EPRIVACY_N,
-#                     label=item['pers'],
-#                     titolo=titolo,
-#                 )
-#                 if re.match(r'^tavola', item['pers']):
-#                     titolo = make_tavolarotonda(item, db)
-#                     nocols = True
-#             tech = ""
-#             if 'TECH' in item and item['TECH'] == 'X':
-#                 tech = " <img width=50 src='/images/icon/tech.svg' alt='tech'/>"
-#             ora = '<a name="{label}"></a>{Ora}|{Durata}|{xtitolo}{tech}'.format(
-#                 xtitolo=titolo, tech=tech,
-#                 **item
-#             )
-#             di = ""
-#             if not nocols:
-#                 if 'pers' in item:
-#                     pres = item['pers']
-#                     if pres not in db:
-#                         continue
-#                     di = "|" + make_authors(item, db)
-#             str_out_x += ora + di + "\n"
-#         str_out.append(str_out_x)
-#     if len(str_out) < 4:
-#         str_out.append('')
-#     dictionary = dict(zip(('VENERDI_MATTINA', 'VENERDI_POMERIGGIO', 'SABATO_MATTINA', 'SABATO_POMERIGGIO'),
-#            e               str_out))
-#     write_out(PATH, 'programma.md', **dictionary)
-
-
 
 @click.command()
 @click.option('--debug/--no-debug', default=False)
