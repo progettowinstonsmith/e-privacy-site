@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
+Sponsor: sikurezza.org,sepel,ush,isgroup,cgt,mes3hacklab
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 
@@ -51,8 +51,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="vem"></a>Giovedì 6 Giugno 2019 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith
-
+ * Chairman: {CHAIRMAN_GIORNO1_MATTINA}
+ 
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
@@ -60,25 +60,24 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
 
-* Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith 
+* Chairman: {CHAIRMAN_GIORNO1_POMERIGGIO}
 
-  
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 {GIORNO1_POMERIGGIO}
 
 #### <a name="sam"></a>Venerdì 7 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith
+* Chairman: {CHAIRMAN_GIORNO2_MATTINA}
 
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 {GIORNO2_MATTINA}
 
 
 #### <a name="vep"></a>Venerdì 7 Giugno 2019 - pomeriggio
-  
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith 
+
+* Chairman: {CHAIRMAN_GIORNO2_POMERIGGIO}
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 

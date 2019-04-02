@@ -41,23 +41,23 @@ SESSIONI = (
         ("Giovedì Mattina", 'talks', GIORNO1 + '!A4:J7'),
         ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A8:J8'),
         ("Pausa Pranzo", 'pausa', GIORNO1 + '!A9:J9'),
-    )),
+    ), GIORNO1 + '!A2:J2' ),
     ("GIORNO1_POMERIGGIO", 0, 1, (
         ("Apertura", 'open', GIORNO1 + '!A15:J15'),
         ("Giovedì Pomeriggio", 'talks', GIORNO1 + "!A16:J23"),
         # ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A26:J26'),
         ("Chiusura lavori prima giornata", 'pausa', GIORNO1 + '!A24:J24'),
-    )),
+    ), GIORNO1 + '!A15:J15'),
     ("GIORNO2_MATTINA", 1, 0, (
         ("Apertura", 'open', GIORNO2 + '!A2:J2'),
         ("Venerdì Mattina", 'talks', GIORNO2 + '!A3:J10'),
         ("Chiusura lavori", 'pausa', GIORNO2 + '!A11:J11'),
-    )),
+    ), GIORNO2 + '!A2:J2'),
     ("GIORNO2_POMERIGGIO", 1, 1, (
         ("Venerdì Mattina", 'talks', GIORNO2 + '!A17:J23'),
         ("Tavola Rotonda", 'roundtable', GIORNO2 + '!A24:J24'),
         ("Chiusura lavori", 'pausa', GIORNO2 + '!A25:J25'),
-    )))
+    ), GIORNO2 + '!A16:J16'))
 
 
 SHEET_HEADERS=(
@@ -76,6 +76,11 @@ PROGRAMMA_HEADERS=('label', 'Giorno', 'Ora',
                    'Durata', 'TECH', 'Titolo',
                    'Autore', 'pers', 'altri',
                    'conferma')
+
+
+# SPREADSHEET FIELDS
+
+F_ORG = 'Organizzazione'
 
 ## ---------------------------------------- FINE CONFIGURAZIONE
 
@@ -185,7 +190,6 @@ def mk_md_link(nome, label, sezione, num=EPRIVACY_N):
         nome=nome, num=num, label=label, sezione=sezione
     )
 
-
 def mk_relatore(nome, label, num=EPRIVACY_N):
     return "<span class='speaker'>"+mk_md_link(nome, label, 'relatori', num)+"</span>"
 
@@ -206,6 +210,35 @@ FORMATS = (
     lambda label, x: re.sub(r'^00:', '', x),
 )
 
+
+### ---------------------------------------- ELEMENT COMPOSITIONS
+
+def compose_person(rdb, *people, org=True):
+    output = []
+    for person in people:
+        if person not in rdb:
+            LOGGER.error('COMPOSE_PERSON:NO RECORD FOR:'+person)
+            continue
+        record = rdb[person]
+        o_org = ""
+        if org and F_ORG in record and len(record[F_ORG])>0:
+            o_org = ("({"+F_ORG+"})").format(**record)
+        o_name = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
+            num=EPRIVACY_N,
+            org=o_org,
+            **record)
+        output.append(o_name)
+    if output:
+        answer = ', '.join(output)
+        answer = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', answer)
+        return answer
+
+# compose_title
+# compose_time
+# cimpose_duration
+
+
+
 def make_authors(info, rdb):
     if 'pers' not in info:
         return ""
@@ -215,8 +248,8 @@ def make_authors(info, rdb):
     else:
         return ""
     org = ""
-    if 'Organizzazione' in record and len(record['Organizzazione']) > 0:
-        org = "({Organizzazione})".format(**record)
+    if F_ORG in record and len(record[F_ORG]) > 0:
+        org = ("({"+F_ORG+"})").format(**record)
     di = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
         num=EPRIVACY_N,
         org=org,
@@ -226,7 +259,7 @@ def make_authors(info, rdb):
         di += ", " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
             num=EPRIVACY_N,
             **rdb[x],
-            org=("("+rdb[x]['Organizzazione']+")") if 'Organizzazione' in rdb[x] and len(rdb[x]['Organizzazione']) > 0 else '',),
+            org=("("+rdb[x][F_ORG]+")") if F_ORG in rdb[x] and len(rdb[x][F_ORG]) > 0 else '',),
             altri))
         di = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', di)
     return di
@@ -240,8 +273,8 @@ def make_authors_roundtable(info, rdb):
         else:
             return ""
         org = ""
-        if 'Organizzazione' in record and len(record['Organizzazione']) > 0:
-            org = "({Organizzazione})".format(**record)
+        if F_ORG in record and len(record[F_ORG]) > 0:
+            org = ("({"+F_ORG+"})").format(**record)
         di = "Modera: <a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
             num=EPRIVACY_N,
             org=org,
@@ -249,11 +282,24 @@ def make_authors_roundtable(info, rdb):
         di += "<br/>Partecipano: " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
             num=EPRIVACY_N,
             **rdb[x],
-            org=("("+rdb[x]['Organizzazione']+")") if 'Organizzazione' in rdb[x] and len(rdb[x]['Organizzazione']) > 0 else '',),
+            org=("("+rdb[x][F_ORG]+")") if F_ORG in rdb[x] and len(rdb[x][F_ORG]) > 0 else '',),
                                                    altri))
         di = re.sub(r'(.*), ([^.]+)$', '\\1 e \\2', di)
     return di
 
+
+def db_get_attrs(attr,service, _id, _range, HEADERS=SHEET_HEADERS):
+    """ get an attribute from a dict of dict """
+    ret = []
+    lines = read_db(service, _id, _range, HEADERS)
+    for values in lines.values():
+        if attr in values:
+            val = values[attr]
+            if val:
+                ret.append(val)
+    return ret
+
+#### ---------------------------------------- READ FUNCTIONS
 
 def read_db(service, id, range, HEADERS=SHEET_HEADERS):
     result = service.spreadsheets().values().get(spreadsheetId=id,
@@ -282,16 +328,21 @@ def read_programma_db(service, _id, rdb, SESSIONI):
     db = {}
     J = 0
     K = 0
-    for variable, J, K, sessione in SESSIONI:
-
+    for variable, J, K, sessione, chair in SESSIONI:
         program = []
         db["{}.{}".format(J,K)] = {}
+        chairman = db_get_attrs('pers',service, _id, chair, PROGRAMMA_HEADERS)
+        if chairman:
+            chairman = re.split(r'\s*,\*',chairman[0])
+            chairman = compose_person(rdb, *chairman)
         LOGGER.info('SESSIONE '+variable)
+        LOGGER.info('CHAIRMAN '+chairman)
         for label, kind, srange in sessione:
             LOGGER.info('    PARTE '+label)
             prog = read_db(service,
                            _id,
-                           srange, PROGRAMMA_HEADERS)
+                           srange,
+                           PROGRAMMA_HEADERS)
             db["{}.{}".format(J,K)].update(prog)
             func = "section_" + kind
             if func not in globals():
@@ -300,11 +351,14 @@ def read_programma_db(service, _id, rdb, SESSIONI):
             else:
                 func = globals()[func]
             prglines, rdb = func(label, kind, srange,
-                            service, _id, prog, rdb)
+                                 service, _id, prog,
+                                 rdb)
             program.extend(prglines)
         variables[variable] = '\n'.join(program)
+        variables["CHAIRMAN_" + variable]=chairman
     return variables, rdb, db
 
+#### ---------------------------------------- END READ FUNCTIONS
 
 def write_out(path, fname, **kw):
     templ_f = Path(path) / (fname+'.template')
@@ -369,9 +423,9 @@ def lay_roundtable(talk, item, db):
 def make_speaker_bio(item,db):
     if 'Bio' in item and 'talk' in item:
         org = ""
-        if 'Organizzazione' in item and \
-        len(item['Organizzazione']) > 0:
-            org = "(" + item['Organizzazione'] + ")"
+        if F_ORG in item and \
+        len(item[F_ORG]) > 0:
+            org = "(" + item[F_ORG] + ")"
         #if item['Titolo'] in db:
         #    item['talk'] = db[item['Titolo']]['talk']
         bio = '#### <a name="{label}"></a> {Nome} {Cognome} {org}\n\n{Bio}\n'.format(
@@ -511,7 +565,7 @@ def make_persons(aList, db):
 #     if len(str_out) < 4:
 #         str_out.append('')
 #     dictionary = dict(zip(('VENERDI_MATTINA', 'VENERDI_POMERIGGIO', 'SABATO_MATTINA', 'SABATO_POMERIGGIO'),
-#                           str_out))
+#            e               str_out))
 #     write_out(PATH, 'programma.md', **dictionary)
 
 

@@ -23,7 +23,7 @@ MediaPartner: infomedia, radioradicale
 
 
 #### <a name="del ninno"></a> Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali? <a href="/e-privacy-XXV-programma.html#1m3">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#del ninno">alessandro del ninno (Studio legale Tonucci & Partners)</a>**  
+**<a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a>**  
 
 Quali sono i presidi legali per difendersi dalla (inconsapevole) profilazione condotta - sia on line che off-line - dagli Stati e dalle organizzazioni private? La Cina è davvero l'unico Paese ad attuare una profilazione continua ed "istituzionalizzata" con il suo Social Credit System (attivo dal 2017 nel settore dei trasporti - che già nega accesso ai relativio servizi ad oltre 6 milioni di cittadini con credit negativo - ed esteso a tutta la popolazione nel 2020), oppure è solo il primo Paese a dirlo chiaramente? E' possibile far valere responsabilità giuridiche se un sistema di AI sbaglia le proprie valutazioni nell'assegnare uno scoring ad un individuo? Come cambiano le relazioni sociali e giuridiche se i diritti del cittadino sono (o saranno) rimessi a giudizi di terzi (persone o sistemi di AI)? A queste e ad altre domande proverà a dare risposta la relazione proposta, esaminando l'attuale scenario normativo internazionale (a partire dal GDPR) in tema di regolamentazione dei sistemi e delle tecnologie di profilazione e di scoring.
 
@@ -132,7 +132,7 @@ Non può esservi progresso tecnologico o innovazione che non abbia come fondamen
 
 
 #### <a name="giorio"></a> Blockchain e GDPR: una convivenza difficile <a href="/e-privacy-XXV-programma.html#2m1">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a>**  
+**<a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a>**  
 
 Ultimamente si fa un gran parlare di blockchain, spesso anche a sproposito, tanto che persino la filiera che porta un pollo sulle tavole dei consumatori si vanta di essere gestita tramite blockchain. Anche l’Europa si è interessata al fenomeno, ed alcuni Garanti hanno iniziato ad esprimersi sulla compatibilità fra questa tecnologia ed il GDPR. Soprattutto la caratteristica di immutabilità degli eventi passati, che contraddistingue le blockchain, sembra essere in contrasto con il diritto all’oblio, sancito dalla normativa europea. In questo intervento si tenta di sintetizzare quali sono le caratteristiche delle blockchain e di comprendere come possano integrarsi nel GDPR, alla luce delle posizioni prese sinora dalle Autorità europee e con un occhio di riguardo per l’applicazione negli Enti pubblici. 
 

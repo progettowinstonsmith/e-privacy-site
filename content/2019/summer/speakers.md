@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 
-## <a name="speakers"></a>I relatori
+## <a name="speakers"></a>I chairman
 
 ### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
 
@@ -59,6 +59,8 @@ Digitali ed è militante del Partito Radicale. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
 Internet wealth".
 
+
+## <a name="speakers"></a>I relatori
 
 #### <a name="collettivo"></a> (è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)
 
@@ -199,7 +201,7 @@ Ad e-privacy XXV presenta <br/>
 
 
 
-#### <a name="del ninno"></a> alessandro del ninno (Studio legale Tonucci & Partners)
+#### <a name="del ninno"></a> Alessandro Del Ninno (Studio legale Tonucci & Partners)
 
 Avvocato esperto nel settore dell'ICT e della Data Protection. E’ autore di oltre 100 pubblicazioni, tra articoli, saggi, libri e monografie giuridiche dedicate alle materie dell’ICT, Data Protection e diritto d’autore. Ad oggi è stato invitato come relatore ad oltre 150 conferenze organizzate sia a livello nazionale che internazionale dalle principali istituzioni italiane e straniere.
 

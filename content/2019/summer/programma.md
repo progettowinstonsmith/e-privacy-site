@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
+Sponsor: sikurezza.org,sepel,ush,isgroup,cgt,mes3hacklab
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 
@@ -51,28 +51,27 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="vem"></a>Giovedì 6 Giugno 2019 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith
-
+ * Chairman: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
+ 
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari </a><br/>*Apertura lavori*: "Il social scoring oltre ogni immaginabile profilazione"
+9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>*Apertura lavori*: "Il social scoring oltre ogni immaginabile profilazione"
 9:45 | 0:15 | <br/>*Saluti istituzionali*
-10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">alessandro del ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
+10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
 10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra (Studio Nicotra)</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
 11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus)</span>
 11:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano)</span>
-11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
+11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
 13:10 |  | *PAUSA PRANZO*
 
 #### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
 
-* Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith 
+* Chairman: <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
-  
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-14:40 | 0:10 | <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma </a><br/>Apertura lavori pomeridiani: Daremo un voto agli elettori?
+14:40 | 0:10 | <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Daremo un voto agli elettori?
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a><br/><span class='talk'>[_La responsabilità dell'algoritmo di scoring_](e-privacy-XXV-interventi.html#bassoli)</span>
 15:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio </a><br/><span class='talk'>[_La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione_](e-privacy-XXV-interventi.html#augenti)</span>
 15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng_](e-privacy-XXV-interventi.html#zugnaz)</span>
@@ -85,11 +84,11 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 #### <a name="sam"></a>Venerdì 7 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith
+* Chairman: <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a>
 
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a><br/>*Apertura lavori*
+9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a><br/>*Apertura lavori*
 9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
 10:05 | 0:20 | <a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a><br/><span class='talk'>[_Etica, Intelligenza Artificiale e protezione dei dati personali_](e-privacy-XXV-interventi.html#fabiano)</span>
 10:25 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
@@ -102,8 +101,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 
 #### <a name="vep"></a>Venerdì 7 Giugno 2019 - pomeriggio
-  
- * Chairman: [_Marco Calamari_](/e-privacy-XXV-relatori.html#calamari), [_Diego Giorio_](/e-privacy-XXV-relatori.html#giorio) , [_Emmanuele Somma_](/e-privacy-XXV-relatori.html#somma)  Progetto Winston Smith 
+
+* Chairman: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
@@ -114,8 +113,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 15:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vieri">Giovambattista Vieri </a><br/><span class='talk'>[_Facce, dati e ... Machine learning_](e-privacy-XXV-interventi.html#vieri)</span>
 15:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#tancini">Claudio Tancini (Informatica Solidale Onlus)</a><br/><span class='talk'>[_La importanza di un codice Etico per i professionisti ICT_](e-privacy-XXV-interventi.html#tancini)</span>
 16:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bernieri1">Christian Bernieri (DPO - Principal Consultant Bernieri Consulting)</a><br/><span class='talk'>[_la teoria della fenice: la protezione dei dati può partire da dove si è arrivati in ambito sicurezza del lavoro_](e-privacy-XXV-interventi.html#bernieri1)</span>
-16:30 | 1:00 | Tavola Rotonda: <span class='talk'>[_«E-PIRACY: Copyright, pirati e prospettive»_](e-privacy-XXV-interventi.html#tavola2)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma </a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
-17:30 |  | Chiusura lavori prima giornata
+16:30 | 1:30 | Tavola Rotonda: <span class='talk'>[_«E-PIRACY: Copyright, pirati e prospettive»_](e-privacy-XXV-interventi.html#tavola2)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
+18:00 |  | Chiusura lavori
 
 ### Sede di e-privacy 2019 summer edition
 
