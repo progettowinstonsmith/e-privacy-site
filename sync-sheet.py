@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 
 SPREADSHEET_ID = '1ZkK6QvBu1-xdD7sFQF9hI2J4wn1kfj1fqvglFTu43Fw'
 
-RELATORI = 'Relatori!B2:T43'
+RELATORI = 'Relatori!B2:T45'
 
 ORGANIZZATORI = ['calamari','giorio','somma']
 
@@ -38,22 +38,23 @@ SESSIONI = (
     ("GIORNO1_MATTINA", 0, 0, (
         ("Apertura", 'open', GIORNO1 + '!A2:J2'),
         ("Saluti", 'saluti', GIORNO1 + '!A3:J3'),
-        ("Giovedì Mattina", 'talks', GIORNO1 + '!A4:J7'),
-        ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A8:J8'),
-        ("Pausa Pranzo", 'pausa', GIORNO1 + '!A9:J9'),
+        ("Giovedì Mattina", 'talks', GIORNO1 + '!A4:J8'),
+        ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A9:J9'),
+        ("Pausa Pranzo", 'pausa', GIORNO1 + '!A10:J10'),
     ), GIORNO1 + '!A2:J2' ),
     ("GIORNO1_POMERIGGIO", 0, 1, (
-        ("Apertura", 'open', GIORNO1 + '!A15:J15'),
-        ("Giovedì Pomeriggio", 'talks', GIORNO1 + "!A16:J23"),
+        ("Apertura", 'open', GIORNO1 + '!A16:J16'),
+        ("Giovedì Pomeriggio", 'talks', GIORNO1 + "!A17:J24"),
         # ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A26:J26'),
-        ("Chiusura lavori prima giornata", 'pausa', GIORNO1 + '!A24:J24'),
-    ), GIORNO1 + '!A15:J15'),
+        ("Chiusura lavori prima giornata", 'pausa', GIORNO1 + '!A25:J25'),
+    ), GIORNO1 + '!A16:J16'),
     ("GIORNO2_MATTINA", 1, 0, (
         ("Apertura", 'open', GIORNO2 + '!A2:J2'),
         ("Venerdì Mattina", 'talks', GIORNO2 + '!A3:J10'),
         ("Chiusura lavori", 'pausa', GIORNO2 + '!A11:J11'),
     ), GIORNO2 + '!A2:J2'),
     ("GIORNO2_POMERIGGIO", 1, 1, (
+        ("Apertura", 'open', GIORNO2 + '!A16:J16'),
         ("Venerdì Mattina", 'talks', GIORNO2 + '!A17:J23'),
         ("Tavola Rotonda", 'roundtable', GIORNO2 + '!A24:J24'),
         ("Chiusura lavori", 'pausa', GIORNO2 + '!A25:J25'),

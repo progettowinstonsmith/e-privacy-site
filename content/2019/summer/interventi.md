@@ -45,7 +45,7 @@ Il talk si propone di affrontare i principali problemi legati alle smart/surveil
 
 
 #### <a name="gargano"></a> Social scoring e mobilità sostenibile, che fine fa la privacy? <a href="/e-privacy-XXV-programma.html#1m6">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a>**  
+**<a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a>**  
 
 La relazione, partendo da un case study affronta la problematica delle smart city, legate alla raccolta ed al trattamento dei dati in ambito della mobilità sostenibile. Dal car sharing, al car pooling, passando per il bike sharing e le smart bike, dove vanno a finire i nostri dati, quali sono i rischi connessi al trattamento di questi big data.
 Si partirà dall’analisi dell’evoluzione dei sistemi di mobilità sostenibile, per analizzare quanto la tecnologia e lo sviluppo di applicazioni per device mobili possano migliorare l’uso di questi servizi. Il compromesso unico va oltre l’autorizzazione alla raccolta dei dati personali, con la raccolta delle preferenze e dei dati di geolocalizzazione che non solo vengono trasmessi ai gestori titolari autonomi delle piattaforme, ma condivisi con altri utenti o aggregati da piattaforme terze.
@@ -53,10 +53,18 @@ Quali sono le garanzie minime da richiedere per valutare un sistema di raccolta 
 
 
 
-#### <a name="bassoli"></a> La responsabilità dell'algoritmo di scoring <a href="/e-privacy-XXV-programma.html#1p02">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a>**  
+#### <a name="vaciago"></a> «Law Enforcement Directive» e D.lgs. 51/18 <a href="/e-privacy-XXV-programma.html#1m7">⇧</a>
+**<a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a>**  
 
-Mentre la maggior parte della dottrina giuridica sulla privacy si concentra sulla raccolta del dato, la vera minaccia è rappresentata dalla successiva fase di analisi che può rivelarsi fallace e discriminatoria. Tutti i dati ormai sono dati credito” - vale a dire che l'analisi predittiva può prendere praticamente qualsiasi frammento di informazione su una persona, analizzare se corrisponde ad una caratteristica di “meritevolezza del credito” e trarne conseguenze che vanno ad incidere sulla vita delle persone. 
+Il D.lgs. 51/18 ha applicato in Italia la Direttiva 680/16 che ha l'obiettivo di rendere, con i dovuti distinguo, applicabile il GDPR anche all'attività investigativa. I principi sottesi a tale norma sono:  (i) la vita privata dell’individuo deve svolgersi al riparo da intromissioni esterne; (ii) tali intromissioni possono essere giustificate solo in presenza di un pubblico interesse individuato da una legge; (iii) le misure in cui si concretizza questa intromissione devono essere necessarie (non possono essere sostituite da altre misure meno intrusive) e specifiche (devono essere controllabili) rispetto al perseguimento del pubblico interesse. I principi espressi sono di altissimo livello, ma tale normativa e le relative sanzioni saranno mai applicate?
+
+
+
+
+#### <a name="esposito"></a> Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico? <a href="/e-privacy-XXV-programma.html#1p02">⇧</a>
+**<a href="/e-privacy-XXV-relatori.html#esposito">Maddalena Esposito </a>**  
+
+Con l'avvento di internet e, successivamente, dei social media la partecipazione politica non è mai stata più semplice e aperta. Dibattiti trasversali tra istituzioni, accademia, società civile e cittadinanza sembrano quasi sempre puntare all'illimitato potenziale democratico delle tecnologie digitali, comprovato dalle capacità associative dei social network in situazioni di crisi politica. Il Movimento 5 Stelle ne è l'esempio schiacciante, tutto italiano. Ma che cosa succede quando il dibattito politico e il coinvolgimento civico avvengono tramite canali 'istituzionali', come la piattaforma Rousseau? Basandomi sui risultati di una Case Study Analysis condotta per 6 mesi, da giugno a dicembre 2018, questa talk esplora i lati oscuri del coinvolgimento civico online in riferimento alla Piattaforma Rousseau, alla luce dei recenti sviluppi in materia di privacy e trasparenza. 
 
 
 
@@ -69,7 +77,7 @@ Siamo davvero sicuri che maggiore trasparenza e attenzione nella gestione dei da
 
 
 
-#### <a name="zugnaz"></a> Privacy Chillng <a href="/e-privacy-XXV-programma.html#1p04">⇧</a>
+#### <a name="zugnaz"></a> Privacy Chillng effect <a href="/e-privacy-XXV-programma.html#1p04">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a>**  
 
 La cognizione può essere definita come "il processo di acquisizione di conoscenze e comprensione attraverso il pensiero, i sensi e l'esperienza" ma in particolare come sostiene lo psicologo tedesco Ulric Neisser anche come un sistema di elaborazione HIP (Human Information Processing). Tuttavia siamo condizionati da cosa Amazon e Google pensano di noi. Ma cosè il Privacy Chillng Effect? Probabilmente lo subiamo ogni giorno ma non sappiamo ancora cosa sia. Dalla esperienza del Webprepping, raccontiamo come vivono le comunità di persone che pensano ai propri diritti digitali.
@@ -138,22 +146,14 @@ Ultimamente si fa un gran parlare di blockchain, spesso anche a sproposito, tant
 
 
 
-#### <a name="vaciago"></a> «Law Enforcement Directive» e D.lgs. 51/18 <a href="/e-privacy-XXV-programma.html#2m2">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a>**  
-
-Il D.lgs. 51/18 ha applicato in Italia la Direttiva 680/16 che ha l'obiettivo di rendere, con i dovuti distinguo, applicabile il GDPR anche all'attività investigativa. I principi sottesi a tale norma sono:  (i) la vita privata dell’individuo deve svolgersi al riparo da intromissioni esterne; (ii) tali intromissioni possono essere giustificate solo in presenza di un pubblico interesse individuato da una legge; (iii) le misure in cui si concretizza questa intromissione devono essere necessarie (non possono essere sostituite da altre misure meno intrusive) e specifiche (devono essere controllabili) rispetto al perseguimento del pubblico interesse. I principi espressi sono di altissimo livello, ma tale normativa e le relative sanzioni saranno mai applicate?
-
-
-
-
-#### <a name="fabiano"></a> Etica, Intelligenza Artificiale e protezione dei dati personali <a href="/e-privacy-XXV-programma.html#2m3">⇧</a>
+#### <a name="fabiano"></a> Etica, Intelligenza Artificiale e protezione dei dati personali <a href="/e-privacy-XXV-programma.html#2m2">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>**  
 
 Il tema dell’etica assume oggigiorno rilievo primario e, sebbene il suo riferimento non sia espressamente contenuto nelle norme, è possibile comunque utilizzare i principi contenuti nel GDPR, e specificamente previsti all’art. 5, par. 1, («liceità, correttezza e trasparenza», «limitazione della finalità», «minimizzazione dei dati», «esattezza», «limitazione della conservazione», «integrità e riservatezza», «responsabilizzazione»), per una lettura eticamente orientata del trattamento dei dati personali. Al di là del riferimento strettamente normativo, è fondamentale acquisire un approccio etico al tema dei dati personali e del relativo trattamento. Non è necessaria soltanto l’attività di sensibilizzazione al tema dell’etica ma ancor più l’acquisizione di una concreta consapevolezza dell’etica che deve diventare una reale “coscienza etica”. Una coscienza etica implica il rispetto della legge sulla protezione dei dati personali (GDPR e codice privacy), ma potrebbe non essere vero il contrario, ossia rispettare la legge non significa necessariamente avere una “coscienza etica”.
 
 
 
-#### <a name="pusceddu"></a> L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente. <a href="/e-privacy-XXV-programma.html#2m4">⇧</a>
+#### <a name="pusceddu"></a> L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente. <a href="/e-privacy-XXV-programma.html#2m3">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a>**  
 
 Il presente contributo ha ad oggetto il Regolamento UE n. 679/2016 e si sofferma, in particolare, sull’utilizzo del disegno (nella forma di “icone’) con riferimento alle misure appropriate per fornire all’interessato tutte le informazioni e le comunicazioni relative al trattamento in forma concisa, trasparente, intellegibile e facilmente accessibile mediante l’utilizzo di un linguaggio semplice e chiaro. Ciò che si pone in rilievo nel presente elaborato è il particolare rapporto che intercorre tra il disegno ed il diritto e, nello specifico, si indaga la funzione che le icone svolgono nella tutela e nella protezione dei dati personali. In altri termini, l’interessato deve essere messo nella condizione di poter comprendere sempre come dovranno essere trattati i suoi dati personali. 
@@ -162,7 +162,7 @@ Ci si soffermerà su una particolare tipologia di contratto che involge il tratt
 
 
 
-#### <a name="de felice"></a> Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy <a href="/e-privacy-XXV-programma.html#2m5">⇧</a>
+#### <a name="de felice"></a> Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy <a href="/e-privacy-XXV-programma.html#2m4">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a>**  
 
 L’esigenza per le aziende di creare contenuti ma ancor di più di distribuirli e di pianificare la loro programmazione sta rivoluzionando il loro modo di fare pubblicità.
@@ -172,7 +172,7 @@ Ma chi utilizza questi software di elaborazione in grado di estrarre dati di tip
 
 
 
-#### <a name="berto"></a> Trattamento dei dati persoali: la nascita del reclamo costituzionale in Germania <a href="/e-privacy-XXV-programma.html#2m6">⇧</a>
+#### <a name="berto"></a> Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania <a href="/e-privacy-XXV-programma.html#2m5">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a>**  
 
 In tempi in cui si discute di riforme costituzionali, vorrei citare un esempio di democrazia diretta che ha preso le mosse da un problema relativo alla privacy ed al trattamento dei dati personali.
@@ -187,17 +187,44 @@ In tempi in cui si discute di riforme costituzionali, questo è un esempio di de
 
 
 
-#### <a name="longo"></a> Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy <a href="/e-privacy-XXV-programma.html#2m7">⇧</a>
+#### <a name="longo"></a> Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy <a href="/e-privacy-XXV-programma.html#2m6">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#longo">Valentina Longo (Avvocato)</a> e <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio (Consulente online marketing)</a>**  
 
 Le odierne prassi di online marketing si basano ormai da tempo sul concetto di profilazione utente e oggi si orientano sempre di più, con l’ausilio di algoritmi di artificial intelligence e deep machine learning, verso soluzioni di consumer scoring. Dall’industria finanziaria che lo ha adottato come standard, sono sempre di più le aziende che scelgono di accedere a piattaforme che offrono servizi di profilazione avanzata e di consumer scoring. Con il supporto di testimonianze di esperti di online marketing, corporate law e artificial intelligence puntiamo lo sguardo sul difficile equilibrio tra marketing tecnologico e privacy degli individui.
 
 
 
-#### <a name="alovisio"></a> La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR <a href="/e-privacy-XXV-programma.html#2m8">⇧</a>
+#### <a name="alovisio"></a> La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR <a href="/e-privacy-XXV-programma.html#2m7">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#alovisio">Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Torino)</a>**  
 
 La relazione è finalizzata a illustrare gli strumenti previsti a livello europeo per   tutelare la protezione dei dati personali alla luce del nuovo regolamento e-privacy. rafforzare la fiducia dei cittadini nelle comunicazioni coomunicazioni elettroniche  Quali sono gli strumenti che cittadini e associazioni possono utilizzare in materia di utilizzo di cookie,  profilazione, traking sia pubblico che privato,  quali sono i compiti e il ruolo dell'Autorità garante per la protezione dei dati personali alla luce del nuovo piano ispettivo del 2019 della Guardia di Finanza  
+
+
+
+#### <a name="bassoli"></a> La responsabilità dell'algoritmo di scoring <a href="/e-privacy-XXV-programma.html#2m8">⇧</a>
+**<a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a>**  
+
+Mentre la maggior parte della dottrina giuridica sulla privacy si concentra sulla raccolta del dato, la vera minaccia è rappresentata dalla successiva fase di analisi che può rivelarsi fallace e discriminatoria. Tutti i dati ormai sono dati credito” - vale a dire che l'analisi predittiva può prendere praticamente qualsiasi frammento di informazione su una persona, analizzare se corrisponde ad una caratteristica di “meritevolezza del credito” e trarne conseguenze che vanno ad incidere sulla vita delle persone. 
+
+
+
+#### <a name="bba"></a> Big Brother Award <a href="/e-privacy-XXV-programma.html#2m9">⇧</a>
+**<a href="/e-privacy-XXV-relatori.html#bba">Hermes Center for Transparency and Digital Human Rights </a>**  
+
+Cos'e' il BBA Italia? E' un premio "in negativo" che ormai da anni viene assegnato in tutto il mondo a chi piu' ha danneggiato la privacy.
+
+La maggioranza del Popolo della Rete sembra ormai convinta che parlare di liberta' e diritti civili in Rete sia un esercizio retorico e ripetitivo, e che il tecnocontrollo sociale sia ormai una realta' largamente accettata ed alla quale e' inutile opporsi.
+
+Il BBA si propone di riportare l'attenzione del Popolo della Rete su coloro che attivamente o passivamente contribuiscono a questa situazione.
+
+Anche in questa atmosfera cupa, il BBA rimane una iniziativa seria ma realizzata con allegria; tutto il BBA e' infatti permeato anche dalla voglia di divertirsi, non certo per sdrammatizzare la situazione, ma perche' fare le cose con allegria aiuta a farle bene.
+
+E' quindi possibile che anche quest'anno alla cerimonia di assegnazione, qualche ospite nuovo ed imprevisto si faccia vedere ......
+
+Anche le categorie dei premi sono state rese piu' snelle.
+Oltre all'immortale premio "Minaccia da una vita", assegnato automaticamente a chi riceve piu' nomination, le categorie sono "Rischio tecnologico", "Minaccia internazionale" e "Provocazione nazionale".
+
+E' stato mantenuto il premio positivo "Paladino della privacy". 
 
 
 

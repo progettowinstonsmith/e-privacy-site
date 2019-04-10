@@ -1,6 +1,6 @@
 Template: event
 Title: Nuove tecnologie di controllo
-Date: 2019-01-26 12:00:00
+Date: 2019-04-10 12:00:00
 Category: 2019
 lang: it
 Num: XXV
@@ -61,9 +61,10 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
 10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra (Studio Nicotra)</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
 11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus)</span>
-11:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano)</span>
+11:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano)</span>
+11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
 11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
-13:10 |  | *PAUSA PRANZO*
+13:30 |  | *PAUSA PRANZO*
 
 #### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
 
@@ -72,9 +73,9 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 14:40 | 0:10 | <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Daremo un voto agli elettori?
-14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a><br/><span class='talk'>[_La responsabilità dell'algoritmo di scoring_](e-privacy-XXV-interventi.html#bassoli)</span>
+14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#esposito">Maddalena Esposito </a><br/><span class='talk'>[_Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?_](e-privacy-XXV-interventi.html#esposito)</span>
 15:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio </a><br/><span class='talk'>[_La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione_](e-privacy-XXV-interventi.html#augenti)</span>
-15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng_](e-privacy-XXV-interventi.html#zugnaz)</span>
+15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng effect_](e-privacy-XXV-interventi.html#zugnaz)</span>
 16:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#priolo">Enrica Priolo </a><br/><span class='talk'>[_Sui diritti umani connaturati alla corretta informazione._](e-privacy-XXV-interventi.html#priolo)</span>
 16:20 | 0:20 | <a href="/e-privacy-XXV-relatori.html#marmo">Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)</a><br/><span class='talk'>[_Estrazione di email dai Social Media_](e-privacy-XXV-interventi.html#marmo)</span>
 16:40 | 0:30 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
@@ -89,14 +90,14 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a><br/>*Apertura lavori*
-9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
-10:05 | 0:20 | <a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a><br/><span class='talk'>[_Etica, Intelligenza Artificiale e protezione dei dati personali_](e-privacy-XXV-interventi.html#fabiano)</span>
-10:25 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
-10:55 | 0:20 | <a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a><br/><span class='talk'>[_Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy_](e-privacy-XXV-interventi.html#de felice)</span>
-11:15 | 0:20 | <a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a><br/><span class='talk'>[_Trattamento dei dati persoali: la nascita del reclamo costituzionale in Germania_](e-privacy-XXV-interventi.html#berto)</span>
-11:35 | 0:30 | <a href="/e-privacy-XXV-relatori.html#longo">Valentina Longo (Avvocato)</a> e <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio (Consulente online marketing)</a><br/><span class='talk'>[_Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy_](e-privacy-XXV-interventi.html#longo)</span>
-12:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#alovisio">Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Torino)</a><br/><span class='talk'>[_La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR_](e-privacy-XXV-interventi.html#alovisio)</span>
-12:35 | 0:15 | <a href="/e-privacy-XXV-relatori.html#bba">Hermes Center for Transparency and Digital Human Rights  </a><br/><span class='talk'>[_Big Brother Award_](e-privacy-XXV-interventi.html#bba)</span>
+9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a><br/><span class='talk'>[_Etica, Intelligenza Artificiale e protezione dei dati personali_](e-privacy-XXV-interventi.html#fabiano)</span>
+10:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
+10:35 | 0:20 | <a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a><br/><span class='talk'>[_Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy_](e-privacy-XXV-interventi.html#de felice)</span>
+10:55 | 0:20 | <a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a><br/><span class='talk'>[_Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania_](e-privacy-XXV-interventi.html#berto)</span>
+11:15 | 0:30 | <a href="/e-privacy-XXV-relatori.html#longo">Valentina Longo (Avvocato)</a> e <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio (Consulente online marketing)</a><br/><span class='talk'>[_Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy_](e-privacy-XXV-interventi.html#longo)</span>
+11:45 | 0:15 | <a href="/e-privacy-XXV-relatori.html#alovisio">Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Torino)</a><br/><span class='talk'>[_La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR_](e-privacy-XXV-interventi.html#alovisio)</span>
+12:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a><br/><span class='talk'>[_La responsabilità dell'algoritmo di scoring_](e-privacy-XXV-interventi.html#bassoli)</span>
+12:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#bba">Hermes Center for Transparency and Digital Human Rights </a><br/><span class='talk'>[_Big Brother Award_](e-privacy-XXV-interventi.html#bba)</span>
 12:50 |  | *PAUSA PRANZO*
 
 
@@ -106,6 +107,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
+14:00 |  | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Che succede?
 14:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#ghirardini">Andrea Ghirardini </a><br/><span class='talk'>[_Black Mirror nel presente_](e-privacy-XXV-interventi.html#ghirardini)</span>
 14:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><span class='talk'>[_Che succede?_](e-privacy-XXV-interventi.html#ciurcina)</span>
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><span class='talk'>[_La crittografia nella messaggistica istantanea_](e-privacy-XXV-interventi.html#ferri)</span>

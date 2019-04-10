@@ -64,7 +64,9 @@ Internet wealth".
 
 #### <a name="collettivo"></a> (è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)
 
-gruppo nato dalla prima assemblea dell'istanza mastodon.cisti.org, siamo un gruppo di sistemisti e attivisti interessati a costruire un'alternativa alle piattaforme coprorative. [ECCOQUIDELPADDING PER RAGGIUNGERE 200 CARATTERI]
+cisti.org è un network radicale autogestito rivolto alla comunità
+torinese, al cui interno si costruiscono alternative alle piattaforme
+corporative, mettendo al centro la tutela della privacy.
 
 Ad e-privacy XXV presenta <br/>
 <b><a href="e-privacy-XXV-interventi.html#collettivo">A spasso nel fediverso, la nostra esperienza con Mastodon</a></b> alle <a href="/e-privacy-XXV-programma.html#2p05">15:10 di Venerdì</a>.<br/><br/>
@@ -76,7 +78,16 @@ Ad e-privacy XXV presenta <br/>
 Riccardo Abeti ama definirsi "tecno-avvocato" in quanto esperto di leggi relative all'Information e Communication Technology. Founding partner di EXPLegal, dal 2008 presiede la Commissione "New Technology, Personal Data and Communication Law" dell'Unione Avvocati Europei. Approfondisce e risolve problematiche di "diritto delle nuove tecnologie", nella quotidianità del lavoro, nell'ambito di pubblicazioni specializzate e per le associazioni di cui è membro (UAE - Unione Avvocati Europei e CSIG Ivrea-Torino). Con l'avvento del Regolamento UE 2016/679 in materia di protezione dei dati, è stato designato quale Responsabile per la protezione dei dati di alcune importanti realtà produttive nazionali.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#abeti">Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo</a></b> alle <a href="/e-privacy-XXV-programma.html#1p07">16:40 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#abeti">Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo</a></b> alle <a href="/e-privacy-XXV-programma.html#1p07">16:40 di Giovedì</a>.<br/><br/>
+
+
+
+#### <a name="albanese"></a> Graziano Albanese 
+
+Graziano Albanese, consulenti informatico amministratore di reti e sistemi. Esperto di sicurezza informatica  delle connettività LAN e WAN e dei processi di Office Automation. Consulente in outsourcing per la progettazione e realizzazione di impianti di comunicazione integrata.
+
+Ad e-privacy XXV presenta <br/>
+<b><a href="e-privacy-XXV-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m6">11:20 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese</a>.<br/><br/>
 
 
 
@@ -85,7 +96,30 @@ Ad e-privacy XXV presenta <br/>
 Mauro Alovisio, professore di corsi di perfezionamento universitario in materia di protezione dei dati personali, fellow del Centro di ricerca Nexa e direttore del Centro di Informatica Giuridica di Ivrea Torino e autore di pubblicazioni in materia di videosorveglianza ; Riccardo Abeti, legale specializzato nel diritto delle nuove tecnologie, componente del Centro Studi di informatica di Ivrea Torino e dell'Unione degli Avvocati Europei 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#alovisio">La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR</a></b> alle <a href="/e-privacy-XXV-programma.html#2m8">12:05 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#alovisio">La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR</a></b> alle <a href="/e-privacy-XXV-programma.html#2m7">11:45 di Venerdì</a>.<br/><br/>
+
+
+
+#### <a name="bba"></a> Hermes Center for Transparency and Digital Human Rights 
+
+Our mission is to promote and develop in the society the awareness of and the attention to transparency and accountability, be they related to the society-at-large or not. Our goal is to increase the citizens’ involvement in the management of matters of public interest and to boost the active participation of workers and employees to the correct management of corporations and companies they work for.
+
+
+Accordingly, the Hermes Center for Transparency and Digital Human Rights mission includes;
+
+Supporting and developing free software with the purpose of increasing the Freedom of Speech online and, more in general, the protection of rights and personal freedom in a connected world;
+Supporting and developing the whistleblowing free-software solution named “GlobaLeaks” aimed at private and public organizations which shall be free to adopt the same software for their initiatives;
+Taking part in associations or organizations which share the same goals as the Hermes Center for Transparency and Digital Human Rights in the field of promotion and protection of civil liberties, anonymity in a connected world, whistleblowing, freedom of speech and investigative journalism;
+Supporting the development and promotion of the Tor2web project and of the TOR network and tools thereof in general;
+Supporting the development and actual management of the LeakDirectory website, listing whistleblowing websites;
+Hosting or attending events aimed at increasing the culture of Transparency (i.e., public-interest whistleblowing, OpenData, OpenGovernment etc.)
+
+In no event shall the Hermes Center for Transparency and Digital Human Rights gather and/or solicit secret or sensitive information, while it reserves the right to evaluate whether to give technical support to entities which are involved in such activities, provided that the Board so decides.
+
+The Hermes Center for Transparency and Digital Human Rights, in order to pursue its goals, may decide to apply for membership in other organizations and/or to co-operate with entities whose mission does not conflict with the goals of the Hermes Center for Transparency and Digital Human Rights.
+
+Ad e-privacy XXV presenta <br/>
+<b><a href="e-privacy-XXV-interventi.html#bba">Big Brother Award</a></b> alle <a href="/e-privacy-XXV-programma.html#2m9">12:20 di Venerdì</a>.<br/><br/>
 
 
 
@@ -94,7 +128,7 @@ Ad e-privacy XXV presenta <br/>
 ADRIANA AUGENTI è avvocato del Foro di Bari e si occupa in particolare di Tutela dei Dati Personali, Nuove Tecnologie, Internet Governance, Diritto Industriale e della Concorrenza e Proprietà Intellettuale. Segretario del Centro Studi Informatica Giuridica è DPO dell’Ordine degli Avvocati di Bari ed è consulente in materia di tutela dei dati personali per diverse Pubbliche Amministrazioni Locali e PMI. Ha esperienza decennale nell’ambito della formazione anche postuniversitaria ed è stata relatrice in numerosissimi convegni sulle tematiche trattate. È autrice di pubblicazioni in materia.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXV-programma.html#1p03">15:10 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXV-programma.html#1p03">15:10 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
 
 
 
@@ -103,7 +137,7 @@ Ad e-privacy XXV presenta <br/>
 Elena Bassòli, Avvocato in Genova, Professore a contratto di Diritto della comunicazione elettronica (54 h) e di Cyber Security and Data Protection (Master II liv. post lauream Ingegneria), presso Università degli Studi di Genova; già docente di Diritto dell’Informatica presso l’Università degli Studi di Genova, del Piemonte Orientale, e della Statale di Milano. Si occupa di diritto e nuove tecnologie dal 1995 ed è autore di oltre 200 pubblicazioni in materia, tra monografie, contributi a collettanee, articoli, note e commenti. Membro del Comitato di Redazione della rivista “Sicurezza e Giustizia”, è formatore per Ministero dell’Interno e Ministero di Giustizia, Vice-Presidente di ANGIF (Associazione Nazionale Giuristi Informatici e Forensi) con cui ha organizzato e coordinato centinaia di seminari, convegni, congressi, master. Coautore del software Verslex in uso al Senato della Repubblica per l’aiuto alla redazione dei testi normativi. È dottore di ricerca in Metodi e tecniche della formazione e valutazione delle leggi, XII ciclo. Coordinatore della Commissione “Privacy” e Consigliere presso CTI-Liguria (Club Tecnologie dell’Informazione); membro ANDIG-Ass. Naz. Docenti Informatica giuridica e ANDIP-Ass. Naz. Difesa Privacy. In questi ultimi 25 anni si è occupata e tuttora si occupa di consulenza privacy e diritto delle nuove tecnologie ad imprese ed enti pubblici nei settori trasporto marittimo, sanitario, turistico, commerciale, assicurativo, associativo, no profit, ordini professionali, siderurgico, impiantistico.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#bassoli">La responsabilità dell'algoritmo di scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#1p02">14:50 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#bassoli">La responsabilità dell'algoritmo di scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#2m8">12:00 di Venerdì</a>.<br/><br/>
 
 
 
@@ -124,7 +158,7 @@ Ha continuato a studiare, specializzadosi in risoluzione internazionale delle di
 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#berto">Trattamento dei dati persoali: la nascita del reclamo costituzionale in Germania</a></b> alle <a href="/e-privacy-XXV-programma.html#2m6">11:15 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#berto">Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania</a></b> alle <a href="/e-privacy-XXV-programma.html#2m5">10:55 di Venerdì</a>.<br/><br/>
 
 
 
@@ -148,7 +182,7 @@ massimo.burgio@gmail.com (per comunicare anche a lui l'eventuale accettazione de
 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m7">11:35 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m6">11:15 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
 
 
 
@@ -174,7 +208,7 @@ Ed è di questo tema che vorrei parlarvi.
 Vorrei contribuire, in questa edizione 2019 dell'E-Privacy, prospettandovi questioni giuridiche che meritano il dibattito e che necessitano di una soluzione condivisa. E che, sopratutto, per me rappresentano non una tematica, ma una passione.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#criscuolo">Progresso tecnologico e potere di controllo</a></b> alle <a href="/e-privacy-XXV-programma.html#1p09">17:40 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#criscuolo">Progresso tecnologico e potere di controllo</a></b> alle <a href="/e-privacy-XXV-programma.html#1p09">17:40 di Giovedì</a>.<br/><br/>
 
 
 
@@ -197,7 +231,7 @@ Da ultimo, svolge attività di tutorato per Formazione Giuridica S.r.l., scuola 
 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#de felice">Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m5">10:55 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#de felice">Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m4">10:35 di Venerdì</a>.<br/><br/>
 
 
 
@@ -210,12 +244,23 @@ Ad e-privacy XXV presenta <br/>
 
 
 
+#### <a name="esposito"></a> Maddalena Esposito 
+
+Maddalena Esposito, casertana di nascita e londinese di adozione. Mi sono laureata recentemente in Media, Communications e Critical Practice alla University of the Arts London (UAL) e attualmente conduco ricerca su Internet Regulation e Freedom of Expression Online per Big Brother Watch, una ONG britannica che protegge il diritto alla privacy e le libertà civili legate alla sorveglianza. Da oltre un anno lavoro come Head of Social Media and Dissemination all'Information Law and Policy Centre (ILPC), presso l'Institute of Advanced Legal Studies, University of London, per cui scrivo e organizzo seminari e conferenze accademiche. 
+
+Tra i miei interessi ci sono: regolamentazione e politiche dei social media, comunicazione politica, eGovernment, policy-making. 
+
+Ad e-privacy XXV presenta <br/>
+<b><a href="e-privacy-XXV-interventi.html#esposito">Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?</a></b> alle <a href="/e-privacy-XXV-programma.html#1p02">14:50 di Giovedì</a>.<br/><br/>
+
+
+
 #### <a name="fabiano"></a> Nicola Fabiano (Studio Legale Fabiano)
 
 Nicola Fabiano è Avvocato cassazionista, Specialista in Diritto Civile, esperto in mate-ria di protezione dei dati personali, privacy e sicurezza informatica, ricercatore indipen-dente, innovatore. Presidente dell'Autorità Garante di San Marino. E’ certificato: Responsabile della  Protezione  dei Dati (RPD/DPO) - UNI 11697:2017, Valutatore Privacy – UNI 11697:2017, Professionista dei Sistemi di Gestione della Sicurez-za delle Informazioni - ISO 27021:2017, Security Manager (ICT) - UNI 11506:2017.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#fabiano">Etica, Intelligenza Artificiale e protezione dei dati personali</a></b> alle <a href="/e-privacy-XXV-programma.html#2m3">10:05 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#fabiano">Etica, Intelligenza Artificiale e protezione dei dati personali</a></b> alle <a href="/e-privacy-XXV-programma.html#2m2">9:45 di Venerdì</a>.<br/><br/>
 
 
 
@@ -234,7 +279,7 @@ Diritto d’autore, diritto penale, tutela della privacy e diritto dell’inform
 
 Ad e-privacy XXV presenta <br/>
 <b><a href="e-privacy-XXV-interventi.html#gallus">Smart city: la città può essere intelligente senza sorvegliarci tutti?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m5">11:00 di Giovedì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola1">Social Scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#1m7">11:50 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus</a> e <a href="/e-privacy-XXV-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari</a>.<br/>
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola1">Social Scoring</a></b> alle <a href="/e-privacy-XXV-programma.html#1m8">11:50 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus</a> e <a href="/e-privacy-XXV-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari</a>.<br/>
 
 
 
@@ -242,10 +287,10 @@ Ad e-privacy XXV presenta <br/>
 #### <a name="gargano"></a> Nicola Gargano 
 
 Nicola Gargano, avocato in Bari e Milano, consigliere referente informatico per l'ordine degli avvocati di Bari, socio fondatore dell'associazione Amadir  e CSPT di cui è attualmente vicepresidente. Componente del comitato scientifico del portale ilprocessotelematico.it e autore di numero articoli e pubblicazioni sul processo telematico. Già relatore in numerosi convegni in tema di Processo Telematico e Privacy.
-Graziano Albanese, consulenti informatico amministratore di reti e sistemi. Esperto di sicurezza informatica  delle connettività LAN e WAN e dei processi di Office Automation. Consulente in outsourcing per la progettazione e realizzazione di impianti di comunicazione integrata.
+
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m6">11:20 di Giovedì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXV-programma.html#1m6">11:20 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese</a>.<br/><br/>
 
 
 
@@ -276,7 +321,7 @@ Dal 2017 al 2018 ha partecipato, come delegata del Ministero delle politiche agr
 Da ottobre 2018 è consulente Mipaaft per l'adeguamento al GDPR, referente per la Direzione Generale Affari generali e del nominato Responsabile (RDP).
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m7">11:35 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m6">11:15 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
 
 
 
@@ -285,7 +330,7 @@ Ad e-privacy XXV presenta <br/>
 Roberto Marmo è professore a contratto di Informatica nell'Università di Pavia. Si occupa di formazione, sviluppo software e scrittura di libri su:  intelligenza artificiale, social media mining per estrazione di informazione nei social media, social media analytics per il marketing. Sito web www.robertomarmo.net
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#marmo">Estrazione di email dai Social Media</a></b> alle <a href="/e-privacy-XXV-programma.html#1p06">16:20 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#marmo">Estrazione di email dai Social Media</a></b> alle <a href="/e-privacy-XXV-programma.html#1p06">16:20 di Giovedì</a>.<br/><br/>
 
 
 
@@ -304,7 +349,7 @@ Ad e-privacy XXV presenta <br/>
 Mi sono laureata in Giurisprudenza nella mia città con una tesi sulle intercettazioni. Esercito la professione di avvocato dal 2009, prediligo il diritto pubblico e sono cultrice di materia in diritto processuale penale e in diritto penitenziario presso la facoltà di Giurisprudenza di Cagliari. Ho ricevuto un incarico di insegnamento delle materie del diritto penale e del diritto processuale penale presso la Scuola di Specializzazione per le professioni legali presso l’Università degli Studi di Cagliari -Dipartimento di Giurisprudenza- per tre anni. Sono la coordinatrice dell'area giuridica della scuola di formazione EVLab s.r.l. di Cagliari. Sono specializzata in diritti umani e da qualche tempo approfondisco lo studio delle prove digitali. Sono componente della Commissione Formazione ed aggiornamento professionale presso il Consiglio dell'Ordine degli Avvocati di Cagliari. 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#priolo">Sui diritti umani connaturati alla corretta informazione.</a></b> alle <a href="/e-privacy-XXV-programma.html#1p05">16:00 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#priolo">Sui diritti umani connaturati alla corretta informazione.</a></b> alle <a href="/e-privacy-XXV-programma.html#1p05">16:00 di Giovedì</a>.<br/><br/>
 
 
 
@@ -313,7 +358,7 @@ Ad e-privacy XXV presenta <br/>
 Roberto Pusceddu è Avvocato del Foro di Cagliari e Dottorando di Ricerca in Scienze Giuridiche presso l'Università di Cagliari, Cultore di materia in Filosofia del diritto e Teoria Generale del Diritto (Docenti: Professor Giuseppe Lorini e Professor Gianmarco Gometz). La sua tesi di dottorato si incentra su: L'immagine nel contratto. 
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#pusceddu">L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente.</a></b> alle <a href="/e-privacy-XXV-programma.html#2m4">10:25 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#pusceddu">L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente.</a></b> alle <a href="/e-privacy-XXV-programma.html#2m3">10:05 di Venerdì</a>.<br/><br/>
 
 
 
@@ -322,7 +367,7 @@ Ad e-privacy XXV presenta <br/>
 Tommaso SCANNICCHIO si è specializzato nel campo della ICT Law durante un soggiorno annuale presso la Essex University UK nell’anno accademico 2001-2002. E’ avvocato del Foro di Bari dal 2003. Ha conseguito il dottorato di ricerca in Diritto Privato Italiano e Comparato presso l’Università degli Studi di Bari “Aldo Moro” con una tesi in lingua inglese relativa ai profili critici nei rapporti contrattuali che coinvolgono flussi di dati personali come “causa” del contratto. Cultore della materia per le cattedre di Diritto Privato Comparato, Diritto Civile 2 ed Inglese Giuridico presso la stessa Università, vanta una pluriennale esperienza specialistica nella consulenza in materia di privacy compliance nazionale ed europea, nel diritto d’autore, nel diritto dell’informatica e delle nuove tecnologie, con particolare riguardo alla diffamazione online e nella responsabilità degli Internet Service Provider. E’ associato I.A.P.P. (International Association of Privacy Professionals) e cura pro-bono il progetto “Libertà Civili nell’Era Digitale” per la ONLUS Coalizione Italiana per le Libertà e Diritti Civili (CILD) in Roma
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXV-programma.html#1p03">15:10 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXV-programma.html#1p03">15:10 di Giovedì</a> con <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
 
 
 
@@ -340,7 +385,7 @@ Ad e-privacy XXV presenta <br/>
 Avvocato esperto in diritto delle nuove tecnologie. Ha conseguito nel 2011 un PHD in Scienze Giuridiche all’Università degli Studi di Milano Bicocca affrontando il tema della Digital Forensics e delle investigazioni digitali. È lead auditor ISO/IEC 27001/20013 (Information Security Management) e ha conseguito la certificazione UNI 11697/2017 come Responsabile della Protezione dei Dati Personali (DPO). È docente di informatica giuridica presso l’Università degli Studi dell’Insubria dal 2007.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#vaciago">«Law Enforcement Directive» e D.lgs. 51/18</a></b> alle <a href="/e-privacy-XXV-programma.html#2m2">9:45 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#vaciago">«Law Enforcement Directive» e D.lgs. 51/18</a></b> alle <a href="/e-privacy-XXV-programma.html#1m7">11:50 di Giovedì</a>.<br/><br/>
 
 
 
@@ -361,7 +406,7 @@ Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari I
 È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#zanoni">Dimmi qualcosa di interessante su me!</a></b> alle <a href="/e-privacy-XXV-programma.html#1p08">17:10 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#zanoni">Dimmi qualcosa di interessante su me!</a></b> alle <a href="/e-privacy-XXV-programma.html#1p08">17:10 di Giovedì</a>.<br/><br/>
 
 
 
@@ -370,7 +415,7 @@ Ad e-privacy XXV presenta <br/>
 Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente si occupa di IT Governance per una concessionaria Autostradale. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti piu' possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera privata digitale etica e corrett
 
 Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#zugnaz">Privacy Chillng</a></b> alle <a href="/e-privacy-XXV-programma.html#1p04">15:40 di Venerdì</a>.<br/><br/>
+<b><a href="e-privacy-XXV-interventi.html#zugnaz">Privacy Chillng effect</a></b> alle <a href="/e-privacy-XXV-programma.html#1p04">15:40 di Giovedì</a>.<br/><br/>
 
 
 
