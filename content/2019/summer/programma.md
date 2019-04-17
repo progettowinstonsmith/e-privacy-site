@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sikurezza.org,sepel,ush,isgroup,cgt,mes3hacklab
+Sponsor: sikurezza.org,sepel,ush,isgroup,cgt,brat
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 
@@ -32,8 +32,9 @@ _summer edition_**.
 
 Il tema guida della XXV edizione di e-privacy è:
 
-<strong>Nuove tecnologie di controllo<br/>ovvero di come il nascente
-sistema di social scoring vada oltre ogni pensabile profilazione.</strong>
+### <b>Nuove tecnologie di controllo</b><br/>
+<strong>"Come il nascente sistema di social scoring
+ vada oltre ogni pensabile profilazione."</strong>
 
 
 ###Iscrizioni

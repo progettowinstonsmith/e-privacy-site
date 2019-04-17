@@ -197,6 +197,7 @@ PARTNERS = {
     'aneddotica': ('aneddotica', 'logo_aneddotica.png', 'https://www.aneddoticamagazine.com/it/'),
     'ihc': ('Italian Hacker Camp', 'logoihc_filled.png', 'https://www.ihc.camp/'),
     'ogem': ('Ordine Giornalisti Emilia-Romagna', 'logo_ordine_giornalisti_bologna.png', 'http://odg.bo.it/'),
+    'brat': ('Brat Cyber Security', 'logo_brat.png', 'https://www.bratsecurity.com/'),
 }
 
 
