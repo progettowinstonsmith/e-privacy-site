@@ -15,7 +15,9 @@ previd: 2018W
 prev: e-privacy-XXIV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
+Collaboratori: bba
+MediaPartner: infomedia, radioradicale
 
 ## <a name="speakers"></a>I chairman
 
