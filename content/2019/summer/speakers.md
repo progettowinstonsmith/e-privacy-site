@@ -203,11 +203,9 @@ Ad e-privacy XXV presenta <br/>
 
 #### <a name="criscuolo"></a> Claudia Criscuolo 
 
-Sono Claudia Criscuolo, ho ventisei anni, sono avvocato e dottoressa di ricerca in diritto delle persone, delle imprese e dei mercati (Università degli Studi di Napoli Federico II). 
-Amo fare sport e viaggiare, ma, soprattutto, sono da sempre appassionata di tecnologia, privacy e cibersecurity. Infatti, dopo essermi laureata in legge con una tesi sul diritto all'oblio, mi sono specializzata all'Università Sant'Anna di Pisa, frequentando le Summer School, in materia di Cibersecurity e Regolamentazione della Robotica (The regulation of robotics in Europe: legal, ethic and economic implications).
-Ho da poco concluso con lode il mio dottorato di ricerca, presentando una tesi sul tema del potere di controllo del datore di lavoro sui lavoratori, analizzando le implicazioni sulla riservatezza dei dipendenti e proponendo qualificazioni e soluzioni all'impiego delle intelligenze artificiali e dei robot in azienda.
-Ed è di questo tema che vorrei parlarvi.
-Vorrei contribuire, in questa edizione 2019 dell'E-Privacy, prospettandovi questioni giuridiche che meritano il dibattito e che necessitano di una soluzione condivisa. E che, sopratutto, per me rappresentano non una tematica, ma una passione.
+Avvocato in Napoli e dottoressa di ricerca all’Università degli studi di Napoli Federico II, specializzata in AI e privacy.
+Ha frequentato corsi di specializzazione alla Scuola Superiore Sant’Anna di Pisa in materia di cybersecurity e regolamentazione della robotica. 
+Ha da poco concluso il dottorato di ricerca con lode, presentando un lavoro sul potere di controllo e l’utilizzo delle intelligenze artificiali nelle aziende.
 
 Ad e-privacy XXV presenta <br/>
 <b><a href="e-privacy-XXV-interventi.html#criscuolo">Progresso tecnologico e potere di controllo</a></b> alle <a href="/e-privacy-XXV-programma.html#1p09">17:40 di Giovedì</a>.<br/><br/>
