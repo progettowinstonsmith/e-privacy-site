@@ -17,6 +17,9 @@ next: e-privacy-XXIV
 
 Questa FAQ è dedicata ai relatori di eprivacy 2019 summer edition Torino.
 
+### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
+
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
 il proprio intervento. Se necessario la FAQ sarà aggiornata e resterà

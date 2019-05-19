@@ -15,4 +15,4 @@ previd: 2018W
 prev: e-privacy-XXIV
 
 
-Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbynQ-F5MLra2McR8pKSR7CbOMr4RaeeUwfMEGL4_Q/exec) con la password fornita i relatori.
+Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbynQ-F5MLra2McR8pKSR7CbOMr4RaeeUwfMEGL4_Q/exec) con la password fornita ai relatori.
