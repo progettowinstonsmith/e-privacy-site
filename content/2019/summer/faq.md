@@ -1,4 +1,3 @@
-Status: Draft
 Title: FAQ per i relatori
 Date: 2019-01-26 12:00:00
 Category: 2019
@@ -16,7 +15,7 @@ prev: e-privacy-XXIV
 nextid: 2018W
 next: e-privacy-XXIV
 
-Questa FAQ è dedicata ai relatori di eprivacy 2018 summer edition Bologna.
+Questa FAQ è dedicata ai relatori di eprivacy 2019 summer edition Torino.
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
@@ -30,7 +29,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il <del>25 Maggio</del> 4 Giugno, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 31 Maggio, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -58,7 +57,7 @@ referenti dei relatori.](#contrattempidurante)
 Certamente!
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il  <del>25 Maggio</del> 4 Giugno** in formato PDF obbligatoriamente (se consegnate anche
+il  31 maggio** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
@@ -80,7 +79,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2018-s](http://bit.ly/eprivacy-consegna-2018-s)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -105,7 +104,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://bit.ly/eprivacy-consegna-2018-s](http://bit.ly/eprivacy-consegna-2018-s)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -123,7 +122,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
-[http://bit.ly/eprivacy-consegna-2018-s](http://bit.ly/eprivacy-consegna-2018-s)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -160,24 +159,23 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Venerdì 8:
+Giovedì 6:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Tramaci, Vieri, Vaciago
-Ore 11.00 |  Casagrande, Fabiano, Abeti, Ciurcina, Gobbato
-Ore 15.00 |  Pietrosanti, Zugnaz, Premoli, Dolcetti
-Ore 16.00 |  Ricci, Senor, Blengino, Gallus, Sarzana
+Ore 09.00 |  Del Ninno, Gobbato/Nicotra,
+Ore 11.00 |  Gallus,Gargano/Albanese, Vaciago
+Ore 14.30 |  Esposito, Augenti/Scannicchio, Zugnaz
+Ore 16.00 |  Priolo, Marmo, Abeti, Zanoni, Criscuolo
 
-Sabato 9:
+Venerdì 7:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Filippini, Shakhmirza, Coluccini, Ferri, Marmo
-Ore 11.00 |  Seno, Radd, Gabriele, Vacca, Resci, Scrofani
-Ore 15.00 |  Vicarelli, Bozza, Gallese
-Ore 16.00 |  Cerno, Carletti, Ronca, Auer
-
+Ore 09.00 | Fabiano, Pusceddu, De Felice, Berto
+Ore 11.00 | Longo/Burgio, Bassoli, Pietrosanti
+Ore 14.30 | Ciurcina,Ferri, Collettivo,Tancini,Bernieri
+Ore 16.00 | Blengino,
 
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
@@ -198,16 +196,16 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno Venerdì 8 è **Emmanuele Somma**
-per il giorno Sabato 9 è **Marco Calamari**.
+Il referente dei relatori per il giorno giovedì 6 è **Diego Giorio**
+per il giorno venerdì 7 è **Emmanuele Somma**.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza.
 
 **È inutile telefonare!**
 
-Mandate un messaggio SMS o Whatsapp e spiegate se possibile brevemente
-il problema, il referente richiamerà appena può o, se siete in sala,
+Mandate un messaggio SMS e spiegate se possibile brevemente il
+problema, il referente richiamerà appena può o, se siete in sala,
 chiederà di incontrarvi al banco della reception.
 
 # <a name="viaemail"></a>Se l'applicazione di consegna non funziona  come consegno le slides o altro materiale?
