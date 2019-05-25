@@ -79,7 +79,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng effect_](e-privacy-XXV-interventi.html#zugnaz)</span>
 16:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#priolo">Enrica Priolo </a><br/><span class='talk'>[_Sui diritti umani connaturati alla corretta informazione._](e-privacy-XXV-interventi.html#priolo)</span>
 16:20 | 0:20 | <a href="/e-privacy-XXV-relatori.html#marmo">Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)</a><br/><span class='talk'>[_Estrazione di email dai Social Media_](e-privacy-XXV-interventi.html#marmo)</span>
-16:40 | 0:30 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
+16:40 | 0:30 | Break </span>
 17:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><span class='talk'>[_Dimmi qualcosa di interessante su me!_](e-privacy-XXV-interventi.html#zanoni)</span>
 17:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#criscuolo">Claudia Criscuolo </a><br/><span class='talk'>[_Progresso tecnologico e potere di controllo_](e-privacy-XXV-interventi.html#criscuolo)</span>
 18:00 |  | Chiusura lavori prima giornata
@@ -91,7 +91,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a><br/>*Apertura lavori*
-9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a><br/><span class='talk'>[_Etica, Intelligenza Artificiale e protezione dei dati personali_](e-privacy-XXV-interventi.html#fabiano)</span>
+9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
 10:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
 10:35 | 0:20 | <a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a><br/><span class='talk'>[_Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy_](e-privacy-XXV-interventi.html#de felice)</span>
 10:55 | 0:20 | <a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a><br/><span class='talk'>[_Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania_](e-privacy-XXV-interventi.html#berto)</span>

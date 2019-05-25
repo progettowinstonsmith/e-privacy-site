@@ -146,12 +146,6 @@ Ultimamente si fa un gran parlare di blockchain, spesso anche a sproposito, tant
 
 
 
-#### <a name="fabiano"></a> Etica, Intelligenza Artificiale e protezione dei dati personali <a href="/e-privacy-XXV-programma.html#2m2">⇧</a>
-**<a href="/e-privacy-XXV-relatori.html#fabiano">Nicola Fabiano (Studio Legale Fabiano)</a>**  
-
-Il tema dell’etica assume oggigiorno rilievo primario e, sebbene il suo riferimento non sia espressamente contenuto nelle norme, è possibile comunque utilizzare i principi contenuti nel GDPR, e specificamente previsti all’art. 5, par. 1, («liceità, correttezza e trasparenza», «limitazione della finalità», «minimizzazione dei dati», «esattezza», «limitazione della conservazione», «integrità e riservatezza», «responsabilizzazione»), per una lettura eticamente orientata del trattamento dei dati personali. Al di là del riferimento strettamente normativo, è fondamentale acquisire un approccio etico al tema dei dati personali e del relativo trattamento. Non è necessaria soltanto l’attività di sensibilizzazione al tema dell’etica ma ancor più l’acquisizione di una concreta consapevolezza dell’etica che deve diventare una reale “coscienza etica”. Una coscienza etica implica il rispetto della legge sulla protezione dei dati personali (GDPR e codice privacy), ma potrebbe non essere vero il contrario, ossia rispettare la legge non significa necessariamente avere una “coscienza etica”.
-
-
 
 #### <a name="pusceddu"></a> L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente. <a href="/e-privacy-XXV-programma.html#2m3">⇧</a>
 **<a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a>**  

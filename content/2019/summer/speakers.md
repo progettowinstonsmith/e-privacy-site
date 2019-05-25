@@ -254,16 +254,6 @@ Ad e-privacy XXV presenta <br/>
 <b><a href="e-privacy-XXV-interventi.html#esposito">Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?</a></b> alle <a href="/e-privacy-XXV-programma.html#1p02">14:50 di Giovedì</a>.<br/><br/>
 
 
-
-#### <a name="fabiano"></a> Nicola Fabiano (Studio Legale Fabiano)
-
-Nicola Fabiano è Avvocato cassazionista, Specialista in Diritto Civile, esperto in mate-ria di protezione dei dati personali, privacy e sicurezza informatica, ricercatore indipen-dente, innovatore. Presidente dell'Autorità Garante di San Marino. E’ certificato: Responsabile della  Protezione  dei Dati (RPD/DPO) - UNI 11697:2017, Valutatore Privacy – UNI 11697:2017, Professionista dei Sistemi di Gestione della Sicurez-za delle Informazioni - ISO 27021:2017, Security Manager (ICT) - UNI 11506:2017.
-
-Ad e-privacy XXV presenta <br/>
-<b><a href="e-privacy-XXV-interventi.html#fabiano">Etica, Intelligenza Artificiale e protezione dei dati personali</a></b> alle <a href="/e-privacy-XXV-programma.html#2m2">9:45 di Venerdì</a>.<br/><br/>
-
-
-
 #### <a name="ferri"></a> Edoardo Ferri (Studio Tecnico Ferri & Costantino)
 
 Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri & Costantino. Senior Partner del BiSLab – Bicocca Security Lab, laboratorio interdipartimentale in materia di sicurezza informatica della facoltà di Giurisprudenza e di Informatica dell’Università Bicocca.
