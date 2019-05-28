@@ -180,8 +180,6 @@ E' fellow del Nexa Center for Internet & Society del Politecnico di Torino, cura
 #### <a name="burgio"></a> Massimo Burgio (Consulente online marketing)
 
 Esperto di online marketing, frequente speaker, keynote e chairman di conferenze internazionali sui temi del marketing in rete. Tra i pionieri dell’online marketing in Italia, è passato dallo sviluppo dei principali portali internet italiani al web marketing di grandi aziende e brand internazionali, ma da anni preferisce offrire consulenza e servizi di online marketing e comunicazione digitale a business sostenibili e organizzazioni impegnate sul fronte sociale e culturale.
-massimo.burgio@gmail.com (per comunicare anche a lui l'eventuale accettazione della proposta di relazione)
-
 
 Ad e-privacy XXV presenta <br/>
 <b><a href="e-privacy-XXV-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXV-programma.html#2m6">11:15 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
