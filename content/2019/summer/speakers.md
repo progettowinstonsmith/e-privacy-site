@@ -197,6 +197,16 @@ Ad e-privacy XXV presenta <br/>
 <br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola2">«E-PIRACY: Copyright, pirati e prospettive»</a></b> alle <a href="/e-privacy-XXV-programma.html#2p09">16:30 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXV-relatori.html#blengino">Carlo Blengino</a> e <a href="/e-privacy-XXV-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma</a>.<br/>
 
 
+#### <a name="travostino"></a> Massimo Travostino (Studio DGTB Legal)
+
+Dopo gli studi classici e il diploma di pianforte al Conservatorio G. Verdi di Torino, si è laureato in Giurisprudenza a Torino, ha ottenuto un diploma in diritto comparato a Strasburgo e il diploma di specialista in diritto degli scambi transnazionali a Torino. 
+Avvocato dal 1996, socio dello Studio DGTB Legal, fellow del Centro NEXA, lavora e svolge attività di docenza nel
+settore della proprietà intellettuale, del diritto commerciale e deicontratti pubblici.
+Ad e-privacy XXV presenta <br/>
+
+<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXV-interventi.html#tavola2">«E-PIRACY: Copyright, pirati e prospettive»</a></b> alle <a href="/e-privacy-XXV-programma.html#2p09">16:30 di Venerdì</a> con <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXV-relatori.html#blengino">Carlo Blengino</a> e <a href="/e-privacy-XXV-relatori.html#travostino">Massimo Travostino </a>, moderata da <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma</a>.<br/>
+
+
 
 
 #### <a name="criscuolo"></a> Claudia Criscuolo 
