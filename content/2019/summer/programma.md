@@ -61,7 +61,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 9:45 | 0:15 | <br/>*Saluti istituzionali*
 10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
 10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra (Studio Nicotra)</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
-11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus)</span>
+11:00 | 0:20 | Break </span>
 11:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano)</span>
 11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
 11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a> e <a href="/e-privacy-XXV-relatori.html#altri">...  </a>
@@ -79,7 +79,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng effect_](e-privacy-XXV-interventi.html#zugnaz)</span>
 16:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#priolo">Enrica Priolo </a><br/><span class='talk'>[_Sui diritti umani connaturati alla corretta informazione._](e-privacy-XXV-interventi.html#priolo)</span>
 16:20 | 0:20 | <a href="/e-privacy-XXV-relatori.html#marmo">Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)</a><br/><span class='talk'>[_Estrazione di email dai Social Media_](e-privacy-XXV-interventi.html#marmo)</span>
-16:40 | 0:30 | Break </span>
+16:40 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus) </span>
 17:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><span class='talk'>[_Dimmi qualcosa di interessante su me!_](e-privacy-XXV-interventi.html#zanoni)</span>
 17:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#criscuolo">Claudia Criscuolo </a><br/><span class='talk'>[_Progresso tecnologico e potere di controllo_](e-privacy-XXV-interventi.html#criscuolo)</span>
 18:00 |  | Chiusura lavori prima giornata
