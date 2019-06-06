@@ -22,9 +22,8 @@ Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
-<div textalign=center>
 [Ora in diretta su Youtube](https://www.youtube.com/watch?v=NSf-AaOu6EU)
-</div>
+
 
 
 ###e-privacy 2019 - summer edition
