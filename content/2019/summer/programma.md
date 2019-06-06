@@ -64,7 +64,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano) </span>
 11:20 | 0:30 | Break </span>
 11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
-11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: Graziano Albanese e Nicola Gargano</a>
+11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: Graziano Albanese, Nicola Gargano, Monica Gobbato e Tommaso Scannicchio</a>
 13:30 |  | *PAUSA PRANZO*
 
 #### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
