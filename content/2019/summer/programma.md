@@ -27,6 +27,8 @@ MediaPartner: infomedia,radioradicale,aneddotica
 
 [Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
 
+Pubblicate le relazioni della prima giornata.
+
 
 Il ** 6 e 7 giugno 2019 ** (GIOVEDÌ e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
@@ -161,7 +163,8 @@ stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
 per i relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
-Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
+<!-- Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
 disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
 
 **Vi aspettiamo**.
+-->
