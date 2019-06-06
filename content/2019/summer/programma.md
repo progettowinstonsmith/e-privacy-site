@@ -22,37 +22,50 @@ Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
+###e-privacy 2019 - summer edition
+
+
 [Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
 
 
-
-###e-privacy 2019 - summer edition
-
 Il ** 6 e 7 giugno 2019 ** (GIOVEDÌ e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica.
-si svolgerà **e-privacy 2019
+ - Sede Centrale - Cittadella Politecnica 
+si sta svolgendo **e-privacy 2019
 _summer edition_**.
 
-Il tema guida della XXV edizione di e-privacy è:
+<!--Il tema guida della XXV edizione di e-privacy è:
+-->
 
 ### <b>Nuove tecnologie di controllo</b><br/>
 <strong>"Come il nascente sistema di social scoring
  vada oltre ogni pensabile profilazione."</strong>
 
 
-###Iscrizioni
+<!--###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
 Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+-->
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
-<!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
+<!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. 
+-->
 
 ### <a name="programma"></a>Programma del Convegno
+
+Legenda:
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF)
+![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![URL](/images/icon/link.png) | Link online |
+![pdf](/images/icon/handouts.png) | Handouts| ![mp3](/images/icon/audio.png) | Audio |
+![mp4](/images/icon/video.png) | Video
+
 
 #### <a name="vem"></a>Giovedì 6 Giugno 2019 - mattina
 
@@ -63,11 +76,11 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 ------- | --- | -------
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>*Apertura lavori*: "Il social scoring oltre ogni immaginabile profilazione"
 9:45 | 0:15 | <br/>*Saluti istituzionali*
-10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
-10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#desimio">Giacomo De Simio</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
-11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano) </span>
+10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_11_del_ninno_profilazione_e_social_scoring.pdf) [_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
+10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#desimio">Giacomo De Simio</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_12_gobbato_riconoscimento_facciale.pdf) [_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
+11:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_14_gargano_social_scoring_e_mobilita_sostenibile.pptx) [_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano) </span>
 11:20 | 0:30 | Break </span>
-11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
+11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_15_vaciago_law_enforcement_directive.pptx) [_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
 11:50 | 1:20 | Tavola Rotonda: <span class='talk'>[_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: Graziano Albanese, Nicola Gargano, Monica Gobbato e Tommaso Scannicchio</a>
 13:30 |  | *PAUSA PRANZO*
 
@@ -79,13 +92,13 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 ------- | --- | -------
 14:40 | 0:10 | <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Daremo un voto agli elettori?
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#esposito">Maddalena Esposito </a><br/><span class='talk'>[_Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?_](e-privacy-XXV-interventi.html#esposito)</span>
-15:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio </a><br/><span class='talk'>[_La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione_](e-privacy-XXV-interventi.html#augenti)</span>
-15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[_Privacy Chillng effect_](e-privacy-XXV-interventi.html#zugnaz)</span>
+15:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio </a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_22_augenti_campagna_elettorale_all_epoca_del_social_scoring.pdf) [_La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione_](e-privacy-XXV-interventi.html#augenti)</span>
+15:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#zugnaz">Efrem Zugnaz (Webprepping)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_23_zugnaz_privacy_chilling_effects.pdf) [_Privacy Chillng effect_](e-privacy-XXV-interventi.html#zugnaz)</span>
 16:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#priolo">Enrica Priolo </a><br/><span class='talk'>[_Sui diritti umani connaturati alla corretta informazione._](e-privacy-XXV-interventi.html#priolo)</span>
-16:20 | 0:20 | <a href="/e-privacy-XXV-relatori.html#marmo">Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)</a><br/><span class='talk'>[_Estrazione di email dai Social Media_](e-privacy-XXV-interventi.html#marmo)</span>
-16:40 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus) </span>
-17:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><span class='talk'>[_Dimmi qualcosa di interessante su me!_](e-privacy-XXV-interventi.html#zanoni)</span>
-17:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#criscuolo">Claudia Criscuolo </a><br/><span class='talk'>[_Progresso tecnologico e potere di controllo_](e-privacy-XXV-interventi.html#criscuolo)</span>
+16:20 | 0:20 | <a href="/e-privacy-XXV-relatori.html#marmo">Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_25_marmo_estrazione_mail_da_social_media.pdf) [_Estrazione di email dai Social Media_](e-privacy-XXV-interventi.html#marmo)</span>
+16:40 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_26_gallus_smart_cities.pdf) [_Smart city: la città può essere intelligente senza sorvegliarci tutti?_](e-privacy-XXV-interventi.html#gallus) </span>
+17:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_27_zanoni_say_something_interesting_about_me.pdf) [_Dimmi qualcosa di interessante su me!_](e-privacy-XXV-interventi.html#zanoni)</span>
+17:40 | 0:20 | <a href="/e-privacy-XXV-relatori.html#criscuolo">Claudia Criscuolo </a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_28_criscuolo_progresso_tecnologico_e_potere_di_controllo.pdf) [_Progresso tecnologico e potere di controllo_](e-privacy-XXV-interventi.html#criscuolo)</span>
 18:00 |  | Chiusura lavori prima giornata
 
 #### <a name="sam"></a>Venerdì 7 Giugno 2018 - mattina
