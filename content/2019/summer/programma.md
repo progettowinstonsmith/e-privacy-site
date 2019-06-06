@@ -18,8 +18,13 @@ Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
 Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
-Patrocini: 
+Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
+
+
+<div textalign=center>
+[Ora in diretta su Youtube](https://www.youtube.com/watch?v=NSf-AaOu6EU)
+</div>
 
 
 ###e-privacy 2019 - summer edition
@@ -53,10 +58,10 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 #### <a name="vem"></a>Giovedì 6 Giugno 2019 - mattina
 
  * Chairman: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
- 
+
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>*Apertura lavori*: "Il social scoring oltre ogni immaginabile profilazione"
 9:45 | 0:15 | <br/>*Saluti istituzionali*
 10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
@@ -72,7 +77,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 * Chairman: <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 14:40 | 0:10 | <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Daremo un voto agli elettori?
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#esposito">Maddalena Esposito </a><br/><span class='talk'>[_Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?_](e-privacy-XXV-interventi.html#esposito)</span>
 15:10 | 0:30 | <a href="/e-privacy-XXV-relatori.html#augenti">Adriana Augenti </a> e <a href="/e-privacy-XXV-relatori.html#scannicchio">Tommaso Scannicchio </a><br/><span class='talk'>[_La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione_](e-privacy-XXV-interventi.html#augenti)</span>
@@ -88,8 +93,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 * Chairman: <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a><br/>*Apertura lavori*
 9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
 10:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
@@ -106,8 +111,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 * Chairman: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 14:00 |  | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Che succede?
 14:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#ghirardini">Andrea Ghirardini </a><br/><span class='talk'>[_Black Mirror nel presente_](e-privacy-XXV-interventi.html#ghirardini)</span>
 14:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><span class='talk'>[_Che succede?_](e-privacy-XXV-interventi.html#ciurcina)</span>
