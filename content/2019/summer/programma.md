@@ -22,7 +22,7 @@ Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
-[Ora in diretta su Youtube](https://www.youtube.com/watch?v=NSf-AaOu6EU)
+[Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
 
 
 
