@@ -46,7 +46,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
-<!-- **Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
+<!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
 
 ### <a name="programma"></a>Programma del Convegno
 
