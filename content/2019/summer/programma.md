@@ -60,7 +60,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>*Apertura lavori*: "Il social scoring oltre ogni immaginabile profilazione"
 9:45 | 0:15 | <br/>*Saluti istituzionali*
 10:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#del ninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><span class='talk'>[_Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?_](e-privacy-XXV-interventi.html#del ninno)</span>
-10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#nicotra">Massimiliano Nicotra (Studio Nicotra)</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
+10:30 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gobbato">Monica Gobbato (Studio Gobbato)</a> e <a href="/e-privacy-XXV-relatori.html#desimio">Giacomo De Simio</a><br/><span class='talk'>[_Il Riconoscimento Facciale tra algoritmi e biometria_](e-privacy-XXV-interventi.html#gobbato)</span>
 11:00 | 0:20 | Break </span>
 11:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#gargano">Nicola Gargano </a> e <a href="/e-privacy-XXV-relatori.html#albanese">Graziano Albanese </a><br/><span class='talk'>[_Social scoring e mobilità sostenibile, che fine fa la privacy?_](e-privacy-XXV-interventi.html#gargano)</span>
 11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
