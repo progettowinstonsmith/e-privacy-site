@@ -25,15 +25,7 @@ MediaPartner: infomedia,radioradicale,aneddotica
 
 ** Pubblicate le relazioni della prima e della seconda giornata.  **
 
-### <b> e-privacy@Bari </b>
-
-** La prossima edizione di e-privacy si svolgerà a Bari il 3 e 4 ottobre 2019. **
-
-Il tema è:
-<br>
-** "Dalle Istituzioni alla Blockchain" **
-<br>
-** <i>Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</i> **
+** [ANNUNCIO: La prossima edizione di e-privacy](/e-privacy-XXVI.html) **
 
 ###e-privacy 2019 - summer edition
 
