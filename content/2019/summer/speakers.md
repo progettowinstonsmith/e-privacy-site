@@ -34,9 +34,8 @@ Mixminion, Tor & GlobaLaks.
 E' il fondatore del Progetto Winston Smith e tra i fondatori
 dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
 Dal 2002 organizza il convegno "e-privacy" dedicato alla
-privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
-dove pubblica la rubrica settimanale 
-<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
+privacy in Rete e fuori, ed e' editorialista di <a href="https://www.punto-informatico.it/?s=cassandra+calamari"> "Punto Informatico"</a> e <a href="https://cse.google.it/cse?cx=partner-pub-8103963444977960:5422901670&ie=ISO-8859-15&q=cassandra+calamari&sa=Cerca&ref="> "ZeusNews"</a> 
+dove pubblica la rubrica settimanale "Cassandra Crossing".
 
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
