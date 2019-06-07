@@ -23,10 +23,10 @@ MediaPartner: infomedia,radioradicale,aneddotica
 
 
 
-** [Ora in diretta su Youtube](https://www.youtube.com/watch?v=_8hnQCLCFKo) **
+** [Ora in diretta su Youtube](https://www.youtube.com/watch?v=YQA2823AwW4) **
 
 
-** Pubblicate le relazioni della prima e della seconda giornata. **
+** Pubblicate le relazioni della prima e della seconda giornata.  **
 
 ### <b> e-privacy@Bari </b>
  
