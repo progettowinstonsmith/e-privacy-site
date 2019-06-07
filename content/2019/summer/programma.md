@@ -22,19 +22,28 @@ Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
 
-###e-privacy 2019 - summer edition
-
 
 ** [Ora in diretta su Youtube](https://www.youtube.com/watch?v=_8hnQCLCFKo) **
 
 
 ** Pubblicate le relazioni della prima e della seconda giornata. **
 
+### <b> e-privacy@Bari </b>
+ 
+** La prossima edizione di e-privacy si svolgerà a Bari il 3 e 4 ottobre 2019. **
+
+Il tema è: 
+<br>
+** "Dalle Istituzioni alla Blockchain" **
+<br>
+** <i>Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</i> **
+
+###e-privacy 2019 - summer edition
 
 Il ** 6 e 7 giugno 2019 ** (giovedì e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
  - Sede Centrale - Cittadella Politecnica 
-si sta svolgendo **e-privacy 2019
+si è tenuta **e-privacy 2019
 _summer edition_**.
 
 <!--Il tema guida della XXV edizione di e-privacy è:
