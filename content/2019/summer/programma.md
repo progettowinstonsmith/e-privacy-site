@@ -25,9 +25,10 @@ MediaPartner: infomedia,radioradicale,aneddotica
 ###e-privacy 2019 - summer edition
 
 
-[Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
+<!-- [Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
+-->
 
-Pubblicate le relazioni della prima giornata.
+Pubblicate le relazioni della prima e della seconda giornata.
 
 
 Il ** 6 e 7 giugno 2019 ** (giovedì e venerdì) a Torino,
