@@ -15,7 +15,7 @@ previd: 2018W
 prev: e-privacy-XXIV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
 Collaboratori: bba, comvilca
 Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
 Patrocini:
@@ -30,7 +30,7 @@ MediaPartner: infomedia,radioradicale,aneddotica
 Pubblicate le relazioni della prima giornata.
 
 
-Il ** 6 e 7 giugno 2019 ** (GIOVEDÌ e venerdì) a Torino,
+Il ** 6 e 7 giugno 2019 ** (giovedì e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
  - Sede Centrale - Cittadella Politecnica 
 si sta svolgendo **e-privacy 2019
@@ -110,13 +110,13 @@ Icona | Descrizione | Icona | Descrizione
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | -------
 9:30 | 0:15 | <a href="/e-privacy-XXV-relatori.html#giorio">Diego Giorio (Progetto Winston Smith / SEPEL Editrice)</a><br/>*Apertura lavori*
-9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
-10:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
-10:35 | 0:20 | <a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a><br/><span class='talk'>[_Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy_](e-privacy-XXV-interventi.html#de felice)</span>
-10:55 | 0:20 | <a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a><br/><span class='talk'>[_Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania_](e-privacy-XXV-interventi.html#berto)</span>
+9:45 | 0:20 | <a href="/e-privacy-XXV-relatori.html#abeti">Riccardo Abeti (CSIG Ivrea-Torino)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_31_abeti_privacy_e_sanita.pdf) [_Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo_](e-privacy-XXV-interventi.html#abeti)</span>
+10:05 | 0:30 | <a href="/e-privacy-XXV-relatori.html#pusceddu">Roberto Pusceddu (Università di Cagliari)</a><br/><span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_32_pusceddu_l_immagine_ed_il_contratto.ppt) [_L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente._](e-privacy-XXV-interventi.html#pusceddu)</span>
+10:35 | 0:20 | <a href="/e-privacy-XXV-relatori.html#de felice">Alfredo De Felice (CRC Lex)</a><br/><span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_33_de_felice_digital_signage.pptx) [_Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy_](e-privacy-XXV-interventi.html#de felice)</span>
+10:55 | 0:20 | <a href="/e-privacy-XXV-relatori.html#berto">Rebecca Berto </a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_34_berto_la_nascita_del_reclamo_costituzionale.pdf ) [_Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania_](e-privacy-XXV-interventi.html#berto)</span>
 11:15 | 0:30 | <a href="/e-privacy-XXV-relatori.html#longo">Valentina Longo (Avvocato)</a> e <a href="/e-privacy-XXV-relatori.html#burgio">Massimo Burgio (Consulente online marketing)</a><br/><span class='talk'>[_Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy_](e-privacy-XXV-interventi.html#longo)</span>
-11:45 | 0:15 | <a href="/e-privacy-XXV-relatori.html#alovisio">Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Torino)</a><br/><span class='talk'>[_La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR_](e-privacy-XXV-interventi.html#alovisio)</span>
-12:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a><br/><span class='talk'>[_La responsabilità dell'algoritmo di scoring_](e-privacy-XXV-interventi.html#bassoli)</span>
+11:45 | 0:15 | <a href="/e-privacy-XXV-relatori.html#alovisio">Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Torino)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_36_alovisio_tresoldi_tutela_sfera_orivata_online.pdf) [_La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR_](e-privacy-XXV-interventi.html#alovisio)</span>
+12:00 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bassoli">Elena Bassoli (ANGIF)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_37_bassoli_responsabilita_algoritmo_scoring.pdf) [_La responsabilità dell'algoritmo di scoring_](e-privacy-XXV-interventi.html#bassoli)</span>
 12:20 | 0:30 | <a href="/e-privacy-XXV-relatori.html#bba">Hermes Center for Transparency and Digital Human Rights </a><br/><span class='talk'>[_Big Brother Award_](e-privacy-XXV-interventi.html#bba)</span>
 12:50 |  | *PAUSA PRANZO*
 
@@ -131,10 +131,10 @@ Icona | Descrizione | Icona | Descrizione
 14:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#ghirardini">Andrea Ghirardini </a><br/><span class='talk'>[_Black Mirror nel presente_](e-privacy-XXV-interventi.html#ghirardini)</span>
 14:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><span class='talk'>[_Che succede?_](e-privacy-XXV-interventi.html#ciurcina)</span>
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><span class='talk'>[_La crittografia nella messaggistica istantanea_](e-privacy-XXV-interventi.html#ferri)</span>
-15:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#collettivo">(è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)</a><br/><span class='talk'>[_A spasso nel fediverso, la nostra esperienza con Mastodon_](e-privacy-XXV-interventi.html#collettivo)</span>
-15:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vieri">Giovambattista Vieri </a><br/><span class='talk'>[_Facce, dati e ... Machine learning_](e-privacy-XXV-interventi.html#vieri)</span>
-15:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#tancini">Claudio Tancini (Informatica Solidale Onlus)</a><br/><span class='talk'>[_La importanza di un codice Etico per i professionisti ICT_](e-privacy-XXV-interventi.html#tancini)</span>
-16:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bernieri1">Christian Bernieri (DPO - Principal Consultant Bernieri Consulting)</a><br/><span class='talk'>[_la teoria della fenice: la protezione dei dati può partire da dove si è arrivati in ambito sicurezza del lavoro_](e-privacy-XXV-interventi.html#bernieri1)</span>
+15:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#collettivo">(è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_44_cisti_mastodon.pdf) [_A spasso nel fediverso, la nostra esperienza con Mastodon_](e-privacy-XXV-interventi.html#collettivo)</span>
+15:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vieri">Giovambattista Vieri </a><br/><span class='talk'>ep2019se_45_vieri_facce_dati_machine_learning.pdf [_Facce, dati e ... Machine learning_](e-privacy-XXV-interventi.html#vieri)</span>
+15:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#tancini">Claudio Tancini (Informatica Solidale Onlus)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_46_tancini_importanza_codice_etico_professionisti_ict.pdf) [_La importanza di un codice Etico per i professionisti ICT_](e-privacy-XXV-interventi.html#tancini)</span>
+16:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#bernieri1">Christian Bernieri (DPO - Principal Consultant Bernieri Consulting)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_47_bernieri_la_teoria_della_fenice.pdf) [_la teoria della fenice: la protezione dei dati può partire da dove si è arrivati in ambito sicurezza del lavoro_](e-privacy-XXV-interventi.html#bernieri1)</span>
 16:30 | 1:30 | Tavola Rotonda: <span class='talk'>[_«E-PIRACY: Copyright, pirati e prospettive»_](e-privacy-XXV-interventi.html#tavola2)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXV-relatori.html#blengino">Carlo Blengino </a> e <a href="/e-privacy-XXV-relatori.html#travostino">Massimo Travostino</a>
 18:00 |  | Chiusura lavori
 
