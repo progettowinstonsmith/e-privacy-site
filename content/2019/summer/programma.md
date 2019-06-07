@@ -129,7 +129,7 @@ Icona | Descrizione | Icona | Descrizione
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | -------
 14:00 |  | <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Apertura lavori pomeridiani: Che succede?
-14:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#ghirardini">Andrea Ghirardini </a><br/><span class='talk'>[_Black Mirror nel presente_](e-privacy-XXV-interventi.html#ghirardini)</span>
+14:00 | 0:30 | <a href="/e-privacy-XXV-relatori.html#ghirardini">Andrea Ghirardini </a><br/><span class='talk'> [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_41_ghirardini_black_mirror_nel_presente.pdf) [_Black Mirror nel presente_](e-privacy-XXV-interventi.html#ghirardini)</span>
 14:30 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><span class='talk'>[_Che succede?_](e-privacy-XXV-interventi.html#ciurcina)</span>
 14:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><span class='talk'>[_La crittografia nella messaggistica istantanea_](e-privacy-XXV-interventi.html#ferri)</span>
 15:10 | 0:20 | <a href="/e-privacy-XXV-relatori.html#collettivo">(è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)</a><br/><span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_44_cisti_mastodon.pdf) [_A spasso nel fediverso, la nostra esperienza con Mastodon_](e-privacy-XXV-interventi.html#collettivo)</span>
