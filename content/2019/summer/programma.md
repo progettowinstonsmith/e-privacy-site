@@ -25,8 +25,8 @@ MediaPartner: infomedia,radioradicale,aneddotica
 ###e-privacy 2019 - summer edition
 
 
-<!-- [Ora in diretta su Youtube](https://www.youtube.com/watch?v=DUEuABUJgLQ)
--->
+** [Ora in diretta su Youtube](https://www.youtube.com/watch?v=_8hnQCLCFKo)
+
 
 ** Pubblicate le relazioni della prima e della seconda giornata. **
 
