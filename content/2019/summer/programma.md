@@ -21,18 +21,15 @@ Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
-
-
-** [Ora in diretta su Youtube](https://www.youtube.com/watch?v=YQA2823AwW4) **
-
+** [Ora in diretta su Youtube]( https://www.youtube.com/watch?v=YQA2823AwW4 ) **
 
 ** Pubblicate le relazioni della prima e della seconda giornata.  **
 
 ### <b> e-privacy@Bari </b>
- 
+
 ** La prossima edizione di e-privacy si svolgerà a Bari il 3 e 4 ottobre 2019. **
 
-Il tema è: 
+Il tema è:
 <br>
 ** "Dalle Istituzioni alla Blockchain" **
 <br>
@@ -42,7 +39,7 @@ Il tema è:
 
 Il ** 6 e 7 giugno 2019 ** (giovedì e venerdì) a Torino,
 nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica 
+ - Sede Centrale - Cittadella Politecnica
 si è tenuta **e-privacy 2019
 _summer edition_**.
 
@@ -64,7 +61,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
-<!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. 
+<!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso.
 -->
 
 ### <a name="programma"></a>Programma del Convegno
