@@ -21,11 +21,13 @@ Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 
-** [Ora in diretta su Youtube]( https://www.youtube.com/watch?v=YQA2823AwW4 ) **
+<!-- ** [Ora in diretta su Youtube]( https://www.youtube.com/watch?v=YQA2823AwW4 ) ** -->
 
-** Pubblicate le relazioni della prima e della seconda giornata.  **
+<!-- ** Pubblicate le relazioni della prima e della seconda giornata.  ** -->
 
-** [ANNUNCIO: La prossima edizione di e-privacy](/e-privacy-XXVI.html) **
+### <b>[ANNUNCIO: La prossima edizione di e-privacy@Bari](/e-privacy-XXVI.html) </b>
+
+
 
 ###e-privacy 2019 - summer edition
 
@@ -35,28 +37,23 @@ nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/ind
 si è tenuta **e-privacy 2019
 _summer edition_**.
 
-<!--Il tema guida della XXV edizione di e-privacy è:
--->
-
-### <b>Nuove tecnologie di controllo</b><br/>
-<strong>"Come il nascente sistema di social scoring
- vada oltre ogni pensabile profilazione."</strong>
+### Nuove tecnologie di controllo<br/>
+<i>"Come il nascente sistema di social scoring
+ vada oltre ogni pensabile profilazione."</i>
 
 
 <!--###Iscrizioni
-
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
 Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 -->
-
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
-
 <!-- **Come arrivare,  come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso.
 -->
 
-### <a name="programma"></a>Programma del Convegno
+### <a name="programma"></a>Programma del Convegno e relazioni presentate
+
 
 Legenda:
 
