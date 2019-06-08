@@ -16,10 +16,10 @@ prev: e-privacy-XXV
 Xnextid:  2017W
 Xnext: e-privacy-XVIII
 Organizzatori: pws,hermes
-Collaboratori: bba, comvilca
-Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
-Patrocini:
-MediaPartner: infomedia,radioradicale,aneddotica
+Collaboratori: bba
+XSponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
+XPatrocini:
+XMediaPartner: infomedia,radioradicale,aneddotica
 
 ### <b> e-privacy@Bari </b>
 
