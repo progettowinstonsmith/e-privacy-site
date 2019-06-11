@@ -80,7 +80,7 @@ Icona | Descrizione | Icona | Descrizione
 11:20 | 0:30 | Break </span>
 11:50 | 0:20 | <a href="/e-privacy-XXV-relatori.html#vaciago">Giuseppe Vaciago (LT42)</a><br/><span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019/atti/ep2019se_15_vaciago_law_enforcement_directive.pptx) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2019/video/ep2019se_15_vaciago_law_enforcement_directive.mp4) [_«Law Enforcement Directive» e D.lgs. 51/18_](e-privacy-XXV-interventi.html#vaciago)</span>
 11:50 | 1:20 | Tavola Rotonda: <span class='talk'> [_Social Scoring_](e-privacy-XXV-interventi.html#tavola1)</span><br/>Modera: <a href="/e-privacy-XXV-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>[![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2019/video/ep2019se_16_tavola_rotonda_social_scoring.mp4) Partecipano: Graziano Albanese, Nicola Gargano, Monica Gobbato e Tommaso Scannicchio</a>
-13:30 |  | *PAUSA PRANZO*
+13:30 |  | *PAUSA PRANZO* 
 
 #### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
 
