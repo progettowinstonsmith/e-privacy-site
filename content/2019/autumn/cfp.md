@@ -1,19 +1,18 @@
-Template: event
-XStatus: draft
+Templaote: event
 Title: Nuove tecnologie di controllo
-Date: 2019-01-26 13:00:00
+Date: 2019-06-26 13:00:00
 Category: 2019
-lang: it
-Num: XXV
+lang: iot
+Num: XXVI
 Year: 2019
-slug: e-privacy-XXV-cfp
-City: Torino
+slug: e-privacy-XXVI-cfp
+City: Bari
 Where: Politecnico, Aula Ciminiera
-When: 6-7 giugno
+When: 3-4 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: spring
-previd: 2018W
-prev: e-privacy-XXIV
+previd: 2019
+prev: e-privacy-XXV
 Xnextid: 2018W
 Xnext: e-privacy-XXIV
 Organizzatori: hermes,pws
@@ -21,8 +20,10 @@ Collaboratori: bba, comvilca
 XSponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
-timeline: 15 marzo | 31 marzo | 31 maggio
+timeline: 22 luglio | 15 agosto | 22 settembre
 css: .title-XXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXV { font: 18px arial, sans-serif; text-align: center; }
+
+NUOVO
 
 <div class="title-XXV">«Nuove tecnologie di controllo»</div>
 <div class="subtitle-XXV">Il social scoring oltre ogni immaginabile profilazione</div>
@@ -133,7 +134,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento dovranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXV-proposta.html)
+form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXVI-proposta.html)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 15 marzo 2019__.

@@ -1,14 +1,14 @@
-Status draft
+XStatus: draft
 Title: Come arrivare ad e-privacy
 Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
-Num: XXVII
+Num: XXV
 Year: 2019
-slug: e-privacy-XXVI-come-arrivare
-City: Bari
-Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
-When: 3-4 ottobre
+slug: e-privacy-XXV-come-arrivare
+City: Torino
+Where: Aula Ciminiera<br/>Politecnico di Torino
+When: 6-7 giugno
 Season: estate
 previd: 2018W
 prev: e-privacy-XXIV
@@ -54,3 +54,5 @@ Arrivando a Porta Nuova si può prendere la linea 12, arrivando a Porta Susa la 
 ... e dalla stazione ferroviaria di Porta Nuova ...
 <br><br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d11272.419937554927!2d7.66047493939172!3d45.063381365570294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m5!1s0x47886d6a39773955%3A0x9f7d00303134c2a0!2sPorta+Nuova%2C+Corso+Vittorio+Emanuele+II%2C+Torino%2C+TO!3m2!1d45.062055!2d7.678526!4m3!3m2!1d45.063832!2d7.6601453!5e0!3m2!1sit!2sit!4v1548857750199" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
