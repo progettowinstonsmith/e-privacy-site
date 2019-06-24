@@ -1,14 +1,13 @@
-Status: draft
 Title: FAQ per i relatori
 Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
-Num: XXVII
+Num: XXV
 Year: 2019
-slug: e-privacy-XXVI-faq-relatori
-City: Bari
-Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
-When: 3-4 ottobre
+slug: e-privacy-XXV-faq-relatori
+City: Torino
+Where: Aula Ciminiera<br/>Politecnico di Torino
+When: 6-7 giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
 previd: 2018W
@@ -19,14 +18,14 @@ next: e-privacy-XXIV
 Questa FAQ è dedicata ai relatori di eprivacy 2019 summer edition Torino.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
 il proprio intervento. Se necessario la FAQ sarà aggiornata e resterà
 disponibile sul sito all'indirizzo
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-faq-relatori.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-faq-relatori.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-faq-relatori.html)
 
 Per altre domande contattare direttamente la
 [segreteria](mailto:segreteria@winstonsmith.org).
@@ -83,7 +82,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -108,7 +107,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -126,7 +125,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXV-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale

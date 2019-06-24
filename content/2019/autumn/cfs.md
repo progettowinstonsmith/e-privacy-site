@@ -4,17 +4,17 @@ Title: Call for Sponsors
 Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
-Num: XXVII
+Num: XXV
 Year: 2019
-slug: e-privacy-XXVI-cfs
-City: Bari
-Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
-When: 3-4 ottobre
+slug: e-privacy-XXV-cfs
+City: Torino
+Where: Aula Ciminiera<br/>Politecnico di Torino
+When: 6-7 giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
 Organizzatori: hermes,pws
 previd: CALL
-prev: e-privacy-XXVI-cfp
+prev: e-privacy-XXV-cfp
 
 ### Aperto il Call for Sponsorship di e-privacy 2017 summer edition
 
