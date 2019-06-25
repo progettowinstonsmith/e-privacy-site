@@ -27,7 +27,7 @@ css: .title-XXV { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autumn edition, che si
  svolgerà a Bari il 3 e 4 ottobre (giovedì e venerdì) con il tema:
 
-<b>"Dalle Istituzioni alla Blockchain"</b>
+<b>"Dalle Istituzioni alla Blockchain" </b>
 
 <i>Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy? </i>
 
