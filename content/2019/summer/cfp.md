@@ -6,7 +6,7 @@ Category: 2019
 lang: it
 Num: XXV
 Year: 2019
-slug: e-privacy-XXV-cfp
+slug: e-privacy-XXV
 City: Torino
 Where: Politecnico, Aula Ciminiera
 When: 6-7 giugno
@@ -14,8 +14,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: spring
 previd: 2018W
 prev: e-privacy-XXIV
-Xnextid: 2018W
-Xnext: e-privacy-XXIV
+nextid: 2019W
+next: e-privacy-XXVI
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
 XSponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt

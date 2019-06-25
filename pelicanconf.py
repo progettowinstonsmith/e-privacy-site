@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2019/06/06 09:30'
+EVENT_TIME = '2019/08/03 09:30'
 
 COUNTDOWN = False
 
@@ -22,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2019 spring: Nuove tecnologie di controllo'
+SITENAME = u'e-privacy 2019 autumn: Dalle Istituzioni alla Blockchain'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
@@ -34,7 +34,7 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'it'
 
 YEAR = u'2019'
-EDITION = 'spring'
+EDITION = 'autumn'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -49,22 +49,22 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2019 - SPRING"
+THIS_TITLE = "EPRIVACY 2019 - AUTUMN"
 
 THIS = (
-     ('Iscriviti', 'http://lists.xed.it/ep2019s-registration-form'),
-     # ('Proposta Talk', '/e-privacy-XXV-proposta.html'),
-     # ('Call for Paper', '/e-privacy-XXV-cfp.html'),
+     # ('Iscriviti', 'http://lists.xed.it/ep2019s-registration-form'),
+      ('Proposta Talk', '/e-privacy-XXVI-proposta.html'),
+     # ('Call for Paper', '/e-privacy-XXVI-cfp.html'),
      # ('Slides', '/e-privacy-XXIV-programma-slides.html'),
-     ('Il programma', '/e-privacy-XXV-programma.html'),
-     ('Gli interventi', '/e-privacy-XXV-interventi.html'),
-     ('I relatori', '/e-privacy-XXV-relatori.html'),
+     # ('Il programma', '/e-privacy-XXV-programma.html'),
+     # ('Gli interventi', '/e-privacy-XXV-interventi.html'),
+     # ('I relatori', '/e-privacy-XXV-relatori.html'),
      # ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
-     ('FAQ per i relatori', '/e-privacy-XXV-faq-relatori.html'),
-     ('Come arrivare', '/e-privacy-XXV-come-arrivare.html'),
+     # ('FAQ per i relatori', '/e-privacy-XXVI-faq-relatori.html'),
+     # ('Come arrivare', '/e-privacy-XXVi-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
-     ('Contatti', '/contatti-XXV.html'),
+     ('Contatti', '/contatti-XXVI.html'),
 )
 
 ISCRIVITI='''
@@ -79,6 +79,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2019 summer XXV', '/e-privacy-XXV.html'),
     ('e-privacy 2018 winter XXIV', '/e-privacy-XXIV.html'),
     ('e-privacy 2018 summer XXIII', '/e-privacy-XXIII.html'),
     ('e-privacy 2017 autumn XXII', '/e-privacy-XXII.html'),

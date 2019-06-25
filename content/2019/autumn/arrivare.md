@@ -1,11 +1,11 @@
-Status draft
+Status: draft
 Title: Come arrivare ad e-privacy
 Date: 2019-06-26 12:00:00
 Category: 2019
 lang: it
-Num: XXVII
-Year: 2019
 slug: e-privacy-XXVI-come-arrivare
+Num: XXVI
+Year: 2019
 City: Bari
 Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
 When: 3-4 ottobre

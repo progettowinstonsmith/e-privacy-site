@@ -1,16 +1,16 @@
-Templaote: event
-Title: Nuove tecnologie di controllo
-Date: 2019-06-26 13:00:00
+Template: event
+Title: Dalle Istituzioni alla Blockchain
+Date: 2019-06-26 14:00:00
+slug: e-privacy-XXVI-cfp
 Category: 2019
 lang: iot
 Num: XXVI
 Year: 2019
-slug: e-privacy-XXVI-cfp
 City: Bari
-Where: Politecnico, Aula Ciminiera
+Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
 When: 3-4 ottobre
+Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: spring
 previd: 2019
 prev: e-privacy-XXV
 Xnextid: 2018W
@@ -23,76 +23,37 @@ MediaPartner: infomedia,radioradicale,aneddotica
 timeline: 22 luglio | 15 agosto | 22 settembre
 css: .title-XXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXV { font: 18px arial, sans-serif; text-align: center; }
 
-NUOVO
 
-<div class="title-XXV">«Nuove tecnologie di controllo»</div>
-<div class="subtitle-XXV">Il social scoring oltre ogni immaginabile profilazione</div>
-<br/>
-È aperto  il Call for Participation di e-privacy 2019 spring edition.
+E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autumn edition, che si
+ svolgerà a Bari il 3 e 4 ottobre (giovedì e venerdì) con il tema:
 
-Il Progetto Winston Smith e l’Hermes Center for Transparency and
-Digital Human Rights sono lieti di invitarti come relatore
-all’edizione primaverile di e-privacy, che si terrà a Torino il **6 e
-7 giugno 2019** (sì, proprio giovedì e venerdì, una piccola variazione
-rispetto alle oramai abituali giornate di venerdì e sabato) nella
-prestigiosa sede dell’Aula Ciminiera del Politecnico di Torino, Corso Castelfidardo 39.
+<b>"Dalle Istituzioni alla Blockchain"</b>
 
-Parleremo di nuove tecnologie di controllo, ovvero di come il nascente
-sistema di social scoring vada oltre ogni pensabile profilazione.
+<i>Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy? </i>
 
 
-Durante la precedente edizione di e-privacy l'attenzione del pubblico
-si è particolarmente accesa quando si è discusso non semplicemente di
-cookie ma di altri metodi di profilazione indiretti ed infinitamente
-più potenti; a molti è sembrato sorprendente quante informazioni si
-possano ricavare - anche senza usare cookie - mediante il semplice
-accesso ad una pagina di un sito.
+# Call for Papers
 
-In effetti, se su Facebook si mette "mi piace" alla foto di un tenero
-gattino, l'informazione tracciata non è solamente il fatto che
-piacciono i gattini, ma che in quel momento l'utente è sveglio, sta
-navigando, è in un certo luogo ed ha intorno determinati altri
-smartphone, usa un certo browser, in una certa lingua, con certi font.
+Tecnologia, ultima frontiera. 
 
-Non sono informazioni secondarie: sono stati segnalati casi di persone
-che si sono viste rifiutare un prestito dalla banca solo perché sul
-computer avevano font normalmente usati dai casinò on-line e venivano
-quindi ritenute a rischio.
+E così passammo dall'alfa all'omega della privacy, da Louis Brandeis a Mark
+Zuckerberg.
 
-La profilazione, finora, è sempre stata presentata soprattutto come un
-sistema per offrirci prodotti e servizi in linea con i nostri gusti e
-con le necessità del momento; con i nuovi sviluppi, questa sta
-diventando la parte meno significativa e meno inquietante
-dell'utilizzo dei dati di navigazione, mentre, in parallelo, si stanno
-diffondendo tecnologie che analizzano i nostri comportamenti anche al
-di fuori dell’attività on-line.
+Mentre le multinazionali private stanno costruendo il proprio percorso verso un
+mondo globale e integrato, in cui la profilazione ed il tecnocontrollo sembrano
+essere la costante universale di gravitazione di ogni iniziativa, in Italia le istituzioni pubbliche, che non hanno fin qui mai brillato per capacità, comprensione e competenze sulla tecnologia, sembrano aver decisamente cambiato passo lanciandosi nelle più ardite iniziative tecnologiche, rincorrendo il vasto mondo delle possibilità aperto dalla tecnologia, da quelle sensate come l'intelligenza artificiale alle altre mode del momento come la blockchain, dimostrando subito, se non altro, l'incapacità di distinguere l'utile dal dilettevole.
 
-La profilazione, come anche il caso di Cambridge Analytica ha
-dimostrato, è diventata ormai un metodo di controllo sociale attivo,
-diffuso ed individualizzato.
+Esemplare il caso della blockchain, su cui tanto i politici hanno speso parole e impegnato soldi, che sgonfiato il momento di esaltazione mediatica, probabilmente funzionale alla speculazione finanziaria, resta una delle tante soluzioni informatiche ancora in cerca di problemi.
 
-Il governo cinese sta sponsorizzando la creazione di un sistema che,
-attraverso app ed altri strumenti di controllo, calcola un social
-scoring, al fine di premiare i cittadini virtuosi con sconti, libero
-accesso a pubblici servizi, facilitazioni di viaggio e simili, mentre
-i cittadini meno ligi non possono viaggiare sui treni ad alta
-velocità, sono penalizzati nell'acceso ai pubblici servizi, oppure li
-pagano in misura maggiore.  Tra qualche luce e molte ombre, queste
-tecnologie aprono la possibilità di un controllo sociale su larga
-scala, che permette ad uno Stato di definire cos'è un comportamento
-"corretto" per i suoi cittadini e di controllare costantemente che
-tutti si conformino ad esso.  Altre nazioni, ad esempio il Venezuela,
-stanno studiando la possibilità di implementare sistemi analoghi, ma
-in tutto il mondo già oggi sono largamente utilizzati algoritmi
-pubblici che analizzano i nostri dati per concedere mutui, assegnare
-appalti, assumere impiegati ed in generale per prendere decisioni che
-impattano sensibilmente sulla vita dei singoli, e come conseguenza
-sulla società in generale.  Oltretutto l'opacità di questi metodi è
-totale; chi si vede rifiutare un posto di lavoro o un prestito,
-normalmente non è in grado di conoscere le ragioni alla base della
-decisione, i parametri che gli algoritmi usano per calcolarla, i
-valori "desiderabili" di questi parametri e la provenienza dei dati
-che sono stati utilizzati per la decisione.
+Oltre ai bitcoin e compagni o come veicolo di speculazione finanziaria, problemi che hanno trovato una soluzione attraverso la blockchain se ne contano veramente pochi, nonostante ogni giorno ne venga proposta un'applicazione, dall'agroalimentare all'energia, dal controllo delle foreste al monitoraggio dei viadotti autostradali.
+
+Encomiabile quest'impegno di volontà nell'esercizio del nuovismo anche in campo tecnologico, ma dobbiamo attenderci che resti tutto allo stadio di mera rappresentazione?
+
+Appare infatti completamente senza analisi il vero problema sottostante: esplorare le categorie che servono per i rapporti umani, privati e istituzionali, alla luce delle nuove tecnologie. Ovvero trovare un quadro analitico sui problemi della condivisione, della fiducia, del consenso e della delega.
+
+La domanda urgente che ci si pone quindi non è applicare un dato strumento a qualche problemino pratico ma scoprire come attraverso le nuove tecnologie può essere migliorato, e migliorato nel modo rivoluzionario delle promesse, il rapporto del cittadino e delle impresa con le istituzioni pubbliche e con i blocchi privati a cui il pubblico offra sostanziali privilegi.
+
+Senza questa risposta ci stiamo solo illudendo che le nuove tecnologie servano ai cittadini e non siano un ulteriore, e forse definitivo, strumento di soggezione e sudditanza che sembra cambiare tutto per non cambiare nulla se non in peggio.
 
 
 # Il convegno
@@ -137,13 +98,13 @@ Le proposte di intervento dovranno essere presentate utilizzando il
 form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXVI-proposta.html)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
-termine ultimo del 15 marzo 2019__.
+termine ultimo del 22 luglio 2019__.
 
-L'accettazione o meno delle proposte sarà **comunicata entro il 31 marzo 2019**.
+L'accettazione o meno delle proposte sarà **comunicata entro il 26 luglio 2019**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 31 maggio 2019**.
+**entro il 26 settembre 2019**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
@@ -180,25 +141,27 @@ Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno
 carattere non economico e sono intese come adesione morale ai temi ed
 ai principi.
 
-### Sede di e-privacy 2019 spring edition
+# Sede di e-privacy 2019 XXVI autumn edition
 
-La sede di e-privacy 2019 spring edition sarà la
- [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
+La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine degli Avvocati di Bari.
+
+<!-- ! [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
+
  - Sede Centrale - Cittadella Politecnica.
 
-<!-- ![La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
+[La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
 
-### Gli organizzatori
+# Gli organizzatori
 
 La manifestazione e’ organizzata da:
 
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+ - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
 e da altre organizzazioni, aziende ed associazioni.
 
 
-### Contatti
+# Contatti
 
 Per contatti generali e per la
 stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
