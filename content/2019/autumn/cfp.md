@@ -31,6 +31,7 @@ E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autu
 <div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 
 
+
 # Call for Papers
 
 <b>Tecnologia, ultima frontiera.</b>
