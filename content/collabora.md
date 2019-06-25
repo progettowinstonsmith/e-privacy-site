@@ -18,9 +18,9 @@ Non abbiamo bisogno di speciali competenze o particolari attitudini,
 ma molto spesso la disponibilità ad imparare e condividere con gli
 altri.
 
-## Per e-privacy 2018 (Logistica evento)
+## Per e-privacy - Logistica evento
 
-Per **e-privacy 2018** abbiamo bisogno di volontari per lo staff di
+Per **e-privacy** abbiamo bisogno di volontari per lo staff di
 accoglienza degli ospiti al congresso.
 
 Per partecipare allo staff è sufficiente indicare la propria
