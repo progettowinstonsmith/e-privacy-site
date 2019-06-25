@@ -1,7 +1,7 @@
 Template: event
 Status: draft
 Title: Call for Sponsors
-Date: 2019-06-26 12:00:00
+Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
 Num: XXVII
@@ -11,7 +11,7 @@ City: Bari
 Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
 When: 3-4 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: autunno
+Season: estate
 Organizzatori: hermes,pws
 previd: CALL
 prev: e-privacy-XXVI-cfp
