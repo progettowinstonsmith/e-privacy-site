@@ -33,26 +33,53 @@ E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autu
 
 # Call for Papers
 
-Tecnologia, ultima frontiera.
+ecnologia, ultima frontiera.
 
-E così passammo dall'alfa all'omega della privacy, da Louis Brandeis a Mark
-Zuckerberg.
+E così passammo dall'alfa all'omega della privacy, da Louis Brandeis
+ a Mark Zuckerberg.
 
-Mentre le multinazionali private stanno costruendo il proprio percorso verso un
-mondo globale e integrato, in cui la profilazione ed il tecnocontrollo sembrano
-essere la costante universale di gravitazione di ogni iniziativa, in Italia le istituzioni pubbliche, che non hanno fin qui mai brillato per capacità, comprensione e competenze sulla tecnologia, sembrano aver decisamente cambiato passo lanciandosi nelle più ardite iniziative tecnologiche, rincorrendo il vasto mondo delle possibilità aperto dalla tecnologia, da quelle sensate come l'intelligenza artificiale alle altre mode del momento come la blockchain, dimostrando subito, se non altro, l'incapacità di distinguere l'utile dal dilettevole.
+Le multinazionali private stanno costruendo percorsi che promettono un nuovo
+mondo globale e integrato, in cui la profilazione e il tecnocontrollo sembrano
+essere la costante universale di gravitazione di ogni iniziativa,
 
-Esemplare il caso della blockchain, su cui tanto i politici hanno speso parole e impegnato soldi, che sgonfiato il momento di esaltazione mediatica, probabilmente funzionale alla speculazione finanziaria, resta una delle tante soluzioni informatiche ancora in cerca di problemi.
+In Italia le istituzioni pubbliche, che non hanno mai brillato per capacità,
+comprensione e competenze sulla tecnologia, mostrano di aver cambiato
+passo lanciandosi nelle più ardite iniziative tecnologiche e rincorrono il vasto
+mondo delle possibilità tecniche, da quelle sensate come
+l'intelligenza artificiale alle ultime (o penultime) mode del momento come la blockchain,
+dimostrando subito, se non altro, l'incapacità di distinguere l'utile dal
+dilettevole.
 
-Oltre ai bitcoin e compagni o come veicolo di speculazione finanziaria, problemi che hanno trovato una soluzione attraverso la blockchain se ne contano veramente pochi, nonostante ogni giorno ne venga proposta un'applicazione, dall'agroalimentare all'energia, dal controllo delle foreste al monitoraggio dei viadotti autostradali.
+Esemplare il caso della blockchain, su cui tanto i politici hanno speso parole e
+impegnato soldi, che dopo l'effervescenza dell'iniziale momento di estasi mediatica,
+probabilmente funzionale alla speculazione finanziaria, resta una delle tante
+soluzioncine informatiche ancora in cerca di problemi.
 
-Encomiabile quest'impegno di volontà nell'esercizio del nuovismo anche in campo tecnologico, ma dobbiamo attenderci che resti tutto allo stadio di mera rappresentazione?
+Bitcoin e altre criptovalute, cioè speculazione a parte, problemi
+che hanno trovato una soluzione attraverso la blockchain non risultano ancora pervenuti,
+nonostante ogni giorno ne venga proposta un'applicazione nuova e immaginifica,
+dall'agroalimentare all'energia, dal controllo delle foreste al monitoraggio dei
+viadotti autostradali.
 
-Appare infatti completamente senza analisi il vero problema sottostante: esplorare le categorie che servono per i rapporti umani, privati e istituzionali, alla luce delle nuove tecnologie. Ovvero trovare un quadro analitico sui problemi della condivisione, della fiducia, del consenso e della delega.
+Encomiabile quest'impegno di volontà nell'esercizio del nuovismo anche in campo
+tecnologico, ma dobbiamo attenderci che resti tutto allo stadio di mera
+rappresentazione o si concretizzerà qualcosa?
 
-La domanda urgente che ci si pone quindi non è applicare un dato strumento a qualche problemino pratico ma scoprire come attraverso le nuove tecnologie può essere migliorato, e migliorato nel modo rivoluzionario delle promesse, il rapporto del cittadino e delle impresa con le istituzioni pubbliche e con i blocchi privati a cui il pubblico offra sostanziali privilegi.
+Manca l'analisi del  problema, ovvero: come si può esplorare le categorie fondative
+che servono per i rapporti umani, privati e istituzionali, alla luce delle nuove tecnologie?
+Cioè da cosa è possibile far discendere un quadro analitico sui problemi della condivisione,
+della fiducia, del consenso e della delega.
 
-Senza questa risposta ci stiamo solo illudendo che le nuove tecnologie servano ai cittadini e non siano un ulteriore, e forse definitivo, strumento di soggezione e sudditanza che sembra cambiare tutto per non cambiare nulla se non in peggio.
+I cittadini e le imprese non chiedono l'applicazione di un nuovo strumento a qualche problemino pratico
+ma vogliono sapere come, attraverso le tecnologie, può
+essere migliorato, e migliorato in modo rivoluzionario, il
+rapporto con le istituzioni pubbliche e con i
+gruppi privati a cui il pubblico offre sostanziali privilegi.
+
+Senza questa risposta vivremo l'ennesima illusione tecnocratica, esperienza non nuova in Italia negli ultimi 30 anni,
+subendo ulteriori, e forse definitivi, strumenti di
+soggezione e sudditanza che, proposti per cambiare tutto, si tramuteranno, come in una sorta
+di Gattopardo digitale prossimo venturo, nell'avvento di nuovi sciacalli e iene.
 
 
 # Il convegno
