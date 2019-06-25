@@ -7,7 +7,7 @@ lang: iot
 Num: XXVI
 Year: 2019
 City: Bari
-Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari.
+Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
@@ -142,7 +142,7 @@ ai principi.
 
 # Sede di e-privacy 2019 XXVI autumn edition
 
-La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine degli Avvocati di Bari.
+La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine degli Avvocati di Bari
 
 <!-- ! [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
 
