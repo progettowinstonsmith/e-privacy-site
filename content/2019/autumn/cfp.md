@@ -33,7 +33,7 @@ E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autu
 
 # Call for Papers
 
-ecnologia, ultima frontiera.
+<b>Tecnologia, ultima frontiera.</b>
 
 E così passammo dall'alfa all'omega della privacy, da Louis Brandeis
  a Mark Zuckerberg.
@@ -83,6 +83,7 @@ di Gattopardo digitale prossimo venturo, nell'avvento di nuovi sciacalli e iene.
 
 
 # Il convegno
+
 
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo
 sempre più digitale ed interconnesso, nel quale le possibilità di
