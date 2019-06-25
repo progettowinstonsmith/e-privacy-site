@@ -21,20 +21,19 @@ XSponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 timeline: 22 luglio | 15 agosto | 22 settembre
-css: .title-XXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXV { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVI { font: 18px arial, sans-serif; text-align: center; }
 
 
 E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autumn edition, che si
  svolgerà a Bari il 3 e 4 ottobre (giovedì e venerdì) con il tema:
 
-<b>"Dalle Istituzioni alla Blockchain" </b>
-
-<i>Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy? </i>
+<div class="title-XXVI">"Dalle Istituzioni alla Blockchain"</div>
+<div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 
 
 # Call for Papers
 
-Tecnologia, ultima frontiera. 
+Tecnologia, ultima frontiera.
 
 E così passammo dall'alfa all'omega della privacy, da Louis Brandeis a Mark
 Zuckerberg.
