@@ -7,7 +7,7 @@ slug: e-privacy-XXVI-come-arrivare
 Num: XXVI
 Year: 2019
 City: Bari
-Where: Biblioteca dell'Ordine<b/>degli Avvocati di Bari.
+Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari.
 When: 3-4 ottobre
 Season: autunno
 previd: 2019
