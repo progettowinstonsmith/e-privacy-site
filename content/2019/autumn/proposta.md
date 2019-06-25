@@ -1,4 +1,3 @@
-Status: draft
 Template: event
 Title: Proposta Talk
 Date: 2019-06-26 12:00:00
@@ -15,4 +14,5 @@ Season: estate
 previd: 2018W
 prev: e-privacy-XXIV
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexNkPwLTJ7fIai3CIjQb1ej0K88wcKeLzvMPgNxPdZwjZWsg/viewform?embedded=true" width="700" height="800" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexNkPwLTJ7fIai3CIjQb1ej0K88wcKeLzvMPgNxPdZwjZWsg/viewform?embedded=true" width="700" height="1600" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
