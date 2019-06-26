@@ -30,6 +30,7 @@ E' con piacere che annunciamo il call for papers  per e-privacy XXVI - 2019 autu
 <div class="title-XXVI">"Dalle Istituzioni alla Blockchain"</div>
 <div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 <br>
+__termine del cfp 22 luglio 2019__.
 
 
 # Call for Papers

@@ -5,7 +5,7 @@ Category: 2019
 lang: it
 Num: XXV
 Year: 2019
-slug: e-privacy-XXV-programma
+slug: e-privacy-XXV
 City: Torino
 Where: Aula Ciminiera<br/>Politecnico di Torino
 When: 6-7 giugno

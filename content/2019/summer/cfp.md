@@ -6,7 +6,7 @@ Category: 2019
 lang: it
 Num: XXV
 Year: 2019
-slug: e-privacy-XXV
+slug: e-privacy-XXV-cfp
 City: Torino
 Where: Politecnico, Aula Ciminiera
 When: 6-7 giugno
