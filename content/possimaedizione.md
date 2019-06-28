@@ -5,7 +5,7 @@ Category: 2019
 lang: it
 Num: XXVI
 Year: 2019
-slug: e-privacy-XXVI
+slug: e-privacy-XXVI-prossimaedizione
 City: Bari
 Where: TBA
 When: 3-4 ottobre
