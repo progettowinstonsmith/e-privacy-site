@@ -1,6 +1,6 @@
 Template: event
-Title: Nuove tecnologie di controllo
-Date: 2019-04-10 12:00:00
+Title: Dalle Istituzioni alla Blockchain
+Date: 2019-08-05 13:00:00
 Category: 2019
 lang: it
 Num: XXVII
@@ -11,8 +11,8 @@ Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
+previd: 2019
+prev: e-privacy-XXV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
@@ -74,7 +74,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 15:05|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#scannicchio">Tommaso Scannicchio (CILD Coalizione Italiana Libertà e Diritti)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXVI-interventi.html#scannicchio">LIBRA: una bilancia in equilibrio sulla privacy</a></em></span>
 15:35|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#albanese">Graziano Albanese </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXVI-interventi.html#albanese">Distributed ledger technology:fiducia e trasparenza, paradigma o utopia per i servizi al cittadino nel rispetto del principio della trasparenza per le pubbliche amministrazioni.</a></em></span>
 16:05|20|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXVI-interventi.html#berto">Blockchain: dicotomia del consenso</a></em></span>
-16:25|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Libero Professionista)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXVI-interventi.html#dalchecco">Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange</a></em></span>
+16:25|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXVI-interventi.html#dalchecco">Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange</a></em></span>
 16:55|20|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#fallacara">Riccardo Fallacara (Bitcoin Foundation Puglia)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXVI-interventi.html#fallacara">Blockchain: problem or solving</a></em></span>
 16:55|75|<span class='talk'><em><a name='1p06'></a>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola1">Blockchain's out?</a></em></span>
 18:30||<span class='talk'><em>Chiusura lavori prima giornata</em></span>

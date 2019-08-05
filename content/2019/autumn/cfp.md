@@ -1,6 +1,6 @@
 Template: event
 Title: Dalle Istituzioni alla Blockchain
-Date: 2019-06-26 14:00:00
+Date: 2019-08-05 16:00:00
 slug: e-privacy-XXVI-cfp
 Category: 2019
 lang: iot
@@ -12,7 +12,7 @@ When: 3-4 ottobre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2019
-prev: e-privacy-XXV
+prev: e-privacy-XXV-cfp
 Xnextid: 2018W
 Xnext: e-privacy-XXIV
 Organizzatori: hermes,pws

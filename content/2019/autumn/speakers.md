@@ -1,5 +1,5 @@
 Template: event
-Title:Parole (Ostili) contro la RETE
+Title: Dalle Istituzioni alla Blockchain
 Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
@@ -11,7 +11,7 @@ Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
+previd: 2019
 prev: e-privacy-XXIV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
@@ -34,9 +34,9 @@ Mixminion, Tor & GlobaLaks.
 E' il fondatore del Progetto Winston Smith e tra i fondatori
 dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
 Dal 2002 organizza il convegno "e-privacy" dedicato alla
-privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
-dove pubblica la rubrica settimanale 
-<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
+privacy in Rete e fuori, ed e' editorialista di "Punto Informatico" e "ZeusNews"
+ dove pubblica la rubrica settimanale 
+<a href="https://www.punto-informatico.it/?s=calamari+cassandra">"Cassandra Crossing"</a>.
 
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
@@ -116,7 +116,7 @@ Attivamente impegnato per la promozione del software libero e dei diritti fondam
 
 
 
-#### <a name="dalchecco"></a> Paolo Dal Checco (Libero Professionista)
+#### <a name="dalchecco"></a> Paolo Dal Checco (Consulente Informatico Forense)
 
 Laurea e Dottorato di Ricerca in Informatica, per alcuni anni ha operato in ambito di direzione tecnica ICT in società con tema protezione delle comunicazioni e crittografia. Da circa dieci anni si occupa essenzialmente di consulenze informatiche forensi come esperto in perizie informatiche in ambito penale e civile, su evidenze digitali presenti su smartphone, computer, reti, profili social network, email o altri supporti. Dal Checco offre i suoi servizi in materia d'informatica forense ad Aziende, Studi Legali o privati ma anche a Pubblici Ministeri, Giudici e Forze dell'Ordine come Consulente Tecnico, CTU o ausiliario di Polizia Giudiziaria. Fornisce consulenza anche in ambito di D.Lgs 231, GDPR, protezione dei dati e sicurezza informatica grazie anche all'esperienza maturata sul campo in ambito giudiziario, in particolare legata alle indagini e perizie forensi sui reati informatici e alla loro prevenzione. Particolarmente interessato al mondo delle criptomonete, in particolare dal punto di vista tecnico e investigativo legato all'anonimato delle transazioni e dei wallet.
 
