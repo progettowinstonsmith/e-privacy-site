@@ -89,7 +89,7 @@ Si illustra il funzionamento e le caratteristiche del GDPR Tool elaborato con KS
 
 
 #### <a name="dalchecco"></a> Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange<a href="/e-privacy-XXVI-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a>*
+*<a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>*
 
 Il proliferare delle piattaforme di trading, così come dei service providers che offrono servizio di custodia su portafoglio di criptovalute, ha generato la necessità di approntare delle procedure ad hoc per lo svolgimento di indagini forensi volte alla prevenzione ed alla repressione di altrettanti reati informatici. Le particolari caratteristiche di pubblicità, non modificabilità e assenza di permessi, proprie della blockchain, hanno permesso lo sviluppo di tecniche di digital forensic e blockchain analysis idonee allo scopo. Con la sempre maggiore adozione delle criptovalute, inoltre, è sorta la necessità di adeguare le attività degli exchanger, particolari internet service providers, che devono obbligatoriamente adeguarsi alle normative sulla compliance antiriciclaggio e sulla data protection, prevedendo la conservazione dei dati di traffico per finalità di giustizia e dotandosi di idonei presidi di sicurezza.
 
@@ -139,7 +139,7 @@ Una tensione di fondo attraversa l'età digitale: da un lato la concentrazione d
 
 
 #### <a name="scannicchio"></a> LIBRA: una bilancia in equilibrio sulla privacy<a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#scannicchio">Tommaso Scannicchio (CILD Coalizione Italiana Libertà e Diritti)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>*
+*<a href="/e-privacy-XXVI-relatori.html#scannicchio">Tommaso Scannicchio (CILD Coalizione Italiana Libertà e Diritti)</a>*
 
 Il panel si propone di esaminare il fenomeno “Libra” la “moneta virtuale” creata da Facebook.
 CI si propone di esaminare, fuor di retorica, la reale utilità di questo strumento finanziario, eventuali teorie a supporto della diffusione dello strumento, rischi connessi (economici e relativi alla privacy), funzionamento e interazioni tra legislazioni differenti (in particolare: GDPR e anti-money laundering) con un attenzione speciale alle problematiche connesse alla profilazione dei pattern di pagamento e la tutela della privacy degli utenti.
