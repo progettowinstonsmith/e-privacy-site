@@ -144,6 +144,12 @@ Consulente privacy. Docente nei corsi organizzati da Randstad in materia Privacy
 
 
 
+#### <a name="fallacara"></a> Riccardo Fallacara (Bitcoin Foundation Puglia)
+
+Europrogettista e fondatore dell’associazione Bitcoin Foundation Puglia, dal 2015 si occupa di divulgazione nel mondo delle nuove tecnologie. Nel corso degli anni ha acquisito esperienze come co-organizzatore dell’evento Startup Week end, dell’evento TedX Saloon in territorio pugliese e come relatore in convegni e workshop.
+
+
+
 #### <a name="giordano"></a> Marco Tullio Giordano (LT42)
 
 Marco Tullio Giordano è avvocato presso il Foro di Milano. Si occupa di nuove tecnologie e reati informatici, assistendo privati ed aziende in altrettanti procedimenti penali. È lead auditor certificato ISO 27001:2014 e Data Protection Officer di numerosi enti privati e internet service provider, per i quali gestisce inoltre da più di 10 anni i rapporti con le autorità giudiziarie e di polizia giudiziaria. Dal 2018 è co-founder di LT42, la prima legal tech company italiana, nonchè membro di Coinlex, il primo network di professionisti che si occupa dell'assistenza nel settore della blockchain e delle criptovalute. Dal 2005 collabora con la cattedra di informatica giuridica dell'Università degli Studi di Milano. Scrive in rete di diritto e nuove tecnologie ed è relatore e formatore per Giuffrè Francis Lefebvre.
@@ -161,6 +167,12 @@ E’ autrice di diverse pubblicazioni, monografie e opere collettive, con divers
 
 Scrive per  StartUpItalia, Doctor33, Farmacista33,  Key4Biz
 www,monicagobbato.it www,privacyacademy.it
+
+
+
+#### <a name="grisorio"></a> Giuseppe Grisorio (Bitcoin Foundation Puglia)
+
+Avvocato digitale, co-fondatore e Presidente della Bitcoin Foundation Puglia. Relatore di circa 50 eventi a tema cripto/blockchain sul territorio nazionale negli ultimi 4 anni. Docente a contratto Uniba per lo short master in "Criptovalute e bitcoin". Studioso di IA, difesa digitale e strumenti informatici di anti intrusione.
 
 
 

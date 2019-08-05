@@ -611,7 +611,7 @@ def read_programma_db(service, _id, rdb, SESSIONI):
                                  rdb)
             program.extend(prglines)
         variables[variable] = '\n'.join(program)
-        variables["CHAIRMAN_" + variable]=chairman
+        variables["CHAIRMAN_" + variable]=compose_person(rdb,chairman)
     return variables, rdb, db
 
 #### ---------------------------------------- END READ FUNCTIONS
@@ -652,7 +652,7 @@ def main(debug,debug_section):
         all_relazioni.extend(D_relazioni)
         all_relatori.extend(D_relatori)
         dictionary[label] = '\n'.join(session)
-        dictionary[f'{label}_CHAIRMAN'] = sess_db['chairman']
+        dictionary[f'{label}_CHAIRMAN'] = compose_person(relatori,sess_db['chairman'])
     db['_relazioni'] = dict(all_relazioni)
     db['_relatori'] = dict(all_relatori)
     if debug and debug_section=='db':

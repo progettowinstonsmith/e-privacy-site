@@ -91,8 +91,8 @@ Si illustra il funzionamento e le caratteristiche del GDPR Tool elaborato con KS
 - l'uso del GDPR Tool (flusso di domande e risposte e compilazione del documento di risultato).
 
 
-#### <a name="dalchecco"></a> Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange<a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Libero Professionista)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>*
+#### <a name="dalchecco"></a> Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange<a href="/e-privacy-XXVI-programma.html#1p04">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Libero Professionista)</a>*
 
 Il proliferare delle piattaforme di trading, così come dei service providers che offrono servizio di custodia su portafoglio di criptovalute, ha generato la necessità di approntare delle procedure ad hoc per lo svolgimento di indagini forensi volte alla prevenzione ed alla repressione di altrettanti reati informatici. Le particolari caratteristiche di pubblicità, non modificabilità e assenza di permessi, proprie della blockchain, hanno permesso lo sviluppo di tecniche di digital forensic e blockchain analysis idonee allo scopo. Con la sempre maggiore adozione delle criptovalute, inoltre, è sorta la necessità di adeguare le attività degli exchanger, particolari internet service providers, che devono obbligatoriamente adeguarsi alle normative sulla compliance antiriciclaggio e sulla data protection, prevedendo la conservazione dei dati di traffico per finalità di giustizia e dotandosi di idonei presidi di sicurezza.
 
@@ -110,11 +110,23 @@ Esistono però ancora molte difficoltà da superare legate alla gestione di Bloc
 Non sarà semplice sciogliere questi nodi, ma i casi d’uso e le necessità del mercato saranno determinanti nel consolidare questo nuovo approccio all’identità digitale.
 
 
+#### <a name="fallacara"></a> Blockchain: problem or solving<a href="/e-privacy-XXVI-programma.html#1p05">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#fallacara">Riccardo Fallacara (Bitcoin Foundation Puglia)</a>*
+
+Si definisce la Blockchain  una soluzione informatica ancora in cerca di problemi, ma di problemi da risolvere ce ne sono in quantità. Quello che manca è la voglia di applicazione pratica. Blockchain è immutabile, trustless, sicura, decentralizzata.. Blockchain è creativa, internazionale, democratica, incorruttibile... Si cerca di introdurre dlt private che si nascondono dietro il nome di blockchain per interessi di natura economica e non solo.. Si costruiscono campagne elettorali sulle mode del momento ma non si è disposti ad accettare le caratteristiche che la definiscono. In questo meccanismo contorto i ruoli si scambiano e le soluzioni possono essere viste come i problemi da risolvere.
+
+
 #### <a name="gobbato"></a> Dalla autentica digitale all'analisi predittiva del valore dell'opera tramite big data. Aspetti sottesi alla tecnologia nel mondo delle arti figurative<a href="/e-privacy-XXVI-programma.html#1m01">⇧</a>
 *<a href="/e-privacy-XXVI-relatori.html#gobbato">Monica Gobbato (Monica Gobbato)</a> e <a href="/e-privacy-XXVI-relatori.html#desimio">Giacomo De Simio (Sme System s.r.l.)</a>*
 
 Nella relazione "Dalla autentica digitale all'analisi predittiva del valore dell'opera tramite big data. Aspetti sottesi alla tecnologia nel mondo delle arti figurative" si esamineranno gli aspetti tecnologici e legali (data protection e business data comprese) sottesi alle nuove arti figurative come i progetti di tokenizzazione dell'opere, il trasferimento digitale delle autentiche e le analisi predittive tramite algoritmo del valore delle opere stesse. 
 Si analizzeranno quindi i progetti già esistenti sui temi sopraindicati fornendo gli aspetti legali e le possibili soluzioni, anche se del caso mediante Valutazioni d'impatto ai sensi del 35 del GDPR.
+
+
+#### <a name="grisorio"></a> Delete: diritto all’oblio<a href="/e-privacy-XXVI-programma.html#1m06">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#grisorio">Giuseppe Grisorio (Bitcoin Foundation Puglia)</a>*
+
+Prima c’era l’uomo, con i suoi ricordi che il tempo sbiadiva. Poi è arrivato Internet, poi i social. In un mondo sempre più connesso i nostri dati finiscono in archivi digitali senza limiti o confini. Basiamo le nostre riflessioni e decisioni su quello che conosciamo e ricordiamo, ma se la nostra memoria è Internet nulla si potrà dimenticare e vivremo in un infinito presente. Possiamo con questi presupposti trovare il modo per esercitare il diritto all’oblio e chiedere alla rete di cancellarci in modo definitivo?
 
 
 #### <a name="priolo"></a> Come uso ciò che so?<a href="/e-privacy-XXVI-programma.html#1m03">⇧</a>
@@ -129,8 +141,8 @@ Che la conoscenza sia considerata un'attività sociale primaria è un dato di fa
 Una tensione di fondo attraversa l'età digitale: da un lato la concentrazione dei mezzi di controllo e di processamento dei dati nelle mani di pochissimi soggetti, multinazionali o agenzie governative, dall'altro l'emergere di modelli collaborativi e disintermediati (blockchain, ma non solo) impegnati a contrastarne l'egenomia, almeno in linea di principio. Ma le due correnti non si muovono sempre in direzione ostinata e contraria: la sorveglianza e il controllo si frantumano in una vigilanza affidata ai singoli, e dal canto sua la decentralizzazione strizza l'occhio a interessi corporate. In questo scenario frastagliato, sorveglianza e consenso sono due facce della stessa medaglia, e la privacy è di volta in volta ago della bilancia, strumento di politica economica, merce di scambio prima ancora che tutela di diritti. Ogni tentativo di decifrare una condizione così complessa non può che essere interdisciplinare: dobbiamo imparare a costruire sinapsi tra economia antropologia diritto tecnologia matematica, a muoverci con disinvoltura tra Foucault e Bateson, Hayek e Brandeis, Lawrence Lessig e Satoshi Nakamoto.
 
 
-#### <a name="scannicchio"></a> LIBRA: una bilancia in equilibrio sulla privacy<a href="/e-privacy-XXVI-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#scannicchio">Tommaso Scannicchio (CILD Coalizione Italiana Libertà e Diritti)</a>*
+#### <a name="scannicchio"></a> LIBRA: una bilancia in equilibrio sulla privacy<a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#scannicchio">Tommaso Scannicchio (CILD Coalizione Italiana Libertà e Diritti)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>*
 
 Il panel si propone di esaminare il fenomeno “Libra” la “moneta virtuale” creata da Facebook.
 CI si propone di esaminare, fuor di retorica, la reale utilità di questo strumento finanziario, eventuali teorie a supporto della diffusione dello strumento, rischi connessi (economici e relativi alla privacy), funzionamento e interazioni tra legislazioni differenti (in particolare: GDPR e anti-money laundering) con un attenzione speciale alle problematiche connesse alla profilazione dei pattern di pagamento e la tutela della privacy degli utenti.
