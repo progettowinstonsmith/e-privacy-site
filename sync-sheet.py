@@ -17,77 +17,32 @@ logging.basicConfig(level=logging.INFO)
 
 ### ---------------------------------------- CONFIGURATION
 
-SPREADSHEET_ID = '1ZkK6QvBu1-xdD7sFQF9hI2J4wn1kfj1fqvglFTu43Fw'
+SPREADSHEET_ID = '1rjsJu9iMEYAILB6efL4FyhxARKQMGcV49ZbAwd7OB78'
 
-RELATORI = 'Relatori!B2:T45'
+RELAZIONI = 'RELAZIONI'
+RELATORI = 'RELATORI'
 
 ORGANIZZATORI = ['calamari','giorio','somma']
 
-EPRIVACY_N = 'XXV'
+EPRIVACY_N = 'XXVI'
 
 URL = 'e-privacy-'
 
-PATH = 'content/2019/summer/'
+PATH = 'content/2019/autumn/'
 
 PROG_FNAME = 'programma.md'
 
 GIORNO1 = 'Giorno1'
 GIORNO2 = 'Giorno2'
 
-SESSIONI = (
-    ("GIORNO1_MATTINA", 0, 0, (
-        ("Apertura", 'open', GIORNO1 + '!A2:J2'),
-        ("Saluti", 'saluti', GIORNO1 + '!A3:J3'),
-        ("Giovedì Mattina", 'talks', GIORNO1 + '!A4:J8'),
-        ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A9:J9'),
-        ("Pausa Pranzo", 'pausa', GIORNO1 + '!A10:J10'),
-    ), GIORNO1 + '!A2:J2' ),
-    ("GIORNO1_POMERIGGIO", 0, 1, (
-        ("Apertura", 'open', GIORNO1 + '!A16:J16'),
-        ("Giovedì Pomeriggio", 'talks', GIORNO1 + "!A17:J24"),
-        # ("Tavola Rotonda", 'roundtable', GIORNO1 + '!A26:J26'),
-        ("Chiusura lavori prima giornata", 'pausa', GIORNO1 + '!A25:J25'),
-    ), GIORNO1 + '!A16:J16'),
-    ("GIORNO2_MATTINA", 1, 0, (
-        ("Apertura", 'open', GIORNO2 + '!A2:J2'),
-        ("Venerdì Mattina", 'talks', GIORNO2 + '!A3:J10'),
-        ("Chiusura lavori", 'pausa', GIORNO2 + '!A11:J11'),
-    ), GIORNO2 + '!A2:J2'),
-    ("GIORNO2_POMERIGGIO", 1, 1, (
-        ("Apertura", 'open', GIORNO2 + '!A16:J16'),
-        ("Venerdì Mattina", 'talks', GIORNO2 + '!A17:J23'),
-        ("Tavola Rotonda", 'roundtable', GIORNO2 + '!A24:J24'),
-        ("Chiusura lavori", 'pausa', GIORNO2 + '!A25:J25'),
-    ), GIORNO2 + '!A16:J16'))
+SESSIONI = '1M,1P,2M'.split(',')
 
-
-SHEET_HEADERS=(
-    "label", "FullName",
-    "cron",
-    "Cognome", "Nome", "X", "Organizzazione",
-    "Indirizzo", "Email", "telefono",
-    "Durata", "Argomento",
-    "Titolo", "Autori",
-    "Descrizione", "Bio",
-    "Consenso_pubblicazione", "Consenso_registrazioni",
-    "Note")
-
-
-PROGRAMMA_HEADERS=('label', 'Giorno', 'Ora',
-                   'Durata', 'TECH', 'Titolo',
-                   'Autore', 'pers', 'altri',
-                   'conferma')
-
-
-# SPREADSHEET FIELDS
-
-F_ORG = 'Organizzazione'
+F_ORG = 'org'
 
 ## ---------------------------------------- FINE CONFIGURAZIONE
 
 def program_line(*cols):
     return " | ".join(cols)
-
 
 def section_open(label, kind, srange, service, _id, info, rdb):
     lines = []
@@ -212,58 +167,7 @@ FORMATS = (
 )
 
 
-### ---------------------------------------- ELEMENT COMPOSITIONS
 
-def compose_person(rdb, *people, org=True):
-    output = []
-    for person in people:
-        if person not in rdb:
-            LOGGER.error('COMPOSE_PERSON:NO RECORD FOR:'+person)
-            continue
-        record = rdb[person]
-        o_org = ""
-        if org and F_ORG in record and len(record[F_ORG])>0:
-            o_org = ("({"+F_ORG+"})").format(**record)
-        o_name = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
-            num=EPRIVACY_N,
-            org=o_org,
-            **record)
-        output.append(o_name)
-    if output:
-        answer = ', '.join(output)
-        answer = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', answer)
-        return answer
-
-# compose_title
-# compose_time
-# cimpose_duration
-
-
-
-def make_authors(info, rdb):
-    if 'pers' not in info:
-        return ""
-    pres = info['pers']
-    if pres in rdb:
-        record = rdb[pres]
-    else:
-        return ""
-    org = ""
-    if F_ORG in record and len(record[F_ORG]) > 0:
-        org = ("({"+F_ORG+"})").format(**record)
-    di = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
-        num=EPRIVACY_N,
-        org=org,
-        **record)
-    if 'altri' in info and len(info['altri'])>0:
-        altri = list(map(lambda x: x.strip(), re.split(',', info['altri'])))
-        di += ", " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
-            num=EPRIVACY_N,
-            **rdb[x],
-            org=("("+rdb[x][F_ORG]+")") if F_ORG in rdb[x] and len(rdb[x][F_ORG]) > 0 else '',),
-            altri))
-        di = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', di)
-    return di
 
 def make_authors_roundtable(info, rdb):
     if 'altri' in info and len(info['altri'])>0:
@@ -289,7 +193,7 @@ def make_authors_roundtable(info, rdb):
     return di
 
 
-def db_get_attrs(attr,service, _id, _range, HEADERS=SHEET_HEADERS):
+def db_get_attrs(attr,service, _id, _range, HEADERS):
     """ get an attribute from a dict of dict """
     ret = []
     lines = read_db(service, _id, _range, HEADERS)
@@ -300,66 +204,6 @@ def db_get_attrs(attr,service, _id, _range, HEADERS=SHEET_HEADERS):
                 ret.append(val)
     return ret
 
-#### ---------------------------------------- READ FUNCTIONS
-
-def read_db(service, id, range, HEADERS=SHEET_HEADERS):
-    result = service.spreadsheets().values().get(spreadsheetId=id,
-                                                 range=range).execute()
-    values = result.get('values', [])
-    infos = {}
-    if not values:
-        print('No data found.')
-    else:
-        for row in values:
-            if len(row[0]):
-                info = dict(zip(HEADERS, row))
-                info['label'] = info['label'].lower()
-                info['talk']=[]
-                info['roundtable']=[]
-                if 'pers' in info:
-                    info['pers'] = info['pers'].lower()
-                if 'altri' in info:
-                    info['altri'] = info['altri'].lower()
-                infos[info['label'].lower()] = info
-    return infos
-
-
-def read_programma_db(service, _id, rdb, SESSIONI):
-    variables = {}
-    db = {}
-    J = 0
-    K = 0
-    for variable, J, K, sessione, chair in SESSIONI:
-        program = []
-        db["{}.{}".format(J,K)] = {}
-        chairman = db_get_attrs('pers',service, _id, chair, PROGRAMMA_HEADERS)
-        if chairman:
-            chairman = re.split(r'\s*,\*',chairman[0])
-            chairman = compose_person(rdb, *chairman)
-        LOGGER.info('SESSIONE '+variable)
-        LOGGER.info('CHAIRMAN '+chairman)
-        for label, kind, srange in sessione:
-            LOGGER.info('    PARTE '+label)
-            prog = read_db(service,
-                           _id,
-                           srange,
-                           PROGRAMMA_HEADERS)
-            db["{}.{}".format(J,K)].update(prog)
-            func = "section_" + kind
-            if func not in globals():
-                raise SyntaxError('function {} '
-                'not in globals()'.format(func))
-            else:
-                func = globals()[func]
-            prglines, rdb = func(label, kind, srange,
-                                 service, _id, prog,
-                                 rdb)
-            program.extend(prglines)
-        variables[variable] = '\n'.join(program)
-        variables["CHAIRMAN_" + variable]=chairman
-    return variables, rdb, db
-
-#### ---------------------------------------- END READ FUNCTIONS
 
 def write_out(path, fname, **kw):
     templ_f = Path(path) / (fname+'.template')
@@ -369,16 +213,6 @@ def write_out(path, fname, **kw):
     out_f.write_text(output)
     print("scrittura "+str(out_f)+" from template "+str(templ_f))
 
-
-def setup_sheet_work(SPREADSHEET_ID):
-    SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
-    store = file.Storage('credentials.json')
-    creds = store.get()
-    if not creds or creds.invalid:
-        flow = client.flow_from_clientsecrets('client_secret.json', SCOPES)
-        creds = tools.run_flow(flow, store)
-    service = build('sheets', 'v4', http=creds.authorize(Http()))
-    return service
 
 def lay_talk(talk, item, db):
     pres = talk['pers']
@@ -421,91 +255,39 @@ def lay_roundtable(talk, item, db):
         con += " moderata da <a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome}</a>".format(num=EPRIVACY_N, **db[moderatore.strip()])
     return talk, ruolo, titolo, con
 
-def make_speaker_bio(item,db):
-    if 'Bio' in item and 'talk' in item:
-        org = ""
-        if F_ORG in item and \
-        len(item[F_ORG]) > 0:
-            org = "(" + item[F_ORG] + ")"
-        #if item['Titolo'] in db:
-        #    item['talk'] = db[item['Titolo']]['talk']
-        bio = '#### <a name="{label}"></a> {Nome} {Cognome} {org}\n\n{Bio}\n'.format(
-            num=EPRIVACY_N,
-            org=org,
-            **item )
-        # <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>
-        #                 intervento=item['talk']['label'],
-        talks = []
-        if 'talk' in item:
-            for talk in item['talk']:
-                talks.append(lay_talk(talk, item, db))
-
-        if len(talks)>0:
-            bio += "\nAd e-privacy " + EPRIVACY_N + " presenta <br/>\n"
-            for talk, titolo, con in talks:
-                bio += "<b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format( num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>"
-
-        bio += "<br/>\n"
-        roundtables = []
-        if 'roundtable' in item:
-            for roundtable in item['roundtable']:
-                roundtables.append(lay_roundtable(roundtable, item, db))
-
-        if len(roundtables)>0:
-            # bio += "\nPartecipa alla " + ( "Tavola Rotonda" if len(roundtables) == 1 else "Tavole rotonde" ) + " <br/>\n"
-            for talk, ruolo, titolo, con in roundtables:
-                bio += "<br/>{ruolo}la Tavola Rotonda <b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(ruolo=ruolo,num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format(  num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>\n\n"
-        bio += '\n\n'
-        return bio
-
-def make_speakers(service, id, db):
-    relatori = {}
-    for key, item in db.items():
-        rkey = item['Cognome'].capitalize()
-        LOGGER.info("SPEAKERS:"+key+"/"+rkey)
-        if rkey in ('Somma', 'Calamari', 'Giorio') or len(rkey)==0:
-            LOGGER.info("SPEAKERS:exclude:"+key)
-            continue
-        relatori[rkey] = make_speaker_bio(item,db)
-    str_out = ""
-    for label,relatore in sorted(relatori.items()):
-        LOGGER.info('SPEAKERS:writeout:'+label)
-        str_out += relatore + "\n"
-    write_out(PATH, 'speakers.md', RELATORI=str_out)
-
-
-def make_interventi(service, id, db, pr):
-    str_out = ""
-    for day in pr.values():
-        for key, item in day.items():
-            LOGGER.info('TALK: ' + key)
-            if 'pers' in item:
-                pres = item['pers']
-                if pres in db:
-                    if re.match('^tavola',pres):
-                        autori = make_authors_roundtable(item,db)
-                    else:
-                        autori = make_authors(item, db)
-                    xdb = db[pres]
-                    if 'Titolo' in xdb and len(xdb['Titolo'].strip())==0:
-                        continue
-                    if 'Descrizione' in xdb:
-                        info = '#### <a name="{label}"></a> {Titolo} <a href="/e-privacy-{num}-programma.html#{intervento}">⇧</a>\n**{autori}**  \n\n{Descrizione}\n\n\n'.format(
-                            num=EPRIVACY_N,
-                            autori=autori,
-                            intervento=item['label'],
-                            **xdb)
-                        str_out += info + "\n"
-    write_out(PATH, 'interventi.md', INTERVENTI=str_out)
-
-def make_tavolarotonda(item, db):
-    pers = item['pers']
-    record = db[pers]
-    aList = re.split(r' *, *', record['Autori'])
+def make_roundtable(item, db):
+    pers = item['author']
+    aList = re.split(r' *, *', item['altri'])
     modera = aList.pop(0)
-    modera = "Modera: " + make_person(modera, db)
+    modera = "Modera: " + make_persons(modera, db)
     partecipa = "Partecipa: " + make_persons(aList, db)
-    return "Tavola Rotonda: " + mk_intervento(record['Titolo'], pers) + "<br/>" + modera + "<br/>" + partecipa
+    return "Tavola Rotonda: " + mk_intervento(item['title'], pers) + "<br/>" + modera + "<br/>" + partecipa
+
+
+def make_authors(info, rdb):
+    if 'pers' not in info:
+        return ""
+    pres = info['pers']
+    if pres in rdb:
+        record = rdb[pres]
+    else:
+        return ""
+    org = ""
+    if F_ORG in record and len(record[F_ORG]) > 0:
+        org = ("({"+F_ORG+"})").format(**record)
+    di = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
+        num=EPRIVACY_N,
+        org=org,
+        **record)
+    if 'altri' in info and len(info['altri'])>0:
+        altri = list(map(lambda x: x.strip(), re.split(',', info['altri'])))
+        di += ", " + ", ".join(map(lambda x: "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {org}</a>".format(
+            num=EPRIVACY_N,
+            **rdb[x],
+            org=("("+rdb[x][F_ORG]+")") if F_ORG in rdb[x] and len(rdb[x][F_ORG]) > 0 else '',),
+            altri))
+        di = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', di)
+    return di
 
 def make_person(label, db):
     return make_authors(
@@ -513,46 +295,379 @@ def make_person(label, db):
          'label': label},
         db)
 
+def compose_people(talk, db, all=False):
+    aList = [ talk['author'], ]
+    if 'altri' in talk and all:
+        altri = talk['altri']
+        if ',' in altri:
+            aList.extend(altri.split(','))
+        else:
+            aList.append(altri)
+    return compose_person(db['relatori'], *aList)
 
-def make_persons(aList, db):
-    try:
-        label = aList.pop(0)
-        param = {'pers': label,
-                 'label': label,
-                 }
-        if len(aList) > 0:
-            param['altri'] = ','.join(aList)
-        return make_authors(param, db)
-    except IndexError:
-        return ""
+### ---------------------------------------- ELEMENT COMPOSITIONS
 
+def compose_person(rdb, *people, org=True):
+    output = []
+    for person in people:
+        if person not in rdb:
+            LOGGER.error('COMPOSE_PERSON:NO RECORD FOR:'+person)
+            continue
+        record = rdb[person]
+        o_org = ""
+        if org and F_ORG in record and len(record[F_ORG])>0:
+            o_org = ("({"+F_ORG+"})").format(**record)
+        o_name = "<a href=\"/e-privacy-{num}-relatori.html#{label}\">{Nome} {Cognome} {Xorg}</a>".format(
+            num=EPRIVACY_N,
+            Xorg=o_org,
+            **record)
+        output.append(o_name)
+    if output:
+        answer = ', '.join(output)
+        answer = re.sub(r'(.*), ([^.]*)', '\\1 e \\2', answer)
+        return answer
+
+# compose_title
+def compose_title(relazioni, talk):
+    relazione = talk['author']
+    output = None
+    if relazione not in relazioni:
+        LOGGER.error(f'COMPOSE_TITLE:NO RECORD FOR: {relazione}')
+        return None
+    record = relazioni[relazione]
+    index = talk['label']
+    title = record['title']
+    prefix = ''
+    if re.match(r'tavola rotonda',title,re.I):
+        prefix = "Tavola Rotonda: "
+        title = re.sub(r'^Tavola Rotonda: *','',title, re.I)
+    label = record['label']
+    output = f"<a name='{index}'></a>{prefix}<a href=\"/e-privacy-{EPRIVACY_N}-interventi.html#{label}\">{title}</a>"
+    return output
+
+# compose_time
+# cimpose_duration
+
+def compose_speakers(all_relatori, db):
+    relatori = {}
+    for cognome, item in sorted(all_relatori):
+        rkey = item['Cognome'].capitalize()
+        LOGGER.info("SPEAKERS:"+cognome+"/"+rkey)
+        if rkey in ('Somma', 'Calamari', 'Giorio') or len(rkey)==0:
+            LOGGER.info("SPEAKERS:exclude:"+rkey)
+            continue
+        relatori[rkey] = compose_speaker_bio(item,db)
+    str_out = ""
+    for label,relatore in sorted(relatori.items()):
+        LOGGER.info('SPEAKERS:writeout:'+label)
+        str_out += relatore + "\n"
+    write_out(PATH, 'speakers.md', RELATORI=str_out)
+
+def compose_speaker_bio(item,db):
+    label = item['label']
+    if 'bio' in item:
+        org = ""
+        if F_ORG in item and len(item[F_ORG]) > 0:
+            org = "(" + item[F_ORG] + ")"
+        bio = '#### <a name="{label}"></a> {Nome} {Cognome} {Xorg}\n\n{bio}\n'.format(
+            num=EPRIVACY_N,
+            Xorg=org,
+            **item )
+
+        # talks = []
+        # if 'talk' in item:
+        #     for talk in item['talk']:
+        #         talks.append(lay_talk(talk, item, db))
+
+        # if len(talks)>0:
+        #     bio += "\nAd e-privacy " + EPRIVACY_N + " presenta <br/>\n"
+        #     for talk, titolo, con in talks:
+        #         bio += "<b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format( num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>"
+
+        # bio += "<br/>\n"
+        # roundtables = []
+        # if 'roundtable' in item:
+        #     for roundtable in item['roundtable']:
+        #         roundtables.append(lay_roundtable(roundtable, item, db))
+
+        # if len(roundtables)>0:
+        #     # bio += "\nPartecipa alla " + ( "Tavola Rotonda" if len(roundtables) == 1 else "Tavole rotonde" ) + " <br/>\n"
+        #     for talk, ruolo, titolo, con in roundtables:
+        #         bio += "<br/>{ruolo}la Tavola Rotonda <b><a href=\"e-privacy-{num}-interventi.html#{label}\">".format(ruolo=ruolo,num=EPRIVACY_N, label=talk['pers']) + titolo + "</a></b> alle <a href=\"/e-privacy-{num}-programma.html#{label}\">".format(  num=EPRIVACY_N, label=talk['label']) + talk['Ora'] + " di " + talk['Giorno'] + "</a>" + con + ".<br/>\n\n"
+
+        bio += '\n\n'
+        return bio
+
+
+def compose_interventi(all_relazioni, db):
+    # service, id, db, pr):
+    str_out = ""
+    relazioni = dict()
+    for label, talk in all_relazioni:
+        LOGGER.info('TALKS:writeout:'+label)
+        relazioni[label] = compose_talk_info(talk, db)
+    for label,relazione in sorted(relazioni.items()):
+        str_out += relazione + "\n"
+    write_out(PATH, 'interventi.md', INTERVENTI=str_out)
+
+def compose_talk_info(talk, db):
+    label = talk['author']
+    link = talk['label']
+    title = talk['title']
+    _title = f'#### <a name="{label}"></a> {title}'
+    _up = f'<a href="/e-privacy-{EPRIVACY_N}-programma.html#{link}">⇧</a>'
+    auth = [ talk['author'], ]
+    _authors = "*"+compose_people(talk, db, all=True)+"*"
+    desc = db['relazioni'][label]['description']
+    return f'{_title}{_up}\n{_authors}\n\n{desc}\n\n'
+
+#### ---------------------------------------- SETUP PROGRAM
+
+def setup_title(talk, relazioni, relatori):
+    return compose_title(relazioni, talk)
+
+def setup_Durata(talk, relazioni,  relatori):
+    if len((talk['Durata'])):
+        ore, minuti  = map(int, talk['Durata'].split(':'))
+        return str(ore*60+minuti)
+    return ""
+
+def setup_opening_author(talk, relazioni,  relatori):
+    return ''
+
+def setup_opening_title(talk, relazioni,  relatori):
+    return talk['title']
+
+def setup_closing_author(talk, relazioni,  relatori):
+    return ''
+
+def setup_closing_title(talk, relazioni,  relatori):
+    return talk['title']
+
+def setup_welcome_author(talk, relazioni,  relatori):
+    auth = talk['author']
+    if auth == 'tba':
+        return ''
+    if auth in relatori:
+        return compose_person(relatori, auth)
+    return '?!?'
+
+def setup_welcome_title(talk, relazioni,  relatori):
+    return talk['title']
+
+def setup_talk_author(talk, relazioni,  relatori):
+    auth = [ talk['author'], ]
+    if 'altri' in talk:
+        for altro in talk['altri'].split(','):
+            auth.append( altro)
+    return compose_person(relatori, *auth)
+
+def setup_roundtable_author(talk, relazioni,  relatori):
+    if 'altri' in talk:
+        names = talk['altri'].split(',')
+        if len(names)>0:
+            moderator = names.pop(0)
+            partecipa = compose_person(relatori, *names)
+            return "Modera: " + compose_person(relatori, moderator) + "<br/>Partecipano: " + partecipa
+    return ""
+
+def setup_program_session(info, relazioni, relatori):
+    program = info['program']
+    session = []
+    D_relazioni = list()
+    D_relatori = list()
+    for label,talk in program:
+        kind = talk['kind']
+        line = []
+        for num, field in enumerate(('Ora','Durata','author', 'title')):
+            method = None
+            name = f'setup_{kind}_{field}'
+            if name in globals():
+                method = globals()[name]
+            else:
+                name = f'setup_{field}'
+                if name in globals():
+                    method = globals()[name]
+            if method:
+                value = method(talk, relazioni, relatori)
+            else:
+                value = talk[field]
+            talk[f'OUT_{num:02d}_{field}'] = value
+            line.append(value)
+        title = line.pop()
+        author = line.pop()
+        line.append('')
+        line[-1] = "<span class='talk'>"
+        if len(author) > 0:
+            line[-1] += author + "<br/>"
+        line[-1] += "<em>" + title +"</em>"
+        line[-1] += "</span>"
+        session.append('|'.join(line))
+        if kind == 'talk':
+            relatore = talk['author']
+            intervento = relazioni[relatore]
+            D_relazioni.append((relatore, talk))
+            D_relatori.append((relatore, relatori[relatore] ))
+            if 'altri' in talk:
+                for altro in talk['altri'].split(','):
+                    if altro in relatori:
+                        D_relatori.append((altro,relatori[altro]))
+    return session, D_relazioni, D_relatori
+
+
+#### ---------------------------------------- READ FUNCTIONS
+
+def read_db(service, id, range, tweak_item=None, tweak_collection=None):
+    result = service.spreadsheets().values().get(spreadsheetId=id,
+                                                 range=range).execute()
+    values = result.get('values', [])
+    infos = {}
+    if not values:
+        print('No data found.')
+    else:
+        for jj,row in enumerate(values):
+            if jj == 0:
+                HEADERS = row
+                continue
+            if len(row[0]):
+                info = dict(zip(HEADERS, row))
+                info['label'] = info['label'].lower()
+                if 'pers' in info:
+                    info['pers'] = info['pers'].lower()
+                if 'altri' in info:
+                    info['altri'] = info['altri'].lower()
+                if tweak_item:
+                    info = tweak_item(info)
+                infos[info['label'].lower()] = info
+    if tweak_collection:
+        infos = tweak_collection(infos)
+    return infos
+
+def tweak_relazioni(info):
+    info['talk']=[]
+    info['roundtable']=[]
+    return info
+
+def tweak_sessioni(info):
+    if info['label'][-2:] == 'aa':
+        info['label'] = 'apertura'
+        info['kind'] = 'opening'
+        info['order'] = -1
+    elif info['label'][-2:] == 'ss':
+        info['label'] = 'saluti'
+        info['kind'] = 'welcome'
+        info['order'] = 0
+    elif info['label'][-2:] == 'zz':
+        info['label'] = 'chiusura'
+        info['kind'] = 'closing'
+        info['order'] = 100
+    else:
+        order = int(info['label'][-2:])
+        info['order'] = order
+        info['kind'] = 'talk'
+        if info['author'][:6] == 'tavola':
+            info['kind'] = 'roundtable'
+    return info
+
+def tweak_sessioni_collection(info):
+    program = []
+    for key, value in sorted( info.items(),
+                              key=lambda x : x[1]['order']):
+        program.append((key, value))
+    info['program'] = program
+    if 'apertura' in info:
+        info['chairman'] = info['apertura']['author']
+    return info
+
+def read_programma_db(service, _id, rdb, SESSIONI):
+    variables = {}
+    db = {}
+    J = 0
+    K = 0
+    for variable, J, K, sessione, chair in SESSIONI:
+        program = []
+        db["{}.{}".format(J,K)] = {}
+        chairman = db_get_attrs('pers',service, _id, chair, PROGRAMMA_HEADERS)
+        if chairman:
+            chairman = re.split(r'\s*,\*',chairman[0])
+            chairman = compose_person(rdb, *chairman)
+        LOGGER.info('SESSIONE '+variable)
+        LOGGER.info('CHAIRMAN '+chairman)
+        for label, kind, srange in sessione:
+            LOGGER.info('    PARTE '+label)
+            prog = read_db(service,
+                           _id,
+                           srange,
+                           PROGRAMMA_HEADERS)
+            db["{}.{}".format(J,K)].update(prog)
+            func = "section_" + kind
+            if func not in globals():
+                raise SyntaxError('function {} '
+                'not in globals()'.format(func))
+            else:
+                func = globals()[func]
+            prglines, rdb = func(label, kind, srange,
+                                 service, _id, prog,
+                                 rdb)
+            program.extend(prglines)
+        variables[variable] = '\n'.join(program)
+        variables["CHAIRMAN_" + variable]=chairman
+    return variables, rdb, db
+
+#### ---------------------------------------- END READ FUNCTIONS
+
+
+#### ---------------------------------------- SETUP SYNC SHEET
+
+def setup_sheet_work(SPREADSHEET_ID):
+    SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
+    store = file.Storage('credentials.json')
+    creds = store.get()
+    if not creds or creds.invalid:
+        flow = client.flow_from_clientsecrets('client_secret.json', SCOPES)
+        creds = tools.run_flow(flow, store)
+    service = build('sheets', 'v4', http=creds.authorize(Http()))
+    return service
 
 
 @click.command()
 @click.option('--debug/--no-debug', default=False)
-@click.option('--debug-section', type=click.Choice(['db', 'dictionary']))
+@click.option('--debug-section', type=click.Choice(['db', 'program']))
 def main(debug,debug_section):
-    # SPREADSHEET_ID = '1ytHRQXyesPblgGe652OZLtaoGWzaaM0x8w93BN72uQM'
     service = setup_sheet_work(SPREADSHEET_ID)
     LOGGER.info('service loaded')
-    db = read_db(service, SPREADSHEET_ID, RELATORI )
+    relatori = read_db(service, SPREADSHEET_ID, RELATORI  )
+    relazioni = read_db(service, SPREADSHEET_ID, RELAZIONI, tweak_item = tweak_relazioni  )
+    db = {'relatori': relatori, 'relazioni': relazioni , 'sessioni': SESSIONI }
+    dictionary = {}
+    all_relazioni = list()
+    all_relatori = list()
+    for session in SESSIONI:
+        label = 'G' + session
+        LOGGER.info(f'session: {label} {",".join(dict(all_relatori).keys())}')
+        sess_db = read_db(service, SPREADSHEET_ID, label ,
+                          tweak_item = tweak_sessioni, tweak_collection = tweak_sessioni_collection)
+        db[label] = sess_db
+        session, D_relazioni, D_relatori = setup_program_session(db[label], relazioni, relatori)
+        all_relazioni.extend(D_relazioni)
+        all_relatori.extend(D_relatori)
+        dictionary[label] = '\n'.join(session)
+        dictionary[f'{label}_CHAIRMAN'] = sess_db['chairman']
+    db['_relazioni'] = dict(all_relazioni)
+    db['_relatori'] = dict(all_relatori)
     if debug and debug_section=='db':
         pprint(db)
         return
     LOGGER.info('db loaded')
-    dictionary, db, pr = read_programma_db(service,
-                                           SPREADSHEET_ID,
-                                           db,
-                                           SESSIONI)
-    if debug and debug_section=='dictionary':
+    if debug and debug_section=='program':
         pprint(dictionary)
         return
 
     write_out(PATH, PROG_FNAME , **dictionary)
 
-    make_speakers(service, SPREADSHEET_ID, db)
+    compose_speakers(all_relatori, db)
 
-    make_interventi(service,SPREADSHEET_ID,db, pr)
+    compose_interventi(all_relazioni, db)
 
 
 if __name__ == '__main__':

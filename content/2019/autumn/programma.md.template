@@ -17,23 +17,21 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
+XSponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
+css: .title-XXVI {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVI {{ font: 18px arial, sans-serif; text-align: center; }}
 
+###e-privacy 2019 - autumn edition
 
-###e-privacy 2019 - summer edition
+Il ** 3 e 4 ottobre 2019 ** (GIOVEDÌ e venerdì) a Bari, presso la
+Biblioteca dell'Ordine degli Avvocati.  si svolgerà **e-privacy 2019
+_autumn edition_**.
 
-Il ** 6 e 7 giugno 2019 ** (GIOVEDÌ e venerdì) a Torino,
-nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica.
-si svolgerà **e-privacy 2019
-_summer edition_**.
+Il tema guida della XXVI edizione di e-privacy è:
 
-Il tema guida della XXV edizione di e-privacy è:
-
-<strong>Nuove tecnologie di controllo<br/>ovvero di come il nascente
-sistema di social scoring vada oltre ogni pensabile profilazione.</strong>
+<div class="title-XXVI">"Dalle Istituzioni alla Blockchain"</div>
+<div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 
 
 ###Iscrizioni
@@ -49,47 +47,34 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 ### <a name="programma"></a>Programma del Convegno
 
-#### <a name="vem"></a>Giovedì 6 Giugno 2019 - mattina
+#### <a name="vem"></a>Giovedì 3 ottobre 2019 - mattina
 
- * Chairman: {CHAIRMAN_GIORNO1_MATTINA}
+ * Chairman: {G1M_CHAIRMAN}
  
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-{GIORNO1_MATTINA}
+{G1M}
 
-#### <a name="vep"></a>Giovedì 6 Giugno 2019 - pomeriggio
+#### <a name="vep"></a>Giovedì 3 Ottobre 2019 - pomeriggio
 
-* Chairman: {CHAIRMAN_GIORNO1_POMERIGGIO}
+* Chairman: {G1P_CHAIRMAN}
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-{GIORNO1_POMERIGGIO}
+{G1P}
 
-#### <a name="sam"></a>Venerdì 7 Giugno 2018 - mattina
+#### <a name="sam"></a>Venerdì 4 Ottobre 2018 - mattina
 
-* Chairman: {CHAIRMAN_GIORNO2_MATTINA}
+* Chairman: {G2M_CHAIRMAN}
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-{GIORNO2_MATTINA}
+{G2M}
 
+### Sede di e-privacy 2019 autumn edition
 
-#### <a name="vep"></a>Venerdì 7 Giugno 2019 - pomeriggio
-
-* Chairman: {CHAIRMAN_GIORNO2_POMERIGGIO}
-
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
-{GIORNO2_POMERIGGIO}
-
-### Sede di e-privacy 2019 summer edition
-
-La sede di e-privacy 2019 summer edition sarà la
- [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica.
-
-<!-- ![La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
+La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine degli Avvocati di Bari
 
 ### Gli organizzatori
 
