@@ -76,9 +76,6 @@ Vorrei raccontarvi la mia storia a le mie opinioni a riguardo.
 Le rivelazioni di Edward Snowden hanno definito "nuovi confini" nel mondo dell'Intelligence e delle Cyber Ops.
 
 Questa presentazione analizzera' i concetti di Data Breach e di violazione della Privacy dopo quello che viene chiamato il "Datagate Affair" (lo scandalo NSA) unitamente ai diversi incidenti ed episodi accaduti a Kiev e Caracas, per poi focalizzarsi sul concetto di Democrazia e Massive Information Control nel 21esimo secolo. 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 
 
 #### <a name="ciurcina"></a> Privacy e condivisione della conoscenza<a href="/e-privacy-XXVI-programma.html#1m04">⇧</a>
