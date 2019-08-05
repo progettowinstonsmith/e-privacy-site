@@ -3,7 +3,7 @@ Title: Dalle Istituzioni alla Blockchain
 Date: 2019-01-26 12:00:00
 Category: 2019
 lang: it
-Num: XXVII
+Num: XXVI
 Year: 2019
 slug: e-privacy-XXVI-relatori
 City: Bari

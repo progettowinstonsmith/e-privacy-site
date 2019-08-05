@@ -3,7 +3,7 @@ Title: Dalle Istituzioni alla Blockchain
 Date: 2019-08-05 13:00:00
 Category: 2019
 lang: it
-Num: XXVII
+Num: XXVI
 Year: 2019
 slug: e-privacy-XXVI-programma
 City: Bari
