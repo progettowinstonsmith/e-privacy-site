@@ -79,7 +79,7 @@ Diploma: Perito Industriale e Capotecnico in Elettrotecnica e Automazione  1997.
 
 #### <a name="augenti"></a> Adriana Augenti (Studio Legale Augenti Diasparro)
 
-ADRIANA AUGENTI è avvocato del Foro di Bari e si occupa in particolare di Tutela dei Dati Personali, Nuove Tecnologie, Internet Governance, Diritto Industriale e della Concorrenza e Proprietà Intellettuale. Segretario del Centro Studi Informatica Giuridica è DPO dell’Ordine degli Avvocati di Bari ed è consulente in materia di tutela dei dati personali per diverse Pubbliche Amministrazioni Locali e PMI. Ha esperienza decennale nella formazione anche postuniversitaria ed è stata relatrice in numerosissimi convegni sulle tematiche trattate. È autrice di pubblicazioni in materia.
+ADRIANA AUGENTI è avvocato del Foro di Bari e si occupa in particolare di Tutela dei Dati Personali, Nuove Tecnologie, Internet Governance, Diritto Industriale e della Concorrenza e Proprietà Intellettuale. Segretario del Centro Studi Informatica Giuridica è DPO dell’Ordine degli Avvocati di Bari ed è consulente in materia di tutela dei dati personali per diverse Pubbliche Amministrazioni Locali e PMI. Ha esperienza decennale nella formazione anche postuniversitaria ed è stata relatrice in numerosissimi convegni sulle tematiche trattate. È autrice di pubblicazioni in materia.Coordina l'attività dei Bari Legal Hackers.
 
 
 
