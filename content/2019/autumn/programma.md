@@ -17,7 +17,7 @@ Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
 Collaboratori: bba, comvilca
-XSponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
+Sponsor: sepel,sikurezza.org,ush,isgroup,lhb
 Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 css: .title-XXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVI { font: 18px arial, sans-serif; text-align: center; }

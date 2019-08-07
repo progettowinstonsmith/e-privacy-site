@@ -199,6 +199,7 @@ PARTNERS = {
     'ihc': ('Italian Hacker Camp', 'logoihc_filled.png', 'https://www.ihc.camp/'),
     'ogem': ('Ordine Giornalisti Emilia-Romagna', 'logo_ordine_giornalisti_bologna.png', 'http://odg.bo.it/'),
     'brat': ('Brat Cyber Security', 'logo_brat.png', 'https://www.bratsecurity.com/'),
+    'lhb': ('Legal Hackers Bari', 'logo_lhb.jpg', 'https://www.meetup.com/it-IT/Bari-Legal-Hackers/'),
 }
 
 
