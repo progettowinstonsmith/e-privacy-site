@@ -114,7 +114,7 @@ Si definisce la Blockchain  una soluzione informatica ancora in cerca di problem
 
 
 #### <a name="gobbato"></a> Dalla autentica digitale all'analisi predittiva del valore dell'opera tramite big data. Aspetti sottesi alla tecnologia nel mondo delle arti figurative<a href="/e-privacy-XXVI-programma.html#1m01">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#gobbato">Monica Gobbato (Monica Gobbato)</a> e <a href="/e-privacy-XXVI-relatori.html#desimio">Giacomo De Simio (Sme System s.r.l.)</a>*
+*<a href="/e-privacy-XXVI-relatori.html#gobbato">Monica Gobbato (Monica Gobbato)</a>, <a href="/e-privacy-XXVI-relatori.html#roberto">Alessia Roberto (Alessia Roberto)</a> e <a href="/e-privacy-XXVI-relatori.html#desimio">Giacomo De Simio (Sme System s.r.l.)</a>*
 
 Nella relazione "Dalla autentica digitale all'analisi predittiva del valore dell'opera tramite big data. Aspetti sottesi alla tecnologia nel mondo delle arti figurative" si esamineranno gli aspetti tecnologici e legali (data protection e business data comprese) sottesi alle nuove arti figurative come i progetti di tokenizzazione dell'opere, il trasferimento digitale delle autentiche e le analisi predittive tramite algoritmo del valore delle opere stesse. 
 Si analizzeranno quindi i progetti già esistenti sui temi sopraindicati fornendo gli aspetti legali e le possibili soluzioni, anche se del caso mediante Valutazioni d'impatto ai sensi del 35 del GDPR.

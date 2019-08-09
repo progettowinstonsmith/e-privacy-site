@@ -166,7 +166,19 @@ Digital Champion per il Comune di Camogli nel 2015.
 E’ autrice di diverse pubblicazioni, monografie e opere collettive, con diversi editori quali CEDAM, GIUFFRE’, Halley, FAG e altri consultabili   QUI
 
 Scrive per  StartUpItalia, Doctor33, Farmacista33,  Key4Biz
-www,monicagobbato.it www,privacyacademy.it
+www.monicagobbato.it www.privacyacademy.it
+
+
+
+#### <a name="roberto"></a> Alessia Roberto (Alessia Roberto)
+
+Patrocinatore legale dal 2011 – Consulente privacy per società ed enti pubblici.
+Dpo (Data Protection Officer) per Società (Centro Polispecialisto Pacini S.r.l. - Fondazione San Giuseppe Moscati Onlus e altre) e Pubbliche Amministrazioni (Comune di Opera (MI), Comune di Erbusco (BS), e altri).
+Svolge consulenza in ambito legale e privacy per società nei settori marketing ed e-commerce (Digital km zero S.r.l. - Frogmatica S.r.l. e altre)
+Docente a contratto in master di settore (Data Protection Specialist – Cybercrime) – Docente e formatore per società nell’ambito di progetti finanziati dall’Unione Europea (Randstad Italia S.p.a. - Sirio Consulenza S.r.l., ecc.).
+Formatore in ambito legale e privacy per società ed enti pubblici.
+Socio fondatore di Privacy Academy (Associazione di professionisti della privacy).
+Cofondatrice della community Legal Hackers Genova.
 
 
 
