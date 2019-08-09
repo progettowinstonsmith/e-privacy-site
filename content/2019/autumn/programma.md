@@ -37,7 +37,7 @@ Il tema guida della XXVI edizione di e-privacy è:
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+Iscrivendovi (dal link qui a destra) tuttavia ci aiuterete a gestire meglio la logistica.
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
