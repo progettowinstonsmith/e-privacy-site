@@ -24,10 +24,8 @@ MediaPartner: infomedia, radioradicale
 #### <a name="agostini"></a> VR,AR,XR: l'estensione tecno-mediata dei confini della realtà percepita<a href="/e-privacy-XXVI-programma.html#1m05">⇧</a>
 *<a href="/e-privacy-XXVI-relatori.html#agostini">Yvette Agostini </a>*
 
-Sottotitolo: 
 Riflessioni tecnologiche sui possibili impatti delle realtà virtuali immersive 
 
-Abstract
 L'avvento del 5G apre, dopo lunga attesa,  la strada a una maggiore diffusione della tecnologie immersive quali Virtual Reality (VR), Augmented Reality (AR) e eXtended Reality (XR), sino ad ora confinate tra il gaming/entertainment e le applicazioni professionali di elevatissima specializzazione.
 Quali impatti possono avere questo tipo di applicazioni (anche sulla privacy), sia in ambito consumer che in ambito industriale? 
 
