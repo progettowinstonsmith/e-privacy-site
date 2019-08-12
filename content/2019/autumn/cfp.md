@@ -9,7 +9,7 @@ Year: 2019
 City: Bari
 Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
-Season: autumn
+Season: autunno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2019
 prev: e-privacy-XXV-cfp
