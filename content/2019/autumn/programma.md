@@ -1,6 +1,6 @@
 Template: event
 Title: Dalle Istituzioni alla Blockchain
-Date: 2019-08-05 13:00:00
+Date: 2019-08-12 11:00:00
 Category: 2019
 lang: it
 Num: XXVI
