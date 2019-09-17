@@ -15,7 +15,7 @@ previd: 2019
 prev: e-privacy-XXV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
-Organizzatori: hermes,pws
+Organizzatori: pws,hermes
 Collaboratori: bba, comvilca
 Sponsor: sepel,sikurezza.org,ush,isgroup,lhb
 Patrocini: 
