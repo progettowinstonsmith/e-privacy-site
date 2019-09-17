@@ -118,8 +118,8 @@ Nella relazione "Dalla autentica digitale all'analisi predittiva del valore dell
 Si analizzeranno quindi i progetti già esistenti sui temi sopraindicati fornendo gli aspetti legali e le possibili soluzioni, anche se del caso mediante Valutazioni d'impatto ai sensi del 35 del GDPR.
 
 
-#### <a name="grisorio"></a> Delete: diritto all’oblio<a href="/e-privacy-XXVI-programma.html#1m06">⇧</a>
-*<a href="/e-privacy-XXVI-relatori.html#grisorio">Giuseppe Grisorio (Bitcoin Foundation Puglia)</a>*
+#### <a name="ricciuti"></a> Delete: diritto all’oblio<a href="/e-privacy-XXVI-programma.html#1m06">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#ricciuti">Alessandro Ricciuti (Bitcoin Foundation Puglia)</a>*
 
 Prima c’era l’uomo, con i suoi ricordi che il tempo sbiadiva. Poi è arrivato Internet, poi i social. In un mondo sempre più connesso i nostri dati finiscono in archivi digitali senza limiti o confini. Basiamo le nostre riflessioni e decisioni su quello che conosciamo e ricordiamo, ma se la nostra memoria è Internet nulla si potrà dimenticare e vivremo in un infinito presente. Possiamo con questi presupposti trovare il modo per esercitare il diritto all’oblio e chiedere alla rete di cancellarci in modo definitivo?
 
