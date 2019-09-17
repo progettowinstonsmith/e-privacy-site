@@ -64,7 +64,7 @@ Iscrivendovi (dal link qui a destra) tuttavia ci aiuterete a gestire meglio la l
 12:30|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#ricciuti">Alessandro Ricciuti (Bitcoin Foundation Puglia)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXVI-interventi.html#ricciuti">Delete: diritto all’oblio</a></em></span>
 13:00||<span class='talk'><em>*PAUSA PRANZO*</em></span>
 
-#### <a name="vep"></a>Giovedì 3 Ottobre 2019 - pomeriggio
+#### <a name="vep"></a>Giovedì 3 Ottobre 2019 - pomeriggio 
 
 * Chairman: <a href="/e-privacy-XXVI-relatori.html#augenti">Adriana Augenti (Studio Legale Augenti Diasparro)</a>
 
