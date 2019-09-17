@@ -101,8 +101,8 @@ La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine
 
 La manifestazione e’ organizzata da:
 
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori;
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
 
 e da altre organizzazioni, aziende ed associazioni.
 
