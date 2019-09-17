@@ -144,6 +144,15 @@ CI si propone di esaminare, fuor di retorica, la reale utilità di questo strume
 In parallelo, sarà esaminata secondo una ottica comparativa, la cripto-currency per eccellenza, il “bitcoin” per verificare se anche quest’ultima è soggetta alla possibilità di possedere un valore intrinseco e possa, quindi, definirsi moneta
 
 
+#### <a name="vacca"></a> LIBRA: una bilancia in equilibrio sulla privacy<a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
+*<a href="/e-privacy-XXVI-relatori.html#vacca">Manuela Vacca (Oohmm)</a>*
+
+In epoca di inarrestabile crescita dei big data l’impressionante mole di informazioni richiede una sintesi in grado di decifrare questa enorme realtà. 
+Rendere comprensibile, ad esempio, una sterminata distesa di scambi pubblici sui social media che interessa la vita democratica dei cittadini, permette di rivendicare il preciso diritto alla trasparenza. E ridurre il rumore delle conversazioni politiche per estrarne una sintesi intrisa di significato è diventata, specialmente nell’ultimo quinquennio, una necessaria pratica di democrazia e di rispetto della privacy. È possibile farlo adottando specifiche tecniche applicate agli algoritmi.
+La relazione proposta illustra, attraverso alcuni casi di studio, come la decifrazione di pacchetti di big data possa essere compiuta con azione etiche, riuscendo allo stesso tempo a leggere realtà complesse o addirittura mistificate, apparentemente sfuggenti ma ricche di significati da portare alla luce.
+
+
+
 
 
 

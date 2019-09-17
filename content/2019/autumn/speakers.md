@@ -219,3 +219,19 @@ Relatore in numerosi eventi dedicati a indagare la resistenza dell’ordinamento
 Sul piano professionale si è dedicato alla tutela dei diritti nell’era digitale, oltre ad aver avviato un servizio di consulenza mirato per le startup ad elevato valore tecnologico.
 
 
+#### <a name="gabriele"></a> Renato Gabriele (Oohmm)
+
+Renato Gabriele si è occupato di ICT e reti di computer dagli anni '90, per imprese e per pubbliche amministrazioni. Partecipa al progetto dadaista di Gilda35, sperimentando le dinamiche e le influenze sui Big Data dei social network. È stato membro dell'IBM WW Mid-Market Advisory Council e del comitato direttivo di IASA (International Association of System Architects). Fa parte di Bigdata42, spazio nato per usare i Big data su political bots e altri. È fondatore di Oohmm (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi 
+
+
+#### <a name="seno"></a> Giulia Seno (Giornalista)
+
+Giulia Seno è giornalista d'ANSA. Ha cominciato il mestieraccio in periodo di monopolio e lo esercita ancora oggi, quando le agenzie non sanno più che pesci prendere. Per questo si è messa a studiare quel che c'è online, tra open data e social media, a un'età in cui si pensa più all'ultima spiaggia che ai banchi di scuola. Online è anche la lavandaia.wordpress.com.
+Nata a Roma nel 1963, cresciuta in Perù, vive e lavora a Bologna. Pensa in italiano e spagnolo, ogni tanto parla un po' d'inglese. Ha aderito con entusiasmo a Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media 
+
+
+
+#### <a name="vacca"></a> Manuela Vacca  (Oohm)
+
+ Manuela Vacca, giornalista. PhD, addetto stampa della Regione Sardegna, come attivista per la diffusione della cultura dei dati aperti ha promosso le sei edizioni del Cagliari Open Data Day ed è impegnata su difesa della privacy e dalla sorveglianza globale. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
+
