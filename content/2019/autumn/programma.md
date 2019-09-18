@@ -34,6 +34,7 @@ Il tema guida della XXVI edizione di e-privacy è:
 <div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 
 
+
 ** La locandina dell'evento è disponibile [qui](https://e-privacy.winstonsmith.org/images/locandine/locandina_e-privacy_2019_autumn.pdf). **
 
 
