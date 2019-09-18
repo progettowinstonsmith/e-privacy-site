@@ -34,6 +34,13 @@ Il tema guida della XXVI edizione di e-privacy è:
 <div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
 
 
+** La locandina dell'evento è disponibile [qui](https://e-privacy.winstonsmith.org/images/locandine/locandina_e-privacy_2019_autumn.pdf). **
+
+
+###Crediti Formativi
+
+**  L'evento ha avuto il patrocinio morale dell'Ordine degli Avvocati di Bari; sono stati riconosciuti 9 crediti formativi per gli avvocati partecipanti (di qualsiasi Ordine provinciale), 3 per ogni mezza giornata. **
+
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
