@@ -233,5 +233,5 @@ Nata a Roma nel 1963, cresciuta in Perù, vive e lavora a Bologna. Pensa in ital
 
 #### <a name="vacca"></a> Manuela Vacca  (Oohm)
 
- Manuela Vacca, giornalista. PhD, addetto stampa della Regione Sardegna, come attivista per la diffusione della cultura dei dati aperti ha promosso le sei edizioni del Cagliari Open Data Day ed è impegnata su difesa della privacy e dalla sorveglianza globale. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
+Manuela Vacca, giornalista. PhD, già addetto stampa della Regione Sardegna e  attivista per la diffusione della cultura dei dati aperti (ha promosso le sette edizioni del Cagliari Open Data Day), è impegnata su difesa della privacy e libertà digitali. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
 
