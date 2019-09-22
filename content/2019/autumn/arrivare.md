@@ -18,13 +18,11 @@ Xnext: e-privacy-XVIII
 
 <h2>Sede di e-privacy XXVI</h2>
  
-Bbblioteca dell'Ordine degli Avvocati di Bari
+Biblioteca dell'Ordine degli Avvocati di Bari
 <br>
-presso
+VI piano, Palazzo di Giustizia, 
 <br>
-Palazzo di Giustizia
-<br>
-Piazza De Nicola
+Piazza Enrico De Nicola 1
 <br>
 70123 - Bari  
 <br>

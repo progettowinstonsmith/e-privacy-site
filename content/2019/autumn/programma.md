@@ -16,16 +16,17 @@ prev: e-privacy-XXV
 Xnextid: 2017W
 Xnext: e-privacy-XVIII
 Organizzatori: pws,hermes
+Patrocini: ordavvbari
 Collaboratori: bba, comvilca
 Sponsor: sepel,sikurezza.org,ush,isgroup,lhb
-Patrocini: 
 MediaPartner: infomedia,radioradicale,aneddotica
 css: .title-XXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVI { font: 18px arial, sans-serif; text-align: center; }
 
 ###e-privacy 2019 - autumn edition
 
 Il ** 3 e 4 ottobre 2019 ** (GIOVEDÌ e venerdì) a Bari, presso la
-Biblioteca dell'Ordine degli Avvocati.  si svolgerà **e-privacy 2019
+Biblioteca dell'Ordine degli Avvocati, VI piano Palazzo di Giustizia, Piazza Enrico De Nicola 1,
+si svolgerà **e-privacy 2019
 _autumn edition_**.
 
 Il tema guida della XXVI edizione di e-privacy è:
@@ -84,7 +85,7 @@ Iscrivendovi (dal link qui a destra) tuttavia ci aiuterete a gestire meglio la l
 16:05|20|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXVI-interventi.html#berto">Blockchain: dicotomia del consenso</a></em></span>
 16:25|30|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a> e <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a></a><br/><em><a name='1p04'></a><a href="/e-privacy-XXVI-interventi.html#dalchecco">Metodologie, procedure e limiti delle indagini forensi e di Polizia Giudiziaria su blockchain ed exchange</a></em></span>
 16:55|20|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#fallacara">Riccardo Fallacara (Bitcoin Foundation Puglia)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXVI-interventi.html#fallacara">Blockchain: problem or solving</a></em></span>
-16:55|75|<span class='talk'><a name='1p06'></a>Modera: <a href="/e-privacy-XXVI-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br>Partecipano:<em><a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a>, <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>, <a href="/e-privacy-XXVI-relatori.html#fallacara">Riccardo Fallacara (Bitcoin Foundation Puglia)</a>, e <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</em></a><br>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola1">Blockchain's out?</a></span>
+16:55|75|<span class='talk'><a name='1p06'></a>Modera: <a href="/e-privacy-XXVI-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br>Partecipano:<em><a href="/e-privacy-XXVI-relatori.html#dalchecco">Paolo Dal Checco (Consulente Informatico Forense)</a>, <a href="/e-privacy-XXVI-relatori.html#giordano">Marco Tullio Giordano (LT42)</a>, <a href="/e-privacy-XXVI-relatori.html#fallacara">Riccardo Fallacara (Bitcoin Foundation Puglia)</a>, <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</em></a>, Giuseppe Mastronardi (Politecnico di Bari) e Claudia Cascione (Università degli Studi di Bari)<br>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola1">Blockchain's out?</a></span>
 18:30||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 #### <a name="sam"></a>Venerdì 4 Ottobre 2018 - mattina
@@ -99,7 +100,7 @@ Iscrivendovi (dal link qui a destra) tuttavia ci aiuterete a gestire meglio la l
 10:40|45|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXVI-interventi.html#reale">Tokenizzare il panopticon. Privacy, sorveglianza e consenso nella società disintermediata</a></em></span>
 11:25|45|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXVI-interventi.html#chiesa">(Digital) Democracy and massive-control in the post-Snowden age</a></em></span>
 12:10|15|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#vacca">Manuela Vacca (Oohmm)</a><em><a name='2m04'></a><a href="/e-privacy-XXVI-interventi.html#vacca"></a>, <a href="/e-privacy-XXVI-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXVI-relatori.html#seno">Giulia Seno (Giornalista)</a><br><a href="/e-privacy-XXVI-interventi.html#vacca">Dal rumore alla conoscenza: l’etica e l’algoritmo per decifrare i big data</a></em></span>
-12:25|75|<span class='talk'>Modera: <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXVI-relatori.html#augenti">Adriana Augenti (Studio Legale Augenti Diasparro)</a>, <a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a>, <a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a> e <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><em><a name='2m05'></a>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola2">Social Overload</a></em></span>
+12:25|75|<span class='talk'>Modera: <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXVI-relatori.html#augenti">Adriana Augenti (Studio Legale Augenti Diasparro)</a>, <a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a>, <a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a>, Marco Bellezza e <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><em><a name='2m05'></a>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola2">Social Overload</a></em></span>
 13:40||<span class='talk'><em>*Chiusura*</em></span>
 
 ### Sede di e-privacy 2019 autumn edition
