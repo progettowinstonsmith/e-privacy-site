@@ -1,4 +1,3 @@
-Status: draft
 Title: FAQ per i relatori
 Date: 2019-01-26 12:00:00
 Category: 2019
@@ -11,12 +10,12 @@ Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: autunno
-previd: 2018W
-prev: e-privacy-XXIV
-nextid: 2018W
-next: e-privacy-XXIV
+previd: 2019S
+prev: e-privacy-XXV
+Xnextid: 2018W
+Xnext: e-privacy-XXV
 
-Questa FAQ è dedicata ai relatori di eprivacy 2019 summer edition Torino.
+Questa FAQ è dedicata ai relatori di eprivacy 2019 autumn edition Bari.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
 [http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
@@ -163,23 +162,21 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Giovedì 6:
+Giovedì 3:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Del Ninno, Gobbato/Nicotra,
-Ore 11.00 |  Gallus,Gargano/Albanese, Vaciago
-Ore 14.30 |  Esposito, Augenti/Scannicchio, Zugnaz
-Ore 16.00 |  Priolo, Marmo, Abeti, Zanoni, Criscuolo
+Ore 09.00 |  Gobbato/Roberto/De Simio,Prioloº,Ciurcina
+Ore 11.00 |  Ciurcina,Agostini,Ricciuti
+Ore 15.00 |  Scannicchio,Albanese,Berto
+Ore 16.00 |  Dal Checco, Fallacara,Giordani, Mastronardi, Cascione
 
-Venerdì 7:
+Venerdì 4:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 | Fabiano, Pusceddu, De Felice, Berto
-Ore 11.00 | Longo/Burgio, Bassoli, Pietrosanti
-Ore 14.30 | Ciurcina,Ferri, Collettivo,Tancini,Bernieri
-Ore 16.00 | Blengino,
+Ore 09.00 |  De Felice,Reale
+Ore 11.00 | Chiesa,Vacca/Gabriele/Seno/Gallus
 
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino
@@ -200,8 +197,8 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno giovedì 6 è **Diego Giorio**
-per il giorno venerdì 7 è **Emmanuele Somma**.
+Il referente dei relatori per il giorno giovedì 3 è **Marco Calamari**
+per il giorno venerdì 7 è **Adriana Augenti**.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza.
@@ -219,10 +216,10 @@ via email alla [segreteria](mailto:segreteria@winstonsmith.org)
 indicando le stesse informazioni nel soggetto del messaggio in questo
 modo:
 
-    Oggetto: JULIA - <COGNOME> - <GIORNO> - <TIPO>
+Oggetto: JULIA - <COGNOME> - <GIORNO> - <TIPO>
 
 ad esempio:
 
-    Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
+Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
 
 allegando il file al messaggio.

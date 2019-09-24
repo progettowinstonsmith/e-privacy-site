@@ -1,4 +1,3 @@
-Status: draft
 Template: event
 Title: Upload slides
 Date: 2019-01-26 12:00:00
@@ -16,4 +15,4 @@ previd: 2019
 prev: e-privacy-XXV
 
 
-Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbynQ-F5MLra2McR8pKSR7CbOMr4RaeeUwfMEGL4_Q/exec) con la password fornita ai relatori.
+Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbyPjx_sSkI8Zjyqy0LYY0II6co5a6TOao6kE_LT/exec) con la password fornita ai relatori.
