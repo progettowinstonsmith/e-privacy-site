@@ -32,7 +32,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 31 Maggio, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 29 settembre, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -60,7 +60,7 @@ referenti dei relatori.](#contrattempidurante)
 Certamente!
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il  31 maggio** in formato PDF obbligatoriamente (se consegnate anche
+il  29 settembre** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
@@ -166,8 +166,8 @@ Giovedì 3:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Gobbato/Roberto/De Simio,Prioloº,Ciurcina
-Ore 11.00 |  Ciurcina,Agostini,Ricciuti
+Ore 09.00 |  Gobbato/Roberto/De Simio,Priolo,Ciurcina
+Ore 11.00 |  Agostini,Ricciuti
 Ore 15.00 |  Scannicchio,Albanese,Berto
 Ore 16.00 |  Dal Checco, Fallacara,Giordani, Mastronardi, Cascione
 
@@ -198,10 +198,13 @@ nella peggiore delle ipotesi, rimanere vuoto.
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
 Il referente dei relatori per il giorno giovedì 3 è **Marco Calamari**
-per il giorno venerdì 7 è **Adriana Augenti**.
+per il giorno venerdì 4 è **Adriana Augenti**.
 
-Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
-per qualsiasi evenienza.
+Dovreste giàaver ricevuto i numeri di cellulare via email, comunque quello di
+
+Marco Calamari  347/8530279 (solo SMS)
+
+Registrateli per qualsiasi evenienza.
 
 **È inutile telefonare!**
 
