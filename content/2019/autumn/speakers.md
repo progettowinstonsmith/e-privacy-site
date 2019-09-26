@@ -235,3 +235,8 @@ Nata a Roma nel 1963, cresciuta in Perù, vive e lavora a Bologna. Pensa in ital
 
 Manuela Vacca, giornalista. PhD, già addetto stampa della Regione Sardegna e  attivista per la diffusione della cultura dei dati aperti (ha promosso le sette edizioni del Cagliari Open Data Day), è impegnata su difesa della privacy e libertà digitali. Fa parte di Bigdata42, spazio nato per usare i Big Data su political bots e altro, e di OOHMM (Observatory of Online Harassment and Media Manipulation), osservatorio online sugli abusi e sulla manipolazione dei media e dei social.
 
+
+
+#### <a name="gargano"></a> Nicola Gargano 
+
+Nicola Gargano, avvocato in Bari e Milano, consigliere referente informatico per l'ordine degli avvocati di Bari, socio fondatore dell'associazione Amadir  e CSPT di cui è attualmente vicepresidente. Componente del comitato scientifico del portale ilprocessotelematico.it e autore di numero articoli e pubblicazioni sul processo telematico. Già relatore in numerosi convegni in tema di Processo Telematico e Privacy.
