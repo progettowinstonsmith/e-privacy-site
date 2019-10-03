@@ -36,6 +36,9 @@ Il tema guida della XXVI edizione di e-privacy è:
 
 
 
+** Streaming audio [qui](http://abbiamoundominio.org:8000/live.mp3). **
+
+
 ** La locandina dell'evento è disponibile [qui](https://e-privacy.winstonsmith.org/images/locandine/locandina_e-privacy_2019_autumn.pdf). **
 
 
