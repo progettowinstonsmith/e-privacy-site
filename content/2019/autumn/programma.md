@@ -24,7 +24,9 @@ css: .title-XXVI { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 ###e-privacy 2019 - autumn edition
 
-** Pubblicate le relazioni della prima e della seconda giornata.  **
+** Pubblicate le relazioni ed i file audio della prima e della seconda giornata.  **
+
+** La locandina dell'evento è disponibile [qui](https://e-privacy.winstonsmith.org/images/locandine/locandina_e-privacy_2019_autumn.pdf). **
 
 Il ** 3 e 4 ottobre 2019 ** a Bari, presso la
 Biblioteca dell'Ordine degli Avvocati, VI piano Palazzo di Giustizia, Piazza Enrico De Nicola 1,
@@ -35,8 +37,6 @@ Il tema guida della XXVI edizione di e-privacy è stato:
 
 <div class="title-XXVI">"Dalle Istituzioni alla Blockchain"</div>
 <div class="subtitle-XXVI">Condivisione, fiducia, consenso e delega attraverso la tecnologia in un mondo senza privacy?</div>
-
-** La locandina dell'evento è disponibile [qui](https://e-privacy.winstonsmith.org/images/locandine/locandina_e-privacy_2019_autumn.pdf). **
 
 
 ### <a name="programma"></a>Programma del Convegno e relazioni presentate
@@ -49,6 +49,15 @@ Icona | Descrizione | Icona | Descrizione
 ![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![URL](/images/icon/link.png) | Link online |
 ![pdf](/images/icon/handouts.png) | Handouts| ![mp3](/images/icon/audio.png) | Audio |
 ![mp4](/images/icon/video.png) | Video
+
+File audio del convegno:
+
+(un problema tecnico ha corrotto le registrazioni dei primi due interventi, abbiamo recuperato quanto possibile e ci scusiamo con i relatori e con voi)
+
+- mattina del 3 [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2019we/audio/rec_20191003-103310.mp3)
+- pomeriggio del 3 [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2019we/audio/rec_20191003-151430.mp3)
+- mattina del 4 [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2019we/audio/rec_20191004-102605.mp3) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2019we/audio/rec_20191004-121127.mp3)
+
 
 #### <a name="vem"></a>Giovedì 3 ottobre 2019 - mattina
 
