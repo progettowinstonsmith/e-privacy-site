@@ -26,7 +26,7 @@ css: .title-XXVI { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 ** Pubblicate le relazioni della prima e della seconda giornata.  **
 
-Il ** 3 e 4 ottobre 2019 ** (GIOVEDÌ e venerdì) a Bari, presso la
+Il ** 3 e 4 ottobre 2019 ** a Bari, presso la
 Biblioteca dell'Ordine degli Avvocati, VI piano Palazzo di Giustizia, Piazza Enrico De Nicola 1,
 si è svolta **e-privacy 2019
 _autumn edition_**.
@@ -93,13 +93,13 @@ Icona | Descrizione | Icona | Descrizione
 10:20|20|<span class='talk'>[![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2019we/atti/ep2019ae_32_de_felice_blockchain_dlt.pptx) <a href="/e-privacy-XXVI-relatori.html#defelice">Alfredo De Felice (CRC Lex)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXVI-interventi.html#defelice">Blockchain e DLT: un nuovo approccio all'identità digitale</a></em></span>
 10:40|45|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXVI-interventi.html#reale">Tokenizzare il panopticon. Privacy, sorveglianza e consenso nella società disintermediata</a></em></span>
 11:25|45|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXVI-interventi.html#chiesa">(Digital) Democracy and massive-control in the post-Snowden age</a></em></span>
-12:10|15|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#vacca">Manuela Vacca (Oohmm)</a><em><a name='2m04'></a><a href="/e-privacy-XXVI-interventi.html#vacca"></a>, <a href="/e-privacy-XXVI-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXVI-relatori.html#seno">Giulia Seno (Giornalista)</a><br><a href="/e-privacy-XXVI-interventi.html#vacca">Dal rumore alla conoscenza: l’etica e l’algoritmo per decifrare i big data</a></em></span>
-12:25|75|<span class='talk'>Modera: <a href="/e-privacy-XXVI-relatori.html#augenti">Adriana Augenti (Studio Legale Augenti Diasparro)</a><br/>Partecipano: <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a>, <a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a>, Marco Bellezza (Consulente M.I.S.E.) e <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><em><a name='2m05'></a>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola2">Social Overload</a></em></span>
+12:10|15|<span class='talk'><a href="/e-privacy-XXVI-relatori.html#vacca">Manuela Vacca (Oohmm)</a><em><a name='2m04'></a><a href="/e-privacy-XXVI-interventi.html#vacca"></a>, <a href="/e-privacy-XXVI-relatori.html#gabriele">Renato Gabriele (Oohmm)</a> e <a href="/e-privacy-XXVI-relatori.html#seno">Giulia Seno (Giornalista)</a><br><a href="/e-privacy-XXVI-interventi.html#vacca">Dal rumore alla conoscenza: l’etica e l’algoritmo per decifrare i big data</a></em><br>Intervento non tenuto</span>
+12:25|75|<span class='talk'>Modera: <a href="/e-privacy-XXVI-relatori.html#augenti">Adriana Augenti (Studio Legale Augenti Diasparro)</a><br/>Partecipano: <a href="/e-privacy-XXVI-relatori.html#calamari">Marco A. L. Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXVI-relatori.html#reale">Roberto Reale (Libero professionista)</a>, <a href="/e-privacy-XXVI-relatori.html#chiesa">Raoul Chiesa (Security Brokers)</a> e <a href="/e-privacy-XXV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a><br/><em><a name='2m05'></a>Tavola Rotonda: <a href="/e-privacy-XXVI-interventi.html#tavola2">Social Overload</a></em></span>
 13:40||<span class='talk'><em>*Chiusura*</em></span>
 
 ### Sede di e-privacy 2019 autumn edition
 
-La sede di e-privacy 2019 XXVI autumn edition sarà la la Biblioteca dell'Ordine degli Avvocati di Bari
+La sede di e-privacy 2019 XXVI autumn edition è stata la la Biblioteca dell'Ordine degli Avvocati di Bari
 
 ### Gli organizzatori
 
@@ -110,15 +110,3 @@ La manifestazione e’ organizzata da:
 
 e da altre organizzazioni, aziende ed associazioni.
 
-
-### Contatti
-
-Per contatti generali e per la
-stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
-per i relatori
-[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-
-Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
-disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
-
-**Vi aspettiamo**.

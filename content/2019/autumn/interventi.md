@@ -144,7 +144,7 @@ CI si propone di esaminare, fuor di retorica, la reale utilità di questo strume
 In parallelo, sarà esaminata secondo una ottica comparativa, la cripto-currency per eccellenza, il “bitcoin” per verificare se anche quest’ultima è soggetta alla possibilità di possedere un valore intrinseco e possa, quindi, definirsi moneta
 
 
-#### <a name="vacca"></a> LIBRA: una bilancia in equilibrio sulla privacy<a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
+#### <a name="vacca"></a> Dal rumore alla conoscenza: l’etica e l’algoritmo per decifrare i big data <a href="/e-privacy-XXVI-programma.html#1p01">⇧</a>
 *<a href="/e-privacy-XXVI-relatori.html#vacca">Manuela Vacca (Oohmm)</a>*
 
 In epoca di inarrestabile crescita dei big data l’impressionante mole di informazioni richiede una sintesi in grado di decifrare questa enorme realtà. 
