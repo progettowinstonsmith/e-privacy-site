@@ -92,23 +92,23 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
-upload: publish	
+upload: publish
 	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
 	# ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali
 
 
-rsync_upload: publish 
+rsync_upload: publish
 	rsync -e "ssh  -Y -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	# ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /var/www/urna.winstonsmith.info/materiali/ $(SSH_TARGET_DIR)/materiali"
+	 ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /home/sites/urna.winstonsmith.org/site/materiali/ $(SSH_TARGET_DIR)/materiali"
 	# ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf 2015.html $(SSH_TARGET_DIR)/2015"
 	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
 
 # --usermap=ampleforth:www-data --groupmap=ampleforth:www-data
 
-commit: 
+commit:
 	git pull
 	git commit -a -m step
-	git push 
+	git push
 	git status
 
 
