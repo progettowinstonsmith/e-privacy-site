@@ -11,8 +11,8 @@ Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
+previd: 2019W
+prev: e-privacy-XXVI
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHWsf7jjI_0c5zbRDK7padoMEYIz-ZmpRzBzQcGqrBlpjzNQ/viewform?embedded=true" width="700" height="800" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
+<iframe src="https://forms.gle/FYmgxAhhiGZAfwco8" width="700" height="800" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
