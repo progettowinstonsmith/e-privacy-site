@@ -20,11 +20,11 @@ Il convegno *e-privacy* è organizzato da:
 
 PER FAVORE CONTATTATECI ESCLUSIVAMENTE VIA EMAIL ALL'INDIRIZZO
 
-[EPRIVACY@WINSTONSMITH.ORG](mailto:eprivacy@winstonsmith.org)
+[eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org)
 
 Solo i relatori
 
-[CFP-EPRIVACY@WINSTONSMITH.ORG](mailto:cfp-eprivacy@winstonsmith.org)
+[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org)
 
 
 
