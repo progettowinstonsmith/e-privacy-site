@@ -19,7 +19,7 @@ next:
 Questa FAQ è dedicata ai relatori di eprivacy 2020 summer edition Firenze.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
-[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html)
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
@@ -83,7 +83,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -108,7 +108,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -163,23 +163,23 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Giovedì 6:
+Venerdì 15:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 |  Del Ninno, Gobbato/Nicotra,
-Ore 11.00 |  Gallus,Gargano/Albanese, Vaciago
-Ore 14.30 |  Esposito, Augenti/Scannicchio, Zugnaz
-Ore 16.00 |  Priolo, Marmo, Abeti, Zanoni, Criscuolo
+Ore 09.00 |  
+Ore 11.00 |  
+Ore 14.30 |  
+Ore 16.00 |  
 
-Venerdì 7:
+Sabato 16:
 
 Blocco | Relatori
 ---- | ----
-Ore 09.00 | Fabiano, Pusceddu, De Felice, Berto
-Ore 11.00 | Longo/Burgio, Bassoli, Pietrosanti
-Ore 14.30 | Ciurcina,Ferri, Collettivo,Tancini,Bernieri
-Ore 16.00 | Blengino,
+Ore 09.00 | 
+Ore 11.00 | 
+Ore 14.30 |
+Ore 16.00 | 
 
 
 È gradito che i relatori non lascino il tavolo dopo l'intervento fino

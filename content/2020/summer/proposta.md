@@ -1,6 +1,6 @@
 Template: event
 Title: Proposta Talk
-Date: 2020-01-26 12:00:00
+Date: 2020-01-26 13:00:00
 Category: 2020
 lang: it
 Num: XXVII
