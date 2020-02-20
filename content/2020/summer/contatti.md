@@ -3,6 +3,11 @@ Title: Contatti
 Date: 2020-01-26 12:00:00
 Category: 2020
 lang: it
+Num: XXVII
+Year: 2020
+City: Firenze
+Where: Sala della Miniatura<br/>Palazzo Vecchio
+When: 15-16 maggio
 slug: contatti-XXVII
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
