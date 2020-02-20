@@ -64,7 +64,7 @@ THIS = (
     # ('Come arrivare', '/e-privacy-XXVI-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
-     ('Contatti', '/contatti-XXVI.html'),
+     ('Contatti', '/contatti-XXVII.html'),
 )
 
 ISCRIVITI='''
