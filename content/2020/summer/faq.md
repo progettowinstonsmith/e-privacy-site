@@ -1,16 +1,16 @@
 XStatus: draft
 Title: FAQ per i relatori
 Date: 2020-01-27 12:00:00
+slug: e-privacy-XXVII-faq-relatori
 Category: 2020
 lang: it
 Num: XXVII
 Year: 2020
-slug: e-privacy-XXVII-faq-relatori
 City: Firenze
 Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
+Season: spring
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
 previd: 2019W
 prev: e-privacy-XXIV
 nextid:
