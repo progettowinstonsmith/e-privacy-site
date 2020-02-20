@@ -99,7 +99,7 @@ Le slides NON saranno stampate ma verranno divulgate online dopo
 l'evento in un formato adatto alla stampa. In particolare in queste
 slide dovrebbero essere eliminate tutte le eventuali animazioni o
 transizioni presenti nelle slides proiettabili (programmi come Keynote
-o Power Point hanno opzioni specifiche per realizzare gli handout
+o Power Point hanno opzioni specifiche per realizzare gli handout 
 delle slides).
 
 Come per le slide proiettabili nella consegna dei file rispetta le
