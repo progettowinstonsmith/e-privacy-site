@@ -22,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2029 autumn: Dalle Istituzioni alla Blockchain'
+SITENAME = u'e-privacy 2020 spring: Algoritmi, automatismi e predizioni'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
@@ -33,8 +33,8 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2019'
-EDITION = 'autumn'
+YEAR = u'2020'
+EDITION = 'spring'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -49,19 +49,19 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2019 - AUTUMN"
+THIS_TITLE = "EPRIVACY 2020 - SPRING"
 
 THIS = (
-     ('Il programma', '/e-privacy-XXVI-programma.html'),
-     ('Gli interventi', '/e-privacy-XXVI-interventi.html'),
-     ('I relatori', '/e-privacy-XXVI-relatori.html'),
-     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
+    # ('Il programma', '/e-privacy-XXVI-programma.html'),
+    # ('Gli interventi', '/e-privacy-XXVI-interventi.html'),
+    # ('I relatori', '/e-privacy-XXVI-relatori.html'),
+    # ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
     # ('Proposta Talk', '/e-privacy-XXVI-proposta.html'),
     # ('Call for Paper', '/e-privacy-XXVI-cfp.html'),
     # ('Slides', '/e-privacy-XXIV-programma-slides.html'),
-     ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
-     ('FAQ per i relatori', '/e-privacy-XXVI-faq-relatori.html'),
-     ('Come arrivare', '/e-privacy-XXVI-come-arrivare.html'),
+    # ('Call for Sponsor', '/e-privacy-XXIV-cfs.html'),
+     ('FAQ per i relatori', '/e-privacy-XXVII-faq-relatori.html'),
+    # ('Come arrivare', '/e-privacy-XXVI-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
      ('Contatti', '/contatti-XXVI.html'),
@@ -79,6 +79,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2019 summer XXVI', '/e-privacy-XXVI.html'),
     ('e-privacy 2019 summer XXV', '/e-privacy-XXV.html'),
     ('e-privacy 2018 winter XXIV', '/e-privacy-XXIV.html'),
     ('e-privacy 2018 summer XXIII', '/e-privacy-XXIII.html'),

@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Title: Nuove tecnologie di controllo
+Title: Algoritmi, automatismi e predizioni
 Date: 2020-02-19 13:00:00
 Category: 2020
 lang: it
@@ -8,20 +8,20 @@ Num: XXVII
 Year: 2020
 slug: e-privacy-XXVII-cfp
 City: Firenze
-Where: Politecnico, Aula Ciminiera
+Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: spring
-previd: 2018W
-prev: e-privacy-XXIV
-nextid: 2020W
-next: e-privacy-XXVII
+previd: 2019W
+prev: e-privacy-XXVI
+nextid: 
+next:
 Organizzatori: hermes,pws
-Collaboratori: bba, comvilca
+Collaboratori: bba
 XSponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
-timeline: 15 marzo | 31 marzo | 31 maggio
+timeline: 30 marzo | 10 aprile | 15 maggio
 css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; }
 
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
@@ -80,9 +80,6 @@ Quale valore può avere la testimonianza di un Assistente Virtuale?
 
 Ma soprattutto, dove finisce la responsabilità, che accompagna e deve
 accompagnare ogni potere ?
-
-
-
 
 
 # Il convegno

@@ -1,4 +1,4 @@
-Status: draft
+XStatus: draft
 Title: FAQ per i relatori
 Date: 2020-01-26 12:00:00
 Category: 2020
@@ -11,10 +11,10 @@ Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
+previd: 2019W
 prev: e-privacy-XXIV
-nextid: 2018W
-next: e-privacy-XXIV
+nextid:
+next:
 
 Questa FAQ è dedicata ai relatori di eprivacy 2020 summer edition Firenze.
 
