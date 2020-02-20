@@ -1,6 +1,7 @@
+Template: event
 XStatus: draft
 Title: FAQ per i relatori
-Date: 2020-01-27 12:00:00
+Date: 2020-02-20 12:00:00
 slug: e-privacy-XXVII-faq-relatori
 Category: 2020
 lang: it
