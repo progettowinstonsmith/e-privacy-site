@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2019/08/03 09:30'
+EVENT_TIME = '2020/05/15 09:30'
 
 COUNTDOWN = False
 
@@ -22,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2019 autumn: Dalle Istituzioni alla Blockchain'
+SITENAME = u'e-privacy 2029 autumn: Dalle Istituzioni alla Blockchain'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
