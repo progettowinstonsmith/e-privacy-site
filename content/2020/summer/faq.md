@@ -1,6 +1,6 @@
 XStatus: draft
 Title: FAQ per i relatori
-Date: 2020-01-26 12:00:00
+Date: 2020-01-27 12:00:00
 Category: 2020
 lang: it
 Num: XXVII
