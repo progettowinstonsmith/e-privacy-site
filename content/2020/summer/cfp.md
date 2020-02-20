@@ -2,16 +2,16 @@ Template: event
 XStatus: draft
 Title: Algoritmi, automatismi e predizioni
 Date: 2020-02-19 13:00:00
+slug: e-privacy-XXVII-cfp
 Category: 2020
 lang: it
 Num: XXVII
 Year: 2020
-slug: e-privacy-XXVII-cfp
 City: Firenze
 Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: spring
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2019W
 prev: e-privacy-XXVI
 nextid: 
