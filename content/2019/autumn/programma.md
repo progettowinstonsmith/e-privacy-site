@@ -13,8 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2019
 prev: e-privacy-XXV
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
+nextid: 2020
+next: e-privacy-XVII
 Organizzatori: pws,hermes
 Patrocini: ordavvbari
 Collaboratori: bba, comvilca
