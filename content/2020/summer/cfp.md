@@ -1,8 +1,8 @@
 Template: event
 XStatus: draft
 Title: Algoritmi, automatismi e predizioni
-Date: 2020-02-20 13:00:00
-slug: e-privacy-XXVII-cfp
+Date: 2020-02-21 13:00:00
+slug: e-privacy-XXVII
 Category: 2020
 lang: it
 Num: XXVII
