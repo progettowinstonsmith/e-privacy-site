@@ -1,11 +1,11 @@
 Template: event
 Title: Dalle Istituzioni alla Blockchain
-Date: 2019-08-12 11:00:00
+Date: 2019-10-12 11:00:00
 Category: 2019
 lang: it
 Num: XXVI
 Year: 2019
-slug: e-privacy-XXVI-programma
+slug: e-privacy-XXVI
 City: Bari
 Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
 When: 3-4 ottobre
