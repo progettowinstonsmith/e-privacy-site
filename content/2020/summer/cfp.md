@@ -28,6 +28,47 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 <br/>
 
+## e-privacy XXVII @ ANYWHERE
+
+
+Caro Relatore, cari partecipanti,
+
+il CfP per questa edizione di e-privacy sta per chiudersi, ma molto
+ è cambiato dal suo inizio.
+<br>
+L'emergenza che stiamo tutti attraversando ha trasformato il mondo,
+ ed ha fatto saltare programmazioni e certezze.
+<br>
+E' per questo motivo che, di fronte all'impossibilità di fare
+ e-privacy con le consuete modalità, abbiamo deciso di 
+ reagire non annullando o rimandando l'evento, ma virtualizzandolo.
+<br>
+Contiamo di tenere invece regolarmente l'edizione autunnale a Firenze
+<br><br>
+Per questa edizione primaverile utilizzeremo quindi un software di
+ videoconferenza per la gestione dei relatori e degli interventi,
+ ed uno streaming su Youtube per i partecipanti. 
+<br>
+Ti chiediamo quindi, nel caso volessi inviare una proposta, di
+ tener conto della nuova modalità di erogazione.
+<br>
+A coloro che hanno già presentato una proposta, chiediamo di
+ confermarci la disponibilità a tenere il loro intervento
+ da remoto.
+<br>
+E' anche possibile registrare in autonomia l'intervento per
+ riprodurlo durante il Convegno.
+<br><br>
+** e-privacy XXVII si terrà quindi nelle date previste del 15 e 16
+ maggio, con eventuali adattamenti di orario in relazione al numero
+ degli interventi. **
+<br><br>
+Maggiori dettagli e modalità di partecipazione, sia come relatore
+ che come partecipante, saranno pubblicate su questo sito
+
+Ti ringraziamo fin da ora per la tua collaborazione.
+
+# Call for Papers
 
 Il Progetto Winston Smith e l’Hermes Center for Transparency and
 Digital Human Rights sono lieti di invitarti come relatore
