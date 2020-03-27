@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: Algoritmi, automatismi e predizioni
-Date: 2020-02-21 13:00:00
+Date: 2020-02-21 14:00:00
 slug: e-privacy-XXVII
 Category: 2020
 lang: it
