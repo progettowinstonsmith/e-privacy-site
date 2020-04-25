@@ -1,8 +1,7 @@
-Status: Draft
 Template: event
-Title:Parole (Ostili) contro la RETE
+Title: Nuove tecnologie di controllo
 Date: 2020-01-26 12:00:00
-Category: 2020
+Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
@@ -12,13 +11,13 @@ Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
-Organizzatori: pws,hermes
-Collaboratori: bba
+Organizzatori: hermes,pws
+previd: CALL
+prev: e-privacy-XXVII-cfp
+previd: 2019W
+prev: e-privacy-XXVI
 MediaPartner: infomedia, radioradicale
+css: .title-XXVII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVII {{ font: 18px arial, sans-serif; text-align: center; }}
 
 ## <a name="speakers"></a>I chairman
 
@@ -61,7 +60,6 @@ collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
 Digitali ed è militante del Partito Radicale. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
 Internet wealth".
-
 
 ## <a name="speakers"></a>I relatori
 

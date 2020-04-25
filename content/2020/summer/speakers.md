@@ -1,8 +1,7 @@
-Status: Draft
 Template: event
-Title:Parole (Ostili) contro la RETE
+Title: Nuove tecnologie di controllo
 Date: 2020-01-26 12:00:00
-Category: 2020
+Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
@@ -12,13 +11,13 @@ Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
-Organizzatori: pws,hermes
-Collaboratori: bba
+Organizzatori: hermes,pws
+previd: CALL
+prev: e-privacy-XXVII-cfp
+previd: 2019W
+prev: e-privacy-XXVI
 MediaPartner: infomedia, radioradicale
+css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; }
 
 ## <a name="speakers"></a>I chairman
 
@@ -33,10 +32,11 @@ dove collabora a progetti di software libero come Freenet, Mixmaster,
 Mixminion, Tor & GlobaLaks.
 
 E' il fondatore del Progetto Winston Smith e tra i fondatori
-dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
+dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
 Dal 2002 organizza il convegno "e-privacy" dedicato alla
-privacy in Rete e fuori, ed e' editorialista di <a href="https://www.punto-informatico.it/?s=cassandra+calamari"> "Punto Informatico"</a> e <a href="https://cse.google.it/cse?cx=partner-pub-8103963444977960:5422901670&ie=ISO-8859-15&q=cassandra+calamari&sa=Cerca&ref="> "ZeusNews"</a>
-dove pubblica la rubrica settimanale "Cassandra Crossing".
+privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
+dove pubblica la rubrica settimanale 
+<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
 
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
@@ -61,356 +61,116 @@ Digitali ed è militante del Partito Radicale. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
 Internet wealth".
 
-
 ## <a name="speakers"></a>I relatori
 
-#### <a name="collettivo"></a> (è un nome collettivo) (è un nome collettivo) (Presunto Presupposto Collettivo Cisti)
-
-cisti.org è un network radicale autogestito rivolto alla comunità
-torinese, al cui interno si costruiscono alternative alle piattaforme
-corporative, mettendo al centro la tutela della privacy.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#collettivo">A spasso nel fediverso, la nostra esperienza con Mastodon</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p05">15:10 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="abeti"></a> Riccardo Abeti (CSIG Ivrea-Firenze)
-
-Riccardo Abeti ama definirsi "tecno-avvocato" in quanto esperto di leggi relative all'Information e Communication Technology. Founding partner di EXPLegal, dal 2008 presiede la Commissione "New Technology, Personal Data and Communication Law" dell'Unione Avvocati Europei. Approfondisce e risolve problematiche di "diritto delle nuove tecnologie", nella quotidianità del lavoro, nell'ambito di pubblicazioni specializzate e per le associazioni di cui è membro (UAE - Unione Avvocati Europei e CSIG Ivrea-Firenze). Con l'avvento del Regolamento UE 2016/679 in materia di protezione dei dati, è stato designato quale Responsabile per la protezione dei dati di alcune importanti realtà produttive nazionali.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#abeti">Le informazioni migliorano la user experience ma poi lo user ne perde totalmente il controllo</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p07">16:40 di Giovedì</a>.<br/><br/>
-
-
-
-#### <a name="albanese"></a> Graziano Albanese
-
-Graziano Albanese, consulenti informatico amministratore di reti e sistemi. Esperto di sicurezza informatica  delle connettività LAN e WAN e dei processi di Office Automation. Consulente in outsourcing per la progettazione e realizzazione di impianti di comunicazione integrata.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m6">11:20 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#albanese">Graziano Albanese</a>.<br/><br/>
-
-
-
-#### <a name="alovisio"></a> Mauro Alovisio (Centro Studi di informatica Giuridica di Ivrea Firenze)
-
-Mauro Alovisio, professore di corsi di perfezionamento universitario in materia di protezione dei dati personali, fellow del Centro di ricerca Nexa e direttore del Centro di Informatica Giuridica di Ivrea Firenze e autore di pubblicazioni in materia di videosorveglianza ; Riccardo Abeti, legale specializzato nel diritto delle nuove tecnologie, componente del Centro Studi di informatica di Ivrea Firenze e dell'Unione degli Avvocati Europei
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#alovisio">La tutela della sfera privata on line: gli scenari del regolamento e-privacy, gli strumenti di tutela ai tempi del GDPR</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m7">11:45 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="bba"></a> Hermes Center for Transparency and Digital Human Rights
-
-Our mission is to promote and develop in the society the awareness of and the attention to transparency and accountability, be they related to the society-at-large or not. Our goal is to increase the citizens’ involvement in the management of matters of public interest and to boost the active participation of workers and employees to the correct management of corporations and companies they work for.
-
-
-Accordingly, the Hermes Center for Transparency and Digital Human Rights mission includes;
-
-Supporting and developing free software with the purpose of increasing the Freedom of Speech online and, more in general, the protection of rights and personal freedom in a connected world;
-Supporting and developing the whistleblowing free-software solution named “GlobaLeaks” aimed at private and public organizations which shall be free to adopt the same software for their initiatives;
-Taking part in associations or organizations which share the same goals as the Hermes Center for Transparency and Digital Human Rights in the field of promotion and protection of civil liberties, anonymity in a connected world, whistleblowing, freedom of speech and investigative journalism;
-Supporting the development and promotion of the Tor2web project and of the TOR network and tools thereof in general;
-Supporting the development and actual management of the LeakDirectory website, listing whistleblowing websites;
-Hosting or attending events aimed at increasing the culture of Transparency (i.e., public-interest whistleblowing, OpenData, OpenGovernment etc.)
-
-In no event shall the Hermes Center for Transparency and Digital Human Rights gather and/or solicit secret or sensitive information, while it reserves the right to evaluate whether to give technical support to entities which are involved in such activities, provided that the Board so decides.
-
-The Hermes Center for Transparency and Digital Human Rights, in order to pursue its goals, may decide to apply for membership in other organizations and/or to co-operate with entities whose mission does not conflict with the goals of the Hermes Center for Transparency and Digital Human Rights.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#bba">Big Brother Award</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m9">12:20 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="augenti"></a> Adriana Augenti
-
-ADRIANA AUGENTI è avvocato del Foro di Bari e si occupa in particolare di Tutela dei Dati Personali, Nuove Tecnologie, Internet Governance, Diritto Industriale e della Concorrenza e Proprietà Intellettuale. Segretario del Centro Studi Informatica Giuridica è DPO dell’Ordine degli Avvocati di Bari ed è consulente in materia di tutela dei dati personali per diverse Pubbliche Amministrazioni Locali e PMI. Ha esperienza decennale nell’ambito della formazione anche postuniversitaria ed è stata relatrice in numerosissimi convegni sulle tematiche trattate. È autrice di pubblicazioni in materia.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p03">15:10 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
-
-
-
-#### <a name="bassoli"></a> Elena Bassoli (ANGIF)
-
-Elena Bassòli, Avvocato in Genova, Professore a contratto di Diritto della comunicazione elettronica (54 h) e di Cyber Security and Data Protection (Master II liv. post lauream Ingegneria), presso Università degli Studi di Genova; già docente di Diritto dell’Informatica presso l’Università degli Studi di Genova, del Piemonte Orientale, e della Statale di Milano. Si occupa di diritto e nuove tecnologie dal 1995 ed è autore di oltre 200 pubblicazioni in materia, tra monografie, contributi a collettanee, articoli, note e commenti. Membro del Comitato di Redazione della rivista “Sicurezza e Giustizia”, è formatore per Ministero dell’Interno e Ministero di Giustizia, Vice-Presidente di ANGIF (Associazione Nazionale Giuristi Informatici e Forensi) con cui ha organizzato e coordinato centinaia di seminari, convegni, congressi, master. Coautore del software Verslex in uso al Senato della Repubblica per l’aiuto alla redazione dei testi normativi. È dottore di ricerca in Metodi e tecniche della formazione e valutazione delle leggi, XII ciclo. Coordinatore della Commissione “Privacy” e Consigliere presso CTI-Liguria (Club Tecnologie dell’Informazione); membro ANDIG-Ass. Naz. Docenti Informatica giuridica e ANDIP-Ass. Naz. Difesa Privacy. In questi ultimi 25 anni si è occupata e tuttora si occupa di consulenza privacy e diritto delle nuove tecnologie ad imprese ed enti pubblici nei settori trasporto marittimo, sanitario, turistico, commerciale, assicurativo, associativo, no profit, ordini professionali, siderurgico, impiantistico.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#bassoli">La responsabilità dell'algoritmo di scoring</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m8">12:00 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="bernieri2"></a> Christian Bernieri (Bernieri Consulting - principal consultant)
-
-Consulente legale in materia di protezione dei dati dal 1996. Consulente tecnico per passione da sempre.
-"I guai sono iniziati quando ho trovato il mio primo cacciavite per smontare tutti i miei giocattoli. Da li non mi sono mai fermato e ho sempre smontato tutto."
-
-DPO o consulente per gli adempimenti privacy per conto di primarie imprese, data-company di rilievo internazionale, startup innovative, enti pubblici.
-<br/>
-
-
-
-#### <a name="berto"></a> Rebecca Berto
+#### <a name="berto"></a> Rebecca Berto (Avvocato)
 
 Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'interno dell'attuale progetto europeo.
-Ha continuato a studiare, specializzadosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati internazionali e dispute internazionali relativi ad investimenti: per questo motivo procedure come quelle previste dal WTO o ICSID sono perfettamente conosciute. Se volete chiederle dell'Energy Charter Treaty ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più. Ha la passione per le scienze naturali, la fisica e le nuove tecnologie.
-
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#berto">Trattamento dei dati personali: la nascita del reclamo costituzionale in Germania</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m5">10:55 di Venerdì</a>.<br/><br/>
+Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati internazionali e dispute internazionali relativi ad investimenti: per questo motivo procedure come quelle previste dal WTO o ICSID sono perfettamente conosciute. Se volete chiederle dell'Energy Charter Treaty ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più. Ha la passione per le scienze naturali, la fisica e le nuove tecnologie.
 
 
 
-#### <a name="blengino"></a> Carlo Blengino
+#### <a name="bianchini"></a> Filippo Bianchini (Studio Legale Bianchini)
 
-Carlo Blengino svolge la professione esclusivamente nel settore penale, con specializzazione in proprietà intellettuale, diritto dell'informatica, delle nuove tecnologie e tutela della riservatezza e dei dati personali.
-E' fellow del Nexa Center for Internet & Society del Politecnico di Firenze, cura un blog personale sul quotidiano on-line ilPOST.it ed ha pubblicato lavori con Giappichelli, UTET Giuridica, Egea ed Aracne.
-
-
-
-<br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXVII-interventi.html#tavola2">«E-PIRACY: Copyright, pirati e prospettive»</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p09">16:30 di Venerdì</a> con <a href="/e-privacy-XXVII-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXVII-relatori.html#blengino">Carlo Blengino</a> e <a href="/e-privacy-XXVII-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma</a>.<br/>
-
+L’Avv. Filippo Bianchinoi si è laureato in Giurisprudenza presso l’Università degli Studi di Perugia; nel 2006 ha fondato lo Studio Legale Bianchini e svolge attività principalmente nei settori data protection & privacy, diritto dell’IT e diritto civile; si interessa, tra l’altro, di computer foreniscs e del contrasto ai fenomeni di cyberstalking e cyberbullismo ed è un mediatore professionista.
+Si occupa di gestione della sicurezza delle informazioni e della protezione dei dati personali e svolge attività di auditing, di adeguamento al Regolamento (UE) 2016/679 e di Data Protection Officer (certificato secondo la norma UNI 11697:2017)
+Contemporaneamente all’attività professionale, ha frequentato corsi avanzati di diritto sostanziale e processuale dell’Unione Europea; è stato docente di diritto dell’Unione Europea per la Scuola di Specializzazione per le Professioni Legali “L. Migliorini” di Perugia ed è docente di informatica giuridica per la Scuola Forense “G. Gatti” dell’Ordine degli Avvocati di Perugia nonché relatore in numerosi convegni in materia di data protection e security.
+È socio fondatore e membro di UNIDPO, associazione nazionale che riunisce i Data Protection Officer.
+È membro del Cyber Security National Lab, nodo di Perugia, e dell’Internet of Things Council.
+Segue l’evoluzione dei fenomeni legati ad internet ed alle nuove tecnologie, con particolare attenzione per gli aspetti legali connessi.
 
 
 
-#### <a name="burgio"></a> Massimo Burgio (Consulente online marketing)
+#### <a name="defelice"></a> Alfredo De Felice (CRC Lex)
 
-Esperto di online marketing, frequente speaker, keynote e chairman di conferenze internazionali sui temi del marketing in rete. Tra i pionieri dell’online marketing in Italia, è passato dallo sviluppo dei principali portali internet italiani al web marketing di grandi aziende e brand internazionali, ma da anni preferisce offrire consulenza e servizi di online marketing e comunicazione digitale a business sostenibili e organizzazioni impegnate sul fronte sociale e culturale.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m6">11:15 di Venerdì</a> con <a href="/e-privacy-XXVII-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
-
-
-
-#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
-
-Avvocato in Firenze, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.
-Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Firenze.
-Attivamente impegnato per la promozione del software libero e delle libertà digitali.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#ciurcina">Che succede?</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p03">14:30 di Venerdì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXVII-interventi.html#tavola2">«E-PIRACY: Copyright, pirati e prospettive»</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p09">16:30 di Venerdì</a> con <a href="/e-privacy-XXVII-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXVII-relatori.html#blengino">Carlo Blengino</a> e <a href="/e-privacy-XXVII-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma</a>.<br/>
-
-
-#### <a name="travostino"></a> Massimo Travostino (Studio DGTB Legal)
-
-Dopo gli studi classici e il diploma di pianforte al Conservatorio G. Verdi di Firenze, si è laureato in Giurisprudenza a Firenze, ha ottenuto un diploma in diritto comparato a Strasburgo e il diploma di specialista in diritto degli scambi transnazionali a Firenze.
-Avvocato dal 1996, socio dello Studio DGTB Legal, fellow del Centro NEXA, lavora e svolge attività di docenza nel
-settore della proprietà intellettuale, del diritto commerciale e deicontratti pubblici.
-Ad e-privacy XXVII presenta <br/>
-
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXVII-interventi.html#tavola2">«E-PIRACY: Copyright, pirati e prospettive»</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p09">16:30 di Venerdì</a> con <a href="/e-privacy-XXVII-relatori.html#ciurcina">Marco Ciurcina</a>, <a href="/e-privacy-XXVII-relatori.html#blengino">Carlo Blengino</a> e <a href="/e-privacy-XXVII-relatori.html#travostino">Massimo Travostino </a>, moderata da <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma</a>.<br/>
+Avvocato digitale esperto in privacy, data protection e diritto delle tecnologie. Ricopre l'incarico di Data Protection Officer di diverse società e svolge le attività di formazione aziendale e docenza in corsi universitari.
+Autore di diverse pubblicazioni e relatore in convegni nazionali.
+Fellow dell'European Law Institute (ELI).
 
 
 
 
-#### <a name="criscuolo"></a> Claudia Criscuolo
-
-Avvocato in Napoli e dottoressa di ricerca all’Università degli studi di Napoli Federico II, specializzata in AI e privacy.
-Ha frequentato corsi di specializzazione alla Scuola Superiore Sant’Anna di Pisa in materia di cybersecurity e regolamentazione della robotica.
-Ha da poco concluso il dottorato di ricerca con lode, presentando un lavoro sul potere di controllo e l’utilizzo delle intelligenze artificiali nelle aziende.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#criscuolo">Progresso tecnologico e potere di controllo</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p09">17:40 di Giovedì</a>.<br/><br/>
 
 
 
-#### <a name="de felice"></a> Alfredo De Felice (CRC Lex)
+#### <a name="delninno"></a> Alessandro Del Ninno (Studio legale Tonucci & Partners - Università degli Studi di Roma LUISS GUIDO CARLI)
 
-L’Avv. Alfredo De Felice lavora presso CRC Lex, uno studio legale con sedi a Milano e  Padova specializzato in privacy e diritto delle nuove tecnologie.
-
-L’attività di Alfredo De Felice si concentra nei settori del diritto civile, della contrattualistica interna ed internazionale, dell’e-commerce, privacy e data protection.
-
-STUDI, CORSI DI SPECIALIZZAZIONE E DOCENZE IN AMBITO PRIVACY
-L’Avv. Alfredo De Felice si è laureato in Giurisprudenza nel 2014 presso l’Università degli Studi di Padova.
-Nel 2017, all’età di 26 anni, ha conseguito l’abilitazione all’esercizio della professione forense presso il Distretto della Corte d’Appello di Venezia.
-Ha ultimato il Corso di Alta Specializzazione di Data Protection Officer e ha conseguito la certificazione secondo lo schema UNI 11697:2017 da parte di Cepas Bureau Veritas.
-
-E' fellow dell'European Law Institute (ELI).
-
-L’Avv. Alfredo De Felice svolge regolarmente attività di docenza con riferimento alla  normativa privacy e data protection.
-Da ultimo, svolge attività di tutorato per Formazione Giuridica S.r.l., scuola di preparazione all’esame di abilitazione per la professione forense.
-
-
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#de felice">Digital signage: la nuova frontiera delle campagne marketing digitali all’esame privacy</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m4">10:35 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="del ninno"></a> Alessandro Del Ninno (Studio legale Tonucci & Partners)
-
+Alessandro Del Ninno (Studio legale Tonucci & Partners - Università LUISS GUIDO CARLI)
 Avvocato esperto nel settore dell'ICT e della Data Protection. E’ autore di oltre 100 pubblicazioni, tra articoli, saggi, libri e monografie giuridiche dedicate alle materie dell’ICT, Data Protection e diritto d’autore. Ad oggi è stato invitato come relatore ad oltre 150 conferenze organizzate sia a livello nazionale che internazionale dalle principali istituzioni italiane e straniere.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#del ninno">Profilazione pubblica e privata tra social scoring e Intelligenza Artificale: quali responsabilità e tutele legali?</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m3">10:00 di Giovedì</a>.<br/><br/>
-
-
-
-#### <a name="esposito"></a> Maddalena Esposito
-
-Maddalena Esposito, casertana di nascita e londinese di adozione. Mi sono laureata recentemente in Media, Communications e Critical Practice alla University of the Arts London (UAL) e attualmente conduco ricerca su Internet Regulation e Freedom of Expression Online per Big Brother Watch, una ONG britannica che protegge il diritto alla privacy e le libertà civili legate alla sorveglianza. Da oltre un anno lavoro come Head of Social Media and Dissemination all'Information Law and Policy Centre (ILPC), presso l'Institute of Advanced Legal Studies, University of London, per cui scrivo e organizzo seminari e conferenze accademiche.
-
-Tra i miei interessi ci sono: regolamentazione e politiche dei social media, comunicazione politica, eGovernment, policy-making.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#esposito">Partecipazione politica e coinvolgimento civico nell'era della piattaforma Rousseau - uno scenario distopico o un avanzamento democratico?</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p02">14:50 di Giovedì</a>.<br/><br/>
-
-
-#### <a name="ferri"></a> Edoardo Ferri (Studio Tecnico Ferri & Costantino)
-
-Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri & Costantino. Senior Partner del BiSLab – Bicocca Security Lab, laboratorio interdipartimentale in materia di sicurezza informatica della facoltà di Giurisprudenza e di Informatica dell’Università Bicocca.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#ferri">La crittografia nella messaggistica istantanea</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p04">14:50 di Venerdì</a>.<br/><br/>
 
 
 
 #### <a name="gallus"></a> Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)
 
-Diritto d’autore, diritto penale, tutela della privacy e diritto dell’informatica e delle nuove tecnologie sono le sue principali materie di competenza. Dopo la laurea cum laude in giurisprudenza in Italia si trasferisce in Gran Bretagna per il Master of Laws in Maritime Law e Information Technology Law alla University College London – UCL.. In seguito consegue il titolo di dottore di ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and Electronic Evidence (ECCE). Iscritto all’Albo degli Avvocati dal 1996, Cassazionista dal 2009, Data Protection officer per diversi enti, collabora con la cattedra di Informatica Giuridica dell’Università di Milano ed è docente al Corso di Perfezionamento in Criminalità informatica e prova digitale. Fellow del Nexa Center on Internet e Society e dell' Hermes Center for Transparency and Digital Human Rights. Autore di diverse pubblicazioni sui temi citati e relatore nei principali convegni nazionali e internazionali, affianca alla professione attività di formazione, in particolare nel campo del diritto d’autore, del Free software – Open Source, della tutela della privacy, della sicurezza informatica e della digital forensics. Past Presidente del Circolo dei Giuristi Telematici, fondato nel 1998, primo esempio italiano di associazione giuridica telematica, è componente della Commissione Privacy del Consiglio Nazionale Forense.
+Diritto d’autore, diritto penale, tutela della privacy e diritto dell’informatica e delle nuove tecnologie sono le sue principali materie di competenza. Dopo la laurea cum laude in giurisprudenza in Italia si trasferisce in Gran Bretagna per il Master of Laws in Maritime Law e Information Technology Law alla University College London – UCL.. In seguito consegue il titolo di dottore di ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and Electronic Evidence (ECCE). Iscritto all’Albo degli Avvocati dal 1996, Cassazionista dal 2009, ISO 27001/2013 Lead Auditor, Data Protection officer per diversi enti, collabora con la cattedra di Informatica Giuridica dell’Università di Milano ed è docente al Corso di Perfezionamento in Criminalità informatica e prova digitale. Fellow del Nexa Center on Internet e Society e dell' Hermes Center for Transparency and Digital Human Rights. Autore di diverse pubblicazioni sui temi citati e relatore nei principali convegni nazionali e internazionali, affianca alla professione attività di formazione, in particolare nel campo del diritto d’autore, del Free software – Open Source, della tutela della privacy, della sicurezza informatica e della digital forensics. Past Presidente del Circolo dei Giuristi Telematici, fondato nel 1998, primo esempio italiano di associazione giuridica telematica, è componente della Commissione Privacy del Consiglio Nazionale Forense.
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#gallus">Smart city: la città può essere intelligente senza sorvegliarci tutti?</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m5">11:00 di Giovedì</a>.<br/><br/>
-<br/>Partecipa alla Tavola Rotonda <b><a href="e-privacy-XXVII-interventi.html#tavola1">Social Scoring</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m8">11:50 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#gallus">Giovanni Battista Gallus</a> e <a href="/e-privacy-XXVII-relatori.html#altri">... </a> moderata da <a href="/e-privacy-XXVII-relatori.html#calamari">Marco Calamari</a>.<br/>
 
 
+#### <a name="gargano"></a> Nicola Gargano (Ordine degli Avvocati di Bari)
 
+Avvocato in Bari e Milano, nonché membro del Network Legale GSV. Consigliere Referente per l’informatica dell’Ordine degli Avvocati di Bari. Ha conseguito il Master universitario in Diritto della Rete presso l’università degli studi di Padova. Socio fondatore delle associazioni Amadir (Alumni Master Diritto della Rete) e CSPT (Centro Studi Processo Telematico). Ha partecipato in veste di relatore a numerosi convegni sul Processo Civile Telematico e sul Processo Amministrativo Telematico, Privacy e Conservazione a Norma.
+Componente del comitato scientifico del portale ilprocessotelematico.it e autore di numerosi articoli e pubblicazioni sul processo telematico come Guida Pratica al Processo telematico (di P. Della Costanza e Nicola) edita da Giuffrè editore nella collana Officina del Diritto.
 
-#### <a name="gargano"></a> Nicola Gargano
 
-Nicola Gargano, avocato in Bari e Milano, consigliere referente informatico per l'ordine degli avvocati di Bari, socio fondatore dell'associazione Amadir  e CSPT di cui è attualmente vicepresidente. Componente del comitato scientifico del portale ilprocessotelematico.it e autore di numero articoli e pubblicazioni sul processo telematico. Già relatore in numerosi convegni in tema di Processo Telematico e Privacy.
 
+#### <a name="viola"></a> Viola Luigi (Avvocato)
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#gargano">Social scoring e mobilità sostenibile, che fine fa la privacy?</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m6">11:20 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#albanese">Graziano Albanese</a>.<br/><br/>
+Avvocato, Specialista in Diritto Civile (titolo conseguito con la frequenza ed esame finale presso Scuola triennale di Specializzazione in Diritto Civile), Studio Legale in Roma, Milano, Lecce; attualmente  è Direttore scientifico del Master di I° livello di Giurimetria, presso l’Università degli Studi Pegaso, Napoli. E’ docente presso il Master di I° livello in Intelligenza artificiale presso l’Università Europea di Roma.
+Già Docente universitario di Diritto Processuale Civile; ha insegnato presso la Facoltà di giurisprudenza dell’Università degli Studi eCampus, del Salento, di Camerino. 
+Ha tenuto alcune lezioni presso la Scuola Superiore della Magistratura, sia nelle sedi decentrate che centrale, in materia di Danno alla persona, Responsabilità del medico, Interpretazione della legge con modelli matematici.
+Ha scritto circa duecento contributi, nazionali ed internazionali, tra Libri, Manuali, Trattati, Monografie, Saggi, Note a sentenza, Articoli pubblicati con i principali Editori (Cedam, Ipsoa, Utet, Giuffrè, Simone, Sole24Ore, Maggioli, ecc.); ha scritto alcune voci per l’Enciclopedia Giuridica Treccani, tra cui la voce Giustizia predittiva (oltre che Pegno non possessorio, e Cyberbullismo).
+In particolare, ha scritto il volume Interpretazione della legge con modelli matematici, II° edizione, DirittoAvanzato, Milano, 2018; il volume è stato tradotto (da Jasne Geric) anche in INGLESE con il titolo Interpretation of the law through mathematical models, nonchè in TEDESCO con il titolo  Gesetzesauslegung anhand mathematischer methoden; nel 2020 è stata realizzata la traduzione in SPAGNOLO con il titolo Interpretación de la Ley con modelos matemáticos. Juicio civil, Justicia predictiva, Resolución Alternativa de Conflictos: è in fase di realizzazione anche la traduzione in greco.
 
 
 
-#### <a name="ghirardini"></a> Andrea Ghirardini
+#### <a name="martino"></a> Antonio Anselmo Martino (Academia de Derecho de Cordoba)
 
-Andrea "Pila" Ghirardini lavora da oltre 17 anni nel campo della sicurezza informatica, al supporto di forze dell'ordine e compagnie private. Ha inoltre un POV particolare avendo lavorato sia per una telco a caso ex monopolista sia per una società che si occupa di intercettazione e sorveglianza di massa.
+Antonio A. Martino,  già professore dell’Università di Pisa in Scienze politiche (1976/2007). Gia professore dell’Università di Haute Normadie in filosofia del diritto (1974/76).  Già direttore dell’Istituto per la Documentazione Giuridica del Consiglio Nazionale delle Ricerche (1983/1993). Professore emerito dell’Università del Salvador (Argentina) e professore a contratto dell’Università di Lanus (Argentina). Membro della Academia Nacional de Derecho y Ciencias Sociales de Córdoba. Membro del Center for Artificial Intelligence and Cognate learning of the University of Greenwich. Membro dell’ Instituto de Derecho Constitucional de la Academia de  Derecho y Ciencias Sociales de Buenos Aires. Secretario per l’Europa della Red Académica de Protección de Datos Personales, Monterrey, México. Dichiarato per legge 4286 Personalità Eccezionale della Città Autonoma di Buenos Aires nel campo delle scienze giuridiche.  Membro del Comitato Scientifico delle Riviste: Computer/Law Series, Amsterdam; - Artificial Intelligence and Law,  Boston; - Law and Information Technology, Oxford; - Derecho de la alta  tecnología, Buenos Aires; -Legisprudencia, International Journal of the  study of legislation, London; - Derecho del ciberespacio .Revista de Derecho Informático y de la Sociedad de la Informacion, Madrid. Autore di 42 libri e 683 articoli e saggi.
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#ghirardini">Black Mirror nel presente</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p02">14:00 di Venerdì</a>.<br/><br/>
 
 
+#### <a name="minotti"></a> Daniele Minotti (Avvocato)
 
-#### <a name="gobbato"></a> Monica Gobbato (Studio Gobbato)
+Avvocato del Foro di Genova, fondatore di Penale.it, DPO del Consiglio dell'Ordine degli Avvocati di Genova, Co-Responsabile dell'Osservatorio per l'informatizzazione del processo penale presso l'Unione delle Camere Penali Italiane. Motociclista.
 
-Monica Gobbato Avvocato digitale, Data Protection Officer (DPO) per diverse aziende pubbliche e private, già commissario d’esame per Privacy Officer ed  ex senior associate di due studi legali internazionali: Gianni, Origoni & Partners e Baker e MCKenzie a Milano, nei dipartimenti di Privacy ed Information Technology. Si occupa di Privacy dal 1997 e di Diritto dell’informatica dal 2003.
-Prof A.C. all’Università Ca’ Foscari a Venezia dal 2007, è docente in Master Universitari, Seminari e Corsi in tutta Italia. Coordinatrice di corsi specialistici per Data Protection Officer, nonchè relatrice e moderatrice in materia di Diritto dell’informatica, privacy e cybercrime.  Dal 2020 coordina la sezione genovese della community Legal hackers, presente in oltre 150 Paesi nel mondo. Autrice di monografie, opere collettive e aticoli scientifici.
 
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m4">10:30 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
+#### <a name="pedrazzi"></a> Giorgio Pedrazzi (Università degli studi di Brescia)
 
+Giorgio PEDRAZZI, professore aggregato di "Istituzioni di diritto privato" presso l'Università di Brescia, insegna "Diritto dei social media e dell'economia digitale" presso l'Università dell'Insubria e "Diritto dei Prodotti Digitali" presso l'Università degli Studi di Milano. Ha conseguito il Dottorato in Diritto privato presso l'Università di Pisa. E' stato visiting fellow presso l'Institute of European and Comparative Law di Oxford (UK) e presso la School of Law della Loyola University in Los Angeles (USA). Tra i suoi interessi di ricerca: protezione dei dati e privacy, assicurazioni e responsabilità civile, commercio elettronico e diritto del consumo, videosorveglianza e"smart cities". Partecipa abitualmente come relatore a convegni scientifici e masters e risulta autore di 48 pubblicazioni giuridiche.
 
 
-#### <a name="longo"></a> Valentina Longo (Avvocato)
 
-Avvocato, si occupa di privacy dal 2002, cura progetti per l’adeguamento alle prescrizioni in materia di trattamento dei dati personali in favore di primarie società nazionali e multinazionali e dal 2017 anche della Pubblica Amministrazione.
-Dal 2017 al 2018 ha partecipato, come delegata del Ministero delle politiche agricole alimentari forestali e del turismo (Mipaaft), agli incontri "GDPR per la PA”, organizzati dal Garante per la protezione dei dati personali.
-Da ottobre 2018 è consulente Mipaaft per l'adeguamento al GDPR, referente per la Direzione Generale Affari generali e del nominato Responsabile (RDP).
+#### <a name="priolo"></a> Enrica Priolo (Ordine degli Avvocati di Cagliari)
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#longo">Big Data Processing: dal Social Scoring di Stato al Consumer Scoring, il difficile equilibrio tra marketing tecnologico e privacy</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m6">11:15 di Venerdì</a> con <a href="/e-privacy-XXVII-relatori.html#burgio">Massimo Burgio</a>.<br/><br/>
+Appassionata di diritto pubblico e tecnologie, avvocata e formatrice, sono
+il D.P.O. di alcune aziende e dell'Ordine degli avvocati di Cagliari. Sono componente della Commissione Formazione dell'Ordine degli Avvocati di Cagliari
 
 
 
-#### <a name="marmo"></a> Roberto Marmo (Universita' di Pavia, Facolta' di Ingegneria)
+#### <a name="spataro"></a> Valentino Spataro (IusOnDemand srl)
 
-Roberto Marmo è professore a contratto di Informatica nell'Università di Pavia. Si occupa di formazione, sviluppo software e scrittura di libri su:  intelligenza artificiale, social media mining per estrazione di informazione nei social media, social media analytics per il marketing. Sito web www.robertomarmo.net
+Sviluppatore dal 1986 e giurista dal 1996. 
+Ha sviluppato banche dati documentali giuridiche autoindicizzanti, e tool di riutilizzo degli open data parlamentari.
+Cura Privacykit.it e il dizionario di diritto di internet su Civile.it.
+Attivo nell'ecommerce unendo gli aspetti legali con la flessibilità informatica.
+Cura i podcast quotidiani www.caffe20.it per chi lavora con internet e www.privacykit.it/podcast con pillole in materia
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#marmo">Estrazione di email dai Social Media</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p06">16:20 di Giovedì</a>.<br/><br/>
 
 
+#### <a name="vieri"></a> Giovambattista Vieri (Ent srl)
 
-#### <a name="nicotra"></a> Massimiliano Nicotra (Studio Nicotra)
+Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti.
 
-Massimiliano Nicotra. Avvocato, docente di “Introduction to the Legal System” presso l’Università degli Studi di Roma Tor Vergata, Dipartimento di Economia, nonché membro del Centro
-di Ricerche Economiche e Giuridiche della medesima Università, svolge attività di coordinatore della sezione Privacy e Compliance ed attività di docenza nel corso di alta specializzazione su Data Protection Officer e information security. È co-autore del volume “Diritto della blockchain, intelligenza artificiale e IoT” edito da IPSOA nel 2018 e coordina la sezione romana della community Legal hackers, presente in oltre 150 Paesi nel mondo.
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#gobbato">Il Riconoscimento Facciale tra algoritmi e biometria</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m4">10:30 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#nicotra">Massimiliano Nicotra</a>.<br/><br/>
 
+#### <a name="zugnaz"></a> Efrem Zugnaz (the Webprepping Initiative)
 
+Efrem Zugnaz, opera nel settore IT da piu' di venticinque anni. Attualmente si occupa PRIVACY in ambito Autostradale. Fondatore dell'iniziative WEBPREPPING che da dieci anni si occupa di survivalismo digitale per la gente comune, la scuola e le istituzioni. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera info-digitale etica e corretta, ma soprattutto psicologicamente ecologica.
 
-#### <a name="priolo"></a> Enrica Priolo
 
-Mi sono laureata in Giurisprudenza nella mia città con una tesi sulle intercettazioni. Esercito la professione di avvocato dal 2009, prediligo il diritto pubblico e sono cultrice di materia in diritto processuale penale e in diritto penitenziario presso la facoltà di Giurisprudenza di Cagliari. Ho ricevuto un incarico di insegnamento delle materie del diritto penale e del diritto processuale penale presso la Scuola di Specializzazione per le professioni legali presso l’Università degli Studi di Cagliari -Dipartimento di Giurisprudenza- per tre anni. Sono la coordinatrice dell'area giuridica della scuola di formazione EVLab s.r.l. di Cagliari. Sono specializzata in diritti umani e da qualche tempo approfondisco lo studio delle prove digitali. Sono componente della Commissione Formazione ed aggiornamento professionale presso il Consiglio dell'Ordine degli Avvocati di Cagliari.
 
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#priolo">Sui diritti umani connaturati alla corretta informazione.</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p05">16:00 di Giovedì</a>.<br/><br/>
 
 
 
-#### <a name="pusceddu"></a> Roberto Pusceddu (Università di Cagliari)
 
-Roberto Pusceddu è Avvocato del Foro di Cagliari e Dottorando di Ricerca in Scienze Giuridiche presso l'Università di Cagliari, Cultore di materia in Filosofia del diritto e Teoria Generale del Diritto (Docenti: Professor Giuseppe Lorini e Professor Gianmarco Gometz). La sua tesi di dottorato si incentra su: L'immagine nel contratto.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#pusceddu">L’immagine ed il contratto.  la funzione ‘informativa’ dell’icona alla luce del GDPR:  il rapporto Avvocato-cliente.</a></b> alle <a href="/e-privacy-XXVII-programma.html#2m3">10:05 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="scannicchio"></a> Tommaso Scannicchio
-
-Tommaso SCANNICCHIO si è specializzato nel campo della ICT Law durante un soggiorno annuale presso la Essex University UK nell’anno accademico 2001-2002. E’ avvocato del Foro di Bari dal 2003. Ha conseguito il dottorato di ricerca in Diritto Privato Italiano e Comparato presso l’Università degli Studi di Bari “Aldo Moro” con una tesi in lingua inglese relativa ai profili critici nei rapporti contrattuali che coinvolgono flussi di dati personali come “causa” del contratto. Cultore della materia per le cattedre di Diritto Privato Comparato, Diritto Civile 2 ed Inglese Giuridico presso la stessa Università, vanta una pluriennale esperienza specialistica nella consulenza in materia di privacy compliance nazionale ed europea, nel diritto d’autore, nel diritto dell’informatica e delle nuove tecnologie, con particolare riguardo alla diffamazione online e nella responsabilità degli Internet Service Provider. E’ associato I.A.P.P. (International Association of Privacy Professionals) e cura pro-bono il progetto “Libertà Civili nell’Era Digitale” per la ONLUS Coalizione Italiana per le Libertà e Diritti Civili (CILD) in Roma
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#augenti">La campagna elettorale nell'epoca del social scoring: dal proporzionale alla profilazione</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p03">15:10 di Giovedì</a> con <a href="/e-privacy-XXVII-relatori.html#scannicchio">Tommaso Scannicchio</a>.<br/><br/>
-
-
-
-#### <a name="tancini"></a> Claudio Tancini (Informatica Solidale Onlus)
-
-Claudio Tancini è un professionista esperto di infrastrutture in Data Center di grandi dimensioni, che ha completato con successo numerosi progetti, soprattutto in ambito internazionale. Da anni impegnato al supporto del Terzo Settore e nei temi della Solidarietà Sociale e dell'Etica per le organizzazioni ICT. E' Presidente di Informatica Solidale Onlus.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#tancini">La importanza di un codice Etico per i professionisti ICT</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p07">15:50 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="vaciago"></a> Giuseppe Vaciago (LT42)
-
-Avvocato esperto in diritto delle nuove tecnologie. Ha conseguito nel 2011 un PHD in Scienze Giuridiche all’Università degli Studi di Milano Bicocca affrontando il tema della Digital Forensics e delle investigazioni digitali. È lead auditor ISO/IEC 27001/20013 (Information Security Management) e ha conseguito la certificazione UNI 11697/2017 come Responsabile della Protezione dei Dati Personali (DPO). È docente di informatica giuridica presso l’Università degli Studi dell’Insubria dal 2007.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#vaciago">«Law Enforcement Directive» e D.lgs. 51/18</a></b> alle <a href="/e-privacy-XXVII-programma.html#1m7">11:50 di Giovedì</a>.<br/><br/>
-
-
-
-#### <a name="vieri"></a> Giovambattista Vieri
-
-Son del 1964, mi occupo di informatica da quando avevo 16 anni e studiavo Elettronica Industriale. Ho poi lavorato nell'industria aerospaziale sia sviluppando GUI sia sviluppando apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente IT. Nei ritagli di tempo, scrivo software che poi pubblico come software libero . Son molto appassionato di Storia e sport (praticato). Amo la buona tavola apparecchiata da discussioni interessanti.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#vieri">Facce, dati e ... Machine learning</a></b> alle <a href="/e-privacy-XXVII-programma.html#2p06">15:30 di Venerdì</a>.<br/><br/>
-
-
-
-#### <a name="zanoni"></a> Gabriele Zanoni
-
-Gabriele Zanoni lavora come Systems Engineer per FireEye e collabora con clienti e partner in Italia e nei mercati emergenti per analizzare e contrastare gli Advanced Persistent Threats (APT).
-In passato, in qualità di Incident Responder, è stato coinvolto in attività di gestione degli incidenti per la difesa da attacchi e attaccanti State-Sponsored. Ha contribuito alla messa in sicurezza di aziende enterprise, in Europa e Medio Oriente, in diversi settori come quello governativo, finanziario, delle telecomunicazioni, dei trasporti e non ultimo in quello energetico.
-Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari Italiani ed esteri e ha coordinato team di sicurezza per il test e la risoluzione di vulnerabilità su sistemi critici. È stato tra i primi in Italia a lavorare nell’ambito dei servizi di sicurezza in cloud per quanto riguarda l’analisi e la protezione di flussi email, web e di archiviazione.
-È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#zanoni">Dimmi qualcosa di interessante su me!</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p08">17:10 di Giovedì</a>.<br/><br/>
-
-
-
-#### <a name="zugnaz"></a> Efrem Zugnaz (Webprepping)
-
-Efrem Zugnaz, opera nel settore IT da piu' di venti'anni. Attualmente si occupa di IT Governance per una concessionaria Autostradale. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti piu' possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera privata digitale etica e corrett
-
-Ad e-privacy XXVII presenta <br/>
-<b><a href="e-privacy-XXVII-interventi.html#zugnaz">Privacy Chillng effect</a></b> alle <a href="/e-privacy-XXVII-programma.html#1p04">15:40 di Giovedì</a>.<br/><br/>

@@ -17,25 +17,25 @@ logging.basicConfig(level=logging.INFO)
 
 ### ---------------------------------------- CONFIGURATION
 
-SPREADSHEET_ID = '1rjsJu9iMEYAILB6efL4FyhxARKQMGcV49ZbAwd7OB78'
+SPREADSHEET_ID = '1HcyR9y-jKcjJllKeY6SUgrpLBeCoXyaBLsZ59edY8e0'
 
 RELAZIONI = 'RELAZIONI'
 RELATORI = 'RELATORI'
 
 ORGANIZZATORI = ['calamari','giorio','somma']
 
-EPRIVACY_N = 'XXVI'
+EPRIVACY_N = 'XXVII'
 
 URL = 'e-privacy-'
 
-PATH = 'content/2019/autumn/'
+PATH = 'content/2020/summer/'
 
 PROG_FNAME = 'programma.md'
 
 GIORNO1 = 'Giorno1'
 GIORNO2 = 'Giorno2'
 
-SESSIONI = '1M,1P,2M'.split(',')
+SESSIONI = '1P,2M'.split(',')
 
 F_ORG = 'org'
 
@@ -549,15 +549,16 @@ def tweak_relazioni(info):
     return info
 
 def tweak_sessioni(info):
-    if info['label'][-2:] == 'aa':
+    LOGGER.info("LABEL:"+info['label'])
+    if info['label'][-2:].lower() == 'aa':
         info['label'] = 'apertura'
         info['kind'] = 'opening'
         info['order'] = -1
-    elif info['label'][-2:] == 'ss':
+    elif info['label'][-2:].lower() == 'ss':
         info['label'] = 'saluti'
         info['kind'] = 'welcome'
         info['order'] = 0
-    elif info['label'][-2:] == 'zz':
+    elif info['label'][-2:].lower() == 'zz':
         info['label'] = 'chiusura'
         info['kind'] = 'closing'
         info['order'] = 100
@@ -575,6 +576,7 @@ def tweak_sessioni_collection(info):
                               key=lambda x : x[1]['order']):
         program.append((key, value))
     info['program'] = program
+    # pprint(info)
     if 'apertura' in info:
         info['chairman'] = info['apertura']['author']
     return info
@@ -634,6 +636,7 @@ def setup_sheet_work(SPREADSHEET_ID):
 @click.option('--debug/--no-debug', default=False)
 @click.option('--debug-section', type=click.Choice(['db', 'program']))
 def main(debug,debug_section):
+    LOGGER.info('service beginning')
     service = setup_sheet_work(SPREADSHEET_ID)
     LOGGER.info('service loaded')
     relatori = read_db(service, SPREADSHEET_ID, RELATORI  )

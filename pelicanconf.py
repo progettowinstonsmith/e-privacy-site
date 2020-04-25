@@ -52,9 +52,9 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "EPRIVACY 2020 - SPRING"
 
 THIS = (
-    # ('Il programma', '/e-privacy-XXVI-programma.html'),
-    # ('Gli interventi', '/e-privacy-XXVI-interventi.html'),
-    # ('I relatori', '/e-privacy-XXVI-relatori.html'),
+    ('Il programma', '/e-privacy-XXVII-programma.html'),
+    ('Gli interventi', '/e-privacy-XXVII-interventi.html'),
+    ('I relatori', '/e-privacy-XXVII-relatori.html'),
     # ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
     # ('Proposta Talk', '/e-privacy-XXVI-proposta.html'),
     # ('Call for Paper', '/e-privacy-XXVI-cfp.html'),

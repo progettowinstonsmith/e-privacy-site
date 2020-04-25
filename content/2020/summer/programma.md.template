@@ -1,8 +1,7 @@
-Status: Draft
 Template: event
 Title: Nuove tecnologie di controllo
-Date: 2020-04-10 12:00:00
-Category: 2020
+Date: 2020-01-26 12:00:00
+Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
@@ -12,30 +11,22 @@ Where: Sala della Miniatura<br/>Palazzo Vecchio
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
-Xnextid: 2017W
-Xnext: e-privacy-XVIII
 Organizzatori: hermes,pws
-Collaboratori: bba, comvilca
-Sponsor: sepel,sikurezza.org,ush,isgroup,cgt,brat
-Patrocini: 
-MediaPartner: infomedia,radioradicale,aneddotica
-
+previd: 2019W
+prev: e-privacy-XXVI
+MediaPartner: infomedia, radioradicale
+css: .title-XXVII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVII {{ font: 18px arial, sans-serif; text-align: center; }}
 
 ###e-privacy 2020 - summer edition
 
-Il ** 6 e 7 giugno 2020 ** (GIOVEDÌ e venerdì) a Firenze,
-nella  [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica.
-si svolgerà **e-privacy 2020
+Il ** 15 e 16 maggio 2020 ** ONLINE  si svolgerà **e-privacy 2020
 _summer edition_**.
 
-Il tema guida della XXVII edizione di e-privacy è:
+Il tema guida della XXVI edizione di e-privacy è:
 
-<strong>Nuove tecnologie di controllo<br/>ovvero di come il nascente
-sistema di social scoring vada oltre ogni pensabile profilazione.</strong>
-
+<div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
+<div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
+<br/>
 
 ###Iscrizioni
 
@@ -43,54 +34,27 @@ sistema di social scoring vada oltre ogni pensabile profilazione.</strong>
 Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 <!--
-<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2020-registration-form">Iscriviti!</a></div>
+<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
-
-<!-- **Come arrivare, come fare una donazione, FAQ per i relatori **:  vedi il box a destra piu' in basso. -->
 
 ### <a name="programma"></a>Programma del Convegno
 
-#### <a name="vem"></a>Giovedì 6 Giugno 2020 - mattina
 
- * Chairman: {CHAIRMAN_GIORNO1_MATTINA}
- 
+#### <a name="vep"></a>Giovedì 15 maggio 2020 - pomeriggio
 
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
-{GIORNO1_MATTINA}
-
-#### <a name="vep"></a>Giovedì 6 Giugno 2020 - pomeriggio
-
-* Chairman: {CHAIRMAN_GIORNO1_POMERIGGIO}
+* Chairman: {G1P_CHAIRMAN}
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-{GIORNO1_POMERIGGIO}
+{G1P}
 
-#### <a name="sam"></a>Venerdì 7 Giugno 2018 - mattina
+#### <a name="sam"></a>Venerdì 16 maggio 2020 - mattina
 
-* Chairman: {CHAIRMAN_GIORNO2_MATTINA}
+* Chairman: {G2M_CHAIRMAN}
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-{GIORNO2_MATTINA}
-
-
-#### <a name="vep"></a>Venerdì 7 Giugno 2020 - pomeriggio
-
-* Chairman: {CHAIRMAN_GIORNO2_POMERIGGIO}
-
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
-{GIORNO2_POMERIGGIO}
-
-### Sede di e-privacy 2020 summer edition
-
-La sede di e-privacy 2020 summer edition sarà la
- [Sala conferenze "Luigi Ciminiera"](https://www.polito.it/ateneo/sedi/index.php?bl_id=TO_CIT11&fl_id=XP05&rm_id=021&lang=it)
- - Sede Centrale - Cittadella Politecnica.
-
-<!-- ![La foto ]( http://web.jus.unipi.it/wp-content/uploads/2014/04/polo_piagge.jpg) -->
+{G2M}
 
 ### Gli organizzatori
 
