@@ -21,10 +21,10 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 ###e-privacy 2020 - summer edition
 
-Il ** 15 e 16 maggio 2020 ** ONLINE  si svolgerà **e-privacy 2020
-_summer edition_**.
+Il ** 15 maggio (pomeriggio) ed il 16 maggio 2020 (mattina) ** ONLINE  si svolgerà **e-privacy 2020
+_spring edition_**.
 
-Il tema guida della XXVI edizione di e-privacy è:
+Il tema guida della XXVII edizione di e-privacy è:
 
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
@@ -32,8 +32,7 @@ Il tema guida della XXVI edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+** La partecipazione avverrà in streaming su Youtube; maggiori particolari a breve su questa pagina.
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
