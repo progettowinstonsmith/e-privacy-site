@@ -19,7 +19,7 @@ Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
 MediaPartner: infomedia, radioradicale
 css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; }
 
-###e-privacy 2020 - summer edition
+###e-privacy XXVII 2020 - spring edition
 
 Il ** 15 maggio (pomeriggio) ed il 16 maggio 2020 (mattina) ** ONLINE  si svolgerà **e-privacy 2020
 _spring edition_**.
