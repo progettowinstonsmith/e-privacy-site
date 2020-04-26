@@ -111,7 +111,7 @@ Componente del comitato scientifico del portale ilprocessotelematico.it e autore
 
 
 
-#### <a name="viola"></a> Viola Luigi (Avvocato)
+#### <a name="viola"></a> Luigi Viola (Avvocato)
 
 Avvocato, Specialista in Diritto Civile (titolo conseguito con la frequenza ed esame finale presso Scuola triennale di Specializzazione in Diritto Civile), Studio Legale in Roma, Milano, Lecce; attualmente  è Direttore scientifico del Master di I° livello di Giurimetria, presso l’Università degli Studi Pegaso, Napoli. E’ docente presso il Master di I° livello in Intelligenza artificiale presso l’Università Europea di Roma.
 Già Docente universitario di Diritto Processuale Civile; ha insegnato presso la Facoltà di giurisprudenza dell’Università degli Studi eCampus, del Salento, di Camerino. 

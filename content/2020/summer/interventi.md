@@ -117,7 +117,7 @@ Viviamo in un mondo pieno di dati che, vengono collezionati e serviti da diverse
 
 
 #### <a name="viola"></a> Giustizia predittiva e modelli matematici<a href="/e-privacy-XXVII-programma.html#1m03">⇧</a>
-*<a href="/e-privacy-XXVII-relatori.html#viola">Viola Luigi (Avvocato)</a>*
+*<a href="/e-privacy-XXVII-relatori.html#viola">Luigi Viola (Avvocato)</a>*
 
 La relazione vuole spiegare il tema della giustizia predittiva, analizzando alcuni modelli che permettono la prevedibilità delle sentenze: modello induttivo e modello deduttivo. Si dimostrerà la preferibilità del modello deduttivo perchè idoneo ad evitare vizi logici; diversamente, quello induttivo - oltre ad essere fallace - rischia addirittura di essere pericoloso. Tuttavia, quest'ultimo è il più diffuso. Si esporrà una critica all'approccio sostitutivo dell'intelligenza umana con quella artificiale; si darà un taglio giurimetrico. 
 
