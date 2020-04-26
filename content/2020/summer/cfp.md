@@ -7,8 +7,8 @@ Category: 2020
 lang: it
 Num: XXVII
 Year: 2020
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: ONLINE
+Where: Videoconferenza & Streaming
 When: 15-16 maggio
 Season: spring
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
@@ -18,7 +18,7 @@ nextid:
 next:
 Organizzatori: hermes,pws
 Collaboratori: bba
-XSponsor: sikurezza.org,sepel,ush,isgroup,puntoi,cgt,mes3hacklab,overvolt
+Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
 timeline: 30 marzo | 10 aprile | 15 maggio

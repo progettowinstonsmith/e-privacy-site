@@ -6,12 +6,12 @@ lang: it
 Num: XXVII
 Year: 2020
 slug: e-privacy-XXVII-social
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: ONLINE
+Where: Videoconferenza & Streaming
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2018W
+previd: 2019W
 prev: e-privacy-XXIV
 Xnextid: 2016W
 Xnext: e-privacy-XVIII

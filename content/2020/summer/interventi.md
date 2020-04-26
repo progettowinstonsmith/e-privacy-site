@@ -1,16 +1,16 @@
 Template: event
-Title: Nuove tecnologie di controllo
+Title: Algoritmi, automatismi e predizioni
 Date: 2020-01-26 12:00:00
 Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
 slug: e-privacy-XXVII-interventi
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: ONLINE
+Where: Videoconferenza & Streaming
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
+Season: spring
 Organizzatori: hermes,pws
 previd: CALL
 prev: e-privacy-XXVII-cfp

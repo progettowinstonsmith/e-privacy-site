@@ -1,19 +1,17 @@
 Template: event
-Title: Nuove tecnologie di controllo
+Title: Algoritmi, automatismi e predizioni
 Date: 2020-01-26 12:00:00
 Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
 slug: e-privacy-XXVII-relatori
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: ONLINE
+Where: Videoconferenza & Streaming
 When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
+Season: spring
 Organizzatori: hermes,pws
-previd: CALL
-prev: e-privacy-XXVII-cfp
 previd: 2019W
 prev: e-privacy-XXVI
 MediaPartner: infomedia, radioradicale
@@ -38,7 +36,7 @@ privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
 dove pubblica la rubrica settimanale 
 <a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
 
-### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
+### <a name='giorio'></a>Diego Giorio (Progetto Winston Smith)
 
 Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
 una multinazionale di seminconduttori prima, nel marketing e nel web

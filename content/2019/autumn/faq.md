@@ -5,17 +5,17 @@ lang: it
 Num: XXVII
 Year: 2019
 slug: e-privacy-XXVI-faq-relatori
-City: Bari
-Where: Biblioteca dell'Ordine<br/>degli Avvocati di Bari
-When: 3-4 ottobre
+City: ONLINE
+Where: Videoconferenza & Streaming
+When: 15-16 maggio
+Season: spring
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: autunno
 previd: 2019S
 prev: e-privacy-XXV
 Xnextid: 2018W
 Xnext: e-privacy-XXV
 
-Questa FAQ è dedicata ai relatori di eprivacy 2019 autumn edition Bari.
+Questa FAQ è dedicata ai relatori di eprivacy 2020 XXVII spring edition Online.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
 [http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
@@ -32,7 +32,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 29 settembre, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il primo maggio, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -60,7 +60,7 @@ referenti dei relatori.](#contrattempidurante)
 Certamente!
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il  29 settembre** in formato PDF obbligatoriamente (se consegnate anche
+l'8 settembre** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
@@ -82,7 +82,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
 
 Indicare come parola d'ordine *JULIA*, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
@@ -107,7 +107,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -125,7 +125,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVI-upload.html)
+[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -162,26 +162,6 @@ con l'orario indicato sotto. Se arrivate in sala in precedenza
 sappiate che in prima fila sotto il podio saranno disponibili sei
 posti dedicati ai relatori della sessione successiva.
 
-Giovedì 3:
-
-Blocco | Relatori
----- | ----
-Ore 09.00 |  Gobbato/Roberto/De Simio,Priolo,Ciurcina
-Ore 11.00 |  Agostini,Ricciuti
-Ore 15.00 |  Scannicchio,Albanese,Berto
-Ore 16.00 |  Dal Checco, Fallacara,Giordani, Mastronardi, Cascione
-
-Venerdì 4:
-
-Blocco | Relatori
----- | ----
-Ore 09.00 |  De Felice,Reale
-Ore 11.00 | Chiesa,Vacca/Gabriele/Seno/Gallus
-
-
-È gradito che i relatori non lascino il tavolo dopo l'intervento fino
-alla successiva pausa.
-
 # <a name="ritardo"></a>Se sto arrivando in ritardo?
 
 Allo stato attuale NON sono possibili modifiche dell'agenda del
@@ -197,10 +177,10 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno giovedì 3 è **Marco Calamari**
-per il giorno venerdì 4 è **Adriana Augenti**.
+Il referente dei relatori per il giorno venerdì 15 è **Marco Calamari**
+per il giorno sabato 16 è **Emmanuele Somma**.
 
-Dovreste giàaver ricevuto i numeri di cellulare via email, comunque quello di
+Dovreste già aver ricevuto i numeri di cellulare via email, comunque quello di
 
 Marco Calamari  347/8530279 (solo SMS)
 

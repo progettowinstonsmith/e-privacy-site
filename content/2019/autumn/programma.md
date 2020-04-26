@@ -14,7 +14,7 @@ Season: autunno
 previd: 2019
 prev: e-privacy-XXV
 nextid: 2020
-next: e-privacy-XVII
+next: e-privacy-XXVII
 Organizzatori: pws,hermes
 Patrocini: ordavvbari
 Collaboratori: bba, comvilca

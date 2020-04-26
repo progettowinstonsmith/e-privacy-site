@@ -6,12 +6,12 @@ lang: it
 Num: XXVII
 Year: 2020
 slug: e-privacy-XXVII-come-arrivare
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: ONLINE
+Where: Videoconferenza & Streaming
 When: 15-16 maggio
-Season: estate
-previd: 2018W
-prev: e-privacy-XXIV
+Season: spring
+previd: 2019W
+prev: e-privacy-XXVI
 Xnextid: 2015W
 Xnext: e-privacy-XVIII
 
