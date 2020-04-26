@@ -12,11 +12,9 @@ When: 15-16 maggio
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: spring
 Organizzatori: hermes,pws
-previd: CALL
-prev: e-privacy-XXVII-cfp
+MediaPartner: infomedia, radioradicale
 previd: 2019W
 prev: e-privacy-XXVI
-MediaPartner: infomedia, radioradicale
 
 ## <a name="talks"></a>Gli interventi
 
