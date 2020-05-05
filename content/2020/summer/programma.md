@@ -1,6 +1,6 @@
 Template: event
 Title: Algoritmi, automatismi e predizioni
-Date: 2020-01-26 12:00:00
+Date: 2020-05-05 12:00:00
 Category: 2019
 lang: it
 Num: XXVII
@@ -32,12 +32,15 @@ Il tema guida della XXVII edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione avverrà in streaming su Youtube; maggiori particolari a breve su questa pagina.
+** La partecipazione avverrà in streaming su Youtube; i dettagli a breve su questa pagina. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
+![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
+ "Logo CoViD-19-84")
+ 
 ### <a name="programma"></a>Programma del Convegno
 
 
