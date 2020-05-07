@@ -45,7 +45,9 @@ Il  <a href="http://pws.winstonsmith.org">Progetto Winston Smith</a> ha lanciato
 ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
  "Logo CoViD-19-84, contributed by Netzwerk.")
 
-Questo nuovo Manifesto 2.0 sarà aggiornato tenendo conto deii futuri effetti della pandemia sui temi della sorveglianza, del tecnocontrollo sociale e dei diritti digitali.
+Il Manifesto 2.0 sarà aggiornato tenendo conto dei futuri effetti della pandemia sui temi della sorveglianza, del tecnocontrollo sociale e dei diritti digitali.
+
+Il <b>logo della campagna CoViD-1984</b> è scaricabile dall'apposita http://pws.winstonsmith.org/people.html">sezione</a> del sito del Progetto Winston Smith.
 
 e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema.
  
