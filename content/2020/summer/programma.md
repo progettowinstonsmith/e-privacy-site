@@ -17,7 +17,7 @@ Patrocini:
 Organizzatori: hermes,pws
 Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
 MediaPartner: infomedia, radioradicale
-css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; .yt { text-align: center; } }
 
 ###e-privacy XXVII 2020 - spring edition
 
@@ -32,11 +32,13 @@ Il tema guida della XXVII edizione di e-privacy è:
 
 ###Iscrizioni
 
-** Per questa edizione di e-privacy l'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming del Convegno su Youtube, nel <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>; i dettagli a breve su questa pagina. **
+** Per questa edizione di e-privacy l'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming del Convegno su Youtube, nel <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
+
+<iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/af0drXpiu_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###Iniziativa CoViD-1984
 
@@ -50,7 +52,7 @@ Il Manifesto 2.0 sarà aggiornato tenendo conto dei futuri effetti della pandemi
 Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposita <a href="http://pws.winstonsmith.org/grafica.html">sezione</a> del sito del Progetto Winston Smith.
 
 e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema.
- 
+
 ### <a name="programma"></a>Programma del Convegno
 
 
@@ -59,7 +61,7 @@ e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da
 * Chairman: <a href="/e-privacy-XXVII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 15:00|20|<span class='talk'><em>Apertura lavori: Algoritmi, automatismi e predizioni</em></span>
 15:20|30|<span class='talk'><a href="/e-privacy-XXVII-relatori.html#gargano">Nicola Gargano (Ordine degli Avvocati di Bari)</a> e <a href="/e-privacy-XXVII-relatori.html#priolo">Enrica Priolo (Ordine degli Avvocati di Cagliari)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXVII-interventi.html#gargano">La digitalizzazione della giustizia ai tempi del Corona Virus. Il  PCT del presente e l’intelligenza artificiale del futuro sono  serviti e serviranno a non fermare la giustizia?</a></em></span>
 15:50|20|<span class='talk'><a href="/e-privacy-XXVII-relatori.html#pedrazzi">Giorgio Pedrazzi (Università degli studi di Brescia)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXVII-interventi.html#pedrazzi">La distanza tra privacy e controllo: Teledidattica alla "prova di maturità"</a></em></span>
@@ -73,8 +75,8 @@ e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da
 
 * Chairman: <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 10:00|20|<span class='talk'><em>*Apertura lavori*: "Algoritmi, automatismi e predizioni"</em></span>
 10:20|30|<span class='talk'><a href="/e-privacy-XXVII-relatori.html#defelice">Alfredo De Felice (CRC Lex)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXVII-interventi.html#defelice">Processi decisionali algoritmici e intelligenza artificiale: come rafforzare la tutela giuridica contro il rischio di discriminazione</a></em></span>
 10:50|30|<span class='talk'><a href="/e-privacy-XXVII-relatori.html#minotti">Daniele Minotti (Avvocato)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXVII-interventi.html#minotti">Giustizia "predittiva": il caso genovese</a></em></span>
