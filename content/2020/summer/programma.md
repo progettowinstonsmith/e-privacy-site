@@ -32,14 +32,22 @@ Il tema guida della XXVII edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione avverrà in streaming su Youtube; i dettagli a breve su questa pagina. **
+** Per questa edizione di e-privacy l'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming del Convegno su Youtube, nel <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>; i dettagli a breve su questa pagina. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
+###Iniziativa CoViD-1984
+
+Il  <a href="http://pws.winstonsmith.org">Progetto Winston Smith</a> ha lanciato l'iniziativa "CoVid-1984", che comprende tra l'altro una nuova edizione del suo <a href="http://pws.winstonsmith.org/people.html">Manifesto</a>.
+
 ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
- "Logo CoViD-19-84")
+ "Logo CoViD-19-84, contributed by Netzwerk.")
+
+Questo nuovo Manifesto 2.0 sarà aggiornato tenendo conto deii futuri effetti della pandemia sui temi della sorveglianza, del tecnocontrollo sociale e dei diritti digitali.
+
+e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema.
  
 ### <a name="programma"></a>Programma del Convegno
 
