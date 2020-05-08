@@ -22,25 +22,25 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 ###e-privacy XXVII 2020 - spring edition
 
 Il ** 15 maggio (pomeriggio) ed il 16 maggio 2020 (mattina) ** ONLINE  si svolgerà **e-privacy 2020
-_spring edition_**.
-
-Il tema guida della XXVII edizione di e-privacy è:
+_spring edition_**. Il tema guida della XXVII edizione di e-privacy è:
 
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
-<br/>
 
 ###Iscrizioni
 
 ** Per questa edizione di e-privacy l'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming del Convegno su Youtube, nel <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>. **
+
+** Potete anche semplicemente cliccare sul video qui sotto. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
 <iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/af0drXpiu_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
-###Iniziativa CoViD-1984
+#### <b>Iniziativa CoViD-1984</b>
 
 Il  <a href="http://pws.winstonsmith.org">Progetto Winston Smith</a> ha lanciato l'iniziativa "CoVid-1984", che comprende tra l'altro una nuova edizione del suo <a href="http://pws.winstonsmith.org/people.html">Manifesto</a>.
 
