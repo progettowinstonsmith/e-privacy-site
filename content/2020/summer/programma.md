@@ -23,15 +23,10 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 Il ** 15 maggio (pomeriggio) ed il 16 maggio 2020 (mattina) ** ONLINE  si svolgerà **e-privacy 2020
 _spring edition_**. Il tema guida della XXVII edizione di e-privacy è:
-
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 
-###Iscrizioni
-
-** Per questa edizione di e-privacy l'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming del Convegno su Youtube, nel <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>. **
-
-** Potete anche semplicemente cliccare sul video qui sotto. **
+** L'iscrizione non è necessaria; la partecipazione avverrà seguendo lo streaming su Youtube, sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>.  Potete anche cliccare sul video qui sotto. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
@@ -52,7 +47,7 @@ Il Manifesto 2.0 sarà aggiornato tenendo conto dei futuri effetti della pandemi
 
 Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposita <a href="http://pws.winstonsmith.org/grafica.html">sezione</a> del sito del Progetto Winston Smith.
 
-e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema.
+** e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema. **
 
 ### <a name="programma"></a>Programma del Convegno
 
