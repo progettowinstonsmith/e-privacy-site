@@ -54,7 +54,7 @@ Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposit
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Venerdì 15 maggio 2020 - pomeriggio
+#### <a name="vep"></a>Venerdì 15 maggio 2020 ore 15:00 - pomeriggio
 
 * Chairman: <a href="/e-privacy-XXVII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
@@ -69,7 +69,7 @@ Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposit
 17:20|45|<span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_06_del_ninno_trattamento_dati_sanitari_lavoratori_e_covid-19.pdf),<a href="/e-privacy-XXVII-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners - Università degli Studi di Roma LUISS GUIDO CARLI)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXVII-interventi.html#delninno">Il trattamento dei dati sanitari dei lavoratori all’epoca dell’emergenza COVID-19: una casistica pratica tra norme emergenziali e applicazione del Regolamento 679/2016 sulla protezione dei dati personali.</a></em></span>
 18:05||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
-#### <a name="sam"></a>Sabato 16 maggio 2020 - mattina
+#### <a name="sam"></a>Sabato 16 maggio 2020 ore 10:00 - mattina
 
 * Chairman: <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
