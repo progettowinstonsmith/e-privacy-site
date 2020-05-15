@@ -78,7 +78,7 @@ Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposit
 
 #### <a name="sam"></a>Sabato 16 maggio 2020 ore 10:00 - mattina
 
-* Chairman: <a href="/e-privacy-XXVII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
+* Chairman: <a href="/e-privacy-XXVII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | -------
