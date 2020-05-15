@@ -21,18 +21,25 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 ###e-privacy XXVII 2020 - spring edition
 
-Alle ore 15:00 di oggi ed alle 10:00 di domani (sabato) ** ONLINE  si svolgerà ** e-privacy 2020
+Alle ore 10:00 di sabato 16 maggio ONLINE si svolgerà la seconda giornata di ** e-privacy 2020
 _spring edition_** XXVII; il tema guida è:
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 
 ** La partecipazione avverrà seguendo lo streaming su Youtube, sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>.  Potete anche cliccare sul video qui sotto. **
 
-** Le slide sono già disponibili nell'orario qui sotto; se necessario potrete usarle per seguire meglio le relazioni. **
+** Le slide sono già disponibili nel programma qui sotto; se necessario potrete usarle per seguire meglio le relazioni. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
+
+<iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/bB4BR-xRv8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
+**Qui la registrazione della prima giornata. **
+<br>
 
 <iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/af0drXpiu_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
