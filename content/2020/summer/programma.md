@@ -28,7 +28,7 @@ Data e luogo della prossima edizione, e-privacy XXVIII, sono ancora ignoti, ma p
 
 Stay tuned!
 
-###e-privacy XXVII 2020 - spring edition
+#### <b>e-privacy XXVII 2020 - spring edition</b>
 
 Il 15 e 16 maggio 2020 si è svolto online il convegno ** e-privacy 2020
 _spring edition_** XXVII; il tema guida è stato:

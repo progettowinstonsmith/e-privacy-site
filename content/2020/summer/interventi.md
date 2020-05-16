@@ -18,7 +18,7 @@ prev: e-privacy-XXVI
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="berto"></a> Ammissibilità dei mezzi di prova digitali ed automatizzati<a href="/e-privacy-XXVII-programma.html#1m04">⇧</a>
+#### <a name="berto"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_10_berto_ammissibilità_mezzi_di_prova.pdf) Ammissibilità dei mezzi di prova digitali ed automatizzati<a href="/e-privacy-XXVII-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#berto">Rebecca Berto (Avvocato)</a>*
 
 Contratti, transazioni e le relative scritture assumono un ruolo fondamentale nel sistema economico di ogni Stato: un contratto identifica le parti e ne regola il rapporto contrattuale. Se sorge una controversia sull’esecuzione delle prestazioni previste nel contratto, la parte interessata produrrà in giudizio le prove a supporto della propria domanda giudiziale.
@@ -37,13 +37,13 @@ L'intervento vuole offrire una panoramica sui vari aspetti legali derivanti dall
 L'uso dell'IA, per certi aspetti, rappresenta una minaccia significativa per la qualità dei nostri sistemi giudiziari, la protezione dei diritti fondamentali e lo stato di diritto.  Queste minacce sono particolarmente gravi se si considera il possibile ruolo futuro degli strumenti decisionali basati sull'IA nel campo della giustizia e dell'applicazione della legge. I diritti fondamentali che sono alla base dello stato di diritto non possono essere subordinati a meri guadagni di efficienza o a vantaggi in termini di risparmio di costi, sia per gli utenti dei tribunali che per le autorità giudiziarie. Per gestire efficacemente questo cambiamento, è necessario stabilire principi e regole concrete e, allo stesso tempo, individuare un luogo e un ruolo adeguato per i sistemi di IA in tali ambiti giudiziari. Trasparenza, equità, responsabilità e regole etiche devono essere aree di attenzione distinte. Affinché i sistemi di IA possano essere utilizzati come elemento integrante di una società democratica, non è sufficiente affidarsi semplicemente alla fiducia nella competenza degli specialisti tecnici che operano nel campo dei sistemi informatici: è necessario costruire nuovi ponti di fiducia tra gli specialisti del settore, coloro che lavorano nelle nostre istituzioni democratiche e coloro che sono impegnati in tutti i settori in cui lo stato di diritto è impegnato. Tale integrazione deve tener conto delle competenze e dei ruoli specifici degli attori e degli specialisti nei diversi settori e professioni.
 
 
-#### <a name="defelice"></a> Processi decisionali algoritmici e intelligenza artificiale: come rafforzare la tutela giuridica contro il rischio di discriminazione<a href="/e-privacy-XXVII-programma.html#1m01">⇧</a>
+#### <a name="defelice"></a> [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_07_de_felice_processi_decisionali_algoritmici_ed_ai.pdf) Processi decisionali algoritmici e intelligenza artificiale: come rafforzare la tutela giuridica contro il rischio di discriminazione<a href="/e-privacy-XXVII-programma.html#1m01">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#defelice">Alfredo De Felice (CRC Lex)</a>*
 
 Possiamo trarre enormi vantaggi dal processo decisionale algoritmico. Tuttavia, è noto che questo possa minacciare i diritti umani, come il diritto alla non discriminazione: molto spesso, infatti, le decisioni algoritmiche sono errate per un singolo individuo in quanto il processo decisionale prevede l'applicazione di un modello predittivo agli individui. L’intervento si propone di valutare l'attuale protezione giuridica in Europa contro decisioni algoritmiche discriminatorie, suggerendo come migliorare l'applicazione delle norme vigenti e delineando un approccio per regolare il processo decisionale algoritmico. 
 
 
-#### <a name="delninno"></a> Il trattamento dei dati sanitari dei lavoratori all’epoca dell’emergenza COVID-19: una casistica pratica tra norme emergenziali e applicazione del Regolamento 679/2016 sulla protezione dei dati personali.<a href="/e-privacy-XXVII-programma.html#1p06">⇧</a>
+#### <a name="delninno"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_06_del_ninno_trattamento_dati_sanitari_lavoratori_e_covid-19.pdf) Il trattamento dei dati sanitari dei lavoratori all’epoca dell’emergenza COVID-19: una casistica pratica tra norme emergenziali e applicazione del Regolamento 679/2016 sulla protezione dei dati personali.<a href="/e-privacy-XXVII-programma.html#1p06">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners - Università degli Studi di Roma LUISS GUIDO CARLI)</a>*
 
 Il Prof. Avv. Alessandro del Ninno illustra le norme emergenziali sul trattamento dei dati personali nell'ambito dell'emergenza COVID-19, in rapporto alla ordinaria disciplina prevista dal Regolamento 679/2016 e dal Codice della privacy.
@@ -52,14 +52,14 @@ Che rapporto c'è tra diritto alla riservatezza e tutela costituzionale della sa
 l'intervento fornisce una serie di risposte operative a questi delicati quesiti, nella prospettiva di bilanciamento di tutti i diritti e gli interessi in gioco.
 
 
-#### <a name="gallus"></a> Droni per il monitoraggio COVID: quali tutele?<a href="/e-privacy-XXVII-programma.html#1m06">⇧</a>
+#### <a name="gallus"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_12_gallus_droni_covid.pdf) Droni per il monitoraggio COVID: quali tutele?<a href="/e-privacy-XXVII-programma.html#1m06">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici - Nexa Center)</a>*
 
 Quasi tutti i film distopici prevedono dei droni che volano in città, alla caccia di cittadini riottosi. Ora, però, anche questo è diventato realtà: la situazione eccezionale ha convinto l’Enac ad ampliare in modo consistente l'ambito di utilizzo dei droni per “garantire il contenimento dell'emergenza epidemiologica coronavirus”. Contemporaneamente, la normativa emergenziale (tra cui l'art. 14 del DL 14/2020) ha introdotto una disciplina speciale in tema di trattamento dei dati personali, per i soggetti chiamati a monitorare e garantire l'esecuzione delle misure di contenimento, tra cui anche la polizia locale.
 Ci dobbiamo dimenticare delle regole in tema di data protection? Assolutamente no, in quanto è sempre previsto il rispetto dei principi generali del Regolamento europeo sulla protezione dei dati personali. Vedremo quindi quali siano le cautele da porre in essere per gestire correttamente i dati personali correlati al monitoraggio a mezzo drone, e quali le difese possibili dei nostri diritti e libertà fondamentali.
 
 
-#### <a name="gargano"></a> La digitalizzazione della giustizia ai tempi del Corona Virus. Il  PCT del presente e l’intelligenza artificiale del futuro sono  serviti e serviranno a non fermare la giustizia?<a href="/e-privacy-XXVII-programma.html#1p01">⇧</a>
+#### <a name="gargano"></a> [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_01_gargano_priolo_digitalizzazione_giustizia_tempi_coronavirus.pdf) La digitalizzazione della giustizia ai tempi del Corona Virus. Il  PCT del presente e l’intelligenza artificiale del futuro sono  serviti e serviranno a non fermare la giustizia?<a href="/e-privacy-XXVII-programma.html#1p01">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#gargano">Nicola Gargano (Ordine degli Avvocati di Bari)</a> e <a href="/e-privacy-XXVII-relatori.html#priolo">Enrica Priolo (Ordine degli Avvocati di Cagliari)</a>*
 
 La pandemia di Covid-19 ha causato una situazione emergenziale anche nel settore giustizia, paralizzato in quelle attività che richiedono inevitabilmente la presenza fisica degli operatori all’interno di un Palazzo di Giustizia. Ma allora la progressiva digitalizzazione della giustizia, culminata nel 2014 con l’obbligatorietà del processo civile telematico, non ha consentito il superamento della necessità di presenza fisica? Le criticità di una digitalizzazione a macchia di leopardo (da cui rimangono esclusi i Giudici di Pace, la Suprema Corte di Cassazione e tutta la giustizia penale) sono emerse nella organizzazione (ancora troppo) analogica dei procedimenti giurisdizionali, la cui punta dell’iceberg è un processo fatto sì di bit, ma la cui gestione sottostante rischia di paralizzarsi se manca l'uomo -negli uffici di cancelleria o negli studi legali-.
@@ -67,7 +67,7 @@ L’intervento vuole ripercorrere lo stato dell'arte del "sistema giustizia" dur
 
 
 
-#### <a name="martino"></a> Il giudice automata nell'attuale democrazia<a href="/e-privacy-XXVII-programma.html#1p05">⇧</a>
+#### <a name="martino"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_05_martino_il_giudice_automata.pdf) Il giudice automata nell'attuale democrazia<a href="/e-privacy-XXVII-programma.html#1p05">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#martino">Antonio Anselmo Martino (Academia de Derecho de Cordoba)</a>*
 
 Nell’attuale situazione l’uso dell’Intelligenza Artificiale per aiutare le decisioni giudiziarie è, da una parte in forte crescita e dall’altra sconsigliata, anzi temuta  per vecchie paure che vengono dalla tradizione biblica del Golem  (salmo 139, versicolo 16).
@@ -83,7 +83,7 @@ Non solo ci sono prodotti in funzione, ma la ricerca continua ai massimi livelli
 	L’intelligenza artificiale è un mezzo, un metodo, dipende come venga impiegata per soddisfare i valori democratici.  E qui torna, come il solito, l’etica. La direttiva europea del maggio di quest'anno sulle transazioni informatiche, dopo tre anni di discussioni e trattative, riempie un orizzonte non solo europeo ma anche globale, poiché è presa sul serio l'organizzazione delle transazioni in molti paesi.  Va ricordato che quest’'anno è stato firmato in Vaticano un accordo europeo per porre limiti etici all'intelligenza artificiale.
 
 
-#### <a name="minotti"></a> Giustizia "predittiva": il caso genovese<a href="/e-privacy-XXVII-programma.html#1m02">⇧</a>
+#### <a name="minotti"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_08_minotti_giustizia_predittiva_caso_genovese.pdf) Giustizia "predittiva": il caso genovese<a href="/e-privacy-XXVII-programma.html#1m02">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#minotti">Daniele Minotti (Avvocato)</a>*
 
 Nel settembre 2019 il Tribunale di Genova ha sottoscritto una convenzione con la Scuola Superiore Sant'Anna per l'"elaborazione" delle decisioni in campo civile, prevedendo anche forme di machine learning per lo studio delle decisoni, in una forma dichiarata di Intelligenza Artificiale.
@@ -91,13 +91,13 @@ Quali le ripercussioni - anche impreviste e imprevedibili - sui diritti dei sing
 Un'attenda disamina della Convenzione - non pubblicata, ma che sarà resa pubblica - consentirà di comprendere meglio benefici e pericoli di un trattamento esterno all'Autorità Giudiziaria.
 
 
-#### <a name="pedrazzi"></a> LA DISTANZA TRA PRIVACY E CONTROLLO: TELEDIDATTICA ALLA "PROVA DI MATURITA'"<a href="/e-privacy-XXVII-programma.html#1p02">⇧</a>
+#### <a name="pedrazzi"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_02_pedrazzi_distanza_tra_privacy_e_controllo.pdf) LA DISTANZA TRA PRIVACY E CONTROLLO: TELEDIDATTICA ALLA "PROVA DI MATURITA'"<a href="/e-privacy-XXVII-programma.html#1p02">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#pedrazzi">Giorgio Pedrazzi (Università degli studi di Brescia)</a>*
 
 La situazione attuale ha realizzato in pochi giorni quello che per anni non era riuscito ai fautori della teledidattica. L’emergenza ha permesso di superare i preconcetti e le preoccupazioni d’un balzo, pur restando rilevante il c.d. digital divide. La tecnologia è stata chiamata ad annullare la distanza sociale imposta dalle misure di contenimento sanitario: in tale contesto il 26 marzo il Garante italiano ha fornito le prime indicazioni, tra le quali spicca l’importanza delle limitazioni alle finalità ulteriori. Nel 2013 lo scandalo InBloom negli Stati Uniti fece emergere una consapevolezza nuova, portando all’emanazione di oltre 400 provvedimenti legislativi nei diversi Stati. Oggi , una tra le piattaforme di videoconferenza più usate, a seguito di una rinnovata attenzione, ha modificato le policy in materia di protezione dei dati, tutelando maggiormente i diritti degli interessati in tema di condivisione dei dati personali con società terze, in particolare l’onnipresente Facebook. Le scelte basate sulla funzionalità devono considerare anche la tutela della privacy come indice di prestazione, in particolar modo quando tecnologie promiscue vengono introdotte nel settore dell’istruzione. Le imponenti masse di dati ora in pasto ai sistemi di Learning analytics, l’impatto prossimo venturo di Blockchain e AI (intelligenza artificiale), rendono necessaria una vigilanza costante e un’applicazione dei principi e delle regole del GDPR-“by design”.
 
 
-#### <a name="spataro"></a> Intelligenza Artificiale e Diritto: imparare dai precedenti<a href="/e-privacy-XXVII-programma.html#1p03">⇧</a>
+#### <a name="spataro">[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_03_spataro_ia_e_diritto.pdf)</a> Intelligenza Artificiale e Diritto: imparare dai precedenti<a href="/e-privacy-XXVII-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a>*
 
 Big Data, Open Data, Intelligenza artificiale e analisi della documentazione giuridica già pubblica. 
@@ -107,7 +107,7 @@ Ma la domanda che vogliamo affrontare è in che misura servirci di risultati pro
 Oltre alla rassegna dei tentativi già svolti nel mondo anglosassone e nei settori più propensi a queste tecniche ci avventureremo nell'ipotizzare finalità morali e immorali delle tecniche esistenti.
 
 
-#### <a name="vieri"></a> DATI, FONTI, DECISIONI. <a href="/e-privacy-XXVII-programma.html#1m07">⇧</a>
+#### <a name="vieri"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_13_vieri_dati_fonti_decisioni.pdf) DATI, FONTI, DECISIONI. <a href="/e-privacy-XXVII-programma.html#1m07">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#vieri">Giovambattista Vieri (Ent srl)</a>*
 
 DATI, FONTI, DECISIONI. 
@@ -116,13 +116,13 @@ Viviamo in un mondo pieno di dati che, vengono collezionati e serviti da diverse
 
 
 
-#### <a name="viola"></a> Giustizia predittiva e modelli matematici<a href="/e-privacy-XXVII-programma.html#1m03">⇧</a>
+#### <a name="viola"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_09_viola_giustizia_predittiva_e_modelli_matematici.pdf) Giustizia predittiva e modelli matematici<a href="/e-privacy-XXVII-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#viola">Luigi Viola (Avvocato)</a>*
 
 La relazione vuole spiegare il tema della giustizia predittiva, analizzando alcuni modelli che permettono la prevedibilità delle sentenze: modello induttivo e modello deduttivo. Si dimostrerà la preferibilità del modello deduttivo perchè idoneo ad evitare vizi logici; diversamente, quello induttivo - oltre ad essere fallace - rischia addirittura di essere pericoloso. Tuttavia, quest'ultimo è il più diffuso. Si esporrà una critica all'approccio sostitutivo dell'intelligenza umana con quella artificiale; si darà un taglio giurimetrico. 
 
 
-#### <a name="zugnaz"></a> Ground Control to Major Tom<a href="/e-privacy-XXVII-programma.html#1p04">⇧</a>
+#### <a name="zugnaz"></a>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020/atti/ep2020se_04_zugnaz_ground_control_major_tom.pdf) Ground Control to Major Tom<a href="/e-privacy-XXVII-programma.html#1p04">⇧</a>
 *<a href="/e-privacy-XXVII-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a>*
 
 Come è possibile che nell'era tecnologica, oltre che ai vantaggi ci sia un evidente furto. Furto di dati, furto di identità ma sopratutto furto di tempo. L'intelligenza artificiale un po' ci frega, è una scusa per non usare il cervello. Inglesismi vuoti nella bocca di gente che a vanvera parla, usa, consuma. Con il classico approccio, filo-tecnologico dell'esperienza del webprepping, si racconterà la triste storia di quanto la tecnologia e gli algoritmi, passando di mano degli informatici alla persona comune ed ai giornalisti è diventata main stream.
