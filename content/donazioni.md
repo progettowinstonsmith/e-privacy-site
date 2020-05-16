@@ -29,7 +29,7 @@ Se volete fare una donazione indipendentemente dall'acquisizione del biglietto p
 </form>
 </div>
 
-### Donazione ricorrente 
+### Donazione ricorrente  
 
 <div align=center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
