@@ -1,6 +1,5 @@
 Status: draft
 Template: event
-Status: draft
 Title: Nuove tecnologie di controllo
 Date: 2019-01-26 12:00:00
 Category: 2019

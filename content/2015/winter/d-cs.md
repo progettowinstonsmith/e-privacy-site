@@ -1,10 +1,9 @@
-status: draft
+Status: draft
 Template: event
 Title: e-privacy estate 2015 - La trasparenza e la privacy - comunicato stampa
 Date: 2015-05-10 10:20
 Category: 2015
 lang: it
-Status: draft
 slug: cs-XVIII
 
 _"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."_ - V (da John Basil Barnhill)

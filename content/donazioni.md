@@ -25,7 +25,7 @@ Se volete fare una donazione indipendentemente dall'acquisizione del biglietto p
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="TCSXM4YSV2N5S">
 <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - Il metodo rapido, affidabile e innovativo per pagare e farsi pagare.">
-<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+<img alt="pixel" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
 
@@ -45,7 +45,7 @@ Se volete fare una donazione indipendentemente dall'acquisizione del biglietto p
 </table>
 <input type="hidden" name="currency_code" value="EUR">
 <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_subscribe_SM.gif" border="0" name="submit" alt="PayPal - Il metodo rapido, affidabile e innovativo per pagare e farsi pagare.">
-<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+<img alt="pixel" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
 
