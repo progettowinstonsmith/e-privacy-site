@@ -19,33 +19,38 @@ Sponsor: sepel,sikurezza.org,isgroup,ush,cgt
 MediaPartner: infomedia, radioradicale
 css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; .yt { text-align: center; } }
 
+#### <b>Annuncio dell'edizione autunnale 2020 - e-privacy XXVIII</b>
+
+Data e luogo della prossima edizione, e-privacy XXVIII, sono ancora ignoti, ma possiamo già annunciare tema e titolo 
+
+<div class="title-XXVII">«CoViD 1984»</div>
+<div class="subtitle-XXVII">Pandemia, tecnocontrollo e profilazione sociale</div>
+
+Stay tuned!
+
 ###e-privacy XXVII 2020 - spring edition
 
-Alle ore 10:00 di sabato 16 maggio ONLINE si svolgerà la seconda giornata di ** e-privacy 2020
-_spring edition_** XXVII; il tema guida è:
+Il 15 e 16 maggio 2020 si è svolto online il convegno ** e-privacy 2020
+_spring edition_** XXVII; il tema guida è stato:
 <div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 
-** La partecipazione avverrà seguendo lo streaming su Youtube, sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a>.  Potete anche cliccare sul video qui sotto. **
-
-** Le slide sono già disponibili nel programma qui sotto; se necessario potrete usarle per seguire meglio le relazioni. **
+** La registrazione completa delle due giornate è disponibile sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a> o direttamente da questa pagina. Le slide dei relatori sono disponibili nel programma. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
 -->
 
-<iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/bB4BR-xRv8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-<br>
-**Qui la registrazione della prima giornata. **
-<br>
-
 <iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/af0drXpiu_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+** La registrazione della prima giornata. **
+<br>
+<br>
+<iframe class='yt' width="560" height="315" src="https://www.youtube-nocookie.com/embed/bB4BR-xRv8w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+** La registrazione della seconda giornata. **
 <br>
 
 #### <b>Iniziativa CoViD-1984</b>
-
 
 Il  <a href="http://pws.winstonsmith.org">Progetto Winston Smith</a> ha lanciato l'iniziativa "CoVid-1984", che comprende tra l'altro una nuova edizione del suo <a href="http://pws.winstonsmith.org/people.html">Manifesto</a>.
 
@@ -56,7 +61,7 @@ Il Manifesto 2.0 sarà aggiornato tenendo conto dei futuri effetti della pandemi
 
 Il <b>logo della campagna CoViD-1984</b> è liberamente scaricabile dall'apposita <a href="http://pws.winstonsmith.org/grafica.html">sezione</a> del sito del Progetto Winston Smith.
 
-** e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica fin da adesso che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema. **
+** e-privacy aderisce in pieno all'iniziativa, e con largo anticipo comunica che il CfP per l'edizione autunnale 2020, e-privacy XXVIII, intitolata "Covid-1984" sarà dedicato a questo tema. **
 
 ### <a name="programma"></a>Programma del Convegno
 
