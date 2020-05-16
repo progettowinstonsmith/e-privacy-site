@@ -13,7 +13,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: spring
 previd: 2019W
 prev: e-privacy-XXVI
-Patrocini: 
+Patrocini:
 Organizzatori: pws,hermes
 Sponsor: sepel,sikurezza.org,isgroup,ush,cgt
 MediaPartner: infomedia, radioradicale
