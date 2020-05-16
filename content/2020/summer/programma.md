@@ -42,12 +42,12 @@ _spring edition_** XXVII; il tema guida è stato:
 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/af0drXpiu_E?start=27" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-** La registrazione della prima giornata. **
+** La registrazione della prima giornata; nei commenti Youtube il minutaggio dei singoli interventi. **
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bB4BR-xRv8w?start=41" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-** La registrazione della seconda giornata. **
+** La registrazione della seconda giornata; nei commenti Youtube il minutaggio dei singoli interventi. . **
 <br>
 
 #### <b>Iniziativa CoViD-1984</b>
