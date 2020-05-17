@@ -21,12 +21,13 @@ css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 #### <b>Annuncio dell'edizione autunnale 2020 - e-privacy XXVIII</b>
 
-Data e luogo della prossima edizione, e-privacy XXVIII, sono ancora ignoti, ma possiamo già annunciare tema e titolo 
-
+Data, luogo e modalità della prossima edizione autunnale, e-privacy XXVIII, sono ancora ignoti, ma possiamo già annunciare tema e titolo:
+<b>
 <div class="title-XXVII">«CoViD 1984»</div>
 <div class="subtitle-XXVII">Pandemia, tecnocontrollo e profilazione sociale</div>
 
 Stay tuned!
+</b>
 
 #### <b>e-privacy XXVII 2020 - spring edition</b>
 
