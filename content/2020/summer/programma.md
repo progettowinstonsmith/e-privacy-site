@@ -42,12 +42,21 @@ _spring edition_** XXVII; il tema guida è stato:
 -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/af0drXpiu_E?start=27" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-** La registrazione della prima giornata; nei commenti Youtube il minutaggio dei singoli interventi. **
+** La registrazione della prima giornata su Youtube.
+<br>
+Nei commenti Youtube il minutaggio dei singoli interventi. **
+<br>
+La prima giornata è accessibile anche tramite [Radio Radicale](https://www.radioradicale.it/scheda/605905/e-privacy-xxvii-2020-algoritmi-automatismi-e-predizioni-prima-giornata)
+
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bB4BR-xRv8w?start=41" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-** La registrazione della seconda giornata; nei commenti Youtube il minutaggio dei singoli interventi. . **
+** La registrazione della seconda giornata su Youtube.
+<br>
+Nei commenti Youtube il minutaggio dei singoli interventi. **
+<br>
+La seconda giornata è accessibile anche tramite [Radio Radicale](https://www.radioradicale.it/scheda/605905/e-privacy-xxvii-2020-algoritmi-automatismi-e-predizioni-seconda-giornata)
 <br>
 
 #### <b>Iniziativa CoViD-1984</b>
