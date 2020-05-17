@@ -55,7 +55,7 @@ La prima giornata è accessibile anche tramite [Radio Radicale](https://www.radi
 <br>
 Nei commenti Youtube il minutaggio dei singoli interventi.
 <br>
-La seconda giornata è accessibile anche tramite [Radio Radicale](https://www.radioradicale.it/scheda/605905/e-privacy-xxvii-2020-algoritmi-automatismi-e-predizioni-seconda-giornata) **
+La seconda giornata è accessibile anche tramite [Radio Radicale](https://www.radioradicale.it/scheda/605906/e-privacy-xxvii-2020-algoritmi-automatismi-e-predizioni-seconda-giornata) **
 <br>
 
 #### <b>Iniziativa CoViD-1984</b>
