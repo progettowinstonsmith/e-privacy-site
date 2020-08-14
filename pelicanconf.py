@@ -5,9 +5,9 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2020/05/15 09:30'
+EVENT_TIME = '2020/10/4 09:30'
 
-COUNTDOWN = False
+COUNTDOWN = True
 
 EVENTBRITE_EID="""
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.it/countdown-widget?eid=37526459651" frameborder="0" height="544" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.it/">Con tecnologia Eventbrite</a></div></div>
@@ -34,7 +34,7 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'it'
 
 YEAR = u'2020'
-EDITION = 'spring'
+EDITION = 'autumn'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -49,19 +49,19 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2020 - SPRING"
+THIS_TITLE = "EPRIVACY 2020 - AUTUMN"
 
 THIS = (
-    ('Il programma', '/e-privacy-XXVII-programma.html'),
-    ('Gli interventi', '/e-privacy-XXVII-interventi.html'),
-    ('I relatori', '/e-privacy-XXVII-relatori.html'),
+    ('Il programma', '/e-privacy-XXVIII-programma.html'),
+    ('Gli interventi', '/e-privacy-XXVIII-interventi.html'),
+    ('I relatori', '/e-privacy-XXVIII-relatori.html'),
     # ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
-    # ('Proposta Talk', '/e-privacy-XXVII-proposta.html'),
-    # ('Call for Paper', '/e-privacy-XXVII-cfp.html'),
-    # ('Slides', '/e-privacy-XXVII-programma-slides.html'),
-    # ('Call for Sponsor', '/e-privacy-XXVII-cfs.html'),
-    # ('FAQ per i relatori', '/e-privacy-XXVII-faq-relatori.html'),
-    # ('Come arrivare', '/e-privacy-XXVII-come-arrivare.html'),
+    # ('Proposta Talk', '/e-privacy-XXVIII-proposta.html'),
+    # ('Call for Paper', '/e-privacy-XXVIII-cfp.html'),
+    # ('Slides', '/e-privacy-XXVIII-programma-slides.html'),
+    # ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
+    # ('FAQ per i relatori', '/e-privacy-XXVIII-faq-relatori.html'),
+    # ('Come arrivare', '/e-privacy-XXVIII-come-arrivare.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
      ('Contatti', '/contatti-XXVII.html'),
@@ -79,6 +79,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2020 summer XXVII', '/e-privacy-XXVII.html'),
     ('e-privacy 2019 winter XXVI', '/e-privacy-XXVI.html'),
     ('e-privacy 2019 summer XXV', '/e-privacy-XXV.html'),
     ('e-privacy 2018 winter XXIV', '/e-privacy-XXIV.html'),

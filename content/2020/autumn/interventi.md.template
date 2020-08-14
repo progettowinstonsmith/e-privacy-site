@@ -1,0 +1,24 @@
+Template: event
+Title: Nuove tecnologie di controllo
+Date: 2020-08-26 12:00:00
+Category: 2019
+lang: it
+Num: XXVIII
+Year: 2020
+slug: e-privacy-XXVIII-interventi
+City: Firenze
+Where: Sala della Miniatura<br/>Palazzo Vecchio
+When: TBD ottobre
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Season: estate
+Organizzatori: hermes,pws
+previd: CALL
+prev: e-privacy-XXVIIII-cfp
+previd: 2020
+prev: e-privacy-XXVII
+MediaPartner: infomedia, radioradicale
+
+## <a name="talks"></a>Gli interventi
+
+{INTERVENTI}
+
