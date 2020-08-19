@@ -8,14 +8,12 @@ lang: it
 Num: XXVIII
 Year: 2020
 City: ONLINE
-Where: Videoconferenza & Streaming
+Where: Location & Videoconferenza & Streaming
 When: TBD ottobre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020
 prev: e-privacy-XXVII
-nextid: 
-next:
 Organizzatori: hermes,pws
 Collaboratori: bba
 Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
@@ -24,13 +22,18 @@ MediaPartner: infomedia,radioradicale,aneddotica
 timeline: 15 settembre | 1 ottobre | 4 ottobre
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
-<div class="title-XXVIII">«CoViD 1984»</div>
-<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>
+
+
+## e-privacy XXVIII @ PARALLEL EDITION
+## Call for Papers
+
+**<div class="title-XXVIII">«CoViD 1984»</div>**
+**<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
 <br/>
 
-## e-privacy XXVIII @ ANYWHERE
-
-
+![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
+ "Logo CoViD-19-84, contributed by Netzwerk.")
+ 
 È dagli anni 2000 che l'arrivo di una pandemia globale, dovuta a nuovi virus che compivano un salto di specie, era una possibilità prevista, reale e contingente, non teorica, ipotetica e remota. Già molti avevano denunciato che la poca attenzione a questo tema avrebbe avuto effetti devastanti. Il coronavirus CoViD-19 non è giunto quindi inatteso, ma ci ha colti socialmente impreparati in maniera clamorosa.
 
 Non ha colto impreparati però coloro che, su ogni crisi di qualsiasi genere, speculano con ipocrisia per restringere gli spazi di libertà civile. Lo stato di emergenza ed il lockdown che sono stati usati per il controllo della pandemia sono ormai storia, e non sta a noi ma alla storia ed agli specialisti del settore giudicarne gli effetti diretti sulla pandemia.
@@ -55,28 +58,17 @@ Infatti alcuni risultati positivi che esse hanno ottenuto durante la pandemia e 
 
 È il momento di parlarne, è il momento di reagire agli errori manifesti, del passato e del presente, è il momento di "progettare" un futuro in cui le tecnologie non vengano utilizzate per un tecnocontrollo sociale ben oltre i più sfrenati sogni del Grande Fratello, ma solo in maniera limitata, rispettosa dei diritti civili e per il beneficio della società civile.
 
-E se non lo facciamo noi che altri?
-
-Il Progetto Winston apre quindi il CfP per l'edizione autunnale di e-privacy, che si svolgerà certamente online, ma (speriamo) anche in una sede fisica. 
+***E se non lo facciamo noi, chi altri?***
 
 
-** e-privacy XXVII si terrà quindi nelle date previste del 15 e 16
- maggio, con eventuali adattamenti di orario in relazione al numero
- degli interventi. **
-<br><br>
+** Il Progetto Winston apre quindi il CfP per l'edizione autunnale di e-privacy, che si svolgerà in parallelo, sia online, ma (speriamo) ***anche in una sede fisica*** che stiamo cercando, con gli ovvi problemi, di definire. **
+
+<br>
 Maggiori dettagli e modalità di partecipazione, sia come relatore
  che come partecipante, saranno pubblicate su questo sito
 
 Ti ringraziamo fin da ora per la tua collaborazione.
 
-# Call for Papers
-
-Il Progetto Winston Smith e l’Hermes Center for Transparency and
-Digital Human Rights sono lieti di invitarti come relatore
-all’edizione primaverile di e-privacy, che si terrà Online il 15 e
-16 maggio 2020 nella prestigiosa sede della Sala di Firenze Capitale
-(Sala della Miniatura) di Palazzo Vecchio, sede del Comune di Firenze
-che ospita l'iniziativa.
 
 # Il convegno
 
@@ -118,7 +110,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni video
 
 Le proposte di intervento dovranno essere presentate utilizzando il
-form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXVIII-proposta.html)
+form disponibile in questa  [pagina](https://forms.gle/BaoMGNF5FnggAXJq7)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 10 settembre 2020__.
@@ -131,10 +123,10 @@ forma elettronica sul form online in seguito comunicato ai relatori.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
+- Profilazione, geotagging, biometria, riconoscimento facciale
 - Servizi digitali di Stato, informatizzazione obbligatoria, processo telematico, giustizia algoritmica.
 - Diritto alla Conoscenza e democrazie avanzate
 - Diritti civili e politici dell’individuo: libertà di espressione, riservatezza ed anonimato;
-- Profilazione, geotagging, biometria, riconoscimento facciale
 - Tecnologie della liberazione per l’arricchimento della privacy, crittografia e comunicazione sicura.
 - Impatto delle tecnologie di controllo e dell’anonimato sui diritti dei lavoratori e degli studenti.
 - Evoluzione dei mercati di dati personali: data retention, analisi big-data, circolazione e rivendita
@@ -178,8 +170,8 @@ La sede di e-privacy 2020 spring edition sarà la
 
 La manifestazione e’ organizzata da:
 
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+ - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
 e da altre organizzazioni, aziende ed associazioni.
 

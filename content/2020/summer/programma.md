@@ -1,11 +1,11 @@
 Template: event
 Title: Algoritmi, automatismi e predizioni
-Date: 2020-05-05 12:00:00
+Date: 2020-08-14 12:00:00
 Category: 2019
 lang: it
 Num: XXVII
 Year: 2020
-slug: e-privacy-XXVII-programma
+slug: e-privacy-XXVII
 City: ONLINE
 Where: Videoconferenza & Streaming
 When: 15-16 maggio
@@ -13,6 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: spring
 previd: 2019W
 prev: e-privacy-XXVI
+nextid: 2020
+next: e-privacy-XXVIII
 Patrocini:  
 Organizzatori: pws,hermes
 Sponsor: sepel,sikurezza.org,isgroup,ush,cgt
