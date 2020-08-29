@@ -1,10 +1,11 @@
 Template: article
 Title: In diretta
-Date: 2015-04-22 10:20
-Category: 2015
+Date: 2020-05-15 15:00
+Category: 2020
 lang: it
 slug: in-diretta
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; .yt { text-align: center; } }
 
 ###e-privacy XXVII 2020 - spring edition
 
