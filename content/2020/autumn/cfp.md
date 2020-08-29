@@ -19,7 +19,7 @@ Collaboratori: bba
 Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
-timeline: 15 settembre | 1 ottobre | 4 ottobre
+timeline: 15 settembre | 30 settembre | 2 ottobre
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
 
@@ -33,7 +33,7 @@ css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subt
 
 ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
  "Logo CoViD-19-84, contributed by Netzwerk.")
- 
+
 È dagli anni 2000 che l'arrivo di una pandemia globale, dovuta a nuovi virus che compivano un salto di specie, era una possibilità prevista, reale e contingente, non teorica, ipotetica e remota. Già molti avevano denunciato che la poca attenzione a questo tema avrebbe avuto effetti devastanti. Il coronavirus CoViD-19 non è giunto quindi inatteso, ma ci ha colti socialmente impreparati in maniera clamorosa.
 
 Non ha colto impreparati però coloro che, su ogni crisi di qualsiasi genere, speculano con ipocrisia per restringere gli spazi di libertà civile. Lo stato di emergenza ed il lockdown che sono stati usati per il controllo della pandemia sono ormai storia, e non sta a noi ma alla storia ed agli specialisti del settore giudicarne gli effetti diretti sulla pandemia.
@@ -119,7 +119,7 @@ L'accettazione o meno delle proposte sarà **comunicata entro il 15 settembre 20
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 2 ottobre 2020**.
+**entro il 30 settembre 2020**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
