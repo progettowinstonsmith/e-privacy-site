@@ -8,8 +8,8 @@ lang: it
 Num: XXVIII
 Year: 2020
 City: ONLINE
-Where: Location & Videoconferenza & Streaming
-When: TBD ottobre
+Where: Videoconferenza & Streaming
+When: 2 e 3 ottobre 2020
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020
@@ -19,13 +19,18 @@ Collaboratori: bba
 Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
 Patrocini:
 MediaPartner: infomedia,radioradicale,aneddotica
-timeline: 15 settembre | 30 settembre | 2 ottobre
+timeline: 15 settembre | 21 settembre | 30 settembre
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
 
 
-## e-privacy XXVIII @ PARALLEL EDITION
+## e-privacy XXVIII @ ONLINE EDITION
 ## Call for Papers
+
+** Il 2 e 3 ottobre 2020, in videoconferenza e streaming, si svolgerà e-privacy XXVIII **
+
+Purtroppo, anche per questa edizione, la situazione della pandemia non ci ha permesso di definire una sede fisica adeguata.
+
 
 **<div class="title-XXVIII">«CoViD 1984»</div>**
 **<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
@@ -61,7 +66,7 @@ Infatti alcuni risultati positivi che esse hanno ottenuto durante la pandemia e 
 ***E se non lo facciamo noi, chi altri?***
 
 
-** Il Progetto Winston apre quindi il CfP per l'edizione autunnale di e-privacy, che si svolgerà in parallelo, sia online, ma (speriamo) ***anche in una sede fisica*** che stiamo cercando, con gli ovvi problemi, di definire. **
+** Il Progetto Winston apre quindi il CfP per l'edizione autunnale di e-privacy. **
 
 <br>
 Maggiori dettagli e modalità di partecipazione, sia come relatore
@@ -113,9 +118,9 @@ Le proposte di intervento dovranno essere presentate utilizzando il
 form disponibile in questa  [pagina](https://forms.gle/BaoMGNF5FnggAXJq7)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
-termine ultimo del 10 settembre 2020__.
+termine ultimo del 15 settembre 2020__.
 
-L'accettazione o meno delle proposte sarà **comunicata entro il 15 settembre 2020**.
+L'accettazione o meno delle proposte sarà **comunicata entro il 21 settembre 2020**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
