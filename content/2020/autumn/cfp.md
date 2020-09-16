@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: CoViD 1984
-Date: 2020-08-15 14:00:00
+Date: 2020-08-15 14:00:01
 slug: e-privacy-XXVIII
 Category: 2020
 lang: it
@@ -25,6 +25,16 @@ css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subt
 
 
 ## e-privacy XXVIII @ ONLINE EDITION
+<br>
+
+** Il 15 settembre si è chiuso, come annunciato, il Call for Papers. **
+
+** Entro il 21 settembre i proponenti verranno avvisati della accettazione o meno della loro proposta. **
+
+** Contestualmente saranno publicati programma ed orario. **
+
+
+
 ## Call for Papers
 
 ** Il 2 e 3 ottobre 2020, in videoconferenza e streaming, si svolgerà e-privacy XXVIII **
@@ -114,8 +124,7 @@ Le proposte dovranno contenere:
 - se disponibile alla pubblicazione di registrazioni audio
 - se disponibile alla pubblicazione di registrazioni video
 
-Le proposte di intervento dovranno essere presentate utilizzando il
-form disponibile in questa  [pagina](https://forms.gle/BaoMGNF5FnggAXJq7)
+** Le proposte di intervento non possono più essere presentate in quanto il CfP è ormai chiuso. **
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
 termine ultimo del 15 settembre 2020__.
