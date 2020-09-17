@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: CoViD 1984
-Date: 2020-08-15 14:00:01
+Date: 2020-09-17 14:00:01
 slug: e-privacy-XXVIII
 Category: 2020
 lang: it
