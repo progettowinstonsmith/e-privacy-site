@@ -1,37 +1,37 @@
 Template: event
 Title: Nuove tecnologie di controllo
-Date: 2020-08-26 12:00:00
-Category: 2019
+Date: 2020-09-16 20:00:00
+Category: 2020
 lang: it
 Num: XXVIII
 Year: 2020
 slug: e-privacy-XXVIII-programma
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
-When: TBD ottobre
+City: ONLINE
+Where: Location & Videoconferenza & Streaming
+When: 2-3 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
 Organizzatori: hermes,pws
 previd: 2020
 prev: e-privacy-XXVII
 MediaPartner: infomedia, radioradicale
-css: .title-XXVII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVII {{ font: 18px arial, sans-serif; text-align: center; }}
+css: .title-XXVIII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVIII {{ font: 18px arial, sans-serif; text-align: center; }}
 
-###e-privacy 2020 - summer edition
+###e-privacy 2020 - autumn edition
 
-Il ** 15 e 16 maggio 2020 ** ONLINE  si svolgerà **e-privacy 2020
-_summer edition_**.
+Il ** 2 e 3 ottobre 2020 ** ONLINE  si svolgerà **e-privacy 2020
+_autumn edition_**.
 
 Il tema guida della XXVI edizione di e-privacy è:
 
-<div class="title-XXVII">«Algoritmi, automatismi e predizioni»</div>
-<div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
+**<div class="title-XXVIII">«CoViD 1984»</div>**
+**<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
 <br/>
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+** La partecipazione al convegno è libera e gratuita  **
+
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
@@ -40,7 +40,15 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 15 maggio 2020 - pomeriggio
+#### <a name="vep"></a>Venerdì 2 ottobre 2020 - mattina
+
+* Chairman: {G1M_CHAIRMAN}
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | ------- 
+{G1M}
+
+#### <a name="vep"></a>Venerdì 2 ottobre 2020 - pomeriggio
 
 * Chairman: {G1P_CHAIRMAN}
 
@@ -48,7 +56,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 ------- | --- | ------- 
 {G1P}
 
-#### <a name="sam"></a>Venerdì 16 maggio 2020 - mattina
+#### <a name="sam"></a>Sabato 3 ottobre 2020 - mattina
 
 * Chairman: {G2M_CHAIRMAN}
 
@@ -62,8 +70,6 @@ La manifestazione e’ organizzata da:
 
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
-
-e da altre organizzazioni, aziende ed associazioni.
 
 
 ### Contatti

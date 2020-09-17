@@ -17,25 +17,25 @@ logging.basicConfig(level=logging.INFO)
 
 ### ---------------------------------------- CONFIGURATION
 
-SPREADSHEET_ID = '1HcyR9y-jKcjJllKeY6SUgrpLBeCoXyaBLsZ59edY8e0'
+SPREADSHEET_ID = '1jJKB4NZhYNgmtp05IryhcdFJdU2ZcAlL9PbQfZvRH5g'
 
 RELAZIONI = 'RELAZIONI'
 RELATORI = 'RELATORI'
 
 ORGANIZZATORI = ['calamari','giorio','somma']
 
-EPRIVACY_N = 'XXVII'
+EPRIVACY_N = 'XXVIII'
 
 URL = 'e-privacy-'
 
-PATH = 'content/2020/summer/'
+PATH = 'content/2020/autumn/'
 
 PROG_FNAME = 'programma.md'
 
 GIORNO1 = 'Giorno1'
 GIORNO2 = 'Giorno2'
 
-SESSIONI = '1P,2M'.split(',')
+SESSIONI = '1M,1P,2M'.split(',')
 
 F_ORG = 'org'
 
@@ -310,6 +310,7 @@ def compose_people(talk, db, all=False):
 def compose_person(rdb, *people, org=True):
     output = []
     for person in people:
+        person = re.sub("\d","",person)
         if person not in rdb:
             LOGGER.error('COMPOSE_PERSON:NO RECORD FOR:'+person)
             continue
@@ -348,7 +349,13 @@ def compose_title(relazioni, talk):
 # compose_time
 # cimpose_duration
 
-def compose_speakers(all_relatori, db):
+def compose_email(all_relatori, all_relazioni, db, dictionary):
+    write_out(PATH,'email.md',
+              RELATORI = _compose_speakers(all_relatori, db),
+              INTERVENTI = _compose_interventi(all_relazioni, db),
+              **dictionary)
+
+def _compose_speakers(all_relatori, db):
     relatori = {}
     for cognome, item in sorted(all_relatori):
         rkey = item['Cognome'].capitalize()
@@ -361,7 +368,11 @@ def compose_speakers(all_relatori, db):
     for label,relatore in sorted(relatori.items()):
         LOGGER.info('SPEAKERS:writeout:'+label)
         str_out += relatore + "\n"
-    write_out(PATH, 'speakers.md', RELATORI=str_out)
+    return str_out
+
+def compose_speakers(all_relatori, db):
+    write_out(PATH, 'speakers.md',
+              RELATORI=_compose_speakers(all_relatori, db))
 
 def compose_speaker_bio(item,db):
     label = item['label']
@@ -399,7 +410,7 @@ def compose_speaker_bio(item,db):
         return bio
 
 
-def compose_interventi(all_relazioni, db):
+def _compose_interventi(all_relazioni, db):
     # service, id, db, pr):
     str_out = ""
     relazioni = dict()
@@ -408,7 +419,11 @@ def compose_interventi(all_relazioni, db):
         relazioni[label] = compose_talk_info(talk, db)
     for label,relazione in sorted(relazioni.items()):
         str_out += relazione + "\n"
-    write_out(PATH, 'interventi.md', INTERVENTI=str_out)
+    return str_out
+
+def compose_interventi(all_relazioni, db):
+    write_out(PATH, 'interventi.md',
+              INTERVENTI=_compose_interventi(all_relazioni, db))
 
 def compose_talk_info(talk, db):
     label = talk['author']
@@ -507,7 +522,8 @@ def setup_program_session(info, relazioni, relatori):
             relatore = talk['author']
             intervento = relazioni[relatore]
             D_relazioni.append((relatore, talk))
-            D_relatori.append((relatore, relatori[relatore] ))
+            relatoreX = re.sub("\d","",relatore)
+            D_relatori.append((relatore, relatori[relatoreX] ))
             if 'altri' in talk:
                 for altro in talk['altri'].split(','):
                     if altro in relatori:
@@ -669,9 +685,8 @@ def main(debug,debug_section):
     write_out(PATH, PROG_FNAME , **dictionary)
 
     compose_speakers(all_relatori, db)
-
     compose_interventi(all_relazioni, db)
-
+    compose_email(all_relatori, all_relazioni, db, dictionary)
 
 if __name__ == '__main__':
     main()
