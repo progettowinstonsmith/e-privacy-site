@@ -1,0 +1,138 @@
+Template: event
+Title: Nuove tecnologie di controllo
+Date: 2020-09-14 12:00:00
+Category: 2020
+lang: it
+Num: XXVIII
+Year: 2020
+slug: e-privacy-XXVIII-onepage
+City: ONLINE
+Where: Location & Videoconferenza & Streaming
+When: 2-3 ottobre
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Season: estate
+Organizzatori: hermes,pws
+previd: 2020
+prev: e-privacy-XXVII
+MediaPartner: infomedia, radioradicale
+css: .title-XXVIII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXVIII {{ font: 18px arial, sans-serif; text-align: center; }}
+
+###e-privacy 2020 - autumn edition
+
+Il ** 2 e 3 ottobre 2020 ** ONLINE  si svolgerà **e-privacy 2020
+_autumn edition_**.
+
+Il tema guida della XXVI edizione di e-privacy è:
+
+**<div class="title-XXVIII">«CoViD 1984»</div>**
+**<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
+<br/>
+
+###Iscrizioni
+
+** La partecipazione al convegno è libera e gratuita  **
+
+
+<!--
+<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
+-->
+
+### <a name="programma"></a>Programma del Convegno
+
+
+#### <a name="vep"></a>Venerdì 2 ottobre 2020 - mattina
+
+* Chairman: {G1M_CHAIRMAN}
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | ------- 
+{G1M}
+
+#### <a name="vep"></a>Venerdì 2 ottobre 2020 - pomeriggio
+
+* Chairman: {G1P_CHAIRMAN}
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | ------- 
+{G1P}
+
+#### <a name="sam"></a>Sabato 3 ottobre 2020 - mattina
+
+* Chairman: {G2M_CHAIRMAN}
+
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+------- | --- | ------- 
+{G2M}
+
+
+## <a name="talks"></a>Gli interventi
+
+{INTERVENTI}
+
+## <a name="speakers"></a>I chairman
+
+### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
+
+Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra,
+a 18 anni dovette decidere se comprarsi una macchina usata od un
+pc. Scelse il pc e da allora non si e' ancora completamente ripreso.
+Lavora come archeologo di software legacy in una grande
+multinazionale, ma e' appassionato di privacy e crittografia in Rete,
+dove collabora a progetti di software libero come Freenet, Mixmaster,
+Mixminion, Tor & GlobaLaks.
+
+E' il fondatore del Progetto Winston Smith e tra i fondatori
+dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
+Dal 2002 organizza il convegno "e-privacy" dedicato alla
+privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
+dove pubblica la rubrica settimanale 
+<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
+
+### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
+
+Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
+una multinazionale di seminconduttori prima, nel marketing e nel web
+marketing poi, ho successivamente avuto altre esperienza professionali
+prima di approdare alla Pubblica Amministrazione, nei servizi
+demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare
+con SEPEL articoli in varie materie demografiche e di interesse
+generale della PA, ho tenuto corsi di formazione per un'Associazione
+di settore, dopo avere ottenuto il titolo di formatore dal Ministero
+dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla
+PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
+relatore.
+
+
+### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
+
+Emmanuele Somma è prestato da anni al Progetto Winston Smith,
+collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
+Digitali ed è militante del Partito Radicale. È giornalista
+pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
+Internet wealth".
+
+## <a name="speakers"></a>I relatori
+
+{RELATORI}
+
+
+
+### Gli organizzatori
+
+La manifestazione e’ organizzata da:
+
+ - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+
+
+### Contatti
+
+Per contatti generali e per la
+stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
+per i relatori
+[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
+
+Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
+disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
+
+**Vi aspettiamo**.
