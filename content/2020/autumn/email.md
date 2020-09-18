@@ -46,12 +46,12 @@ Il tema guida della XXVI edizione di e-privacy è:
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-10:20|10|<span class='talk'><em>*Apertura lavori*: "Covid-1984"</em></span>
+10:20|10|<span class='talk'><em>*Apertura lavori*: "CoViD-1984"</em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#beltrami">Giulio Beltrami (AICA e Informatici senzaFrontiere)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXVIII-interventi.html#beltrami">a-privacy</a></em></span>
-10:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#monti">Andrea Monti (Università di Chieti-Pescara)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXVIII-interventi.html#monti">Scienza, tecnocontrollo e public-policy nell’era COVID-19</a></em></span>
+10:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#monti">Andrea Monti (Università di Chieti-Pescara)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXVIII-interventi.html#monti">Scienza, tecnocontrollo e public-policy nell’era CoViD-19</a></em></span>
 11:20|35|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice / Comune di Villanova Canavese)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXVIII-interventi.html#giorio">Dall’Ente locale al controllo generale: l’emergenza vista dagli Enti pubblici territoriali</a></em></span>
-11:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#amoruso">Gennaro Maria Amoruso (Studio Legale Amoruso - Data Protection Officer Aziende sanitarie Pubbliche )</a> e <a href="/e-privacy-XXVIII-relatori.html#alongi">Virgina Alongi (Avvocato - Data Protection Office presso enti pubblici e privati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXVIII-interventi.html#amoruso">Quale futuro per la sanità nell’era dell’infosfera Riflessioni e prospettive al tempo di Covid-19</a></em></span>
-12:20|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#faini">Marco Faini (Perani Pozzi Associati)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXVIII-interventi.html#faini">L'invasività delle nuove tecnologie  per contrastare la pandemia da Covid-19</a></em></span>
+11:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#amoruso">Gennaro Maria Amoruso (Studio Legale Amoruso - Data Protection Officer Aziende sanitarie Pubbliche )</a> e <a href="/e-privacy-XXVIII-relatori.html#alongi">Virgina Alongi (Avvocato - Data Protection Office presso enti pubblici e privati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXVIII-interventi.html#amoruso">Quale futuro per la sanità nell’era dell’infosfera Riflessioni e prospettive al tempo di CoViD-19</a></em></span>
+12:20|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#faini">Marco Faini (Perani Pozzi Associati)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXVIII-interventi.html#faini">L'invasività delle nuove tecnologie  per contrastare la pandemia da CoViD-19</a></em></span>
 12:45|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#aterno">Stefano Aterno (Avvocato)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXVIII-interventi.html#aterno">Il potere dell’emergenza e l’affievolimento dei diritti.</a></em></span>
 13:10||<span class='talk'><em>Chiusura lavori</em></span>
 
@@ -68,7 +68,7 @@ Il tema guida della XXVI edizione di e-privacy è:
 16:40|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#marra">Angelo D. Marra (Avvocato - Formatore - Diritti in Movimento di Paolo Cendon)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXVIII-interventi.html#marra">"Processi da Remoto, Accessibilità e Privacy - piccoli ragionamenti dal sistema alla pratica"</a></em></span>
 17:05|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#berto">Rebecca Berto (Nessuna)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXVIII-interventi.html#berto">Tecnologia e  meccanismi alternativi di risoluzione delle controversie</a></em></span>
 17:30|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXVIII-interventi.html#ciurcina">Form e sostanza</a></em></span>
-17:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#gobbato">Monica  Gobbato  (PrivacyAcademy)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXVIII-interventi.html#gobbato">I codici di condotta privacy. Come progettarli al meglio in base al gdps</a></em></span>
+17:55|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#gobbato">Monica  Gobbato  (PrivacyAcademy)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXVIII-interventi.html#gobbato">I codici di condotta privacy. Come progettarli al meglio in base al GDPR</a></em></span>
 18:20||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 #### <a name="sam"></a>Sabato 3 ottobre 2020 - mattina
@@ -82,22 +82,22 @@ Il tema guida della XXVI edizione di e-privacy è:
 10:45|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#lopez">Ugo Lopez (Studio di Ingegneria Informatica e Forense Prof. Ing. Ugo Lopez)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXVIII-interventi.html#lopez1">Qualifiche (non) necessarie per diventare un informatico forense: chi tratta i nostri dati giudiziari?</a></em></span>
 11:10|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#bassoli">Elena Bassoli Williams (Studio Legale Bassoli - ANGIF)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXVIII-interventi.html#bassoli">La Cyber-etica nella giustizia predittiva</a></em></span>
 11:35|35|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#martino">Antonio Anselmo Martino (Academia Nacional de Ciencias de Buenos Aires)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXVIII-interventi.html#martino">Limiti etici ai sistemi intelligenti</a></em></span>
-12:10|35|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXVIII-interventi.html#delninno">La schedatura mediante raccolta dei dati sanitari della popolazione: quali scenari e regole alla luce delle norme emergenziali per il COVID-19.</a></em></span>
+12:10|35|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXVIII-interventi.html#delninno">La schedatura mediante raccolta dei dati sanitari della popolazione: quali scenari e regole alla luce delle norme emergenziali per il CoViD-19.</a></em></span>
 12:45|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#pazzaglia">Aldo A. Pazzaglia (Comitato "I Want My Money Back")</a> e <a href="/e-privacy-XXVIII-relatori.html#delsoldato">Flavio Del Soldato (Comitato I Want My Money Back)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXVIII-interventi.html#pazzaglia">Accesso Civico Generalizzato e Diritto alla Tutela dei Dati Personali</a></em></span>
 13:10||<span class='talk'><em>*Chiusura*</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="amoruso"></a> Quale futuro per la sanità nell’era dell’infosfera Riflessioni e prospettive al tempo di Covid-19<a href="/e-privacy-XXVIII-programma.html#1m04">⇧</a>
+#### <a name="amoruso"></a> Quale futuro per la sanità nell’era dell’infosfera Riflessioni e prospettive al tempo di CoViD-19<a href="/e-privacy-XXVIII-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXVIII-relatori.html#amoruso">Gennaro Maria Amoruso (Studio Legale Amoruso - Data Protection Officer Aziende sanitarie Pubbliche )</a> e <a href="/e-privacy-XXVIII-relatori.html#alongi">Virgina Alongi (Avvocato - Data Protection Office presso enti pubblici e privati)</a>*
 
 Luciano Floridi, filosofo dell’informazione, definisce l'infosfera come "lo spazio informatico semantico costituito dalla totalità dei documenti, degli agenti e delle loro operazioni”.
-L’arrivo improvviso della pandemia di COVID-19 ha sconvolto gli equilibri sociali su molteplici fronti, primo tra tutti quello della sanità.
+L’arrivo improvviso della pandemia di CoViD-19 ha sconvolto gli equilibri sociali su molteplici fronti, primo tra tutti quello della sanità.
 Nel contesto pandemico la telemedicina ha conosciuto un’impennata senza precedenti: potremmo dire che si è passati da zero a cento in pochi secondi dando prova che una sanità innovativa è una sanità più equa ed efficiente. 
 Il presente intervento, sul piano tecnico scientifico, vuole essere un ulteriore momento di riflessione e di confronto sulle potenzialità e sui benefici che la telemedicina può assicurare in quanto strumento di garanzia della tutela della salute; sul piano giuridico e sociale, invece, ci si vuole soffermare sull’importanza ed il valore dei dati e sulle implicazioni determinate dal GDPR e dal Codice privacy e dei loro principi fondanti. 
 Il patrimonio di dati che abbiamo a disposizione è infatti enorme. Un modello dove i dati generano conoscenza e possono essere valorizzati in tanti modi e per motivi diversi proprio per il carattere della loro molteplicità ed è per questo che costituiscono un interessante oggetto di analisi soprattutto nel settore della salute. 
-Il management dei dati nella digital health o e-health richiede dunque importanti riflessioni sulla disciplina della protezione dei dati personali che nell’emergenza COVID-19 ha giocato anch’essa un ruolo di prima donna. 
+Il management dei dati nella digital health o e-health richiede dunque importanti riflessioni sulla disciplina della protezione dei dati personali che nell’emergenza CoViD-19 ha giocato anch’essa un ruolo di prima donna. 
 L’utilizzo dei dati, in particolare quelli relativi alla salute, si è rilevato infatti uno strumento indispensabile nell’azione di contrasto della pandemia che pone però questioni afferenti il controllo sociale.  Verranno esaminati due recenti documenti elaborati dall’Istituto Superiore di Sanità – ISS: il rapporto n. 12 del 13 aprile 2020 ed il rapporto n. 42 del 28 maggio 2020, per trarre ulteriori spunti di riflessione sul rapporto tra due diritti fondamentali da tutelare: il diritto alla salute previsto dall’art. 32 della Costituzione ed il diritto alla protezione dei dati.
 
 
@@ -128,7 +128,7 @@ contraddizione tra i due termini: la “convivenza” con il virus, (il suo sign
 Nella nostra Costituzione questo stato attuale delle cose non e’ previsto.
 “Nella Carta costituzionale non si rinvengono clausole di sospensione dei diritti fondamentali da attivarsi nei tempi eccezionali, né previsioni che in tempi di crisi consentano alterazioni nell’assetto dei poteri. (…) Anche nel tempo presente, dunque, ancora una volta è la Carta costituzionale così com’è – con il suo equilibrato complesso di principi, poteri, limiti e garanzie, diritti, doveri e responsabilità – a offrire alle Istituzioni e ai cittadini la bussola necessaria a navigare «per l’alto mare aperto» dell’emergenza e del dopo-emergenza che ci attende”(Pres. Corte Costituzionale, Prof. Ssa Marta Cartabia)
 La ripercussione anche sul diritto alla riservatezza della persona e’ evidente, registrazione e 
-dei  dati  personali ovunque si vada, limitazione di alcuni diritti di cui agli art.15 e ss del Gdpr  (perche’ ? Si puo’ comprendere la sospensione del diritto alla cancellazione ma non il diritto di accesso ai dati).
+dei  dati  personali ovunque si vada, limitazione di alcuni diritti di cui agli art.15 e ss del GDPR  (perche’ ? Si puo’ comprendere la sospensione del diritto alla cancellazione ma non il diritto di accesso ai dati).
 Siamo in un periodo dove tutto e’ sospeso  e siamo in attesa di capire tante cose ma questo non ci deve impedire di sollevare con forza le nostre perplessità.
 
 
@@ -196,16 +196,16 @@ Che messaggio trasmettere per incentivare la cultura della privacy oggi?
 Cosa fare per trasmettere questo messaggio in modo efficace?
 
 
-#### <a name="delninno"></a> La schedatura mediante raccolta dei dati sanitari della popolazione: quali scenari e regole alla luce delle norme emergenziali per il COVID-19.<a href="/e-privacy-XXVIII-programma.html#2m05">⇧</a>
+#### <a name="delninno"></a> La schedatura mediante raccolta dei dati sanitari della popolazione: quali scenari e regole alla luce delle norme emergenziali per il CoViD-19.<a href="/e-privacy-XXVIII-programma.html#2m05">⇧</a>
 *<a href="/e-privacy-XXVIII-relatori.html#delninno">Alessandro Del Ninno (Studio legale Tonucci & Partners)</a>*
 
-Come sta cambiando, alla luce dell'emergenza COVID-19, il trattamento dei dati sanitari dei cittadini? Quali rischi in termini di schedatura e controllo possono determinarsi con l'emanazione delle nuove norme emergenziali? Quali sono i nuovi trattamenti (o le nuove modalità) dei dati relativi alla salute dei cittadini che con l'emergenza COVID-19 sono stati previsti dalle nuove norme, oltre a quelli noti via app Immuni? Il quadro regolatorio di cui al Regolamento 679/2016 continua ad approntare le stringenti e necessarie cautele per il dato sanitario o è in qualche modo depotenziato dalla emanazione dei decreti d'urgenza, dei dpcm, delle ordinanze ministeriali che hanno caratterizzato e stanno caratterizzando il periodo emergenziale? Sono solo alcune delle domande cui la relazione cerca di rispondere partendo dalla illustrazione degli attuali scenari a seguito della emanazione delle norme COVID-19 nel 2020.
+Come sta cambiando, alla luce dell'emergenza CoViD-19, il trattamento dei dati sanitari dei cittadini? Quali rischi in termini di schedatura e controllo possono determinarsi con l'emanazione delle nuove norme emergenziali? Quali sono i nuovi trattamenti (o le nuove modalità) dei dati relativi alla salute dei cittadini che con l'emergenza CoViD-19 sono stati previsti dalle nuove norme, oltre a quelli noti via app Immuni? Il quadro regolatorio di cui al Regolamento 679/2016 continua ad approntare le stringenti e necessarie cautele per il dato sanitario o è in qualche modo depotenziato dalla emanazione dei decreti d'urgenza, dei dpcm, delle ordinanze ministeriali che hanno caratterizzato e stanno caratterizzando il periodo emergenziale? Sono solo alcune delle domande cui la relazione cerca di rispondere partendo dalla illustrazione degli attuali scenari a seguito della emanazione delle norme CoViD-19 nel 2020.
 
 
-#### <a name="faini"></a> L'invasività delle nuove tecnologie  per contrastare la pandemia da Covid-19<a href="/e-privacy-XXVIII-programma.html#1m05">⇧</a>
+#### <a name="faini"></a> L'invasività delle nuove tecnologie  per contrastare la pandemia da CoViD-19<a href="/e-privacy-XXVIII-programma.html#1m05">⇧</a>
 *<a href="/e-privacy-XXVIII-relatori.html#faini">Marco Faini (Perani Pozzi Associati)</a>*
 
-La pandemia da Covid-19 ha sconvolto le nostre vite. 
+La pandemia da CoViD-19 ha sconvolto le nostre vite. 
 I governi, anche i più democratici, hanno dovuto limitare gli spostamenti delle persone. Quest’ultimi, durante la fase di lockdown, hanno schierato i corpi di polizia per effettuare l’enforcement di tali misure e sono giunti sino a utilizzare droni per scovare coloro che non rispettavano le misure imposte. 
 I governi autoritari hanno utilizzato sistemi più invasivi, già in uso, per il social credit system, tra cui il riconoscimento facciale, la geolocalizzazione e l’IA, per mantenere monitorati gli spostamenti dei propri cittadini al fine di diminuire il contagio. 
 Sono stati documentati casi in cui droni equipaggiati di fotocamere atte al riconoscimento facciale mandavano messaggi audiovisivi a soggetti in quarantena per intimarli a rientrare presso la propria abitazione. 
@@ -221,7 +221,7 @@ E vediamo fino a che punto è lecito ed accettabile comprimere le libertà perso
 
 
 
-#### <a name="gobbato"></a> I codici di condotta privacy. Come progettarli al meglio in base al gdps<a href="/e-privacy-XXVIII-programma.html#1p07">⇧</a>
+#### <a name="gobbato"></a> I codici di condotta privacy. Come progettarli al meglio in base al GDPR<a href="/e-privacy-XXVIII-programma.html#1p07">⇧</a>
 *<a href="/e-privacy-XXVIII-relatori.html#gobbato">Monica  Gobbato  (PrivacyAcademy)</a>*
 
 Le Autorità per la protezione dei dati personali incoraggiano l’elaborazione di codici di condotta destinati a garantire la  corretta applicazione del Regolamento, in base alle specificità settoriali e alle esigenze specifiche delle imprese.
@@ -264,7 +264,7 @@ Quali sono i rischi per la privacy? Quali le contromisure che i colossi come Fac
 *<a href="/e-privacy-XXVIII-relatori.html#marra">Angelo D. Marra (Avvocato - Formatore - Diritti in Movimento di Paolo Cendon)</a>*
 
 
-A causa della Pandemia dichiarata dall’OMS sul Covid-19, stiamo vivendo un incremento dell'uso della telematica nuovo per il Paese.
+A causa della Pandemia dichiarata dall’OMS sul CoViD-19, stiamo vivendo un incremento dell'uso della telematica nuovo per il Paese.
 
 L’uso della telematica comporta anche un maggiore accesso ai diritti da parte delle persone con disabilità: le udienze da remoto sono un ottimo strumento per avvicinare i cittadini alla Giustizia e "aprire" la professione agli avvocati con disabilità.
 
@@ -272,7 +272,7 @@ Il Talk  vuole offrire spunti al dibattito attuale evidenziando la possibile con
 
 Si offre una riflessione sulla accessibilità nel processo anche con riguardo alle diverse prassi operative in riferimento alla privacy, nel processo civile ed in quello amministrativo. 
 
-Chiude  il Talk una piccola riflessione sulla governance della Giustizia, la digitalizzazione del Paese  ed i possibili passi da fare per valorizzare l'esperienza vissuta in ragione del Covid-19 al fine di costruire una società (digitale) più inclusiva. 
+Chiude  il Talk una piccola riflessione sulla governance della Giustizia, la digitalizzazione del Paese  ed i possibili passi da fare per valorizzare l'esperienza vissuta in ragione del CoViD-19 al fine di costruire una società (digitale) più inclusiva. 
 
 
 #### <a name="martino"></a> Limiti etici ai sistemi intelligenti<a href="/e-privacy-XXVIII-programma.html#2m04">⇧</a>
@@ -281,10 +281,10 @@ Chiude  il Talk una piccola riflessione sulla governance della Giustizia, la dig
 L’IA  e i sistemi intelligenti in generale stanno arrivando a tutte le nostre attività  pubbliche e private dal cellulare al controllo aereo.  Cinque imprese detengono più del 75 %  dei dati dell’umanità.  Da sempre sappiamo come comportarci in società e in greco si chiama etos, ma ora l’etica ha a che fare con situazioni nuove mai viste prime da una macchina autonoma al riconoscimento faciale fatto da un sistema intelligente. Lo sviluppo tecnologico si è sparato in una linea ascendente quasi dritta, mentre lo sviluppo sociale, politico sono ancora una linea appena ascendendone. Ci vogliono delle linee guida per sapere come comportarci, chi sono i responsabili e come prevedere gli sviluppi dei prossimi 10 anni. C’è una specie d’irresponsabilità sociale sia di fronte alla crescita smisurata delle disuguaglianze sia alle conseguenze di azioni (u omissioni) di sistemi intelligenti.  Tra l’etica kantiana dell’imperativo categorico alla teoria dei doveri prima facie di C. Ross  ci sono molte posizioni possibili e già l’UE,  la OCDE e ora l’Unesco stanno rilasciando documenti per creare dei limiti all’uso (e all’abuso)  di sistemi intelligenti in società.
 
 
-#### <a name="monti"></a> Scienza, tecnocontrollo e public-policy nell’era COVID-19<a href="/e-privacy-XXVIII-programma.html#1m02">⇧</a>
+#### <a name="monti"></a> Scienza, tecnocontrollo e public-policy nell’era CoViD-19<a href="/e-privacy-XXVIII-programma.html#1m02">⇧</a>
 *<a href="/e-privacy-XXVIII-relatori.html#monti">Andrea Monti (Università di Chieti-Pescara)</a>*
 
-L'intervento analizza i problemi emersi dall’impiego della tecnologia nella definizione ed attuazione delle misure di contrasto alla pandemia COVID-19. Evidenzia il ruolo della scienza nel supporto ai processi decisionali e la necessità di distinguere i diversi ambiti di attendibilità delle informazioni ai finidel policy by number. Segnala l’impatto dell’uso (pur involontariamente) sinergico dei dati nella comunicazione pubblica e in quella dei media comefunzionale all’induzione di uno stato di learned helplessness favorito dall’opera “infantilizzante” delle tecnologie dell’informazione che si traduce in unaminore reattività verso la limitazione dei diritti e delle prerogative democratiche del cittadino. Sostiene, a seguito di una analisi comparata, che laresistenza all’impiego esteso delle tecnologie dell’informazione per contrastare la pandemia – e in generale per la gestione della sicurezza – sia causata dalritardo tecnologico italiano che ha impedito di fondare la riflessione giuridica su concrete scelte di public policy e sulle relative attuazioni normative.
+L'intervento analizza i problemi emersi dall’impiego della tecnologia nella definizione ed attuazione delle misure di contrasto alla pandemia CoViD-19. Evidenzia il ruolo della scienza nel supporto ai processi decisionali e la necessità di distinguere i diversi ambiti di attendibilità delle informazioni ai finidel policy by number. Segnala l’impatto dell’uso (pur involontariamente) sinergico dei dati nella comunicazione pubblica e in quella dei media comefunzionale all’induzione di uno stato di learned helplessness favorito dall’opera “infantilizzante” delle tecnologie dell’informazione che si traduce in unaminore reattività verso la limitazione dei diritti e delle prerogative democratiche del cittadino. Sostiene, a seguito di una analisi comparata, che laresistenza all’impiego esteso delle tecnologie dell’informazione per contrastare la pandemia – e in generale per la gestione della sicurezza – sia causata dalritardo tecnologico italiano che ha impedito di fondare la riflessione giuridica su concrete scelte di public policy e sulle relative attuazioni normative.
 
 
 #### <a name="pazzaglia"></a> Accesso Civico Generalizzato e Diritto alla Tutela dei Dati Personali<a href="/e-privacy-XXVIII-programma.html#2m06">⇧</a>
@@ -501,7 +501,7 @@ Antonio A. Martino,  già professore dell’Università di Pisa in Scienze polit
 
 #### <a name="monti"></a> Andrea Monti (Università di Chieti-Pescara)
 
-Andrea Monti, avvocato cassazionista e giornalista pubblicista, è professore incaricato di diritto dell'ordine e della sicurezza pubblica nell'università di Chieti-Pescara. Ha pubblicato diversi libri ed articoli scientifici su riviste italiane e straniere sul rapporto fra diritto e tecnologia e in particolare su privacy e data-retention. In particolare, nel 2020 ha pubblicato per la Rivista Trimestrale di Scienza dell'Amministrazione (Fascia A) l'articolo "Scienza, tecnocontrollo e public-policy nell’era COVID-19" che è la base per espandere l'intervento proposto per la conferenza. Nel 2019 per Hart Publishing (Oxford) ha scritto insieme al prof. Raymond Wacks il libro "Protecting Personal Information" ed è in corso di pubblicazione, per Routledge, il libro "Covid 19 and public policy in the digital age", sempre in coauzione con il prof. Wacks. E' coautore di "Spaghetti Hacker" (ad oggi l'unica ricostruzione storica del fenomeno hacking italiano) e di "Segreti, spie, codici cifrati" (sulla tecnica, politica e diritto della crittografia). E' l'attuale presidente di ALCEI (Associazione per la libertà nella comunicazione elettronica interattiva) attiva dal 1994 che è la piu' antica associazione del mondo, al di fuori degli USA, ad occuparsi dei diritti civili online.
+Andrea Monti, avvocato cassazionista e giornalista pubblicista, è professore incaricato di diritto dell'ordine e della sicurezza pubblica nell'università di Chieti-Pescara. Ha pubblicato diversi libri ed articoli scientifici su riviste italiane e straniere sul rapporto fra diritto e tecnologia e in particolare su privacy e data-retention. In particolare, nel 2020 ha pubblicato per la Rivista Trimestrale di Scienza dell'Amministrazione (Fascia A) l'articolo "Scienza, tecnocontrollo e public-policy nell’era CoViD-19" che è la base per espandere l'intervento proposto per la conferenza. Nel 2019 per Hart Publishing (Oxford) ha scritto insieme al prof. Raymond Wacks il libro "Protecting Personal Information" ed è in corso di pubblicazione, per Routledge, il libro "CoViD 19 and public policy in the digital age", sempre in coauzione con il prof. Wacks. E' coautore di "Spaghetti Hacker" (ad oggi l'unica ricostruzione storica del fenomeno hacking italiano) e di "Segreti, spie, codici cifrati" (sulla tecnica, politica e diritto della crittografia). E' l'attuale presidente di ALCEI (Associazione per la libertà nella comunicazione elettronica interattiva) attiva dal 1994 che è la piu' antica associazione del mondo, al di fuori degli USA, ad occuparsi dei diritti civili online.
 
 
 
