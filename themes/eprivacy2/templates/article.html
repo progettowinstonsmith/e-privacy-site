@@ -1,4 +1,9 @@
 {% extends "base.html" %}
+{% block redirect  %}
+{% if article.redirect %}
+<meta http-equiv="refresh" content="5; URL={{article.redirect}}" />
+{% endif %}
+{% endblock %}
 {% block title %}
 {% if article.num %}e-privacy {{ article.num }} — {% endif %}
 {{ article.title|striptags }}
