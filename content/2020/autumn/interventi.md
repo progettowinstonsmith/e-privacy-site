@@ -12,8 +12,6 @@ When: 2-3 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
 Organizzatori: hermes,pws
-previd: CALL
-prev: e-privacy-XXVIIII-cfp
 previd: 2020
 prev: e-privacy-XXVII
 MediaPartner: infomedia, radioradicale

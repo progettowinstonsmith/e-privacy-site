@@ -6,7 +6,6 @@ lang: it
 Num: XXVIII
 Year: 2020
 slug: e-privacy-XXVIII-relatori
-Year: 2020
 City: ONLINE
 Where: Location & Videoconferenza & Streaming
 When: 2-3 ottobre
