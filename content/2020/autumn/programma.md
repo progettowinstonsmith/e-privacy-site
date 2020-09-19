@@ -30,7 +30,7 @@ Il tema guida della XXVI edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita  **
+** La partecipazione al convegno è libera e gratuita   **
 
 
 <!--
