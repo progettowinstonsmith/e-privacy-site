@@ -1,6 +1,6 @@
 Template: event
 Title: Nuove tecnologie di controllo
-Date: 2020-09-16 20:00:00
+Date: 2020-09-18 20:00:00
 Category: 2020
 lang: it
 Num: XXVIII
