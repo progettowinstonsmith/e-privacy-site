@@ -132,7 +132,7 @@ Come sta cambiando, alla luce dell'emergenza CoViD-19, il trattamento dei dati s
 
 
 #### <a name="faini"></a> L'invasività delle nuove tecnologie  per contrastare la pandemia da CoViD-19<a href="/e-privacy-XXVIII-programma.html#1m05">⇧</a>
-*<a href="/e-privacy-XXVIII-relatori.html#faini">Marco Faini (Perani Pozzi Associati)</a>*
+*<a href="/e-privacy-XXVIII-relatori.html#faini">Marco Faini (Perani Pozzi Associati)</a>, Elena Pagani (Perani Pozzi Associati)*
 
 La pandemia da CoViD-19 ha sconvolto le nostre vite. 
 I governi, anche i più democratici, hanno dovuto limitare gli spostamenti delle persone. Quest’ultimi, durante la fase di lockdown, hanno schierato i corpi di polizia per effettuare l’enforcement di tali misure e sono giunti sino a utilizzare droni per scovare coloro che non rispettavano le misure imposte. 
