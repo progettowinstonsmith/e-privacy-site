@@ -1,5 +1,4 @@
 Template: event
-Status: draft
 Title: FAQ per i relatori
 Date: 2020-08-20 12:00:00
 slug: e-privacy-XXVIII-faq-relatori
