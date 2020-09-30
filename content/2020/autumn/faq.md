@@ -18,10 +18,11 @@ nextid:
 next:
 
 
-Questa FAQ è dedicata ai relatori di eprivacy 2020 summer edition Firenze.
+Questa FAQ è dedicata ai relatori di eprivacy 2020 autumn edition.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
-[https://e-privacy.winstonsmith.org/e-privacy-XXVIII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVIII-proposta.html)
+
+[https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html](https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html)
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
@@ -35,7 +36,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 31 Maggio, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -46,8 +47,6 @@ Per sintetizzare quello che è scritto più estesamente dopo:
 - [per informare di contrattempi o per comunicare con l'organizzazione
   usa **esclusivamente** l'indirizzo email ](#contrattempiprima)
   [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org)
-
-- [arriva in sala all'inizio del tuo **blocco* di interventi](#arrivi)
 
 - [**è necessario** comunicare tempestivamente eventuali arrivi in
   ritardo: l'organizzazione non ti garantisce lo svolgimento
@@ -62,19 +61,10 @@ referenti dei relatori.](#contrattempidurante)
 
 Certamente!
 
-Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il  31 maggio** in formato PDF obbligatoriamente (se consegnate anche
+Le slide da proiettare dovranno essere consegnate con l'apposita [https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html](applicazione) in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
-Il computer a disposizione è connesso ad Internet e permette la
-normale navigazione Web (entro limiti ragionevoli).
-
-In alternativa sarà possibile collegare un computer personale al
-proiettore. (COMUNQUE VI CHIEDIAMO DI CONSEGNARE LE SLIDES, vedi sotto).
-
-<!-- Il proiettore ha un connettore VGA e una risoluzione di 640x480. -->
-
-Sarà disponibile una rete WiFi, ma non è garantito che funzioni.
+Durante la presentazione potrete voi stessi a mettere in condivisione lo schermo della presentazione attraverso il programma usato (Zoom).
 
 Potrebbe essere possibile (ma a vostro rischio e pericolo) usare
 slides direttamente online (Prezi, Keynote iCloud, ecc.) in questo
@@ -110,7 +100,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[https://e-privacy.winstonsmith.org/e-privacy-XXVIII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVIII-proposta.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html](https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -159,33 +149,10 @@ comunicazione equivalga alla nostra accettazione.
 
 # <a name="arrivi"></a>Quando devo arrivare?
 
-Vi chiediamo di prendere posto sul palco all'inizio delle sessioni a
-quindi **essere presenti almeno 5 minuti prima della vostra sessione**
-con l'orario indicato sotto. Se arrivate in sala in precedenza
-sappiate che in prima fila sotto il podio saranno disponibili sei
-posti dedicati ai relatori della sessione successiva.
+Vi chiediamo di essere disponibili all'intervento fin dall'inizio delle sessioni a
+quindi **essere presenti almeno 15 minuti prima della vostra sessione** (mattutina/pomeridiana).
 
-Venerdì 15:
-
-Blocco | Relatori
----- | ----
-Ore 09.00 |  
-Ore 11.00 |  
-Ore 14.30 |  
-Ore 16.00 |  
-
-Sabato 16:
-
-Blocco | Relatori
----- | ----
-Ore 09.00 | 
-Ore 11.00 | 
-Ore 14.30 |
-Ore 16.00 | 
-
-
-È gradito che i relatori non lascino il tavolo dopo l'intervento fino
-alla successiva pausa.
+È gradito che i relatori restino con noi, per eventuali commenti o domande successive.
 
 # <a name="ritardo"></a>Se sto arrivando in ritardo?
 
@@ -202,15 +169,14 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno giovedì 6 è **Diego Giorio**
-per il giorno venerdì 7 è **Emmanuele Somma**.
+Il referente dei relatori sono gli organizzatori di cui avete ricevuto i numeri.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza.
 
 **È inutile telefonare!**
 
-Mandate un messaggio SMS e spiegate se possibile brevemente il
+Mandate un *messaggio SMS* e spiegate se possibile brevemente il
 problema, il referente richiamerà appena può o, se siete in sala,
 chiederà di incontrarvi al banco della reception.
 

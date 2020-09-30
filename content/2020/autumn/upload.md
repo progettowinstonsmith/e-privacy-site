@@ -15,4 +15,4 @@ previd: 2020
 prev: e-privacy-XXVII
 
 
-Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbynQ-F5MLra2McR8pKSR7CbOMr4RaeeUwfMEGL4_Q/exec) con la password fornita ai relatori.
+Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbxjlFugmqfoTdwzBaRxFwK600w7kNBGA1pnzZF97rXL3I5aMGc/exec) con la password fornita ai relatori.
