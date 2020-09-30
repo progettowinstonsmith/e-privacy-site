@@ -12,7 +12,7 @@ When: TBD ottobre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020
-prev: e-privacy-XXIV
+prev: e-privacy-XXVIII-programma
 nextid:
 next:
 
@@ -35,6 +35,8 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
+- [il congresso avverrà collegandosi online attraverso Zoom. La segreteria vi contatterà prima del vostro intervento per darvi il link di collegamento.](#zoom)
+
 - [se vuoi proiettare le tue slides **è utile** consegnarle, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
@@ -55,12 +57,17 @@ Per sintetizzare quello che è scritto più estesamente dopo:
 - [per ogni contrattempo è possibile rivolgerti (via SMS o Whatsapp) ai
 referenti dei relatori.](#contrattempidurante)
 
+# <a name="zoom"></a>Modalità di svolgimento dell'intervento online
+
+L'intervento sarà svolto online attraverso Zoom. La segreteria vi contatterà via Whatsapp (o SMS o in ultimo via telefono se tutto il resto fallisce) per darvi le coordinate di collegamento. Una volta collegati rimarrete in lista d'attesa e sarete messi online al momento del vostro intervento.
+
+Se avete dimestichezza con lo strumento non dovrebbero esserci problemi. Altrimenti chiedeteci SUBITO di fare un test. Ci accorderemo prima dell'evento.
 
 # <a name="proiezione"></a>Posso proiettare delle slides?
 
 Certamente!
 
-Le slide da proiettare dovranno essere consegnate con l'apposita [https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html](applicazione) in formato PDF obbligatoriamente (se consegnate anche
+Le slide da proiettare dovranno essere consegnate con l'apposita [applicazione](https://e-privacy.winstonsmith.org/e-privacy-XXVIII-upload.html) in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Durante la presentazione potrete voi stessi a mettere in condivisione lo schermo della presentazione attraverso il programma usato (Zoom).
@@ -166,16 +173,17 @@ questo non sia possibile l'intervento potrebbe essere sostituito o,
 nella peggiore delle ipotesi, rimanere vuoto.
 
 
+
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori sono gli organizzatori di cui avete ricevuto i numeri.
+I referenti dei relatori sono gli organizzatori di cui avete ricevuto i numeri.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza.
 
-**È inutile telefonare!**
+È inutile telefonare!
 
-Mandate un *messaggio SMS* e spiegate se possibile brevemente il
+Mandate un **messaggio SMS** e spiegate se possibile brevemente il
 problema, il referente richiamerà appena può o, se siete in sala,
 chiederà di incontrarvi al banco della reception.
 
@@ -186,10 +194,11 @@ via email alla [segreteria](mailto:segreteria@winstonsmith.org)
 indicando le stesse informazioni nel soggetto del messaggio in questo
 modo:
 
-    Oggetto: JULIA - <COGNOME> - <GIORNO> - <TIPO>
+
+Oggetto: JULIA - [COGNOME] - [GIORNO] - [TIPO]
 
 ad esempio:
 
-    Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
+Oggetto: JULIA - SMITH - GIO - Slide proiettabili (PDF)
 
 allegando il file al messaggio.
