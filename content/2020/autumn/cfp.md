@@ -2,7 +2,7 @@ Template: event
 XStatus: draft
 Title: CoViD 1984
 Date: 2020-09-17 14:00:01
-slug: e-privacy-XXVIII
+slug: e-privacy-XXVIII-cfp
 Category: 2020
 lang: it
 Num: XXVIII
