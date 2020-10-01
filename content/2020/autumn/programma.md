@@ -27,6 +27,26 @@ Il tema guida della XXVI edizione di e-privacy è:
 **<div class="title-XXVIII">«CoViD 1984»</div>**
 **<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
 <br/>
+### **Siamo in dirittura d'arrivo.**
+
+Venerdì mattina, cioè domani, inizierà l'evento in streaming su Youtube.
+Questi sono i link alle pagine Youtube delle tre sessioni.
+
+Venerdì 2 mattina - [https://youtu.be/tUYdQgVpTjc](https://youtu.be/tUYdQgVpTjc)
+<br>
+Venerdì 2 pomeriggio - [https://youtu.be/B-Ht5SoiwSw](https://youtu.be/B-Ht5SoiwSw)
+<br>
+Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
+
+Detto questo non resta che invitarti, come di consueto, a lasciare un piccolo obolo per l'organizzazione del congresso. 
+
+**Come sai tutte le attività del Progetto Winston Smith sono completamente volontarie e autofinanziate dagli organizzatori, non riceviamo sovvenzioni pubbliche e solo talvolta donazioni di modesta entità. L'esistenza di e-privacy non è mai stata scontata ma se abbiamo potuto resistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
+
+Per le donazioni è possibile usare [Paypal](http://paypal.me/eprivacy).
+
+O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (più o meno riceveremo 5€ di donazione per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).
+
+
 
 ###Iscrizioni
 
