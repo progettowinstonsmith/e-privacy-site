@@ -1,5 +1,5 @@
 Template: event
-Title: Nuove tecnologie di controllo
+Title: Covid-1984
 Date: 2020-09-18 20:00:00
 Category: 2020
 lang: it
@@ -7,13 +7,14 @@ Num: XXVIII
 Year: 2020
 slug: e-privacy-XXVIII-programma
 City: ONLINE
-Where: Location & Videoconferenza & Streaming
+Where: Streaming
 When: 2-3 ottobre
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: estate
-Organizzatori: hermes,pws
+Season: autunno
 previd: 2020
 prev: e-privacy-XXVII
+Organizzatori: pws, hermes
+Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 MediaPartner: infomedia, radioradicale
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
