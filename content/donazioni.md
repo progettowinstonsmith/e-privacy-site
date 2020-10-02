@@ -1,7 +1,7 @@
 Template: article
 Title: Donazioni
 lang: it
-Date: 2020-09-18 20:00:00
+Date: 2020-09-17 20:00:00
 slug: donazioni-e-privacy
 
 Caro amico,
