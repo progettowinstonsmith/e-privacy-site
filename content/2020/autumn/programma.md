@@ -18,7 +18,7 @@ Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 MediaPartner: infomedia, radioradicale
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
-####e-privacy 2020 XXVIII - autumn edition
+#### <b> e-privacy 2020 XXVIII - autumn edition </b>
 
 Il ** 2 e 3 ottobre 2020 ** ONLINE  si svolgerà **e-privacy 2020
 _autumn edition_**.
