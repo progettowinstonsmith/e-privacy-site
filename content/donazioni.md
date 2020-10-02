@@ -1,7 +1,5 @@
 Template: article
 Title: Donazioni
-Date: 2015-04-22 10:20
-Category: 2015
 lang: it
 slug: donazioni-e-privacy
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
