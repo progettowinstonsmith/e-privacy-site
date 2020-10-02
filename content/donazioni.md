@@ -8,15 +8,9 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 
 Caro amico,
 
-di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile vista anche la sala prestigiosa che ci ospita e una serie di problematiche logistiche. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti che potremo utilizzare anche nell'organizzazione della prossima edizione).
+di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile per una serie di problematiche ben note. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti che potremo utilizzare anche nell'organizzazione della prossima edizione).
 
-Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene accetta) apriremo in anticipo le registrazioni al congresso e comunque anche dopo l'apertura delle registrazioni gratuite sarà comunque possibile iscriversi con una donazione.
-
-Potete usare direttamente l'iscrizione per fare la vostra donazione al Progetto Winston Smith per l'organizzazione di E-Privacy  sulla pagina di EVENTBRITE <!-- [EVENTBRITE](https://www.eventbrite.it/e/biglietti-e-privacy-2015-la-trasparenza-e-la-privacy-16856755008). -->, quando sarà disponibile.
-
-Se non vi va di fare una donazione, dopo la pubblicazione del programma è comunque disponibile la registrazione *gratuita* e si potrà prendere un biglietto d'accesso senza pagare.
-
-Se volete fare una donazione indipendentemente dall'acquisizione del biglietto potete contattatarci semplicemente rispondendo a mailto:segreteria@winstonsmith.org oppure usare i seguenti pulsanti:
+Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene accetta) potete contattatarci semplicemente rispondendo a mailto:segreteria@winstonsmith.org, oppure usare i seguenti pulsanti:
 
 ### Donazione singola
 
@@ -49,10 +43,7 @@ Se volete fare una donazione indipendentemente dall'acquisizione del biglietto p
 </form>
 </div>
 
-ATTENZIONE: la donazione è assolutamente volontaria ma l'iscrizione al
-convegno è obbligatoria ANCHE per i relatori. Quindi se intendete
-venire ad E-Privacy fatela con una donazione o gratuitamente: ma non
-dimenticatelo!
+Puoi anche acquistare una delle nostre magliette, da sfoggiare con orgoglio; comprando una delle nostre nuove magliette riceveremo automaticamente 5€ di donazione per ogni maglietta. Puoi ordinarla [qui](https://worthwearing.org/store/progetto-winston-smith).
 
 Oltre alle donazioni potete aiutarci con la vostra disponibilità a
 lavorare ai nostri progetti.
