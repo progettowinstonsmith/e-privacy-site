@@ -1,14 +1,12 @@
 Template: article
 Title: Donazioni
 lang: it
+Date: 2020-09-18 20:00:00
 slug: donazioni-e-privacy
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 Caro amico,
 
-di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile per una serie di problematiche ben note. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti che potremo utilizzare anche nell'organizzazione della prossima edizione).
-
-Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene accetta) potete contattatarci semplicemente rispondendo a mailto:segreteria@winstonsmith.org, oppure usare i seguenti pulsanti:
+di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile per una serie di problematiche ben note. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti); potete usare i seguenti pulsanti:
 
 ### Donazione singola
 
@@ -41,7 +39,9 @@ Per permettervi di contribuire con delle donazioni (qualsiasi cifra è bene acce
 </form>
 </div>
 
-Puoi anche acquistare una delle nostre magliette, da sfoggiare con orgoglio; comprando una delle nostre nuove magliette riceveremo automaticamente 5€ di donazione per ogni maglietta. Puoi ordinarla [qui](https://worthwearing.org/store/progetto-winston-smith).
+** Oppure puoi anche acquistare una delle nostre magliette, da sfoggiare con orgoglio; comprando una delle nostre nuove magliette riceveremo automaticamente 5€ di donazione per ogni maglietta. Puoi ordinarla [qui](https://worthwearing.org/store/progetto-winston-smith).**
+
+Per permettervi di contribuire con altri metodi (qualsiasi cifra è bene accetta) potete contattatarci semplicemente rispondendo a mailto:segreteria@winstonsmith.org
 
 Oltre alle donazioni potete aiutarci con la vostra disponibilità a
 lavorare ai nostri progetti.
