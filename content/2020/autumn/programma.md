@@ -15,7 +15,7 @@ previd: 2020
 prev: e-privacy-XXVII
 Organizzatori: pws, hermes
 Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
-MediaPartner: infomedia, radioradicale
+MediaPartner: infomedia,radioradicale,aneddotica
 css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVIII { font: 18px arial, sans-serif; text-align: center; }
 
 #### <b> e-privacy 2020 XXVIII - autumn edition </b>
