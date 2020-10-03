@@ -25,7 +25,7 @@ Tutti i progetti di Winston Smith sono esclusivamente realizzati da volontari.
 
 Se vuoi aiutarci, consulta la pagina "Collabora".
 
-<!--
+
 ; potete usare i seguenti pulsanti:
 
 ### Donazione singola
@@ -38,7 +38,7 @@ Se vuoi aiutarci, consulta la pagina "Collabora".
 <img alt="pixel" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
 </form>
 </div>
-
+<!--
 ### Donazione ricorrente  
 
 <div align=center>
