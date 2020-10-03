@@ -20,17 +20,15 @@ css: .title-XXVIII { font: 25px arial, sans-serif; text-align: center; }   .subt
 
 #### <b> e-privacy 2020 XXVIII - autumn edition </b>
 
-Il ** 2 e 3 ottobre 2020 ** ONLINE  si svolgerà **e-privacy 2020
+Il ** 2 e 3 ottobre 2020 ** ONLINE  si è svolta **e-privacy XXVIII 2020
 _autumn edition_**.
 
-Il tema guida della XXVI edizione di e-privacy è:
+Il tema guida della XXVIII edizione di e-privacy è stato:
 
 **<div class="title-XXVIII">«CoViD 1984»</div>**
 **<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
-<br/>
-### **Pubblicate le slide fornite dai relatori; potete usarle per seguire meglio le presentazioni in streaming.**
 
-Questi sono i link alle pagine Youtube delle tre sessioni:
+**Questi sono i link alle video Youtube delle tre sessioni: **
 
 Venerdì 2 mattina - [https://youtu.be/tUYdQgVpTjc](https://youtu.be/tUYdQgVpTjc)
 <br>
@@ -38,14 +36,13 @@ Venerdì 2 pomeriggio - [https://youtu.be/B-Ht5SoiwSw](https://youtu.be/B-Ht5Soi
 <br>
 Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
 
-Detto questo non resta che invitarti, come di consueto, a lasciare un piccolo obolo per l'organizzazione del congresso. 
+#### <b>Lasciaci un piccolo obolo per realizzare il prossimo congresso.</b>
 
-**Come sai tutte le attività del Progetto Winston Smith sono completamente volontarie e autofinanziate dagli organizzatori, non riceviamo sovvenzioni pubbliche e solo talvolta donazioni di modesta entità. L'esistenza di e-privacy non è mai stata scontata ma se abbiamo potuto resistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
+**Come sai, le attività del Progetto Winston Smith sono completamente autofinanziate dagli organizzatori; non riceviamo sovvenzioni pubbliche, e solo talvolta donazioni private di modesta entità. L'esistenza di e-privacy non è mai stata scontata, e se abbiamo potuto r-esistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
 
-Per le donazioni è possibile usare [Paypal](http://paypal.me/eprivacy).
+** Per le donazioni è possibile usare [Paypal](http://paypal.me/eprivacy). **
 
-O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (più o meno riceveremo 5€ di donazione per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).
-
+**O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (riceveremo 5€ per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).**
 
 
 ###Iscrizioni
