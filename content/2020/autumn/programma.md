@@ -93,7 +93,7 @@ O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una
 
 #### <a name="sam"></a>Sabato 3 ottobre 2020 - mattina
 
-* Chairman: <a href="/e-privacy-XXVIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
+* Chairman: <a href="/e-privacy-XXVIII-relatori.html#ferri">Edoardo Ferri (Progetto Winston Smith)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
