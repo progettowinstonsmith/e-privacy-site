@@ -1,0 +1,69 @@
+Template: event
+Title: Lasciateci la faccia
+Date: 2021-03-15 00:00:00
+Category: 2021
+lang: it
+Num: XXIX
+Year: 2021
+slug: e-privacy-XXIX-relatori
+City: Firenze
+Where: Sala della Miniatura<br/>Palazzo Vecchio
+When: 21-22 maggio
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Season: summer
+Organizzatori: hermes,pws
+previd: 2020W
+prev: e-privacy-XXVIII
+previd: 2020W
+prev: e-privacy-XXVIII
+MediaPartner: infomedia
+css: .title-XXIX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXIX {{ font: 18px arial, sans-serif; text-align: center; }}
+
+## <a name="speakers"></a>I chairman
+
+### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
+
+Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra,
+a 18 anni dovette decidere se comprarsi una macchina usata od un
+pc. Scelse il pc e da allora non si e' ancora completamente ripreso.
+Lavora come archeologo di software legacy in una grande
+multinazionale, ma e' appassionato di privacy e crittografia in Rete,
+dove collabora a progetti di software libero come Freenet, Mixmaster,
+Mixminion, Tor & GlobaLaks.
+
+E' il fondatore del Progetto Winston Smith e tra i fondatori
+dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
+Dal 2002 organizza il convegno "e-privacy" dedicato alla
+privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
+dove pubblica la rubrica settimanale 
+<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
+
+### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
+
+Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
+una multinazionale di seminconduttori prima, nel marketing e nel web
+marketing poi, ho successivamente avuto altre esperienza professionali
+prima di approdare alla Pubblica Amministrazione, nei servizi
+demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare
+con SEPEL articoli in varie materie demografiche e di interesse
+generale della PA, ho tenuto corsi di formazione per un'Associazione
+di settore, dopo avere ottenuto il titolo di formatore dal Ministero
+dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla
+PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
+relatore.
+
+
+### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
+
+Emmanuele Somma è prestato da anni al Progetto Winston Smith,
+collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
+Digitali ed è militante del Partito Radicale. È giornalista
+pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
+Internet wealth".
+
+## <a name="speakers"></a>I relatori
+
+{RELATORI}
+
+
+
