@@ -30,12 +30,12 @@ Patrocini: com_cagliari2015, reg_sardegna, odg_sardegna, oda_cagliari
 ## CAPTATORI INFORMATICI E SOCIETÀ CIVILE
 
 
-**Cagliari (MEM, via Mameli 164), 16-17 OTTOBRE 2015**  
+**Cagliari (MEM, via Mameli 164), 16-17 OTTOBRE 2015**
 
 
 Tra gli ospiti: Giuseppe Busia (segretario del Garante Privacy), Paolo De Angelis (magistrato), Claudio Guarnieri, Gianmario Demuro (assessore Regione Sardegna), Anna Paola Loi (assessore comune di Cagliari)
 
-E' atteso un videomessaggio dell'Europarlamentare Videomessaggio di Marietje Schaake (Deputato del Parlamento Europeo, Gruppo dell'Alleanza dei Democratici e dei Liberali per l’Europa) 
+E' atteso un videomessaggio dell'Europarlamentare Videomessaggio di Marietje Schaake (Deputato del Parlamento Europeo, Gruppo dell'Alleanza dei Democratici e dei Liberali per l’Europa)
 
 La società civile e le nuove esigenze di convivenza tra privacy, sicurezza e tecnocontrollo vissuto nella diffusione di "captatori informatici" o "trojan" (Trojan horse, cavallo di Troia), ossia quei software che nascondono codice pronto a frugare e assaltare i dati degli utenti. Esigenze più forti che mai nell'anno in cui le cronache informatiche mondiali hanno ruotato su Hacking Team, società milanese i cui dati privatissimi sono stati rilasciati in rete lo scorso 6 luglio a seguito di un clamoroso attacco che, tra l'altro, ha reso disponibile quasi tutto il patrimonio informativo dell'azienda, incluse le email, le chat e la documentazione interna, svelando molti aspetti critici.
 
@@ -79,10 +79,10 @@ Si ringrazia la direttrice della Mem Dolores Melis, le bibliotecarie e i bibliot
 Cagliari, 13 ottobre 2015.
 
 ### Sede del Convegno
-  
-La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).   
-  
-![La foto è tratta da www.comunecagliarinews.it]({filename}/images/sale/mediatecamediterraneocagliari.jpg
+
+La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).
+
+![La foto è tratta da www.comunecagliarinews.it]({static}/images/sale/mediatecamediterraneocagliari.jpg
  "foto pubblicata su www.comunecagliarinews.it")
 
 
@@ -93,9 +93,8 @@ La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritt
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
- 
+
 
 ### Contatti
 
 Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-

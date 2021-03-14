@@ -30,53 +30,53 @@ Il tema dell‘edizione invernale 2015 è:
 **Captatori Informatici e società civile: una convivenza possibile?**
 
 
-“Dalla cronaca di “Hacked Team” e dalle prese di posizione di autorità e corpi dello Stato deve 
+“Dalla cronaca di “Hacked Team” e dalle prese di posizione di autorità e corpi dello Stato deve
 iniziare un dibattito tecnico/legale indispensabile per la società civile”
 
-La violazione di Hacking Team, ditta italiana che produce(va?) software come RCS, la successiva 
-disseminazione di mail, documenti di progetto e di fatturazione, codici sorgenti ed eseguibili, ha esposto nei 
-più minuti dettagli le capacità di questi programmi che la Cassazione, in una sentenza di qualche anno fa, 
+La violazione di Hacking Team, ditta italiana che produce(va?) software come RCS, la successiva
+disseminazione di mail, documenti di progetto e di fatturazione, codici sorgenti ed eseguibili, ha esposto nei
+più minuti dettagli le capacità di questi programmi che la Cassazione, in una sentenza di qualche anno fa,
 aveva definito “captatori informatici”.
 
-I documenti commerciali e le reazioni immediate di una serie di soggetti utilizzatori, costretti ad uscire allo 
-scoperto dalla pubblicazione delle informazioni e dal successivo “spegnimento” di tutti i captatori installati 
+I documenti commerciali e le reazioni immediate di una serie di soggetti utilizzatori, costretti ad uscire allo
+scoperto dalla pubblicazione delle informazioni e dal successivo “spegnimento” di tutti i captatori installati
 operato da Hacking Team stessa, hanno resa evidente l'estensione del loro utilizzo.
 
-La stessa “onnipotenza”  di tali software, che possono eseguire intercettazioni ambientali, sequestrare file, 
-alterare il computer ed i file in esso contenuti, li rendono uno strumento che mette in crisi le categorie 
-classiche dei mezzi di ricerca della prova (intercettazioni di conversazioni e di comunicazioni, ispezioni e 
-perquisizioni), e dei loro limiti con riguardo alle libertà fondamentali, al punto che qualche anno fa la Corte 
-Costituzionale Tedesca, in una storica sentenza, che riguardava proprio l'introduzione di un “trojan di 
-Stato”, ebbe a enucleare un nuovo diritto costituzionale, il diritto alla confidenzialità e integrità dei sistemi 
-D'altra parte l'utilizzo di tecnologie di crittografia forte può rendere estremamente difficile, se non 
+La stessa “onnipotenza”  di tali software, che possono eseguire intercettazioni ambientali, sequestrare file,
+alterare il computer ed i file in esso contenuti, li rendono uno strumento che mette in crisi le categorie
+classiche dei mezzi di ricerca della prova (intercettazioni di conversazioni e di comunicazioni, ispezioni e
+perquisizioni), e dei loro limiti con riguardo alle libertà fondamentali, al punto che qualche anno fa la Corte
+Costituzionale Tedesca, in una storica sentenza, che riguardava proprio l'introduzione di un “trojan di
+Stato”, ebbe a enucleare un nuovo diritto costituzionale, il diritto alla confidenzialità e integrità dei sistemi
+D'altra parte l'utilizzo di tecnologie di crittografia forte può rendere estremamente difficile, se non
 impossibile, l'uso delle tecniche “tradizionali” di intercettazione e perquisizione.
 
-È possibile bilanciare – anche dal lato tecnico e non solo giuridico - gli interessi contrapposti delle attività di 
-indagine con le libertà fondamentali dei cittadini? 
+È possibile bilanciare – anche dal lato tecnico e non solo giuridico - gli interessi contrapposti delle attività di
+indagine con le libertà fondamentali dei cittadini?
 
-Durante le passate edizioni di e-privacy, fin dal 2008, il tema era stato più volte affrontato, ma oggi 
-riteniamo importante, alla luce della estensione del fenomeno,  utilizzare l'episodio di “Hacked Team” per 
-approfondire un cammino di informazione, regolamentazione e legalità nel rispetto dei diritti civili, per non 
+Durante le passate edizioni di e-privacy, fin dal 2008, il tema era stato più volte affrontato, ma oggi
+riteniamo importante, alla luce della estensione del fenomeno,  utilizzare l'episodio di “Hacked Team” per
+approfondire un cammino di informazione, regolamentazione e legalità nel rispetto dei diritti civili, per non
 trasformare l'uso dei captatori informatici in una NSA in sedicesimo.
 
 ### Il Convegno
 
-Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed 
-interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono 
-continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più 
+Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed
+interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono
+continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più
 intimi dettagli.
 
-L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove 
-tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore 
-pubblico ed istituzionale. 
+L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove
+tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore
+pubblico ed istituzionale.
 
-Verranno prese in considerazione anche proposte su temi diversi da quello dell'edizione, purché di 
+Verranno prese in considerazione anche proposte su temi diversi da quello dell'edizione, purché di
 interesse e di attualità.
 
 ### Le proposte di intervento
 
-Il comitato organizzatore valuterà proposte in ambito tecnologico, legale, istituzionale e 
-giurisprudenziale, delle scienze sociali, della filosofia, dell'informatica e dell'attivismo digitale, 
+Il comitato organizzatore valuterà proposte in ambito tecnologico, legale, istituzionale e
+giurisprudenziale, delle scienze sociali, della filosofia, dell'informatica e dell'attivismo digitale,
 della privacy, della non-discriminazione, della sorveglianza e dei diritti civili digitali.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
@@ -100,8 +100,8 @@ Gli interventi saranno effettuati dal vivo e, previo consenso dei relatori, regi
 È apprezzata la disponibilità del relatore a concedere la pubblicazione del materiale prodotto e delle riprese
 dell’intervento sotto licenza libera.
 
-Al fine di mantenere la propria indipendenza, il convegno è, come sempre, a budget zero. 
-I relatori ed i partecipanti dovranno provvedere in proprio alle spese di viaggio e soggiorno. 
+Al fine di mantenere la propria indipendenza, il convegno è, come sempre, a budget zero.
+I relatori ed i partecipanti dovranno provvedere in proprio alle spese di viaggio e soggiorno.
 
 Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno carattere non economico
 e sono intese come adesione morale ai temi ed ai principi
@@ -132,14 +132,14 @@ L'accettazione o meno delle proposte sarà **comunicata entro il
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in forma elettronica esclusivamente con le modalità che saranno comunicate dall'organizzazione, entro **entro il 12 ottobre 2015**.
 
-Se destinati alla pubblicazione sul sito del Convegno, tutti I materiali dovranno contenere 
+Se destinati alla pubblicazione sul sito del Convegno, tutti I materiali dovranno contenere
 l'indicazione della licenza libera prescelta (suggerita:  CC-BY-ND).
 
 ### Sede del Convegno
-  
-La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).   
-  
-![La foto è tratta da www.comunecagliarinews.it]({filename}/images/sale/mediatecamediterraneocagliari.jpg
+
+La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).
+
+![La foto è tratta da www.comunecagliarinews.it]({static}/images/sale/mediatecamediterraneocagliari.jpg
  "foto pubblicata su www.comunecagliarinews.it")
 
 
@@ -150,9 +150,8 @@ La manifestazione e’ organizzata da HERMES - Centro Studi Trasparenza e Diritt
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
- 
+
 
 ### Contatti
 
 Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-

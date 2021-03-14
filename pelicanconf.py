@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2020/10/2 09:30'
+EVENT_TIME = '2021/05/21 09:30'
 
 COUNTDOWN = True
 
@@ -22,7 +22,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2020 spring: Algoritmi, automatismi e predizioni'
+SITENAME = u'e-privacy 2021 summer: Lasciateci la faccia'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 SITEURL = ''
 OLDSITE = 'https://e-privacy.winstonsmith.org'
@@ -33,8 +33,8 @@ TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2020'
-EDITION = 'autumn'
+YEAR = u'2021'
+EDITION = 'summer'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -78,7 +78,8 @@ ISCRIVITI='''
 
 # Blogroll
 PREVS = (
-    ('mappa di tutte le edizioni', '/mappa.html'),
+    #('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2020 autumn XXVIII', '/e-privacy-XXVIII.html'),
     ('e-privacy 2020 summer XXVII', '/e-privacy-XXVII.html'),
     ('e-privacy 2019 winter XXVI', '/e-privacy-XXVI.html'),
     ('e-privacy 2019 summer XXV', '/e-privacy-XXV.html'),

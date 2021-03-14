@@ -23,7 +23,7 @@ Descrizione| e-privacy è dal 2002 il convegno per giuristi, ingegneri, giornali
 Info |[Call for Paper](/e-privacy-estate-2015-la-trasparenza-e-la-privacy.html)(scade 01/06)
 | [Call for Sponsor](http://localhost:8000/e-privacy-estate-2015-la-trasparenza-e-la-privacy-call-for-sponsorship.html)
 
-Il 2 e 3 luglio si svolgerà presso la Camera dei Deputati l'edizione estiva del convegno e-privacy 2015 dedicato al delicato confronto tra Trasparenza e Privacy. 
+Il 2 e 3 luglio si svolgerà presso la Camera dei Deputati l'edizione estiva del convegno e-privacy 2015 dedicato al delicato confronto tra Trasparenza e Privacy.
 
 In Italia fin dal 2002 il convegno e-privacy è stato il luogo in cui,
 con un approccio pratico e multidisciplinare, giuristi, ingegneri,
@@ -69,10 +69,10 @@ Marco Pierani
 Giovedì 2 Luglio | 9.30 - 9.45 | M. Calamari, Istituzioni | Apertura dei lavori
 | 9.45 - 10.30 | G.B. Gallus | Le linee guida ANAC sul whistleblowing nella PA dove portano?
 | 10.30 - 11.00 | E. Tramaci | La propaganda della paura per vendere il fallimento della videosorveglianza
-| 11.00 - 11.30 | I. Cerno | Programmatic Buying e profilazione dell’utente 
+| 11.00 - 11.30 | I. Cerno | Programmatic Buying e profilazione dell’utente
 | 11.30 - 12.00 | G. Augiero | Cosa rischia un'Identità Digitale?
 | 12.00 - 12.30 | A. Filastò | OONI: la censura è un errore della rete?
-| 12.30 - 13.15 | Tavola Rotonda | 
+| 12.30 - 13.15 | Tavola Rotonda |
 | 13.15 - 14.15 | **Intervallo**
 | 14.15 - 15.00 | IRPI | La qualità dell'informazione giornalistica
 | 15.00 - 15.45 | Hermes | Whistleblowing: Un Greewald Experiment sul tuo giornale (stato attuale)
@@ -84,7 +84,7 @@ Venerdì 3 Luglio | 9.30 - 9.45 | M. Calamari | Apertura dei lavori
  | 11.30 - 12.15 | F. P. Micozzi | Le fonti di prova digitale nella Internet of Things
  | 12.15 - 13.00 | Tavola rotonda | I rischi e le opportunità di una giustizia al  digitale
  | 13.00 - 14.00 | **Intervallo**
- | 14.00 - 14.45 | M. Vacca  | Giornalismo della trasparenza e giornalismo della privacy 
+ | 14.00 - 14.45 | M. Vacca  | Giornalismo della trasparenza e giornalismo della privacy
  | 14.45 - 15.30 | R. Chiesa | La trasparenza (per scelta altrui): dal FOIA al Datagate
  | 15.30 - 16.15 | C. Agosti | Trackography: i tuoi  dati in giro per il mondo
  | 16.15 - 17.00 | Tavola Rotonda | Conoscere il digitale per conoscere la realtà
@@ -116,20 +116,20 @@ relatori
 
 ### Organizzatori di e-privacy
 
-[![hermes]({filename}/images/logo/hermes.png)
+[![hermes]({static}/images/logo/hermes.png)
 ](http://www.logioshermes.org)
-[![Progetto Winston Smith]({filename}/images/logo/pws.png)
+[![Progetto Winston Smith]({static}/images/logo/pws.png)
 ](http://pws.winstonsmith.org)
 
 ### Sponsor e partecipanti di e-privacy
 
-[![Sikurezza.org]({filename}/images/logo/sikurezza.gif)
+[![Sikurezza.org]({static}/images/logo/sikurezza.gif)
 ](http://www.sikurezza.org) |
-[![OPSI]({filename}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
-[![USH.it]({filename}/images/logo/ush.jpg) ](http://www.ush.it)
+[![OPSI]({static}/images/logo/opsi.jpg) ](http://opsi.aipnet.it/)
+[![USH.it]({static}/images/logo/ush.jpg) ](http://www.ush.it)
 
 ### Con il patrocinio di .......
 
 
 ### Media Partners
-[![infomedia.it]({filename}/images/logo/infomedia.png)  ](http://www.infomedia.it) 
+[![infomedia.it]({static}/images/logo/infomedia.png)  ](http://www.infomedia.it)

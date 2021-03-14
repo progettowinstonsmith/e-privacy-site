@@ -15,7 +15,7 @@ previd: 2019W
 prev: e-privacy-XXVI
 nextid: 2020
 next: e-privacy-XXVIII
-Patrocini:  
+Patrocini:
 Organizzatori: pws,hermes
 Sponsor: sepel,sikurezza.org,isgroup,ush,cgt
 MediaPartner: infomedia, radioradicale
@@ -65,7 +65,7 @@ La seconda giornata è accessibile anche tramite [Radio Radicale](https://www.ra
 
 Il  <a href="http://pws.winstonsmith.org">Progetto Winston Smith</a> ha lanciato l'iniziativa "CoVid-1984", che comprende tra l'altro una nuova edizione del suo <a href="http://pws.winstonsmith.org/people.html">Manifesto</a>.
 
-![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
+![ Licenza Creative Commons BY-NC-SA ]({static}/images/logo/covid1984_small.png
  "Logo CoViD-19-84, contributed by Netzwerk.")
 
 Il Manifesto 2.0 sarà aggiornato tenendo conto dei futuri effetti della pandemia sui temi della sorveglianza, del tecnocontrollo sociale e dei diritti digitali.

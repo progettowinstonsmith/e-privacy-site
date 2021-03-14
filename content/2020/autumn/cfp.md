@@ -46,7 +46,7 @@ Purtroppo, anche per questa edizione, la situazione della pandemia non ci ha per
 **<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
 <br/>
 
-![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/covid1984_small.png
+![ Licenza Creative Commons BY-NC-SA ]({static}/images/logo/covid1984_small.png
  "Logo CoViD-19-84, contributed by Netzwerk.")
 
 È dagli anni 2000 che l'arrivo di una pandemia globale, dovuta a nuovi virus che compivano un salto di specie, era una possibilità prevista, reale e contingente, non teorica, ipotetica e remota. Già molti avevano denunciato che la poca attenzione a questo tema avrebbe avuto effetti devastanti. Il coronavirus CoViD-19 non è giunto quindi inatteso, ma ci ha colti socialmente impreparati in maniera clamorosa.

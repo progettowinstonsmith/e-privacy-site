@@ -21,7 +21,7 @@ Sponsor: cgt,grusp,sikurezza.org,ush,sepel,puntoi,whistleblowingsolutions,comvil
 XPatrocini: comvilca
 MediaPartner: infomedia, radioradicale
 
-## 
+##
 ## Pubblicato il video "Cronache dalla XXII edizione di e-privacy" [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_27_cronache.mp4).
 ### Pubblicate le registrazioni audio e le slide dei relatori.
 ### Assolto il Cloud! Il video del Processo  [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_21_processo.mp4)
@@ -33,7 +33,7 @@ Il ** 13 e 14 ottobre 2017 ** (venerdì e sabato) si è svolto
 Tribunale di Venezia, presso il Ponte di Rialto.
 
 
-![ Licenza Creative Commons BY-NC-SA ]({filename}/images/sale/ve-tribunalerialtosalaassise.jpg
+![ Licenza Creative Commons BY-NC-SA ]({static}/images/sale/ve-tribunalerialtosalaassise.jpg
  "La sala della Corte di Assise del Tribunale di Venezia")
 
 
@@ -50,30 +50,30 @@ Icona | Descrizione | Icona | Descrizione
 
 #### <a name="vem"></a>Venerdì 13 Ottobre 2017 - mattina
 
- * Chairman [_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) 
+ * Chairman [_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari)
 
-  **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- | | ------- | ------- 
-  9:30	|	15	|	[_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) | Apertura lavori: "I dati perduti - Processo al Cloud" 
-9:45	|	15	|	Saluto delle autorità			
+  **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- | | ------- | -------
+  9:30	|	15	|	[_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) | Apertura lavori: "I dati perduti - Processo al Cloud"
+9:45	|	15	|	Saluto delle autorità
 10:00	|	30	|		[_L' apocalisse zombie colpisce anche le condizioni di servizio del cloud (ma noi le accettiamo lo stesso) (***intervento non tenuto***)_](e-privacy-XXII-interventi.html#gallus)	|	[_Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
-10:30	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.pdf) [![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.ppt) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.mp3) [_Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016_](e-privacy-XXII-interventi.html#delninno) 	|	[_Alessandro Del Ninno, Studio Legale Tonucci & Partners_](e-privacy-XXII-relatori.html#delninno) 
+10:30	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.pdf) [![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.ppt) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_02_del_ninno_cloud_trasferimento_internazionale.mp3) [_Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016_](e-privacy-XXII-interventi.html#delninno) 	|	[_Alessandro Del Ninno, Studio Legale Tonucci & Partners_](e-privacy-XXII-relatori.html#delninno)
 11:00	|	30	|	  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_03_la_muscatella_diritti_dati_perduti.pdf) [![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_03_la_muscatella_diritti_dati_perduti.ppt) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_03_la_muscatella_diritti_dati_perduti.mp3) 	[_I diritti (sui dati) perduti_](e-privacy-XXII-interventi.html#lamuscatella)	|	[_Donato La Muscatella_](e-privacy-XXII-relatori.html#lamuscatella)
 11:30	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_04_agostini_cloud_se_lo_conosci_lo_apprezzi.pdf)[![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_04_agostini_cloud_se_lo_conosci_lo_apprezzi.mp3)	[_Cloud computing: se lo conosci, lo apprezzi_](e-privacy-XXII-interventi.html#agostini)	|	[_Yvette Agostini_](e-privacy-XXII-relatori.html#agostini)
 12:00	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_05_pedrazzi_cloud_aldila_nuvole.pdf) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_05_pedrazzi_cloud_aldila_nuvole.mp3)	[_Al di la’ delle nuvole: il Cloud in Europa tra regolazione e contratto_](e-privacy-XXII-interventi.html#pedrazzi)	|	[_Giorgio Pedrazzi (Università degli Studi di Brescia)_](e-privacy-XXII-relatori.html#pedrazzi)
 12:30	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_06_costantini_destefani_alvise_problema_prova_digitale.pdf) [![m3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_06_costantini_destefani_alvise_problema_prova_digitale.mp3)	[_"Società del Controllo" e documentazione informatica: il problema della prova digitale_](e-privacy-XXII-interventi.html#destefani)	|	[_Federico Costantini (Università degli Studi di Udine, Dipartimento di Scienze Giuridiche), De Stefani, Marco Alvise (Synaptic Srls)_](e-privacy-XXII-relatori.html#destefani)
-13:00	| 1.00	|	PAUSA PRANZO			
+13:00	| 1.00	|	PAUSA PRANZO
 
 
 
 
 #### <a name="vep"></a>Venerdì 13 Ottobre 2017 - pomeriggio
 
- * Chairman [_Emmanuele Somma_](/e-privacy-XXII-relatori.html#somma) Progetto Winston Smith 
- 
-  **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- | --- | ------- | ------- 
-14:00	|		|	Apertura lavori pomeridiani: privacy			
+ * Chairman [_Emmanuele Somma_](/e-privacy-XXII-relatori.html#somma) Progetto Winston Smith
+
+  **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- | --- | ------- | -------
+14:00	|		|	Apertura lavori pomeridiani: privacy
 14:00	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_07_gobbato_responsabilita_privacy_nella_nuvola.pdf)	[![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_07_gobbato_responsabilita_privacy_nella_nuvola.mp3)	[_La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza_](e-privacy-XXII-interventi.html#gobbato)	|	[_Monica Gobbato, Studio Gobbato, Avvocato_](e-privacy-XXII-relatori.html#gobbato)
 14:30	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_08_ferri_privacy_questione_carattere.pdf) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_08_ferri_privacy_questione_carattere.mp3)	[_La Privacy è questione di carattere_](e-privacy-XXII-interventi.html#ferri)	|	[_Edoardo Ferri (Studio Tecnico Ferri & Costantino)_](e-privacy-XXII-relatori.html#ferri)
 15:00	|	30	|	[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_09_longo_privacy_e_pa.pdf) [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_09_longo_privacy_e_pa_2.pdf) [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_09_longo_privacy_e_pa.mp3) 	[_Privacy e pubblica amministrazione. La nuova sfida._](e-privacy-XXII-interventi.html#longo)	|	[_Valentina Longo_](e-privacy-XXII-relatori.html#longo)
@@ -88,9 +88,9 @@ Icona | Descrizione | Icona | Descrizione
 
 ** Processo al Cloud **
 
-  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- || ------- | ------- 
-  9:45	|	05	|	Apertura lavori: Processo al Cloud [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_21-processo_al_cloud.mp3) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_21_processo.mp4) 			
+  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- || ------- | -------
+  9:45	|	05	|	Apertura lavori: Processo al Cloud [![mp3](/images/icon/audio.png)](http://urna.winstonsmith.org/materiali/2017we/audio/ep2017ae_21-processo_al_cloud.mp3) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_21_processo.mp4)
 9:50	|	20	|  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_21_senor_relatore_capi_incolpazione.pdf) [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
 10:10	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_22_gallus_pubblica_accusa.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_22_gallus_pubblica_accusa.mp4) [_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:40	|	30	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_25_vertua_difesa.pdf) [_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
@@ -98,7 +98,7 @@ Icona | Descrizione | Icona | Descrizione
 11:30	|	20	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_24_ghirardini_difesa_civile_cloud_se_conosci_apprezzi.pdf) [_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
 11:50	|	1.00	|		[_Il dibattimento_](e-privacy-XXII-interventi.html#dibattimento)	|	[_tavola rotonda_](e-privacy-XXII-relatori.html#dibattimento)
 12:50	|	10	|		[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2017we/atti/ep2017ae_26_blengino_presidente_sentenza.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2017we/video/ep2017ae_26_blengino_presidente_sentenza.mp4)  [_Il Verdetto_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv. Carlo Blengino_](e-privacy-XXII-relatori.html#verdetto)
-13:00	|		|	Chiusura dei lavori			
+13:00	|		|	Chiusura dei lavori
 
 
 ## Il tema di questa edizione

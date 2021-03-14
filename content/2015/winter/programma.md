@@ -36,7 +36,7 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 
 
 ### <a name="programma"></a>Programma del Convegno
- 
+
 #### <a name="gi"></a>Venerdì 16 Ottobre 2015
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** |
@@ -70,15 +70,15 @@ Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre pi
 11:15	|	[_Giuseppe Vaciago_](/e-privacy-XVIII-relatori.html#vaciago)	|	[I captatori informatici nel contesto Europeo. Quattro casi a confronto: Germani, Portogallo, Spagna e Italia](/e-privacy-XVIII-interventi.html#vaciago) |
 11:45	|	[_Giovanni Battista Gallus_](/e-privacy-XVIII-relatori.html#gallus), [_Francesco Paolo Micozzi_](/e-privacy-XVIII-relatori.html#micozzi)	|	[Captatori informatici a trojan by any other name would spy as sweet, reloaded](/e-privacy-XVIII-interventi.html#gallus) |
 12:15	|	[_Prof. Gianmario Demuro, Assessore Affari Generali RAS_](/e-privacy-XVIII-relatori.html#demuro), [_Dr. Paolo De Angelis, Magistrato – Procura della Repubblica presso il Tribunale di Cagliari_](/e-privacy-XVIII-relatori.html#deangelis)	|	*Conclusioni* |
-13.00   |   [_Marietje Schaake_](http://www.europarl.europa.eu/meps/fr/96945/MARIETJE_SCHAAKE_home.html)  (Deputato del Parlamento Europeo, Gruppo dell'Alleanza dei  Democratici e dei Liberali per l’Europa) | Videomessaggio 
-13:30	|	Staff	|	Saluti | 
+13.00   |   [_Marietje Schaake_](http://www.europarl.europa.eu/meps/fr/96945/MARIETJE_SCHAAKE_home.html)  (Deputato del Parlamento Europeo, Gruppo dell'Alleanza dei  Democratici e dei Liberali per l’Europa) | Videomessaggio
+13:30	|	Staff	|	Saluti |
 
 
 ### Sede del Convegno
-  
-La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).   
-  
-![La foto è tratta da www.comunecagliarinews.it]({filename}/images/sale/mediatecamediterraneocagliari.jpg
+
+La sede di e-privacy 2015 _autumn edition_ sarà la [ Mediateca del Mediterraneo ](http://www.comune.cagliari.it/portale/it/scheda_sito.page?contentId=SIT662); qui la [mappa relativa](http://www.openstreetmap.org/node/1582425200).
+
+![La foto è tratta da www.comunecagliarinews.it]({static}/images/sale/mediatecamediterraneocagliari.jpg
  "foto pubblicata su www.comunecagliarinews.it")
 
 ### Formazione professionale avvocati
@@ -96,9 +96,8 @@ Giuristi Telematici.
  - [Circolo dei Giuristi Telematici](http://www.giuristitelematici.it/)
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
- 
+
 
 ### Contatti
 
 Per contatti generali e per la stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org), per i relatori [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-

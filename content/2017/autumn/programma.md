@@ -32,18 +32,18 @@ Tribunale di Venezia, presso il Ponte di Rialto.
 
 ** CREDITI FORMATIVI:  il Convegno è in corso di accreditamento da parte dell'Ordine degli Avvocati di Venezia ai fini della formazione obbligatoria (8 crediti formativi, per la frequenza di minimo l’80%)**
 
-Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desideri utilizzare il Convegno ai fini della formazione obbligatoria; selezionare "avvocato" ed operare la scelta che appare. 
-**La manifestazione di volontà è necessaria.** 
+Il form di registrazione è stato aggiornato per raccogliere l'indicazione se si desideri utilizzare il Convegno ai fini della formazione obbligatoria; selezionare "avvocato" ed operare la scelta che appare.
+**La manifestazione di volontà è necessaria.**
 Chi si fosse già registrato deve comunicare la sua scelta di utilizzare il Convegno per la formazione
- obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>. 
+ obbligatoria via mail all'indirizzo <a href="mailto:eprivacy@winstonsmith.org">eprivacy@winstonsmith.org</a>.
 
 
-![ Licenza Creative Commons BY-NC-SA ]({filename}/images/sale/ve-tribunalerialtosalaassise.jpg
+![ Licenza Creative Commons BY-NC-SA ]({static}/images/sale/ve-tribunalerialtosalaassise.jpg
  "La sala della Corte di Assise del Tribunale di Venezia")
 
 
 Parleremo di Cloud, già tema di e-privacy nel 2011. Perche ripetersi?
-Cosa è cambiato? 
+Cosa è cambiato?
 
 Se non lo sai ancora, leggi più avanti.
 
@@ -53,30 +53,30 @@ Se non lo sai ancora, leggi più avanti.
 
 #### <a name="vem"></a>Venerdì 13 Ottobre 2017 - mattina
 
- * Chairman [_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) 
+ * Chairman [_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari)
 
-  **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- | | ------- | ------- 
-  9:30	|	15	|	[_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) | Apertura lavori: "I dati perduti - Processo al Cloud" 
-9:45	|	15	|	Saluto delle autorità			
+  **Ora** | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- | | ------- | -------
+  9:30	|	15	|	[_Marco Calamari_](/e-privacy-XXII-relatori.html#calamari) | Apertura lavori: "I dati perduti - Processo al Cloud"
+9:45	|	15	|	Saluto delle autorità
 10:00	|	30	|		[_L' apocalisse zombie colpisce anche le condizioni di servizio del cloud (ma noi le accettiamo lo stesso)_](e-privacy-XXII-interventi.html#gallus)	|	[_Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:30	|	30	|		[_Il Cloud come modalità di trasferimento internazionale dei dati personali: criticità tecniche, legali e organizzative e soluzioni pratiche alla luce del Regolamento Generale UE sulla protezione dei dati personali 679/2016_](e-privacy-XXII-interventi.html#delninno)	|	[_Alessandro Del Ninno, Studio Legale Tonucci & Partners_](e-privacy-XXII-relatori.html#delninno)
 11:00	|	30	|		[_I diritti (sui dati) perduti_](e-privacy-XXII-interventi.html#lamuscatella)	|	[_Donato La Muscatella_](e-privacy-XXII-relatori.html#lamuscatella)
 11:30	|	30	|		[_Cloud computing: se lo conosci, lo apprezzi_](e-privacy-XXII-interventi.html#agostini)	|	[_Yvette Agostini_](e-privacy-XXII-relatori.html#agostini)
 12:00	|	30	|		[_Al di la’ delle nuvole: il Cloud in Europa tra regolazione e contratto_](e-privacy-XXII-interventi.html#pedrazzi)	|	[_Giorgio Pedrazzi (Università degli Studi di Brescia)_](e-privacy-XXII-relatori.html#pedrazzi)
 12:30	|	30	|		[_"Società del Controllo" e documentazione informatica: il problema della prova digitale_](e-privacy-XXII-interventi.html#destefani)	|	[_Federico Costantini (Università degli Studi di Udine, Dipartimento di Scienze Giuridiche), De Stefani, Marco Alvise (Synaptic Srls)_](e-privacy-XXII-relatori.html#destefani)
-13:00	| 1.00	|	PAUSA PRANZO			
+13:00	| 1.00	|	PAUSA PRANZO
 
 
 
 
 #### <a name="vep"></a>Venerdì 13 Ottobre 2017 - pomeriggio
 
- * Chairman [_Emmanuele Somma_](/e-privacy-XXII-relatori.html#somma) Progetto Winston Smith 
- 
-  **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- | --- | ------- | ------- 
-14:00	|		|	Apertura lavori pomeridiani: privacy			
+ * Chairman [_Emmanuele Somma_](/e-privacy-XXII-relatori.html#somma) Progetto Winston Smith
+
+  **Ora** |  Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- | --- | ------- | -------
+14:00	|		|	Apertura lavori pomeridiani: privacy
 14:00	|	30	|		[_La Responsabilità Privacy nella Nuvola, tra genio e sregolatezza_](e-privacy-XXII-interventi.html#gobbato)	|	[_Monica Gobbato, Studio Gobbato, Avvocato_](e-privacy-XXII-relatori.html#gobbato)
 14:30	|	30	|		[_La Privacy è questione di carattere_](e-privacy-XXII-interventi.html#ferri)	|	[_Edoardo Ferri (Studio Tecnico Ferri & Costantino)_](e-privacy-XXII-relatori.html#ferri)
 15:00	|	30	|		[_Privacy e pubblica amministrazione. La nuova sfida._](e-privacy-XXII-interventi.html#longo)	|	[_Avv. Valentina Longo_](e-privacy-XXII-relatori.html#longo)
@@ -91,9 +91,9 @@ Se non lo sai ancora, leggi più avanti.
 
 ** Processo al Cloud **
 
-  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
-  ------- || ------- | ------- 
-  9:45	|	05	|	Apertura lavori: Processo al Cloud			
+  **Ora** || &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo**
+  ------- || ------- | -------
+  9:45	|	05	|	Apertura lavori: Processo al Cloud
 9:50	|	20	| [_L'imputazione_](e-privacy-XXII-interventi.html#imputazione)	|	[_Avv. Monica Senor_](e-privacy-XXII-relatori.html#senor)
 10:10	|	30	|		[_La requisitoria dell'accusa_](e-privacy-XXII-interventi.html#accusa)	|	[_Avv. Giovanni Battista Gallus_](e-privacy-XXII-relatori.html#gallus)
 10:40	|	30	|		[_Arringa della difesa_](e-privacy-XXII-interventi.html#difesa)	|	[_Avv. Valerio Vertua_](e-privacy-XXII-relatori.html#vertua)
@@ -101,7 +101,7 @@ Se non lo sai ancora, leggi più avanti.
 11:30	|	20	|		[_Parti civili: Il cloud, se lo conosci lo apprezzi_](e-privacy-XXII-interventi.html#responsabilecivile)	|	[_Andrea Ghirardini_](e-privacy-XXII-relatori.html#ghirardini)
 11:50	|	1.00	|		[_Il dibattimento_](e-privacy-XXII-interventi.html#dibattimento)	|	[_tavola rotonda_](e-privacy-XXII-relatori.html#dibattimento)
 12:50	|	10	|		[_La sentenza_](e-privacy-XXII-interventi.html#verdetto)	|	[_Avv. Carlo Blengino_](e-privacy-XXII-relatori.html#blengino)
-13:00	|		|	Chiusura dei lavori			
+13:00	|		|	Chiusura dei lavori
 
 
 ## Il tema di questa edizione

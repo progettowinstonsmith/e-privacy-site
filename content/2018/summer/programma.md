@@ -36,7 +36,7 @@ informative ci obbligano a ripensare il concetto di privacy._
 
 ### Big Brother Awards
 
-**Durante il convegno, si è svolta la cerimonia di assegnazione dei 
+**Durante il convegno, si è svolta la cerimonia di assegnazione dei
 <a href='http://www.bigbrotherawards.it'>Big Brother Awards Italia 2018</a>,  a cura del [Centro HERMES](https://www.hermescenter.org/). **
 
 **Sul sito del BBA trovate l'elenco dei vincitori e le motivazioni dei premi assegnati.**
@@ -45,9 +45,9 @@ informative ci obbligano a ripensare il concetto di privacy._
 
 **Sono anche disponibili i video separati di ogni singolo intervento.** <br>
 
-<!-- ![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bb_logo_breit.gif
+<!-- ![ Licenza Creative Commons BY-NC-SA ]({static}/images/logo/bb_logo_breit.gif
  "Logo Big Brother Awards") -->
-![ Licenza Creative Commons BY-NC-SA ]({filename}/images/logo/bba_camera.png
+![ Licenza Creative Commons BY-NC-SA ]({static}/images/logo/bba_camera.png
  "Logo Big Brother Awards Italia 2018")
 
 
@@ -72,15 +72,15 @@ Icona | Descrizione | Icona | Descrizione
 ---- | ---- | ----- | ----
 ![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF) |
 ![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![pdf](/images/icon/handouts.png) | Handouts|
-![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video | 
+![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
 ![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
 
 #### <a name="vem"></a>Venerdì 8 Giugno 2018 - mattina
 
- * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
+ * Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
-  ------- | --- | ------- | ------- 
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore**
+  ------- | --- | ------- | -------
 <a name="vm1"></a>9:30|15| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_04_vieri_ai_contro.mp4) Apertura lavori: **"Singolarità"** Marco Calamari
 <a name="vm2"></a>9:45|15| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_02_donati_saluti_istituzionali.mp4) Saluti istituzionali e note introduttive | Daniele Donati (CDA - Istituzione Biblioteche Comune di Bologna)
 <a name="vm3"></a>10:00|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_03_giorio_privacy_2118.pdf)  [![ppt](/images/icon/presentation-ppt.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_03_giorio_privacy_2118.pptx)  [![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_03_giorio_privacy_2118_relazione.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_03_giorio_privacy_2118.mp4) <a href='/e-privacy-XXIII-interventi.html#giorio'>La privacy del 2118 - Un volo fantastico tra utopia, distopia e ucronia</a>|<a href="/e-privacy-XXIII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
@@ -98,10 +98,10 @@ Icona | Descrizione | Icona | Descrizione
 
 #### <a name="vep"></a>Venerdì 8 Giugno 2018 - pomeriggio
 
- * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
- 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore**  
-------- | --- | ------- | ------- 
+ * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith
+
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore**
+------- | --- | ------- | -------
 <a name="vp1"></a>15:00||Apertura lavori pomeridiani: **Assegnazione Big Brother Awards Italia 2018**
 <a name="vp2"></a>15:00|25| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_20_bba_awards.mp4)<a href='/e-privacy-XXIII-interventi.html#bba'>Big Brother Awards</a>|<a href="/e-privacy-XXIII-relatori.html#pietrosanti">Fabio Pietrosanti (HERMES Center)</a>
 <a name="vp1"></a>15:25||**Sessione GDPR**
@@ -112,18 +112,18 @@ Icona | Descrizione | Icona | Descrizione
 <a name="vp7"></a>16:45|20| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_26_senor_blengino_privacy_trappola_anonimizzazione.mp4) <a href='/e-privacy-XXIII-interventi.html#senor'>Quando la privacy cade nella trappola dell’anonimizzazione</a>|<a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> e <a href="/e-privacy-XXIII-relatori.html#blengino">Carlo Blengino </a>
 <a name="vp8"></a>17:05|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_23_gallus_data_breach.pdf) <a href='/e-privacy-XXIII-interventi.html#gallus'>Oops they did it again: il data breach nell’era del GDPR (intervento tenuto congiiuntamente con Vaciago)</a>|<a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>
 <a name="vp9"></a>17:25|20| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_27_sarzana_storia_trasferimento_dati_estero.mp4) <a href='/e-privacy-XXIII-interventi.html#sarzana'>Da Cambridge Analytica ai dati di Whatsapp: storia e gloria del trasferimento di dati all'estero</a>|<a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>
-<a name="vp10"></a>17:45|1:00| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_28_tavola_rotonda_gdpr.mp4) Tavola Rotonda: [_GDPR_](e-privacy-XXIII-interventi.html#tavola2)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a><br/>Partecipano: <a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> , <a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a>, <a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>, <a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a> 
+<a name="vp10"></a>17:45|1:00| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_28_tavola_rotonda_gdpr.mp4) Tavola Rotonda: [_GDPR_](e-privacy-XXIII-interventi.html#tavola2)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a><br/>Partecipano: <a href="/e-privacy-XXIII-relatori.html#dolcetti">Marianna  Dolcetti (DPOInnovation)</a> , <a href="/e-privacy-XXIII-relatori.html#ricci">Stefano Ricci (BiSLab - Bicocca Security Lab)</a>, <a href="/e-privacy-XXIII-relatori.html#sarzana">Fulvio Sarzana (studio legale)</a>, <a href="/e-privacy-XXIII-relatori.html#senor">Monica Senor </a>
 <a name="vp11"></a>18:45||Chiusura lavori prima giornata
 
 
-#### <a name="sam"></a>Sabato 9 Giugno 2018 - mattina 
+#### <a name="sam"></a>Sabato 9 Giugno 2018 - mattina
 
- * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith 
- 
+ * Chairman: [_Emmanuele Somma_](/e-privacy-XXI-relatori.html#somma) Progetto Winston Smith
 
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
-  ------- | --- | ------- | ------- 
+
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore**
+  ------- | --- | ------- | -------
 <a name="sm1"></a>9:30|05| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_30_apertura_lavori_seconda_giornata.mp4) Apertura lavori della mattina
 <a name="sm2"></a>9:35|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_31_filippini_diritti_digitali.pdf)  [![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_31_filippini_diritti_digitali.pdf)  [![pdf](/images/icon/handouts.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_31_filippini_diritti_digitali_leaflet.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_31_filippini_diritti_digitali.mp4) <a href='/e-privacy-XXIII-interventi.html#filippini'>Diritti digitali</a>|<a href="/e-privacy-XXIII-relatori.html#filippini">Nicola Filippini </a>
 <a name="sm3"></a>9:55|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_32_shakhmirza_defending_citiziens.pdf) <a href='/e-privacy-XXIII-interventi.html#shakhmirza'>Privacy And Counter-Terrorism Measures: Real Fight Against Terrorism Or Citizen Right Violation In Modern Russia?</a>|<a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a>
@@ -135,18 +135,18 @@ Icona | Descrizione | Icona | Descrizione
 <a name="sm9"></a>11:55|20|  [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_38_crvd_voto_elettronico.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_38_crvd_voto_elettronico.mp4) <a href='/e-privacy-XXIII-interventi.html#pazzaglia'>Voto elettronico e democrazia. L'incostituzionalità, per la Germania, del voto elettronico.</a>|<a href="/e-privacy-XXIII-relatori.html#somma">Comitato per i Requisiti del Voto in Democrazia</a>
 <a name="sm10"></a>12:15|30| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_39_gabriele_vacca_propaganda_computazionale_in_catalogna.mp4) <a href='/e-privacy-XXIII-interventi.html#gabriele'>La propaganda computazionale tra Catalogna, Italia e altri mondi. L'odio automatizzato in rete</a>|<a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Manuela Vacca </a> e <a href="/e-privacy-XXIII-relatori.html#resci">Giorgio Resci </a>
 <a name="sm11"></a>12:45|15| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_41_scrofani_ragazzo_giocava_ufo.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_41_scrofani_ragazzo_giocava_ufo.mp4) <a href='/e-privacy-XXIII-interventi.html#scrofani'>Il ragazzo che giocava con gli Ufo</a>|<a href="/e-privacy-XXIII-relatori.html#scrofani">Giovanni Scrofani </a>
-<a name="sm12"></a>13:00|1:00| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_42_tavola_rotonda_democrazia_digitale_diretta.mp4) Tavola Rotonda: [_Democrazia digitale diretta_](e-privacy-XXIII-interventi.html#tavola3)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipa: <a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#seno">Giulia Seno (Giornalista)</a>, <a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Manuela Vacca</a> 
+<a name="sm12"></a>13:00|1:00| [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_42_tavola_rotonda_democrazia_digitale_diretta.mp4) Tavola Rotonda: [_Democrazia digitale diretta_](e-privacy-XXIII-interventi.html#tavola3)<br/>Modera: <a href="/e-privacy-XXIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipa: <a href="/e-privacy-XXIII-relatori.html#gabriele">Renato Gabriele (Oohmm)</a>, <a href="/e-privacy-XXIII-relatori.html#seno">Giulia Seno (Giornalista)</a>, <a href="/e-privacy-XXIII-relatori.html#shakhmirza">Bella Shakhmirza </a>, <a href="/e-privacy-XXIII-relatori.html#vacca">Manuela Vacca</a>
 <a name="sm13"></a>14:00||PAUSA PRANZO
 
-  
+
 
 #### <a name="sam"></a>Sabato 9 Giugno 2018 - pomeriggio
 
-* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith 
+* Chairman: [_Marco Calamari_](/e-privacy-XXI-relatori.html#calamari) Progetto Winston Smith
 
 
-  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore** 
-  ------- | ---- | ------- | ------- 
+  **Ora** | Durata | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Titolo**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Relatore**
+  ------- | ---- | ------- | -------
 <a name="sp1"></a>15:00||Apertura lavori pomeridiani: **Sessione Privacy**
 <a name="sp2"></a>15:00|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_51_vicarelli_gdpr_sicurezza_antitesi.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_51_vicarelli_gdpr_sicurezza_antitesi.mp4) <a href='/e-privacy-XXIII-interventi.html#vicarelli'>GDPR e sicurezza informatica: è vero che sono in antitesi?</a>|<a href="/e-privacy-XXIII-relatori.html#vicarelli">Cristina Vicarelli </a>
 <a name="sp3"></a>15:20|20| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_52_bozza_du_us_megl_uan.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_52_bozza_du_us_megl_uan.mp4) <a href='/e-privacy-XXIII-interventi.html#bozza'>DPIbon - "dual use is megl che uan"</a> <img width=50 src='/images/icon/tech.svg' alt='tech'/>|<a href="/e-privacy-XXIII-relatori.html#bozza">Massimo Bozza </a>
@@ -157,7 +157,7 @@ Icona | Descrizione | Icona | Descrizione
 <a name="sp8"></a>17:00|10| [![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2018/atti/ep2018se_57_auer_manifesto_sostenibilita_digitale.pdf) [![mp4](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2018/video/ep2018se_57_auer_manifesto_sostenibilita_digitale.mp4) <a href='/e-privacy-XXIII-interventi.html#sostenibilita'>Manifesto per la sostenibilità digitale in Sud Tirolo.</a>|<a href="/e-privacy-XXIII-relatori.html#sostenibilita">Markus Egger, Anton Auer</a>
 <a name="sp8"></a>17:10||Chiusura Lavori
 
-  
+
 
 ### Sede di e-privacy 2018 summer edition
 
@@ -191,6 +191,3 @@ per i relatori
 disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org). -->
 
 **Grazie per aver partecipato**.
-
-
-
