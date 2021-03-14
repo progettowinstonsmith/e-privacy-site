@@ -5,7 +5,7 @@ Category: 2020
 lang: it
 Num: XXVIII
 Year: 2020
-slug: e-privacy-XXVIII-programma
+slug: e-privacy-XXVIII
 City: ONLINE
 Where: Streaming
 When: 2-3 ottobre
@@ -62,7 +62,7 @@ Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
 * Chairman: <a href="/e-privacy-XXVIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 10:20|10|<span class='talk'><em>*Apertura lavori*: "CoViD-1984"</em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#monti">Andrea Monti (Università di Chieti-Pescara)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXVIII-interventi.html#monti">Scienza, tecnocontrollo e public-policy nell’era CoViD-19</a></em></span>
 10:55|25|<span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020we/atti/ep2020ae_02_beltrami_a-privacy-slides.pdf),<a href="/e-privacy-XXVIII-relatori.html#beltrami">Giulio Beltrami (AICA e Informatici senzaFrontiere)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXVIII-interventi.html#beltrami">a-privacy</a></em></span>
@@ -77,7 +77,7 @@ Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
 * Chairman: <a href="/e-privacy-XXVIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 15:00|5|<span class='talk'><em>Apertura lavori</em></span>
 15:05|35|<span class='talk'><a href="/e-privacy-XXVIII-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXVIII-interventi.html#somma">Internet alla prova dell'autoritarismo digitale </a></em></span>
 15:40|35|<span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020we/atti/ep2020ae_12_guerreschi_seevik_net_trustlessai_deck.pdf),<a href="/e-privacy-XXVIII-relatori.html#guerreschi">Rufo Guerreschi (Trustless Computing Association)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXVIII-interventi.html#guerreschi">Seevik Net: an ultra-secure and ultra-democratic social computing platform</a></em></span>
@@ -92,8 +92,8 @@ Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
 
 * Chairman: <a href="/e-privacy-XXVIII-relatori.html#ferri">Edoardo Ferri (Progetto Winston Smith)</a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 10:15|5|<span class='talk'><em>*Apertura lavori: Etica e algoritmi*</em></span>
 10:20|25|<span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020we/atti/ep2020ae_21_surbone_societa_controllo_filoponìa_scheda.pdf),<a href="/e-privacy-XXVIII-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXVIII-interventi.html#surbone">La società del controllo</a></em></span>
 10:45|25|<span class='talk'>[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2020we/atti/ep2020ae_22_lopez_informatico_forense.pdf),<a href="/e-privacy-XXVIII-relatori.html#lopez">Ugo Lopez (Studio di Ingegneria Informatica e Forense Prof. Ing. Ugo Lopez)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXVIII-interventi.html#lopez1">Qualifiche (non) necessarie per diventare un informatico forense: chi tratta i nostri dati giudiziari?</a></em></span>

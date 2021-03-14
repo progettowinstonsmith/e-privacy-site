@@ -103,6 +103,7 @@ forma elettronica sul form online in seguito comunicato ai relatori.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
+- Cancel Culture e etica del discorso pubblico
 - Servizi digitali di Stato, informatizzazione obbligatoria, processo telematico, giustizia algoritmica.
 - Diritto alla Conoscenza e democrazie avanzate
 - Diritti civili e politici dell’individuo: libertà di espressione, riservatezza ed anonimato;

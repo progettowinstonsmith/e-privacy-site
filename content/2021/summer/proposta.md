@@ -15,4 +15,4 @@ previd: 2020W
 prev: e-privacy-XXVIII
 
 
-<iframe src="https://forms.gle/FYmgxAhhiGZAfwco8" width="700" height="800" frameborder="0" marginheight="0" marginwidth="0">Caricamento in corso...</iframe>
+[![Spedisci la tua proposta per eprivacy]({static}/images/proposte-XXIX.png "Compila il form per spedire la tua proposta")](https://forms.gle/fgsJni2cA9a4g4Vd8)
