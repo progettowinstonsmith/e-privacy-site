@@ -10,6 +10,7 @@ Year: 2021
 City: RETE
 Where: Videoconferenza & Streaming
 When: 21-22 maggio
+Image: e-privacy-XXIX
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020W
@@ -38,7 +39,7 @@ Il Progetto Winston Smith e l’Hermes Center for Transparency and Digital Human
 Parleremo di una società in cui una sorveglianza di massa viene considerata "accettabile" da una maggioranza della popolazione, spaventata da criminalità e pandemia. Siamo nelle migliori condizioni per riscrivere le più fosche pagine dei libri di storia e della letteratura distopica.
 
 ![ Licenza Creative Commons BY-NC-SA ](images/logo/covid1984_small.png "Logo CoViD-19-84, contributed by Netzwerk.")
- 
+
 I sistemi algoritmici e di deep learning che oggi vengono usati, spesso osannati, come dispensatori di benessere e giustizia. Sono viziati dagli stessi pregiudizi dei loro programmatori e dei dati raccolti in modo distorto e poi utilizzati per il loro addestramento.
 
 Niente limita l’abuso sistematico dei nostri dati personali che finiscono in pasto a sistemi di tracciamento facciali o comportamentali. È così implementato un controllo di massa su base biometrica, non normato a priori e senza limitazioni "by design" nel trattamento dei dati.
@@ -51,7 +52,7 @@ Non si tratta di distopia, ma sistemi che oggi diversi Paesi (e non solo quelli 
 
 I paesi a democrazia compiuta hanno l'obbligo di procedere in direzione opposta. Sono necessarie norme dil settore: la sorveglianza biometrica va permesse  solo quanto dimostratamente indispensabile e limitata nello spazio e, soprattutto, nel tempo in modo da evitare l’esposizione continua indiscriminata.
 
-La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere? 
+La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere?
 
 # Il convegno
 
