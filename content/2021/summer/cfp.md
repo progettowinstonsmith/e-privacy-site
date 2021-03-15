@@ -16,9 +16,9 @@ previd: 2020W
 prev: e-privacy-XXVIII
 nextid:
 next:
-Organizzatori: hermes,pws
+Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
+Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 Patrocini:
 MediaPartner: infomedia,aneddotica
 timeline: 15 aprile | 21 aprile | 15 maggio
