@@ -33,7 +33,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 ## Call for Partecipation
 
 
-Il Progetto Winston Smith e l’Hermes Center for Transparency and Digital Human Rights sono lieti di invitarti come relatore all’edizione primaverile di e-privacy, che si terrà solo in videoconferenza il 21 ed 22 maggio 2020, con streaming pubblico su Youtube.
+Il Progetto Winston Smith e l’Hermes Center for Transparency and Digital Human Rights sono lieti di invitarti come relatore all’edizione primaverile di e-privacy, che si terrà solo in videoconferenza il 21 ed 22 maggio 2021, con streaming pubblico su Youtube.
 
 Parleremo di una società in cui una sorveglianza di massa viene considerata "accettabile" da una maggioranza della popolazione, spaventata da criminalità e pandemia. Siamo nelle migliori condizioni per riscrivere le più fosche pagine dei libri di storia e della letteratura distopica.
 
@@ -95,13 +95,13 @@ Le proposte di intervento dovranno essere presentate utilizzando il
 form disponibile in questa  [pagina](http://e-privacy.winstonsmith.org/e-privacy-XXIX-proposta.html)
 
 Le proposte dovranno pervenire al comitato scientifico __entro il
-termine ultimo del 15 aprile 2020__.
+termine ultimo del 15 aprile 2021__.
 
-L'accettazione o meno delle proposte sarà **comunicata entro il 21 aprile 2020**.
+L'accettazione o meno delle proposte sarà **comunicata entro il 21 aprile 2021**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 15 maggio 2020**.
+**entro il 15 maggio 2021**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
