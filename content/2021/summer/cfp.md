@@ -37,6 +37,8 @@ Il Progetto Winston Smith e l’Hermes Center for Transparency and Digital Human
 
 Parleremo di una società in cui una sorveglianza di massa viene considerata "accettabile" da una maggioranza della popolazione, spaventata da criminalità e pandemia. Siamo nelle migliori condizioni per riscrivere le più fosche pagine dei libri di storia e della letteratura distopica.
 
+![ Licenza Creative Commons BY-NC-SA ](images/logo/covid1984_small.png "Logo CoViD-19-84, contributed by Netzwerk.")
+ 
 I sistemi algoritmici e di deep learning che oggi vengono usati, spesso osannati, come dispensatori di benessere e giustizia. Sono viziati dagli stessi pregiudizi dei loro programmatori e dei dati raccolti in modo distorto e poi utilizzati per il loro addestramento.
 
 Niente limita l’abuso sistematico dei nostri dati personali che finiscono in pasto a sistemi di tracciamento facciali o comportamentali. È così implementato un controllo di massa su base biometrica, non normato a priori e senza limitazioni "by design" nel trattamento dei dati.
