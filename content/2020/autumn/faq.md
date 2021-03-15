@@ -13,8 +13,8 @@ Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020
 prev: e-privacy-XXVIII-programma
-nextid:
-next:
+nextid: 2021
+next: e-privacy-XXIX
 
 
 Questa FAQ è dedicata ai relatori di eprivacy 2020 autumn edition.

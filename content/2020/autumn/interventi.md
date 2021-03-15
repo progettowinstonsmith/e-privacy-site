@@ -14,6 +14,8 @@ Season: estate
 Organizzatori: hermes,pws
 previd: 2020
 prev: e-privacy-XXVII
+nextid: 2021
+next: e-privacy-XXIX
 MediaPartner: infomedia, radioradicale
 
 ## <a name="talks"></a>Gli interventi

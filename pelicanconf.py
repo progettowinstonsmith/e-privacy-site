@@ -78,7 +78,7 @@ ISCRIVITI='''
 
 # Blogroll
 PREVS = (
-    #('mappa di tutte le edizioni', '/mappa.html'),
+    ('mappa di tutte le edizioni', '/mappa.html'),
     ('e-privacy 2020 autumn XXVIII', '/e-privacy-XXVIII.html'),
     ('e-privacy 2020 summer XXVII', '/e-privacy-XXVII.html'),
     ('e-privacy 2019 winter XXVI', '/e-privacy-XXVI.html'),

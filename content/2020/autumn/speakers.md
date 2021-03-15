@@ -14,6 +14,8 @@ Season: estate
 Organizzatori: hermes,pws
 previd: 2020
 prev: e-privacy-XXVII
+nextid: 2021
+next: e-privacy-XXIX
 MediaPartner: infomedia, radioradicale
 css: .title-XXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXVII { font: 18px arial, sans-serif; text-align: center; }
 

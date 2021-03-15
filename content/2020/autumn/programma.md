@@ -13,6 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autunno
 previd: 2020
 prev: e-privacy-XXVII
+nextid: 2021
+next: e-privacy-XXIX
 Organizzatori: pws, hermes
 Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 MediaPartner: infomedia,radioradicale,aneddotica

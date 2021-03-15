@@ -13,6 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: autumn
 previd: 2020
 prev: e-privacy-XXVII
+nextid: 2021
+next: e-privacy-XXIX
 
 
 Per caricare le slides è necessario usare [questo form](https://script.google.com/macros/s/AKfycbxjlFugmqfoTdwzBaRxFwK600w7kNBGA1pnzZF97rXL3I5aMGc/exec) con la password fornita ai relatori.

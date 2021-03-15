@@ -14,6 +14,8 @@ Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020
 prev: e-privacy-XXVII
+nextid: 2021
+next: e-privacy-XXIX
 Organizzatori: hermes,pws
 Collaboratori: bba
 Sponsor: sikurezza.org,sepel,ush,isgroup,cgt
