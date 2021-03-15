@@ -48,7 +48,7 @@ Tali sistemi, eredi di manipolazioni avvenute nel recente passato come quelle di
 Non si tratta di distopia, ma sistemi che oggi diversi Paesi (e non solo quelli diversamente democratici) stanno implementando pubblicamente con poche remore e rare opposizioni
 I paesi a democrazia compiuta hanno l'obbligo di procedere in direzione opposta. Sono necessarie norme dil settore: la sorveglianza biometrica va permesse  solo quanto dimostratamente indispensabile e limitata nello spazio e, soprattutto, nel tempo in modo da evitare l’esposizione continua indiscriminata.
 
-La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere?
+La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere? 
 
 # Il convegno
 
