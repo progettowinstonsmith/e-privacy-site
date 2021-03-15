@@ -7,7 +7,7 @@ Category: 2021
 lang: it
 Num: XXIX
 Year: 2021
-City: ONLINE
+City: RETE
 Where: Videoconferenza & Streaming
 When: 21-22 maggio
 Season: summer
