@@ -1,5 +1,19 @@
 {% extends "base.html" %}
 
+{% block og %}
+<meta property="og:title" content="{{ article.title|striptags }}" />
+{% if article.image %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/{{article.image}}.png" />
+{% else %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/e-privacy.png" />
+{% endif %}
+<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+<meta property="og:description" content="{{ SITENAME }}" />
+{%endblock%}
+
+{% block evurl %}{% endblock evurl %}
+
+
 {% block evinfo %}
 {% include 'evinfo.html' %}
 {% endblock evinfo %}
@@ -26,9 +40,9 @@
 {% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
 <article>
 {#
-  <header>
+    <header>
         <h3 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-        title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h3>
+                                     title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h3>
         {% include 'twitter.html' %}
     </header>
         {% include 'event_infos.html' %}

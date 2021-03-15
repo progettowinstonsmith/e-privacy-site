@@ -1,36 +1,56 @@
 <!DOCTYPE html>
-<head>
-    <meta charset="utf-8" />
+<html prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8" />
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <!-- Set the viewport width to device width for mobile -->
-    <meta name="viewport" content="width=device-width" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!-- Set the viewport width to device width for mobile -->
+        <meta name="viewport" content="width=device-width" />
 
-    {% block redirect %}{% endblock %}
-    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+        {% block og %}
+        {% if article %}
+        {% if article.title %}
+        <meta property="og:title" content="{{ article.title|striptags }}" />
+        {% endif %}
+        {% if article.image %}
+        <meta property="og:image" content="{{ SITEURL }}/images/editions/{{article.image}}.png" />
+        {% endif %}
+        {% if article.url %}
+        <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+        {% endif %}
+        {% else %}
+        <meta property="og:title" content="{{ SITENAME }}" />
+        <meta property="og:image" content="{{ SITEURL }}/images/editions/e-privacy.png" />
+        <meta property="og:url" content="{{ SITEURL }}/" />
+        {% endif %}
+        <meta property="og:description" content="{{ SITENAME }}" />
+        {%endblock%}
 
-    <link rel="stylesheet"
-          href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+        {% block redirect %}{% endblock %}
+        <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
 
-    <link rel="stylesheet"
-          href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
+        <link rel="stylesheet"
+              href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 
-    <link rel="stylesheet"
-          href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
+        <link rel="stylesheet"
+              href="//yui.yahooapis.com/pure/0.4.2/pure-min.css">
 
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css"/>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
+        <link rel="stylesheet"
+              href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,300italic">
 
-    <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/normalize.css" />
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/foundation.min.css" />
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css"/>
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
+
+        <script src="{{ SITEURL }}/theme/js/jquery.js"></script></head>
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/lodash.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.countdown.js"></script>
 
-</head>
+
 
 <body>
 
