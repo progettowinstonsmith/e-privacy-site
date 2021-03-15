@@ -28,7 +28,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX">L'identificazione ed controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
 <br/>
 
-# e-privacy XXIX @ ANYWHERE
+# e-privacy XXIX @ RETE
 
 ## Call for Partecipation
 

@@ -49,7 +49,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2020 - AUTUMN"
+THIS_TITLE = "EPRIVACY 2021 - Summer"
 
 THIS = (
 #     ('Il programma', '/e-privacy-XXVIII-programma.html'),
