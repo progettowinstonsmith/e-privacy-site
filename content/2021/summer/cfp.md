@@ -131,7 +131,7 @@ materiale prodotto e delle riprese dell’intervento sotto licenza libera.
 
 Al fine di mantenere la propria indipendenza, il convegno è, come
 sempre, _a budget zero_.  I relatori ed i partecipanti dovranno
-provvedere in proprio alle spese di viaggio e soggiorno.
+provvedere in proprio alle spese.
 
 Eventuali sponsorizzazioni di ditte, enti, gruppi o associazioni hanno
 carattere non economico e sono intese come adesione morale ai temi ed
