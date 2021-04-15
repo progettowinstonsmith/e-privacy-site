@@ -15,4 +15,6 @@ previd: 2020W
 prev: e-privacy-XXVIII
 
 
+
+[Spedisci la tua proposta per eprivacy](https://forms.gle/fgsJni2cA9a4g4Vd8)<br/>
 [![Spedisci la tua proposta per eprivacy]({static}/images/proposte-XXIX.png "Compila il form per spedire la tua proposta")](https://forms.gle/fgsJni2cA9a4g4Vd8)
