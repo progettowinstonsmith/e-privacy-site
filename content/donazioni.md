@@ -4,15 +4,13 @@ lang: it
 Date: 2020-09-17 20:00:00
 slug: donazioni-e-privacy
 
-#### <b>Lasciaci un piccolo obolo per realizzare il prossimo congresso.</b>
+/Caro amico,/
 
-Caro amico,
+di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Le poche spese che il congresso generava venivano coperte direttamente dagli organizzatori o dalla disponibilità dei /soliti/ amici che erano sempre pronti a dare una mano.
 
-di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Le poche spese che il congresso generava venivano coperte direttamente dagli organizzatori o dalla disponibilità dei 'soliti' amici che erano sempre pronti a dare una mano.
+Da un paio di anni le spese organizzative sono un po` aumentate. Lo spostamento online del congresso e la necessità di finanziare un server fisico per le attività ci hanno imposto una nuova gestione. Le spese sono sempre basse (a breve faremo un report dettagliato) quindi è del tutto sufficiente anche una piccola donazione.
 
-Da un paio di anni le spese organizzative sono un po` aumentate, per problematiche tristemente note. Le spese sono sempre relativamente basse (a breve faremo un report dettagliato) quindi anche una piccola donazione potrà essere sufficiente.
-
-**Come sai, le attività del Progetto Winston Smith sono completamente autofinanziate dagli organizzatori; non riceviamo sovvenzioni pubbliche, e solo talvolta donazioni private di modesta entità. L'esistenza di e-privacy non è mai stata scontata, e se abbiamo potuto r-esistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
+**Come sai, le attività del Progetto Winston Smith sono completamente autofinanziate dagli organizzatori; non riceviamo sovvenzioni pubbliche, e solo talvolta donazioni private di modesta entità. Non accettiamo alcuna forma di sponsorizzazione economica. Però l'esistenza di e-privacy non è mai stata scontata, e se abbiamo potuto r-esistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
 
 Negli scorsi anni ne abbiamo già ricevute (media delle donazioni € 23,39, le donazioni più frequenti/mediana sono di € 20.00).
 
@@ -22,7 +20,7 @@ Negli scorsi anni ne abbiamo già ricevute (media delle donazioni € 23,39, le 
 
 Per permettervi di contribuire con altri metodi (qualsiasi cifra è bene accetta) potete contattatarci semplicemente scrivendo a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org),
 
-Oltre alle donazioni potete aiutarci con la vostra disponibilità a lavorare ai nostri progetti.
+Oltre alle donazioni potete aiutarci con la vostra disponibilità a lavorare ai nostri progetti. (abbiamo soprattutto bisogno di sistemisti/programmatori anche per provare servizi nuovi e, eventualmente, qualcuno che se la cava con la grafica).
 
 Tutti i progetti di Winston Smith sono esclusivamente realizzati da volontari.
 
