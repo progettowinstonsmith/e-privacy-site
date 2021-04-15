@@ -8,18 +8,21 @@ slug: donazioni-e-privacy
 
 Caro amico,
 
-di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Quest'anno non è stato possibile per una serie di problematiche ben note. Le spese comunque non sono ingenti quindi anche una piccola donazione potrà essere sufficiente (sappiamo che voi invece ne farete di importanti).
+di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Le poche spese che il congresso generava venivano coperte direttamente dagli organizzatori o dalla disponibilità dei 'soliti' amici che erano sempre pronti a dare una mano.
+
+Da un paio di anni le spese organizzative sono un po` aumentate, per problematiche tristemente note. Le spese sono sempre relativamente basse (a breve faremo un report dettagliato) quindi anche una piccola donazione potrà essere sufficiente.
 
 **Come sai, le attività del Progetto Winston Smith sono completamente autofinanziate dagli organizzatori; non riceviamo sovvenzioni pubbliche, e solo talvolta donazioni private di modesta entità. L'esistenza di e-privacy non è mai stata scontata, e se abbiamo potuto r-esistere per venti anni è stato soprattutto grazie alla generosità dei relatori e dei partecipanti.**
 
+Negli scorsi anni ne abbiamo già ricevute (media delle donazioni € 23,39, le donazioni più frequenti/mediana sono di € 20.00).
+
 ** Per le donazioni è possibile usare [Paypal](http://paypal.me/eprivacy). **
 
-**O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (riceveremo 5€ per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).**
+**O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (attenzione, per essere chiari, noi riceveremo 5€ per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).**
 
 Per permettervi di contribuire con altri metodi (qualsiasi cifra è bene accetta) potete contattatarci semplicemente scrivendo a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org),
 
-Oltre alle donazioni potete aiutarci con la vostra disponibilità a
-lavorare ai nostri progetti.
+Oltre alle donazioni potete aiutarci con la vostra disponibilità a lavorare ai nostri progetti.
 
 Tutti i progetti di Winston Smith sono esclusivamente realizzati da volontari.
 
@@ -40,7 +43,7 @@ Se vuoi aiutarci, consulta la pagina "Collabora".
 </form>
 </div>
 
-### Donazione ricorrente  
+### Donazione ricorrente
 
 <div align=center>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -60,6 +63,3 @@ Se vuoi aiutarci, consulta la pagina "Collabora".
 </form>
 </div>
 -->
-
-
-
