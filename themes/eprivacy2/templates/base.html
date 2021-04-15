@@ -98,11 +98,12 @@
 
     <!-- Sidebar -->
     <aside class="large-3 columns">
-    <!-- Sidebar -->
+        <!-- Sidebar -->
 
-      {% block evinfo %}{% endblock evinfo %}
+        {% block evinfo %}{% endblock evinfo %}
 
-      {% include 'countdown.html' %}
+        {% include 'countdown.html' %}
+        {% include 'pws-button.html' %}
 
         {% if THIS %}
         <h5 class="sidebar-title">{{ THIS_TITLE  }}</h5>
@@ -166,7 +167,6 @@
 
         {% block oldsite %}{% endblock oldsite %}
 
-        {% include 'pws-button.html' %}
 
         <!-- {% include 'savethelink.html' %} -->
 
