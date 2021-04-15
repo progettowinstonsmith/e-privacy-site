@@ -4,7 +4,7 @@ lang: it
 Date: 2020-09-17 20:00:00
 slug: donazioni-e-privacy
 
-/Caro amico,/
+Caro amico,
 
 di solito negli anni abbiamo cercato di gestire l'evento e-privacy, anche per motivi di semplicità, a budget nullo. Le poche spese che il congresso generava venivano coperte direttamente dagli organizzatori o dalla disponibilità dei /soliti/ amici che erano sempre pronti a dare una mano.
 
