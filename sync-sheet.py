@@ -17,18 +17,18 @@ logging.basicConfig(level=logging.INFO)
 
 ### ---------------------------------------- CONFIGURATION
 
-SPREADSHEET_ID = '1jJKB4NZhYNgmtp05IryhcdFJdU2ZcAlL9PbQfZvRH5g'
+SPREADSHEET_ID = '17XzKw0Gf3vKWzqRTrC-hV4bhi09sfGJO5oGFHQSq1iU'
 
 RELAZIONI = 'RELAZIONI'
 RELATORI = 'RELATORI'
 
 ORGANIZZATORI = ['calamari','giorio','somma']
 
-EPRIVACY_N = 'XXVIII'
+EPRIVACY_N = 'XXIX'
 
 URL = 'e-privacy-'
 
-PATH = 'content/2020/autumn/'
+PATH = 'content/2021/summer/'
 
 PROG_FNAME = 'programma.md'
 

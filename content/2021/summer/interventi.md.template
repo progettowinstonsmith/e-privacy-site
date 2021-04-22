@@ -1,22 +1,27 @@
 Template: event
+XStatus: draft
 Title: Lasciateci la faccia
-Date: 2021-03-15 00:00:00
+Date: 2021-03-15 00:01:00
+slug: e-privacy-XXIX-interventi
 Category: 2021
 lang: it
 Num: XXIX
 Year: 2021
-slug: e-privacy-XXIX-interventi
-City: Firenze
-Where: Sala della Miniatura<br/>Palazzo Vecchio
+City: RETE
+Where: Videoconferenza & Streaming
 When: 21-22 maggio
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Image: e-privacy-XXIX
 Season: summer
-Organizzatori: hermes,pws
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020W
 prev: e-privacy-XXVIII
-previd: 2020W
-prev: e-privacy-XXVIII
-MediaPartner: infomedia
+nextid:
+next:
+Organizzatori: pws, hermes
+Collaboratori: bba
+Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
+Patrocini:
+MediaPartner: infomedia,aneddotica
 
 ## <a name="talks"></a>Gli interventi
 
