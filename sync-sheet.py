@@ -22,7 +22,7 @@ SPREADSHEET_ID = '17XzKw0Gf3vKWzqRTrC-hV4bhi09sfGJO5oGFHQSq1iU'
 RELAZIONI = 'RELAZIONI'
 RELATORI = 'RELATORI'
 
-ORGANIZZATORI = ['calamari','somma']
+ORGANIZZATORI = ['calamari', 'giorio', 'somma']
 
 EPRIVACY_N = 'XXIX'
 
