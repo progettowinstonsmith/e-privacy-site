@@ -60,11 +60,9 @@ relatore.
 
 ### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
 
-Emmanuele Somma è prestato da anni al Progetto Winston Smith,
-collabora con il Centro Hermes per la Trasparenza e i Diritti Umani
-Digitali ed è militante del Partito Radicale. È giornalista
+Emmanuele Somma è prestato da anni al Progetto Winston Smith. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
-Internet wealth".
+Internet wealth". 
 
 ## <a name="speakers"></a>I relatori
 
@@ -249,6 +247,9 @@ Nell'IoB l’interconessione tra in dati e il nostro processo decisionale richie
 #### <a name="zugnaz"></a> Efrem Zugnaz (the Webprepping Initiative)
 
 Efrem Zugnaz, opera nel settore IT da piu' di venticinque anni. Attualmente si occupa PRIVACY in ambito Autostradale. Fondatore dell'iniziative WEBPREPPING che da dieci anni si occupa di survivalismo digitale per la gente comune, la scuola e le istituzioni. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera info-digitale etica e corretta, ma soprattutto psicologicamente ecologica.
+
+
+
 
 
 
