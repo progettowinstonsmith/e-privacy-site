@@ -86,7 +86,7 @@ Dal 2011 la piattaforma si è evoluta al cloud​ sulla "Google App Engine", str
 
 
 
-#### <a name="berto"></a> Rebecca Berto (Nessuna)
+#### <a name="berto"></a> Rebecca Berto 
 
 Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'interno dell'attuale progetto europeo.
 Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati commerciali internazionali e dispute internazionali relativi ad investimenti. Per questo motivo procedure come quelle previste dal WTO o ICSID sono conosciute. Se volete chiederle dell'Energy Charter Treaty e della “Saga sull’energia rinnovabile” ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più, fra un’attività ed un’altra. Ha la passione per le scienze naturali, la fisica e le nuove tecnologie.
@@ -113,6 +113,12 @@ Carlo Blengino, avvocato, svolge la professione esclusivamente nel settore penal
 #### <a name="bonavita"></a> Simone Bonavita (Information Society Law Center)
 
 Simone Bonavita è Professore a contratto in trattamento dei dati sensibili presso l’Università degli Studi di Milano per l’anno accademico 2022/2021, Keystaff del progetto di eccellenza europea Jean Monnet “European Citizens’ online fundamental rights, data governance and cybersecurity in the Information Society: an European legal framework” (#DATAGOV)” e cultore della materia di Informatica Giuridica (Ppof. G. Ziccardi) presso la medesima Università, all’interno della quale svolge oggi attività didattica. Docente dei corsi di perfezionamento in “Data Protection & Data Governance”, “Computer Forensics ed indagini digitali” e “Coding for lawyer & legal Tech” dell’Università degli Studi di Milano, si è formato prima presso l’Università degli Studi di Milano, laureandosi in scienze giuridiche ed in giurisprudenza con tesi specialistiche in materia di privacy e nuove tecnologie e perfezionandosi in indagini digitali. Successivamente presso l’ALMA Mater - Università di Bologna ha conseguito il Master in Diritto delle nuove tecnologie ed Informatica Giuridica ed il Dottorato di ricerca in Diritto delle nuove tecnologie ed Informatica Giuridica (CIRSFID) sotto la guida del prof. G. Sartor. Nel corso del 2017 è stato Visiting all’European University Institute (EUI) di Firenze. Dal 2018 è research all’Information Society Law Center dell’Università degli Studi di Milano. Svolge la propria attività professionale quale Avvocato del foro di Milano presso lo studio Perani Pozzi Associati. La sua attività professionale, principalmente stragiudiziale, si concentra essenzialmente nel settore del diritto delle nuove tecnologie ed in particolare nella data governance. Assiste quotidianamente importati gruppi nazionali ed internazionali, istituti di credito, TELCO, agenzie di comunicazione ed agenzie reputazionali. Presente come relatore a convegni e seminari, è autore di numerose pubblicazioni aventi ad oggetto il diritto delle nuove tecnologie, il trattamento dei dati personali e la responsabilità degli ISP e profili giuridici di comunicazione digitale.
+
+
+
+#### <a name="carletti"></a> Fabio Carletti (Lejot opensource tecnology)
+
+Fabio Carletti aka Ryuw, strategic IT consultant, relatore IPA(International Police Association) e docente CLUSIT, noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative nella informatica forense. 
 
 
 
@@ -146,7 +152,7 @@ Diletta Huyskes è laureata in Filosofia e ricerca l'impatto sociale dell’IA e
 
 
 
-#### <a name="longo"></a> Alessandro Longo Longo (Agendadigitale.eu)
+#### <a name="longo"></a> Alessandro Longo (Agendadigitale.eu)
 
 Giornalista professionista, direttore di Agendadigitale.eu, co-autore di Intelligenza Artificiale, impatti sulle nostre vite, società e diritti per Mondadori Education, collaboratore storico di Repubblica e Sole24Ore per questi temi
 
@@ -232,7 +238,7 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
-#### <a name="zanoni"></a> Gabriele Zanoni (Privato)
+#### <a name="zanoni"></a> Gabriele Zanoni 
 
 L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
 Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.

@@ -68,24 +68,25 @@ Il tema guida della XXIX edizione di e-privacy è:
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><em>Apertura lavori</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
 15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
 15:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXIX-interventi.html#zugnaz">LA GUERRA PER L'ATTENZIONE INIZIATA E'</a></em></span>
-16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto (Nessuna)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
+16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
 16:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXIX-interventi.html#vieri">social leak: il bello il brutto e il cattivo. </a></em></span>
 17:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXIX-interventi.html#blengino">Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati</a></em></span>
 17:35|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXIX-interventi.html#romano">Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.</a></em></span>
 18:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1p08'></a><a href="/e-privacy-XXIX-interventi.html#surbone">Democrazia, Condorsismo e Partecipazione Popolare</a></em></span>
-18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni (Privato)</a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
-19:00||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
+18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
+19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
+19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 #### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
 
-* Chairman: None
+* Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-10:00|5|<span class='talk'><em>*Apertura lavori: Etica e algoritmi*</em></span>
+10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
 10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
@@ -117,7 +118,7 @@ con la presunzione che l’elaborazione di codici digitali sia meglio dell’int
 
 
 #### <a name="berto"></a> Le tecnologie ed i dati linguistici – quadro normativo<a href="/e-privacy-XXIX-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto (Nessuna)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a>*
 
 Nell’anno di celebrazione dei 700 anni dalla morte di Dante, si ricorda come egli collocò il re Nimrod nel pozzo dei giganti perché colpevole di aver sfidato la divinità (Inferno canto XXXI, 51-81): Dante illustrò l’impresa del re fra gli esempi di superbia (Purgatorio Canto XII, 34-36).
 Naturalmente si possono leggere tali versi in più modi: la storia del re Nimrod e della torre di Babele ricorda di non avere una sconfinata fiducia nella tecnologia, la quale si prefigge di consentire all’uomo di superare confini naturali, culturali, giuridici.
@@ -142,6 +143,12 @@ Il GDPR riconosce come "dati sensibili" le immagini facciali delle persone, che 
 *<a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a>*
 
 Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una modesta testimonianza di come la digitalizzazione delle nostre vite e l'informatizzazione del processo penale abbia sovvertito e minato alcuni fondamenti del processo, dalla parità tra accusa e difesa sino al principio del libero convincimento del giudice, là dove il dubbio non è più ammesso ne contra, né pro reo (abstract mooolto provvisorio ..............................................................................).  
+
+
+#### <a name="carletti"></a> Analysis app. sms/voip for cellular - privacy by design<a href="/e-privacy-XXIX-programma.html#1p10">⇧</a>
+*<a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a>*
+
+Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
 
 #### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
@@ -176,7 +183,7 @@ Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in
 
 
 #### <a name="longo"></a> Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea<a href="/e-privacy-XXIX-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo Longo (Agendadigitale.eu)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a>*
 
 A fine aprile la Commissione europea presenta il primo regolamento sull'AI, complementare alla normativa GDPR, che nei confronti di big data e AI cominciava a mostrare limiti. Vediamo gli impatti dell'AI sulla privacy (sorveglianza di massa, profilazione con discriminazione a danno soprattutto di minoranze e gruppi sociali deboli) e gli strumenti normativi presenti e auspicabili, nel GDPR e nel regolamento della Commissione. Un tema affrontato dal libro scritto da me e Guido Scorza per Mondadori Education e rivolto alle università
 
@@ -273,7 +280,7 @@ Tutti sappiamo cosa sia un social network. Sappiamo come nasce, come si sviluppa
 
 
 #### <a name="zanoni"></a> Internet of Behaviors<a href="/e-privacy-XXIX-programma.html#1p09">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni (Privato)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a>*
 
 Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
 
@@ -354,7 +361,7 @@ Dal 2011 la piattaforma si è evoluta al cloud​ sulla "Google App Engine", str
 
 
 
-#### <a name="berto"></a> Rebecca Berto (Nessuna)
+#### <a name="berto"></a> Rebecca Berto 
 
 Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'interno dell'attuale progetto europeo.
 Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati commerciali internazionali e dispute internazionali relativi ad investimenti. Per questo motivo procedure come quelle previste dal WTO o ICSID sono conosciute. Se volete chiederle dell'Energy Charter Treaty e della “Saga sull’energia rinnovabile” ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più, fra un’attività ed un’altra. Ha la passione per le scienze naturali, la fisica e le nuove tecnologie.
@@ -381,6 +388,12 @@ Carlo Blengino, avvocato, svolge la professione esclusivamente nel settore penal
 #### <a name="bonavita"></a> Simone Bonavita (Information Society Law Center)
 
 Simone Bonavita è Professore a contratto in trattamento dei dati sensibili presso l’Università degli Studi di Milano per l’anno accademico 2022/2021, Keystaff del progetto di eccellenza europea Jean Monnet “European Citizens’ online fundamental rights, data governance and cybersecurity in the Information Society: an European legal framework” (#DATAGOV)” e cultore della materia di Informatica Giuridica (Ppof. G. Ziccardi) presso la medesima Università, all’interno della quale svolge oggi attività didattica. Docente dei corsi di perfezionamento in “Data Protection & Data Governance”, “Computer Forensics ed indagini digitali” e “Coding for lawyer & legal Tech” dell’Università degli Studi di Milano, si è formato prima presso l’Università degli Studi di Milano, laureandosi in scienze giuridiche ed in giurisprudenza con tesi specialistiche in materia di privacy e nuove tecnologie e perfezionandosi in indagini digitali. Successivamente presso l’ALMA Mater - Università di Bologna ha conseguito il Master in Diritto delle nuove tecnologie ed Informatica Giuridica ed il Dottorato di ricerca in Diritto delle nuove tecnologie ed Informatica Giuridica (CIRSFID) sotto la guida del prof. G. Sartor. Nel corso del 2017 è stato Visiting all’European University Institute (EUI) di Firenze. Dal 2018 è research all’Information Society Law Center dell’Università degli Studi di Milano. Svolge la propria attività professionale quale Avvocato del foro di Milano presso lo studio Perani Pozzi Associati. La sua attività professionale, principalmente stragiudiziale, si concentra essenzialmente nel settore del diritto delle nuove tecnologie ed in particolare nella data governance. Assiste quotidianamente importati gruppi nazionali ed internazionali, istituti di credito, TELCO, agenzie di comunicazione ed agenzie reputazionali. Presente come relatore a convegni e seminari, è autore di numerose pubblicazioni aventi ad oggetto il diritto delle nuove tecnologie, il trattamento dei dati personali e la responsabilità degli ISP e profili giuridici di comunicazione digitale.
+
+
+
+#### <a name="carletti"></a> Fabio Carletti (Lejot opensource tecnology)
+
+Fabio Carletti aka Ryuw, strategic IT consultant, relatore IPA(International Police Association) e docente CLUSIT, noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative nella informatica forense. 
 
 
 
@@ -414,7 +427,7 @@ Diletta Huyskes è laureata in Filosofia e ricerca l'impatto sociale dell’IA e
 
 
 
-#### <a name="longo"></a> Alessandro Longo Longo (Agendadigitale.eu)
+#### <a name="longo"></a> Alessandro Longo (Agendadigitale.eu)
 
 Giornalista professionista, direttore di Agendadigitale.eu, co-autore di Intelligenza Artificiale, impatti sulle nostre vite, società e diritti per Mondadori Education, collaboratore storico di Repubblica e Sole24Ore per questi temi
 
@@ -500,7 +513,7 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
-#### <a name="zanoni"></a> Gabriele Zanoni (Privato)
+#### <a name="zanoni"></a> Gabriele Zanoni 
 
 L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
 Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.

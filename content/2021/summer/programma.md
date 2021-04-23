@@ -68,24 +68,25 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><em>Apertura lavori</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
 15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
 15:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXIX-interventi.html#zugnaz">LA GUERRA PER L'ATTENZIONE INIZIATA E'</a></em></span>
-16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto (Nessuna)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
+16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
 16:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXIX-interventi.html#vieri">social leak: il bello il brutto e il cattivo. </a></em></span>
 17:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXIX-interventi.html#blengino">Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati</a></em></span>
 17:35|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXIX-interventi.html#romano">Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.</a></em></span>
 18:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1p08'></a><a href="/e-privacy-XXIX-interventi.html#surbone">Democrazia, Condorsismo e Partecipazione Popolare</a></em></span>
-18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni (Privato)</a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
-19:00||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
+18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
+19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
+19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 #### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
 
-* Chairman: None
+* Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-10:00|5|<span class='talk'><em>*Apertura lavori: Etica e algoritmi*</em></span>
+10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
 10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>

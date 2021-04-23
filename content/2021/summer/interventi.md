@@ -44,7 +44,7 @@ con la presunzione che l’elaborazione di codici digitali sia meglio dell’int
 
 
 #### <a name="berto"></a> Le tecnologie ed i dati linguistici – quadro normativo<a href="/e-privacy-XXIX-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto (Nessuna)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a>*
 
 Nell’anno di celebrazione dei 700 anni dalla morte di Dante, si ricorda come egli collocò il re Nimrod nel pozzo dei giganti perché colpevole di aver sfidato la divinità (Inferno canto XXXI, 51-81): Dante illustrò l’impresa del re fra gli esempi di superbia (Purgatorio Canto XII, 34-36).
 Naturalmente si possono leggere tali versi in più modi: la storia del re Nimrod e della torre di Babele ricorda di non avere una sconfinata fiducia nella tecnologia, la quale si prefigge di consentire all’uomo di superare confini naturali, culturali, giuridici.
@@ -69,6 +69,12 @@ Il GDPR riconosce come "dati sensibili" le immagini facciali delle persone, che 
 *<a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a>*
 
 Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una modesta testimonianza di come la digitalizzazione delle nostre vite e l'informatizzazione del processo penale abbia sovvertito e minato alcuni fondamenti del processo, dalla parità tra accusa e difesa sino al principio del libero convincimento del giudice, là dove il dubbio non è più ammesso ne contra, né pro reo (abstract mooolto provvisorio ..............................................................................).  
+
+
+#### <a name="carletti"></a> Analysis app. sms/voip for cellular - privacy by design<a href="/e-privacy-XXIX-programma.html#1p10">⇧</a>
+*<a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a>*
+
+Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
 
 #### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
@@ -103,7 +109,7 @@ Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in
 
 
 #### <a name="longo"></a> Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea<a href="/e-privacy-XXIX-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo Longo (Agendadigitale.eu)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a>*
 
 A fine aprile la Commissione europea presenta il primo regolamento sull'AI, complementare alla normativa GDPR, che nei confronti di big data e AI cominciava a mostrare limiti. Vediamo gli impatti dell'AI sulla privacy (sorveglianza di massa, profilazione con discriminazione a danno soprattutto di minoranze e gruppi sociali deboli) e gli strumenti normativi presenti e auspicabili, nel GDPR e nel regolamento della Commissione. Un tema affrontato dal libro scritto da me e Guido Scorza per Mondadori Education e rivolto alle università
 
@@ -200,7 +206,7 @@ Tutti sappiamo cosa sia un social network. Sappiamo come nasce, come si sviluppa
 
 
 #### <a name="zanoni"></a> Internet of Behaviors<a href="/e-privacy-XXIX-programma.html#1p09">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni (Privato)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a>*
 
 Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
 
