@@ -22,6 +22,7 @@ Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 Patrocini:
 MediaPartner: infomedia,aneddotica
+css: .title-XXIX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXIX {{ font: 18px arial, sans-serif; text-align: center; }}
 
 ###e-privacy 2021 - summer edition
 

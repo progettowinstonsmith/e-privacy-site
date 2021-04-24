@@ -360,7 +360,7 @@ def _compose_speakers(all_relatori, db):
     for cognome, item in sorted(all_relatori):
         rkey = item['Cognome'].capitalize()
         LOGGER.info("SPEAKERS:"+cognome+"/"+rkey)
-        if rkey in ('Somma', 'Calamari', 'Giorio') or len(rkey)==0:
+        if rkey.lower() in ORGANIZZATORI or len(rkey)==0:
             LOGGER.info("SPEAKERS:exclude:"+rkey)
             continue
         relatori[rkey] = compose_speaker_bio(item,db)
