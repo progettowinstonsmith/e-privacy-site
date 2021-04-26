@@ -32,11 +32,10 @@
 {% block content %}
 {% if articles %}
 {% for article in articles_page.object_list %}
-{% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
+        {% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
-<article>
-
+<article><!-- ARTICOLI -->
   {# <a href="{{ SITEURL }}/{{ article.url
                 }}"><h3 class="article-title">{{ article.title
       }}</h3></a> {% include 'article_infos.html' %} #}
