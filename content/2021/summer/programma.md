@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: Lasciateci la faccia
-Date: 2021-03-15 00:01:00
+Date: 2021-04-28 00:01:00
 slug: e-privacy-XXIX-programma
 Category: 2021
 lang: it
@@ -22,6 +22,7 @@ Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
 Patrocini:
 MediaPartner: infomedia,aneddotica
+css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXIX { font: 18px arial, sans-serif; text-align: center; }
 
 
 ###e-privacy 2021 - summer edition
@@ -56,7 +57,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 10:10|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
 10:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#gallus">Dacci la tua faccia, siamo la pubblica amministrazione!</a></em></span>
 11:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
-11:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
+11:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
 12:00|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
 12:35|55|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#tba">To Be Announced </a><br/><em><a name='1m06'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
 13:30||<span class='talk'><em>Chiusura lavori</em></span>
@@ -89,7 +90,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
-10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
+10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
 11:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reviglio">Urbano Reviglio (Università di Milano)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXIX-interventi.html#reviglio">Il Ruolo dei Data Brokers nel Capitalismo della Sorveglianza</a></em></span>
 11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
 12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>

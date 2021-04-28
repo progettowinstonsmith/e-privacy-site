@@ -57,7 +57,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 10:10|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
 10:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#gallus">Dacci la tua faccia, siamo la pubblica amministrazione!</a></em></span>
 11:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
-11:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
+11:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
 12:00|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
 12:35|55|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#tba">To Be Announced </a><br/><em><a name='1m06'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
 13:30||<span class='talk'><em>Chiusura lavori</em></span>
@@ -90,7 +90,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
-10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
+10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
 11:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reviglio">Urbano Reviglio (Università di Milano)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXIX-interventi.html#reviglio">Il Ruolo dei Data Brokers nel Capitalismo della Sorveglianza</a></em></span>
 11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
 12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
@@ -133,7 +133,7 @@ Scopo dell’intervento è evidenziare come la normativa vigente non disciplini 
 
 
 
-#### <a name="bianchini"></a> Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge <a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
+#### <a name="bianchini"></a> Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge <a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a>*
 
 Le tecnologie di riconoscimento facciale permettono di confrontare immagini facciali digitali per determinare se sono della stessa persona. Il confronto di filmati ottenuti da telecamere con le immagini nei database è definito "tecnologia di riconoscimento facciale dal vivo". Gli esempi di autorità nazionali preposte all'applicazione della legge nell'UE che utilizzano tale tecnologia sono scarsi, anche se in molti ne stanno testando il potenziale. La relazione intende esaminare le implicazioni per i diritti fondamentali, concentrandosi sul suo uso per l'applicazione della legge
@@ -152,7 +152,7 @@ Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una mode
 Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
 
-#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
+#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a>*
 
 “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”
@@ -180,7 +180,7 @@ Videosorveglianza e biometria sembravano essere diventate un binomio inscindibil
 #### <a name="giorio"></a> Oltre il riconoscimento facciale<a href="/e-privacy-XXIX-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>*
 
-Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in rete e si limitano a registrare i movimenti si tratta di un problema relativamente limitato, dato che, di solito, vengono esaminate solo in caso di problemi. Ma se dovessero essere messe in rete - ufficiale o meno - e se dovessero essere associata a sistemi di riconoscimento facciale verremmo di fatto pedinati in ogni spostamento. Ma se già questo può spaventare, pensiamo a cosa accadrebbe se oltre al riconoscimento facciale venissero associate ad un riconoscimento dell'umore e dei sentimenti. Certo, forse si potrebbe evitare che un pilota di linea si suicidi portandosi dietro i passeggeri, ma penso che i problemi ed i rischi per la libertà e la democrazia supererebbero di gran lunga i vantaggi.
+Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in rete e si limitano a registrare i movimenti si tratta di un problema relativamente limitato, dato che, di solito, vengono esaminate solo in caso di problemi. Ma se dovessero essere messe in rete - ufficiale o meno - e se dovessero essere associate a sistemi di riconoscimento facciale verremmo di fatto pedinati in ogni spostamento. Ma se già questo può spaventare, pensiamo a cosa accadrebbe se oltre al riconoscimento facciale venissero associate ad un riconoscimento dell'umore e dei sentimenti. Certo, forse si potrebbe evitare che un pilota di linea si suicidi portandosi dietro i passeggeri, ma penso che i problemi ed i rischi per la libertà e la democrazia supererebbero di gran lunga i vantaggi.
 
 
 #### <a name="longo"></a> Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea<a href="/e-privacy-XXIX-programma.html#1p01">⇧</a>
@@ -460,15 +460,14 @@ Urbano Reviglio ha appena concluso il suo dottorato LAST-JD ERASMUS MUNDUS in la
 
 #### <a name="romano"></a> Salvatore  Romano (Tracking Exposed)
 
-Testo preso da https://github.com/SalvatoreRomano1/About_Me 
-
-I am a researcher who graduated in Social Psychology from the University of Padova (October 2020). I am currently working on Algorithm Analysis and Hate speech discourses on social media specifically focused on the political sphere.
-
-I'm part of tracking.exposed (https://tracking.exposed/) research team, mainly focus on Youtube and Pornhub analysis; check my laxst works on algorithmic Polarization (https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) and Heteronormativity (https://drive.google.com/file/d/1WBcUnLmbjJ6GYIOkeqL6MOf0JAkxsWNE/view?usp=sharing)!
-
-I am also part of the "Rete Nazionale per il contrasto ai linguaggi e ai fenomeni d'odio"(https://www.retecontrolodio.org/chi-siamo/); check my last work (https://github.com/SalvatoreRomano1/thesis) on the relationship between political communication and hate speech.
-
-I collaborated with the Media Studies department of Amsterdam University and I have been a teaching assistant for the University of Padova in the courses of "Persuasion and social influence" and "Social Network Analysis"; check the report of the teamwork I facilitated on Semantic and Network analysis of Hate Speech (https://github.com/SalvatoreRomano1/net2020)
+Laureato in Psicologia Sociale all'Università di Padova, si occupa di
+Analisi degli algoritmi e dei discorsi di odio sui social media, in
+particolare nella sfera politica.
+È attualmente membro del collettivo Tracking.Exposed, con il quale
+conduce analisi sull'algoritmo di raccomandazione di Youtube e Pornhub.
+Si occupa di hate speech online e della sua relazione con la
+comunicazione politica, collaborando con la "Rete Nazionale per il
+contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro. 
 
 
 

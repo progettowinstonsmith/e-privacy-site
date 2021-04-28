@@ -182,15 +182,14 @@ Urbano Reviglio ha appena concluso il suo dottorato LAST-JD ERASMUS MUNDUS in la
 
 #### <a name="romano"></a> Salvatore  Romano (Tracking Exposed)
 
-Testo preso da https://github.com/SalvatoreRomano1/About_Me 
-
-I am a researcher who graduated in Social Psychology from the University of Padova (October 2020). I am currently working on Algorithm Analysis and Hate speech discourses on social media specifically focused on the political sphere.
-
-I'm part of tracking.exposed (https://tracking.exposed/) research team, mainly focus on Youtube and Pornhub analysis; check my laxst works on algorithmic Polarization (https://wiki.digitalmethods.net/Dmi/WinterSchool2021FIterTube) and Heteronormativity (https://drive.google.com/file/d/1WBcUnLmbjJ6GYIOkeqL6MOf0JAkxsWNE/view?usp=sharing)!
-
-I am also part of the "Rete Nazionale per il contrasto ai linguaggi e ai fenomeni d'odio"(https://www.retecontrolodio.org/chi-siamo/); check my last work (https://github.com/SalvatoreRomano1/thesis) on the relationship between political communication and hate speech.
-
-I collaborated with the Media Studies department of Amsterdam University and I have been a teaching assistant for the University of Padova in the courses of "Persuasion and social influence" and "Social Network Analysis"; check the report of the teamwork I facilitated on Semantic and Network analysis of Hate Speech (https://github.com/SalvatoreRomano1/net2020)
+Laureato in Psicologia Sociale all'Università di Padova, si occupa di
+Analisi degli algoritmi e dei discorsi di odio sui social media, in
+particolare nella sfera politica.
+È attualmente membro del collettivo Tracking.Exposed, con il quale
+conduce analisi sull'algoritmo di raccomandazione di Youtube e Pornhub.
+Si occupa di hate speech online e della sua relazione con la
+comunicazione politica, collaborando con la "Rete Nazionale per il
+contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro. 
 
 
 

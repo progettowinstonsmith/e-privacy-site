@@ -58,7 +58,7 @@ Scopo dell’intervento è evidenziare come la normativa vigente non disciplini 
 
 
 
-#### <a name="bianchini"></a> Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge <a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
+#### <a name="bianchini"></a> Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge <a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a>*
 
 Le tecnologie di riconoscimento facciale permettono di confrontare immagini facciali digitali per determinare se sono della stessa persona. Il confronto di filmati ottenuti da telecamere con le immagini nei database è definito "tecnologia di riconoscimento facciale dal vivo". Gli esempi di autorità nazionali preposte all'applicazione della legge nell'UE che utilizzano tale tecnologia sono scarsi, anche se in molti ne stanno testando il potenziale. La relazione intende esaminare le implicazioni per i diritti fondamentali, concentrandosi sul suo uso per l'applicazione della legge
@@ -77,7 +77,7 @@ Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una mode
 Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
 
-#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#2m03">⇧</a>
+#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a>*
 
 “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”
@@ -105,7 +105,7 @@ Videosorveglianza e biometria sembravano essere diventate un binomio inscindibil
 #### <a name="giorio"></a> Oltre il riconoscimento facciale<a href="/e-privacy-XXIX-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>*
 
-Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in rete e si limitano a registrare i movimenti si tratta di un problema relativamente limitato, dato che, di solito, vengono esaminate solo in caso di problemi. Ma se dovessero essere messe in rete - ufficiale o meno - e se dovessero essere associata a sistemi di riconoscimento facciale verremmo di fatto pedinati in ogni spostamento. Ma se già questo può spaventare, pensiamo a cosa accadrebbe se oltre al riconoscimento facciale venissero associate ad un riconoscimento dell'umore e dei sentimenti. Certo, forse si potrebbe evitare che un pilota di linea si suicidi portandosi dietro i passeggeri, ma penso che i problemi ed i rischi per la libertà e la democrazia supererebbero di gran lunga i vantaggi.
+Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in rete e si limitano a registrare i movimenti si tratta di un problema relativamente limitato, dato che, di solito, vengono esaminate solo in caso di problemi. Ma se dovessero essere messe in rete - ufficiale o meno - e se dovessero essere associate a sistemi di riconoscimento facciale verremmo di fatto pedinati in ogni spostamento. Ma se già questo può spaventare, pensiamo a cosa accadrebbe se oltre al riconoscimento facciale venissero associate ad un riconoscimento dell'umore e dei sentimenti. Certo, forse si potrebbe evitare che un pilota di linea si suicidi portandosi dietro i passeggeri, ma penso che i problemi ed i rischi per la libertà e la democrazia supererebbero di gran lunga i vantaggi.
 
 
 #### <a name="longo"></a> Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea<a href="/e-privacy-XXIX-programma.html#1p01">⇧</a>
