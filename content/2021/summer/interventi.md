@@ -65,7 +65,7 @@ Le tecnologie di riconoscimento facciale permettono di confrontare immagini facc
 Il GDPR riconosce come "dati sensibili" le immagini facciali delle persone, che sono una forma di dato biometrico. Anche se l'accuratezza delle corrispondenze stia migliorando, il rischio di errori rimane reale, in particolare per alcuni gruppi di minoranze. Inoltre, le persone le cui immagini vengono catturate ed elaborate potrebbero non sapere che questo sta accadendo - e quindi non possono contestare possibili abusi. La relazione analizza queste e altre sfide per i diritti fondamentali che sono innescate quando le autorità pubbliche impiegano tali tecnologie e presenta brevemente i passi da compiere per evitare violazioni dei diritti umani.
 
 
-#### <a name="blengino"></a> Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati<a href="/e-privacy-XXIX-programma.html#1p06">⇧</a>
+#### <a name="blengino"></a> Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati<a href="/e-privacy-XXIX-programma.html#1p07">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a>*
 
 Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una modesta testimonianza di come la digitalizzazione delle nostre vite e l'informatizzazione del processo penale abbia sovvertito e minato alcuni fondamenti del processo, dalla parità tra accusa e difesa sino al principio del libero convincimento del giudice, là dove il dubbio non è più ammesso ne contra, né pro reo (abstract mooolto provvisorio ..............................................................................).  
@@ -77,7 +77,7 @@ Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una mode
 Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
 
-#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
+#### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a>*
 
 “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”
@@ -96,13 +96,13 @@ Ad entrambe queste domande mi è sempre stato risposto “NO” e questo perché
 
 
 
-#### <a name="gallus"></a> Dacci la tua faccia, siamo la pubblica amministrazione!<a href="/e-privacy-XXIX-programma.html#1m02">⇧</a>
+#### <a name="gallus"></a> Dacci la tua faccia, siamo la pubblica amministrazione!<a href="/e-privacy-XXIX-programma.html#1p05">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a>*
 
 Videosorveglianza e biometria sembravano essere diventate un binomio inscindibile per una "smart" city che si rispetti. Negli ultimi tempi, fortunatamente, si sono moltiplicate le iniziative (anche legislative) volte a evitare i maggiori rischi connessi a queste tecnologie, particolarmente invasive. Il talk si propone di analizzare le principali criticità  e i più recenti sviluppi dell'utilizzo delle tecniche di identificazione biometrica da parte delle pubbliche amministrazioni, per finalità diverse da quelle di polizia e di indagine.
 
 
-#### <a name="giorio"></a> Oltre il riconoscimento facciale<a href="/e-privacy-XXIX-programma.html#1m03">⇧</a>
+#### <a name="giorio"></a> Oltre il riconoscimento facciale<a href="/e-privacy-XXIX-programma.html#1m02">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>*
 
 Oggi ci sono telecamere ovunque, legali o meno che siano. Fin quando non sono in rete e si limitano a registrare i movimenti si tratta di un problema relativamente limitato, dato che, di solito, vengono esaminate solo in caso di problemi. Ma se dovessero essere messe in rete - ufficiale o meno - e se dovessero essere associate a sistemi di riconoscimento facciale verremmo di fatto pedinati in ogni spostamento. Ma se già questo può spaventare, pensiamo a cosa accadrebbe se oltre al riconoscimento facciale venissero associate ad un riconoscimento dell'umore e dei sentimenti. Certo, forse si potrebbe evitare che un pilota di linea si suicidi portandosi dietro i passeggeri, ma penso che i problemi ed i rischi per la libertà e la democrazia supererebbero di gran lunga i vantaggi.
@@ -138,7 +138,7 @@ Il nuovo Regolamento europeo sull'intelligenza artificiale, la cui versione defi
 I data brokers sono attori fondamentali del capitalismo della sorveglianza poiché si impegnano nello scambio e inferenza di dati e informazioni personali. E' noto che le loro tecniche di raccolta e analisi dei dati e i numerosi servizi che offrono potrebbero comportare violazioni dei diritti umani. Tuttavia, l'industria dei data brokers rimane ancora un soggetto poco studiato e poco regolamentato. La letteratura accademica è ancora molto limitata. Inoltre, su entrambe le sponde dell'Atlantico, non esiste ancora un chiaro programma normativo. La relazione si propone di offrire una revisione critica interdisciplinare della letteratura più recente. L'efficacia della regolamentazione sia negli Stati Uniti che nell'UE è infatti profondamente discutibile. A causa di tecniche sempre più sofisticate, i data brokers consentono la dataficazione e la persistenza potenzialmente infinita dei dati personali nel cyberspazio. I danni involontari e indesiderabili derivanti dall'attività di questi intermediari di dati sono intrecciati con le basi del capitalismo della sorveglianza. I social media stessi sono pericolosamente legati a tali soggetti. Per essere socialmente sostenibile, l'industria del data brokers avrebbe bisogno non di soluzioni palliative e tolleranti ma di riforme radicali, globali e sistemiche che siano in grado di cambiare gli incentivi economici per allinearli con l'interesse dei cittadini, prima ancora che dei consumatori. La conseguenza più ovvia è che tali soluzioni danneggerebbero il profitto e la crescita di un settore ormai assai potente, opaco e pervasivo. Pertanto, si vuole discutere quali sarebbero le soluzioni più efficaci che si possono intraprendere.
 
 
-#### <a name="romano"></a> Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.<a href="/e-privacy-XXIX-programma.html#1p07">⇧</a>
+#### <a name="romano"></a> Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.<a href="/e-privacy-XXIX-programma.html#1p08">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a>*
 
 Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed (tracking.exposed) si occupa da diversi anni di rendere queste "black box" (Pasquale,2016) analizzabili in modo indipendente, sia per i ricercatori/ricercatrici che per gli utenti comuni. In questo intervento discuteremo due degli studi più significativativi che abbiamo condotto sugli algoritmi di raccomandazione di Youtube (https://youtube.tracking.exposed/filtertube/) e Pornhub (Forthcoming). In particolare ci soffermeremo  sull'intersezione tra Echo Chamber e Filter Bubble (Zimmer et al., 2019) e gli effetti sulla polarizzazione (Nikas, 2018) del dibattito nel contesto post-elettorale  americano, presentando una ricerca realizzata in collaborazione con il dipartimento di Media Studies dell'Università di Amsterdam (wiki.digitalmethods.net/). Successivamente  mostreremo i risultati di un recente studio condotto in collaborazione con il progetto Algocount (algocount.org)  dell'Università di Milano sulla struttura della homepage di Pornhub, focalizzandoci su come il design e gli algoritmi di questa piattaforma possono finire per riprodurre l'eteronormatività, nonostante la piattaforma stessa affermi il contrario. 
@@ -162,13 +162,13 @@ Proviamo a ipotizzare il riconoscimento biometrico nelle imprese e nella P.A. Pe
 Allora: dati biometrici si' o no ?
 
 
-#### <a name="stringhi"></a> Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana<a href="/e-privacy-XXIX-programma.html#1m05">⇧</a>
+#### <a name="stringhi"></a> Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana<a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a>*
 
 Partendo da una rapida rassegna ed analisi di possibili tecniche e "trucchi" per ingannare i sistemi di video-sorveglianza dotati di sistema di riconoscimento facciale tramite il trattamento dei dati personali biometrici, ci interrogheremo sulla correttezza di ricorrere a tali tecnologie, sulle quali non abbiamo ancora un pieno controllo e delle quali non conosciamo effettivamente il funzionamento interno, per finalità di giustizia predittiva, sicurezza nazionale, verifica dell'identità personale. Non si può fare affidamento a tali sistemi come se costituissero una panacea per tutte le problematiche di sicurezza, in quanto forieri di errori, discriminazioni e potenziali ingiustizie. 
 
 
-#### <a name="surbone"></a> Democrazia, Condorsismo e Partecipazione Popolare<a href="/e-privacy-XXIX-programma.html#1p08">⇧</a>
+#### <a name="surbone"></a> Democrazia, Condorsismo e Partecipazione Popolare<a href="/e-privacy-XXIX-programma.html#1p09">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a>*
 
 I cittadini devono tornare a essere demos.
@@ -199,22 +199,10 @@ parzialmente l'anonimato e la privacy, nonostante il loro utilizzo non sia diret
 in maniera silente estrapolano una grande quantità di dati in maniera silente.
 
 
-#### <a name="vieri"></a> social leak: il bello il brutto e il cattivo. <a href="/e-privacy-XXIX-programma.html#1p05">⇧</a>
+#### <a name="vieri"></a> social leak: il bello il brutto e il cattivo. <a href="/e-privacy-XXIX-programma.html#1p06">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a>*
 
 Tutti sappiamo cosa sia un social network. Sappiamo come nasce, come si sviluppa e come ci avviluppa. Insomma oramai sappiamo tutto dei social. In questa presentazione vedremo che effetti causa una dispersione dei dati in esso contenuti. PEr farlo seguiremo la vita di un social dall'idea a un evento di perdita di dati. E, da quel punto cercheremo di capire gli impatti su singoli, cultura, societa' e imprese anche apparentemente non collegate ad esso. Forse scopriremo che non tutto e' come appare e nemmeno come pensavamo. Forse potremmo scoprire che un social non e' solo un qualcosa utile a coloro che una volta si definivano scioperati, fannulloni e perditempo. Potremmo cominciare a pensare che il tesoro vero potrebbero non sono i dati personali dei singoli e, che la societa' civile dovrebbe poter avere accesso a questi dati.
-
-
-#### <a name="zanoni"></a> Internet of Behaviors<a href="/e-privacy-XXIX-programma.html#1p09">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a>*
-
-Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
-
-In passato, in qualità di Incident Responder, è stato coinvolto in attività di gestione degli incidenti per la difesa da attacchi e attaccanti State-Sponsored. Ha contribuito alla messa in sicurezza di aziende Enterprise, in Europa e Medio Oriente, in diversi settori come quello governativo, finanziario, delle telecomunicazioni, dei trasporti e non ultimo in quello energetico. 
-
-Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari Italiani ed esteri e ha coordinato team di sicurezza per il test e la risoluzione di vulnerabilità su sistemi critici.
-
-È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
 
 
 #### <a name="zugnaz"></a> LA GUERRA PER L'ATTENZIONE INIZIATA E'<a href="/e-privacy-XXIX-programma.html#1p03">⇧</a>

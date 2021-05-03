@@ -66,6 +66,14 @@ Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
+#### <a name="faffa"></a> Raffaele Angius (Wired)
+
+Giornalista freelance per La Stampa, Wired e IrpiMedia, specializzato nell’impiego di strumenti informatici per la protezione delle fonti e delle telecomunicazioni.
+Dal 2016 si occupa di progetti per la raccolta di segnalazioni anonime su corruzione e criminalità organizzata tra i quali RegeniFiles, la piattaforma de la Repubblica dedicata alla raccolta di informazioni sulle violazioni dei diritti umani in Egitto e sull'omicidio di Giulio Regeni. Come giornalista, realizza principalmente inchieste su crimini informatici, diritti umani digitali e sorveglianza di Stato.
+È membro dell’Hermes Center for Transparency and Digital Human Rights, con il quale collabora alla diffusione di strumenti per la protezione del lavoro giornalistico e delle fonti.
+
+
+
 #### <a name="beltrami"></a> Giulio Beltrami (Ecologia dei Sistemi Informativi)
 
 Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.
@@ -193,6 +201,12 @@ contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro.
 
 
 
+#### <a name="senor"></a> Monica Senor 
+
+Monica Senor è avvocato penalista specializzato in diritto penale delle nuove tecnologie, privacy e data protection. E' fellow di NEXA, il Centro per Internet & Società del Politecnico di Torino, membro della Commissione informatica del COA di Torino, del comitato scientifico dello CSIG (Centro studi di informatica giuridica Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico). Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer, UTET Giuridica ed Aracne.
+
+
+
 #### <a name="spataro"></a> Valentino Spataro (IusOnDemand srl)
 
 Podcaster, consulente Privacy e sviluppatore informatico, unisco il mondo del diritto all'informatica, divulgandola tramite il podcast Caffe20.it dal 2008. Ho realizzato il comparatore tra lingue del GDPR su Privacykit.it
@@ -235,11 +249,9 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
-#### <a name="zanoni"></a> Gabriele Zanoni 
+#### <a name="zurloni"></a> Luca Zorloni (Wired)
 
-L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
-Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.
-Nell'IoB l’interconessione tra in dati e il nostro processo decisionale richiede una serie di attenzioni a diversi livelli.
+Responsabile economia e attualità di Wired, impegnato in giornalismo di inchiesta e di approfondimento su temi legati ai rapporti tra tecnologia, business, diritti civili e politici, regole europee e sicurezza informatica. Appassionato di Cina, seguo con attenzione la partita del 5G
 
 
 

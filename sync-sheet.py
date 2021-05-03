@@ -518,7 +518,14 @@ def setup_program_session(info, relazioni, relatori):
         line[-1] += "<em>" + title +"</em>"
         line[-1] += "</span>"
         session.append('|'.join(line))
-        if kind == 'talk':
+        if kind == 'roundtable':
+            relatoreX = re.sub("\d","",relatore)
+            D_relatori.append((relatore, relatori[relatoreX] ))
+            if 'altri' in talk:
+                for altro in talk['altri'].split(','):
+                    if altro in relatori:
+                        D_relatori.append((altro,relatori[altro]))
+        elif kind == 'talk':
             relatore = talk['author']
             intervento = relazioni[relatore]
             D_relazioni.append((relatore, talk))
@@ -650,7 +657,8 @@ def setup_sheet_work(SPREADSHEET_ID):
 
 @click.command()
 @click.option('--debug/--no-debug', default=False)
-@click.option('--debug-section', type=click.Choice(['db', 'program']))
+@click.option('--debug-section', type=click.Choice(['db', 'program',
+                                                    'relazioni','relatori']))
 def main(debug,debug_section):
     LOGGER.info('service beginning')
     service = setup_sheet_work(SPREADSHEET_ID)
@@ -665,9 +673,12 @@ def main(debug,debug_section):
         label = 'G' + session
         LOGGER.info(f'session: {label} {",".join(dict(all_relatori).keys())}')
         sess_db = read_db(service, SPREADSHEET_ID, label ,
-                          tweak_item = tweak_sessioni, tweak_collection = tweak_sessioni_collection)
+                          tweak_item = tweak_sessioni,
+                          tweak_collection = tweak_sessioni_collection)
         db[label] = sess_db
-        session, D_relazioni, D_relatori = setup_program_session(db[label], relazioni, relatori)
+        session, D_relazioni, D_relatori = setup_program_session(db[label],
+                                                                 relazioni,
+                                                                 relatori)
         all_relazioni.extend(D_relazioni)
         all_relatori.extend(D_relatori)
         dictionary[label] = '\n'.join(session)
@@ -678,12 +689,13 @@ def main(debug,debug_section):
         pprint(db)
         return
     LOGGER.info('db loaded')
-    if debug and debug_section=='program':
-        pprint(dictionary)
+    if debug and debug_section=='relatori':
+        pprint(all_relatori)
         return
-
+    if debug and debug_section=='relazioni':
+        pprint(all_relazioni)
+        return
     write_out(PATH, PROG_FNAME , **dictionary)
-
     compose_speakers(all_relatori, db)
     compose_interventi(all_relazioni, db)
     compose_email(all_relatori, all_relazioni, db, dictionary)
