@@ -2,7 +2,7 @@ Template: event
 XStatus: draft
 Title: Contatti
 Date: 2021-03-15 00:00:00
-slug: contatti-XXIX
+slug: contatti
 Category: 2021
 lang: it
 Num: XXIX

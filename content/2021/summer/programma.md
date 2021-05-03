@@ -38,8 +38,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+** La partecipazione al convegno è libera e gratuita. **
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
