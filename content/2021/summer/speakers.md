@@ -203,7 +203,21 @@ contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro.
 
 #### <a name="senor"></a> Monica Senor 
 
-Monica Senor è avvocato penalista specializzato in diritto penale delle nuove tecnologie, privacy e data protection. E' fellow di NEXA, il Centro per Internet & Società del Politecnico di Torino, membro della Commissione informatica del COA di Torino, del comitato scientifico dello CSIG (Centro studi di informatica giuridica Ivrea-Torino) e del CSPT (Centro Studi per il Processo Telematico). Collabora con le riviste online Medialaws.eu, IlProcessoTelematico.it e ForumPA.it ed ha pubblicato lavori con Egea, Giappichelli, Springer, UTET Giuridica ed Aracne.
+Laureata con lode presso la facoltà di giurisprudenza dell’Università di Torino nell’aprile 1992.
+Nel 1996 ha conseguito il Diplome Supérieur de Droit Comparé alla Faculté Internationale de Droit
+Comparé di Strasgurgo.
+Dal 1994 al 2018 ha esercitato la professione forense quale avvocato penalista specializzato in diritto
+penale delle nuove tecnologie, digital e biometric forensics, privacy e data protection.
+Attualmente è funzionario direttivo di area giuridica presso l'Ufficio del Garante per la protezione
+dei dati personali, Dipartimento reti telematiche e marketing.
+Dal 2012 è fellow di Nexa, Centro di ricerca su Internet e Società del Politecnico di Torino,
+Dipartimento Automazione e Informatica (DAUIN), centro che si dedica allo studio di Internet e del
+suo impatto sulla società.
+Ha partecipato, quale relatore, a numerosi convegni e seminari nelle materie di specializzazione e si
+è occupata di formazione ed aggiornamento professionale.
+Ha collaborato con numerose riviste online (inter alia, Medialaws.eu, ictsecuritymagazine.com,
+AgendaDigitale.eu) ed ha pubblicato contributi con le case editrici giuridiche Egea, Giappichelli,
+Springer, UTET Giuridica e Aracne.
 
 
 
