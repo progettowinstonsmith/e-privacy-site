@@ -249,6 +249,14 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
+#### <a name="zanoni"></a> Gabriele Zanoni 
+
+L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
+Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.
+Nell'IoB l’interconessione tra in dati e il nostro processo decisionale richiede una serie di attenzioni a diversi livelli.
+
+
+
 #### <a name="zurloni"></a> Luca Zorloni (Wired)
 
 Responsabile economia e attualità di Wired, impegnato in giornalismo di inchiesta e di approfondimento su temi legati ai rapporti tra tecnologia, business, diritti civili e politici, regole europee e sicurezza informatica. Appassionato di Cina, seguo con attenzione la partita del 5G

@@ -38,7 +38,8 @@ Il tema guida della XXIX edizione di e-privacy è:
 
 ###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita. **
+** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
+Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
@@ -51,13 +52,13 @@ Il tema guida della XXIX edizione di e-privacy è:
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
+------- | --- | ------- 
 10:00|15|<span class='talk'><em>*Apertura lavori*: "Lasciateci la faccia"</em></span>
 10:15|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
 10:50|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
 11:15|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
 11:40|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
-12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <!-- <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, --> <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
+12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
 13:15||<span class='talk'><em>Chiusura lavori</em></span>
 
 #### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
@@ -65,7 +66,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
+------- | --- | ------- 
 15:00|5|<span class='talk'><em>Apertura lavori</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
 15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
@@ -83,17 +84,18 @@ Il tema guida della XXIX edizione di e-privacy è:
 
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+------- | --- | ------- 
 10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
 10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
 11:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reviglio">Urbano Reviglio (Università di Milano)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXIX-interventi.html#reviglio">Il Ruolo dei Data Brokers nel Capitalismo della Sorveglianza</a></em></span>
-11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
-12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
-12:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
-13:00||<span class='talk'><em>*Chiusura*</em></span>
+11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
+12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
+12:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
+13:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
+13:25||<span class='talk'><em>*Chiusura*</em></span>
 
 ### Gli organizzatori
 

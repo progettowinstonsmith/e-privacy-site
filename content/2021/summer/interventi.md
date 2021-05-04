@@ -120,13 +120,13 @@ A fine aprile la Commissione europea presenta il primo regolamento sull'AI, comp
 Lo scorso anno, in piena pandemia, la sentenza CGUE denominata "Schrems II" ha cambiato completamente le regole del gioco in merito a privacy e GDPR sulle piattaforme cloud SaaS utilizzate in Europa ma appartenenti a multinazionali americane. Il talk intende ripercorrere brevemente l'excursus storico, partendo dal primo ricorso dell'attivista austriaco Maximilian Schrems, per poi analizzare brevemente gli effetti che quest'ultima sentenza ha avuto e sta avendo sulle principali piattafome cloud SaaS utilizzate in Italia per DaD, DDI e smart working
 
 
-#### <a name="priolo"></a> La spirale del silenzio fa bene ai diritti umani?<a href="/e-privacy-XXIX-programma.html#2m05">⇧</a>
+#### <a name="priolo"></a> La spirale del silenzio fa bene ai diritti umani?<a href="/e-privacy-XXIX-programma.html#2m06">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a>*
 
 Analizzerò l'effetto prodotto dalla consapevolezza di essere tracciati nell'impianto dei diritti fondamentali della persona. Mi chiederò, in particolare, se l'autocensura possa essere vista come una soluzione al problema "sorveglianza di massa" oppure se costituisca solamente un fallimento del progresso tecnologico. Indagherò su possibili rimedi al tracciamento massiccio e dedicherò un focus al riconoscimento facciale e al suo rapporto con le libertà di  manifestazione del pensiero, di circolazione e di uguaglianza.  
 
 
-#### <a name="reale"></a> Verso una governance europea dell'AI<a href="/e-privacy-XXIX-programma.html#2m07">⇧</a>
+#### <a name="reale"></a> Verso una governance europea dell'AI<a href="/e-privacy-XXIX-programma.html#2m08">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a>*
 
 Il nuovo Regolamento europeo sull'intelligenza artificiale, la cui versione definitiva è stata resa pubblica il 21 aprile 2021, rappresenta il naturale complemento al GDPR. Le limitazioni stavolta però non riguardano direttamente i dati personali ed il loro trattamento, bensì gli algoritmi e le applicazioni considerate "ad alto rischio". Alcune tecnologie (incluse quelle per la sorveglianza di massa) saranno vietate tout court (almeno sulla carta), altre potranno essere impiegate soltanto a patto che vengano soddisfatti determinati criteri sulla qualità dei dataset (assenza di bias) e sulla "filiera". Al di là di alcune lacune del Regolamento, la sfida (come per il GDPR) sarà impedire che abbiano priorità aspetti puramente formali e che lo sforzo di tracciare una via europea all'intelligenza artificiale sia occasione non soltanto di tutela ma anche di investimenti.
@@ -188,7 +188,7 @@ Il saggio che propongo come relazione si può trovare qui: https://www.jussemper
 Da tempo si discute in Europa su come e se regolare il riconoscimento facciale. Nel 2019 l'EDPB ha pubblicato delle linee guida sulla video sorveglianza mentre la FRA ha pubblicato la sua analisi dell'impatto dell'adozione di queste tecnologia sui diritti fondamentali. Il 21 Aprile 2021 la Commissione Europea ha da ultimo pubblicato la sua proposta di regolamentazione europea sull'Intelligenza Artificiale che va a toccare anche il tema del riconoscimento facciale. In questo panel faremo il punto sulle indicazioni normative europee già adottate e in corso di discussione su questo tema controverso.
 
 
-#### <a name="vendrame"></a> Antibot Systems<a href="/e-privacy-XXIX-programma.html#2m06">⇧</a>
+#### <a name="vendrame"></a> Antibot Systems<a href="/e-privacy-XXIX-programma.html#2m07">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a>*
 
 Antibot systems sarà una presentazione che darà alla platea una rappresentazione ad alto livello del comportamento dei bot e dei sistemi
@@ -203,6 +203,18 @@ in maniera silente estrapolano una grande quantità di dati in maniera silente.
 *<a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a>*
 
 Tutti sappiamo cosa sia un social network. Sappiamo come nasce, come si sviluppa e come ci avviluppa. Insomma oramai sappiamo tutto dei social. In questa presentazione vedremo che effetti causa una dispersione dei dati in esso contenuti. PEr farlo seguiremo la vita di un social dall'idea a un evento di perdita di dati. E, da quel punto cercheremo di capire gli impatti su singoli, cultura, societa' e imprese anche apparentemente non collegate ad esso. Forse scopriremo che non tutto e' come appare e nemmeno come pensavamo. Forse potremmo scoprire che un social non e' solo un qualcosa utile a coloro che una volta si definivano scioperati, fannulloni e perditempo. Potremmo cominciare a pensare che il tesoro vero potrebbero non sono i dati personali dei singoli e, che la societa' civile dovrebbe poter avere accesso a questi dati.
+
+
+#### <a name="zanoni"></a> Internet of Behaviors<a href="/e-privacy-XXIX-programma.html#2m05">⇧</a>
+*<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a>*
+
+Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
+
+In passato, in qualità di Incident Responder, è stato coinvolto in attività di gestione degli incidenti per la difesa da attacchi e attaccanti State-Sponsored. Ha contribuito alla messa in sicurezza di aziende Enterprise, in Europa e Medio Oriente, in diversi settori come quello governativo, finanziario, delle telecomunicazioni, dei trasporti e non ultimo in quello energetico. 
+
+Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari Italiani ed esteri e ha coordinato team di sicurezza per il test e la risoluzione di vulnerabilità su sistemi critici.
+
+È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
 
 
 #### <a name="zugnaz"></a> LA GUERRA PER L'ATTENZIONE INIZIATA E'<a href="/e-privacy-XXIX-programma.html#1p03">⇧</a>
