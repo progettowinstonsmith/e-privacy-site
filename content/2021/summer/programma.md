@@ -39,7 +39,12 @@ Il tema guida della XXIX edizione di e-privacy è:
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
-Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+
+<a href="/iscrizione-eprivacy.html">Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.</a>
+
+
+
+
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
@@ -52,7 +57,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 10:00|15|<span class='talk'><em>*Apertura lavori*: "Lasciateci la faccia"</em></span>
 10:15|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
 10:50|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
@@ -66,7 +71,7 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 15:00|5|<span class='talk'><em>Apertura lavori</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
 15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
@@ -84,8 +89,8 @@ Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
 
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
 10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
 10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
