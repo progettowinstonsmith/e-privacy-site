@@ -27,7 +27,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 ###e-privacy 2021 - summer edition
 
-Il ** 21 e 22 maggio 2020 ** ONLINE  si svolgerà **e-privacy 2021
+Il ** 21 e 22 maggio 2021 ** ONLINE  si svolgerà **e-privacy 2021
 _summer edition_**.
 
 Il tema guida della XXIX edizione di e-privacy è:
