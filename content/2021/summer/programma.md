@@ -82,7 +82,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 17:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a><br/><em><a name='1p07'></a><a href="/e-privacy-XXIX-interventi.html#blengino">Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati</a></em></span>
 18:00|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a><br/><em><a name='1p08'></a><a href="/e-privacy-XXIX-interventi.html#romano">Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.</a></em></span>
 18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#surbone">Democrazia, Condorsismo e Partecipazione Popolare</a></em></span>
-19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
+19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
 19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 #### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
