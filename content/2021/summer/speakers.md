@@ -28,20 +28,12 @@ MediaPartner: infomedia,aneddotica
 
 ### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
 
-Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra,
-a 18 anni dovette decidere se comprarsi una macchina usata od un
-pc. Scelse il pc e da allora non si e' ancora completamente ripreso.
-Lavora come archeologo di software legacy in una grande
-multinazionale, ma e' appassionato di privacy e crittografia in Rete,
-dove collabora a progetti di software libero come Freenet, Mixmaster,
-Mixminion, Tor & GlobaLaks.
-
-E' il fondatore del Progetto Winston Smith e tra i fondatori
-dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.  
-Dal 2002 organizza il convegno "e-privacy" dedicato alla
-privacy in Rete e fuori, ed e' editorialista di "Punto Informatico"
-dove pubblica la rubrica settimanale 
-<a href="http://punto-informatico.it/cerca.aspx?s=cassandra%20calamari&t=4">"Cassandra Crossing"</a>.
+Marco Calamari: ingegnere, classe 1955, talvolta noto come "Cassandra", a 18 anni dovette decidere se comprarsi una macchina usata od un pc. Scelse il pc e da allora non si è ancora completamente ripreso.
+E' consulente in ambito privacy e Computer Forensics, e specializzato come Application Architect ed archeologo di software legacy.
+Nella vita vera è appassionato di privacy e crittografia in Rete, dove collabora a progetti di software libero come Freenet, Mixmaster, Mixminion, Tor & GlobaLaks.
+E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
+Dal 2002 organizza il convegno "e-privacy" <a href="http://e-privacy.winstonsmith.org/">e-privacy"</a>., dedicato alla privacy in Rete e fuori, ed è editorialista di vari quitidiani informatici dove pubblica la rubrica settimanale
+<a href="http://www.cassandracrossing.org">"Cassandra Crossing"</a> ontre che nel sito trovate una selezione delle migliori puntate <a href="https://calamarim.medium.com/">qui"</a>.
 
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
@@ -122,7 +114,7 @@ Simone Bonavita è Professore a contratto in trattamento dei dati sensibili pres
 
 
 
-#### <a name="carletti"></a> Fabio Carletti (Lejot opensource tecnology)
+#### <a name="carletti"></a> Fabio Carletti aka Ryuw
 
 Fabio Carletti aka Ryuw, strategic IT consultant, relatore IPA(International Police Association) e docente CLUSIT, noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative nella informatica forense. 
 

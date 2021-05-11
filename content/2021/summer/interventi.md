@@ -72,7 +72,7 @@ Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una mode
 
 
 #### <a name="carletti"></a> Analysis app. sms/voip for cellular - privacy by design<a href="/e-privacy-XXIX-programma.html#1p10">⇧</a>
-*<a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti (Lejot opensource tecnology)</a>*
+*<a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a>*
 
 Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
 
