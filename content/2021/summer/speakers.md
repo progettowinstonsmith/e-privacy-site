@@ -33,7 +33,7 @@ E' consulente in ambito privacy e Computer Forensics, e specializzato come Appli
 Nella vita vera è appassionato di privacy e crittografia in Rete, dove collabora a progetti di software libero come Freenet, Mixmaster, Mixminion, Tor & GlobaLaks.
 E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
 Dal 2002 organizza il convegno "e-privacy" <a href="http://e-privacy.winstonsmith.org/">e-privacy"</a>., dedicato alla privacy in Rete e fuori, ed è editorialista di vari quitidiani informatici dove pubblica la rubrica settimanale
-<a href="http://www.cassandracrossing.org">"Cassandra Crossing"</a> ontre che nel sito trovate una selezione delle migliori puntate <a href="https://calamarim.medium.com/">qui"</a>.
+<a href="http://www.cassandracrossing.org">"Cassandra Crossing"</a>; nel sito trovate tutto su Cassadra, ma una selezione delle migliori puntate la trovate <a href="https://calamarim.medium.com/">qui"</a>.
 
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
