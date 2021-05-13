@@ -66,6 +66,8 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
 13:15||<span class='talk'><em>Chiusura lavori</em></span>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
 
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>
@@ -85,6 +87,8 @@ Il tema guida della XXIX edizione di e-privacy è:
 19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
 19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jgqVN_HaNVM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
 
 * Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
@@ -101,6 +105,8 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
 13:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
 13:25||<span class='talk'><em>*Chiusura*</em></span>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9ebJxPhGmlw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gli organizzatori
 
