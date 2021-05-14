@@ -520,3 +520,22 @@ span.talk > a:active {
 h4 {
     color: green;
 }
+
+
+.square {
+  position: relative;
+  height: 120px;
+  float: left;
+}
+
+.square:nth-child(odd) { background-color: #1D1D1D }
+.square:nth-child(even) { background-color: #fff }
+
+.square img {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto
+}
