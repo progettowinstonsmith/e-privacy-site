@@ -19,6 +19,10 @@ HOME_LINK = '/'
 NOW_LIVE=True
 LIVE_URL="https://youtu.be/U76hIPUhL4s"
 
+# LIVE_URL="https://youtu.be/jgqVN_HaNVM"
+# LIVE_URL="https://youtu.be/9ebJxPhGmlw""
+
+
 def split(string):
     return [x.strip() for x in string.strip().split(',')]
 
