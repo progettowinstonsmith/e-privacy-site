@@ -33,7 +33,7 @@ _summer edition_**.
 Il tema guida della XXIX edizione di e-privacy è:
 
 <div class="title-XXIX">«Lasciateci la faccia»</div>
-<div class="subtitle-XXIX">L'identificazione ed controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
+<div class="subtitle-XXIX">L'identificazione e controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
 <br/>
 
 ###Iscrizioni
