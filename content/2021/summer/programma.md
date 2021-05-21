@@ -39,33 +39,12 @@ Il tema guida della XXIX edizione di e-privacy è:
 
 ** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. ** <a href="/iscrizione-eprivacy.html">Iscrivendoti sarai informato di tutte le attività di e-privacy.</a>
 
-### <a name="programma"></a>E-Privacy è online adesso
+### <a name="programma"></a>E-Privacy sarà Online alle ore 10:00 di Sabato 22 maggio
 
-* Vedi la sessione terminata di <a href="/e-privacy-XXIX-programma.html#vem">Venerdì 21 Mattina</a>
+Vedi la sessione terminata di:
 
-#### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
-
-Seguilo qui:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jgqVN_HaNVM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Chairman: <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>
-
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-15:00|5|<span class='talk'><em>Apertura lavori</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
-15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
-15:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXIX-interventi.html#zugnaz">LA GUERRA PER L'ATTENZIONE INIZIATA E'</a></em></span>
-16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
-16:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXIX-interventi.html#gallus">Dacci la tua faccia, siamo la pubblica amministrazione!</a></em></span>
-17:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXIX-interventi.html#vieri">social leak: il bello il brutto e il cattivo. </a></em></span>
-17:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a><br/><em><a name='1p07'></a><a href="/e-privacy-XXIX-interventi.html#blengino">Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati</a></em></span>
-18:00|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a><br/><em><a name='1p08'></a><a href="/e-privacy-XXIX-interventi.html#romano">Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.</a></em></span>
-18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#surbone">Democrazia, Condorsismo e Partecipazione Popolare</a></em></span>
-19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
-19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
-
-
+ - <a href="/e-privacy-XXIX-programma.html#vem">Venerdì 21 Mattina</a>
+ - <a href="/e-privacy-XXIX-programma.html#vep">Venerdì 21 Pomeriggio</a>
 
 #### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
 
@@ -105,6 +84,28 @@ Seguilo qui:
 11:40|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
 12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
 13:15||<span class='talk'><em>Chiusura lavori</em></span>
+
+#### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
+
+Seguilo qui:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jgqVN_HaNVM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Chairman: <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a>
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
+15:00|5|<span class='talk'><em>Apertura lavori</em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#longo">Alessandro Longo (Agendadigitale.eu)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXIX-interventi.html#longo">Intelligenza artificiale, le sfide privacy alla luce del regolamento della Commissione europea</a></em></span>
+15:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#spataro">Valentino Spataro (IusOnDemand srl)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXIX-interventi.html#spataro">La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici</a></em></span>
+15:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXIX-interventi.html#zugnaz">LA GUERRA PER L'ATTENZIONE INIZIATA E'</a></em></span>
+16:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXIX-interventi.html#berto">Le tecnologie ed i dati linguistici – quadro normativo</a></em></span>
+16:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXIX-interventi.html#gallus">Dacci la tua faccia, siamo la pubblica amministrazione!</a></em></span>
+17:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXIX-interventi.html#vieri">social leak: il bello il brutto e il cattivo. </a></em></span>
+17:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a><br/><em><a name='1p07'></a><a href="/e-privacy-XXIX-interventi.html#blengino">Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati</a></em></span>
+18:00|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a><br/><em><a name='1p08'></a><a href="/e-privacy-XXIX-interventi.html#romano">Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.</a></em></span>
+18:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1p09'></a><a href="/e-privacy-XXIX-interventi.html#surbone">Democrazia, Condorsismo e Partecipazione Popolare</a></em></span>
+19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
+19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
 
 ### Gli organizzatori

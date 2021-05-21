@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-EVENT_TIME = '2021/05/21 09:30'
+EVENT_TIME = '2021/05/22 10:00'
 
 COUNTDOWN = True
 
@@ -18,10 +18,10 @@ HOME_LINK = '/'
 
 LIVE_AT=False
 # "15:00"
-NOW_LIVE=True
+NOW_LIVE=False
 # LIVE_URL="https://youtu.be/U76hIPUhL4s"
-LIVE_URL="https://youtu.be/jgqVN_HaNVM"
-# LIVE_URL="https://youtu.be/9ebJxPhGmlw""
+# LIVE_URL="https://youtu.be/jgqVN_HaNVM"
+LIVE_URL="https://youtu.be/9ebJxPhGmlw"
 
 
 def split(string):
