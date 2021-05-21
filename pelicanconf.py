@@ -16,7 +16,8 @@ EVENTBRITE_EID="""
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
 
-LIVE_AT="15:00"
+LIVE_AT=False
+# "15:00"
 NOW_LIVE=True
 # LIVE_URL="https://youtu.be/U76hIPUhL4s"
 LIVE_URL="https://youtu.be/jgqVN_HaNVM"
