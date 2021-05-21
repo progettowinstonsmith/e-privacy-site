@@ -16,6 +16,9 @@ EVENTBRITE_EID="""
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
 
+NOW_LIVE=True
+LIVE_URL="https://youtu.be/U76hIPUhL4s"
+
 def split(string):
     return [x.strip() for x in string.strip().split(',')]
 

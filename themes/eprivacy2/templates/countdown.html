@@ -1,8 +1,14 @@
+{% if NOW_LIVE  %}
+<h5 class="sidebar-title">IN DIRETTA ADESSO</h5>
+<div class="sidebar-time-counter">
+    <a href="{{LIVE_URL}}" alt="Live"><img src="./images/logo/nowlive.png"/></a>
+</div>
+{% else %}
 {% if COUNTDOWN %}
 <h5 class="sidebar-title">PROSSIMO EVENTO</h5>
 <div class="sidebar-time-counter">
-  <div class="pure-g-r">
-    <div class="pure-u-1-2">       
+    <div class="pure-g-r">
+    <div class="pure-u-1-2">
       <div class="time-counter">
         <div class="countdown-container" id="time-counter"></div>
       </div>
@@ -84,4 +90,5 @@
     </div>
   </div>
 </div>
+{% endif %}
 {% endif %}
