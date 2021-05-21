@@ -16,10 +16,10 @@ EVENTBRITE_EID="""
 # HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
 
+LIVE_AT="15:00"
 NOW_LIVE=True
-LIVE_URL="https://youtu.be/U76hIPUhL4s"
-
-# LIVE_URL="https://youtu.be/jgqVN_HaNVM"
+# LIVE_URL="https://youtu.be/U76hIPUhL4s"
+LIVE_URL="https://youtu.be/jgqVN_HaNVM"
 # LIVE_URL="https://youtu.be/9ebJxPhGmlw""
 
 
@@ -62,7 +62,7 @@ THIS = (
      ('Il programma', '/e-privacy-XXIX-programma.html'),
      ('Gli interventi', '/e-privacy-XXIX-interventi.html'),
      ('I relatori', '/e-privacy-XXIX-relatori.html'),
-#     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
+    #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Proposta Talk', '/e-privacy-XXIX-proposta.html'),
 #     ('Call for Paper', '/e-privacy-XXIX.html'),
     # ('Slides', '/e-privacy-XXVIII-programma-slides.html'),

@@ -49,7 +49,7 @@ con la presunzione che l’elaborazione di codici digitali sia meglio dell’int
 Nell’anno di celebrazione dei 700 anni dalla morte di Dante, si ricorda come egli collocò il re Nimrod nel pozzo dei giganti perché colpevole di aver sfidato la divinità (Inferno canto XXXI, 51-81): Dante illustrò l’impresa del re fra gli esempi di superbia (Purgatorio Canto XII, 34-36).
 Naturalmente si possono leggere tali versi in più modi: la storia del re Nimrod e della torre di Babele ricorda di non avere una sconfinata fiducia nella tecnologia, la quale si prefigge di consentire all’uomo di superare confini naturali, culturali, giuridici.
 
-Oggigiorno le tecnologie del linguaggio hanno numerose applicazioni: dai classici motori di ricerca, al marketing digitale e ai servizi digitali per la salute, per citare alcuni esempi. Le tecnologie del linguaggio sono un settore chiave dell’economia digitale. Il Slator 2020 Language Industry Market stima per il 2022 un volume economico pari a 25,3 miliardi. 
+Oggigiorno le tecnologie del linguaggio hanno numerose applicazioni: dai classici motori di ricerca, al marketing digitale e ai servizi digitali per la salute, per citare alcuni esempi. Le tecnologie del linguaggio sono un settore chiave dell’economia digitale. Il Slator 2020 Language Industry Market stima per il 2022 un volume economico pari a 25,3 miliardi.
 
 Eppure i dati linguistici sono essenziali per lo sviluppo di tali tecnologie, come per esempio allenare intelligenze artificiali o molto più semplicemente esercitare traduttori automatici. A parte il lessico e la grammatica di ogni lingua, ogni singolo individuo ha un modo del tutto personale di esprimersi e di comunicare, frutto anche per esempio dell’influenza dell’ambiente in cui vive, della propria professione o del livello culturale.
 
@@ -68,30 +68,30 @@ Il GDPR riconosce come "dati sensibili" le immagini facciali delle persone, che 
 #### <a name="blengino"></a> Dal libero convincimento del Giudice alla prova degli algoritmi: la difesa tra byte e processi decisionali automatizzati<a href="/e-privacy-XXIX-programma.html#1p07">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#blengino">Carlo Blengino </a>*
 
-Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una modesta testimonianza di come la digitalizzazione delle nostre vite e l'informatizzazione del processo penale abbia sovvertito e minato alcuni fondamenti del processo, dalla parità tra accusa e difesa sino al principio del libero convincimento del giudice, là dove il dubbio non è più ammesso ne contra, né pro reo (abstract mooolto provvisorio ..............................................................................).  
+Più che una riflessione "alta" sull'impiego della '"AI" nei tribunali, una modesta testimonianza di come la digitalizzazione delle nostre vite e l'informatizzazione del processo penale abbia sovvertito e minato alcuni fondamenti del processo, dalla parità tra accusa e difesa sino al principio del libero convincimento del giudice, là dove il dubbio non è più ammesso ne contra, né pro reo (abstract mooolto provvisorio ..............................................................................).
 
 
 #### <a name="carletti"></a> Analysis app. sms/voip for cellular - privacy by design<a href="/e-privacy-XXIX-programma.html#1p10">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a>*
 
-Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo. 
+Vorrei analizzare le app.per cellulari come alcuni esempi signal, telegram witckrMe, ed altre tra le più usate nei contesti diversi di segretezza, differenza e punti di forza come sceglierne per un giusto utilizzo in base all'uso cosa è opensource e cosa solo in parte, punti di forza delle applicazioni che possono essere installate su un cellulare per trasferire messaggi, video o chiamate. Si analizzeranno come lavorano i server cosa sbandierano i produttori e di che nazionalità sono le leggi in vigore dove tengono i server e il modus operandi di sviluppo.
 
 
 #### <a name="fedozzi"></a> “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”<a href="/e-privacy-XXIX-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a>*
 
 “LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”
-Questa è un’affermazione che sento dire spesso quando mi reco presso le aziende che seguo come Privacy Manager o D.P.O. durante la formazione di Personale e Management in ambito privacy e data protection. 
+Questa è un’affermazione che sento dire spesso quando mi reco presso le aziende che seguo come Privacy Manager o D.P.O. durante la formazione di Personale e Management in ambito privacy e data protection.
 Mentre riflettevo sul focus di questo elaborato pensavo a quanto mi piacerebbe disquisire di dati biometrici, smart cities, I.O.T (Internet of Things), riconoscimento facciale e via dicendo… Ma se non sono chiari i concetti fondamentali (e secondo la mia esperienza la maggior parte delle persone non conosce l’argomento) come possiamo addentrarci in sistemi così complessi?
 In Primis, qual è la differenza fra privacy e protezione dati? Potrebbero sembrare sinonimi, in realtà sono due cose molto diverse e distinte ma collegate fra loro.
-La prima fa riferimento al diritto alla riservatezza delle informazioni personali e della propria vita privata. La privacy tutela la sfera intima del singolo individuo e serve ad impedire che determinate informazioni vengano divulgate in assenza di specifiche autorizzazioni o quando vogliamo delimitare uno spazio personale che non desideriamo venga oltrepassato da sconosciuti. 
-La protezione dei dati personali, invece, è un sistema di trattamento degli stessi che identifica direttamente o indirettamente una persona. Nella sua definizione oltre al principio di riservatezza, troviamo quello della disponibilità e dell’integrità dei dati personali. 
-Mentre la privacy è uno strumento per allontanare sguardi indesiderati, la protezione dei dati personali mette al centro la persona con riferimento ai suoi dati perché questi costituiscono un’identità. 
+La prima fa riferimento al diritto alla riservatezza delle informazioni personali e della propria vita privata. La privacy tutela la sfera intima del singolo individuo e serve ad impedire che determinate informazioni vengano divulgate in assenza di specifiche autorizzazioni o quando vogliamo delimitare uno spazio personale che non desideriamo venga oltrepassato da sconosciuti.
+La protezione dei dati personali, invece, è un sistema di trattamento degli stessi che identifica direttamente o indirettamente una persona. Nella sua definizione oltre al principio di riservatezza, troviamo quello della disponibilità e dell’integrità dei dati personali.
+Mentre la privacy è uno strumento per allontanare sguardi indesiderati, la protezione dei dati personali mette al centro la persona con riferimento ai suoi dati perché questi costituiscono un’identità.
 Per tornare al titolo della relazione, citando Edward Snowden “Affermare che la privacy non ci interessa perché non abbiamo nulla da nascondere è un po' come affermare che la libertà di parola non ci interessa perché non abbiamo nulla da dire. Occorre fargli capire che stanno fraintendendo il concetto fondamentale dei diritti umani. Non serve giustificare il motivo per cui si ha "bisogno" di un diritto: il carico della giustificazione ricade su chi cerca di infrangere quel determinato diritto. Ma anche se fosse, non puoi cedere i diritti altrui perché a te non sono utili."
-Faccio spesso ai miei interlocutori due domande: 
-Accetteresti mai di farti visitare dal medico con la porta aperta? Se la risposta è no, il concetto di tutela alla riservatezza è chiaro. 
-E ancora: 
-mi confideresti le password di tutti i tuoi account e non solo di quello «ufficiale e rispettabile» che utilizzi per lavoro, ma di tutti quelli che possiedi, per permettermi di scandagliare, verificare e curiosare su tutto ciò che fai on line, leggere quello che voglio e pubblicare tutto ciò che troverò interessante? Dopotutto se non hai nulla da nascondere… 
+Faccio spesso ai miei interlocutori due domande:
+Accetteresti mai di farti visitare dal medico con la porta aperta? Se la risposta è no, il concetto di tutela alla riservatezza è chiaro.
+E ancora:
+mi confideresti le password di tutti i tuoi account e non solo di quello «ufficiale e rispettabile» che utilizzi per lavoro, ma di tutti quelli che possiedi, per permettermi di scandagliare, verificare e curiosare su tutto ciò che fai on line, leggere quello che voglio e pubblicare tutto ciò che troverò interessante? Dopotutto se non hai nulla da nascondere…
 Ad entrambe queste domande mi è sempre stato risposto “NO” e questo perché ogni essere umano istintivamente comprende la profonda importanza della privacy, soprattutto chi la nega. Il mio compito come DPO, Privacy manager e professionista della protezione dati è divulgare il verbo, insegnare alle persone come avvalersi di un loro diritto fondamentale e come tutelare loro stessi e le persone a cui vogliono bene. Bisogna innamorarsi della privacy e della protezione dati personali perché oggi non c'è nulla che ci rappresenti di più!
 
 
@@ -123,7 +123,7 @@ Lo scorso anno, in piena pandemia, la sentenza CGUE denominata "Schrems II" ha c
 #### <a name="priolo"></a> La spirale del silenzio fa bene ai diritti umani?<a href="/e-privacy-XXIX-programma.html#2m06">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a>*
 
-Analizzerò l'effetto prodotto dalla consapevolezza di essere tracciati nell'impianto dei diritti fondamentali della persona. Mi chiederò, in particolare, se l'autocensura possa essere vista come una soluzione al problema "sorveglianza di massa" oppure se costituisca solamente un fallimento del progresso tecnologico. Indagherò su possibili rimedi al tracciamento massiccio e dedicherò un focus al riconoscimento facciale e al suo rapporto con le libertà di  manifestazione del pensiero, di circolazione e di uguaglianza.  
+Analizzerò l'effetto prodotto dalla consapevolezza di essere tracciati nell'impianto dei diritti fondamentali della persona. Mi chiederò, in particolare, se l'autocensura possa essere vista come una soluzione al problema "sorveglianza di massa" oppure se costituisca solamente un fallimento del progresso tecnologico. Indagherò su possibili rimedi al tracciamento massiccio e dedicherò un focus al riconoscimento facciale e al suo rapporto con le libertà di  manifestazione del pensiero, di circolazione e di uguaglianza.
 
 
 #### <a name="reale"></a> Verso una governance europea dell'AI<a href="/e-privacy-XXIX-programma.html#2m08">⇧</a>
@@ -141,7 +141,7 @@ I data brokers sono attori fondamentali del capitalismo della sorveglianza poich
 #### <a name="romano"></a> Due esempi di bias algoritmici: la polarizzazione su Youtube e l'eteronomartività su Pornhub.<a href="/e-privacy-XXIX-programma.html#1p08">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#romano">Salvatore  Romano (Tracking Exposed)</a>*
 
-Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed (tracking.exposed) si occupa da diversi anni di rendere queste "black box" (Pasquale,2016) analizzabili in modo indipendente, sia per i ricercatori/ricercatrici che per gli utenti comuni. In questo intervento discuteremo due degli studi più significativativi che abbiamo condotto sugli algoritmi di raccomandazione di Youtube (https://youtube.tracking.exposed/filtertube/) e Pornhub (Forthcoming). In particolare ci soffermeremo  sull'intersezione tra Echo Chamber e Filter Bubble (Zimmer et al., 2019) e gli effetti sulla polarizzazione (Nikas, 2018) del dibattito nel contesto post-elettorale  americano, presentando una ricerca realizzata in collaborazione con il dipartimento di Media Studies dell'Università di Amsterdam (wiki.digitalmethods.net/). Successivamente  mostreremo i risultati di un recente studio condotto in collaborazione con il progetto Algocount (algocount.org)  dell'Università di Milano sulla struttura della homepage di Pornhub, focalizzandoci su come il design e gli algoritmi di questa piattaforma possono finire per riprodurre l'eteronormatività, nonostante la piattaforma stessa affermi il contrario. 
+Gli algoritmi sono una soluzione tecnologica al sovraccarico di informazioni: sono tanto potenti quanto necessari per gestire l'overflow di dati che ci raggiunge. Purtroppo, possono anche nascondere l'uso di valutazioni e giudizi basati su bias che hanno un impatto sulla diffusione delle idee e della cultura. Tracking Exposed (tracking.exposed) si occupa da diversi anni di rendere queste "black box" (Pasquale,2016) analizzabili in modo indipendente, sia per i ricercatori/ricercatrici che per gli utenti comuni. In questo intervento discuteremo due degli studi più significativativi che abbiamo condotto sugli algoritmi di raccomandazione di Youtube (https://youtube.tracking.exposed/filtertube/) e Pornhub (Forthcoming). In particolare ci soffermeremo  sull'intersezione tra Echo Chamber e Filter Bubble (Zimmer et al., 2019) e gli effetti sulla polarizzazione (Nikas, 2018) del dibattito nel contesto post-elettorale  americano, presentando una ricerca realizzata in collaborazione con il dipartimento di Media Studies dell'Università di Amsterdam (wiki.digitalmethods.net/). Successivamente  mostreremo i risultati di un recente studio condotto in collaborazione con il progetto Algocount (algocount.org)  dell'Università di Milano sulla struttura della homepage di Pornhub, focalizzandoci su come il design e gli algoritmi di questa piattaforma possono finire per riprodurre l'eteronormatività, nonostante la piattaforma stessa affermi il contrario.
 
 
 #### <a name="spataro"></a> La gestione concreta delle password private contro l'indispensabilità dei riconoscimenti biometrici pubblici<a href="/e-privacy-XXIX-programma.html#1p02">⇧</a>
@@ -165,7 +165,7 @@ Allora: dati biometrici si' o no ?
 #### <a name="stringhi"></a> Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana<a href="/e-privacy-XXIX-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a>*
 
-Partendo da una rapida rassegna ed analisi di possibili tecniche e "trucchi" per ingannare i sistemi di video-sorveglianza dotati di sistema di riconoscimento facciale tramite il trattamento dei dati personali biometrici, ci interrogheremo sulla correttezza di ricorrere a tali tecnologie, sulle quali non abbiamo ancora un pieno controllo e delle quali non conosciamo effettivamente il funzionamento interno, per finalità di giustizia predittiva, sicurezza nazionale, verifica dell'identità personale. Non si può fare affidamento a tali sistemi come se costituissero una panacea per tutte le problematiche di sicurezza, in quanto forieri di errori, discriminazioni e potenziali ingiustizie. 
+Partendo da una rapida rassegna ed analisi di possibili tecniche e "trucchi" per ingannare i sistemi di video-sorveglianza dotati di sistema di riconoscimento facciale tramite il trattamento dei dati personali biometrici, ci interrogheremo sulla correttezza di ricorrere a tali tecnologie, sulle quali non abbiamo ancora un pieno controllo e delle quali non conosciamo effettivamente il funzionamento interno, per finalità di giustizia predittiva, sicurezza nazionale, verifica dell'identità personale. Non si può fare affidamento a tali sistemi come se costituissero una panacea per tutte le problematiche di sicurezza, in quanto forieri di errori, discriminazioni e potenziali ingiustizie.
 
 
 #### <a name="surbone"></a> Democrazia, Condorsismo e Partecipazione Popolare<a href="/e-privacy-XXIX-programma.html#1p09">⇧</a>
@@ -208,20 +208,13 @@ Tutti sappiamo cosa sia un social network. Sappiamo come nasce, come si sviluppa
 #### <a name="zanoni"></a> Internet of Behaviors<a href="/e-privacy-XXIX-programma.html#2m05">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a>*
 
-Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
 
-In passato, in qualità di Incident Responder, è stato coinvolto in attività di gestione degli incidenti per la difesa da attacchi e attaccanti State-Sponsored. Ha contribuito alla messa in sicurezza di aziende Enterprise, in Europa e Medio Oriente, in diversi settori come quello governativo, finanziario, delle telecomunicazioni, dei trasporti e non ultimo in quello energetico. 
-
-Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari Italiani ed esteri e ha coordinato team di sicurezza per il test e la risoluzione di vulnerabilità su sistemi critici.
-
-È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
+L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
+Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.
+Nell'IoB l’interconessione tra in dati e il nostro processo decisionale richiede una serie di attenzioni a diversi livelli.
 
 
 #### <a name="zugnaz"></a> LA GUERRA PER L'ATTENZIONE INIZIATA E'<a href="/e-privacy-XXIX-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXIX-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a>*
 
 La guerra dell’attenzione ci vede partecipi che lo vogliamo o no. Oggi non è più importante avere un pubblico o avere opinioni, importa solo avere attenzione. Quanto siamo disposti a perdere per l'attenzione. Oggi è tutto relativo. Fermiamoci ancora una volta a pensare e utilizziamo semplici e banali contromisure, poco teniche, molto psicologiche per la nostra resilienza digitale. Poco serve leggere e guardare internet senza campirne il messaggio e discriminare le informazioni. Riflettere insieme per progredire insieme.
-
-
-
-

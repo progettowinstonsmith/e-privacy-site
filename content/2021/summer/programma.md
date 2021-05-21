@@ -36,40 +36,12 @@ Il tema guida della XXIX edizione di e-privacy è:
 <div class="subtitle-XXIX">L'identificazione e controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
 <br/>
 
-###Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
+** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. ** <a href="/iscrizione-eprivacy.html">Iscrivendoti sarai informato di tutte le attività di e-privacy.</a>
 
-<a href="/iscrizione-eprivacy.html">Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.</a>
+### <a name="programma"></a>E-Privacy è online adesso
 
-
-
-
-
-<!--
-<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
--->
-
-### <a name="programma"></a>Programma del Convegno
-
-#### <a name="vep"></a>Venerdì 21 maggio 2021 - mattina
-
-Seguilo qui:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Chairman: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
-
-**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-10:00|15|<span class='talk'><em>*Apertura lavori*: "Lasciateci la faccia"</em></span>
-10:15|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
-10:50|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
-11:15|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
-11:40|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
-12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
-13:15||<span class='talk'><em>Chiusura lavori</em></span>
-
-
+* Vedi la sessione terminata di <a href="/e-privacy-XXIX-programma.html#vem">Venerdì 21 Mattina</a>
 
 #### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
 
@@ -115,6 +87,24 @@ Seguilo qui:
 13:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
 13:25||<span class='talk'><em>*Chiusura*</em></span>
 
+### Guarda le sessioni già terminate
+
+#### <a name="vem"></a>Venerdì 21 maggio 2021 - mattina
+
+Seguilo qui:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Chairman: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
+10:00|15|<span class='talk'><em>*Apertura lavori*: "Lasciateci la faccia"</em></span>
+10:15|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#tiani">Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXIX-interventi.html#tiani">Riconoscimento facciale: la posizione europea</a></em></span>
+10:50|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio (Comune di Villanova Canavese / Sepel Editrice)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXIX-interventi.html#giorio">Oltre il riconoscimento facciale</a></em></span>
+11:15|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#fedozzi">Mariangela Fedozzi (Libero Professionista)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXIX-interventi.html#fedozzi">“LA PRIVACY NON MI INTERESSA PERCHE’ NON HO NULLA DA NASCONDERE”</a></em></span>
+11:40|35|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#stringhi">Elisabetta Stringhi (Università degli Studi di Milano)</a>, <a href="/e-privacy-XXIX-relatori.html#bonavita">Simone Bonavita (Information Society Law Center)</a> e <a href="/e-privacy-XXIX-relatori.html#cortina">Alessandro Cortina (Perani Pozzi Associati)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXIX-interventi.html#stringhi">Intelligenza (o Giustizia) Artificiale? Limiti e criticità di una tecnologia ancora troppo umana</a></em></span>
+12:15|60|<span class='talk'>Modera: <a href="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXIX-relatori.html#senor">Monica Senor </a>, <a href="/e-privacy-XXIX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)</a>, <a href="/e-privacy-XXIX-relatori.html#zurloni">Luca Zorloni (Wired)</a> e <a href="/e-privacy-XXIX-relatori.html#faffa">Raffaele Angius (Wired)</a><br/><em><a name='1m05'></a>Tavola Rotonda: <a href="/e-privacy-XXIX-interventi.html#tavola1">«Lasciateci la Faccia!»</a></em></span>
+13:15||<span class='talk'><em>Chiusura lavori</em></span>
 
 
 ### Gli organizzatori

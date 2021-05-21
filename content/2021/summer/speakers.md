@@ -54,7 +54,7 @@ relatore.
 
 Emmanuele Somma è prestato da anni al Progetto Winston Smith. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
-Internet wealth". 
+Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
@@ -84,7 +84,7 @@ Dal 2011 la piattaforma si è evoluta al cloud​ sulla "Google App Engine", str
 
 
 
-#### <a name="berto"></a> Rebecca Berto 
+#### <a name="berto"></a> Rebecca Berto
 
 Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Ha mosso i primi passi lavorativi in ambito legale in uno studio legale della Corte d'Appello di Trento. Poi gli eventi l'hanno portata prima a lavorare per un'azienda a partecipazione pubblica e poi all'interno dell'attuale progetto europeo.
 Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati commerciali internazionali e dispute internazionali relativi ad investimenti. Per questo motivo procedure come quelle previste dal WTO o ICSID sono conosciute. Se volete chiederle dell'Energy Charter Treaty e della “Saga sull’energia rinnovabile” ve ne parlerà per ore! Nata a Celle, in Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto dice qualche frase in russo, lingua che cerca di studiare di più, fra un’attività ed un’altra. Ha la passione per le scienze naturali, la fisica e le nuove tecnologie.
@@ -94,7 +94,7 @@ Ha continuato a studiare, specializzandosi in risoluzione internazionale delle d
 
 #### <a name="bianchini"></a> Filippo Bianchini (Studio Legale Bianchini)
 
-L’Avv. Filippo Bianchini, abilitato al patrocinio innanzi alle Giurisdizioni Superiori, si è laureato in Giurisprudenza presso l’Università degli Studi di Perugia; nel 2006 ha fondato lo Studio Legale Bianchini e svolge attività nei settori data protection & privacy, diritto dell’IT e diritto civile, nonché diritto penale. 
+L’Avv. Filippo Bianchini, abilitato al patrocinio innanzi alle Giurisdizioni Superiori, si è laureato in Giurisprudenza presso l’Università degli Studi di Perugia; nel 2006 ha fondato lo Studio Legale Bianchini e svolge attività nei settori data protection & privacy, diritto dell’IT e diritto civile, nonché diritto penale.
 Si occupa di gestione della sicurezza delle informazioni e della protezione dei dati personali in qualità di consulente di primarie Società ed Enti e svolge attività di auditing (è Lead Auditor ISO/IEC 27001:2017), di adeguamento al GDPR nonché il ruolo di Data Protection Officer (certificato UNI 11697:2017).
 È docente di informatica giuridica per la Scuola Forense “G. Gatti” dell’Ordine degli Avvocati di Perugia e docente del Master universitario di primo livello in “Data protection, Cybersecurity e Digital forensics” organizzato dal Dipartimento di Giurisprudenza dell'Università per gli Studi di Perugia; è, inoltre, relatore in numerosi convegni in materia di data protection e cyber security.
 È membro del Cyber Security National Lab, nodo di Perugia e dell’Internet of Things Council, nonché socio del Circolo Giuristi Telematici e dell’Associazione Informatici Professionisti.
@@ -102,7 +102,7 @@ Segue l’evoluzione dei fenomeni legati ad internet ed alle nuove tecnologie, c
 
 
 
-#### <a name="blengino"></a> Carlo Blengino 
+#### <a name="blengino"></a> Carlo Blengino
 
 Carlo Blengino, avvocato, svolge la professione esclusivamente nel settore penale, in particolare nel settore dei reati colposi, delle responsabilità professionali e del penale dell'economia, con una particolare attenzione alla proprietà intellettuale ed alle criticità legate all'informatica, alle nuove tecnologie ed alla tutela della riservatezza e dei dati personali. Collabora con alcune riviste on-line tra cui Medialaws.eu ed ha pubblicato con Giappichelli Editore, UTET Giuridica, Egea ed Aracne. E' fellow del NEXA Center for Internet & Society del Politecnico di Torino ed ha un blog personale sul quotidiano on-line ilPOST.it.
 
@@ -116,7 +116,7 @@ Simone Bonavita è Professore a contratto in trattamento dei dati sensibili pres
 
 #### <a name="carletti"></a> Fabio Carletti aka Ryuw
 
-Fabio Carletti aka Ryuw, strategic IT consultant, relatore IPA(International Police Association) e docente CLUSIT, noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative nella informatica forense. 
+Fabio Carletti aka Ryuw, strategic IT consultant, relatore IPA(International Police Association) e docente CLUSIT, noto ai più per questioni legate alla Sicurezza Informatica ha ottenuto importanti apprezzamenti in attività investigative nella informatica forense.
 
 
 
@@ -129,10 +129,10 @@ Laureato con lode in “Sicurezza dei sistemi e delle reti informatica”, con u
 #### <a name="fedozzi"></a> Mariangela Fedozzi (Libero Professionista)
 
 La mia professione è Privacy Manager e Responsabile Protezione Dati (o D.P.O.), unico core business della mia attività.
-La mia responsabilità principale come D.P.O. è quella di osservare, valutare e organizzare la gestione del trattamento di dati personali (e dunque la loro protezione) all’interno di un’azienda (sia essa pubblica che privata), affinché questi siano trattati nel rispetto delle normative privacy europee e nazionali. Nell’eseguire questi compiti devo considerare debitamente i rischi inerenti al trattamento, tenuto conto della natura, dell’ambito di applicazione, del contesto e delle finalità del medesimo. 
-Ho competenze giuridiche, informatiche, di risk management e di analisi dei processi. 
+La mia responsabilità principale come D.P.O. è quella di osservare, valutare e organizzare la gestione del trattamento di dati personali (e dunque la loro protezione) all’interno di un’azienda (sia essa pubblica che privata), affinché questi siano trattati nel rispetto delle normative privacy europee e nazionali. Nell’eseguire questi compiti devo considerare debitamente i rischi inerenti al trattamento, tenuto conto della natura, dell’ambito di applicazione, del contesto e delle finalità del medesimo.
+Ho competenze giuridiche, informatiche, di risk management e di analisi dei processi.
 Come Privacy Manager fornisco la consulenza necessaria per progettare, verificare e mantenere un sistema organizzato di gestione dei dati personali, curando l’adozione di un complesso di misure di sicurezza finalizzate alla tutela dei dati che soddisfino i requisiti di legge e assicurino sicurezza e riservatezza.
-Svolgo questa attività come libera professionista da 4 anni mentre precedentemente, per molti anni, mi sono occupata anche di privacy presso lo studio legale penale tributario di famiglia quando entrava in vigore il codice privacy italiano D.Lgs 196/2003 in abrogazione alla precedente legge 675/96. 
+Svolgo questa attività come libera professionista da 4 anni mentre precedentemente, per molti anni, mi sono occupata anche di privacy presso lo studio legale penale tributario di famiglia quando entrava in vigore il codice privacy italiano D.Lgs 196/2003 in abrogazione alla precedente legge 675/96.
 Ho conseguito un Master Privacy Officer e Consulente della Privacy con attestato di competenza conseguito con TÜV Italia accreditato dal Consiglio Nazionale Forense, Attestato di Qualità in base a Legge 4/2013 rilasciato da Federprivacy oltre ad altri master e seminari per D.P.O. riconosciuti e certificati Tüv Italia.
 Sono Socia Federprivacy, Persone&Privacy e A.N.C.IMP Italia
 
@@ -146,7 +146,7 @@ Diritto d’autore, diritto penale, tutela della privacy e diritto dell’inform
 
 #### <a name="huyskes"></a> Diletta Huyskes (Privacy Network)
 
-Diletta Huyskes è laureata in Filosofia e ricerca l'impatto sociale dell’IA e delle nuove tecnologie da un punto di vista etico e politico. Alcuni dei suoi ambiti di interesse sono le disuguaglianze tecnologiche, soprattutto di genere, e l'utilizzo di algoritmi e software nei processi decisionali, l’etica dei dati e la sorveglianza. E' la responsabile Advocacy di Privacy Network, associazione nata per tutelare i diritti fondamentali digitali, e giornalista freelance. 
+Diletta Huyskes è laureata in Filosofia e ricerca l'impatto sociale dell’IA e delle nuove tecnologie da un punto di vista etico e politico. Alcuni dei suoi ambiti di interesse sono le disuguaglianze tecnologiche, soprattutto di genere, e l'utilizzo di algoritmi e software nei processi decisionali, l’etica dei dati e la sorveglianza. E' la responsabile Advocacy di Privacy Network, associazione nata per tutelare i diritti fondamentali digitali, e giornalista freelance.
 
 
 
@@ -189,11 +189,11 @@ particolare nella sfera politica.
 conduce analisi sull'algoritmo di raccomandazione di Youtube e Pornhub.
 Si occupa di hate speech online e della sua relazione con la
 comunicazione politica, collaborando con la "Rete Nazionale per il
-contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro. 
+contrasto ai linguaggi e ai fenomeni d'odio" di cui è membro.
 
 
 
-#### <a name="senor"></a> Monica Senor 
+#### <a name="senor"></a> Monica Senor
 
 Laureata con lode presso la facoltà di giurisprudenza dell’Università di Torino nell’aprile 1992.
 Nel 1996 ha conseguito il Diplome Supérieur de Droit Comparé alla Faculté Internationale de Droit
@@ -221,7 +221,7 @@ Podcaster, consulente Privacy e sviluppatore informatico, unisco il mondo del di
 
 #### <a name="stringhi"></a> Elisabetta Stringhi (Università degli Studi di Milano)
 
-Elisabetta Stringhi è Dottoressa cum laude in Giurisprudenza con una Tesi in Informatica Giuridica presso l'Università degli Studi di Milano. Attualmente sta svolgendo la pratica forense nell'ambito del diritto delle nuove tecnologie. E' stata Visiting presso l'Institute for Information Law (IViR) di Amsterdam. 
+Elisabetta Stringhi è Dottoressa cum laude in Giurisprudenza con una Tesi in Informatica Giuridica presso l'Università degli Studi di Milano. Attualmente sta svolgendo la pratica forense nell'ambito del diritto delle nuove tecnologie. E' stata Visiting presso l'Institute for Information Law (IViR) di Amsterdam.
 
 
 
@@ -229,7 +229,7 @@ Elisabetta Stringhi è Dottoressa cum laude in Giurisprudenza con una Tesi in In
 
 Andrea Surbone, scrittore, editore ed ex viticoltore.
 Ha scritto narrativa con Pulviscolo e dal novembre 2007 redige il "buona settimana", una piccola rubrica di sguardi sul mondo, inviata ogni lunedì via email.
-Editore della rivista Nuvole (numeri cartacei dal 16 al 23) e tuttora membro della Redazione (www.nuvole.it). 
+Editore della rivista Nuvole (numeri cartacei dal 16 al 23) e tuttora membro della Redazione (www.nuvole.it).
 Portavoce di una proposta di economia politica (www.propostaneokeynesiana.it).
 Promotore di una proposta politica (www.surbone.it/per).
 
@@ -238,7 +238,7 @@ Promotore di una proposta politica (www.surbone.it/per).
 
 #### <a name="tiani"></a> Vincenzo Tiani (Hermes Center for Transparency and Digital Human Rights)
 
-Vincenzo Tiani è partner della sede di Bruxelles dello studio legale Panetta & Associati, specializzato in  privacy e diritto delle nuove tecnologie, ed è membro del board di Hermes Center. Ha lavorato al Parlamento Europeo e in due organismi internazionali che tutelano i diritti fondamentali online. È professore a contratto di diritti digitali e scrive regolarmente di politiche digitali europee per diverse testate giornalistiche. 
+Vincenzo Tiani è partner della sede di Bruxelles dello studio legale Panetta & Associati, specializzato in  privacy e diritto delle nuove tecnologie, ed è membro del board di Hermes Center. Ha lavorato al Parlamento Europeo e in due organismi internazionali che tutelano i diritti fondamentali online. È professore a contratto di diritti digitali e scrive regolarmente di politiche digitali europee per diverse testate giornalistiche.
 
 
 
@@ -251,15 +251,19 @@ Nel corso degli ultimi anni mi sono dilettato con varie tecniche di reverse engi
 
 #### <a name="vieri"></a> Giovambattista Vieri (ENT SRL)
 
-Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori. 
+Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori.
 
 
 
-#### <a name="zanoni"></a> Gabriele Zanoni 
+#### <a name="zanoni"></a> Gabriele Zanoni
 
-L’IoB è una combinazione di tre campi: Technology, Data analytics e Behavioral science.
-Le aziende imparano sempre di più sulle persone dai device IoT, e questo viene usato per nel campo dell’IoB per influenzare le scelte delle persone.
-Nell'IoB l’interconessione tra in dati e il nostro processo decisionale richiede una serie di attenzioni a diversi livelli.
+Gabriele Zanoni lavora come Senior Strategic Consultant in Mandiant. Il suo ruolo attuale gli permette di lavorare come Trusted Advisor su progetti strategici di cyber security nel settore Enterprise in Italia e in EMEA.
+
+In passato, in qualità di Incident Responder, è stato coinvolto in attività di gestione degli incidenti per la difesa da attacchi e attaccanti State-Sponsored. Ha contribuito alla messa in sicurezza di aziende Enterprise, in Europa e Medio Oriente, in diversi settori come quello governativo, finanziario, delle telecomunicazioni, dei trasporti e non ultimo in quello energetico.
+
+Ha lavorato come Penetration Tester per la sicurezza di molti istituti bancari Italiani ed esteri e ha coordinato team di sicurezza per il test e la risoluzione di vulnerabilità su sistemi critici.
+
+È appassionato di OSINT (Open Source INTelligence) e di Analisi Forense, e spesso partecipa come relatore a conferenze inerenti questi temi.
 
 
 
@@ -272,13 +276,3 @@ Responsabile economia e attualità di Wired, impegnato in giornalismo di inchies
 #### <a name="zugnaz"></a> Efrem Zugnaz (the Webprepping Initiative)
 
 Efrem Zugnaz, opera nel settore IT da piu' di venticinque anni. Attualmente si occupa PRIVACY in ambito Autostradale. Fondatore dell'iniziative WEBPREPPING che da dieci anni si occupa di survivalismo digitale per la gente comune, la scuola e le istituzioni. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera info-digitale etica e corretta, ma soprattutto psicologicamente ecologica.
-
-
-
-
-
-
-
-
-
-
