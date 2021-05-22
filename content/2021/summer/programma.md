@@ -27,16 +27,13 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 ###e-privacy 2021 - summer edition
 
-Il ** 21 e 22 maggio 2021 ** ONLINE  si svolgerà **e-privacy 2021
-_summer edition_**.
+Il ** 21 e 22 maggio 2021 ** ONLINE  si è svolto **e-privacy 2021 _summer edition_**.
 
 Il tema guida della XXIX edizione di e-privacy è:
 
 <div class="title-XXIX">«Lasciateci la faccia»</div>
 <div class="subtitle-XXIX">L'identificazione e controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
 <br/>
-
-
 
 #### <a name="vem"></a>Venerdì 21 maggio 2021 - mattina
 
