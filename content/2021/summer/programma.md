@@ -37,36 +37,6 @@ Il tema guida della XXIX edizione di e-privacy è:
 <br/>
 
 
-** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. ** <a href="/iscrizione-eprivacy.html">Iscrivendoti sarai informato di tutte le attività di e-privacy.</a>
-
-### <a name="programma"></a>E-Privacy sarà Online alle ore 10:00 di Sabato 22 maggio
-
-Vedi la sessione terminata di:
-
- - <a href="/e-privacy-XXIX-programma.html#vem">Venerdì 21 Mattina</a>
- - <a href="/e-privacy-XXIX-programma.html#vep">Venerdì 21 Pomeriggio</a>
-
-#### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
-
-Seguilo qui:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9ebJxPhGmlw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
-10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
-10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
-10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
-11:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reviglio">Urbano Reviglio (Università di Milano)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXIX-interventi.html#reviglio">Il Ruolo dei Data Brokers nel Capitalismo della Sorveglianza</a></em></span>
-11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
-12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
-12:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
-13:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
-13:25||<span class='talk'><em>*Chiusura*</em></span>
-
-### Guarda le sessioni già terminate
 
 #### <a name="vem"></a>Venerdì 21 maggio 2021 - mattina
 
@@ -107,6 +77,25 @@ Seguilo qui:
 19:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#carletti">Fabio Carletti aka Ryuw</a><br/><em><a name='1p10'></a><a href="/e-privacy-XXIX-interventi.html#carletti">Analysis app. sms/voip for cellular - privacy by design</a></em></span>
 19:25||<span class='talk'><em>Chiusura lavori prima giornata</em></span>
 
+#### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
+
+Seguilo qui:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9ebJxPhGmlw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Chairman: <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a>
+
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
+10:00|5|<span class='talk'><em>*Apertura lavori*</em></span>
+10:05|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#lopez">Ugo Lopez (Associazione Blue Lighthouse - Edizioni e Formazione)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXIX-interventi.html#lopez">Schrems II e privacy: cosa succede nel cloud SaaS</a></em></span>
+10:30|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#beltrami">Giulio Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXIX-interventi.html#beltrami">aPrivacy in HoloCity</a></em></span>
+10:55|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#bianchini">Filippo Bianchini (Studio Legale Bianchini)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXIX-interventi.html#bianchini">Riconoscimento facciale: considerazioni sui diritti fondamentali nel contesto dell'applicazione della legge </a></em></span>
+11:20|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reviglio">Urbano Reviglio (Università di Milano)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXIX-interventi.html#reviglio">Il Ruolo dei Data Brokers nel Capitalismo della Sorveglianza</a></em></span>
+11:45|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXIX-interventi.html#zanoni">Internet of Behaviors</a></em></span>
+12:10|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#priolo">Enrica  Priolo (Bonadio Priolo LTF )</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXIX-interventi.html#priolo">La spirale del silenzio fa bene ai diritti umani?</a></em></span>
+12:35|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#vendrame">Tobia Vendrame (Uniroma1)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXIX-interventi.html#vendrame">Antibot Systems</a></em></span>
+13:00|25|<span class='talk'><a href="/e-privacy-XXIX-relatori.html#reale">Roberto Reale (Eutopian)</a> e <a href="/e-privacy-XXIX-relatori.html#huyskes">Diletta Huyskes (Privacy Network)</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXIX-interventi.html#reale">Verso una governance europea dell'AI</a></em></span>
+13:25||<span class='talk'><em>*Chiusura*</em></span>
 
 ### Gli organizzatori
 
