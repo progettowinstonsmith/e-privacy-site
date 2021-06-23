@@ -81,7 +81,8 @@ ISCRIVITI='''
 
 # Blogroll
 PREVS = (
-#    ('mappa di tutte le edizioni', '/mappa.html'),
+    #    ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2021 summer XXIX', '/e-privacy-XXIX.html'),
     ('e-privacy 2020 autumn XXVIII', '/e-privacy-XXVIII.html'),
     ('e-privacy 2020 summer XXVII', '/e-privacy-XXVII.html'),
     ('e-privacy 2019 winter XXVI', '/e-privacy-XXVI.html'),
@@ -92,6 +93,7 @@ PREVS = (
     ('e-privacy 2017 summer XXI', '/e-privacy-XXI.html'),
     ('e-privacy 2016 autumn XX', '/e-privacy-XX.html'),
     ('e-privacy 2016 spring XIX', '/e-privacy-XIX.html'),
+    ('e-privacy 2016 lab 3.1416', '/e-privacy-3.1416-programma.html'),
     ('e-privacy 2015 autumn XVIII', '/e-privacy-XVIII.html'),
     ('e-privacy 2015 spring XVII', '/e-privacy-XVII.html'),
     ('e-privacy 2014 autumn XVI', '/e-privacy-XVI.html'),
