@@ -1,0 +1,94 @@
+Template: event
+XStatus: draft
+Title: Ventinove e tre quarti
+Date: 2021-07-15 00:01:00
+slug: e-privacy-29e3quarti-programma
+Category: 2021
+lang: it
+Num: 29e¾
+Year: 2021
+City: RETE
+Where: Videoconferenza & Streaming
+When: 1-2 ottobre
+Image: e-privacy-XXIX
+Season: autumn
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+previd: 2021
+prev: e-privacy-XXIX
+nextid:
+next:
+Organizzatori: pws
+Collaboratori: bba
+Sponsor: cgt,sikurezza.org,sepel,ush
+Patrocini:
+MediaPartner: infomedia,aneddotica
+css: .title-XXIX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXIX {{ font: 18px arial, sans-serif; text-align: center; }}
+
+
+###e-privacy 2021 - summer edition
+
+Il ** 21 e 22 maggio 2020 ** ONLINE  si svolgerà **e-privacy 2021
+_summer edition_**.
+
+Il tema guida della XXIX edizione di e-privacy è:
+
+<div class="title-XXIX">«Lasciateci la faccia»</div>
+<div class="subtitle-XXIX">L'identificazione ed controllo biometrico di massa sono incompatibili con una democrazia rispettosa dei diritti umani?</div>
+<br/>
+
+###Iscrizioni
+
+** La partecipazione al convegno è libera e gratuita, e l'iscrizione è facoltativa. **
+Iscrivendovi tuttavia ci aiuterete a gestire meglio la logistica.
+
+<!--
+<div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>
+-->
+
+### <a name="programma"></a>Programma del Convegno
+
+#### <a name="vep"></a>Venerdì 21 maggio 2021 - mattina
+
+* Chairman: {G1M_CHAIRMAN}
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | ------- 
+{G1M}
+
+#### <a name="vep"></a>Venerdì 21 maggio 2021 - pomeriggio
+
+* Chairman: {G1P_CHAIRMAN}
+
+**Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | ------- 
+{G1P}
+
+#### <a name="sam"></a>Sabato 22 maggio 2021 - mattina
+
+* Chairman: {G2M_CHAIRMAN}
+
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+------- | --- | ------- 
+{G2M}
+
+### Gli organizzatori
+
+La manifestazione e’ organizzata da:
+
+ - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+
+e da altre organizzazioni, aziende ed associazioni.
+
+
+### Contatti
+
+Per contatti generali e per la
+stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
+per i relatori
+[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
+
+Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
+disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
+
+**Vi aspettiamo**.

@@ -1,0 +1,29 @@
+Template: event
+XStatus: draft
+qTitle: Ventinove e tre quarti
+Date: 2021-07-15 00:01:00
+slug: e-privacy-29e3quarti-interventi
+Category: 2021
+lang: it
+Num: 29e¾
+Year: 2021
+City: RETE
+Where: Videoconferenza & Streaming
+When: 1-2 ottobre
+Image: e-privacy-XXIX
+Season: autumn
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+previd: 2021
+prev: e-privacy-XXIX
+nextid:
+next:
+Organizzatori: pws
+Collaboratori: bba
+Sponsor: cgt,sikurezza.org,sepel,ush
+Patrocini:
+MediaPartner: infomedia,aneddotica
+
+## <a name="talks"></a>Gli interventi
+
+{INTERVENTI}
+
