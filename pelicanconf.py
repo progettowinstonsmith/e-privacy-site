@@ -117,8 +117,8 @@ PREVS = (
 # Social widget
 LINKS = (
     ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
-    ('Centro HERMES', 'http://logioshermes.org/'),
-    #    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
+#    ('Centro HERMES', 'http://logioshermes.org/'),
+        ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
 )
 
 PARTNERS = {
