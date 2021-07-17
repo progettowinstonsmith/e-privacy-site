@@ -25,8 +25,8 @@ MediaPartner: infomedia,aneddotica
 timeline: 30 agosto | 15 settembre | 30 settembre
 css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXIX { font: 18px arial, sans-serif; text-align: center; }
 
-<div class="title-XXIX">«Ventinove e tre quarti»</div>
-<div class="subtitle-XXIX">«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.» — Winston Smith</div>
+<div class="title-XXIX"><b>«Ventinove e tre quarti»</b></div>
+<div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
 # e-privacy 29e¾ @ RETE
@@ -48,9 +48,9 @@ Nel 2022 ci auguriamo di potere celebrare tre feste: la fine della
 pandemia, il 20° anno del convegno e-privacy e la 30° edizione del
 convegno.
 
-Per preparare adeguatamente la festa abbiamo pensato ad una cosa
+*** Per preparare adeguatamente la festa abbiamo pensato ad una cosa
 diversa dal solito, un’edizione in cui daremo spazio non al dibattito
-scientifico, ma alla dimensione più personale ed intimista.
+scientifico, ma alla dimensione più personale ed intimista. ***
 
 Un’edizione per noi, per «quelli di e-privacy», gli amici da lungo
 tempo, gli appassionati da sempre, per chi è stato relatore tante o
@@ -93,9 +93,9 @@ dei precedenti convegni che ha lasciato il segno, della volta in cui
 hai fatto colpo citando Winston Smith e di farci partecipi di un
 episodio, un’amicizia, un momento che vuoi condividere.
 
-Se e-privacy ti ha dato qualcosa, questo è il momento di rimetterlo in comune.
+*** Se e-privacy ti ha dato qualcosa, questo è il posto giusto per metterlo in comune. ***
 
-Buona edizione speciale nella dimensione magica del 29¾.
+*** Buona edizione speciale nella dimensione magica del 29¾. ***
 
 
 ## Come funzionerà e-privacy 29¾?
@@ -116,16 +116,19 @@ Ci saranno due sessioni il giorno venerdì 1 Ottobre 2021 dalle ore
 o attivare più sessioni. È opportuna la presenza almeno in una intera
 sessione ma sarà possibile comunque interagire da remoto.
 
-Per partecipare è sufficiente mandare una mail indicando la preferenza
+Per partecipare è sufficiente mandare una mail, *** o meglio ancora riempire il form qua sotto, *** indicando la preferenza
 (se venerdì o sabato, o la disponibilità di essere in ambedue le
 sessioni). Devi indicare esclusivamente un breve titolo o sottotitolo
-(che siano evocativi e accattivanti) del tuo intervento. Non possiamo
-dirti quanto tempo avrai a disposizione perché dipende da quanti
+(che siano evocativi e accattivanti) del tuo intervento. 
+<b>
+Non possiamo dirti subito quanto tempo avrai a disposizione,perché dipende da quanti
 risponderanno (ok, preparati per almeno 10’ e a rispondere a eventuali
 domande).
 
 Ma di cosa dovrai parlare? Di quello che vuoi, ovviamente, ma puoi
-ascoltare i suggerimenti
+ascoltare i suggerimenti di questa pagina, o discutere con noi scrivendoci 
+ a  [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
+
 
 
 # Il convegno
@@ -143,7 +146,7 @@ quanti operano nel settore pubblico ed istituzionale.
 
 # Le proposte
 
-Attenzione! Le modalità di partecipazione a questa edizioni sono differenti dal solito.
+*** Attenzione! *** Le modalità di partecipazione a questa edizioni sono differenti dal solito.
 
 Tutti coloro che vorranno partecipare sono invitati a sottomettere un breve proposta
 contenente esclusivamente:
@@ -152,12 +155,13 @@ contenente esclusivamente:
 - Una email e un telefono per il contatto
 - Un breve titolo e sottotitolo
 
-Aiutateci presentando la proposta di intervento su questo form
+Aiutateci presentando la proposta di intervento su questa
 [pagina](/e-privacy-29e3quarti-proposta.html)
 
-Non c'è un vero termine, ma fateci organizzare al meglio annunciando la vostra partecipazione  __entro il 30 agosto 2021__.
+Non c'è un vero termine, ma fateci organizzare al meglio annunciando la
+ vostra partecipazione  __entro il 30 agosto 2021__.
 
-Se desiderate proiettare qualche foto o immagine fatecela avere qualche giorno prima.
+Se desiderate proiettare qualche foto o immagine, fatecela avere qualche giorno prima.
 
 # Gli interventi
 
