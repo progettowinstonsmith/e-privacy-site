@@ -25,13 +25,14 @@ MediaPartner: infomedia,aneddotica
 timeline: 30 agosto | 15 settembre | 30 settembre
 css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXIX { font: 18px arial, sans-serif; text-align: center; }
 
+# e-privacy 29e¾ @ RETE
+
 ![Licenza Creative Commons BY-NC-SA](images/editions/EPRIVACY_29tq_title_gold.jpg "e-privacy 29¾")
 
 <div class="title-XXIX"><b>«Ventinove e tre quarti»</b></div>
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
-# e-privacy 29e¾ @ RETE
 
 ## Call for Partecipation
 
