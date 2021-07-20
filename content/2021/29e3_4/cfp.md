@@ -113,9 +113,10 @@ adeguate al momento).  Se fossi disponibile a muoverti (tipo prendere
 un aereo e spendere soldi per un alloggio) dacci una disponibilità di
 massima in modo da poter trovare una location comoda e condivisa.
 
-Ci saranno due sessioni il giorno venerdì 1 Ottobre 2021 dalle ore
-16.30 alle 19.30 e il giorno 2 Ottobre 2021 dalle ore 10.30 alle
-13.30.  Nel caso vi siano molte presenze potremmo rimodulare gli orari
+*** Ci saranno due sessioni il giorno venerdì 1 Ottobre 2021 dalle ore
+16.30 alle 19.30 e il giorno 2 Ottobre 2021 dalle ore 10.30 alle 13.30. ***
+
+Nel caso vi siano molte presenze potremmo rimodulare gli orari
 o attivare più sessioni. È opportuna la presenza almeno in una intera
 sessione ma sarà possibile comunque interagire da remoto.
 
