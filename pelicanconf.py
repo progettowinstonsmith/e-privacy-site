@@ -8,8 +8,8 @@ LOAD_CONTENT_CACHE = False
 COUNTDOWN = False
 EVENT_TIME = '2021/05/22 10:00'
 
-# HOME_LINK = 'http://localhost/'
 HOME_LINK = '/'
+# HOME_LINK = 'http://localhost/'
 
 LIVE_AT=False
 # "15:00"
