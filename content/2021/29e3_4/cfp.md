@@ -19,7 +19,7 @@ nextid:
 next:
 Organizzatori: pws
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
+Sponsor: cgt,sikurezza.org,sepel,ush,defcons
 Patrocini:
 MediaPartner: infomedia,aneddotica
 timeline: 30 agosto | 15 settembre | 30 settembre

@@ -209,6 +209,7 @@ PARTNERS = {
     'brat': ('Brat Cyber Security', 'logo_brat.png', 'https://www.bratsecurity.com/'),
     'lhb': ('Legal Hackers Bari', 'logo_lhb.jpg', 'https://www.meetup.com/it-IT/Bari-Legal-Hackers/'),
     'ordavvbari': ('Ordine Avvocati Bari', 'logo_ordine_avvocati_bari.jpg', 'http://www.ordineavvocati.bari.it/'),
+    'defcons': ('Defcons', 'LogoSiteDefcons.png', 'https://defcons.uno/'),
 }
 
 
