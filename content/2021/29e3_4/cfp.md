@@ -25,7 +25,7 @@ MediaPartner: infomedia,aneddotica
 timeline: 30 agosto | 15 settembre | 30 settembre
 css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXIX { font: 18px arial, sans-serif; text-align: center; }
 
-# e-privacy 29e¾ @ RETE
+# e-privacy 29e¾ @ RETE 
 
 ![Licenza Creative Commons BY-NC-SA](images/editions/EPRIVACY_29tq_title_gold.jpg "e-privacy 29¾")
 
