@@ -123,14 +123,14 @@ sessione ma sarà possibile comunque interagire da remoto.
 Per partecipare è sufficiente mandare una mail, *** o meglio ancora riempire il form qua sotto, *** indicando la preferenza
 (se venerdì o sabato, o la disponibilità di essere in ambedue le
 sessioni). Devi indicare esclusivamente un breve titolo o sottotitolo
-(che siano evocativi e accattivanti) del tuo intervento. 
+(che siano evocativi e accattivanti) del tuo intervento.
 <b>
 Non possiamo dirti subito quanto tempo avrai a disposizione,perché dipende da quanti
 risponderanno (ok, preparati per almeno 10’ e a rispondere a eventuali
 domande).
 
 Ma di cosa dovrai parlare? Di quello che vuoi, ovviamente, ma puoi
-ascoltare i suggerimenti di questa pagina, o discutere con noi scrivendoci 
+ascoltare i suggerimenti di questa pagina, o discutere con noi scrivendoci
  a  [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
 
 

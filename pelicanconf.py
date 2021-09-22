@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-COUNTDOWN = False
-EVENT_TIME = '2021/05/22 10:00'
+COUNTDOWN = True
+EVENT_TIME = '2021/10/01 17:00'
 
 HOME_LINK = '/'
 # HOME_LINK = 'http://localhost/'
