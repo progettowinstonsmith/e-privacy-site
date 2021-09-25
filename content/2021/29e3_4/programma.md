@@ -34,40 +34,40 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <br/>
 
 #### Programma del convegno
+
+
+
+   - moderano: Enrica Priolo, Marco Calamari, Diego Giorio, Emmanuele Somma (Progetto Winston Smith)
+
 #### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen X /iframe -->
 
-* Chairman: <a src="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma</a> (Progetto Winston Smith)
-
-**Ora** | Durata | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-------- | --- | -------
-17.00 | 2 ore o quanto necessario | Manuela Vacca
-|| Andrea Surbone
-|| Carlo Gubitosa
-|| Claudio Agosti
-|| Efrem Zugnaz
-|| Giovanni Battista Gallus
-|| Giuseppe Augiero
-|| Rebecca Berto
-|| Stefano Aterno
-
+**Ora** |  **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+------- | -------
+17.00 |  Manuela Vacca
+| Andrea Surbone
+| Carlo Gubitosa
+| Claudio Agosti
+| Efrem Zugnaz
+| Giovanni Battista Gallus
+| Giuseppe Augiero
+| Rebecca Berto
+| Stefano Aterno
 
 #### <a name="sab"></a>Sabato 2 ottobre 2021 - mattina
 
-* Chairman: <a src="/e-privacy-XXIX-relatori.html#calamari">Marco Calamari</a>, <a href="/e-privacy-XXIX-relatori.html#giorio">Diego Giorio</a>, <a href="/e-privacy-XXIX-relatori.html#somma">Emmanuele Somma</a> (Progetto Winston Smith)
-
-**Ora** | Durata | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-------- | --- | -------
-10.30 | 2 ore o quanto necessario | Edoardo Ferri
-|| Alessandro Del Ninno
-|| Daniele Salvini
-|| Gennaro Maria Amoruso
-|| Ilaria Bartolucci
-|| Marco Ciurcina
-|| Michele Iaselli
-|| Ugo Lopez
-|| Yvette Agostini
+**Ora** | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+------- | -------
+10.30 |  Edoardo Ferri
+| Alessandro Del Ninno
+| Daniele Salvini
+| Gennaro Maria Amoruso
+| Ilaria Bartolucci
+| Marco Ciurcina
+| Michele Iaselli
+| Ugo Lopez
+| Yvette Agostini
 
 (forse) parleremo di:
 
@@ -88,8 +88,6 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
  - **In una giungla di dubbi riaffiorano alcune riflessioni di e-privacy**<br/>Camminando attraverso una giungla di dubbi verso il deserto della verità ed inciampando lungo il tragitto in avvenimenti e in persone, riaffiorano i ricordi di alcune riflessioni espresse durante i convegni di e-privacy.
  - **I miei primi 10 anni**<br/>Bei ricordi di persone, luoghi, eventi
  - **Generazione GDPR**<br/>Storie di privacy dalla Sanità
-
-
 
 La manifestazione e’ organizzata da:
 
