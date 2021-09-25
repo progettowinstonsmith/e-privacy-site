@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: Ventinove e tre quarti
-Date: 2021-06-20 00:01:00
+Date: 2021-09-24 00:01:00
 slug: e-privacy-29e3quarti-programma
 Category: 2021
 lang: it
@@ -19,7 +19,7 @@ nextid:
 next:
 Organizzatori: pws
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
+Sponsor: cgt,sikurezza.org,sepel,ush,defcons
 Patrocini:
 MediaPartner: infomedia,aneddotica
 timeline: 30 agosto | 15 settembre | 30 settembre
@@ -33,6 +33,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
+#### Programma del convegno
 #### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen X /iframe -->
@@ -41,7 +42,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 **Ora** | Durata | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------- | --- | -------
-17.00 | max 2 hh| Manuela Vacca
+17.00 | 2 ore o quanto necessario | Manuela Vacca
 || Andrea Surbone
 || Carlo Gubitosa
 || Claudio Agosti
@@ -58,7 +59,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 **Ora** | Durata | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------- | --- | -------
-10.30 | max 2 hh | Edoardo Ferri
+10.30 | 2 ore o quanto necessario | Edoardo Ferri
 || Alessandro Del Ninno
 || Daniele Salvini
 || Gennaro Maria Amoruso
