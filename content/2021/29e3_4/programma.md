@@ -33,13 +33,17 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
+<b> <center> QUI verrà pubblicato prossimamente il link allo streaming. </center> </b>
+<br/>
+
+
 #### Programma del convegno
 
 
 
-   - moderano: Enrica Priolo, Marco Calamari, Diego Giorio, Emmanuele Somma (Progetto Winston Smith)
+   - moderano: Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
 
-#### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio
+#### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio ore 17:00
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen X /iframe -->
 
@@ -55,7 +59,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 | Rebecca Berto
 | Stefano Aterno
 
-#### <a name="sab"></a>Sabato 2 ottobre 2021 - mattina
+#### <a name="sab"></a>Sabato 2 ottobre 2021 - mattina ore 10:30
 
 **Ora** | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------- | -------

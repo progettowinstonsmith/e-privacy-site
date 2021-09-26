@@ -2,7 +2,7 @@ Template: event
 XStatus: draft
 Title: Lasciateci la faccia
 Date: 2021-03-15 00:01:00
-slug: e-privacy-XXIX
+slug: e-privacy-XXIX-cfp
 Category: 2021
 lang: it
 Num: XXIX
