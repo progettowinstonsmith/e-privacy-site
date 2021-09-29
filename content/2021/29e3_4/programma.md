@@ -33,7 +33,21 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
-<b> <center> QUI verrà pubblicato prossimamente il link allo streaming. </center> </b>
+<b>Prima giornata - venerdì 1 ottobre 2021 ore 17:00 </b>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/OP5IgJL9w9w" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+<br><br><b> Seconda giornata - sabato 2 ottobre 2021 ore 10:30 </b>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/c1vUAElJTX0" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 <br/>
 
 
