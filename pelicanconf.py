@@ -13,10 +13,10 @@ HOME_LINK = '/'
 
 LIVE_AT=False
 # "15:00"
-NOW_LIVE=False
+NOW_LIVE=True
 # LIVE_URL="https://youtu.be/U76hIPUhL4s"
 # LIVE_URL="https://youtu.be/jgqVN_HaNVM"
-LIVE_URL="https://youtu.be/9ebJxPhGmlw"
+LIVE_URL="https://www.youtube.com/watch?v=c1vUAElJTX0"
 
 
 def split(string):
