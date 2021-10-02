@@ -33,15 +33,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
-<b>Prima giornata - venerdì 1 ottobre 2021 ore 17:00 </b>
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/OP5IgJL9w9w" title="YouTube video
-player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-
-<br><br><b> Seconda giornata - sabato 2 ottobre 2021 ore 10:30 </b>
+<br><br><b> ORA IN DIRETTA Seconda giornata - sabato 2 ottobre 2021 ore 10:30 </b>
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/c1vUAElJTX0" title="YouTube video
@@ -51,6 +43,7 @@ allowfullscreen></iframe>
 <br/>
 
 
+
 #### Programma del convegno
 
 
@@ -58,6 +51,12 @@ allowfullscreen></iframe>
    - moderano: Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
 
 #### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio ore 17:00
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/OP5IgJL9w9w" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen X /iframe -->
 
