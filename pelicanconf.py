@@ -13,7 +13,7 @@ HOME_LINK = '/'
 
 LIVE_AT=False
 # "15:00"
-NOW_LIVE=True
+NOW_LIVE=False
 # LIVE_URL="https://youtu.be/U76hIPUhL4s"
 # LIVE_URL="https://youtu.be/jgqVN_HaNVM"
 LIVE_URL="https://www.youtube.com/watch?v=c1vUAElJTX0"
