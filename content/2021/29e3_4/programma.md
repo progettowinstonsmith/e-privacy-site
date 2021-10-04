@@ -28,25 +28,13 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 # e-privacy 29e¾ @ RETE
 
 ![Licenza Creative Commons BY-NC-SA](images/editions/EPRIVACY_29tq_title_gold.jpg "e-privacy 29¾")
-
 <div class="title-XXIX"><b>«Ventinove e tre quarti»</b></div>
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
-<br><br><b> ORA IN DIRETTA Seconda giornata - sabato 2 ottobre 2021 ore 10:30 </b>
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/c1vUAElJTX0" title="YouTube video
-player" frameborder="0" allow="accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-<br/>
-
-
+#### <b> Pubblicati video ed atti </b>
 
 #### Programma del convegno
-
-
 
    - moderano: Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
 
@@ -57,59 +45,71 @@ src="https://www.youtube.com/embed/OP5IgJL9w9w" title="YouTube video
 player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
+<br>
 
-<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U76hIPUhL4s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen X /iframe -->
+**Minutaggio** | Interviene | **parlando di**
+------- | --- | -------
+[00:00:00](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=17s)|<span class='talk'><em>Marco Calamari|apertura lavori: Dalla privacy ad Hogwarts</em></span>
+[00:06:16](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=376s)|<span class='talk'><em>Emmanuele Somma</em></span>
+[00:13:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=800s)|<span class='talk'><em>Enrica Priolo</em></span>
+[00:17:22](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=1042s)|<span class='talk'>Manuela Vacca|[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_manuela_vacca_invasione_degli_e-giuristi.pdf) L'invasione degli e-giuristi<br/></span>
+[00:26:02](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=1562s)|<span class='talk'><em>Carlo Gubitosa</em>|Dai social network al "fediverso" delle comunità virtuali decentralizzate: come riprendere il controllo sulla nostra vita digitale, con i suoi dati e metadati.</span>
+[00:36:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=2180s)|<span class='talk'><em>Claudio "Carlo" Agosti</em>|Come e-privacy ha cambiato una prospettiva</span>
+[00:51:35](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=3095s)|<span class='talk'><em>Efrem Zugnaz|[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_efrem_zugnaz_gli_ultimi_panda.pdf) Gli ultimi panda<br/></span></em></span>
+[01:10:40](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=4240s)|<span class='talk'><em>Riccardo Abeti</em></span>
+[01:30:10](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5410s)|<span class='talk'><em>Valentina Longo</em></span>
+[01:38:30](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5910s)|<span class='talk'><em>Giovanni Battista Gallus|Avv.</em></span>
+[01:50:40](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=6640s)|<span class='talk'><em>Rebecca Berto</em>|In una giungla di dubbi riaffiorano alcune riflessioni di e-privacy</span>
+[02:01:50](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=7310s)|<span class='talk'><em>Diego Giorio</em>|I miei primi 10 anni</span>
+[02:06:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=7580s)|<span class='talk'><em>Enrica Priolo|chiusura dei lavori</em></span>
 
-**Ora** |  **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-------- | -------
-17.00 |  Manuela Vacca
-| Andrea Surbone
-| Carlo Gubitosa
-| Claudio Agosti
-| Efrem Zugnaz
-| Giovanni Battista Gallus
-| Giuseppe Augiero
-| Rebecca Berto
-| Stefano Aterno
 
 #### <a name="sab"></a>Sabato 2 ottobre 2021 - mattina ore 10:30
 
-**Ora** | **Interverranno**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/c1vUAElJTX0" title="YouTube video
+player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+<br>
+
+**Minutaggio** | Interviene | **parlando di**
+------- | --- | -------
+[00:00:00](https://www.youtube.com/watch?v=c1vUAElJTX0&t=0s)|<span class='talk'><em>Enrica Priolo |apertura lavori</em></span>
+[00:01:55](https://www.youtube.com/watch?v=c1vUAElJTX0&t=115s)|<span class='talk'><em>Marco Calamari|Dalla privacy ad Hogwarts - reloaded</em></span>
+[00:06:13](https://www.youtube.com/watch?v=c1vUAElJTX0&t=373s)|<span class='talk'><em>Carlo Blengino|Ho qualcosa da nascondere</em></span>
+[00:16:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=990s)|<span class='talk'><em>Marco Ciurcina|Sotto, sotto..Voli pindarici, gesuiti euclidei e centri di gravità permanente</em></span>
+[00:28:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1710s)|<span class='talk'><em>Andrea Surbone|A mente aperta, come mi hanno accolto</em></span>
+[00:31:13](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1873s)|<span class='talk'><em>Alessandro Del Ninno|L'evoluzione del concetto di privacy</em></span>
+[00:49:35](https://www.youtube.com/watch?v=c1vUAElJTX0&t=2975s)|<span class='talk'><em>Daniele Salvini|Il Cimitero delle Illusioni, ed altre storie sulla privacy</em></span>
+[01:02:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=3731s)|<span class='talk'><em>Yvette Agostini|Ha ancora senso difendere la privacy?</em></span>
+[01:12:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=4331s)|<span class='talk'><em>Ugo Lopez|La privacy ai tempi del COVID</em></span>
+[01:27:26](https://www.youtube.com/watch?v=c1vUAElJTX0&t=5246s)|<span class='talk'><em>Diego Giorio|</em></span>
+[01:39:00](https://www.youtube.com/watch?v=c1vUAElJTX0&t=5940s)|<span class='talk'><em>Stefano Aterno|Dalla carta ai Robot & AI: E-privacy è sempre stata un passo avanti</em></span>
+[01:47:33](https://www.youtube.com/watch?v=c1vUAElJTX0&t=6453s)|<span class='talk'><em>Emmanuele Somma|</em></span>
+[01:57:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=7050s)|<span class='talk'><em>Daniele Salvini|saluti</em></span>
+[01:58:44](https://www.youtube.com/watch?v=c1vUAElJTX0&t=7124s)|<span class='talk'><em>Marco Calamari|saluti</em></span>
+[01:59:22](https://www.youtube.com/watch?v=c1vUAElJTX0&t=7162s)|<span class='talk'><em>Diego Giorio|chiusura dei lavori</em></span>
+
+**Assenti** |  **avrebbero dovuto intervenire (e li aspettiamo l'anno prossimo):** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------- | -------
-10.30 |  Edoardo Ferri
-| Alessandro Del Ninno
-| Daniele Salvini
+| Giuseppe Augiero
+| Edoardo Ferri
 | Gennaro Maria Amoruso
 | Ilaria Bartolucci
-| Marco Ciurcina
 | Michele Iaselli
-| Ugo Lopez
-| Yvette Agostini
 
-(forse) parleremo di:
+Parlando (forse) di:
 
- - **Dalla privacy ad Hogwart**<br/>Se non siamo più in grado di cambiare il mondo dove viviamo, allora viviamolo al meglio, limitando i danni!
- - **La privacy ai tempi del COVID**<br/>La gestione della pandemia a cavallo tra privacy e sicurezza
- - **Dalla carta ai Robot &AI: E-privacy è sempre stata un passo avanti**<br/>Un'analisi di questi 20 anni di e con e-privacy
- - **L'evoluzione del concetto di privacy**<br/>Excursus personale su 30 anni di pratica nel settore data protection
  - **L'e-privacy è entrata nelle scuole: casi di rilevanza giuridica e interventi collaborativi.**<br/>Come rendere "educante" la comunità scolastica per tutti i **soggetti che vi partecipano.
  - **La protezione dei dati sanitari nel contesto post pandemico**<br/>Protezione del dato della salute e le nuove opportunità per tutti gli stakeolders
- - **Sotto, sotto..**<br/>Voli pindarici, gesuiti euclidei e centri di gravità permanente
- - **Come e-privacy ha cambiato una prospettiva altrimenti solo tecnocratica**<br/>ripercorrerò i 20 anni di e-privacy soffermandomi sui cambi di percezione che il dibattito ha subito, e di come anche la mia percezione di priorità ed urgenza è continuata a cambiare.
  - **Dalla semplice tutela alla corretta gestione del dato**<br/>Il percorso evolutivo della normativa verso il senso di responsabilità
- - **L'invasione degli E-Giuristi**<br/>"Ormai a E-privacy ci sono più avvocati che informatici!". Ricordo sempre con un sorriso questa battuta diventata frequente negli ultimi dieci anni della manifestazione. All'inizio, quasi trent'anni fa, un piccolo gruppo di hacker e professionisti dell'informatica che, avendo estremamente chiari gli scenari orwelliani del controllo generalizzato della vita privata, nutrivano timori per i maggiori rischi di violazione della riservatezza e dei diritti individuali a causa dalla diffusione di massa di Internet e annesse comunicazioni. Via via al tavolo dei convegni è cresciuta la presenza di altre figure, specialmente di avvocati e giuristi. Così ho visto cambiare l'approccio alla privacy ma anche a E-privacy.
  - **Un serenissimo inizio**<br/>L'evoluzione della cessione di informazioni dai web- fonts
- - **Dai social network al "fediverso" delle comunità virtuali decentralizzate: come riprendere il controllo sulla nostra vita digitale, con i suoi dati e metadarti.**<br/>I danni delle piattaforme social aziendali, le alternative etiche e decentralizzate basate su software libero, l'esperienza di sociale.network, le opportunità offerte dal protocollo activitypub del W3C, i limiti strutturali e le opportunità sociali dell'autogestione.
- - **a mente aperta**<br/>come mi hanno accolto
- - **L'ultimo Panda**<br/>the last panda standing
- - **In una giungla di dubbi riaffiorano alcune riflessioni di e-privacy**<br/>Camminando attraverso una giungla di dubbi verso il deserto della verità ed inciampando lungo il tragitto in avvenimenti e in persone, riaffiorano i ricordi di alcune riflessioni espresse durante i convegni di e-privacy.
- - **I miei primi 10 anni**<br/>Bei ricordi di persone, luoghi, eventi
  - **Generazione GDPR**<br/>Storie di privacy dalla Sanità
 
 La manifestazione e’ organizzata da:
 
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
-
 
 ### Contatti
 
