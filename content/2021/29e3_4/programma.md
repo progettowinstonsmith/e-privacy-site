@@ -81,7 +81,7 @@ allowfullscreen></iframe>
 [00:16:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=990s)|<span class='talk'><em>Marco Ciurcina|Sotto, sotto..Voli pindarici, gesuiti euclidei e centri di gravità permanente</em></span>
 [00:28:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1710s)|<span class='talk'><em>Andrea Surbone|A mente aperta, come mi hanno accolto</em></span>
 [00:31:13](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1873s)|<span class='talk'><em>Alessandro Del Ninno|L'evoluzione del concetto di privacy</em></span>
-[00:49:35](https://www.youtube.com/watch?v=c1vUAElJTX0&t=2975s)|<span class='talk'><em>Daniele Salvini|Il Cimitero delle Illusioni, ed altre storie sulla privacy</em></span>
+[00:49:35](https://www.youtube.com/watch?v=c1vUAElJTX0&t=2975s)|<span class='talk'><em>Daniele Salvini|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_daniele_salvini_il_cimitero_delle_illusioni.pdf) Il Cimitero delle Illusioni, ed altre storie sulla privacy</em></span>
 [01:02:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=3731s)|<span class='talk'><em>Yvette Agostini|Ha ancora senso difendere la privacy?</em></span>
 [01:12:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=4331s)|<span class='talk'><em>Ugo Lopez|La privacy ai tempi del COVID</em></span>
 [01:27:26](https://www.youtube.com/watch?v=c1vUAElJTX0&t=5246s)|<span class='talk'><em>Diego Giorio|</em></span>
