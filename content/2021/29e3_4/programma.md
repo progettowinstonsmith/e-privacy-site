@@ -57,7 +57,7 @@ allowfullscreen></iframe>
 [00:36:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=2180s)|<span class='talk'><em>Claudio "Carlo" Agosti</em>|Come e-privacy ha cambiato una prospettiva</span>
 [00:51:35](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=3095s)|<span class='talk'><em>Efrem Zugnaz|[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_efrem_zugnaz_gli_ultimi_panda.pdf) Gli ultimi panda<br/></span></em></span>
 [01:10:40](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=4240s)|<span class='talk'><em>Riccardo Abeti</em></span>
-[01:30:10](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5410s)|<span class='talk'><em>Valentina Longo</em></span>
+[01:30:10](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5410s)|<span class='talk'><em>Valentina Longo|aneddoti su giuristi, tecnici, food & wine </em></span>
 [01:38:30](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5910s)|<span class='talk'><em>Giovanni Battista Gallus|Winston Smith o Cassandra? Come e-privacy ha anticipato il futuro e dove la realtà ha superato anche le più fosche previsioni</em></span>
 [01:50:40](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=6640s)|<span class='talk'><em>Rebecca Berto</em>|In una giungla di dubbi riaffiorano alcune riflessioni di e-privacy</span>
 [02:01:50](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=7310s)|<span class='talk'><em>Diego Giorio</em>|I miei primi 10 anni</span>
