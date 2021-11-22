@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=huxley.winstonsmith.info
+SSH_HOST=smith.winstonsmith.info
 SSH_PORT=22
-SSH_USER=ws
-SSH_TARGET_DIR=/home/sites/e-privacy.winstonsmith.org/site/
+SSH_USER=pws
+SSH_TARGET_DIR=/home/pws/sites/org.winstonsmith.e-privacy/site/
 
 S3_BUCKET=my_s3_bucket
 
@@ -99,7 +99,7 @@ upload: publish
 
 rsync_upload: publish
 	rsync -e "ssh  -Y -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	 ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /home/sites/urna.winstonsmith.org/site/materiali/ $(SSH_TARGET_DIR)/materiali"
+ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /home/pws/sites/org.winstonsmith.urna/site/materiali/  $(SSH_TARGET_DIR)/materiali"
 	# ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf 2015.html $(SSH_TARGET_DIR)/2015"
 	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
 
