@@ -7,15 +7,16 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+TARGETDIR=/home/pws/sites/org.winstonsmith.e-privacy/site
 
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=huxley.winstonsmith.info
+SSH_HOST=smith.winstonsmith.info
 SSH_PORT=22
-SSH_USER=ws
-SSH_TARGET_DIR=/home/sites/e-privacy.winstonsmith.org/site/
+SSH_USER=pws
+SSH_TARGET_DIR=/home/pws/sites/org.winstonsmith.e-privacy/site/
 
 S3_BUCKET=my_s3_bucket
 
@@ -86,7 +87,7 @@ stopserver:
 
 publish:
 	git pull
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(TARGETDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
