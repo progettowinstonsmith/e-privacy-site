@@ -19,7 +19,7 @@ Negli scorsi anni ne abbiamo già ricevute (media delle donazioni € 23,39, le 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
     <input type="hidden" name="hosted_button_id" value="X7PV2892LUE98" />
     <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-    <img alt="" border="0" src="https://www.paypal.com/it_IT/i/scr/pixel.gif" width="1" height="1" />
+    <img alt="pixel" border="0" src="https://www.paypal.com/it_IT/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
 **O, se vuoi ricevere a casa qualcosa da sfoggiare con orgoglio, puoi comprare una delle nostre nuove magliette (attenzione, per essere chiari, noi riceveremo 5€ per ogni maglietta) ordinandola [qui](https://worthwearing.org/store/progetto-winston-smith).**

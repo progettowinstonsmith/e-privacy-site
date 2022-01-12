@@ -87,7 +87,8 @@ stopserver:
 
 publish:
 	git pull
-	$(PELICAN) $(INPUTDIR) -o $(TARGETDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	echo published
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

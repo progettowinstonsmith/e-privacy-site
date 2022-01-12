@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -28,7 +27,8 @@ JINJA_FILTERS = {'split': split}
 AUTHOR = u'Winston Smith'
 SITENAME = u'e-privacy 2021 autumn: Ventinove e tre quarti'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
-SITEURL = ''
+#SITEURL = ''
+SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
 IMAGE='images/editions/EPRIVACY_29tq_title_gold.jpg'
 PATH = 'content'
@@ -43,11 +43,14 @@ EDITION = 'summer'
 USE_FOLDER_AS_CATEGORY = True
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+# FEED_ALL_ATOM = 'feeds/all.atom.xml'
+# FEED_ALL_ATOM_URL = None
+# CATEGORY_FEED_ATOM_URL = None
+# CATEGORY_FEED_ATOM =  'feeds/{slug}.atom.xml'
+# TRANSLATION_FEED_ATOM = None
+# AUTHOR_FEED_ATOM = None
+# AUTHOR_FEED_RSS = None
+# CATEGORY_FEED_ATOM_URL = None
 
 DIRECT_TEMPLATES = ['index', 'archives']
 
@@ -56,12 +59,12 @@ DELETE_OUTPUT_DIRECTORY = True
 THIS_TITLE = "EPRIVACY 2021 - Summer"
 
 THIS = (
-     ('Il programma', '/e-privacy-29e3quarti-programma.html'),
+#     ('Il programma', '/e-privacy-29e3quarti-programma.html'),
 #     ('Gli interventi', '/e-privacy-XXIX-interventi.html'),
 #     ('I relatori', '/e-privacy-XXIX-relatori.html'),
     #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Proposta Talk', '/e-privacy-XXIX-proposta.html'),
-     ('Call for Paper', '/e-privacy-29e3quarti.html'),
+#     ('Call for Paper', '/e-privacy-29e3quarti.html'),
     # ('Slides', '/e-privacy-XXVIII-programma-slides.html'),
     # ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
 #     ('FAQ per i relatori', '/e-privacy-XXIX-faq-relatori.html'),
@@ -217,7 +220,7 @@ PARTNERS = {
 
 DEFAULT_PAGINATION = 1
 
-STATIC_PATHS = ['images', 'pdfs', 'audio', '.htaccess']
+STATIC_PATHS = ['images', '.htaccess']
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -231,5 +234,5 @@ DATE_FORMATS = {
     'it': '%d-%m-%Y',
 }
 
-LOCALE = ('it_IT',
+LOCALE = ('it_IT', 'it_IT.utf8'
           )
