@@ -36,7 +36,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 #### Programma del convegno
 
-   - moderano: Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
+   - moderano:  Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
 
 #### <a name="vem"></a>Venerdì 1 ottobre 2021 - pomeriggio ore 17:00
 
