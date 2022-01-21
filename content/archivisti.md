@@ -28,19 +28,19 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XVI    | e-privacy 2014 autumn XVI    |             |
 | XVII   | e-privacy 2015 spring XVII   |             |
 | XVIII  | e-privacy 2015 autumn XVIII  |             |
-| XIX    | e-privacy 2016 spring XIX    | EMMANUELE   |
-| XX     | e-privacy 2016 autumn XX     | EMMANUELE   |
-| XXI    | e-privacy 2017 summer XXI    | EMMANUELE   |
-| XXII   | e-privacy 2017 autumn XXII   | EMMANUELE   |
-| XXIII  | e-privacy 2018 summer XXIII  | EMMANUELE   |
-| XXIV   | e-privacy 2018 winter XXIV   | EMMANUELE   |
-| XXV    | e-privacy 2019 summer XXV    | EMMANUELE   |
-| XXVI   | e-privacy 2019 winter XXVI   | EMMANUELE   |
-| XXVII  | e-privacy 2020 summer XXVII  | EMMANUELE   |
-| XXVIII | e-privacy 2020 autumn XXVIII | EMMANUELE   |
-| XXIX   | e-privacy 2021 summer XXIX   | EMMANUELE   |
+| XIX    | e-privacy 2016 spring XIX    | exedre      |
+| XX     | e-privacy 2016 autumn XX     | exedre      |
+| XXI    | e-privacy 2017 summer XXI    | exedre      |
+| XXII   | e-privacy 2017 autumn XXII   | exedre      |
+| XXIII  | e-privacy 2018 summer XXIII  | exedre      |
+| XXIV   | e-privacy 2018 winter XXIV   | exedre      |
+| XXV    | e-privacy 2019 summer XXV    | exedre      |
+| XXVI   | e-privacy 2019 winter XXVI   | exedre      |
+| XXVII  | e-privacy 2020 summer XXVII  | exedre      |
+| XXVIII | e-privacy 2020 autumn XXVIII | exedre      |
+| XXIX   | e-privacy 2021 summer XXIX   | exedre      |
 | 3.1416 | e-privacy 2016 lab 3.1416    |             |
-| 29e¾   | e-privacy 2021 autumn 29e¾   | EMMANUELE   |
+| 29e¾   | e-privacy 2021 autumn 29e¾   | exedre      |
 
 
 Per dare una mano, prendere una edizione e scriverlo alla segreteria, scaricare i file di lavorazione in formato [ODS](images/PWS-YYYYS.ods) o [XLS](images/PWS-YYYYS.xls) e lavorarci seguendo le istruzioni contenute nei file.
