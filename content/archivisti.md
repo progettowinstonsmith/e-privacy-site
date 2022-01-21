@@ -41,3 +41,6 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XXIX   | e-privacy 2021 summer XXIX   | EMMANUELE   |
 | 3.1416 | e-privacy 2016 lab 3.1416    |             |
 | 29e¾   | e-privacy 2021 autumn 29e¾   | EMMANUELE   |
+
+
+Per dare una mano, prendere una edizione e scriverlo alla segreteria, scaricare i file di lavorazione in formato [ODS](images/PWS-YYYYS.ods) o [XLS](images/PWS-YYYYS.xls) e lavorarci seguendo le istruzioni contenute nei file.
