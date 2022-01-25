@@ -10,11 +10,11 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 
 | N      | Edizione                     | Assegnato a |
 |--------|------------------------------|-------------|
-| I      | e-privacy 2002 I             |             |
-| II     | e-privacy 2003 II            |             |
+| I      | e-privacy 2002 I             | marcoc      |
+| II     | e-privacy 2003 II            | marcoc      |
 | III    | e-privacy 2004 III           |             |
-| IV     | e-privacy 2005 IV            |             |
-| V      | e-privacy 2006 V             |             |
+| IV     | e-privacy 2005 IV            | marcoc      |
+| V      | e-privacy 2006 V             | olga        |
 | VI     | e-privacy 2007 VI            |             |
 | VII    | e-privacy 2008 VII           |             |
 | VIII   | e-privacy 2009 VIII          |             |
