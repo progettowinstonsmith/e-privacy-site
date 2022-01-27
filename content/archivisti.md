@@ -29,7 +29,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XVII   | e-privacy 2015 spring XVII   |             |
 | XVIII  | e-privacy 2015 autumn XVIII  |             | 
 | 3.1416 | e-privacy 2016 3.1416        |             | 
-|        |http://graesanus.blogspot.com/p/e-privacy-lab-3-14-udine.html
+|        | http://graesanus.blogspot.com/p/e-privacy-lab-3-14-udine.html
 | XIX    | e-privacy 2016 spring XIX    | exedre      |
 | XX     | e-privacy 2016 autumn XX     | exedre      |
 | XXI    | e-privacy 2017 summer XXI    | exedre      |
