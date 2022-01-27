@@ -17,7 +17,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | V      | e-privacy 2006 V             | olga        |
 | VI     | e-privacy 2007 VI            | rebecca     |
 | VII    | e-privacy 2008 VII           | marcoc      |
-| VIII   | e-privacy 2009 VIII          |             |
+| VIII   | e-privacy 2009 VIII          | rebecca     |
 | IX     | e-privacy 2010 IX            |             |
 | X      | e-privacy 2011 X             |             |
 | XI     | e-privacy 2012 spring XI     |             |
