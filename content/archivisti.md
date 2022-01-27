@@ -41,7 +41,6 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XXVII  | e-privacy 2020 summer XXVII  | exedre      |
 | XXVIII | e-privacy 2020 autumn XXVIII | exedre      |
 | XXIX   | e-privacy 2021 summer XXIX   | exedre      |
-| 3.1416 | e-privacy 2016 lab 3.1416    |             |
 | 29e¾   | e-privacy 2021 autumn 29e¾   | exedre      |
 
 
