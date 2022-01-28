@@ -33,6 +33,12 @@ XVII edizione di **e-privacy**, sul tema:
 
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo sempre più digitale ed interconnesso, nel quale le possibilità di comunicazione ed accesso alla conoscenza crescono continuamente, come pure crescono le possibilità di tecnocontrollo degli individui sin nei più intimi dettagli. L’approccio è interdisciplinare; dagli specialisti in informatica ai legali che si occupano di nuove tecnologie, dagli psicologi agli educatori, dagli operatori privati a quanti operano nel settore pubblico ed istituzionale.
 
+### Altre informazioni
+
+Potete trovare gli atti ed i file multimediali nella descrizione degli interventi.
+<br> 
+Altre informazioni sono disponibili sul <b>[sito storico](https://e-privacy.winstonsmith.org/materiali/2015)</b>.
+
 ### <a name="programma"></a>Programma del Convegno
  
 #### <a name="gi"></a>Giovedì 2 Luglio 2015
