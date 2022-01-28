@@ -1,11 +1,11 @@
 Template: event
 Title:SPID ed Identità Digitale
-Date: 2016-06-30 22:20
+Date: 2016-06-24 22:20
 Category: 2016
 lang: it
 Num: XIX
 Year: 2016
-slug: e-privacy-XIX
+slug: e-privacy-XIX-slides
 City: Pisa
 Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
 When: 24-25 Giugno

@@ -5,7 +5,7 @@ Category: 2016
 lang: it
 Num: XIX
 Year: 2016
-slug: e-privacy-XIX-followup
+slug: e-privacy-XIX
 City: Pisa
 Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
 When: 24-25 Giugno
