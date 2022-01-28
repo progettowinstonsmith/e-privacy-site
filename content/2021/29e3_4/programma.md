@@ -32,7 +32,7 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 <div class="subtitle-XXIX"><b><i>«Non dire stupidaggini. Non esistono edizioni di e-privacy con questo numero.»</i></b> — Winston Smith</div>
 <br/>
 
-#### <b> Pubblicati video ed atti </b>
+#### <b> Pubblicati video ed atti  </b>
 
 
 
