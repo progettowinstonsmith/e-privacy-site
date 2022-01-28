@@ -14,7 +14,7 @@ Season: estate
 previd: 3.1416
 prev: e-privacy-3.1416
 nextid: 2016W
-next: e-privacy-XX-cfp
+next: e-privacy-XX
 Organizzatori: APHIM,hermes,upmansan,pws
 Collaboratori: PI,bba
 Sponsor: cgt,sepel,sikurezza.org

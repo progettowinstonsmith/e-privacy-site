@@ -25,6 +25,14 @@ XPatrocini: romasemplice,fiif
 XSubPatrocini: comvilca
 MediaPartner: infomedia,radioradicale
 
+#### e-privacy lab 3.14.16
+
+** Lunedì 14 marzo 2016 ** ad Udine si è svolto **e-privacy lab 3.14.16 **.
+<br>
+<br>
+L'evento è stato realizzato con l'Ordine dei Giornalisti del Friuli-Venezia-Giulia:
+
+
 ![Licenza Creative Commons BY-NC-SA](images/editions/3.1416.png "e-privacy 3.1416")
 
 #### <a name="lum"></a>Lunedì 14 Marzo 2016 - mattina
