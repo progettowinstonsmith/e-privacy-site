@@ -42,8 +42,8 @@ L'evento è stato realizzato con l'Ordine dei Giornalisti del Friuli-Venezia-Giu
 ------- | -------
 9:45 | [Saluto del presidente dell’Ordine dei giornalisti e di Marco Calamari](https://drive.google.com/file/d/0B0UaA4eYdUZKYjh0RVZEZXdVOFk/view?usp=sharing)
 10:00| [La cultura del whistleblowing usata dai giornalisti di tutto il mondo](https://exedre.medium.com/whistleblowing-1776-a00788c7fa58).<br/> Emmanuele Somma
-10:40|[Whisleblowing L’uso delle segnalazioni e la cultura della trasparenza](https://drive.google.com/file/d/0B0UaA4eYdUZKNXpTUHJldlo1Zm8/view?usp=sharing)<br/> Alessandro Rodolfi
-11:15|[Workshop Globaleaks - Una piattaforma tecnica per le segnalazioni]()<br/>Marco Calamari
+10:40|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_01_ale.pdf) [Whisleblowing L’uso delle segnalazioni e la cultura della trasparenza](https://drive.google.com/file/d/0B0UaA4eYdUZKNXpTUHJldlo1Zm8/view?usp=sharing)<br/> Alessandro Rodolfi
+11:15|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_02_marco.pdf) [Workshop Globaleaks - Una piattaforma tecnica per le segnalazioni]()<br/>Marco Calamari
 12:00|TAVOLA ROTONDA<br/>M.Calamari, E.Somma, A.Rodolfi moderatore Eugenio Ambrosi
 
 
@@ -51,10 +51,10 @@ L'evento è stato realizzato con l'Ordine dei Giornalisti del Friuli-Venezia-Giu
 
 **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Intervento** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------- | -------
-14:30 |[Privacy e information security alla luce del nuovo Regolamento europeo](https://drive.google.com/file/d/0B0UaA4eYdUZKRXEyaHZnVnlWcXdHWHF6VDBKNmZVN2t3Q1Nv/view?usp=sharing) <br/> Avv. David D’Agostini
-15:15|[Casi reali di applicazione della piattaforma di segnalazione](https://it.wikipedia.org/wiki/GlobaLeaks) <br/> E.Somma
-15:45|[Aspetti psicologici e comunicativi della piattaforma di segnalazione](https://drive.google.com/file/d/0B0UaA4eYdUZKcnJDR3pNSHVXQ0prUUl2S0tfQUZrT0V3OEpz/view?usp=sharing)<br/> Andrea Mian
-16:15|[I tools informatici per giornalisti che contribuiscono  alla riservatezza delle comunicazioni e al mantenimento dell'anonimato in rete](http://graesanus.blogspot.com/p/evento-giornalisti-udine.html)<br/>Efrem Zugnaz
+14:30 |[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_03_dag.pdf) [Privacy e information security alla luce del nuovo Regolamento europeo](https://drive.google.com/file/d/0B0UaA4eYdUZKRXEyaHZnVnlWcXdHWHF6VDBKNmZVN2t3Q1Nv/view?usp=sharing) <br/> Avv. David D’Agostini
+15:15|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_04_alac.pdf) [Casi reali di applicazione della piattaforma di segnalazione](https://it.wikipedia.org/wiki/GlobaLeaks) <br/> E.Somma
+15:45|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_05_mian.pdf) [Aspetti psicologici e comunicativi della piattaforma di segnalazione](https://drive.google.com/file/d/0B0UaA4eYdUZKcnJDR3pNSHVXQ0prUUl2S0tfQUZrT0V3OEpz/view?usp=sharing)<br/> Andrea Mian
+16:15|[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016_3.1416/atti/ep31416_06_efrem.pdf) [I tools informatici per giornalisti che contribuiscono  alla riservatezza delle comunicazioni e al mantenimento dell'anonimato in rete](http://graesanus.blogspot.com/p/evento-giornalisti-udine.html)<br/>Efrem Zugnaz
 17:45|Chiusura lavori
 
 <!--
