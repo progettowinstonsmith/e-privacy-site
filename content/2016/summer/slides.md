@@ -1,20 +1,20 @@
 Template: event
 Title:SPID ed Identità Digitale
-Date: 2016-06-03 10:20
+Date: 2016-06-30 22:20
 Category: 2016
 lang: it
 Num: XIX
 Year: 2016
-slug: e-privacy-XIX-programma-slides
+slug: e-privacy-XIX
 City: Pisa
 Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
 When: 24-25 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2015W
-prev: e-privacy-XVIII
-Xnextid: 2015W
-Xnext: e-privacy-XVIII
+previd: 3.1416
+prev: e-privacy-3.1416
+nextid: 2016we
+next: e-privacy-XX
 Organizzatori: APHIM,hermes,upmansan,pws
 Collaboratori: PI,bba
 Sponsor: cgt,sepel,sikurezza.org

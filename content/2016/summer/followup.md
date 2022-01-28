@@ -5,14 +5,14 @@ Category: 2016
 lang: it
 Num: XIX
 Year: 2016
-slug: e-privacy-XIX
+slug: e-privacy-XIX-followup
 City: Pisa
 Where: Polo didattico Piagge<br/>Università degli Studi di Pisa
 When: 24-25 Giugno
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: estate
-previd: 2015W
-prev: e-privacy-XVIII
+previd: 3.1416
+prev: e-privacy-3.1416
 nextid: 2016W
 next: e-privacy-XX-cfp
 Organizzatori: APHIM,hermes,upmansan,pws

@@ -13,8 +13,8 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: inverno
 previd: 2015
 prev: e-privacy-XVII
-nextid: 2016
-next: e-privacy-XIX
+nextid: 3.1416
+next: e-privacy-3.1416
 Organizzatori: hermes,pws,cgt
 Collaboratori: PI,bba
 Sponsor: sepel,sikurezza.org,ush,isgroup

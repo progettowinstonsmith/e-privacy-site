@@ -6,21 +6,21 @@ Category: 2016
 lang: it
 Num: 3.1416
 Year: 2016
-slug: e-privacy-3.1416-programma
+slug: e-privacy-3.1416
 City: Udine
 Where: Sala Valduga<br/>Camera di Commercio di UDINE
 When: 14 Marzo
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: extra
-previd: 2016
-prev: e-privacy-XIX
+previd: 2015we
+prev: e-privacy-XVIII
 nextid: 2016
-next: e-privacy-XX
-Organizzatori: hermes,pws
-XCollaboratori: PI,bba
+next: e-privacy-XIX
+Organizzatori: pws,hermes
+XCollaboratori: bba
 XSponsor: cgt,sepel,sikurezza.org
 XSponsor: grusp,sepel,sikurezza.org,ush,cgt,OPSI,csa,aipnet
-Sponsor: cgt,csa,grusp,puntoi,sikurezza.org,ush,segment,sepel
+XSponsor: cgt,csa,grusp,puntoi,sikurezza.org,ush,segment,sepel
 XPatrocini: romasemplice,fiif
 XSubPatrocini: comvilca
 MediaPartner: infomedia,radioradicale
