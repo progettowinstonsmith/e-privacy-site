@@ -34,6 +34,64 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 #### <b> Pubblicati video ed atti </b>
 
+
+
+
+![Licenza Creative Commons BY-NC-SA](images/editions/EPRIVACY_29tq_1274x671.png "e-privacy 29¾")
+
+Nel 2022 ci auguriamo di potere celebrare tre feste: la fine della
+pandemia, il 20° anno del convegno e-privacy e la 30° edizione del
+convegno.
+
+*** Per preparare adeguatamente la festa abbiamo pensato ad una cosa
+diversa dal solito, un’edizione in cui daremo spazio non al dibattito
+scientifico, ma alla dimensione più personale ed intimista. ***
+
+Un’edizione per noi, per «quelli di e-privacy», gli amici da lungo
+tempo, gli appassionati da sempre, per chi è stato relatore tante o
+poche volte, e anche per chi si è trovato solo nel pubblico, per chi
+ci segue fin dai primi anni e anche per quelli che non sono mai ancora
+venuti. È l’occasione giusta per farlo.
+
+Nei libri di Harry Potter dal Binario 9¾ nella stazione di King's
+Cross di Londra parte l'Espresso per Hogwarts, la scuola di magia.
+Tutti gli allievi ricevono un biglietto per quel treno. Ma per
+raggiungere il binario, bisogna passare attraverso una barriera
+invisibile. È importante non aver paura di andarci a sbattere contro.
+Di lì si parte per un’altra dimensione.
+
+Da questa magia prendiamo il senso dell’edizione 29¾ di e-privacy: una
+proiezione magica nello spazio dei ricordi, delle speranze, delle
+profezie e dei pronostici. Senza slides, cifre o articoli di legge ma
+con foto, ricordi e storie, le nostre storie.
+
+Sin dal 2002 e-privacy ha dato a ciascuno di noi il modo di
+confrontarsi con le  conseguenze e le incoerenze  di un mondo sempre
+più digitale ed interconnesso, nel quale le possibilità di
+comunicazione ed accesso alla conoscenza crescono continuamente come
+crescono le possibilità di tecnocontrollo sin nei più intimi dettagli.
+
+Gli ultimi anni sono stati indiscutibilmente difficili. L’aspetto
+umano e relazionale, che è sempre stato il punto forte di e-privacy, è
+stato compresso per ragioni fin troppo comprensibili. Abbiamo bisogno
+di riproporci un equilibrio, mettendo in condivisione un po’ di noi
+stessi, per ritrovare il modo per continuare a camminare assieme per
+tante altre prossime edizioni, ad iniziare da quella degli
+anniversari.
+
+Per questa volta quindi ti chiediamo di lasciare da parte la tua
+(indiscussa) scienza e di non venire a parlarci dell’art. X della
+legge Y, del nuovo cavo schermato, dello standard internazionale o del
+software rivoluzionario, ma di raccontarci come è cambiato il tuo
+approccio alla privacy negli ultimi anni, di ricordarci un intervento
+dei precedenti convegni che ha lasciato il segno, della volta in cui
+hai fatto colpo citando Winston Smith e di farci partecipi di un
+episodio, un’amicizia, un momento che vuoi condividere.
+
+*** Se e-privacy ti ha dato qualcosa, questo è il posto giusto per metterlo in comune. ***
+
+*** Buona edizione speciale nella dimensione magica del 29¾. ***
+
 #### Programma del convegno
 
    - moderano: Enrica Priolo, Marco Calamari (Progetto Winston Smith), Diego Giorio (Progetto Winston Smith), Emmanuele Somma (Progetto Winston Smith)
