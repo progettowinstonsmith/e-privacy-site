@@ -25,12 +25,15 @@ XPatrocini: romasemplice,fiif
 XSubPatrocini: comvilca
 MediaPartner: infomedia,radioradicale
 
-#### e-privacy lab 3.14.16
+#### e-privacy lab 3.14.16 - 2016 special edition
 
-** Lunedì 14 marzo 2016 ** ad Udine si è svolto **e-privacy lab 3.14.16 **.
 <br>
+Il 14 marzo 2016 a Udine (questa volta di lunedì!), nella Sala delle conferenze  "Valduga", presso la Camera di Commercio di Udine si è tenuta **e-privacy lab 3.14.16 - 2016 special edition**.
 <br>
-L'evento è stato realizzato con l'Ordine dei Giornalisti del Friuli-Venezia-Giulia:
+Il tema dell'edizione è stato "<i>Come i sistemi di segnalazione, l'anonimato e le tecnologie possano essere utili alla professione del giornalista per salvaguardare l'informazione è la vita</i>"
+<br>
+Evento laboratorio in collaborazione con l'Ordine dei Giornalisti del Friuli-Venezia-Giulia.
+<br>
 
 
 ![Licenza Creative Commons BY-NC-SA](images/editions/3.1416.png "e-privacy 3.1416")
