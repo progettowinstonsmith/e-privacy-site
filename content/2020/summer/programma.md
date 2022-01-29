@@ -13,7 +13,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Season: spring
 previd: 2019W
 prev: e-privacy-XXVI
-nextid: 2020
+nextid: 2020W
 next: e-privacy-XXVIII
 Patrocini:
 Organizzatori: pws,hermes

@@ -15,7 +15,7 @@ Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2020W
 prev: e-privacy-XXVIII
-nextid: 2021vnetq
+nextid: 2021V
 next:e-privacy-29e3quarti-programma
 Organizzatori: pws, hermes
 Collaboratori: bba

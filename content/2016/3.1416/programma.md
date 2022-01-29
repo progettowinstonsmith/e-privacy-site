@@ -12,7 +12,7 @@ Where: Sala Valduga<br/>Camera di Commercio di UDINE
 When: 14 Marzo
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: extra
-previd: 2015we
+previd: 2015W
 prev: e-privacy-XVIII
 nextid: 2016
 next: e-privacy-XIX
