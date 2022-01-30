@@ -21,13 +21,13 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | IX     | e-privacy 2010 IX            |(graesanus)  |
 | X      | e-privacy 2011 X             |(diego)      |
 | XI     | e-privacy 2012 spring XI     | rebecca     |
-| XII    | e-privacy 2012 autumn XII    |             |
+| XII    | e-privacy 2012 autumn XII    | rebecca     |
 | XIII   | e-privacy 2013 spring XIII   |             |
 | XIV    | e-privacy 2013 autumn XIV    |             |
 | XV     | e-privacy 2014 spring XV     |             |
 | XVI    | e-privacy 2014 autumn XVI    |             |
-| XVII   | e-privacy 2015 spring XVII   |             |
-| XVIII  | e-privacy 2015 autumn XVIII  |             | 
+| XVII   | e-privacy 2015 spring XVII   |(enrica)     |
+| XVIII  | e-privacy 2015 autumn XVIII  |(enrica)     | 
 | 3.1416 | e-privacy 2016 3.1416        | graesanus   | 
 | XIX    | e-privacy 2016 spring XIX    | exedre      |
 | XX     | e-privacy 2016 autumn XX     | exedre      |
