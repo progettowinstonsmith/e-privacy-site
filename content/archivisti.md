@@ -22,7 +22,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | X      | e-privacy 2011 X             | diego       |
 | XI     | e-privacy 2012 spring XI     | rebecca     |
 | XII    | e-privacy 2012 autumn XII    | rebecca     |
-| XIII   | e-privacy 2013 spring XIII   |             |
+| XIII   | e-privacy 2013 spring XIII   | rebecca     |
 | XIV    | e-privacy 2013 autumn XIV    |             |
 | XV     | e-privacy 2014 spring XV     |             |
 | XVI    | e-privacy 2014 autumn XVI    | edoardo     |
