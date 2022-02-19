@@ -26,7 +26,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XIV    | e-privacy 2013 autumn XIV    | enrica      |
 | XV     | e-privacy 2014 spring XV     | enrica      |
 | XVI    | e-privacy 2014 autumn XVI    | edoardo     |
-| XVII   | e-privacy 2015 spring XVII   | enrica      |
+| XVII   | e-privacy 2015 spring XVII   | enrica      | 
 | XVIII  | e-privacy 2015 autumn XVIII  | enrica      | 
 | 3.1416 | e-privacy 2016 3.1416        | graesanus   | 
 | XIX    | e-privacy 2016 spring XIX    |             |
