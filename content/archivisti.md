@@ -23,24 +23,23 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XI     | e-privacy 2012 spring XI     | rebecca     |
 | XII    | e-privacy 2012 autumn XII    | rebecca     |
 | XIII   | e-privacy 2013 spring XIII   | rebecca     |
-| XIV    | e-privacy 2013 autumn XIV    |             |
-| XV     | e-privacy 2014 spring XV     |             |
+| XIV    | e-privacy 2013 autumn XIV    | enrica      |
+| XV     | e-privacy 2014 spring XV     | enrica      |
 | XVI    | e-privacy 2014 autumn XVI    | edoardo     |
-| XVII   | e-privacy 2015 spring XVII   |(enrica)     |
-| XVIII  | e-privacy 2015 autumn XVIII  |(enrica)     | 
+| XVII   | e-privacy 2015 spring XVII   | enrica      |
+| XVIII  | e-privacy 2015 autumn XVIII  | enrica      | 
 | 3.1416 | e-privacy 2016 3.1416        | graesanus   | 
-| XIX    | e-privacy 2016 spring XIX    | exedre      |
-| XX     | e-privacy 2016 autumn XX     | exedre      |
-| XXI    | e-privacy 2017 summer XXI    | exedre      |
-| XXII   | e-privacy 2017 autumn XXII   | exedre      |
-| XXIII  | e-privacy 2018 summer XXIII  | exedre      |
-| XXIV   | e-privacy 2018 winter XXIV   | exedre      |
+| XIX    | e-privacy 2016 spring XIX    |             |
+| XX     | e-privacy 2016 autumn XX     |             |
+| XXI    | e-privacy 2017 summer XXI    |             |
+| XXII   | e-privacy 2017 autumn XXII   |             |
+| XXIII  | e-privacy 2018 summer XXIII  |(marcoc)     |
+| XXIV   | e-privacy 2018 winter XXIV   |(marcoc)     |
 | XXV    | e-privacy 2019 summer XXV    | exedre      |
 | XXVI   | e-privacy 2019 winter XXVI   | exedre      |
 | XXVII  | e-privacy 2020 summer XXVII  | exedre      |
 | XXVIII | e-privacy 2020 autumn XXVIII | exedre      |
 | XXIX   | e-privacy 2021 summer XXIX   | exedre      |
 | 29e¾   | e-privacy 2021 autumn 29e¾   | exedre      |
-
 
 Per dare una mano, prendere una edizione e scriverlo alla segreteria, scaricare i file di lavorazione in formato [ODS](images/PWS-YYYYS.ods) o [XLS](images/PWS-YYYYS.xls) e lavorarci seguendo le istruzioni contenute nei file.

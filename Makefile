@@ -13,7 +13,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=smith.winstonsmith.info
+SSH_HOST=aaron.winstonsmith.org
 SSH_PORT=22
 SSH_USER=pws
 SSH_TARGET_DIR=/home/pws/sites/org.winstonsmith.e-privacy/site/
