@@ -29,12 +29,12 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 | XVII   | e-privacy 2015 spring XVII   | enrica      | 
 | XVIII  | e-privacy 2015 autumn XVIII  | enrica      | 
 | 3.1416 | e-privacy 2016 3.1416        | graesanus   | 
-| XIX    | e-privacy 2016 spring XIX    |             |
+| XIX    | e-privacy 2016 spring XIX    |(diego)      |
 | XX     | e-privacy 2016 autumn XX     |             |
 | XXI    | e-privacy 2017 summer XXI    |(enrica)     |
 | XXII   | e-privacy 2017 autumn XXII   |(enrica)     |
 | XXIII  | e-privacy 2018 summer XXIII  | marcoc      |
-| XXIV   | e-privacy 2018 winter XXIV   |(marcoc)     |
+| XXIV   | e-privacy 2018 winter XXIV   | marcoc      |
 | XXV    | e-privacy 2019 summer XXV    | exedre      |
 | XXVI   | e-privacy 2019 winter XXVI   | exedre      |
 | XXVII  | e-privacy 2020 summer XXVII  | exedre      |
