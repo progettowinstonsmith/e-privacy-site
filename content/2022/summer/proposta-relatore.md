@@ -1,7 +1,7 @@
 Template: event
 Title: Proposta Talk
 Date: 2022-03-15 00:00:00
-slug: e-privacy-XXX-proposta
+slug: e-privacy-XXX-proposta-relatore
 Category: 2022
 lang: it
 Num: XXX
@@ -15,4 +15,4 @@ previd: 2021W
 prev: e-privacy-29e3quarti
 
 
-<script type="text/javascript" src="//pws.xed.it/form/generate.js?id=22"></script>
+[Vuoi aggiungere un profilo per il relatore?](/e-privacy-XXX-proposta-relatore-add.html)
