@@ -13,8 +13,8 @@ When: 16-17 maggio
 Image: e-privacy-XXIX
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021W
-prev: e-privacy-20e3quarti
+previd: 2021V
+prev: e-privacy-29e3quarti
 nextid:
 next:
 Organizzatori: pws, hermes
