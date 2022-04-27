@@ -15,4 +15,8 @@ previd: 2021W
 prev: e-privacy-29e3quarti
 
 
-[Vuoi aggiungere un profilo per il relatore?](/e-privacy-XXX-proposta-relatore-add.html)
+Grazie
+
+[Vuoi aggiungere il profilo per un relatore dell'intervento?](/e-privacy-XXX-proposta-relatore-add.html)
+
+Ricordarti di inserire i profili di tutti i relatori che vuoi vengano riportati sul sito.
