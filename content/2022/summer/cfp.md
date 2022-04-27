@@ -7,7 +7,7 @@ Category: 2022
 lang: it
 Num: XXX
 Year: 2022
-City: FIRENZE \| RETE
+City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
 When: 16-17 maggio
 Image: e-privacy-XXIX
@@ -19,7 +19,7 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
+Sponsor: cgt,sikurezza.org,sepel,ush
 Patrocini:
 MediaPartner: infomedia,aneddotica
 timeline: 20 maggio | 27 maggio | 12 giugno
@@ -29,7 +29,7 @@ css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 <div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
 <br/>
 
-e-privacy XXX @ Firenze \| Rete
+e-privacy XXX @ Firenze | Rete
 ===============================
 
 Call for Paper
@@ -41,7 +41,7 @@ primaverile alla trentesima edisione di e-privacy, che si terrà in
 modalità mista, presenza + videoconferenza il 16 e 17 giugno 2022 a
 Firenze.
 
-Oltre a poterci stringere la mano, avremo l\'occasione di festeggiare
+Oltre a poterci stringere la mano, avremo l'occasione di festeggiare
 non solo la trentesima edizione del convegno, ma anche il suo
 ventennale; non è poco, è stata una lunga e proficua strada che la
 comunità di e-privacy ha percorso senza mai sfaldarsi.
@@ -56,31 +56,31 @@ Il tema
 privacy*, come durante gli attacchi terroristici, come in ogni altra
 occasione che abbia disturbato la quiete pubblica.
 
-Non solo; anche le pubbliche amministrazioni hanno \"*beneficiato*\" di
+Non solo; anche le pubbliche amministrazioni hanno "*beneficiato*" di
 un decreto per cui non sono più vincolate a trattare dati solo in forza
 di una norma stringente, ma sono libere di trattare i dati personali,
-purché il trattamento avvenga per \"*dimostrata pubblica utilità*\".
+purché il trattamento avvenga per "*dimostrata pubblica utilità*".
 
 Va bene allora: sospendiamo la privacy! Ma quando? Quando è giustificato
 il venire meno quello che è un diritto già alquanto instabile e
 malamente riconosciuto anche in tempo di pace e di salute.
 
-La privacy non ci ha mai definito come corpo sociale. Questa \"privacy
-per tutti \", sempre sul punto di essere resa opzionale, per eccezioni
+La privacy non ci ha mai definito come corpo sociale. Questa "privacy
+per tutti ", sempre sul punto di essere resa opzionale, per eccezioni
 che diventano normalità.
 
 Si può dire: avete vinto! Cediamo subito le armi che ci avete fin qui
 concesso senza mai molta convinzione. Ma diteci almeno quando accadrà,
-quando il popolo, come lo schiavo (e la donna) dell\'antica Grecia e di
+quando il popolo, come lo schiavo (e la donna) dell'antica Grecia e di
 Roma, non avranno più questo loro diritto, troppo facilmente alienabile
 e troppo spesso alienato.
 
 Mentre si stava facendo strada una nuova sensibilità verso il furto dei
 nostri profili online, che fino ad oggi i poteri pubblici hanno permesso
-ai grandi della rete, oggi questi stessi poteri, di fronte a \"*normali
-emergenze*\", hanno avocato a sé ogni potere.
+ai grandi della rete, oggi questi stessi poteri, di fronte a "*normali
+emergenze*", hanno avocato a sé ogni potere.
 
-Il pendolo della libertà marcia ora all\'indietro, diretto verso il polo
+Il pendolo della libertà marcia ora all'indietro, diretto verso il polo
 dello strapotere pubblico.
 
 Sono miserevolmente finiti i tempi di pace e di sicurezza, dati per
@@ -102,7 +102,7 @@ ricordare al potere il senso della sua esistenza al servizio dei
 cittadini. A questo abbiamo dedicato venti anni e trenta edizioni
 passate, e, se riusciremo, dedicheremo tutte quelle future.
 
-Dopotutto, se siamo durati vent\'anni, potremmo durarne almeno altri
+Dopotutto, se siamo durati vent'anni, potremmo durarne almeno altri
 venti. ..
 
 Il convegno
@@ -117,15 +117,15 @@ in informatica ai legali che si occupano di nuove tecnologie, dagli
 psicologi agli educatori, dagli operatori privati a quanti operano nel
 settore pubblico ed istituzionale.
 
-Le proposte d\'intervento
+Le proposte d'intervento
 =========================
 
 Il comitato organizzatore valuterà proposte in ambito tecnologico,
 legale, istituzionale e giurisprudenziale, delle scienze sociali, della
-filosofia, dell\'informatica e dell\'attivismo digitale, della privacy,
+filosofia, dell'informatica e dell'attivismo digitale, della privacy,
 della non-discriminazione, della sorveglianza e dei diritti civili
 digitali. Verranno prese in considerazione anche proposte su temi
-diversi da quello dell\'edizione, purché di interesse e di attualità.
+diversi da quello dell'edizione, purché di interesse e di attualità.
 
 Le proposte dovranno contenere:
 
@@ -133,9 +133,9 @@ Le proposte dovranno contenere:
 -   Eventuale associazione rappresentata
 -   Indirizzo di posta di riferimento
 -   Email e Recapito telefonico
--   Titolo dell\'intervento
--   Durata prevista dell\'intervento e dell\'eventuale Q&A (15\' o 30\')
--   Outline dell\'intervento (circa 200-300 battute)
+-   Titolo dell'intervento
+-   Durata prevista dell'intervento e dell'eventuale Q&A (15' o 30')
+-   Outline dell'intervento (circa 200-300 battute)
 -   Necessità di sussidi particolari oltre la videoproiezione
 -   Abstract con riferimenti (min 500 max 1500 battute)
 -   se disponibile alla pubblicazione del materiale sotto licenza libera
@@ -145,15 +145,13 @@ Le proposte dovranno contenere:
 Le proposte dovranno essere presentate utilizzando il form disponibile
 in questa
 [**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXX-proposta.html),
-e dovranno pervenire al comitato scientifico ****entro il termine ultimo
-del **20 maggio 2022**
+e dovranno pervenire al comitato scientifico **entro il termine ultimo del 20 maggio 2022**
 
-L\'accettazione o meno delle proposte sarà ****comunicata entro il
-**27** **maggio** 2022****.
+L'accettazione o meno delle proposte sarà comunicata **entro il 27 maggio 2022**.
 
-Gli elaborati, slide o relazioni dell\'intervento dovranno pervenire in
+Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-****entro il 1**3** **giugno** 2022****.
+**entro il 1 giugno 2022**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
@@ -184,7 +182,7 @@ I relatori potranno utilizzare documenti, slide o filmati; è apprezzata
 la disponibilità del relatore a concedere la pubblicazione del materiale
 e delle riprese dell'intervento sotto licenza libera.
 
-L\'Organizzazione
+L'Organizzazione
 =================
 
 Al fine di mantenere la propria indipendenza, il convegno è, come
@@ -206,11 +204,11 @@ e da altre organizzazioni, aziende ed associazioni.
 ### Contatti
 
 Per contatti generali e per la stampa:
-[**eprivacy\@winstonsmith.org**](mailto:eprivacy@winstonsmith.org), per
+[**eprivacy@winstonsmith.org**](mailto:eprivacy@winstonsmith.org), per
 contatti con i relatori
-[**cfp-eprivacy\@winstonsmith.org**](mailto:cfp-eprivacy@winstonsmith.org).
+[**cfp-eprivacy@winstonsmith.org**](mailto:cfp-eprivacy@winstonsmith.org).
 
 Maggiori informazioni sul sito del Convegno
 [**http://e-privacy.winstonsmith.org**](http://e-privacy.winstonsmith.org/).
 
-****Vi aspettiamo****.
+**Vi aspettiamo**.
