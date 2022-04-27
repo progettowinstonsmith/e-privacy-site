@@ -1,8 +1,8 @@
 Template: event
 XStatus: draft
 Title: Ventinove e tre quarti
-Date: 2021-09-24 00:01:00
-slug: e-privacy-29e3quarti-programma
+Date: 2021-09-24 00:02:00
+slug: e-privacy-29e3quarti
 Category: 2021
 lang: it
 Num: 29e¾

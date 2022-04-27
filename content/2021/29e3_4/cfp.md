@@ -2,7 +2,7 @@ Template: event
 XStatus: draft
 Title: Ventinove e tre quarti
 Date: 2021-07-20 00:01:00
-slug: e-privacy-29e3quarti
+slug: e-privacy-29e3quarti-cfp
 Category: 2021
 lang: it
 Num: 29e¾
