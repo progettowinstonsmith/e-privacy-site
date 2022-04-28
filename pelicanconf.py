@@ -30,14 +30,14 @@ SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri gove
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
-IMAGE='images/editions/EPRIVACY_29tq_title_gold.jpg'
+IMAGE='images/editions/EPRIVACY_29_1200x700.png'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
 
-YEAR = u'2021'
+YEAR = u'2022'
 EDITION = 'summer'
 
 USE_FOLDER_AS_CATEGORY = True
@@ -56,7 +56,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "EPRIVACY 2021 - Summer"
+THIS_TITLE = "e-privacy 2022 summer"
 
 THIS = (
 #     ('Il programma', '/e-privacy-29e3quarti-programma.html'),
