@@ -10,7 +10,7 @@ Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
 When: 16-17 maggio
-Image: e-privacy-XXIX
+Image: e-privacy-XXX
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
