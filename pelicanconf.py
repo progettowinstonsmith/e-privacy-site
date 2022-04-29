@@ -6,7 +6,7 @@ LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
 COUNTDOWN = False
-EVENT_TIME = '2021/10/01 17:00'
+EVENT_TIME = '2022/06/16 09:00'
 
 HOME_LINK = '/'
 # HOME_LINK = 'http://localhost/'
@@ -25,7 +25,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2021 autumn: Ventinove e tre quarti'
+SITENAME = u'e-privacy 2022 summer: Sospendiamo la privacy'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
