@@ -25,7 +25,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2021 autumn: Ventinove e tre quarti'
+SITENAME = u'e-privacy 2022 summer: XXX'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
