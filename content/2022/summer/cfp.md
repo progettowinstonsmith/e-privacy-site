@@ -18,8 +18,8 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
-Patrocini:
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
 MediaPartner: infomedia,aneddotica
 timeline: 20 maggio | 27 maggio | 12 giugno
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
