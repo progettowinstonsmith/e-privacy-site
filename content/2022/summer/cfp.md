@@ -20,7 +20,7 @@ Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini: 
-MediaPartner: infomedia,aneddotica
+MediaPartner: infomedia,aneddotica,lealternative
 timeline: 20 maggio | 27 maggio | 12 giugno
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 

@@ -216,6 +216,7 @@ PARTNERS = {
     'lhb': ('Legal Hackers Bari', 'logo_lhb.jpg', 'https://www.meetup.com/it-IT/Bari-Legal-Hackers/'),
     'ordavvbari': ('Ordine Avvocati Bari', 'logo_ordine_avvocati_bari.jpg', 'http://www.ordineavvocati.bari.it/'),
     'defcons': ('Defcons', 'LogoSiteDefcons.png', 'https://defcons.uno/'),
+    'lealternative': ('LeAlternative.it', 'alternative-150.png', 'http://www.lealternative.it/'),
 }
 
 
