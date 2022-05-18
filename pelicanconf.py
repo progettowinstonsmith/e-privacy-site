@@ -217,6 +217,7 @@ PARTNERS = {
     'ordavvbari': ('Ordine Avvocati Bari', 'logo_ordine_avvocati_bari.jpg', 'http://www.ordineavvocati.bari.it/'),
     'defcons': ('Defcons', 'LogoSiteDefcons.png', 'https://defcons.uno/'),
     'lealternative': ('LeAlternative.it', 'alternative-150.png', 'http://www.lealternative.it/'),
+    'hackerjournal': ('Hacker Journal', 'logo_hacker_journal.jpg', 'http://www.hackerjournal.it/'),
 }
 
 
