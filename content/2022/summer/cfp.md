@@ -36,7 +36,7 @@ Call for Paper
 
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
 Digital Human Rights* sono lieti di invitarti come relatore all'edizione
-primaverile alla trentesima edisione di e-privacy, che si terrà in
+primaverile alla trentesima edizione di e-privacy, che si terrà in
 modalità mista, presenza + videoconferenza il 16 e 17 giugno 2022 a
 Firenze.
 
