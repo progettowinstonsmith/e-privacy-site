@@ -4,12 +4,14 @@
 Shows basic usage of the Sheets API. Prints values from a Google Spreadsheet.
 """
 import re
+from io import StringIO
 from apiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
 from pprint import pprint,pformat
 from pathlib import Path
 import click
+from bs4 import BeautifulSoup as bs
 
 import logging
 LOGGER = logging.getLogger("PWS")
@@ -20,22 +22,16 @@ logging.basicConfig(level=logging.INFO)
 
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-
-ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo']
-
 EPRIVACY_N = 'XXX'
-
-URL = 'e-privacy-'
-
+SESSIONI = '1M,1P,2M,2P'.split(',')
+ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo']
 PATH = 'content/2022/summer/'
 
-PROG_FNAME = 'programma.md'
 
+URL = 'e-privacy-'
+PROG_FNAME = 'programma.md'
 GIORNO1 = 'Giorno1'
 GIORNO2 = 'Giorno2'
-
-SESSIONI = '1M,1P,2M,2P'.split(',')
-
 F_ORG = 'org'
 
 ## ---------------------------------------- FINE CONFIGURAZIONE
@@ -165,9 +161,6 @@ FORMATS = (
     lambda label, x: x,
     lambda label, x: re.sub(r'^00:', '', x),
 )
-
-
-
 
 def make_authors_roundtable(info, rdb):
     if 'altri' in info and len(info['altri'])>0:
@@ -508,6 +501,8 @@ def setup_program_talk_items(label,talk,relazioni,relatori):
                                           f'setup_{kind}_{field}',
                                           f'setup_{field}' )
         talk[f'OUT_{num:02d}_{field}'] = value
+        soup = bs(value)
+        talk[f'OUT_{num:02d}_{field}_txt'] = soup.get_text()
         if not(value):
             value = ""
         line.append(value)
@@ -756,6 +751,20 @@ def db_info(dbname,db):
         for key, line in db.items():
             LOGGER.info(f"{key} {dict_print(line)}")
 
+def print_schedule(db):
+    sh = StringIO()
+    sessioni  = [ "G"+x for x in db['sessioni']]
+    for session in sessioni:
+        sh.write(f"Moderator: {db[session]['chairman']}\n")
+        table = []
+        for label,event in db[session]['program']:
+            row = []
+            for num, field in enumerate(('begin','duration','author', 'title')):
+                value = event[f'OUT_{num:02d}_{field}_txt']
+                row.append(value)
+            table.append(row)
+            sh.write(f"{row[0]} {row[1]:>4} {row[2]}\n            {row[3]}\n")
+    print(sh.getvalue())
 @click.command()
 @click.argument('input',type=click.File("r"))
 @click.option('--debug/--no-debug', default=False)
@@ -775,8 +784,6 @@ def main(input,debug,debug_section):
                     if relatore not in relatori
                     ]))
     db = {'relatori': relatori, 'relazioni': relazioni , 'sessioni': SESSIONI }
-    if debug:
-        write_out_debug("db",db)
     dictionary = {}
     all_relazioni = list()
     all_relatori = list()
@@ -813,6 +820,7 @@ def main(input,debug,debug_section):
     compose_speakers(all_relatori, db)
     compose_interventi(all_relazioni, db)
     compose_email(all_relatori, all_relazioni, db, dictionary)
+    print_schedule(db)
 
 if __name__ == '__main__':
     main()
