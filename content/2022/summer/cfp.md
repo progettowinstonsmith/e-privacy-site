@@ -9,7 +9,7 @@ Num: XXX
 Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
-When: 16-17 maggio
+When: 16-17 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
@@ -18,9 +18,9 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
-Patrocini:
-MediaPartner: infomedia,aneddotica
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 20 maggio | 27 maggio | 12 giugno
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
@@ -36,7 +36,7 @@ Call for Paper
 
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
 Digital Human Rights* sono lieti di invitarti come relatore all'edizione
-primaverile alla trentesima edisione di e-privacy, che si terrà in
+primaverile alla trentesima edizione di e-privacy, che si terrà in
 modalità mista, presenza + videoconferenza il 16 e 17 giugno 2022 a
 Firenze.
 
