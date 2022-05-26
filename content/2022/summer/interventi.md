@@ -1,0 +1,160 @@
+slug: e-privacy-XXX-interventi
+Template: event
+XStatus: draft
+Title: Sospendiamo la privacy
+Date: 2022-03-15 00:01:00
+Category: 2022
+lang: it
+Num: XXX
+Year: 2022
+City: FIRENZE | RETE
+Where: Firenze & Videoconferenza & Streaming
+When: 16-17 maggio
+Season: summer
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+previd: 2021V
+prev: e-privacy-29e3quarti
+nextid:
+next:
+Organizzatori: pws, hermes
+Collaboratori: bba
+Sponsor: cgt,sikurezza.org,sepel,ush
+Patrocini:
+MediaPartner: infomedia,aneddotica
+
+## <a name="talks"></a>Gli interventi
+
+#### <a name="alagna"></a> Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?<a href="/e-privacy-XXX-programma.html#1p06">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a>*
+
+Durante l’ultimo biennio abbiamo assistito ad un melting pot di crisi, tensioni, emergenze socio-sanitarie e come se non bastasse il recente conflitto Russo-Ucraino. Le particolarità dei singoli periodi e delle situazioni hanno certamente comportato decisioni e valutazioni spesso affrettate e non del tutto ponderate, ma ponderate rispetto a cosa? &#13;&#10;Nel mondo del diritto, oggi sempre più indissolubilmente legato allo sviluppo tecnologico, ciٍ ha comportato varie compressioni del tanto bistrattato e perché no, anche, spesso abusato (ndr. triste realtà) “right to privacy”. Ma a cosa corrisponde oggi questo complesso di diritti? I più potranno dire che, almeno nel territorio unionale, Privacy oggi è uguale a GDPR. Il nuovo regolamento che tante imprese e professionisti hanno, alcuni, studiato con passione e in ottica di continuità e opportunità per il proprio business, altri, malvolentieri applicato, ravvisando nelle sue prescrizioni beghe, noie, spese per la compliance e nomine di ulteriori professionisti in azienda, come i tanto cari DPO.&#13;&#10;Ma come brillantemente scriveva il maestro drammaturgo agrigentino, Cosى è, se vi pare. &#13;&#10;Il GDPR c’è, la Privacy - fortunatamente - c’è e con giusto riguardo bisogna tutelarla.&#13;&#10;Ma tornando agli eventi del presente biennio, la pandemia da Covid-19 ha sicuramente rappresentato uno scoglio molto forte per la tutela della privacy e, per maggiore precisione, tutela e protezione dei dati personali. Abbiamo assistito a molte compressioni e chiare rinunce in tal senso, ma come giustificarle? Basta davvero porre come ratio il raggiungimento della “dimostrata pubblica utilità”? Possiamo davvero affermare che attività, come il “proctoring”, poste in essere da alcuni atenei italiani per il controllo degli studenti  universitari durante gli esami di profitto, siano lecite? Il Garante Italiano (fortunatamente, ci si perdoni la ripetizione dell’avverbio) nel settembre scorso ha espresso il proprio parere su un noto ateneo Meneghino e comminato una dura sanzione.&#13;&#10;Proprio dall’analisi di quanto espresso dall’authority muoverà il nostro ragionamento. Ci interrogheremo, da professionisti del settore, su quanto sia lecito comprime e su quali misure sia necessario porre in essere, perché è, forse, proprio qui che si gioca la partita. Porre in essere un complesso di misure tecniche e organizzative atte a non comprimere poi cosى tanto questo fondamentale diritto degli interessati. Ma ciٍ non basta; faremo anche qualcosa di più. Rifletteremo su cosa possa comportare tale compressione, su quali conseguenze potrebbero manifestarsi qualora ci si “dimenticasse” di attuare quanto il GDPR e le “ss.mm.ii.” prevedono. Analizzeremo le recenti brecce e attacchi, con obbiettivo  “la distruzione, la perdita, la modifica, la divulgazione non autorizzata” di dati personali, che hanno colpito recentemente imprese pubbliche e private per individuare un preciso perimetro di rischio ed essere consapevoli a cosa si puٍ andare in contro.
+
+
+#### <a name="aterno"></a> La Privacy e la Sicurezza come diritti di libertà. Perché, nello Stato di Emergenza, non bisogna sospendere i diritti. (Stefano Aterno)<a href="/e-privacy-XXX-programma.html#2m01">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#aterno">Stefano Aterno </a>*
+
+Perché bisogna sospendere la Privacy (?). Perché non bisogna sospendere i diritti&#13;&#10;(Stefano Aterno)&#13;&#10;&#13;&#10;Perché bisogna sospendere la Privacy davanti ad uno Stato d’emergenza ? Bisogna parlare di “sospensione”, affievolimento del diritto oppure di rinuncia ai diritti ?  Perché non possiamo ragionare su piani diversi, perché non diciamo che uno Stato d’emergenza, in uno Stato democratico, deve contenere in sé i valori ed i limiti propri di ciascun diritto di libertà. &#13;&#10;In questi anni che stiamo vivendo ritornano alla memoria concetti già espressi tempo fa da illustri pensatori e studiati sui libri, forse appresi, forse capiti sicuramente non compresi nella loro essenza e nella loro natura di riflessione profonda.&#13;&#10; Il concetto di sicurezza e quello di privacy devono adeguarsi ai tempi e non possono che essere oggi più che mai strettamente legati tra loro in quell'indissolubile legame che deve esistere tra diritti sociali e diritti di libertà. Una sicurezza quindi conseguentemente democratica che contiene in sé, come la Privacy, i valori ed i limiti propri di ciascun diritto di libertà. Nuovi concetti della sicurezza quindi. &#13;&#10;Il ruolo della privacy e della sua legislazione assume in questo ambito un ruolo di garanzia e di controllo in funzione di quel giudizio di responsabilità che deve esistere affinché questa apparente dicotomia si mantenga sempre nel giusto equilibrio. &#13;&#10;Il monitoraggio, il tracciamento, lo spionaggio, la sorveglianza e la conseguente aggressione alla privacy dei cittadini e di interi stati sovrani fa sempre più spesso notizia. Il concetto di sicurezza e di sorveglianza sono da decenni in totale evoluzione. La sicurezza è diventata una caratteristica costante e fondamentale del mondo moderno. Si parla di modernità liquida, intendendola come individualizzata, privatizzata, incerta, flessibile, vulnerabile. Cittadini, lavoratori, consumatori, navigatori della Rete sono sempre in movimento spesso privi di certezze ma accettano il rischio che i loro movimenti vengano monitorati, tracciati, localizzati e profilati. &#13;&#10;Anche l’esigenza di sicurezza e la necessità di privacy scivolano poco a poco verso uno stato liquido, impalpabile, non nettamente definito. L’esigenza di sicurezza spesso voluta dal cittadino determina un aumento della capacità di sorveglianza sui dati personali e sugli individui per farli sentire più sicuri (o dargli la sensazione di esserlo). L’uso di una tecnologia al servizio della sicurezza offusca il valore della riservatezza dell’individuo come persona rispetto ad una pretesa sicurezza che tutela un bene più ampio, una pluralità di persone. &#13;&#10;Un tempo la sorveglianza era solida, stabile in qualche modo, garantita da principi giuridici certi e da punti di riferimento indiscutibili. Oggi la sorveglianza tende a farsi liquida, sfuggente, indefinita soprattutto nei momenti in cui frammenti di dati personali, trattati per determinate finalità legittime e meritevoli, divengono facilmente utilizzabili per altri scopi spesso occulti, incontrollati e incontrollabili.&#13;&#10;La sicurezza va concepita non più in contrapposizione con la libertà, quasi che la lievitazione dell’una necessariamente debba comportare una conseguente diminuzione o attenuazione dell’altra, ma va accreditata come espressione, ovvero una delle molteplici espressioni, del diritto di libertà. &#13;&#10;Soltanto concepita in questo modo puٍ essere costituzionalmente tollerata e non compromettere gli altri diritti di libertà (come la privacy).&#13;&#10;Una sicurezza, quindi, da percepire come diritto di libertà, uno dei tanti diritti di libertà consacrati esplicitamente e implicitamente dalla nostra Costituzione. Un diritto da vivere non soltanto nella dimensione individuale tipica di ogni libertà, ma da esercitare preliminarmente nella caratterizzazione collettiva propria dei diritti sociali che vanno garantiti a tutti oltreché ai singoli.&#13;&#10;Una sicurezza, conseguentemente, che proprio la connotazione libertaria consente di evidenziare come altamente democratica in quanto contiene in sé i valori e i limiti propri di ciascun diritto di libertà, primo fra tutti quello di non poter negare sé stessa.&#13;&#10;Laddove ciٍ dovesse accadere, verrebbe infatti a configurarsi una sicurezza diversa, non più democratica e costituzionalmente garantita, ma una sicurezza deviata rispetto alla sua essenza, espressione di un’impostazione derivante da un regime autoritario abituato, questo sى, a negare la libertà e quindi anche la privacy.   &#13;&#10;&#13;&#10;
+
+
+#### <a name="beltrami"></a> World Wide People - Manifesto per un Sindacato della Rete<a href="/e-privacy-XXX-programma.html#1m06">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a>*
+
+Degli spettri si aggirano per l’Infosfera - i nostri gemelli digitali personali (Personal Digital Twin) - e tutte le multinazionali dell’informatica partecipano alla santa battuta di caccia per appropriarsene: Meta (Facebook), Alphabet (Google), Amazon, Apple, IBM, Microsoft, ecc.&#13;&#10;&#13;&#10;Da questo fatto scaturiscono due conclusioni, per noi tutti Datori di Dati Digitali:&#13;&#10;&#13;&#10;- I nostri dati e relazioni hanno grande valore, per queste multinazionali, e non solo.&#13;&#10;- E’ tempo che ci riappropriamo della loro gestione, resistendo alle lusinghe di tali e tante sirene.&#13;&#10;&#13;&#10;Questo manifesto è rivolto a chi ha capacità di capire e voglia di sperare nella comparsa di una sorta di Sindacato della Rete (World Wide People), che ci protegga e assista nel gestire i nostri dati e relazioni digitali, tramite il nostro gemello digitale, meglio di quanto stiano facendo e possano fare privati o pubbliche amministrazioni.&#13;&#10;&#13;&#10;Al motto DATORI DELL’INFOSFERA, UNITEVI!&#13;&#10;
+
+
+#### <a name="berto"></a> Contrapposizione fra diritti fondamentali: salute, privacy e non solo<a href="/e-privacy-XXX-programma.html#1m03">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>*
+
+I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del cittadino e della società al fine di poter affrontare con saggezza e lungimiranza le crisi che il cittadino contemporaneo si trova ad affrontare: l’utilizzo di nuove tecnologie pongono delle problematiche non solamente connesse al continuo e costante accumulo di dati, per esempio. O come il bisogno di sicurezza, la cui ingordigia di dati non potrà mai ad essere completamente saziata: già oltre dieci anni fa, un noto giudice della Corte Costituzionale in Germania aveva cercato di dare nuovo slancio alla privacy, parlando del computer come “di una parte esternalizzata del corpo della persona.”&#13;&#10;&#13;&#10;In tempo di crisi dovuta alla pandemia, il cittadino ha sviluppato una maggiore attenzione al bisogno o alle promesse di maggiore sicurezza e protezione della vita individuale. Diritto alla salute, diritto alla privacy e non solo, sono diritti fondamentali considerati e presentati come contrapposti: ma i tribunali come hanno bilanciato i diritti fondamentali coinvolti?&#13;&#10;
+
+
+#### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>*
+
+TBA
+
+
+#### <a name="ciurcina"></a> MonitoraPA<a href="/e-privacy-XXX-programma.html#2m03">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>*
+
+L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispetto all’uso di Google Analytics.&#13;&#10;Alcune settimane orsono un gruppo di hacker ha lanciato il progetto MonitoraPA: ha individuato quasi 8.000 pubbliche amministrazioni italiane che usano Google Analytics ed ha inviato una comunicazione ai DPO degli enti.&#13;&#10;Il progetto ha ottenuto buoni risultati in termini di visibilità ed efficacia.&#13;&#10;Si propongono considerazioni legali (e non solo) sul progetto MonitoraPA.
+
+
+#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2p01">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a>*
+
+Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua VPN puoi andare dove ti pare….&#13;&#10;&#13;&#10;Se ti chiedono:&#13;&#10;Cosa hai fatto nella tua cameretta?&#13;&#10;Su che sito sei andato?&#13;&#10;&#13;&#10;Puoi rispondere quello che vuoi. Puoi anche mentire.&#13;&#10;&#13;&#10;Analizzeremo insieme pro e contro della privacy, scoprendo forse che non è tutto oro quello che luccica, che forse la privacy non è un'arma che abbiamo,a una pistola che ci stiamo puntando alla testa da soli.&#13;&#10;
+
+
+#### <a name="ferri"></a> L'evoluzione della sicurezza della informazioni<a href="/e-privacy-XXX-programma.html#1m05">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a>*
+
+Una breve panoramica nel settore della sicurezza delle informazioni: dai tradizionali standard ISO all'applicazione nei sistemi complessi di Intelligenza Artificiale
+
+
+#### <a name="gallus"></a> Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
+
+Il DL 139/2021 ha modificato in maniera sostanziale la diffusione dei dati personali da parte delle pubbliche amministrazioni (e non solo). Se prima era tassativamente necessaria una norma di legge (o, nei casi previsti dalla legge, di regolamento) perché fosse lecito diffondere dati personali (ad esempio pubblicare un curriculum), ora è sufficiente un "atto amministrativo generale", o addirittura la semplice sussistenza di un interesse pubblico.Si potrebbe passare dalla attuale situazione di uniformità, se non altro tendenziale, a una condizione nella quale, almeno in teoria, le regole possono cambiare da ente a ente, e da comune a comune. Vedremo quali siano i limiti di questa apparente deregulation, e quali le contromisure.
+
+
+#### <a name="gargano"></a> La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?<a href="/e-privacy-XXX-programma.html#1p05">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a>*
+
+La pandemia è finita (forse?) ma cosa ne sarà delle misure emergenziali che hanno fatto diventare la giustizia sempre più digitale? La giustizia durante il Covid non si è fermata, sia grazie ad un processo telematico sempre più utilizzato ma forse non eccessivamente implementato nelle infrastrutture e sia grazie a strumenti di videoconferenza che hanno aiutato l’avvocato a non perdere i rapporti con il cliente.&#13;&#10;Ma qual è stato il prezzo da pagare? L’avvocato telematico è sempre stato cosى attento alla privacy o anche in quel campo si è scelto di rinunciare a qualcosa per tenere vivi i contatti con i clienti utilizzando sistemi non sicuri?&#13;&#10;E le infrastrutture della giustizia hanno retto? Tanti aggiornamenti e molti disagi sono serviti a migliorare la giustizia?&#13;&#10;Durante la relazione verranno analizzate le criticità vissute nel mondo giustizia nei due anni di pandemia, analizzando l’impatto degli strumenti tecnologi nel mondo giustizia e l’attenzione degli operatori alla privacy nell’utilizzo di questi strumenti. Proveremo dunque a rispondere ad una domanda: Il bilancio è in positivo o in negativo?
+
+
+#### <a name="gazzella"></a> Debugging legale degli algoritmi: necessità o virtù?<a href="/e-privacy-XXX-programma.html#2p05">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#sindaco">Sara Sindaco (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#capoluongo">Anna Capoluongo (D&L NET)</a> e <a href="/e-privacy-XXX-relatori.html#denicola">Valentina De Nicola (D&L NET)</a>*
+
+Che l’algoritmo possa dominare il futuro, al momento è un’ipotesi. Ma che impatti su diritti e libertà, è un fatto che già puٍ essere riscontrato nel presente. Per questo motivo, al di là delle garanzie di corretto funzionamento e sicurezza, occorre sempre più spesso un’opera di “debugging legale” affinché siano rispettate le tutele e garanzie fondamentali dei cittadini digitali, in ossequio a principi di proporzionalità fra finalità perseguita e impatto dell’automatismo decisionale.&#13;&#10;Algoritmo e pregiudizio ( avv. Valentina De Nicola )&#13;&#10;Sebbene la rappresentazione generale guardi all’AI come ad una tecnologia intelligente, essa non è esente da implicazioni problematiche, come ad esempio la possibilità di presentare risultati errati nell’elaborazione statistica, che possono avere effetti particolarmente incidenti sulla vita delle persone; uno dei principali motivi di apprensione che sta coinvolgendo in questo momento la comunità scientifica concerne il fenomeno della discriminazione algoritmica, ovverosia la capacità dell’AI di propagare ed amplificare gli elementi di discriminazione già ben radicati nella nostra società. &#13;&#10;Risulta oggi quindi essenziale esaminare il problema dei bias, per valutare cause, implicazioni e possibili soluzioni di questo problema, analizzando anche il tema sotto una nuova luce, che possa permettere la costruzione di modelli algoritmici dismantling dei sistemi precostituiti.&#13;&#10;Computazione responsabile ( avv. Anna Capoluongo )&#13;&#10;Per preparare un giusto futuro è necessario imparare a “costruire” e a “utilizzare” i sistemi di intelligenza artificiale, tanto in ottica di design vero e proprio dell’AI, quanto sotto un profilo di corretta istruzione e addestramento degli algoritmi, senza dimenticarsi della dimensione di formazione e sensibilizzazione degli utenti finali. &#13;&#10;Ad un efficace adeguamento della normativa di riferimento, dovrebbero quindi affiancarsi modelli di valutazione d’impatto dell’AI ed un approccio interdisciplinare circa rischi, benefici e corretto utilizzo dei sistemi intelligenti.&#13;&#10;Contrattazione dell’algoritmo ( avv. Sara Sindaco )&#13;&#10;Gli algoritmi all’interno del settore risorse umane e organizzazione del personale sono sicuramente una tematica attuale e in cui emergono dei primi impatti concreti in termini di “banche dati digitali” e ricerca del personale, cosى come avranno un ruolo nell’uscita e chiusura dei rapporti di lavoro (licenziamenti collettivi e cassa integrazione straordinaria).&#13;&#10;Inoltre le intelligenze artificiali nel tempo occuperanno sempre di più un ruolo di accompagnamento agli ordinari strumenti di controllo del personale, si pensi al controllo a distanza tramite strumenti informatici (art. 4 Stat. Lav.) e ai possibili tavoli sindacali che ne potranno derivare intorno alla creazione di tali nuovi confini informatici del controllo a distanza sia nelle aziende private che all’interno della pubblica amministrazione (si veda il recente rinnovo del maggio 2022 del comporto funzioni pubbliche dello stato con riferimento allo smart working e al lavoro da remoto, artt. 39 a 41 ccnl).&#13;&#10;Equilibri di proporzionalità e trasparenza (dott. Stefano Gazzella)&#13;&#10;Fino a che punto l’utilizzo di un sistema basato su un algoritmo puٍ dirsi accettabile o anche lecito? Già in fase di progettazione possono essere svolte analisi, applicati correttivi e previste delle roadmap di implementazione operativa che sappiano tenere conto degli impatti e dei rischi. Elementi fondamentali cui prestare attenzione sono proporzionalità e trasparenza, concetti che non possono giacere su carta ma anzi che devono essere declinati in misure da assoggettare ad un controllo continuo. &#13;&#10;Altrimenti, diritti e libertà possono essere compressi in modo insostenibile, tanto sul piano individuale che collettivo. Non solo: si profilano cosى scenari in cui sussistono asimmetrie informative, con l’effetto di generare incertezze nella catena dei rapporti fra le organizzazioni e una generale sfiducia da parte di utenti e cittadini. La soluzione puٍ essere trovata solo nella consapevole ricerca dei punti di equilibrio e di miglioramento.
+
+
+#### <a name="giorio"></a> Privacy: è l'emergenza la vera emergenza?<a href="/e-privacy-XXX-programma.html#1m02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>*
+
+Prima con la pandemia, poi con pandemia e guerra, stiamo vivendo da oltre due anni in una situazione continuamente emergenziale. Perٍ anche prima, tra cambiamenti e climatici e crisi economica, non è che si vivesse in continuo carnevale. Allora chiediamoci non tanto se le soluzioni messe in atto per fronteggiare queste emergenze - magari anche sbagliate o eccessive, ma nessuno in certi momenti aveva in mano il manuale di istruzioni e si navigava a vista - siano il vero problema nei confronti della privacy, oppure se a minare la sicurezza dei nostri dati personali, della nostra individualità, della nostra libertà di essere e di agire siano invece altre forme di controllo in atto o in pectore. L'idea di utilizzare i dati delle patenti europee per il riconoscimento facciale, la raccolta e lunga conservazione dei dati di traffico telefonico, la videosorveglianza pervasiva, le app che raccolgono qualunque cose, le città troppo smart potrebbero essere il vero problema in termini di privacy, molto più che un'app di contact tracing - utile o meno che sia - utilizzata per un paio di mesi a fronte di una situazione difficile.
+
+
+#### <a name="lisi"></a> Tecnologia e Privacy: mission impossible per i poveri DPO?<a href="/e-privacy-XXX-programma.html#2m04">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>*
+
+Il bilanciamento degli interessi è principio difficile da applicare nel contesto digitale, dove la tecnlologia fa gola e consente procedure automatiche e profilazioni pervasive. Ai DPO si chiedono ormai superpoteri per poter con responsabilità scegliere ciٍ che si puٍ fare, come si puٍ fare e per quanto tempo. E la strada più comoda è quella taliban e intransigente che blocca, piuttosto che consentire di trattare digitalmente i dati attraverso un accurato e complesso bilanciamento degli interessi in gioco.
+
+
+#### <a name="marzocchi"></a> Anonimato VS Identità nella cultura del web<a href="/e-privacy-XXX-programma.html#1p02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#marzocchi">Duccio ( alessandro ) Marzocchi </a>*
+
+la riservatezza è concetto culturale e sociale - non l’anonimato ma la degenarazione del dialogo è il lato debole delle abitudini del web
+
+
+#### <a name="piccoli"></a> la progettazione dei trattamenti e loro valutazione utilizzando lo schema ISDP 10003:2020<a href="/e-privacy-XXX-programma.html#2p02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#piccoli">Andrea Piccoli (D&L Network)</a>*
+
+I principi del GDPR impongono una attenta progettazione dei trattamenti e delle valutazione della loro conformità. L'adozione di schema di valutazione condivisi costituisce un importante strumento di supporto. Nella presentazione si accennano anche gli strumenti di DPIA del CNIL e di ENISA utilizzabili sempre nella fase di progettazione dei trattamenti.
+
+
+#### <a name="priolo"></a> «Tanto non serve»<a href="/e-privacy-XXX-programma.html#1p01">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>*
+
+TBA
+
+
+#### <a name="rossi"></a> Che valenza ha un diritto se non posso individuare il responsabile della sua violazione? Data retention, punto di frizione tra sicurezza e privacy<a href="/e-privacy-XXX-programma.html#1p03">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#rossi">Andrea Rossi (ANFP)</a>*
+
+Qual è il rapporto tra sicurezza e privacy? Qual è il ruolo della data retention e per quale motivo le normative che la regolano sono frequentemente modificate? Occorre delineare esattamente quali connotazioni della sicurezza costituiscono il punto di frizione con la privacy ed esaminare le pronunce della Corte di Giustizia Europea in materia, per far si che ci sia tra di esse un corretto bilanciamento e comprendere se l'attuale regime di conservazione dei dati esterni delle comunicazioni sia rispondente alle esigenze di accertamento giudiziario e non travalichi in una sorveglianza di massa.
+
+
+#### <a name="sapuppo"></a> Dal cubo di Rubik al cubo di Necker: non tutto ciò che è legale è lecito.<a href="/e-privacy-XXX-programma.html#1p04">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#sapuppo">Valentina Sapuppo (Ricercatore Indipendente)</a>*
+
+Ogni Stato sarà chiamato a rispondere delle conseguenze di tutte quelle ingerenze perpetrare tramite un controllo che risulta non solo pervasivo e lesivo diritti fondamentali della persona, ma che va anche a discapito della tutela dei dati personali. Le tecniche di geocontrollo sociale e l'identificazione biometrica non autorizzata, hanno portato ad un quadro storico sconcertante. Dalla creazione dello Stato di Polizia, strutturato per evitare la ripetizione di fenomeni quali quelli che hanno segnato l'11 settembre, passando dal Covid-19, ove realtà sovranazionali hanno gettato la rete per avallare scelte di tracciamento e geolocalizzazione per far fronte alle proprie incapacità politiche, sino ad arrivare all'attuale scenario bellico, che non è altro che la manifestazione nuda e cruda di fatti sino ad ora "striscianti" tra i corridoi dei perbenismi, è necessario prendere coscienza del fatto che certe decisioni, seppur legalmente supportate prestano il fianco a gravi, se non anche da definirsi come “indecenti”, abusi. Tutto ciٍ a riprova del fatto che non tutto ciٍ che è legale è anche lecito, etico e moralmente corretto. Tra le conseguenze peggiori, il fenomeno del "raduno attorno alla bandiera". Tuttavia, il nostro interrogativo rimane sempre quello di Orwelliana memoria: "Chi controlla i controllori?". Ed ecco che dal cubo di Rubik ci troviamo, tutti, in una situazione quale quella immaginata nella rappresentazione del cubo di Necker, ove la Società Controllata di Deleuze diviene da se stessa la Società Riflettente, che controlla ed è controllata. Homo homini lupus. In un mondo alluvionato da informazioni, lo sviluppo dirompente della tecnologia ci pone avanti alla sfida umana, una delle più grandi che la nostra specie abbia mai affrontato. La rivoluzione dell’informazione esercita una pressione senza precedenti sui nostri comportamenti e sull’etica individuale. E' ormai da considerare un lusso il fermarci a riflettere un momento sulla direzione che la società digitale sta prendendo? Se di evoluzione parliamo, quindi, è contemperata l'involuzione?  “L'interconnettività universale, la messa a disposizione di un immenso spazio pubblico accessibile a chiunque e continuamente in espansione, nel quale ognuno continuamente riversa i propri dati sensibili, registrandone la posizione, gli spostamenti, gli interessi, le opinioni, le informazioni sul proprio stato di salute, le abitudini, lo stile di vita, i tratti somatici, l’espressione di sentimenti e molto altro ancora, scandendo e qualificando i tempi della sua giornata tipo ed offrendo dati per la costruzione di una sua personalità virtuale idonea ad integrare informazioni per la profilazione di un soggetto tipo.” Queste le parole del Rapporto del Berkman Center for Internet & Society, e sono solo trascorsi dodici anni durante i quali il panorama commentabile non sembra per nulla essere migliorato. In punto di privacy, il problema morale della CyberEthics consiste nell'acquisizione e nell'uso improprio delle informazioni altrui. Dobbiamo cercare di far sى che l'etica dell'informazione risolva il problema di ciٍ che dovrebbe essere moralmente giusto e di ciٍ che dovrebbe considerarsi moralmente sbagliato, per far sى, soprattutto, che gli esseri umani abbiano la medesima cura e lo stesso rispetto etico verso le informazioni di altre persone e verso le altre persone. Lo stesso dovrebbe accadere in riferimento alle macchine o a chi, tramite queste, fa un uso quasi mercatorio dei dati. Come non riflettere sulle rischiose conseguenze di un uso sbagliato, di ciٍ che caratterizza l’uso delle nuove tecnologie? Come non pensare alla possibilità di scelta, che le generazioni future non avranno, di utilizzare il proprio corpo per accedere a luoghi, servizi e informazioni, nonché di scegliere? AGERE SEQUITUR ESSE, l’azione segue l’essere.
+
+
+#### <a name="scorza"></a> Saluti istituzionali<a href="/e-privacy-XXX-programma.html#1m01">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
+
+
+
+
+#### <a name="surbone"></a> Gli aspetti legati a privacy, big data, ricerca scientifica e brevettabilità della vita nell’utopia contemporanea di Filoponìa<a href="/e-privacy-XXX-programma.html#1m04">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a>*
+
+Verranno affrontati gli aspetti legati a privacy, big data, ricerca scientifica e brevettabilità della vita (genoma, OGM, ecc.) nell’utopia contemporanea di Filoponىa.&#13;&#10;Filoponىa tratteggia una nuova società non più retta sul debito. Uscire da tale paradigma, in vigore da più di 5.000 anni, consente all’umanità di rivedere molte delle storture odierne, quasi tutte scaturite da questo paradigma. Fra queste storture vi sono a pieno titolo i quattro temi legati al rispetto profondo delle persone e della vita: privacy, big data, ricerca scientifica e brevettabilità della vita.
+
+
+#### <a name="vieri"></a> Privacy in bello, privacy ad bellum<a href="/e-privacy-XXX-programma.html#2p04">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a>*
+
+Privacy in bello, privacy ad bellum&#13;&#10;Pare indelicato e irrilevante parlare di privacy in una guerra. Specie di questi tempi. Ma invece a parere dell'autore proprio di questi tempi occorre prestare la massima attenzione al sacro e doveroso rispetto della privacy. SPECIE DEI DEBOLI. La posizione sulle varie guerre che ci hanno coinvolto negli ultimi VENTI ANNI puo' essere varia. Di certo non dobbiamo trascurare il possibile danno alla vita dei civili che puo' derivare dall'essere ripresi, magari schedati, e pubblicati su internet. Dove nulla e' mai realmente cancellato. E dove la foto e il filmato vive per sempre. Ricordate che proprio questo autore ha gia' parlato e rilasciato codice per realizzare modelli matematici per riconoscimento facciale con circa 20 immagini. Ovvero molto meno di pochi secondi di trasmissione.&#13;&#10;
+
+
+#### <a name="winston"></a> Archivismi<a href="/e-privacy-XXX-programma.html#2p03">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
+
+TBA
+
+
+
+
