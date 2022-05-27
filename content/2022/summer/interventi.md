@@ -49,7 +49,7 @@ I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del citta
 
 
 #### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>*
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>*
 
 TBA
 

@@ -47,11 +47,11 @@ Il tema guida della XXIX edizione di e-privacy è:
 
 #### <a name="vep"></a>Giovedì 16 maggio 2022 - mattina
 
-* Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>
+* Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
+10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Saluti Istituzionali</a></em></span>
 10:30|45|<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXX-interventi.html#giorio">Privacy: è l'emergenza la vera emergenza?</a></em></span>
 11:15|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXX-interventi.html#berto">Contrapposizione fra diritti fondamentali: salute, privacy e non solo</a></em></span>
@@ -87,7 +87,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 10:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#gallus">Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021</a></em></span>
 11:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXX-interventi.html#ciurcina">MonitoraPA</a></em></span>
 11:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXX-interventi.html#lisi">Tecnologia e Privacy: mission impossible per i poveri DPO?</a></em></span>
-12:00|60|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
+12:00|60|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione mattina</em></span>
 
 #### <a name="sam"></a>Venerdì 17 maggio 2022 - pomeriggio
@@ -103,7 +103,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 16:20|40|<span class='talk'><em>Pausa caffé</em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXX-interventi.html#vieri">Privacy in bello, privacy ad bellum</a></em></span>
 17:30|60|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#sindaco">Sara Sindaco (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#capoluongo">Anna Capoluongo (D&L NET)</a> e <a href="/e-privacy-XXX-relatori.html#denicola">Valentina De Nicola (D&L NET)</a><br/><em><a name='2p05'></a><a href="/e-privacy-XXX-interventi.html#gazzella">Debugging legale degli algoritmi: necessità o virtù?</a></em></span>
-18:30|10|<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em><a name='2p06'></a><a href="/e-privacy-XXX-interventi.html#calamari2">I prossimi 30 E-Privacy</a></em></span>
+18:30|10|<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2p06'></a><a href="/e-privacy-XXX-interventi.html#calamari2">I prossimi 30 E-Privacy</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 
@@ -134,7 +134,7 @@ I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del citta
 
 
 #### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>*
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>*
 
 TBA
 
