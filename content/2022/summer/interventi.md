@@ -18,9 +18,9 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
-Patrocini:
-MediaPartner: infomedia,aneddotica
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 ## <a name="talks"></a>Gli interventi
 
