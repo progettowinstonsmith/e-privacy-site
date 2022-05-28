@@ -9,7 +9,7 @@ Num: XXX
 Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
-When: 16-17 maggio
+When: 16-17 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
@@ -27,7 +27,7 @@ css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 
 ###e-privacy 2022 - summer edition
 
-Il ** 16 e 17 maggio 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
+Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
 _summer edition_**.
 
 Il tema guida della XXIX edizione di e-privacy è:
@@ -45,7 +45,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 maggio 2022 - mattina
+#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
@@ -60,7 +60,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:40|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXX-interventi.html#beltrami">World Wide People - Manifesto per un Sindacato della Rete</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="vep"></a>Giovedì 16 maggio 2022 - pomeriggio
+#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
@@ -76,7 +76,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 18:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXX-interventi.html#alagna">Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="sam"></a>Venerdì 17 maggio 2022 - mattina
+#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>
 
@@ -90,7 +90,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:00|60|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione mattina</em></span>
 
-#### <a name="sam"></a>Venerdì 17 maggio 2022 - pomeriggio
+#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>
 
