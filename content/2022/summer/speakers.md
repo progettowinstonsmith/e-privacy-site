@@ -195,7 +195,7 @@ Valentina Grazia Sapuppo è nata a Catania, Sicilia, e si è laureata in Giurisp
 
 
 
-#### <a name="scorza"></a> Guido Scorza (Garante Privacy)
+#### <a name="scorza"></a> Guido Scorza (Garante per la protezione dei dati personali)
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
 
