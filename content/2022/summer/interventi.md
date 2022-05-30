@@ -18,9 +18,10 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
-Patrocini:
-MediaPartner: infomedia,aneddotica
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+
 
 ## <a name="talks"></a>Gli interventi
 
@@ -49,7 +50,7 @@ I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del citta
 
 
 #### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a>*
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>*
 
 TBA
 

@@ -18,10 +18,9 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush
-Patrocini:
-MediaPartner: infomedia,aneddotica
-
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 ## <a name="speakers"></a>I moderatori
 
@@ -179,6 +178,12 @@ Romano emigrato in Friuli-Venezia Giulia dal 2016. Orgogliosamente nerd dal 1985
 #### <a name="lisi"></a> Andrea Lisi (Studio LegaLe Lisi)
 
 Avvocato che da ormai 20 anni si occupa di diritto applicato all'informatica, di protezione dei dati personali e di digitalizzazione. Presidente di ANORC professioni.
+
+
+
+#### <a name="longo"></a> Valentina Longo 
+
+...
 
 
 
