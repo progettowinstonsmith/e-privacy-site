@@ -24,7 +24,7 @@ RELAZIONI = 'talks'
 RELATORI = 'curricula'
 EPRIVACY_N = 'XXX'
 SESSIONI = '1M,1P,2M,2P'.split(',')
-ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo']
+ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
 PATH = 'content/2022/summer/'
 
 
@@ -568,9 +568,12 @@ def read_db(service, range, tweak_item=None, tweak_collection=None, session=None
     values = service[range]
     infos = {}
     for jj,row in enumerate(values):
+        print(jj,row)
         if jj == 0:
             HEADERS = [x.strip().lower() for x in row]
             HEADERS[0] = "_"
+            continue
+        if row[1][0]=="<":
             continue
         if len(row[1]):
             info = dict(zip(HEADERS, row))
@@ -593,32 +596,6 @@ def read_db(service, range, tweak_item=None, tweak_collection=None, session=None
         infos = tweak_collection(infos)
     return infos
 
-
-def old_read_db(service, id, range, tweak_item=None, tweak_collection=None):
-    result = service.spreadsheets().values().get(spreadsheetId=id,
-                                                 range=range).execute()
-    values = result.get('values', [])
-    infos = {}
-    if not values:
-        print('No data found.')
-    else:
-        for jj,row in enumerate(values):
-            if jj == 0:
-                HEADERS = row
-                continue
-            if len(row[0]):
-                info = dict(zip(HEADERS, row))
-                info['label'] = info['label'].lower()
-                if 'pers' in info:
-                    info['pers'] = info['pers'].lower()
-                if 'altri' in info:
-                    info['altri'] = info['altri'].lower()
-                if tweak_item:
-                    info = tweak_item(info)
-                infos[info['label'].lower()] = info
-    if tweak_collection:
-        infos = tweak_collection(infos)
-    return infos
 
 def tweak_relazioni(info):
     info['talk']=[]

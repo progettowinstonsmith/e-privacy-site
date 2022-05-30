@@ -9,7 +9,7 @@ Num: XXX
 Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
-When: 16-17 maggio
+When: 16-17 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
@@ -27,7 +27,7 @@ css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 
 ###e-privacy 2022 - summer edition
 
-Il ** 16 e 17 maggio 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
+Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
 _summer edition_**.
 
 Il tema guida della XXIX edizione di e-privacy è:
@@ -45,13 +45,13 @@ Il tema guida della XXIX edizione di e-privacy è:
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 maggio 2022 - mattina
+#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
 
-* Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>
+* Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
+10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Saluti Istituzionali</a></em></span>
 10:30|45|<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXX-interventi.html#giorio">Privacy: è l'emergenza la vera emergenza?</a></em></span>
 11:15|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXX-interventi.html#berto">Contrapposizione fra diritti fondamentali: salute, privacy e non solo</a></em></span>
@@ -60,23 +60,23 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:40|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXX-interventi.html#beltrami">World Wide People - Manifesto per un Sindacato della Rete</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="vep"></a>Giovedì 16 maggio 2022 - pomeriggio
+#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em>Apertura pomeridiana</em></span>
-15:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='1p01'></a><a href="/e-privacy-XXX-interventi.html#priolo">«Tanto non serve»</a></em></span>
+15:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='1p01'></a><a href="/e-privacy-XXX-interventi.html#priolo">Tanto non serve!</a></em></span>
 15:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#marzocchi">Duccio ( alessandro ) Marzocchi </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXX-interventi.html#marzocchi">Anonimato VS Identità nella cultura del web</a></em></span>
 15:50|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#rossi">Andrea Rossi (ANFP)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXX-interventi.html#rossi">Che valenza ha un diritto se non posso individuare il responsabile della sua violazione? Data retention, punto di frizione tra sicurezza e privacy</a></em></span>
 16:20|40|<span class='talk'><em>Pausa caffé</em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#sapuppo">Valentina Sapuppo (Ricercatore Indipendente)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXX-interventi.html#sapuppo">Dal cubo di Rubik al cubo di Necker: non tutto ciٍ che è legale è lecito.</a></em></span>
-17:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXX-interventi.html#gargano">La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?</a></em></span>
-18:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXX-interventi.html#alagna">Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?</a></em></span>
+17:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a> e <a href="/e-privacy-XXX-relatori.html#dellacostanza">Paolo Della Costanza </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXX-interventi.html#gargano">La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?</a></em></span>
+18:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXX-interventi.html#alagna">Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="sam"></a>Venerdì 17 maggio 2022 - mattina
+#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>
 
@@ -84,33 +84,33 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura seconda giornata</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#aterno">Stefano Aterno </a><br/><em><a name='2m01'></a><a href="/e-privacy-XXX-interventi.html#aterno">La Privacy e la Sicurezza come diritti di libertà. Perché, nello Stato di Emergenza, non bisogna sospendere i diritti. (Stefano Aterno)</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#gallus">Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021</a></em></span>
-11:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXX-interventi.html#ciurcina">MonitoraPA</a></em></span>
-11:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXX-interventi.html#lisi">Tecnologia e Privacy: mission impossible per i poveri DPO?</a></em></span>
-12:00|60|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
+10:50|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXX-interventi.html#ciurcina">MonitoraPA</a></em></span>
+11:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXX-interventi.html#lisi">Tecnologia e Privacy: mission impossible per i poveri DPO?</a></em></span>
+11:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#somma">Emmanuele Somma (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione mattina</em></span>
+15:50|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXX-interventi.html#gallus">Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021</a></em></span>
 
-#### <a name="sam"></a>Venerdì 17 maggio 2022 - pomeriggio
+#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-15:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata pomeriggio</em></span>
-15:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a><br/><em><a name='2p01'></a><a href="/e-privacy-XXX-interventi.html#farnararo">La privacy ti rende bugiardo</a></em></span>
-15:30|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#piccoli">Andrea Piccoli (D&L Network)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXX-interventi.html#piccoli">la progettazione dei trattamenti e loro valutazione utilizzando lo schema ISDP 10003:2020</a></em></span>
-16:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXX-interventi.html#winston">Archivismi</a></em></span>
+10:30|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#farnararo">La privacy ti rende bugiardo</a></em></span>
+15:00|5|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata pomeriggio</em></span>
+15:05|15|<span class='talk'><a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2p01'></a><a href="/e-privacy-XXX-interventi.html#winston">Archivismi</a></em></span>
+15:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#piccoli">Andrea Piccoli (D&L Network)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXX-interventi.html#piccoli">la progettazione dei trattamenti e loro valutazione utilizzando lo schema ISDP 10003:2020</a></em></span>
 16:20|40|<span class='talk'><em>Pausa caffé</em></span>
-17:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXX-interventi.html#vieri">Privacy in bello, privacy ad bellum</a></em></span>
-17:30|60|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#sindaco">Sara Sindaco (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#capoluongo">Anna Capoluongo (D&L NET)</a> e <a href="/e-privacy-XXX-relatori.html#denicola">Valentina De Nicola (D&L NET)</a><br/><em><a name='2p05'></a><a href="/e-privacy-XXX-interventi.html#gazzella">Debugging legale degli algoritmi: necessità o virtù?</a></em></span>
-18:30|10|<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a><br/><em><a name='2p06'></a><a href="/e-privacy-XXX-interventi.html#calamari2">I prossimi 30 E-Privacy</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXX-interventi.html#vieri">Privacy in bello, privacy ad bellum</a></em></span>
+17:20|60|<span class='talk'><a href="/e-privacy-XXX-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#sindaco">Sara Sindaco (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#capoluongo">Anna Capoluongo (D&L NET)</a> e <a href="/e-privacy-XXX-relatori.html#denicola">Valentina De Nicola (D&L NET)</a><br/><em><a name='2p05'></a><a href="/e-privacy-XXX-interventi.html#gazzella">Debugging legale degli algoritmi: necessità o virtù?</a></em></span>
+18:20|10|<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a><br/><em><a name='2p06'></a><a href="/e-privacy-XXX-interventi.html#calamari2">I prossimi 30 E-Privacy</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="alagna"></a> Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?<a href="/e-privacy-XXX-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a>*
+*<a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a>*
 
 Durante l’ultimo biennio abbiamo assistito ad un melting pot di crisi, tensioni, emergenze socio-sanitarie e come se non bastasse il recente conflitto Russo-Ucraino. Le particolarità dei singoli periodi e delle situazioni hanno certamente comportato decisioni e valutazioni spesso affrettate e non del tutto ponderate, ma ponderate rispetto a cosa? &#13;&#10;Nel mondo del diritto, oggi sempre più indissolubilmente legato allo sviluppo tecnologico, ciٍ ha comportato varie compressioni del tanto bistrattato e perché no, anche, spesso abusato (ndr. triste realtà) “right to privacy”. Ma a cosa corrisponde oggi questo complesso di diritti? I più potranno dire che, almeno nel territorio unionale, Privacy oggi è uguale a GDPR. Il nuovo regolamento che tante imprese e professionisti hanno, alcuni, studiato con passione e in ottica di continuità e opportunità per il proprio business, altri, malvolentieri applicato, ravvisando nelle sue prescrizioni beghe, noie, spese per la compliance e nomine di ulteriori professionisti in azienda, come i tanto cari DPO.&#13;&#10;Ma come brillantemente scriveva il maestro drammaturgo agrigentino, Cosى è, se vi pare. &#13;&#10;Il GDPR c’è, la Privacy - fortunatamente - c’è e con giusto riguardo bisogna tutelarla.&#13;&#10;Ma tornando agli eventi del presente biennio, la pandemia da Covid-19 ha sicuramente rappresentato uno scoglio molto forte per la tutela della privacy e, per maggiore precisione, tutela e protezione dei dati personali. Abbiamo assistito a molte compressioni e chiare rinunce in tal senso, ma come giustificarle? Basta davvero porre come ratio il raggiungimento della “dimostrata pubblica utilità”? Possiamo davvero affermare che attività, come il “proctoring”, poste in essere da alcuni atenei italiani per il controllo degli studenti  universitari durante gli esami di profitto, siano lecite? Il Garante Italiano (fortunatamente, ci si perdoni la ripetizione dell’avverbio) nel settembre scorso ha espresso il proprio parere su un noto ateneo Meneghino e comminato una dura sanzione.&#13;&#10;Proprio dall’analisi di quanto espresso dall’authority muoverà il nostro ragionamento. Ci interrogheremo, da professionisti del settore, su quanto sia lecito comprime e su quali misure sia necessario porre in essere, perché è, forse, proprio qui che si gioca la partita. Porre in essere un complesso di misure tecniche e organizzative atte a non comprimere poi cosى tanto questo fondamentale diritto degli interessati. Ma ciٍ non basta; faremo anche qualcosa di più. Rifletteremo su cosa possa comportare tale compressione, su quali conseguenze potrebbero manifestarsi qualora ci si “dimenticasse” di attuare quanto il GDPR e le “ss.mm.ii.” prevedono. Analizzeremo le recenti brecce e attacchi, con obbiettivo  “la distruzione, la perdita, la modifica, la divulgazione non autorizzata” di dati personali, che hanno colpito recentemente imprese pubbliche e private per individuare un preciso perimetro di rischio ed essere consapevoli a cosa si puٍ andare in contro.
 
@@ -134,19 +134,19 @@ I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del citta
 
 
 #### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>*
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a>*
 
 TBA
 
 
 #### <a name="ciurcina"></a> MonitoraPA<a href="/e-privacy-XXX-programma.html#2m03">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>*
+*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
 
 L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispetto all’uso di Google Analytics.&#13;&#10;Alcune settimane orsono un gruppo di hacker ha lanciato il progetto MonitoraPA: ha individuato quasi 8.000 pubbliche amministrazioni italiane che usano Google Analytics ed ha inviato una comunicazione ai DPO degli enti.&#13;&#10;Il progetto ha ottenuto buoni risultati in termini di visibilità ed efficacia.&#13;&#10;Si propongono considerazioni legali (e non solo) sul progetto MonitoraPA.
 
 
-#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2p01">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a>*
+#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a>*
 
 Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua VPN puoi andare dove ti pare….&#13;&#10;&#13;&#10;Se ti chiedono:&#13;&#10;Cosa hai fatto nella tua cameretta?&#13;&#10;Su che sito sei andato?&#13;&#10;&#13;&#10;Puoi rispondere quello che vuoi. Puoi anche mentire.&#13;&#10;&#13;&#10;Analizzeremo insieme pro e contro della privacy, scoprendo forse che non è tutto oro quello che luccica, che forse la privacy non è un'arma che abbiamo,a una pistola che ci stiamo puntando alla testa da soli.&#13;&#10;
 
@@ -157,14 +157,14 @@ Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua
 Una breve panoramica nel settore della sicurezza delle informazioni: dai tradizionali standard ISO all'applicazione nei sistemi complessi di Intelligenza Artificiale
 
 
-#### <a name="gallus"></a> Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+#### <a name="gallus"></a> Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021<a href="/e-privacy-XXX-programma.html#2p03">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
 
 Il DL 139/2021 ha modificato in maniera sostanziale la diffusione dei dati personali da parte delle pubbliche amministrazioni (e non solo). Se prima era tassativamente necessaria una norma di legge (o, nei casi previsti dalla legge, di regolamento) perché fosse lecito diffondere dati personali (ad esempio pubblicare un curriculum), ora è sufficiente un "atto amministrativo generale", o addirittura la semplice sussistenza di un interesse pubblico.Si potrebbe passare dalla attuale situazione di uniformità, se non altro tendenziale, a una condizione nella quale, almeno in teoria, le regole possono cambiare da ente a ente, e da comune a comune. Vedremo quali siano i limiti di questa apparente deregulation, e quali le contromisure.
 
 
 #### <a name="gargano"></a> La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?<a href="/e-privacy-XXX-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a>*
+*<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a> e <a href="/e-privacy-XXX-relatori.html#dellacostanza">Paolo Della Costanza </a>*
 
 La pandemia è finita (forse?) ma cosa ne sarà delle misure emergenziali che hanno fatto diventare la giustizia sempre più digitale? La giustizia durante il Covid non si è fermata, sia grazie ad un processo telematico sempre più utilizzato ma forse non eccessivamente implementato nelle infrastrutture e sia grazie a strumenti di videoconferenza che hanno aiutato l’avvocato a non perdere i rapporti con il cliente.&#13;&#10;Ma qual è stato il prezzo da pagare? L’avvocato telematico è sempre stato cosى attento alla privacy o anche in quel campo si è scelto di rinunciare a qualcosa per tenere vivi i contatti con i clienti utilizzando sistemi non sicuri?&#13;&#10;E le infrastrutture della giustizia hanno retto? Tanti aggiornamenti e molti disagi sono serviti a migliorare la giustizia?&#13;&#10;Durante la relazione verranno analizzate le criticità vissute nel mondo giustizia nei due anni di pandemia, analizzando l’impatto degli strumenti tecnologi nel mondo giustizia e l’attenzione degli operatori alla privacy nell’utilizzo di questi strumenti. Proveremo dunque a rispondere ad una domanda: Il bilancio è in positivo o in negativo?
 
@@ -202,7 +202,7 @@ I principi del GDPR impongono una attenta progettazione dei trattamenti e delle 
 #### <a name="priolo"></a> «Tanto non serve»<a href="/e-privacy-XXX-programma.html#1p01">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>*
 
-TBA
+Se siamo pronti a sospendere la privacy durante il diritto cd. emergenziale, cosa faremo quando il Metaverso sarà al suo massimo splendore? Far retrocedere la protezione dei dati personali nel mondo dei soli bit costituisce un rischio altissimo per la tutela della persona e delle democrazie. Proverò ad elencare i pericoli maggiori legati al trasferimento della persona digitale nella dimensione "meta".
 
 
 #### <a name="rossi"></a> Che valenza ha un diritto se non posso individuare il responsabile della sua violazione? Data retention, punto di frizione tra sicurezza e privacy<a href="/e-privacy-XXX-programma.html#1p03">⇧</a>
@@ -235,7 +235,7 @@ Verranno affrontati gli aspetti legati a privacy, big data, ricerca scientifica 
 Privacy in bello, privacy ad bellum&#13;&#10;Pare indelicato e irrilevante parlare di privacy in una guerra. Specie di questi tempi. Ma invece a parere dell'autore proprio di questi tempi occorre prestare la massima attenzione al sacro e doveroso rispetto della privacy. SPECIE DEI DEBOLI. La posizione sulle varie guerre che ci hanno coinvolto negli ultimi VENTI ANNI puo' essere varia. Di certo non dobbiamo trascurare il possibile danno alla vita dei civili che puo' derivare dall'essere ripresi, magari schedati, e pubblicati su internet. Dove nulla e' mai realmente cancellato. E dove la foto e il filmato vive per sempre. Ricordate che proprio questo autore ha gia' parlato e rilasciato codice per realizzare modelli matematici per riconoscimento facciale con circa 20 immagini. Ovvero molto meno di pochi secondi di trasmissione.&#13;&#10;
 
 
-#### <a name="winston"></a> Archivismi<a href="/e-privacy-XXX-programma.html#2p03">⇧</a>
+#### <a name="winston"></a> Archivismi<a href="/e-privacy-XXX-programma.html#2p01">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
 
 TBA
@@ -322,13 +322,19 @@ Marco Alagna ha conseguito la laurea magistrale in Giurisprudenza, con una tesi 
 
 #### <a name="aterno"></a> Stefano Aterno 
 
-Bio
+Nato a Roma, laureato presso l’Università La Sapienza, iscritto all’albo degli avvocati di Roma dal 1998. Avvocato Cassazionista, professore presso l’Università di Foggia, Università di Roma TRE e presso la LUISS (Libera università internazionale degli studi sociali Guido Carli). Esperto di diritto penale dell’informatica e di diritto delle nuove tecnologie, pratica la professione in queste materie da più di 23 anni. Certificato: UNI 11697:2017 Data Protection Officer, certificato ISO 27001 sicurezza dei dati e delle informazioni, CIFI (Certified Information Forensics Investigator, by IISFA). Dal 1996 al 2000 ha svolto l’attività di Magistrato onorario presso il Tribunale di Roma. Svolge attività di contenzioso legale e di consulenza nella materia del diritto delle nuove tecnologie, data protection e diritto penale dell’informatica.  È Responsabile della protezione dei dati (DPO) di alcune società importanti a livello nazionale e internazionale. È docente in Master universitari nelle materie sopra indicate Dal 2005 ad oggi ha pubblicato alcuni libri e numerosi articoli scientifici in tema di cybercrime, indagini informatiche, computer forensics e Data Protection. L’ultimo libro pubblicato è, “Sicurezza informatica, aspetti giuridici e tecnici, 2022, per le edizioni Pacini Giuridica” È Socio dello Studio E- Lex.
 
 
 
 #### <a name="beltrami"></a> Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)
 
 Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#10;Laureato in [astro]fisica all'Università degli Studi di Milano nel 1969, è stato per 8 anni consulente alla Syntax SpA (Olivetti) nella progettazione e sviluppo di software di sistema.&#13;&#10;Per altrettanti anni ha coordinato in Italtel SpA (STET) l'attività di assistenza agli utenti R&S, nell'area dei sistemi distribuiti, dei packages, della telematica e dei servizi "infocenter".&#13;&#10;Dal 1985 alla Logos Progetti SpA, software house poi confluita nel Gruppo Olivetti, ha coordinato progetti di ricerca in ambito europeo e lo sviluppo di diverse applicazioni telematiche; quindi ha contribuito al disegno di una linea di prodotti software per banche dati e gestione documentale, che quindi ha promosso, come responsabile aziendale del supporto commerciale e marketing.&#13;&#10;&#13;&#10;Membro delle associazioni AICA, ClubTI Milano (ex), Informatici senza Frontiere, Copernicani (Italia) e ACM (USA) e partecipe alla Fondazione RCM (Rete Civica di Milano), si è anche interessato agli aspetti sociali delle tecnologie dell'informazione e della comunicazione, senza trascurare fenomeni "tecno-anarchici" e "cyberpunk".&#13;&#10;&#13;&#10;In pensione dal 2002, continua ad occuparsi di informatica, con la ricerca e sviluppo "amatoriale" di sistemi di assistenza a comunità d'affari in rete, basati su originali architetture e tecnologie informative/cognitive; i risultati attesi sono una piattaforma "Community Business Server"​ e una teoria sulla conoscenza/coscienza collettiva emergente dal suo funzionamento in Internet.&#13;&#10;&#13;&#10;Ha usato tale piattaforma nel progetto "condomotico" eCondominium vincitore del Premio Perotto 2010.&#13;&#10;&#13;&#10;Dal 2011 la piattaforma è evoluta al cloud​ computing, stressando il concetto di collaborazione, con rivoluzionarie architetture applicative "Hyper-Business"​ e "Hyper-Enterprise".&#13;&#10;Quindi il progetto eCondominium è evoluto da "Social Housing" a "Global Housing", con il nome Hyper-Condo, virtualizzando anche il citofono sullo Smarphone.&#13;&#10;&#13;&#10;Oltre la "condomotica" dal 2020 la pandemia suggerisce come snellire e decongestionare le città, per fronteggiare tali e tanti “cigni neri”, adottando il paradigma “olonico-virtuale” per una SmartCity rinominata HoloCity.&#13;&#10;Il progetto in corso prevede Olismo nello Spazio fisico e nel Ciberspazio informatico (Infosfera), per realizzare una Olarchia civica e una Olotopia urbana, atteso il principio olografico per cui tutto il mondo ci sta già (virtualmente) in tasca (dello smartphone).
+
+
+
+#### <a name="bonavita"></a> Simone Bonavita (ISLC - Information Society Law Center)
+
+Simone Bonavita è Professore a contratto in trattamento dei dati sensibili presso l’Università degli Studi di Milano per l’anno accademico 2023/2022, Keystaff del progetto di eccellenza europea Jean Monnet “European Citizens’ online fundamental rights, data governance and cybersecurity in the Information Society: an European legal framework” (#DATAGOV)” e cultore della materia di Informatica Giuridica (Prof. G. Ziccardi) presso la medesima Università, all’interno della quale svolge oggi attività didattica. Docente dei corsi di perfezionamento in “Data Protection & Data Governance”, “Computer Forensics ed indagini digitali” e “Coding for lawyer & legal Tech” dell’Università degli Studi di Milano, si è formato prima presso l’Università degli Studi di Milano, laureandosi in scienze giuridiche ed in giurisprudenza con tesi specialistiche in materia di privacy e nuove tecnologie e perfezionandosi in indagini digitali. Successivamente presso l’ALMA Mater - Università di Bologna ha conseguito il Master in Diritto delle nuove tecnologie ed Informatica Giuridica ed il Dottorato di ricerca in Diritto delle nuove tecnologie ed Informatica Giuridica (CIRSFID) sotto la guida del prof. G. Sartor. Nel corso del 2017 è stato Visiting all’European University Institute (EUI) di Firenze. Dal 2018 è research all’Information Society Law Center dell’Università degli Studi di Milano. Svolge la propria attività professionale quale Avvocato del foro di Milano presso lo studio legale Perani Pozzi Associati. La sua attività professionale, principalmente stragiudiziale, si concentra essenzialmente nel settore del diritto delle nuove tecnologie ed in particolare nella data governance. Assiste quotidianamente importati gruppi nazionali ed internazionali, istituti di credito, TELCO, agenzie di comunicazione ed agenzie reputazionali. Presente come relatore a convegni e seminari, è autore di numerose pubblicazioni aventi ad oggetto il diritto delle nuove tecnologie, il trattamento dei dati personali e la responsabilità degli ISP e profili giuridici di comunicazione digitale.
 
 
 
@@ -347,6 +353,12 @@ Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diri
 #### <a name="denicola"></a> Valentina De Nicola (D&L NET)
 
 Avvocata e consulente legale d’impresa, ha studiato presso l’Università degli Studi di Padova, ed è iscritta all’Albo degli Avvocati di Venezia dal 2021.&#13;&#10;Dopo la laurea è stata privacy consultant presso una primaria società di consulenza informatica, sviluppando progetti di compliance per società private e pubbliche amministrazioni; è certificata privacy specialist secondo la norma UNI ISO 11697:2017 presso AICQ SICEV, ed ha conseguito il master “Responsabile della protezione dei dati: Data Protection Officer e Privacy Expert” presso l’Università Roma Tre con una tesi in materia di Intelligenza Artiticiale titolata “Discriminazione Algoritmica: Problemi e Prospettive”.&#13;&#10;Collabora con istituti di formazione ed è promotrice del progetto “Avvicinamento alla Data Protection” per gli studenti Scuole Secondarie di Secondo Grado nella Provincia di Venezia.&#13;&#10;È collaboratrice dello Studio Porto 4 di Venezia, dove svolge la propria attività professionale nell’ambito del diritto delle nuove tecnologie, della data protection e nel diritto contrattuale d’impresa.
+
+
+
+#### <a name="dellacostanza"></a> Paolo Della Costanza 
+
+...
 
 
 
@@ -400,7 +412,7 @@ Chief Digital Officer, Professionista della digitalizzazione e privacy, valutato
 
 #### <a name="naif"></a> Fabio Pietrosanti (Hermes Center)
 
-Bio
+Fabio Pietrosanti frequenta, con il soprannome “naif” l’underground digitale italiano dal 1995 e si occupa professionalmente di digital security dal 1998. Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, è attivo in diversi progetti per la diffusione di consapevolezza, strumenti e tecnologie a supporto della libertà di espressione e della trasparenza. Membro di Transparency International Italia, gestore di nodi di anonimato Tor e di pubblicazione anonima Tor2web, è fra i fondatori del progetto di Whistleblowing GlobaLeaks, oggi in uso tanto nel mondo del giornalismo, dell’attivismo quanto nella pubblica amministrazione con finalità di contrasto della corruzione. Si occupa di innovazione tecnologica, progettazione software nell’ambito del whistleblowing, della tutela della riservatezza delle informazioni e dell’anonimato digitale. Veterano del mondo dell’hacking e del software libero, ha partecipato a progetti e community quali sikurezza.org, s0ftpj, Progetto Winston Smith, Metro Olografix. Professionalmente ha avuto esperienze come network security manager, senior security advisor, imprenditore e CTO di una startup impegnata nello sviluppo di sistemi di cifratura delle telefonate cellulari.
 
 
 
@@ -425,12 +437,6 @@ Componente del Garante per la protezione dei dati personali Avvocato, giornalist
 #### <a name="sindaco"></a> Sara Sindaco (D&L NET)
 
 Avvocata del foro di Milano e assisto da oltre 12 anni, nel settore di diritto del lavoro e societario, persone fisiche e imprese, organizzazioni sindacali, enti pubblici, associazioni, sia in ambito extragiudiziale, che nei Tribunali e nelle Corti di Appello. Socia AGI “Avvocati Giuslavoristi Italiani” dal 2021.&#13;&#10;Studia e approfondisce con attuale interesse le tematiche di diritto connesso alle intelligenze artificiali e alle possibili implicazioni del digitale nel diritto del lavoro e gestione dei dati sulle risorse umane.&#13;&#10;Sul piano formativo, ha studiato legge all’Università Bocconi di Milano, specializzandosi in diritto dell’impresa e del lavoro nonché in proprietà intellettuale e tutela dei prodotti (International Property Law, Traditional Knowledge), frequentando nel 2008 l’ultimo anno di studi in Australia, Sydney (University of New South Wales), con laure nel 2009 con lode.&#13;&#10;Negli anni ha approfondito tematiche di statistica economica a Boston (Babson College, 2006). Ha svolto dei seminari a cura della WIPO (World Intellectual Property Organization) tra il 2009 e il 2013, a Sofia e Bangkok. Ha frequentato presso la Statale di Milano la Scuola di Specializzazione per le Professioni Legali (master post laurea) conseguendo il diploma nel 2011.
-
-
-
-#### <a name="winston"></a> Winston Smith (Progetto Winston Smith)
-
-Bio
 
 
 

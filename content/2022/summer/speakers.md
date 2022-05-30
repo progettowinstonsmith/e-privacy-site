@@ -9,7 +9,7 @@ Num: XXX
 Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
-When: 16-17 maggio
+When: 16-17 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
@@ -24,6 +24,10 @@ MediaPartner: infomedia,aneddotica
 
 
 ## <a name="speakers"></a>I moderatori
+
+### <a name='winston'></a>Winston Smith
+
+Chi è Winston Smith?
 
 ### <a name='berto'></a>Rebecca Berto
 
@@ -102,13 +106,19 @@ Marco Alagna ha conseguito la laurea magistrale in Giurisprudenza, con una tesi 
 
 #### <a name="aterno"></a> Stefano Aterno 
 
-Bio
+Nato a Roma, laureato presso l’Università La Sapienza, iscritto all’albo degli avvocati di Roma dal 1998. Avvocato Cassazionista, professore presso l’Università di Foggia, Università di Roma TRE e presso la LUISS (Libera università internazionale degli studi sociali Guido Carli). Esperto di diritto penale dell’informatica e di diritto delle nuove tecnologie, pratica la professione in queste materie da più di 23 anni. Certificato: UNI 11697:2017 Data Protection Officer, certificato ISO 27001 sicurezza dei dati e delle informazioni, CIFI (Certified Information Forensics Investigator, by IISFA). Dal 1996 al 2000 ha svolto l’attività di Magistrato onorario presso il Tribunale di Roma. Svolge attività di contenzioso legale e di consulenza nella materia del diritto delle nuove tecnologie, data protection e diritto penale dell’informatica.  È Responsabile della protezione dei dati (DPO) di alcune società importanti a livello nazionale e internazionale. È docente in Master universitari nelle materie sopra indicate Dal 2005 ad oggi ha pubblicato alcuni libri e numerosi articoli scientifici in tema di cybercrime, indagini informatiche, computer forensics e Data Protection. L’ultimo libro pubblicato è, “Sicurezza informatica, aspetti giuridici e tecnici, 2022, per le edizioni Pacini Giuridica” È Socio dello Studio E- Lex.
 
 
 
 #### <a name="beltrami"></a> Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)
 
 Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#10;Laureato in [astro]fisica all'Università degli Studi di Milano nel 1969, è stato per 8 anni consulente alla Syntax SpA (Olivetti) nella progettazione e sviluppo di software di sistema.&#13;&#10;Per altrettanti anni ha coordinato in Italtel SpA (STET) l'attività di assistenza agli utenti R&S, nell'area dei sistemi distribuiti, dei packages, della telematica e dei servizi "infocenter".&#13;&#10;Dal 1985 alla Logos Progetti SpA, software house poi confluita nel Gruppo Olivetti, ha coordinato progetti di ricerca in ambito europeo e lo sviluppo di diverse applicazioni telematiche; quindi ha contribuito al disegno di una linea di prodotti software per banche dati e gestione documentale, che quindi ha promosso, come responsabile aziendale del supporto commerciale e marketing.&#13;&#10;&#13;&#10;Membro delle associazioni AICA, ClubTI Milano (ex), Informatici senza Frontiere, Copernicani (Italia) e ACM (USA) e partecipe alla Fondazione RCM (Rete Civica di Milano), si è anche interessato agli aspetti sociali delle tecnologie dell'informazione e della comunicazione, senza trascurare fenomeni "tecno-anarchici" e "cyberpunk".&#13;&#10;&#13;&#10;In pensione dal 2002, continua ad occuparsi di informatica, con la ricerca e sviluppo "amatoriale" di sistemi di assistenza a comunità d'affari in rete, basati su originali architetture e tecnologie informative/cognitive; i risultati attesi sono una piattaforma "Community Business Server"​ e una teoria sulla conoscenza/coscienza collettiva emergente dal suo funzionamento in Internet.&#13;&#10;&#13;&#10;Ha usato tale piattaforma nel progetto "condomotico" eCondominium vincitore del Premio Perotto 2010.&#13;&#10;&#13;&#10;Dal 2011 la piattaforma è evoluta al cloud​ computing, stressando il concetto di collaborazione, con rivoluzionarie architetture applicative "Hyper-Business"​ e "Hyper-Enterprise".&#13;&#10;Quindi il progetto eCondominium è evoluto da "Social Housing" a "Global Housing", con il nome Hyper-Condo, virtualizzando anche il citofono sullo Smarphone.&#13;&#10;&#13;&#10;Oltre la "condomotica" dal 2020 la pandemia suggerisce come snellire e decongestionare le città, per fronteggiare tali e tanti “cigni neri”, adottando il paradigma “olonico-virtuale” per una SmartCity rinominata HoloCity.&#13;&#10;Il progetto in corso prevede Olismo nello Spazio fisico e nel Ciberspazio informatico (Infosfera), per realizzare una Olarchia civica e una Olotopia urbana, atteso il principio olografico per cui tutto il mondo ci sta già (virtualmente) in tasca (dello smartphone).
+
+
+
+#### <a name="bonavita"></a> Simone Bonavita (ISLC - Information Society Law Center)
+
+Simone Bonavita è Professore a contratto in trattamento dei dati sensibili presso l’Università degli Studi di Milano per l’anno accademico 2023/2022, Keystaff del progetto di eccellenza europea Jean Monnet “European Citizens’ online fundamental rights, data governance and cybersecurity in the Information Society: an European legal framework” (#DATAGOV)” e cultore della materia di Informatica Giuridica (Prof. G. Ziccardi) presso la medesima Università, all’interno della quale svolge oggi attività didattica. Docente dei corsi di perfezionamento in “Data Protection & Data Governance”, “Computer Forensics ed indagini digitali” e “Coding for lawyer & legal Tech” dell’Università degli Studi di Milano, si è formato prima presso l’Università degli Studi di Milano, laureandosi in scienze giuridiche ed in giurisprudenza con tesi specialistiche in materia di privacy e nuove tecnologie e perfezionandosi in indagini digitali. Successivamente presso l’ALMA Mater - Università di Bologna ha conseguito il Master in Diritto delle nuove tecnologie ed Informatica Giuridica ed il Dottorato di ricerca in Diritto delle nuove tecnologie ed Informatica Giuridica (CIRSFID) sotto la guida del prof. G. Sartor. Nel corso del 2017 è stato Visiting all’European University Institute (EUI) di Firenze. Dal 2018 è research all’Information Society Law Center dell’Università degli Studi di Milano. Svolge la propria attività professionale quale Avvocato del foro di Milano presso lo studio legale Perani Pozzi Associati. La sua attività professionale, principalmente stragiudiziale, si concentra essenzialmente nel settore del diritto delle nuove tecnologie ed in particolare nella data governance. Assiste quotidianamente importati gruppi nazionali ed internazionali, istituti di credito, TELCO, agenzie di comunicazione ed agenzie reputazionali. Presente come relatore a convegni e seminari, è autore di numerose pubblicazioni aventi ad oggetto il diritto delle nuove tecnologie, il trattamento dei dati personali e la responsabilità degli ISP e profili giuridici di comunicazione digitale.
 
 
 
@@ -127,6 +137,12 @@ Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diri
 #### <a name="denicola"></a> Valentina De Nicola (D&L NET)
 
 Avvocata e consulente legale d’impresa, ha studiato presso l’Università degli Studi di Padova, ed è iscritta all’Albo degli Avvocati di Venezia dal 2021.&#13;&#10;Dopo la laurea è stata privacy consultant presso una primaria società di consulenza informatica, sviluppando progetti di compliance per società private e pubbliche amministrazioni; è certificata privacy specialist secondo la norma UNI ISO 11697:2017 presso AICQ SICEV, ed ha conseguito il master “Responsabile della protezione dei dati: Data Protection Officer e Privacy Expert” presso l’Università Roma Tre con una tesi in materia di Intelligenza Artiticiale titolata “Discriminazione Algoritmica: Problemi e Prospettive”.&#13;&#10;Collabora con istituti di formazione ed è promotrice del progetto “Avvicinamento alla Data Protection” per gli studenti Scuole Secondarie di Secondo Grado nella Provincia di Venezia.&#13;&#10;È collaboratrice dello Studio Porto 4 di Venezia, dove svolge la propria attività professionale nell’ambito del diritto delle nuove tecnologie, della data protection e nel diritto contrattuale d’impresa.
+
+
+
+#### <a name="dellacostanza"></a> Paolo Della Costanza 
+
+...
 
 
 
@@ -180,7 +196,7 @@ Chief Digital Officer, Professionista della digitalizzazione e privacy, valutato
 
 #### <a name="naif"></a> Fabio Pietrosanti (Hermes Center)
 
-Bio
+Fabio Pietrosanti frequenta, con il soprannome “naif” l’underground digitale italiano dal 1995 e si occupa professionalmente di digital security dal 1998. Presidente e co-fondatore del Centro Hermes per la Trasparenza e i Diritti Umani Digitali, è attivo in diversi progetti per la diffusione di consapevolezza, strumenti e tecnologie a supporto della libertà di espressione e della trasparenza. Membro di Transparency International Italia, gestore di nodi di anonimato Tor e di pubblicazione anonima Tor2web, è fra i fondatori del progetto di Whistleblowing GlobaLeaks, oggi in uso tanto nel mondo del giornalismo, dell’attivismo quanto nella pubblica amministrazione con finalità di contrasto della corruzione. Si occupa di innovazione tecnologica, progettazione software nell’ambito del whistleblowing, della tutela della riservatezza delle informazioni e dell’anonimato digitale. Veterano del mondo dell’hacking e del software libero, ha partecipato a progetti e community quali sikurezza.org, s0ftpj, Progetto Winston Smith, Metro Olografix. Professionalmente ha avuto esperienze come network security manager, senior security advisor, imprenditore e CTO di una startup impegnata nello sviluppo di sistemi di cifratura delle telefonate cellulari.
 
 
 
@@ -205,12 +221,6 @@ Componente del Garante per la protezione dei dati personali Avvocato, giornalist
 #### <a name="sindaco"></a> Sara Sindaco (D&L NET)
 
 Avvocata del foro di Milano e assisto da oltre 12 anni, nel settore di diritto del lavoro e societario, persone fisiche e imprese, organizzazioni sindacali, enti pubblici, associazioni, sia in ambito extragiudiziale, che nei Tribunali e nelle Corti di Appello. Socia AGI “Avvocati Giuslavoristi Italiani” dal 2021.&#13;&#10;Studia e approfondisce con attuale interesse le tematiche di diritto connesso alle intelligenze artificiali e alle possibili implicazioni del digitale nel diritto del lavoro e gestione dei dati sulle risorse umane.&#13;&#10;Sul piano formativo, ha studiato legge all’Università Bocconi di Milano, specializzandosi in diritto dell’impresa e del lavoro nonché in proprietà intellettuale e tutela dei prodotti (International Property Law, Traditional Knowledge), frequentando nel 2008 l’ultimo anno di studi in Australia, Sydney (University of New South Wales), con laure nel 2009 con lode.&#13;&#10;Negli anni ha approfondito tematiche di statistica economica a Boston (Babson College, 2006). Ha svolto dei seminari a cura della WIPO (World Intellectual Property Organization) tra il 2009 e il 2013, a Sofia e Bangkok. Ha frequentato presso la Statale di Milano la Scuola di Specializzazione per le Professioni Legali (master post laurea) conseguendo il diploma nel 2011.
-
-
-
-#### <a name="winston"></a> Winston Smith (Progetto Winston Smith)
-
-Bio
 
 
 

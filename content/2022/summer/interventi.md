@@ -9,7 +9,7 @@ Num: XXX
 Year: 2022
 City: FIRENZE | RETE
 Where: Firenze & Videoconferenza & Streaming
-When: 16-17 maggio
+When: 16-17 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
@@ -25,7 +25,7 @@ MediaPartner: infomedia,aneddotica
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="alagna"></a> Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?<a href="/e-privacy-XXX-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a>*
+*<a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a>*
 
 Durante l’ultimo biennio abbiamo assistito ad un melting pot di crisi, tensioni, emergenze socio-sanitarie e come se non bastasse il recente conflitto Russo-Ucraino. Le particolarità dei singoli periodi e delle situazioni hanno certamente comportato decisioni e valutazioni spesso affrettate e non del tutto ponderate, ma ponderate rispetto a cosa? &#13;&#10;Nel mondo del diritto, oggi sempre più indissolubilmente legato allo sviluppo tecnologico, ciٍ ha comportato varie compressioni del tanto bistrattato e perché no, anche, spesso abusato (ndr. triste realtà) “right to privacy”. Ma a cosa corrisponde oggi questo complesso di diritti? I più potranno dire che, almeno nel territorio unionale, Privacy oggi è uguale a GDPR. Il nuovo regolamento che tante imprese e professionisti hanno, alcuni, studiato con passione e in ottica di continuità e opportunità per il proprio business, altri, malvolentieri applicato, ravvisando nelle sue prescrizioni beghe, noie, spese per la compliance e nomine di ulteriori professionisti in azienda, come i tanto cari DPO.&#13;&#10;Ma come brillantemente scriveva il maestro drammaturgo agrigentino, Cosى è, se vi pare. &#13;&#10;Il GDPR c’è, la Privacy - fortunatamente - c’è e con giusto riguardo bisogna tutelarla.&#13;&#10;Ma tornando agli eventi del presente biennio, la pandemia da Covid-19 ha sicuramente rappresentato uno scoglio molto forte per la tutela della privacy e, per maggiore precisione, tutela e protezione dei dati personali. Abbiamo assistito a molte compressioni e chiare rinunce in tal senso, ma come giustificarle? Basta davvero porre come ratio il raggiungimento della “dimostrata pubblica utilità”? Possiamo davvero affermare che attività, come il “proctoring”, poste in essere da alcuni atenei italiani per il controllo degli studenti  universitari durante gli esami di profitto, siano lecite? Il Garante Italiano (fortunatamente, ci si perdoni la ripetizione dell’avverbio) nel settembre scorso ha espresso il proprio parere su un noto ateneo Meneghino e comminato una dura sanzione.&#13;&#10;Proprio dall’analisi di quanto espresso dall’authority muoverà il nostro ragionamento. Ci interrogheremo, da professionisti del settore, su quanto sia lecito comprime e su quali misure sia necessario porre in essere, perché è, forse, proprio qui che si gioca la partita. Porre in essere un complesso di misure tecniche e organizzative atte a non comprimere poi cosى tanto questo fondamentale diritto degli interessati. Ma ciٍ non basta; faremo anche qualcosa di più. Rifletteremo su cosa possa comportare tale compressione, su quali conseguenze potrebbero manifestarsi qualora ci si “dimenticasse” di attuare quanto il GDPR e le “ss.mm.ii.” prevedono. Analizzeremo le recenti brecce e attacchi, con obbiettivo  “la distruzione, la perdita, la modifica, la divulgazione non autorizzata” di dati personali, che hanno colpito recentemente imprese pubbliche e private per individuare un preciso perimetro di rischio ed essere consapevoli a cosa si puٍ andare in contro.
 
@@ -49,19 +49,19 @@ I diritti fondamentali dovrebbero essere dei forti compagni di viaggio del citta
 
 
 #### <a name="calamari2"></a> I prossimi 30 E-Privacy<a href="/e-privacy-XXX-programma.html#2p06">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca (Lord) Calamari (Progetto Winston Smith)</a>*
+*<a href="/e-privacy-XXX-relatori.html#calamari">Marco Anselmo Luca Calamari (Progetto Winston Smith)</a>*
 
 TBA
 
 
 #### <a name="ciurcina"></a> MonitoraPA<a href="/e-privacy-XXX-programma.html#2m03">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>*
+*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
 
 L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispetto all’uso di Google Analytics.&#13;&#10;Alcune settimane orsono un gruppo di hacker ha lanciato il progetto MonitoraPA: ha individuato quasi 8.000 pubbliche amministrazioni italiane che usano Google Analytics ed ha inviato una comunicazione ai DPO degli enti.&#13;&#10;Il progetto ha ottenuto buoni risultati in termini di visibilità ed efficacia.&#13;&#10;Si propongono considerazioni legali (e non solo) sul progetto MonitoraPA.
 
 
-#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2p01">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a>*
+#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a>*
 
 Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua VPN puoi andare dove ti pare….&#13;&#10;&#13;&#10;Se ti chiedono:&#13;&#10;Cosa hai fatto nella tua cameretta?&#13;&#10;Su che sito sei andato?&#13;&#10;&#13;&#10;Puoi rispondere quello che vuoi. Puoi anche mentire.&#13;&#10;&#13;&#10;Analizzeremo insieme pro e contro della privacy, scoprendo forse che non è tutto oro quello che luccica, che forse la privacy non è un'arma che abbiamo,a una pistola che ci stiamo puntando alla testa da soli.&#13;&#10;
 
@@ -72,14 +72,14 @@ Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua
 Una breve panoramica nel settore della sicurezza delle informazioni: dai tradizionali standard ISO all'applicazione nei sistemi complessi di Intelligenza Artificiale
 
 
-#### <a name="gallus"></a> Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+#### <a name="gallus"></a> Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021<a href="/e-privacy-XXX-programma.html#2p03">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
 
 Il DL 139/2021 ha modificato in maniera sostanziale la diffusione dei dati personali da parte delle pubbliche amministrazioni (e non solo). Se prima era tassativamente necessaria una norma di legge (o, nei casi previsti dalla legge, di regolamento) perché fosse lecito diffondere dati personali (ad esempio pubblicare un curriculum), ora è sufficiente un "atto amministrativo generale", o addirittura la semplice sussistenza di un interesse pubblico.Si potrebbe passare dalla attuale situazione di uniformità, se non altro tendenziale, a una condizione nella quale, almeno in teoria, le regole possono cambiare da ente a ente, e da comune a comune. Vedremo quali siano i limiti di questa apparente deregulation, e quali le contromisure.
 
 
 #### <a name="gargano"></a> La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?<a href="/e-privacy-XXX-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a>*
+*<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a> e <a href="/e-privacy-XXX-relatori.html#dellacostanza">Paolo Della Costanza </a>*
 
 La pandemia è finita (forse?) ma cosa ne sarà delle misure emergenziali che hanno fatto diventare la giustizia sempre più digitale? La giustizia durante il Covid non si è fermata, sia grazie ad un processo telematico sempre più utilizzato ma forse non eccessivamente implementato nelle infrastrutture e sia grazie a strumenti di videoconferenza che hanno aiutato l’avvocato a non perdere i rapporti con il cliente.&#13;&#10;Ma qual è stato il prezzo da pagare? L’avvocato telematico è sempre stato cosى attento alla privacy o anche in quel campo si è scelto di rinunciare a qualcosa per tenere vivi i contatti con i clienti utilizzando sistemi non sicuri?&#13;&#10;E le infrastrutture della giustizia hanno retto? Tanti aggiornamenti e molti disagi sono serviti a migliorare la giustizia?&#13;&#10;Durante la relazione verranno analizzate le criticità vissute nel mondo giustizia nei due anni di pandemia, analizzando l’impatto degli strumenti tecnologi nel mondo giustizia e l’attenzione degli operatori alla privacy nell’utilizzo di questi strumenti. Proveremo dunque a rispondere ad una domanda: Il bilancio è in positivo o in negativo?
 
@@ -117,7 +117,7 @@ I principi del GDPR impongono una attenta progettazione dei trattamenti e delle 
 #### <a name="priolo"></a> «Tanto non serve»<a href="/e-privacy-XXX-programma.html#1p01">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>*
 
-TBA
+Se siamo pronti a sospendere la privacy durante il diritto cd. emergenziale, cosa faremo quando il Metaverso sarà al suo massimo splendore? Far retrocedere la protezione dei dati personali nel mondo dei soli bit costituisce un rischio altissimo per la tutela della persona e delle democrazie. Proverò ad elencare i pericoli maggiori legati al trasferimento della persona digitale nella dimensione "meta".
 
 
 #### <a name="rossi"></a> Che valenza ha un diritto se non posso individuare il responsabile della sua violazione? Data retention, punto di frizione tra sicurezza e privacy<a href="/e-privacy-XXX-programma.html#1p03">⇧</a>
@@ -150,7 +150,7 @@ Verranno affrontati gli aspetti legati a privacy, big data, ricerca scientifica 
 Privacy in bello, privacy ad bellum&#13;&#10;Pare indelicato e irrilevante parlare di privacy in una guerra. Specie di questi tempi. Ma invece a parere dell'autore proprio di questi tempi occorre prestare la massima attenzione al sacro e doveroso rispetto della privacy. SPECIE DEI DEBOLI. La posizione sulle varie guerre che ci hanno coinvolto negli ultimi VENTI ANNI puo' essere varia. Di certo non dobbiamo trascurare il possibile danno alla vita dei civili che puo' derivare dall'essere ripresi, magari schedati, e pubblicati su internet. Dove nulla e' mai realmente cancellato. E dove la foto e il filmato vive per sempre. Ricordate che proprio questo autore ha gia' parlato e rilasciato codice per realizzare modelli matematici per riconoscimento facciale con circa 20 immagini. Ovvero molto meno di pochi secondi di trasmissione.&#13;&#10;
 
 
-#### <a name="winston"></a> Archivismi<a href="/e-privacy-XXX-programma.html#2p03">⇧</a>
+#### <a name="winston"></a> Archivismi<a href="/e-privacy-XXX-programma.html#2p01">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
 
 TBA
