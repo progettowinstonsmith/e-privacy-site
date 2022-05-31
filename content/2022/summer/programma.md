@@ -36,9 +36,14 @@ Il tema guida della XXIX edizione di e-privacy è:
 <br/>
 
 
-###Iscrizioni
+###Sede ed Iscrizioni
 
-** La partecipazione al convegno è libera e gratuita  **
+** La partecipazione al convegno è libera e gratuita.  **
+<br>
+Per consentire la gestione delle presenze secondo le procedure della struttura che ci ospita, **chi desidera partecipare in presenza** dovrebbe inviare una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org), annunciando nome/i o pseudonimo/i, le giornate di partecipazione ed numero di posti che intende riservare.
+<br>
+<br>
+La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 
 
 ### <a name="programma"></a>Programma del Convegno
