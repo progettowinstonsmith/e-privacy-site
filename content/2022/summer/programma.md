@@ -51,7 +51,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Saluti Istituzionali</a></em></span>
+10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante per la protezione dei dati personali)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Saluti Istituzionali</a></em></span>
 10:30|45|<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXX-interventi.html#giorio">Privacy: è l'emergenza la vera emergenza?</a></em></span>
 11:15|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXX-interventi.html#berto">Contrapposizione fra diritti fondamentali: salute, privacy e non solo</a></em></span>
 11:45|25|<span class='talk'><a href="/e-privacy-XXX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXX-interventi.html#surbone">Gli aspetti legati a privacy, big data, ricerca scientifica e brevettabilità della vita nell’utopia contemporanea di Filoponىa</a></em></span>

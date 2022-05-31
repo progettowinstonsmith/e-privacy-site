@@ -134,7 +134,7 @@ Ogni Stato sarà chiamato a rispondere delle conseguenze di tutte quelle ingeren
 
 
 #### <a name="scorza"></a> Saluti istituzionali<a href="/e-privacy-XXX-programma.html#1m01">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
+*<a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante per la protezione dei dati personali)</a>*
 
 
 
