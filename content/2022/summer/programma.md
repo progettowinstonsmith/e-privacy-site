@@ -43,7 +43,10 @@ Il tema guida della XXX edizione di e-privacy è:
 Per consentire la gestione delle presenze secondo le procedure della struttura che ci ospita, **chi desidera partecipare in presenza** dovrebbe inviare una semplice email con oggetto <i>"Prenotazione e-privacy XXX"</i> a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Prenotazione e-privacy XXX), annunciando nome/i o pseudonimo/i, le giornate di partecipazione ed numero di posti che intende riservare.
 <br>
 <br>
-La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
+**La sede del convegno** è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
+<br>
+<br>
+**Il link per la diretta streaming**, che avverrà sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith, verrà anche pubblicato qui qualche giorno prima dell'evento.
 
 
 ### <a name="programma"></a>Programma del Convegno
