@@ -39,13 +39,13 @@ La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistich
 
 <h2>Come arrivare in aereo</h2>
 
-Nomerosi voli nazionali arrivano all'Aereoporto di Firenze Peretola, che a sua volta è collegato direttamente con la tramvia a Piazza della Stazione.
+Numerosi voli nazionali arrivano all'Aereoporto di Firenze Peretola, che a sua volta è collegato direttamente con la tramvia a Piazza della Stazione.
 
 <h2>Come arrivare in auto</h2>
 
-E' possibile parcheggiare direttamente al parcheggio sotterraneo di Piazza della Stazione, che non è particolarmente economico ma è comodissimo.
+E' possibile parcheggiare direttamente al parcheggio sotterraneo di Piazza della Stazione, che non è particolarmente economico ma è comodissimo, essendo a 20 metri dalla sede del convegno.
 <br>
-In alternativa, suggeriamo di parcheggiare in un parcheggio libero vicino ad una fermata della tramvia. Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Staione o vie limitrofe.
+In alternativa, suggeriamo di parcheggiare in un parcheggio gratutiop vicino ad una fermata della tramvia (occhio al colore delle striscie in terra). Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Staione o vie limitrofe.
 
 
 
