@@ -26,7 +26,7 @@ css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 
 <h2>Dove è la sede</h2>
 
-La sede è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4.
+La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
 <br>
 <br>
 <img src="/images/sale/ingresso_sala_infopoint_firenze.png">
@@ -39,13 +39,13 @@ La sede è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune 
 
 <h2>Come arrivare in aereo</h2>
 
-L'Aereoporto di Firenze Peretola, che è collegato direttamente con la tramvia a Piazza della Stazione.
+Nomerosi voli nazionali arrivano all'Aereoporto di Firenze Peretola, che a sua volta è collegato direttamente con la tramvia a Piazza della Stazione.
 
 <h2>Come arrivare in auto</h2>
 
 E' possibile parcheggiare direttamente al parcheggio sotterraneo di Piazza della Stazione, che non è particolarmente economico ma è comodissimo.
 <br>
-In alternativa, suggeriamo di parcheggiare in un parcheggio libero vicino ad una fermata della tramvia. Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione.
+In alternativa, suggeriamo di parcheggiare in un parcheggio libero vicino ad una fermata della tramvia. Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Staione o vie limitrofe.
 
 
 
