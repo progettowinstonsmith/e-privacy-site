@@ -19,7 +19,7 @@ next:
 Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini: 
+Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 
@@ -62,7 +62,7 @@ L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispet
 
 
 #### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a>*
+*<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a>
 
 Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua VPN puoi andare dove ti pare….&#13;&#10;&#13;&#10;Se ti chiedono:&#13;&#10;Cosa hai fatto nella tua cameretta?&#13;&#10;Su che sito sei andato?&#13;&#10;&#13;&#10;Puoi rispondere quello che vuoi. Puoi anche mentire.&#13;&#10;&#13;&#10;Analizzeremo insieme pro e contro della privacy, scoprendo forse che non è tutto oro quello che luccica, che forse la privacy non è un'arma che abbiamo,a una pistola che ci stiamo puntando alla testa da soli.&#13;&#10;
 
@@ -155,7 +155,3 @@ Privacy in bello, privacy ad bellum&#13;&#10;Pare indelicato e irrilevante parla
 *<a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
 
 TBA
-
-
-
-

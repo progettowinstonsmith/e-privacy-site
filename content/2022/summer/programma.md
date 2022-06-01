@@ -19,7 +19,7 @@ next:
 Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini: 
+Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
@@ -54,7 +54,7 @@ La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 * Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante per la protezione dei dati personali)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Saluti Istituzionali</a></em></span>
 10:30|45|<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXX-interventi.html#giorio">Privacy: è l'emergenza la vera emergenza?</a></em></span>
@@ -69,7 +69,7 @@ La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 * Modera: <a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | ------- 
+------- | --- | -------
 15:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em>Apertura pomeridiana</em></span>
 15:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='1p01'></a><a href="/e-privacy-XXX-interventi.html#priolo">Tanto non serve!</a></em></span>
 15:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#marzocchi">Duccio ( alessandro ) Marzocchi </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXX-interventi.html#marzocchi">Anonimato VS Identità nella cultura del web</a></em></span>
@@ -84,11 +84,11 @@ La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura seconda giornata</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#aterno">Stefano Aterno </a><br/><em><a name='2m01'></a><a href="/e-privacy-XXX-interventi.html#aterno">La Privacy e la Sicurezza come diritti di libertà. Perché, nello Stato di Emergenza, non bisogna sospendere i diritti. (Stefano Aterno)</a></em></span>
-10:30|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#farnararo">La privacy ti rende bugiardo</a></em></span>
+10:30|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#farnararo">La privacy ti rende bugiardo</a></em></span>
 10:50|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it) </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXX-interventi.html#ciurcina">MonitoraPA</a></em></span>
 11:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXX-interventi.html#lisi">Tecnologia e Privacy: mission impossible per i poveri DPO?</a></em></span>
 11:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#longo">Valentina Longo </a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
@@ -98,8 +98,8 @@ La sede del convegno è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>
 
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
+------- | --- | -------
 15:00|5|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata pomeriggio</em></span>
 15:05|15|<span class='talk'><a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2p01'></a><a href="/e-privacy-XXX-interventi.html#winston">Archivismi</a></em></span>
 15:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#piccoli">Andrea Piccoli (D&L Network)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXX-interventi.html#piccoli">la progettazione dei trattamenti e loro valutazione utilizzando lo schema ISDP 10003:2020</a></em></span>
