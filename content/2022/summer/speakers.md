@@ -19,7 +19,7 @@ next:
 Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini: 
+Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 ## <a name="speakers"></a>I moderatori
@@ -53,7 +53,7 @@ Marco Calamari: ingegnere, classe 1955, talvolta noto come "<a href="https://cas
 E' consulente in ambito privacy e Computer Forensics, e specializzato come Application Architect ed archeologo di software legacy.
 Nella vita vera è appassionato di privacy e crittografia in Rete, dove collabora a progetti di software libero come Freenet, Mixmaster, Mixminion, Tor & GlobaLaks.
 E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
-Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori, ed e' editorialista su diverse testate telematiche, dove pubblica la rubrica settimanale 
+Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori, ed e' editorialista su diverse testate telematiche, dove pubblica la rubrica settimanale
 <a href="https://calamarim.medium.com/">"Cassandra Crossing"</a>.
 
 
@@ -72,21 +72,21 @@ PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
 relatore.
 
 
-### <a name='priolo'></a>Enrica Priolo (Bonadio Priolo LTF )
+### <a name='priolo'></a>Enrica Priolo
 
-Senior partner dello studio legale Bonadio Priolo LTF, sono avvocata
-(di estrazione penalista) e formatrice, specializzata in diritti umani
-e in legal tech. Le mie aree di ricerca sono principalmente la
-privacy, l'intelligenza Artificiale, i processi decisionali
-automatizzati e l'ethics by design; il mio approccio al diritto è di
-tipo filosofico. Sono co-founder dell'associazione Legal Hackers Pisa.
+Sono avvocata (di estrazione penalista) e formatrice, specializzata in
+diritti umani e in legal tech. Le mie aree di ricerca sono
+principalmente la privacy, l'intelligenza Artificiale, i processi
+decisionali automatizzati e l'ethics by design; il mio approccio al
+diritto è di tipo filosofico. Sono co-founder dell'associazione Legal
+Hackers Pisa.
 
 
 ### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
 
 Emmanuele Somma è prestato da anni al Progetto Winston Smith. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
-Internet wealth". 
+Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
@@ -96,7 +96,7 @@ Marco Alagna ha conseguito la laurea magistrale in Giurisprudenza, con una tesi 
 
 
 
-#### <a name="aterno"></a> Stefano Aterno 
+#### <a name="aterno"></a> Stefano Aterno
 
 Nato a Roma, laureato presso l’Università La Sapienza, iscritto all’albo degli avvocati di Roma dal 1998. Avvocato Cassazionista, professore presso l’Università di Foggia, Università di Roma TRE e presso la LUISS (Libera università internazionale degli studi sociali Guido Carli). Esperto di diritto penale dell’informatica e di diritto delle nuove tecnologie, pratica la professione in queste materie da più di 23 anni. Certificato: UNI 11697:2017 Data Protection Officer, certificato ISO 27001 sicurezza dei dati e delle informazioni, CIFI (Certified Information Forensics Investigator, by IISFA). Dal 1996 al 2000 ha svolto l’attività di Magistrato onorario presso il Tribunale di Roma. Svolge attività di contenzioso legale e di consulenza nella materia del diritto delle nuove tecnologie, data protection e diritto penale dell’informatica.  È Responsabile della protezione dei dati (DPO) di alcune società importanti a livello nazionale e internazionale. È docente in Master universitari nelle materie sopra indicate Dal 2005 ad oggi ha pubblicato alcuni libri e numerosi articoli scientifici in tema di cybercrime, indagini informatiche, computer forensics e Data Protection. L’ultimo libro pubblicato è, “Sicurezza informatica, aspetti giuridici e tecnici, 2022, per le edizioni Pacini Giuridica” È Socio dello Studio E- Lex.
 
@@ -132,13 +132,13 @@ Avvocata e consulente legale d’impresa, ha studiato presso l’Università deg
 
 
 
-#### <a name="dellacostanza"></a> Paolo Della Costanza 
+#### <a name="dellacostanza"></a> Paolo Della Costanza
 
 ...
 
 
 
-#### <a name="farnararo"></a> Lorenzo Farnararo 
+#### <a name="farnararo"></a> Lorenzo Farnararo
 
 Sviluppatore software, artista marziale, musicista, padre. &#13;&#10;&#13;&#10;sono una persona estremamente curiosa, per niente spaventato dallo stravolgimento dei costrutti sociali.
 
@@ -174,13 +174,13 @@ Avvocato che da ormai 20 anni si occupa di diritto applicato all'informatica, di
 
 
 
-#### <a name="longo"></a> Valentina Longo 
+#### <a name="longo"></a> Valentina Longo
 
 ...
 
 
 
-#### <a name="marzocchi"></a> Duccio ( alessandro ) Marzocchi 
+#### <a name="marzocchi"></a> Duccio ( alessandro ) Marzocchi
 
 80enne ex giurista; in ambito digitale sono molto ignorante, il mio interesse più sentito è sul digitale come complesso di regole che nessuna autorità politica ha approvato e che di fatto funzionano come imposizioni più costrittive di ogni legge.&#13;&#10;
 
@@ -231,13 +231,3 @@ Andrea Surbone, scrittore, editore ed ex viticoltore.&#13;&#10;Ha scritto narrat
 #### <a name="vieri"></a> Giovambattista Vieri (ENT SRL)
 
 Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori.
-
-
-
-
-
-
-
-
-
-
