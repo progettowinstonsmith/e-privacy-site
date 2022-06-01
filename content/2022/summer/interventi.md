@@ -56,7 +56,7 @@ TBA
 
 
 #### <a name="ciurcina"></a> MonitoraPA<a href="/e-privacy-XXX-programma.html#2m03">⇧</a>
-*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
+*<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it) </a> e <a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a>*
 
 L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispetto all’uso di Google Analytics.&#13;&#10;Alcune settimane orsono un gruppo di hacker ha lanciato il progetto MonitoraPA: ha individuato quasi 8.000 pubbliche amministrazioni italiane che usano Google Analytics ed ha inviato una comunicazione ai DPO degli enti.&#13;&#10;Il progetto ha ottenuto buoni risultati in termini di visibilità ed efficacia.&#13;&#10;Si propongono considerazioni legali (e non solo) sul progetto MonitoraPA.
 

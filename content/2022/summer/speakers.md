@@ -120,7 +120,7 @@ Avvocata del foro di Milano ed opera con maturata esperienza pluriennale nel cam
 
 
 
-#### <a name="ciurcina"></a> Marco Ciurcina 
+#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 
