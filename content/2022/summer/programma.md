@@ -24,12 +24,12 @@ MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
 
-###e-privacy 2022 - summer edition
+###e-privacy XXX - 2022 summer edition
 
-Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
+Il ** 16 e 17 giugno 2022 ** ONLINE ed in presenza a Firenze,  si svolgerà **e-privacy XXX - 2022
 _summer edition_**.
 
-Il tema guida della XXIX edizione di e-privacy è:
+Il tema guida della XXX edizione di e-privacy è:
 
 <div class="title-XXX">«Sospendiamo la privacy»</div>
 <div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
