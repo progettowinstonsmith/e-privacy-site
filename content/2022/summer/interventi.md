@@ -61,7 +61,7 @@ TBA
 L’EDPS ed i Garanti austriaco e francese hanno preso posizioni critiche rispetto all’uso di Google Analytics.&#13;&#10;Alcune settimane orsono un gruppo di hacker ha lanciato il progetto MonitoraPA: ha individuato quasi 8.000 pubbliche amministrazioni italiane che usano Google Analytics ed ha inviato una comunicazione ai DPO degli enti.&#13;&#10;Il progetto ha ottenuto buoni risultati in termini di visibilità ed efficacia.&#13;&#10;Si propongono considerazioni legali (e non solo) sul progetto MonitoraPA.
 
 
-#### <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
+####  <a name="farnararo"></a> La privacy ti rende bugiardo<a href="/e-privacy-XXX-programma.html#2m02">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a>
 
 Nel buio della tua cameretta puoi fare quello che vuoi…&#13;&#10;Dietro la tua VPN puoi andare dove ti pare….&#13;&#10;&#13;&#10;Se ti chiedono:&#13;&#10;Cosa hai fatto nella tua cameretta?&#13;&#10;Su che sito sei andato?&#13;&#10;&#13;&#10;Puoi rispondere quello che vuoi. Puoi anche mentire.&#13;&#10;&#13;&#10;Analizzeremo insieme pro e contro della privacy, scoprendo forse che non è tutto oro quello che luccica, che forse la privacy non è un'arma che abbiamo,a una pistola che ci stiamo puntando alla testa da soli.&#13;&#10;
