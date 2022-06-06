@@ -135,7 +135,7 @@ Ogni Stato sarà chiamato a rispondere delle conseguenze di tutte quelle ingeren
  Queste le parole del Rapporto del Berkman Center for Internet & Society, e sono solo trascorsi dodici anni durante i quali il panorama commentabile non sembra per nulla essere migliorato. In punto di privacy, il problema morale della CyberEthics consiste nell'acquisizione e nell'uso improprio delle informazioni altrui. Dobbiamo cercare di far sì che l'etica dell'informazione risolva il problema di ciٍ che dovrebbe essere moralmente giusto e di ciò che dovrebbe considerarsi moralmente sbagliato, per far si, soprattutto, che gli esseri umani abbiano la medesima cura e lo stesso rispetto etico verso le informazioni di altre persone e verso le altre persone. Lo stesso dovrebbe accadere in riferimento alle macchine o a chi, tramite queste, fa un uso quasi mercatorio dei dati. Come non riflettere sulle rischiose conseguenze di un uso sbagliato, di ciٍ che caratterizza l’uso delle nuove tecnologie? Come non pensare alla possibilità di scelta, che le generazioni future non avranno, di utilizzare il proprio corpo per accedere a luoghi, servizi e informazioni, nonché di scegliere? AGERE SEQUITUR ESSE, l’azione segue l’essere.
 
 
-#### <a name="scorza"></a> Saluti istituzionali<a href="/e-privacy-XXX-programma.html#1m01">⇧</a>
+#### <a name="scorza"></a> Tecnologia, privacy e pandemia<a href="/e-privacy-XXX-programma.html#1m01">⇧</a>
 *<a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante per la protezione dei dati personali)</a>*
 
 
