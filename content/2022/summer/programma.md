@@ -40,7 +40,7 @@ Il tema guida della XXX edizione di e-privacy è:
 
 ** La partecipazione al convegno è libera e gratuita.  **
 <br>
-Per consentire la gestione delle presenze secondo le procedure della struttura che ci ospita, **chi desidera partecipare in presenza** dovrebbe inviare una semplice email con oggetto <i>"Prenotazione e-privacy XXX"</i> a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Prenotazione e-privacy XXX), annunciando nome/i o pseudonimo/i, le giornate di partecipazione ed numero di posti che intende riservare.
+Per consentire la gestione delle presenze secondo le procedure della struttura che ci ospita, **chi desidera partecipare in presenza dovrebbe inviare una semplice email con oggetto <i>"Prenotazione e-privacy XXX"</i> a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Prenotazione e-privacy XXX), annunciando nome/i o pseudonimo/i, le giornate di partecipazione ed numero di posti che intende riservare.**
 <br>
 <br>
 **La sede del convegno** è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
