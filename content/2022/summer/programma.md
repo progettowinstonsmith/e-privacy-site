@@ -18,8 +18,7 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba 
-XPatrocini: firenze2,gpdp
-Patrocini: firenze2
+Patrocini: firenze2,gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
@@ -54,6 +53,7 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 
 
 #### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
+
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
