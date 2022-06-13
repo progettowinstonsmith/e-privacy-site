@@ -18,8 +18,8 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
+Patrocini: gpdp,firenze2
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 

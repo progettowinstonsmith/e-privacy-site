@@ -167,6 +167,7 @@ PARTNERS = {
     'fiif' : ('Fondazione Italiana per l\'Innovazione Forense','fiif.png','http://fiif.it'), # kikko
     'firenze': ('Comune di Firenze', 'comune-firenze.png', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
     'firenze1': ('Comune di Firenze: Consiglio di Quartiere 1', 'logoq1.gif', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
+    'firenze2': ('Comune di Firenze', 'comune-firenze.png', "http://www.comune.fi.it"),
     'flug': ('Firenze Linux User Group', 'flug.png', 'http://www.firenze.linux.it'),
     'golem': ('Golem', 'golem.png', 'http://golem.linux.it'),
     'icaa': ('ICAA', 'icaa-logo_small.jpg', 'http://www.criminologia.org'),
@@ -218,6 +219,7 @@ PARTNERS = {
     'defcons': ('Defcons', 'LogoSiteDefcons.png', 'https://defcons.uno/'),
     'lealternative': ('LeAlternative.it', 'alternative-150.png', 'http://www.lealternative.it/'),
     'hackerjournal': ('Hacker Journal', 'logo_hacker_journal.jpg', 'http://www.hackerjournal.it/'),
+    'gpdp': ('Garante per la Protezione dei Dati Personali', 'gpdp_logo.jpg', 'https://www.gpdp.it/'),
 }
 
 
