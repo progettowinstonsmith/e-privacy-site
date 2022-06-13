@@ -54,8 +54,6 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 
 #### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
 
-<iframe width="560" height="315" src="https://youtu.be/xWbC7fX_WjM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 * Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
