@@ -17,7 +17,7 @@ prev: e-privacy-29e3quarti
 nextid:
 next:
 Organizzatori: pws, hermes
-Collaboratori: bba
+Collaboratori: bba 
 Patrocini: gpdp,firenze2
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
