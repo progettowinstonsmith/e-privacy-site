@@ -54,6 +54,8 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 
 #### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xWbC7fX_WjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -68,6 +70,8 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/muF4h7ENeSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
@@ -85,6 +89,8 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 
 #### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S21aHf5LCBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -98,6 +104,8 @@ Per consentire la gestione delle presenze secondo le procedure della struttura c
 13:00||<span class='talk'><em>Chiusura sessione mattina</em></span>
 
 #### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J__McCuCMsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>
 
