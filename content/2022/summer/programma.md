@@ -26,27 +26,23 @@ css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitl
 
 ###e-privacy XXX - 2022 summer edition
 
-Il ** 16 e 17 giugno 2022 ** ONLINE ed in presenza a Firenze,  si svolgerà **e-privacy XXX - 2022
+Il ** 16 e 17 giugno 2022 ** ONLINE ed in presenza a Firenze, si è svolto **e-privacy XXX - 2022
 _summer edition_**.
 
-Il tema guida della XXX edizione di e-privacy è:
+Il tema guida della XXX edizione di e-privacy è stato:
 
 <div class="title-XXX">«Sospendiamo la privacy»</div>
 <div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
 <br/>
 
 
-###Sede ed Iscrizioni
+###Sede
 
-** La partecipazione al convegno è libera e gratuita.  **
 <br>
-Per consentire la gestione delle presenze secondo le procedure della struttura che ci ospita, **chi desidera partecipare in presenza dovrebbe inviare una semplice email con oggetto <i>"Prenotazione e-privacy XXX"</i> a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Prenotazione e-privacy XXX), annunciando nome/i o pseudonimo/i, le giornate di partecipazione ed numero di posti che intende riservare.**
-<br>
-<br>
-**La sede del convegno** è <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
+**La sede del convegno** è stata <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
 <br>
 <br>
-**Il link per la diretta streaming**, che avverrà sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith, verrà anche pubblicato qui qualche giorno prima dell'evento.
+**Le registrazioni sono qui sotto, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
 
 
 ### <a name="programma"></a>Programma del Convegno
