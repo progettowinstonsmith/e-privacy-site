@@ -33,16 +33,14 @@ Il tema guida della XXX edizione di e-privacy è stato:
 
 <div class="title-XXX">«Sospendiamo la privacy»</div>
 <div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
-<br/>
-
 
 ###Sede
 
-<br>
-**La sede del convegno** è stata <a href="/e-privacy-XXX-come-arrivare.html">qui</a>.
-<br>
+**Il Convegno si è svolto a <a href="/e-privacy-XXX-come-arrivare.html">Firenze</a>.**
 <br>
 **Le registrazioni sono qui sotto, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
+<br>
+Nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
 
 
 ### <a name="programma"></a>Programma del Convegno
