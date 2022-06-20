@@ -38,11 +38,11 @@ Il tema guida della XXX edizione di e-privacy è stato:
 
 **Il Convegno si è svolto a <a href="/e-privacy-XXX-come-arrivare.html">Firenze</a>.**
 <br>
-**Le registrazioni sono qui sotto, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
-<br>
 **Le slide e gli atti del convegno sono stati pubblicati e sono raggiungibili, quando presenti, usando le icone poste accanto al nome del relatore, inserite nel programma**.
 <br>
-Nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
 
 
 ### <a name="programma"></a>Programma del Convegno
@@ -71,7 +71,7 @@ Icona | Descrizione | Icona | Descrizione
 11:15|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_04_berto_contrapposizione_fra_diritti_fondamentali.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXX-interventi.html#berto">Contrapposizione fra diritti fondamentali: salute, privacy e non solo</a></em></span>
 11:45|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_05_surbone.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXX-interventi.html#surbone">Gli aspetti legati a privacy, big data, ricerca scientifica e brevettabilità della vita nell’utopia contemporanea di Filoponىa</a></em></span>
 12:10|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_06_ferri_levoluzionedellasicurezzadelleinformazioni.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXX-interventi.html#ferri">L'evoluzione della sicurezza della informazioni</a></em></span>
-12:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_07_beltrami_2022-05-28.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/audio/ep2022se_07_beltrami_2022-05-28.m4a"><img alt="pdf" src="/images/icon/audio.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/video/ep2022se_07_beltrami_2022-05-28.mp4"><img alt="pdf" src="/images/icon/video.png"></a>,<a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXX-interventi.html#beltrami">World Wide People - Manifesto per un Sindacato della Rete</a></em></span>
+12:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_07_beltrami_2022-05-28.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/audio/ep2022se_07_beltrami_2022-05-28.m4a"><img alt="pdf" src="/images/icon/audio.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/video/ep2022se_07_beltrami_2022-05-28.mp4"><img alt="pdf" src="/images/icon/video.png"></a>,<a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXX-interventi.html#beltrami">World Wide People - Manifesto per un Sindacato della Rete (intervento non tenuto per motivi tecnici, ma disponiibile tra gli atti come video registrato)</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
