@@ -8,7 +8,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 
 
 Colonna | Icona | Tipo
-- | -
+- | - | - 
 A | <i class="fa fa-file-audio-o" aria-hidden="true"/> | Audio
 V | <i class="fa fa-file-video-o" aria-hidden="true"/>| Video
 S | <i class="fa fa-file-powerpoint-o" aria-hidden="true"/>| Slides
