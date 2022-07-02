@@ -7,6 +7,17 @@ slug: interventi
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 
+Colonna | Descrizione
+- | -
+A | <i class="fa fa-file-audio-o" aria-hidden="true"/>
+V | <i class="fa fa-file-video-o" aria-hidden="true"/>
+S | <i class="fa fa-file-powepoint-o" aria-hidden="true"/>
+H | <i class="fa fa-file-pdf-o" aria-hidden="true"/>
+D | <i class="fa fa-file-word-o" aria-hidden="true"/>
+O | <i class="fa fa-question" aria-hidden="true"/>
+
+---
+
 
  ED § | Speaker<br/>Titolo | A | V | S | H | D   | O
     - | -                  | - | - | - | - | -   | -
