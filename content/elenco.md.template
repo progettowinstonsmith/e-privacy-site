@@ -7,6 +7,19 @@ slug: interventi
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 
+Colonna | Icona | Tipo
+- | -
+A | <i class="fa fa-file-audio-o" aria-hidden="true"/> | Audio
+V | <i class="fa fa-file-video-o" aria-hidden="true"/>| Video
+S | <i class="fa fa-file-powerpoint-o" aria-hidden="true"/>| Slides
+H | <i class="fa fa-file-pdf-o" aria-hidden="true"/> | Handouts
+D | <i class="fa fa-file-word-o" aria-hidden="true"/> | Documenti
+O | <i class="fa fa-question" aria-hidden="true"/> | Altro
+
+Attenzione questo è ancora un lavoro in corso nel progetto Archivismi, ogni elemento potrebbe essere affetto da errore e i file potrebbe essere mal catalogato.
+
+---
+
 
  ED § | Speaker<br/>Titolo | A | V | S | H | D   | O
     - | -                  | - | - | - | - | -   | -
