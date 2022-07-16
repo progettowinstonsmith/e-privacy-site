@@ -45,7 +45,24 @@ accettazione ai relatori avverrà **entro il 10 settembre.**
 Il tema
 -------
 
-*Da scrivere*, da scrivere.
+Se c'è una cosa che ha accompagnato la privacy  in Italia dal 1996 è la sua pessima fama sui media.
+
+Da produttrice di carte inutili ad ostacolo per i grandi progetti.
+
+Mai percepita realmente come un diritto civile "reale", talvolta vista come uno scudo per il malaffare, spesso usata  come schermo da figure pubbliche quando preferivano nascondersi.
+Ed in questo i media hanno avuto una grossa responsabilità.
+
+Cosa si può fare per cambiare decisamente questa situazione ,e rendere positiva ed oggettiva la narrazione della privacy, favorendone la diffusione in tutti gli aspetti della società civile?
+
+Le tecnologie informatiche hanno una reputazione decisamente migliore. 
+
+La narrazione imperante sui media le vede normalmente salvifiche e portatrici di benessere generalizzato.
+Raramente vengono messi in evidenza gli aspetti legati al tecnocontrollo sociale, in un paese dove il dato personale, l'Io Digitale viene ceduto con naturalezza e noncuranza.
+
+Come e quanto è possibile prendere il meglio di tecnologie come l'Intelligenza Artificiale e "sterilizzarne" gli effetti perniciosi sulla privacy?
+
+E' possibile, attraverso una narrazione più oggettiva sui media, impedirne anche l'uso voluto come strumento di controllo sociale?
+
 
 
 Il convegno
