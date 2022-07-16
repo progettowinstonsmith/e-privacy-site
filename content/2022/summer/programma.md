@@ -1,8 +1,8 @@
-slug: e-privacy-XXX-programma
+slug: e-privacy-XXX
 Template: event
 XStatus: draft
 Title: Sospendiamo la privacy
-Date: 2022-05-30 00:01:00
+Date: 2022-05-30 00:02:00
 Category: 2022
 lang: it
 Num: XXX
@@ -14,8 +14,8 @@ Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2021V
 prev: e-privacy-29e3quarti
-nextid:
-next:
+nextid:2022V
+next:e-privacy-XXXI
 Organizzatori: pws, hermes
 Collaboratori: bba 
 Patrocini: firenze2,gpdp 

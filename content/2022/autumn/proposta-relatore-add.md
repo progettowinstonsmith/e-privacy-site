@@ -1,10 +1,10 @@
 Template: event
 Title: Proposta Talk
 Date: 2022-03-15 00:00:00
-slug: e-privacy-XXX-proposta-relatore-add
+slug: e-privacy-XXXI-proposta-relatore-add
 Category: 2022
 lang: it
-Num: XXX
+Num: XXXI
 Year: 2022
 City: Firenze & ONLINE
 Where: Videoconferenza & Streaming

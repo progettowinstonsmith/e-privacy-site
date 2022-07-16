@@ -1,19 +1,19 @@
 Template: event
-Status: draft
-Title: Sospendiamo la privacy
+XStatus: draft
+slug: e-privacy-XXXI
+Title: Privacy tra attivismo e scienza
 Date: 2022-07-15 00:01:00
-slug: e-privacy-XXXI-cfp
 Category: 2022
 lang: it
 Num: XXXI
 Year: 2022
 City: ROMA | RETE
-Where: Rome & Videoconferenza & Streaming
+Where: Roma & Videoconferenza & Streaming
 When: 29-30 settembre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022S
-prev: e-privacy-30
+prev: e-privacy-XXX
 nextid:
 next:
 Organizzatori: pws, hermes
@@ -21,88 +21,32 @@ Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-timeline: 7 settmbre | 10 settembre | 25 settembre
+timeline: 7 settembre | 10 settembre | 25 settembre
 css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
 
-<div class="title-XXXI">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXXI">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXI">«Privacy tra attivismo e scienza»</div>
+<div class="subtitle-XXXI">E' possibile rendere la privacy una "notizia" e  la tecnologia un'"amica" dei cittadini?</div>
 <br/>
 
-e-privacy XXX @ Firenze | Rete
+e-privacy XXXI @ Roma | Rete | streaming
 ===============================
 
 Call for Paper
 --------------
 
-Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
-Digital Human Rights* sono lieti di invitarti come relatore all'edizione
-primaverile alla trentesima edizione di e-privacy, che si terrà in
-modalità mista, presenza + videoconferenza il 16 e 17 giugno 2022 a
-Firenze.
+Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Human Rights*
+ sono lieti di invitarti come relatore 
+alla trentunesima edizione di e-privacy, che si terrà in
+modalità mista, presenza + videoconferenza **il 29 e 30 settembre 2022 a Roma.**
 
-Oltre a poterci stringere la mano, avremo l'occasione di festeggiare
-non solo la trentesima edizione del convegno, ma anche il suo
-ventennale; non è poco, è stata una lunga e proficua strada che la
-comunità di e-privacy ha percorso senza mai sfaldarsi.
-
-*Il nostro CfP si chiuderà il 20 maggio*, e la comunicazione di
-accettazione ai relatori avverrà *entro il 27 maggio.*
+**Il nostro CfP si chiuderà il 7 settembre**, e la comunicazione di
+accettazione ai relatori avverrà **entro il 10 settembre.**
 
 Il tema
 -------
 
-*E fu pandemia, e poi fu guerra, e mai mancò chi volle sospendere la
-privacy*, come durante gli attacchi terroristici, come in ogni altra
-occasione che abbia disturbato la quiete pubblica.
+*Da scrivere*, da scrivere.
 
-Non solo; anche le pubbliche amministrazioni hanno "*beneficiato*" di
-un decreto per cui non sono più vincolate a trattare dati solo in forza
-di una norma stringente, ma sono libere di trattare i dati personali,
-purché il trattamento avvenga per "*dimostrata pubblica utilità*".
-
-Va bene allora: sospendiamo la privacy! Ma quando? Quando è giustificato
-il venire meno quello che è un diritto già alquanto instabile e
-malamente riconosciuto anche in tempo di pace e di salute.
-
-La privacy non ci ha mai definito come corpo sociale. Questa "privacy
-per tutti ", sempre sul punto di essere resa opzionale, per eccezioni
-che diventano normalità.
-
-Si può dire: avete vinto! Cediamo subito le armi che ci avete fin qui
-concesso senza mai molta convinzione. Ma diteci almeno quando accadrà,
-quando il popolo, come lo schiavo (e la donna) dell'antica Grecia e di
-Roma, non avranno più questo loro diritto, troppo facilmente alienabile
-e troppo spesso alienato.
-
-Mentre si stava facendo strada una nuova sensibilità verso il furto dei
-nostri profili online, che fino ad oggi i poteri pubblici hanno permesso
-ai grandi della rete, oggi questi stessi poteri, di fronte a "*normali
-emergenze*", hanno avocato a sé ogni potere.
-
-Il pendolo della libertà marcia ora all'indietro, diretto verso il polo
-dello strapotere pubblico.
-
-Sono miserevolmente finiti i tempi di pace e di sicurezza, dati per
-acquisiti da un patetico ottimismo individualista, che solo qualche anno
-fa imperava. La Storia, di cui eminenti commentatori avevano garantito
-la fine, si è ripresa la scena di un mondo che si vorrebbe meccanismo
-scientifico, ed invece è solo e sempre un groviglio di ragioni
-politiche, prevalenti rispetto alla civiltà e alla conoscenza.
-
-Ci arrendiamo. Sì: molliamo. Rinunciamo alla privacy, per ottenere così
-almeno la sicurezza.
-
-Sappiamo che non per mano del potere di oggi otterremo la privacy.
-Quando allora?
-
-Il ruolo del Progetto Winston Smith, e di tutti gli amici che vorranno
-con noi partecipare al ventennale di questo *indomito convegno*, è di
-ricordare al potere il senso della sua esistenza al servizio dei
-cittadini. A questo abbiamo dedicato venti anni e trenta edizioni
-passate, e, se riusciremo, dedicheremo tutte quelle future.
-
-Dopotutto, se siamo durati vent'anni, potremmo durarne almeno altri
-venti. ..
 
 Il convegno
 ===========
@@ -143,14 +87,14 @@ Le proposte dovranno contenere:
 
 Le proposte dovranno essere presentate utilizzando il form disponibile
 in questa
-[**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXX-proposta.html),
-e dovranno pervenire al comitato scientifico **entro il termine ultimo del 20 maggio 2022**
+[**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html),
+e dovranno pervenire al comitato scientifico **entro il termine ultimo del 7 settembre 2022**
 
-L'accettazione o meno delle proposte sarà comunicata **entro il 27 maggio 2022**.
+L'accettazione o meno delle proposte sarà comunicata **entro il 10 settembre 2022**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 1 giugno 2022**.
+**entro il 25 settembre 2022**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 

@@ -63,12 +63,12 @@ THIS = (
 #     ('Gli interventi', '/e-privacy-XXIX-interventi.html'),
 #     ('I relatori', '/e-privacy-XXIX-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
-#     ('Proposta Talk', '/e-privacy-XXIX-proposta.html'),
-     ('Call for Paper', '/e-privacy-XXX-cfp.html'),
+     ('Proposta Talk', '/e-privacy-XXXI-proposta.html'),
+#     ('Call for Paper', '/e-privacy-XXXI-cfp.html'),
 #     ('Slides', '/e-privacy-XXVIII-programma-slides.html'),
 #     ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
 #     ('FAQ per i relatori', '/e-privacy-XXIX-faq-relatori.html'),
-     ('Come arrivare', '/e-privacy-XXX-come-arrivare.html'),
+#     ('Come arrivare', '/e-privacy-XXXI-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
@@ -87,6 +87,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     #    ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2022 summer XXX', '/e-privacy-XXX.html'),
     ('e-privacy 2021 autumn 29e¾', '/e-privacy-29e3quarti-programma.html'),
     ('e-privacy 2021 summer XXIX', '/e-privacy-XXIX.html'),
     ('e-privacy 2020 autumn XXVIII', '/e-privacy-XXVIII.html'),
