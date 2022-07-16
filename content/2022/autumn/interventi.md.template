@@ -1,0 +1,29 @@
+slug: e-privacy-XXX-interventi
+Template: event
+XStatus: draft
+Title: Sospendiamo la privacy
+Date: 2022-03-15 00:01:00
+Category: 2022
+lang: it
+Num: XXX
+Year: 2022
+City: FIRENZE | RETE
+Where: Firenze & Videoconferenza & Streaming
+When: 16-17 giugno
+Season: summer
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+previd: 2021V
+prev: e-privacy-29e3quarti
+nextid:
+next:
+Organizzatori: pws, hermes
+Collaboratori: bba
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+
+
+## <a name="talks"></a>Gli interventi
+
+{INTERVENTI}
+
