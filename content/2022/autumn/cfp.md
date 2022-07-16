@@ -159,6 +159,11 @@ La manifestazione e' organizzata da:
 -   [**HERMES**](http://logioshermes.org/) - Centro Studi Trasparenza e
     Diritti Umani Digitali
 
+ed è patrocinata e supportata da
+
+- [**Garante per la Protezione dei Dati Personali**](http://www.gpdp.it)
+
+
 e da altre organizzazioni, aziende ed associazioni.
 
 ### Contatti
