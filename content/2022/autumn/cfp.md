@@ -18,7 +18,7 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Patrocini: gpdp 
+Patrocini:
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 7 settembre | 10 settembre | 25 settembre
@@ -158,11 +158,6 @@ La manifestazione e' organizzata da:
 -   [**Progetto Winston Smith**](http://pws.winstonsmith.org/)
 -   [**HERMES**](http://logioshermes.org/) - Centro Studi Trasparenza e
     Diritti Umani Digitali
-
-ed è patrocinata e supportata da
-
-- [**Garante per la Protezione dei Dati Personali**](http://www.gpdp.it)
-
 
 e da altre organizzazioni, aziende ed associazioni.
 
