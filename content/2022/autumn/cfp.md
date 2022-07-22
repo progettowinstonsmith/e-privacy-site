@@ -18,7 +18,7 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
-Patrocini:
+Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 7 settembre | 10 settembre | 25 settembre
@@ -39,8 +39,10 @@ Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Huma
 alla trentunesima edizione di e-privacy, che si terrà in
 modalità mista, presenza + videoconferenza **il 29 e 30 settembre 2022 a Roma.**
 
-**Il nostro CfP si chiuderà il 7 settembre**, e la comunicazione di
+**Il CfP si chiuderà il 7 settembre**, e la comunicazione di
 accettazione ai relatori avverrà **entro il 10 settembre.**
+
+**L'evento ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
 
 Il tema
 -------
