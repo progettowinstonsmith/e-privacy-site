@@ -67,7 +67,7 @@ Anzi utilizzare le tecnologie, quando possibile, per la difesa stessa della priv
 
 E' sempre più evidente la necessità di una comunicazione che riporti al centro l'Uomo e la sua umanità all'interno della società tecnologica.
 
-E' possibile, attraverso una narrazione più oggettiva sui media, impedirne anche l'uso voluto come strumento di controllo sociale?
+E' possibile, attraverso una narrazione più oggettiva sui media, impedirne anche l'uso voluto come strumento di controllo sociale? 
 
 
 
