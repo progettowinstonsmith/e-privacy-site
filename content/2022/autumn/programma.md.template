@@ -1,19 +1,19 @@
-slug: e-privacy-XXX-programma
+slug: e-privacy-XXXI-programma
 Template: event
 XStatus: draft
 Title: Sospendiamo la privacy
 Date: 2022-05-30 00:01:00
 Category: 2022
 lang: it
-Num: XXX
+Num: XXXI
 Year: 2022
-City: FIRENZE | RETE
-Where: Firenze & Videoconferenza & Streaming
-When: 16-17 giugno
-Season: summer
+City: Roma | RETE
+Where: Roma & Videoconferenza & Streaming
+When: 29-30 settembre
+Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021V
-prev: e-privacy-29e3quarti
+previd: 2022S
+prev: e-privacy-30
 nextid:
 next:
 Organizzatori: pws, hermes
@@ -21,18 +21,17 @@ Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-css: .title-XXX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }}
+css: .title-XXXI {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXXI {{ font: 18px arial, sans-serif; text-align: center; }}
 
 
-###e-privacy 2022 - summer edition
+###e-privacy 2022 - autumn edition
 
-Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
-_summer edition_**.
+Il ** 29 e 30 settembre 2022 ** ONLINE e a Roma si svolgerà **e-privacy 2022
+_autumn edition_**.
 
-Il tema guida della XXIX edizione di e-privacy è:
 
-<div class="title-XXX">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXI">«Privacy tra attivismo e scienza»</div>
+<div class="subtitle-XXXI">E' possibile rendere la privacy una "notizia" e  la tecnologia un'"amica" dei cittadini?</div>
 <br/>
 
 
@@ -44,7 +43,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
+#### <a name="vep"></a>Giovedì 29  settembre 2022 - mattina
 
 * Modera: {G1M_CHAIRMAN}
 
@@ -52,7 +51,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1M}
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+#### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
 
 * Modera: {G1P_CHAIRMAN}
 
@@ -60,7 +59,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1P}
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
+#### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
 
 * Modera: {G2M_CHAIRMAN}
 
@@ -68,7 +67,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G2M}
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
+#### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
 
 * Modera: {G2P_CHAIRMAN}
 
