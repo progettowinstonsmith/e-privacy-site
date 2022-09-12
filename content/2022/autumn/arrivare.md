@@ -13,14 +13,15 @@ When: 29-30 settembre
 Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022S
-prev: e-privacy-30
+prev: e-privacy-XXX
 nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
+Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini:
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+timeline: 7 settembre | 10 settembre | 25 settembre
 css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
 
 
