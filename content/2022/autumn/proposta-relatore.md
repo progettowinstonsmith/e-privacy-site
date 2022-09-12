@@ -1,4 +1,4 @@
-Status: draft
+XStatus: draft
 Template: event
 Title: Proposta Talk
 Date: 2022-07-15 00:00:00
