@@ -30,7 +30,7 @@ SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri gove
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
-IMAGE='images/editions/EPRIVACY_29_1200x700.png'
+IMAGE='images/editions/EPRIVACY_31_1280x720.png'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Rome'
