@@ -28,13 +28,13 @@ ss: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle
 
 ###e-privacy 2022 - summer edition
 
-Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
-_summer edition_**.
+Il ** 29 e 30 settembre 2022 ** ONLINE e a  si svolgerà **e-privacy 2022
+_autumn edition_**.
 
-Il tema guida della XXIX edizione di e-privacy è:
+Il tema guida della XXXI edizione di e-privacy è:
 
-<div class="title-XXX">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXI">«Privacy tra attivismo e scienza»</div>
+<div class="subtitle-XXXI">E' possibile rendere la privacy una "notizia" e  la tecnologia un'"amica" dei cittadini?</div>
 <br/>
 
 
@@ -46,7 +46,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
+#### <a name="vep"></a>Giovedì 29 settembre 2022 - mattina
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
@@ -63,7 +63,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:50|10|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXI-interventi.html#winston1">Archivismi</a></em></span>
 13:00||<span class='talk'><em></em></span>
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+#### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
@@ -79,7 +79,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
 18:30||<span class='talk'><em></em></span>
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
+#### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a>
 
@@ -92,7 +92,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 12:10|80|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXI-interventi.html#tavola">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
 13:30||<span class='talk'><em></em></span>
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
+#### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a>
 
