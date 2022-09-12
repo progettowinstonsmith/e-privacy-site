@@ -5,7 +5,11 @@
 {% if article.image %}
 <meta property="og:image" content="{{ SITEURL }}/images/editions/{{article.image}}.png" />
 {% else %}
+{% if article.num %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/EPRIVACY_{{article.num}}.png" />
+{% else %}
 <meta property="og:image" content="{{ SITEURL }}/images/editions/e-privacy.png" />
+{% endif %}
 {% endif %}
 <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
 <meta property="og:description" content="{{ SITENAME }}" />

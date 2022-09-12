@@ -12,7 +12,7 @@
         {% if article.title %}
         <meta property="og:title" content="{{ article.title|striptags }}" />
         {% endif %}
-        {% if article.image %}
+        {% if article.num %}
         <meta property="og:image" content="{{ SITEURL }}/images/editions/EPRIVACY_{{article.num}}.png" />
         {% endif %}
         {% if article.url %}
@@ -20,7 +20,7 @@
         {% endif %}
         {% else %}
         <meta property="og:title" content="{{ SITENAME }}" />
-        <meta property="og:image" content="{{ SITEURL }}/{{ IMAGE }}" />
+        <meta property="og:image" content="{{ SITEURL }}/{{ IMAGE }}" ollo="1" />
         <meta property="og:url" content="{{ SITEURL }}/" />
         {% endif %}
         <meta property="og:description" content="{{ SITENAME }}" />
