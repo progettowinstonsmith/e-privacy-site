@@ -1,7 +1,7 @@
 slug: e-privacy-XXXI-interventi
 Template: event
 XStatus: draft
-Title: Sospendiamo la privacy
+Title: Privacy tra attivismo e scienza
 Date: 2022-03-15 00:01:00
 Category: 2022
 lang: it
