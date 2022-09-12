@@ -1,7 +1,7 @@
 # coding: utf-8
 
 """
-Shows basic usage of the Sheets API. Prints values from a Google Spreadsheet.
+
 """
 import re
 from io import StringIO
@@ -22,10 +22,10 @@ logging.basicConfig(level=logging.INFO)
 
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXX'
+EPRIVACY_N = 'XXXI'
 SESSIONI = '1M,1P,2M,2P'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-PATH = 'content/2022/summer/'
+PATH = 'content/2022/autumn/'
 
 
 URL = 'e-privacy-'
@@ -39,28 +39,29 @@ F_ORG = 'org'
 def program_line(*cols):
     return " | ".join(cols)
 
-def section_open(label, kind, srange, service, _id, info, rdb):
-    lines = []
-    for label, record in info.items():
-        try:
-            people = record['pers'].strip()
-            if ',' in people:
-                people = re.split(r', *', people)
-            else:
-                people = [people, ]
-            names = make_persons(people, rdb)
-            durata = re.sub(r'^0(|(0:))', '', record['duration'])
-            lines.append(program_line(record['begin'],
-                                      durata,
-                                      names + "<br/>" + record['Titolo']))
-        except:
-            print("ERRORE: sulla linea {}".format(label))
-            raise
-    return lines, rdb
+# def section_open(label, kind, srange, service, _id, info, rdb):
+#     lines = []
+#     import pdb; pdb.set_trace()
+#     for label, record in info.items():
+#         try:
+#             people = record['pers'].strip()
+#             if ',' in people:
+#                 people = re.split(r', *', people)
+#             else:
+#                 people = [people, ]
+#             names = make_persons(people, rdb)
+#             durata = re.sub(r'^0(|(0:))', '', record['duration'])
+#             lines.append(program_line(record['begin'],
+#                                       durata,
+#                                       names + "<br/>" + record['Titolo']))
+#         except:
+#             print("ERRORE: sulla linea {}".format(label))
+#             raise
+#     return lines, rdb
 
 
-def section_saluti(label, kind, srange, service, _id, info, rdb):
-    return section_open(label, kind, srange, service, _id, info, rdb)
+# def section_saluti(label, kind, srange, service, _id, info, rdb):
+#     return section_open(label, kind, srange, service, _id, info, rdb)
 
 
 def section_talks(label, kind, srange, service, _id, info, rdb):
@@ -346,6 +347,8 @@ def compose_title(relazioni, talk):
     record = relazioni[relazione]
     index = talk['label']
     title = record['title']
+    if len(title)==0:
+        import pdb; pdb.set_trace()
     prefix = ''
     if re.match(r'tavola rotonda',title,re.I):
         prefix = "Tavola Rotonda: "
@@ -412,14 +415,15 @@ def compose_interventi(all_relazioni, db):
               INTERVENTI=_compose_interventi(all_relazioni, db))
 
 def compose_talk_info(talk, db):
+    relazioni = db['relazioni']
     label = talk['author']
     link = talk['label']
-    title = talk['title']
+    title = relazioni[label]['title']
     _title = f'#### <a name="{label}"></a> {title}'
     _up = f'<a href="/e-privacy-{EPRIVACY_N}-programma.html#{link}">⇧</a>'
     auth = [ talk['author'], ]
     _authors = "*"+compose_people(talk, db, all=True)+"*"
-    desc = db['relazioni'][label]['description']
+    desc = relazioni[label]['description']
     return f'{_title}{_up}\n{_authors}\n\n{desc}\n\n'
 
 #### ---------------------------------------- SETUP PROGRAM
@@ -438,7 +442,12 @@ def setup_opening_author(talk, relazioni,  relatori):
     return compose_person(relatori, talk['author'])
 
 def setup_opening_title(talk, relazioni,  relatori):
-    return talk['title']
+    if len(talk['title'])>0:
+        return talk['title']
+    author = talk['author']
+    if author in relazioni:
+        return compose_title(relazioni,talk)
+    return 'Apertura sessione'
 
 def setup_coffee_title(talk, relazioni,  relatori):
     return talk['title']
@@ -546,9 +555,9 @@ def setup_program_session(info, relazioni, relatori):
             intervento = relazioni[relatore]
             D_relazioni.append((relatore, talk))
             relatoreX = re.sub("\d","",relatore)
-            if relatoreX not in relazioni:
-                LOGGER.error(f"Relatore {relatoreX} non in RELAZIONI")
-                raise "RELATORE NON IN RELAZIONI"
+            if relatoreX not in relatori:
+                LOGGER.error(f"Relatore {relatoreX} non in RELATORI")
+                raise "RELATOREX NON IN RELAZIONI"
             D_relatori.append((relatore, relatori[relatoreX] ))
             if 'altri' in talk:
                 if len(talk['altri'])>0:
@@ -607,6 +616,8 @@ def tweak_sessioni(info):
     if info['label'][-2:].lower() == 'aa':
         info['label'] = 'apertura'
         info['kind'] = 'opening'
+        info['author'] = info['altri']
+        info['altri'] = ''
         info['order'] = -1
     elif info['label'][-2:].lower() == 'ss':
         info['label'] = 'saluti'
@@ -619,6 +630,8 @@ def tweak_sessioni(info):
     elif info['label'][-2:].lower() == 'pp':
         info['label'] = 'coffee'
         info['kind'] = 'coffee'
+        info['title'] = 'Pausa'
+        info['author'] = ''
         info['order'] = 100
     else:
         order = int(info['label'][-2:])
@@ -756,8 +769,10 @@ def main(input,debug,debug_section):
     relazioni = read_db(service, RELAZIONI, tweak_item = tweak_relazioni )
     db_info("relazioni",relazioni)
     relatori_senza_curriculum =  { k: "*" if k in relatori else "" for k in relazioni.keys() }
+    print("RELATORI SENZA CURRICULUM")
     print(",".join([f"{relatore}{curriculump}"
-                    for relatore,curriculump in sorted(relatori_senza_curriculum.items())
+                    for relatore,curriculump in \
+                    sorted(relatori_senza_curriculum.items()) \
                     if relatore not in relatori
                     ]))
     db = {'relatori': relatori, 'relazioni': relazioni , 'sessioni': SESSIONI }
@@ -770,7 +785,7 @@ def main(input,debug,debug_section):
                           tweak_item = tweak_sessioni,
                           tweak_collection = tweak_sessioni_collection)
         label = 'G' + session
-        LOGGER.info(f'session: {label} {",".join(dict(all_relatori).keys())}')
+        LOGGER.info(f'SETUP session: {label} {",".join(dict(all_relatori).keys())}')
         db[label] = sess_db
         session, D_relazioni, D_relatori = setup_program_session(db[label],
                                                                  relazioni,
