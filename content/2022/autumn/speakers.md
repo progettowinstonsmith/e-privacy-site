@@ -18,9 +18,10 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: bba
+Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+timeline: 7 settembre | 10 settembre | 25 settembre
 
 ## <a name="speakers"></a>I moderatori
 

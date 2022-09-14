@@ -1,8 +1,8 @@
 Template: event
 XStatus: draft
-slug: e-privacy-XXXI
+slug: e-privacy-XXXI-cfp
 Title: Privacy tra attivismo e scienza
-Date: 2022-07-15 00:01:00
+Date: 2022-09-13 12:00:00
 Category: 2022
 lang: it
 Num: XXXI
@@ -39,8 +39,7 @@ Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Huma
 alla trentunesima edizione di e-privacy, che si terrà in
 modalità mista, presenza + videoconferenza **il 29 e 30 settembre 2022 a Roma.**
 
-**Il CfP si chiuderà il 7 settembre**, e la comunicazione di
-accettazione ai relatori avverrà **entro il 10 settembre.**
+**Il CfP SI E' CHIUSO il 7 settembre**
 
 **L'evento ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
 
