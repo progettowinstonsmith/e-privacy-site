@@ -85,7 +85,9 @@ Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
-#### <a name="tba"></a> Da annunciare 
+
+
+#### <a name="tba"></a> (TBA - Da annunciare)
 
 
 

@@ -107,7 +107,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 16:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXXI-interventi.html#giordano">Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future</a></em></span>
 16:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
 16:50|40|<span class='talk'><em>Pausa</em></span>
-17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXXI-interventi.html#winston3">Tavola Rotonda: Data Protection Officer deathmatch: arriverà un Privacy Shield 2? E cosa succederà?</a></em></span>
+17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a href="/e-privacy-XXXI-interventi.html#winston3">Tavola Rotonda: Data Protection Officer deathmatch: arriverà un Privacy Shield 2? E cosa succederà?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione e convegno</em></span>
 
 ### Gli organizzatori
