@@ -96,7 +96,7 @@ Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#
 
 
 
-#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De SImone)
+#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De Simone)
 
 Informatico forense esperto in delitti contro la persona e fondatore App MyTutela
 
@@ -114,7 +114,7 @@ Avvocato del Foro di Milano, Giacomo Conti opera da diversi anni nel campo della
 
 
 
-#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)
+#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)
 
 Avvocato esperto in materia tributria e contrattualistica. Consulente aziendale in materia di protezione dati personali.
 
@@ -164,7 +164,7 @@ Professore a contratto di informatica forense e sicurezza nelle reti e nei siste
 
 #### <a name="mariscoli"></a> Marco Mariscoli 
 
-Curriculum non pervenuto
+Avvocato penalista che si occupa di adeguamento alla normativa sulla Privacy nelle aziende.
 
 
 
@@ -198,7 +198,7 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
-#### <a name="zugnaz"></a> Efren Zugnaz (the Webprepping Initiative)
+#### <a name="zugnaz"></a> Efrem Zugnaz (the Webprepping Initiative)
 
 Efrem Zugnaz, opera nel settore IT da piu' di trent'anni. Attualmente si occupa PRIVACY in ambito Autostradale. Fondatore dell'iniziativa WEBPREPPING che da dieci anni si occupa di survivalismo digitale per la società civile, la scuola e le istituzioni. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera info-digitale etica e corretta, ma soprattutto psicologicamente ecologica.
 

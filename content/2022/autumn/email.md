@@ -69,7 +69,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 11:20|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gargano">Nicola Gargano </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXI-interventi.html#gargano">Intelligenza Artificiale e Giustizia Predittiva o Giustizia Artificiale?</a></em></span>
 11:40|20|<span class='talk'><em>Pausa</em></span>
 12:00|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXI-interventi.html#ciurcina">MonitoraPA: riflessioni</a></em></span>
-12:20|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#zugnaz">Efren Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXI-interventi.html#zugnaz">Gedankenexperiment</a></em></span>
+12:20|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXI-interventi.html#zugnaz">Gedankenexperiment</a></em></span>
 12:50|10|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXI-interventi.html#winston1">Archivismi</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
@@ -86,7 +86,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 16:30|30|<span class='talk'><em>Pausa</em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#conti">Giacomo Conti (Studio Legale Conti)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXI-interventi.html#conti">Quanto costano realmente i servizi online? L’apparente gratuità dei servizi online del web 2.0 fra privacy. I profili di interferenza fra GDPR e codice del consumo. Il caso Apple E Google</a></em></span>
-18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
+18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De Simone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
@@ -180,7 +180,7 @@ Buona parte delle attività che svolgiamo quotidianamente si svolgono su interne
 
 
 #### <a name="mariscoli"></a> Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?<a href="/e-privacy-XXXI-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a>*
+*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De Simone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)</a>*
 
 L'esperienza di accountability GDPR ci ha mossi nell'approfondire le dinamiche dei rapporti tra datore di lavoro e lavoratore e uno dei tanti vulnus che abbiamo riscontrato nelle aziende, in particolare nelle PMI, è quello del rischio della privacy del lavoratore, soprattutto di coloro che operano nell'ambito della vigilanza privata.
 
@@ -228,7 +228,7 @@ I guasti delle direttive europee sovietiche che ci renderanno la vita più pover
 
 
 #### <a name="zugnaz"></a> Gedankenexperiment<a href="/e-privacy-XXXI-programma.html#1m06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#zugnaz">Efren Zugnaz (the Webprepping Initiative)</a>*
+*<a href="/e-privacy-XXXI-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a>*
 
 Cosa si può fare per cambiare decisamente la percezione della privacy? Secondo me non è la positiva ed oggettiva narrazione della privacy e nemmeno le modalità di diffusione. E' la percezione. Alcuni tecnologi come i giornalisti tendono alla semplificazione. La tecnologia oltre ad avere un appeal "commerciale" possiedono una funzione semplice da capire, quindi sponsorizzabile, quindi diffondibile. Un concetto etico o un diritto per quanto ci si sforzi non lo si puo' semplificare o banalizzare. La narrazione ha delle fallacie, sempre quelle, sempre le stesse, perchè l'uomo così sa fare, così è stato creato per pensare.&#13;&#10;L'Io Digitale ragionerà come l'uomo fisico se non cambiamo il modo di approcciare all'informazione, quindi ai concetti. E se la privacy si potesse spiegare con un esperimento mentale invece che con la narrazione?
 
@@ -318,7 +318,7 @@ Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#
 
 
 
-#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De SImone)
+#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De Simone)
 
 Informatico forense esperto in delitti contro la persona e fondatore App MyTutela
 
@@ -336,7 +336,7 @@ Avvocato del Foro di Milano, Giacomo Conti opera da diversi anni nel campo della
 
 
 
-#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)
+#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)
 
 Avvocato esperto in materia tributria e contrattualistica. Consulente aziendale in materia di protezione dati personali.
 
@@ -386,7 +386,7 @@ Professore a contratto di informatica forense e sicurezza nelle reti e nei siste
 
 #### <a name="mariscoli"></a> Marco Mariscoli 
 
-Curriculum non pervenuto
+Avvocato penalista che si occupa di adeguamento alla normativa sulla Privacy nelle aziende.
 
 
 
@@ -420,7 +420,7 @@ Giovambattista Vieri, son nato nel 1964, sono appassionato di informatica da qua
 
 
 
-#### <a name="zugnaz"></a> Efren Zugnaz (the Webprepping Initiative)
+#### <a name="zugnaz"></a> Efrem Zugnaz (the Webprepping Initiative)
 
 Efrem Zugnaz, opera nel settore IT da piu' di trent'anni. Attualmente si occupa PRIVACY in ambito Autostradale. Fondatore dell'iniziativa WEBPREPPING che da dieci anni si occupa di survivalismo digitale per la società civile, la scuola e le istituzioni. Avendo passato molte fasi tecnologiche ora si occupa di portare in maniera gratuita a quanti possibile buone prassi ed informazioni per i cittadini digitali, con lo scopo di alimentare una sfera info-digitale etica e corretta, ma soprattutto psicologicamente ecologica.
 

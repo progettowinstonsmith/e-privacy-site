@@ -87,7 +87,7 @@ Buona parte delle attività che svolgiamo quotidianamente si svolgono su interne
 
 
 #### <a name="mariscoli"></a> Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?<a href="/e-privacy-XXXI-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a>*
+*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De Simone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)</a>*
 
 L'esperienza di accountability GDPR ci ha mossi nell'approfondire le dinamiche dei rapporti tra datore di lavoro e lavoratore e uno dei tanti vulnus che abbiamo riscontrato nelle aziende, in particolare nelle PMI, è quello del rischio della privacy del lavoratore, soprattutto di coloro che operano nell'ambito della vigilanza privata.
 
@@ -135,7 +135,7 @@ I guasti delle direttive europee sovietiche che ci renderanno la vita più pover
 
 
 #### <a name="zugnaz"></a> Gedankenexperiment<a href="/e-privacy-XXXI-programma.html#1m06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#zugnaz">Efren Zugnaz (the Webprepping Initiative)</a>*
+*<a href="/e-privacy-XXXI-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a>*
 
 Cosa si può fare per cambiare decisamente la percezione della privacy? Secondo me non è la positiva ed oggettiva narrazione della privacy e nemmeno le modalità di diffusione. E' la percezione. Alcuni tecnologi come i giornalisti tendono alla semplificazione. La tecnologia oltre ad avere un appeal "commerciale" possiedono una funzione semplice da capire, quindi sponsorizzabile, quindi diffondibile. Un concetto etico o un diritto per quanto ci si sforzi non lo si puo' semplificare o banalizzare. La narrazione ha delle fallacie, sempre quelle, sempre le stesse, perchè l'uomo così sa fare, così è stato creato per pensare.&#13;&#10;L'Io Digitale ragionerà come l'uomo fisico se non cambiamo il modo di approcciare all'informazione, quindi ai concetti. E se la privacy si potesse spiegare con un esperimento mentale invece che con la narrazione?
 
