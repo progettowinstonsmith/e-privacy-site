@@ -61,7 +61,7 @@ Il tema guida della XXXI edizione di e-privacy è:
 12:00|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXI-interventi.html#ciurcina">MonitoraPA: riflessioni</a></em></span>
 12:20|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#zugnaz">Efren Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXI-interventi.html#zugnaz">Gedankenexperiment</a></em></span>
 12:50|10|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXI-interventi.html#winston1">Archivismi</a></em></span>
-13:00||<span class='talk'><em></em></span>
+13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
 
@@ -77,7 +77,7 @@ Il tema guida della XXXI edizione di e-privacy è:
 17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#conti">Giacomo Conti (Studio Legale Conti)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXI-interventi.html#conti">Quanto costano realmente i servizi online? L’apparente gratuità dei servizi online del web 2.0 fra privacy. I profili di interferenza fra GDPR e codice del consumo. Il caso Apple E Google</a></em></span>
 18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
-18:30||<span class='talk'><em></em></span>
+18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
 
@@ -90,7 +90,7 @@ Il tema guida della XXXI edizione di e-privacy è:
 10:50|50|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXI-interventi.html#gazzella">Libertà nel mondo digitale: verso un modello as-a-service?</a></em></span>
 11:40|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXI-interventi.html#winston2">Un discorso da fare con calma</a></em></span>
 12:10|80|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXI-interventi.html#tavola1">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
-13:30||<span class='talk'><em></em></span>
+13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
 
@@ -104,7 +104,7 @@ Il tema guida della XXXI edizione di e-privacy è:
 16:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
 16:50|40|<span class='talk'><em>Pausa</em></span>
 17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p04'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
-18:30||<span class='talk'><em></em></span>
+18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 
 ## <a name="talks"></a>Gli interventi

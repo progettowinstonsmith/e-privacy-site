@@ -626,6 +626,8 @@ def tweak_sessioni(info):
     elif info['label'][-2:].lower() == 'zz':
         info['label'] = 'chiusura'
         info['kind'] = 'closing'
+        info['title'] = 'Chiusura sessione'
+        info['author'] = ''
         info['order'] = 100
     elif info['label'][-2:].lower() == 'pp':
         info['label'] = 'coffee'
