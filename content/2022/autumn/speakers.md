@@ -120,6 +120,12 @@ Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la li
 
 
 
+#### <a name="fiorenza"></a> Valentina Fiorenza (D&L NET)
+
+Avvocato, siciliana, si occupa e studia con passione il diritto delle nuove tecnologie. Si interessa ai problemi e alle sfide derivanti dall'applicazione del Reg. Ue 2016/679 (GDPR) e della normativa connessa. Progetta di diffondere la consapevolezza dei diritti – soprattutto digitali – tramite social networks e crede fermamente che la conoscenza sia il primo passo verso una legalità diffusa.
+
+
+
 #### <a name="gargano"></a> Nicola Gargano 
 
 Avvocato in Bari e Milano. Consigliere Referente per l’informatica dell’Ordine degli Avvocati di Bari. Ha conseguito il Master universitario in Diritto della Rete presso l’università degli studi di Padova. Socio fondatore delle associazioni Amadir (Alumni Master Diritto della Rete) e CSPT (Centro Studi Processo Telematico). Autore di numerose pubblicazioni sul processo telematico
