@@ -1,6 +1,6 @@
 slug: e-privacy-XXXI-email
 Template: event
-Status: draft
+XStatus: draft
 Title: Email
 Date: 2022-07-15 00:01:00
 Category: 2022
@@ -103,7 +103,7 @@ Il tema guida della XXXI edizione di e-privacy è:
 16:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXXI-interventi.html#giordano">Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future</a></em></span>
 16:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
 16:50|40|<span class='talk'><em>Pausa</em></span>
-17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p04'></a><a href="/e-privacy-XXXI-interventi.html#tavola2">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
+17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p04'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
 18:30||<span class='talk'><em></em></span>
 
 
