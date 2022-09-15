@@ -74,7 +74,7 @@ Le libertà nel mondo digitale corrono attraverso le narrazioni di nuove tecnolo
 
 
 #### <a name="giordano"></a> Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future<a href="/e-privacy-XXXI-programma.html#2p02">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a>*
+*<a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a> e <a href="/e-privacy-XXXI-relatori.html#rana">Vincenzo Rana (Knobs)</a>*
 
 Diversamente dal quadro tracciato dalla narrazione comune, la tecnologia blockchain, alla base di cryptocurrency e cryptoasset, può consentire una profonda profilazione delle interazioni tra utenti e, di conseguenza, la possibilità di un controllo sistematico di chiunque utilizzi la rete. Questo intervento si propone di offrire uno stato dell’arte sul tema, con due focus sugli aspetti tecnologici e di regolamentazione giuridica, e di illustrare gli sviluppi futuri legati all’impiego dei c.d. protocolli “zero knowledge”.
 
