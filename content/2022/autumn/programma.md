@@ -79,7 +79,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 16:30|30|<span class='talk'><em>Pausa</em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#conti">Giacomo Conti (Studio Legale Conti)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXI-interventi.html#conti">Quanto costano realmente i servizi online? L’apparente gratuità dei servizi online del web 2.0 fra privacy. I profili di interferenza fra GDPR e codice del consumo. Il caso Apple E Google</a></em></span>
-18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
+18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina

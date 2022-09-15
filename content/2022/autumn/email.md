@@ -86,7 +86,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 16:30|30|<span class='talk'><em>Pausa</em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#conti">Giacomo Conti (Studio Legale Conti)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXI-interventi.html#conti">Quanto costano realmente i servizi online? L’apparente gratuità dei servizi online del web 2.0 fra privacy. I profili di interferenza fra GDPR e codice del consumo. Il caso Apple E Google</a></em></span>
-18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
+18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
@@ -180,7 +180,7 @@ Buona parte delle attività che svolgiamo quotidianamente si svolgono su interne
 
 
 #### <a name="mariscoli"></a> Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?<a href="/e-privacy-XXXI-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>*
+*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a>*
 
 L'esperienza di accountability GDPR ci ha mossi nell'approfondire le dinamiche dei rapporti tra datore di lavoro e lavoratore e uno dei tanti vulnus che abbiamo riscontrato nelle aziende, in particolare nelle PMI, è quello del rischio della privacy del lavoratore, soprattutto di coloro che operano nell'ambito della vigilanza privata.
 
@@ -318,6 +318,12 @@ Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#
 
 
 
+#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De SImone)
+
+Informatico forense esperto in delitti contro la persona e fondatore App MyTutela
+
+
+
 #### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
@@ -327,6 +333,12 @@ Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diri
 #### <a name="conti"></a> Giacomo Conti (Studio Legale Conti)
 
 Avvocato del Foro di Milano, Giacomo Conti opera da diversi anni nel campo della compliance privacy e GDPR e del diritto delle nuove tecnologie, con particolare focus sul diritto delle piattaforme online e del rapporto platoform2business e relativo ai profili di tutela dell’utente commerciale.&#13;&#10;&#13;&#10;L’avvocato Conti è studioso del diritto applicato alle nuove tecnologie, Giacomo Conti è docente presso diversi corsi formativi istituzionali incentrati e convegni sulla data protection e sulle nuove tecnologie, fra cui la blockchain e gli smart contract, erogati anche al personale delle Pubbliche Amministrazioni e in Università.&#13;&#10;&#13;&#10;Giacomo Conti è conosciuto per i suoi numerosi contributi alla materia, fra cui il noto manuale “La protezione dei dati per titolari e responsabili del trattamento” utilizzato in molteplici corsi formativi oltre che il trattato sulle piattaforme digitali edito sempre da Maggioli:  Lineamenti di Diritto delle piattaforme digitali -Volume 1 - Le tutele del consumatore e dell'utente commerciale nei confronti dei cybermediary e Volume 2 - La tutela della reputazione online della persona fisica e giuridica. Oltre alle monografie l’Avvocato Conti è autore edito su prestigiose riviste di settore, compreso il Sole24Ore.&#13;&#10;&#13;&#10;&#13;&#10;Giacomo Conti è conosciuto per i suoi numerosi contributi alla materia, fra cui il noto manuale “La protezione dei dati per titolari e responsabili del trattamento” utilizzato in molteplici corsi formativi oltre che il trattato sulle piattaforme digitali edito sempre da Maggioli:  Lineamenti di Diritto delle piattaforme digitali -Volume 1 - Le tutele del consumatore e dell'utente commerciale nei confronti dei cybermediary e Volume 2 - La tutela della reputazione online della persona fisica e giuridica. Oltre alle monografie l’Avvocato Conti è autore edito su prestigiose riviste di settore, compreso il Sole24Ore.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;https://www.avvgiacomoconti.com/blog/&#13;&#10;
+
+
+
+#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)
+
+Avvocato esperto in materia tributria e contrattualistica. Consulente aziendale in materia di protezione dati personali.
 
 
 

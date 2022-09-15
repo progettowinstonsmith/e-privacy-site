@@ -87,7 +87,7 @@ Buona parte delle attività che svolgiamo quotidianamente si svolgono su interne
 
 
 #### <a name="mariscoli"></a> Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?<a href="/e-privacy-XXXI-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>*
+*<a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De SImone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)</a>*
 
 L'esperienza di accountability GDPR ci ha mossi nell'approfondire le dinamiche dei rapporti tra datore di lavoro e lavoratore e uno dei tanti vulnus che abbiamo riscontrato nelle aziende, in particolare nelle PMI, è quello del rischio della privacy del lavoratore, soprattutto di coloro che operano nell'ambito della vigilanza privata.
 

@@ -1,7 +1,7 @@
 slug: e-privacy-XXXI-relatori
 Template: event
 XStatus: draft
-Title: Privacy tra attivismo e scienza
+Title: Sospendiamo la privac
 Date: 2022-03-15 00:01:00
 Category: 2022
 lang: it
@@ -96,6 +96,12 @@ Giulio Beltrami è nato a Milano il 23 marzo 1944, ove risiede.&#13;&#10;&#13;&#
 
 
 
+#### <a name="calonzi"></a> Marco Calonzi (Studio Legale Mariscoli e De SImone)
+
+Informatico forense esperto in delitti contro la persona e fondatore App MyTutela
+
+
+
 #### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
@@ -105,6 +111,12 @@ Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diri
 #### <a name="conti"></a> Giacomo Conti (Studio Legale Conti)
 
 Avvocato del Foro di Milano, Giacomo Conti opera da diversi anni nel campo della compliance privacy e GDPR e del diritto delle nuove tecnologie, con particolare focus sul diritto delle piattaforme online e del rapporto platoform2business e relativo ai profili di tutela dell’utente commerciale.&#13;&#10;&#13;&#10;L’avvocato Conti è studioso del diritto applicato alle nuove tecnologie, Giacomo Conti è docente presso diversi corsi formativi istituzionali incentrati e convegni sulla data protection e sulle nuove tecnologie, fra cui la blockchain e gli smart contract, erogati anche al personale delle Pubbliche Amministrazioni e in Università.&#13;&#10;&#13;&#10;Giacomo Conti è conosciuto per i suoi numerosi contributi alla materia, fra cui il noto manuale “La protezione dei dati per titolari e responsabili del trattamento” utilizzato in molteplici corsi formativi oltre che il trattato sulle piattaforme digitali edito sempre da Maggioli:  Lineamenti di Diritto delle piattaforme digitali -Volume 1 - Le tutele del consumatore e dell'utente commerciale nei confronti dei cybermediary e Volume 2 - La tutela della reputazione online della persona fisica e giuridica. Oltre alle monografie l’Avvocato Conti è autore edito su prestigiose riviste di settore, compreso il Sole24Ore.&#13;&#10;&#13;&#10;&#13;&#10;Giacomo Conti è conosciuto per i suoi numerosi contributi alla materia, fra cui il noto manuale “La protezione dei dati per titolari e responsabili del trattamento” utilizzato in molteplici corsi formativi oltre che il trattato sulle piattaforme digitali edito sempre da Maggioli:  Lineamenti di Diritto delle piattaforme digitali -Volume 1 - Le tutele del consumatore e dell'utente commerciale nei confronti dei cybermediary e Volume 2 - La tutela della reputazione online della persona fisica e giuridica. Oltre alle monografie l’Avvocato Conti è autore edito su prestigiose riviste di settore, compreso il Sole24Ore.&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;https://www.avvgiacomoconti.com/blog/&#13;&#10;
+
+
+
+#### <a name="desimone"></a> Luca Serafino De Simone (Studio Legale Mariscoli e De SImone)
+
+Avvocato esperto in materia tributria e contrattualistica. Consulente aziendale in materia di protezione dati personali.
 
 
 
