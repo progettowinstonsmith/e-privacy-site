@@ -38,9 +38,19 @@ Il tema guida della XXXI edizione di e-privacy è:
 <br/>
 
 
+**L'evento ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
+
+
+###Sede del Convegno
+
+La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magna</a> del Dipartimento di Giurisprudenza dell'Università degli Studi Roma Tre, in via Ostiense, 163 Roma
+
+
 ###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita  **
+
+
 
 
 ### <a name="programma"></a>Programma del Convegno
