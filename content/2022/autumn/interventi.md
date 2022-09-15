@@ -23,7 +23,6 @@ Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 7 settembre | 10 settembre | 25 settembre
 
-
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="beltrami"></a> Il Giusto Verso del Metaverso<a href="/e-privacy-XXXI-programma.html#1p03">⇧</a>

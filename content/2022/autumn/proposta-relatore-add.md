@@ -4,15 +4,17 @@ Date: 2022-03-15 00:00:00
 slug: e-privacy-XXXI-proposta-relatore-add
 Category: 2022
 lang: it
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Num: XXXI
 Year: 2022
-City: Firenze & ONLINE
-Where: Videoconferenza & Streaming
-When: 16-17 giugno
-Season: summer
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021W
-prev: e-privacy-29e3quarti
+City: Roma & ONLINE
+Where: Roma & Videoconferenza & Streaming
+When: 29-30 settembre
+Season: autumn
+previd: 2022S
+prev: e-privacy-XXX
+nextid:
+next:
 
 
 <script type="text/javascript" src="//pws.xed.it/form/generate.js?id=23"></script>
