@@ -134,12 +134,6 @@ TBA
 I guasti delle direttive europee sovietiche che ci renderanno la vita più povera e controllata.
 
 
-#### <a name="winston3"></a> TBA<a href="/e-privacy-XXXI-programma.html#2p04">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
-
-Data Protection Officer deathmatch: arriverà un Privacy Shield 2? E cosa succederà?
-
-
 #### <a name="zugnaz"></a> Gedankenexperiment<a href="/e-privacy-XXXI-programma.html#1m06">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#zugnaz">Efren Zugnaz (the Webprepping Initiative)</a>*
 

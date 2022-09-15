@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
-COUNTDOWN = False
-EVENT_TIME = '2022/06/16 09:00'
+COUNTDOWN = True
+EVENT_TIME = '2022/09/29 10:00'
 
 HOME_LINK = '/'
 # HOME_LINK = 'http://localhost/'
@@ -38,7 +38,7 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'it'
 
 YEAR = u'2022'
-EDITION = 'summer'
+EDITION = 'autumn'
 
 USE_FOLDER_AS_CATEGORY = True
 
