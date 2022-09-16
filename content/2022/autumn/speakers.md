@@ -84,6 +84,12 @@ Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
+#### <a name="amoruso"></a> Giovanni Maria Amoruso 
+
+Curriculum non pervenuto
+
+
+
 #### <a name="tba"></a> Da annunciare 
 
 

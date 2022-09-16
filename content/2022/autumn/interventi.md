@@ -25,6 +25,12 @@ timeline: 7 settembre | 10 settembre | 25 settembre
 
 ## <a name="talks"></a>Gli interventi
 
+#### <a name="amoruso"></a> TBA<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
+*<a href="/e-privacy-XXXI-relatori.html#amoruso">Giovanni Maria Amoruso </a>*
+
+
+
+
 #### <a name="beltrami"></a> Il Giusto Verso del Metaverso<a href="/e-privacy-XXXI-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a>*
 
@@ -55,7 +61,7 @@ Nell’era del Web 2.0 è più che mai attuale la massima secondo la quale: “S
 A Venezia esiste una Smart Control Room che acquisisce da migliaia di sensori, telecamere e dalle celle telefoniche una gigantesca mole di dati.&#13;&#10;Secondo gli addetti ai lavori si tratta di un prodigio della tecnologia che permette un maggior controllo ed una maggiore sicurezza della città. &#13;&#10;Eppure, quando si è trattato di risalire all’identità dei due turisti che facevano surf sul canal grande, il sindaco ha utilizzato Twitter per promettere una cena gratis a chiunque riuscisse a fornire informazioni sui turisti in questione. &#13;&#10;Sale e sistemi di controllo come quello di Venezia stanno nascendo in svariate città italiane e del mondo e l’uso della tecnologia e il tracciamento dei movimenti delle persone attraverso le celle telefoniche è ormai una prassi da diversi anni per gli scopi più disparati, dalle stime del traffico sui software per i navigatori alle statistiche sui cambiamenti degli spostamenti in massa durante il lockdown.&#13;&#10;Teoricamente i dati degli spostamenti ricavati dalle celle telefoniche vengono forniti dagli operatori telefonici a questi sistemi di controllo in maniera aggregata e anonima, ma sappiamo bene che i dati anonimi si possono spesso deanonimizzare, specialmente quando sono disponibili molti altri dati per fare dei confronti incrociati. Nell’era del GDPR viene anche da chiedersi quanti metadati e altre informazioni sensibili appartenenti a residenti all’estero vengono elaborati da questi sistemi, sulla base di quali accordi legali, sigliati da chi? Se una sala controllo è in grado di sapere la nazionalità delle persona che si trovano in una determinata zona ad una determinata ora, è ragionevole pensare che anche all’estero sia possibile fare lo stesso. Fino a dove si spinge la granularità dei dati elaborati da questi sistemi? Quanto l’Intelligenza Artificiale è in grado di arricchire i dati aggregati integrandoli con altre fonti fino a costruire un profilo dettagliato delle persone esaminate? E’ possibile avere più informazioni su questi sistemi? Su quali accordi tra operatori telefonici si basano? Quali sono i loro limiti? E’ possibile sfuggire al controllo capillare? E come?&#13;&#10;Proveremo a vedere che cosa si può sapere dalle informazioni che abbiamo acquisito.&#13;&#10;Cosa centra tutto questo con i sette sistemi neurali principali del cervello tra cui quello della rabbia-dominanza ed il potere che corrompe, come è gia stato scientificamente dimostrato?&#13;&#10;
 
 
-#### <a name="ferri"></a> Fattore umano e privacy<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
+#### <a name="ferri"></a> Fattore umano e privacy<a href="/e-privacy-XXXI-programma.html#1m03">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a>*
 
 Breve riflessione sui possibili scenari di mitigazione al rischio di cessione e trattamento illecito di informazioni personali.
