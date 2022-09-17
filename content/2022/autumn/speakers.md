@@ -17,7 +17,7 @@ prev: e-privacy-XXX
 nextid:
 next:
 Organizzatori: pws, hermes
-Collaboratori: bba
+Collaboratori:roma3,masterroma3
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
