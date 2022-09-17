@@ -221,6 +221,8 @@ PARTNERS = {
     'lealternative': ('LeAlternative.it', 'alternative-150.png', 'http://www.lealternative.it/'),
     'hackerjournal': ('Hacker Journal', 'logo_hacker_journal.jpg', 'http://www.hackerjournal.it/'),
     'gpdp': ('Garante per la Protezione dei Dati Personali', 'gpdp_logo.jpg', 'https://www.gpdp.it/'),
+    'roma3': ('Università Roma Tre - Dipartimento di Giurisprudenza', 'LogoDipartimentoGiurisprudenza.jpg', 'https://www.uniroma3.it/ateneo/dipartimenti-e-scuole/dipartimenti/giurisprudenza-009447/'),
+    'masterroma3': ('Master Privacy', 'logo_master.jpg', 'https://www.masterprotezionedatipersonali.it/'),
 }
 
 

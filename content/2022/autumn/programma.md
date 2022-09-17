@@ -17,10 +17,9 @@ prev: e-privacy-XXX
 nextid:
 next:
 Organizzatori: pws, hermes
-Collaboratori: bba
+Collaboratori: bba, roma3, masterroma3
 Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
-MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 7 settembre | 10 settembre | 25 settembre
 css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
 
