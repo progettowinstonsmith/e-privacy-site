@@ -13,7 +13,7 @@ When: 29-30 settembre
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022S
-prev: e-privacy-30
+prev: e-privacy-XXX
 
 
 Grazie

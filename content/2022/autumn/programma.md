@@ -2,7 +2,7 @@ slug: e-privacy-XXXI-programma
 Template: event
 XStatus: draft
 Title: Privacy tra attivismo e scienza
-Date: 2022-09-15 00:01:00
+Date: 2022-09-17 00:01:00
 Category: 2022
 lang: it
 Num: XXXI
@@ -17,7 +17,7 @@ prev: e-privacy-XXX
 nextid:
 next:
 Organizzatori: pws, hermes
-Collaboratori:roma3,masterroma3
+Collaboratori: roma3,masterroma3
 Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 timeline: 7 settembre | 10 settembre | 25 settembre
@@ -34,7 +34,9 @@ _autumn edition_**.
 <div class="subtitle-XXXI">E' possibile rendere la privacy una "notizia" e  la tecnologia un'"amica" dei cittadini?</div>
 <br/>
 
-**L'evento ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
+**Il convegno ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
+
+e-privacy XXXI è organizzato con la collaborazione dell'Università Roma Tre - Dipartimento di Giurisprudenza, e del Master Universitario "Responsabile della Protezione dei Dati Personali".
 
 
 ###Sede del Convegno
