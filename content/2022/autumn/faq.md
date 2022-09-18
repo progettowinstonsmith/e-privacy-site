@@ -92,7 +92,7 @@ Indicare come parola d'ordine <br>
 <br> IN TUTTE MAIUSCOLE, inserire il cognome e l'email
 del relatore, il giorno dell'intervento e come tipo del materiale
 
-* Slide proiettabili (PDF) o,
+* Slide proiettabili (PDF)  o,
 * Slide proiettabili (PPT)
 
 Se non funziona l'applicazione online di consegna vedere [qui](#viaemail)
