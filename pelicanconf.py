@@ -65,7 +65,7 @@ THIS = (
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Proposta Talk', '/e-privacy-XXXI-proposta.html'),
      ('Call for Paper', '/e-privacy-XXXI-cfp.html'),
-#     ('Slides', '/e-privacy-XXVIII-programma-slides.html'),
+     ('Slides', '/consegna-slides.html'),
 #     ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
 #     ('FAQ per i relatori', '/e-privacy-XXIX-faq-relatori.html'),
      ('Come arrivare', '/e-privacy-XXXI-come-arrivare.html'),
