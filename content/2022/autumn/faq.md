@@ -35,7 +35,7 @@ Per altre domande contattare direttamente la
 
 Per sintetizzare quello che è scritto più estesamente dopo:
 
-- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 31 Maggio, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
+- [se vuoi proiettare le tue slides **è utile** consegnarle entro il 26 settembre, anche se conti di usare il tuo PC, il formato richiesto è PDF, facoltativo PPT](#proiezione)
 
 - [**è opportuno** consegnare anche una versione stampabile delle slides (handouts)](#handouts)
 
@@ -63,7 +63,7 @@ referenti dei relatori.](#contrattempidurante)
 Certamente!
 
 Le slide da proiettare dovranno essere consegnate **entro e non oltre
-il  31 maggio** in formato PDF obbligatoriamente (se consegnate anche
+il 26 settembre** in formato PDF obbligatoriamente (se consegnate anche
 powerpoint, provvederemo a metterli online).
 
 Il computer a disposizione è connesso ad Internet e permette la
@@ -112,7 +112,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXVII-proposta.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -130,7 +130,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
-[http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html](http://e-privacy.winstonsmith.org/e-privacy-XXVII-upload.html)
+[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -204,8 +204,8 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per il giorno giovedì 6 è **Diego Giorio**
-per il giorno venerdì 7 è **Emmanuele Somma**.
+Il referente dei relatori per il giorno giovedì 29 è **Diego Giorio**
+per il giorno venerdì  è **Emmanuele Somma**.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
 per qualsiasi evenienza.
