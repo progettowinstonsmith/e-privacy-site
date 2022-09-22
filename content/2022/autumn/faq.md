@@ -21,7 +21,7 @@ timeline: 7 settembre | 10 settembre | 25 settembre
 Questa FAQ è dedicata ai relatori di eprivacy 2022 autumn edition Roma.
 
 ### Questo è il link per consegnare le slide. Se non lo avete mai fatto LEGGETE le istruzioni più avanti
-[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
+[https://e-privacy.winstonsmith.it/consegna-slides.html](https://e-privacy.winstonsmith.it/consegna-slides.html)
 
 Contiene le informazioni essenziali per consegnare il proprio
 materiale all'organizzazione, arrivare alla sede del convegno e tenere
@@ -85,7 +85,7 @@ Nella consegna dei file rispettare le seguenti regole.
 Consegnare **un unico** file per le slide da proiettare (in formato
 pdf) caricandolo attraverso l'applicazione sulla pagina:
 
-[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
+[https://e-privacy.winstonsmith.it/consegna-slides.html](https://e-privacy.winstonsmith.it/consegna-slides.html)
 
 Indicare come parola d'ordine <br>
 *JULIA*
@@ -112,7 +112,7 @@ seguenti regole.
 Consegna UN solo file per le slide da stampare (solo in formato pdf)
 caricandolo su questa pagina:
 
-[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
+[https://e-privacy.winstonsmith.it/consegna-slides.html](https://e-privacy.winstonsmith.it/consegna-slides.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
@@ -130,7 +130,7 @@ consegna allo stesso modo.
 Puoi consegnare più file (purché il nome del file che alleghi sia diverso)
 caricandolo sempre sulla pagina:
 
-[https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html](https://e-privacy.winstonsmith.org/e-privacy-XXXI-proposta.html)
+[https://e-privacy.winstonsmith.it/consegna-slides.html](https://e-privacy.winstonsmith.it/consegna-slides.html)
 
 Indica come parola d'ordine JULIA, inserisci il tuo cognome e l'email,
 il giorno dell'intervento e come tipo del materiale
