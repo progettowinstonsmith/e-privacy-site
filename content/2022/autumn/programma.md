@@ -94,7 +94,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 10:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='apertura'></a><a href="/e-privacy-XXXI-interventi.html#priolo">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
 10:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#patriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXI-interventi.html#patriarca">Tecnologie amiche, tecnologie nemiche: Alexa e il trojan, due modalità a confronto</a></em></span>
 10:50|50|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a> e <a href="/e-privacy-XXXI-relatori.html#fiorenza">Valentina Fiorenza (D&L NET)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXI-interventi.html#gazzella">Libertà nel mondo digitale: verso un modello as-a-service?</a></em></span>
-11:40|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXI-interventi.html#winston2">Un discorso da fare con calma</a></em></span>
+11:40|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#lopez">Ugo Lopez (Studio di ingegneria informatica e forense Ugo Lopez)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXI-interventi.html#lopez">Identità digitale e personalità giuridica: un connubio possibile?</a></em></span>
 12:10|80|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXI-interventi.html#tavola1">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
@@ -104,13 +104,12 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-15:30||<span class='talk'><a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#lopez">Ugo Lopez (Studio di ingegneria informatica e forense Ugo Lopez)</a><br/><em><a name='2p01'></a><a href="/e-privacy-XXXI-interventi.html#lopez">Identità digitale e personalità giuridica: un connubio possibile?</a></em></span>
-15:50|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#vescovi">Chiara Vescovi (Università Bicocca e ReD OPEN Srl)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXXI-interventi.html#vescovi">Progettare informative privacy: comprensibilità ed efficienza tra tecniche comunicative e legal design</a></em></span>
-16:10|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a> e <a href="/e-privacy-XXXI-relatori.html#rana">Vincenzo Rana (Knobs)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#giordano">Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future</a></em></span>
-16:40|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
-17:00|40|<span class='talk'><em>Pausa</em></span>
-17:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p05'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
+15:30|5|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
+15:35|25|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#vescovi">Chiara Vescovi (Università Bicocca e ReD OPEN Srl)</a><br/><em><a name='2p01'></a><a href="/e-privacy-XXXI-interventi.html#vescovi">Progettare informative privacy: comprensibilità ed efficienza tra tecniche comunicative e legal design</a></em></span>
+16:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a> e <a href="/e-privacy-XXXI-relatori.html#rana">Vincenzo Rana (Knobs)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXXI-interventi.html#giordano">Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future</a></em></span>
+16:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
+16:50|40|<span class='talk'><em>Pausa</em></span>
+17:20|70|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p04'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori
