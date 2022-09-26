@@ -58,7 +58,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 10:00|10|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy tra attivismo e scienza</em></span>
-10:10|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXI-interventi.html#scorza">Saluti Istituzionali</a></em></span>
+10:10|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXI-interventi.html#scorza">Privacy: le sfide all'orizzonte</a></em></span>
 10:40|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXI-interventi.html#berto">Automatizzare la giustizia: quale ruolo assume il pensiero e la parola</a></em></span>
 11:00|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 11:20|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gargano">Nicola Gargano </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXI-interventi.html#gargano">Intelligenza Artificiale e Giustizia Predittiva o Giustizia Artificiale?</a></em></span>
