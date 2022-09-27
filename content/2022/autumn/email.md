@@ -99,7 +99,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 10:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#patriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXI-interventi.html#patriarca">Tecnologie amiche, tecnologie nemiche: Alexa e il trojan, due modalità a confronto</a></em></span>
 10:50|50|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a> e <a href="/e-privacy-XXXI-relatori.html#fiorenza">Valentina Fiorenza (D&L NET)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXI-interventi.html#gazzella">Libertà nel mondo digitale: verso un modello as-a-service?</a></em></span>
 11:40|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#lopez">Ugo Lopez (Studio di ingegneria informatica e forense Ugo Lopez)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXI-interventi.html#lopez">Identità digitale e personalità giuridica: un connubio possibile?</a></em></span>
-12:10|80|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXI-interventi.html#tavola1">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
+12:10|80|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#augenti">Adriana Augenti </a>, <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXI-relatori.html#gubitosa">Carlo Gubitosa </a>, <a href="/e-privacy-XXXI-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a> e <a href="/e-privacy-XXXI-relatori.html#manzi">Nicola Manzi </a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXI-interventi.html#tavola1">Attivismo, hacktivismi e politica: quale scienza è esatta?</a></em></span>
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
@@ -113,7 +113,7 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 16:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#giordano">Marco Tullio Giordano (42 Law Firm)</a> e <a href="/e-privacy-XXXI-relatori.html#rana">Vincenzo Rana (Knobs)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXXI-interventi.html#giordano">Blockchain e strumenti di contrasto alla profilazione degli utenti: stato dell’arte ed implementazioni future</a></em></span>
 16:30|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXXI-interventi.html#surbone">L’altra società possibile</a></em></span>
 16:50|40|<span class='talk'><em>Pausa</em></span>
-17:20|70|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#tba">Da annunciare </a><br/><em><a name='2p04'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
+17:20|70|<span class='talk'>Modera: <a href="/e-privacy-XXXI-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a><br/>Partecipano: <a href="/e-privacy-XXXI-relatori.html#laviola">Franceso Laviola </a>, <a href="/e-privacy-XXXI-relatori.html#natale">Valerio Natale </a> e <a href="/e-privacy-XXXI-relatori.html#ricciulli">Francesco Ricciulli </a><br/><em><a name='2p04'></a>Tavola Rotonda: <a href="/e-privacy-XXXI-interventi.html#tavola2">Tavola Rotonda aperta su DPO e dintorni</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 
@@ -312,9 +312,9 @@ Curriculum non pervenuto
 
 
 
-#### <a name="tba"></a> Da annunciare 
+#### <a name="augenti"></a> Adriana Augenti 
 
-
+Avvocato del foro di Bari, ha maturato esperienza in diritto della proprietà industriale e della concorrenza, diritto societario, diritto d'autore, diritto dell'informatica e delle nuove tecnologie, in cui ha sviluppato esperienze e competenze nella protezione dei dati personali, internet governance, diritti degli utenti e information society. Co-founder dei Bari Legal Hackers
 
 
 
@@ -384,15 +384,39 @@ Marco Tullio Giordano è un tech lawyer, da sempre votato al diritto delle nuove
 
 
 
+#### <a name="gubitosa"></a> Carlo Gubitosa 
+
+Curriculum non pervenuto
+
+
+
+#### <a name="laviola"></a> Franceso Laviola 
+
+Avvocato, assegnista di ricerca in Istituzioni di diritto pubblico presso il Dipartimento di Giurisprudenza dell’Università degli Studi Roma Tre e Associato dello studio legale E-Lex. Esperto di diritto pubblico, diritto delle nuove tecnologie e diritto della protezione dei dati personali, ha conseguito un dottorato di ricerca difendendo una tesi dal titolo Potere e garanzie nell’età delle macchine: rule of law, trasparenza e protezione dei dati personali. Svolge attività professionale presso lo studio legale. È autore di pubblicazioni scientifiche in riviste e in volumi.on pervenuto
+
+
+
 #### <a name="lopez"></a> Ugo Lopez (Studio di ingegneria informatica e forense Ugo Lopez)
 
 Professore a contratto di informatica forense e sicurezza nelle reti e nei sistemi distribuiti presso Uniba, ingegnere informatico, ho una grande passione per il diritto (delle nuove tecnologie) che alimento con una laurea in scienze giuridiche e con studi di giurisprudenza. Mi occupo di informatica forense e di cloud (SaaS) e di cybersecurity, con un occhio particolare alla gestione e protezione delle identità digitali.
 
 
 
+#### <a name="manzi"></a> Nicola Manzi 
+
+Curriculum non pervenuto
+
+
+
 #### <a name="mariscoli"></a> Marco Mariscoli 
 
 Avvocato penalista che si occupa di adeguamento alla normativa sulla Privacy nelle aziende.
+
+
+
+#### <a name="natale"></a> Valerio Natale 
+
+Avvocato, associate dello studio legale internazionale Hogan Lovells, è specializzato nel diritto di internet e delle nuove tecnologie. Si occupa prevalentemente di contrattualistica, sharing economy, e-commerce, diritto dei consumatori, privacy, responsabilità degli Internet Service Providers e mobilità alternativa. E' dottorando di Diritto Pubblico e docente del Master Privacy presso l'Università degli Studi di Roma Tre.
 
 
 
@@ -405,6 +429,12 @@ Attualmente sono una professionista che collabora con lo Studio Legale E-Lex, si
 #### <a name="rana"></a> Vincenzo Rana (Knobs)
 
 Co-founder e CEO di KNOBS, società di sviluppo software specializzata in tecnologia blockchain, Vincenzo Rana segue, come socio fondatore e consulente scientifico, alcune tra le più interessanti realtà italiane attive nello sviluppo di progetti e soluzioni basate su blockchain, come BCode, spin-off del Politecnico di Milano specializzata in servizi di notarizzazione e gestione di NFT tramite API, e Urania, holding di partecipazione industriale con focus sulla tecnologia blockchain.&#13;&#10;È ricercatore dell’Osservatorio Blockchain & Distributed Ledger Technology e del Blockchain Innovation and Solutions Hub del Politecnico di Milano, che si contraddistinguono per attività di ricerca e divulgazione, volte ad agevolare la creazione di ecosistemi in questo ambito tecnologico. È inoltre inventore di 4 brevetti inerenti la tecnologia blockchain e autore di oltre 80 pubblicazioni in conferenze e riviste di rilievo internazionale.&#13;&#10;Come consulente tecnico e CTU, collabora in indagini in ambito blockchain e criptovalute con la Procura di Firenze ed è stato consulente per CONSOB, l’autorità italiana per la vigilanza dei mercati finanziari. È, inoltre, membro del Blockchain Steering Committee di Assolombarda e referente di San Marino Innovation per la valutazione delle iscrizioni al Registro degli Enti Blockchain della Repubblica di San Marino. Specializzato da diversi anni in ambito blockchain, contribuisce alla progettazione, gestione e realizzazione di progetti di settore di rilevanza nazionale ed internazionale.&#13;&#10;
+
+
+
+#### <a name="ricciulli"></a> Francesco Ricciulli 
+
+Avvocato, collabora con lo Studio Legale E-Lex all’interno del quale assiste pubbliche amministrazioni, imprese e società pubbliche in questioni relative al diritto amministrativo e al diritto delle tecnologie con particolare riferimento alla trasparenza dell’attività amministrativa, ai contratti pubblici, alle varie implicazioni del processo di digitalizzazione delle pubbliche amministrazioni e alla protezione dei dati personali. È autrice di pubblicazioni nelle materie di attività.  Svolge attività di formazione sui temi dei profili giuridici dell’innovazione e della digitalizzazione, dei contratti pubblici, della trasparenza e della prevenzione della corruzione. È docente del Master Privacy presso l'Università degli Studi di Roma Tre
 
 
 
