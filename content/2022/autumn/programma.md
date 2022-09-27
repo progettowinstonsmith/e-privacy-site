@@ -16,7 +16,7 @@ previd: 2022S
 prev: e-privacy-XXX
 nextid:
 next:
-Organizzatori: pws, hermes
+Organizzatori: pws, hermes 
 Collaboratori: roma3,masterroma3
 Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
