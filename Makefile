@@ -9,6 +9,9 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 TARGETDIR=/home/pws/sites/org.winstonsmith.e-privacy/site
 
+INPUTORG=../../archive.org/eprivacy-org-db/31-2022A.org
+
+
 FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
@@ -79,6 +82,9 @@ ifdef PORT
 else
 	$(BASEDIR)/develop_server.sh restart
 endif
+
+program:
+	python sync-sheet-on-org.py $(INPUTORG)
 
 stopserver:
 	kill -9 `cat pelican.pid`
