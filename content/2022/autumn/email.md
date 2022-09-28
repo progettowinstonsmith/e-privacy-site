@@ -68,9 +68,8 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 11:00|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXI-interventi.html#ferri">Fattore umano e privacy</a></em></span>
 11:20|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#gargano">Nicola Gargano </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXI-interventi.html#gargano">Intelligenza Artificiale e Giustizia Predittiva o Giustizia Artificiale?</a></em></span>
 11:40|20|<span class='talk'><em>Pausa</em></span>
-12:00|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXI-interventi.html#ciurcina">MonitoraPA: riflessioni</a></em></span>
-12:20|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXI-interventi.html#zugnaz">Gedankenexperiment</a></em></span>
-12:50|10|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXI-interventi.html#winston1">Archivismi</a></em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXI-interventi.html#ciurcina">MonitoraPA: riflessioni</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#zugnaz">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXI-interventi.html#zugnaz">Gedankenexperiment</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
@@ -83,8 +82,8 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 15:10|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#epto"> Epto </a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXI-interventi.html#epto">Smart City, Grande Fratello o nuovo livello della mania di controllo digitale?</a></em></span>
 15:40|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXI-interventi.html#vieri">Greenpass: genesi, opportunita' e possibili problemi di privacy</a></em></span>
 16:10|20|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXI-interventi.html#beltrami">Il Giusto Verso del Metaverso</a></em></span>
-16:30|30|<span class='talk'><em>Pausa</em></span>
-17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#amoruso">Giovanni Maria Amoruso </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#amoruso">TBA</a></em></span>
+16:30|60|<span class='talk'><em>Pausa</em></span>
+17:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXI-interventi.html#winston1">Archivismi</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#conti">Giacomo Conti (Studio Legale Conti)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXI-interventi.html#conti">Quanto costano realmente i servizi online? L’apparente gratuità dei servizi online del web 2.0 fra privacy. I profili di interferenza fra GDPR e codice del consumo. Il caso Apple E Google</a></em></span>
 18:00|30|<span class='talk'><a href="/e-privacy-XXXI-relatori.html#mariscoli">Marco Mariscoli </a>, <a href="/e-privacy-XXXI-relatori.html#calonzi">Marco Calonzi (Studio Legale Mariscoli e De Simone)</a> e <a href="/e-privacy-XXXI-relatori.html#desimone">Luca Serafino De Simone (Studio Legale Mariscoli e De Simone)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXI-interventi.html#mariscoli">Geolocalizzazione del dipendente: opportunità o violazione della privacy e dello Statuto dei Lavoratori?</a></em></span>
 18:30||<span class='talk'><em>Chiusura sessione</em></span>
@@ -118,12 +117,6 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 
 
 ## <a name="talks"></a>Gli interventi
-
-#### <a name="amoruso"></a> TBA<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#amoruso">Giovanni Maria Amoruso </a>*
-
-
-
 
 #### <a name="beltrami"></a> Il Giusto Verso del Metaverso<a href="/e-privacy-XXXI-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a>*
@@ -221,7 +214,7 @@ L’intervento si propone di recuperare il significato originale di informativa 
 Fortunamente pare che il green-pass sia fuori dagli schermi dei media, quindi dovrebbe esser possibile una disanima tecnica dalla nasciata al suo uso su larga scala. Dalla nascita come covid green-certificate alla ridenominazione in greenpass. Dal suo previsto uso di certificato di vaccinazione al suo uso (in alcuni paesi UE) come condizione necessaria per accedere al lavoro. Ovviamente avremo una corposa bibliografia relativa ai documenti UE, e al codice libero applicativo. Poi esamineremo insieme come un cittadino sia lavoratore, sia cliente sia datore di lavoro o negoziante avrebbe dovuto usare questo strumento. E ipotizzeremo cosa avrebbe potuto andare storto, ma, almeno che si sappia, questa volta non lo ha fatto.&#13;&#10;Magari potremo dare uno spunto per una sana, onesta e civile discussione tra fautori e contrari a questo genere di strumenti.&#13;&#10;
 
 
-#### <a name="winston1"></a> Archivismi<a href="/e-privacy-XXXI-programma.html#1m07">⇧</a>
+#### <a name="winston1"></a> Archivismi<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
 
 TBA
@@ -305,12 +298,6 @@ Emmanuele Somma è prestato da anni al Progetto Winston Smith. È giornalista
 pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
 Internet wealth". 
 ## <a name="speakers"></a>I relatori
-
-#### <a name="amoruso"></a> Giovanni Maria Amoruso 
-
-Curriculum non pervenuto
-
-
 
 #### <a name="augenti"></a> Adriana Augenti 
 

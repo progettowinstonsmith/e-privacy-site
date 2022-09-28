@@ -84,12 +84,6 @@ Internet wealth".
 
 ## <a name="speakers"></a>I relatori
 
-#### <a name="amoruso"></a> Giovanni Maria Amoruso 
-
-Curriculum non pervenuto
-
-
-
 #### <a name="augenti"></a> Adriana Augenti 
 
 Avvocato del foro di Bari, ha maturato esperienza in diritto della proprietà industriale e della concorrenza, diritto societario, diritto d'autore, diritto dell'informatica e delle nuove tecnologie, in cui ha sviluppato esperienze e competenze nella protezione dei dati personali, internet governance, diritti degli utenti e information society. Co-founder dei Bari Legal Hackers

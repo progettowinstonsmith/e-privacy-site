@@ -25,12 +25,6 @@ timeline: 7 settembre | 10 settembre | 25 settembre
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="amoruso"></a> TBA<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXXI-relatori.html#amoruso">Giovanni Maria Amoruso </a>*
-
-
-
-
 #### <a name="beltrami"></a> Il Giusto Verso del Metaverso<a href="/e-privacy-XXXI-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a>*
 
@@ -127,7 +121,7 @@ L’intervento si propone di recuperare il significato originale di informativa 
 Fortunamente pare che il green-pass sia fuori dagli schermi dei media, quindi dovrebbe esser possibile una disanima tecnica dalla nasciata al suo uso su larga scala. Dalla nascita come covid green-certificate alla ridenominazione in greenpass. Dal suo previsto uso di certificato di vaccinazione al suo uso (in alcuni paesi UE) come condizione necessaria per accedere al lavoro. Ovviamente avremo una corposa bibliografia relativa ai documenti UE, e al codice libero applicativo. Poi esamineremo insieme come un cittadino sia lavoratore, sia cliente sia datore di lavoro o negoziante avrebbe dovuto usare questo strumento. E ipotizzeremo cosa avrebbe potuto andare storto, ma, almeno che si sappia, questa volta non lo ha fatto.&#13;&#10;Magari potremo dare uno spunto per una sana, onesta e civile discussione tra fautori e contrari a questo genere di strumenti.&#13;&#10;
 
 
-#### <a name="winston1"></a> Archivismi<a href="/e-privacy-XXXI-programma.html#1m07">⇧</a>
+#### <a name="winston1"></a> Archivismi<a href="/e-privacy-XXXI-programma.html#1p04">⇧</a>
 *<a href="/e-privacy-XXXI-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a>*
 
 TBA
