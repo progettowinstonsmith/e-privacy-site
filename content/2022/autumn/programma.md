@@ -54,6 +54,8 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 
 #### <a name="vep"></a>Giovedì 29  settembre 2022 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5C8u-xpmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -69,6 +71,8 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvZEosz11yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
@@ -86,6 +90,9 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9UIuEWuVobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 * Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
@@ -98,6 +105,9 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ypb-2FN5gg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 * Modera: <a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a>
 
