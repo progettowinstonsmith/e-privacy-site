@@ -158,7 +158,7 @@ Marco Tullio Giordano è un tech lawyer, da sempre votato al diritto delle nuove
 
 #### <a name="gubitosa"></a> Carlo Gubitosa 
 
-Curriculum non pervenuto
+Ingegnere delle telecomunicazioni, giornalista e saggista al crocevia tra le tecnologie informatiche e l’altermondialismo. Nel 2009 ha fondato con Mauro Biani la rivista “Mamma! Se ci leggi è giornalismo, se ci quereli è satira”, la prima rivista italiana di giornalismo a fumetti (che dirige dal 2009 al 2013) e una collana no-profit di saggistica a fumetti disponibile su www.mamma.am. Con Francesco Iannuzzelli dell’associazione PeaceLink nel 2020 ha creato www.sociale.network, una piattaforma non commerciale di microblogging alternativa a Twitter e basata sul software libero Mastodon, integrato in un "fediverso" di 8000 piattaforme e 5 milioni di utenti. Tra le sue pubblicazioni sui temi della telematica sociale, autore di Telematica per la pace (Apogeo 1996), Oltre Internet (EMI/FCE 1997), Italian Crackdown (Apogeo 1999), L'informazione alternativa (Emi 2002), Elogio della pirateria (Terre di Mezzo 2005), Hacker, scienziati e pionieri (Stampa Alternativa 2007), Propaganda d'autore (Stampa Alternativa 2011), Il giornalismo a fumetti (NPE 2018). E' tra i coautori di Ecologia digitale. Per una tecnologia al servizio di persone, società e ambiente (Altreconomia 2022).
 
 
 
