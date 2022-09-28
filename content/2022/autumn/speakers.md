@@ -210,7 +210,7 @@ Co-founder e CEO di KNOBS, società di sviluppo software specializzata in tecnol
 
 
 
-#### <a name="ricciulli"></a> Francesco Ricciulli 
+#### <a name="ricciulli"></a> Francesca Ricciulli 
 
 Avvocato, collabora con lo Studio Legale E-Lex all’interno del quale assiste pubbliche amministrazioni, imprese e società pubbliche in questioni relative al diritto amministrativo e al diritto delle tecnologie con particolare riferimento alla trasparenza dell’attività amministrativa, ai contratti pubblici, alle varie implicazioni del processo di digitalizzazione delle pubbliche amministrazioni e alla protezione dei dati personali. È autrice di pubblicazioni nelle materie di attività.  Svolge attività di formazione sui temi dei profili giuridici dell’innovazione e della digitalizzazione, dei contratti pubblici, della trasparenza e della prevenzione della corruzione. È docente del Master Privacy presso l'Università degli Studi di Roma Tre
 
