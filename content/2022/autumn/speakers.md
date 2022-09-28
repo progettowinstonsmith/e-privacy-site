@@ -176,7 +176,7 @@ Professore a contratto di informatica forense e sicurezza nelle reti e nei siste
 
 #### <a name="manzi"></a> Nicola Manzi 
 
-Curriculum non pervenuto
+Manager dell'innovazione accreditato presso il ministero dello sviluppo economico, OiV e Nucleo di Valutazione. DPO certificato e consulente privacy. Lead Auditor qualificato (AICQ-SICEV) ISO 9001, ISO 14001, Auditor ISO 27001, specialista di modelli organizzativi 231/01 e sistemi di gestione, formatore e consulente direzionale con più di 10 anni di esperienza. Come Digital Evangelist promuove il progetto digitale “I supereroi della privacy” declinato su Facebook e Youtube per diffondere su basi stabili la cultura della data protection attraverso interventi formativi, pratici, approfonditi e collaborativi.
 
 
 
