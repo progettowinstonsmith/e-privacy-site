@@ -39,19 +39,15 @@ _autumn edition_**.
 
 e-privacy XXXI è organizzato con la collaborazione dell'Università Roma Tre - Dipartimento di Giurisprudenza, e del Master Universitario "Responsabile della Protezione dei Dati Personali".
 
-
-###Sede del Convegno
-
 La sede del Convegno è stata l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magna</a> del Dipartimento di Giurisprudenza dell'Università degli Studi Roma Tre, in via Ostiense, 163 Roma
 
-###Atti e registrazioni del Convegno
 
+###Atti e registrazioni del Convegno
 
 **Le slide e gli atti del convegno sono stati pubblicati e sono raggiungibili, quando presenti, usando le icone poste accanto al nome del relatore, inserite nel programma**.
 <br>
 <br>
 **Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
-<br>
 <br>
 Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
 
@@ -72,6 +68,7 @@ Icona | Descrizione | Icona | Descrizione
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5C8u-xpmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 * Modera: <a href="/e-privacy-XXXI-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -90,6 +87,7 @@ Icona | Descrizione | Icona | Descrizione
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvZEosz11yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 * Modera: <a href="/e-privacy-XXXI-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -108,7 +106,7 @@ Icona | Descrizione | Icona | Descrizione
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9UIuEWuVobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 * Modera: <a href="/e-privacy-XXXI-relatori.html#priolo">Enrica Priolo </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
@@ -124,7 +122,7 @@ Icona | Descrizione | Icona | Descrizione
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ypb-2FN5gg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 * Modera: <a href="/e-privacy-XXXI-relatori.html#berto">Rebecca Berto </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
