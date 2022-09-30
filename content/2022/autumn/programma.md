@@ -15,7 +15,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 previd: 2022S
 prev: e-privacy-XXX
 nextid:
-next:
+next: 
 Organizzatori: pws, hermes
 Collaboratori: roma3,masterroma3
 Patrocini: gpdp
