@@ -50,6 +50,12 @@ La sede del Convegno è stata l'<a href="/e-privacy-XXXI-come-arrivare.html">Aul
 **Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
 <br>
 Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2022we/video/ep-2022ae_01_e-privacy_XXXI_Privacy_tra_attivismo_e_scienza_prima_giornata_mattina-O5C8u-xpmz0.mkv"> 29-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022we/video/ep-2022ae_02_e-privacy_XXXI_Privacy_tra_attivismo_e_scienza_prima_giornata_pomeriggio-lvZEosz11yE.mkv"> 29-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022we/video/ep-2022ae_03_e-privacy_XXXI_Privacy_tra_attivismo_e_scienza_seconda_giornata_mattina-9UIuEWuVobk.mkv"> 30-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022we/video/ep-2022ae_04_e-privacy_XXXI_Privacy_tra_attivismo_e_scienza_seconda_giornata_pomeriggio-Ypb-2FN5gg4.mkv"> 30-pomeriggio.</a>
 
 
 ### <a name="programma"></a>Programma del Convegno
