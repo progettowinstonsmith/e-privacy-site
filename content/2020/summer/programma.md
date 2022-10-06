@@ -39,10 +39,6 @@ _spring edition_** XXVII; il tema guida è stato:
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 
 ** La registrazione completa delle due giornate è disponibile sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a> o direttamente da questa pagina. Le slide dei relatori sono disponibili nel programma. **
-
-
-<br>
-**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
 <br>
 Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
 <br>
