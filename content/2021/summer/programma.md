@@ -28,6 +28,16 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 ###Pubblicati gli atti ed il minutaggio degli interventi
 
 ** Le slide delle presentazioni ** (se rese disponibili dal relatore) sono accessibili cliccando sull'icona <IMG alt="pdf" src="/images/icon/presentation.png"> alla sinistra del nome del relatore; cliccando invece sull'orario della relazione si accede alla registrazione video nel ** momento di inizio dell'intervento stesso **.
+<br>
+**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2021/video/ep2021se_01_e-privacy_XXIX_prima_giornata_mattina-U76hIPUhL4s.mkv"> 21-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2021/video/ep2021se_02_e-privacy_XXIX_prima_giornata_pomeriggio-jgqVN_HaNVM.mkv"> 21-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2021/video/ep2021se_03_e-privacy_XXIX_seconda_giornata_mattina-9ebJxPhGmlw.mkv"> 22-mattina. </a>
+
 
 ###e-privacy 2021 - summer edition
 

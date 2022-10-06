@@ -30,13 +30,26 @@ Il tema guida della XXVIII edizione di e-privacy è stato:
 **<div class="title-XXVIII">«CoViD 1984»</div>**
 **<div class="subtitle-XXVIII">Pandemia, tecnocontrollo e profilazione sociale</div>**
 
-**Questi sono i link alle video Youtube delle tre sessioni: **
+**Questi sono i link ai video Youtube delle tre sessioni: **
 
 Venerdì 2 mattina - [https://youtu.be/tUYdQgVpTjc](https://youtu.be/tUYdQgVpTjc)
 <br>
 Venerdì 2 pomeriggio - [https://youtu.be/B-Ht5SoiwSw](https://youtu.be/B-Ht5SoiwSw)
 <br>
 Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
+
+<br>
+**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_01_e-privacy_XXVIII_prima_giornata_mattina-tUYdQgVpTjc.mkv"> 2-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_02_e-privacy_XXVIII_prima_giornata_pomeriggio-B-Ht5SoiwSw.mkv"> 2-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_03_e-privacy_XXVIII_seconda_giornata-xql23gh-wMk.mkv"> 3-mattina.</a> 
+
+
+
 
 #### <b>Lasciaci un piccolo obolo per realizzare il prossimo congresso.</b>
 
