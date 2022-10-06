@@ -44,9 +44,9 @@ Sabato 3 mattina - [https://youtu.be/xql23gh-wMk](https://youtu.be/xql23gh-wMk)
 Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
 <br>
 Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
-<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_01_e-privacy_XXVIII_prima_giornata_mattina-tUYdQgVpTjc.mkv"> 2-mattina, </a>
-<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_02_e-privacy_XXVIII_prima_giornata_pomeriggio-B-Ht5SoiwSw.mkv"> 2-pomeriggio, </a>
-<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020we_03_e-privacy_XXVIII_seconda_giornata-xql23gh-wMk.mkv"> 3-mattina.</a> 
+<a href="https://e-privacy.winstonsmith.org/materiali/2020we/video/ep2020we_01_e-privacy_XXVIII_prima_giornata_mattina-tUYdQgVpTjc.mkv"> 2-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2020we/video/ep2020we_02_e-privacy_XXVIII_prima_giornata_pomeriggio-B-Ht5SoiwSw.mkv"> 2-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2020we/video/ep2020we_03_e-privacy_XXVIII_seconda_giornata-xql23gh-wMk.mkv"> 3-mattina.</a> 
 
 
 
