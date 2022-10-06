@@ -88,7 +88,7 @@ ISCRIVITI='''
 PREVS = (
     #    ('mappa di tutte le edizioni', '/mappa.html'),
     ('e-privacy 2022 summer XXX', '/e-privacy-XXX.html'),
-    ('e-privacy 2021 autumn 29e¾', '/e-privacy-29e3quarti-programma.html'),
+    ('e-privacy 2021 autumn 29e¾', '/e-privacy-29e3quarti.html'),
     ('e-privacy 2021 summer XXIX', '/e-privacy-XXIX.html'),
     ('e-privacy 2020 autumn XXVIII', '/e-privacy-XXVIII.html'),
     ('e-privacy 2020 summer XXVII', '/e-privacy-XXVII.html'),
