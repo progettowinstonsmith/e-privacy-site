@@ -148,7 +148,7 @@ La manifestazione e’ organizzata da:
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
-e da altre organizzazioni, aziende ed associazioni.
+e da altre <a rel="me" href="https://mastodon.uno/@calamarim">organizzazioni</a>, aziende ed associazioni.
 
 
 ### Contatti
