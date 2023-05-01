@@ -34,6 +34,15 @@ css: .title-XXIX { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 #### <b> Pubblicati video ed atti   </b>
 
+<br>
+**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2021vnetq/video/ep2021ae_01_e-privacy_29_e_3_4_prima_giornata-OP5IgJL9w9w.mkv"> 1-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2021vnetq/video/ep2021ae_02_e-privacy_29_e_3_4_seconda_giornata-c1vUAElJTX0.mkv"> 2-mattina. </a>
+<br>
 
 
 

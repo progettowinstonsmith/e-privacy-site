@@ -39,6 +39,14 @@ _spring edition_** XXVII; il tema guida è stato:
 <div class="subtitle-XXVII">Giustizia automatica e predittiva, Social Scoring e Smart Cities; poco e troppo "smart" allo stesso tempo?</div>
 
 ** La registrazione completa delle due giornate è disponibile sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale del Progetto Winston Smith</a> o direttamente da questa pagina. Le slide dei relatori sono disponibili nel programma. **
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020se_01_e-privacy_XXVII_prima_giornata.mp4"> 15-maggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2020/video/ep2020se_02_e-privacy_XXVII_seconda_giornata.mp4"> 16-maggio.</a> 
+<br>
+
 
 <!--
 <div class="linkbutton"><a class="linkbutton"  href="http://lists.xed.it/ep2019-registration-form">Iscriviti!</a></div>

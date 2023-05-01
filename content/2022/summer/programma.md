@@ -43,6 +43,12 @@ Il tema guida della XXX edizione di e-privacy è stato:
 **Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
 <br>
 Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2022/video/ep2022se_01_e-privacy XXX_Sospendiamo_la_privacy_prima_giornata_mattina-xWbC7fX_WjM.mkv"> 16-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022/video/ep2022se_02_e-privacy XXX_Sospendiamo_la_privacy_prima_giornata_pomeriggio-muF4h7ENeSw.mkv"> 16-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022/video/ep2022se_03_e-privacy XXX_Sospendiamo_la_privacy_seconda_giornata_mattina-S21aHf5LCBc.mkv"> 17-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2022/video/ep2022se_04_e-privacy XXX_Sospendiamo_la_privacy_seconda_giornata_pomeriggio-J__McCuCMsc.mkv"> 17-pomeriggio.</a>
 
 
 ### <a name="programma"></a>Programma del Convegno
