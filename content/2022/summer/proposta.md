@@ -1,7 +1,7 @@
 Template: event
 Title: Proposta Talk
 Date: 2022-03-15 00:00:00
-slug: e-privacy-XXX-proposta
+slug: e-privacy-XXX-proposta-a
 Category: 2022
 lang: it
 Num: XXX

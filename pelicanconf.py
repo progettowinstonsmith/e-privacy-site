@@ -6,10 +6,10 @@ LOAD_CONTENT_CACHE = False
 # CACHE_MODIFIED_METHOD = 'md5'
 
 COUNTDOWN = True
-EVENT_TIME = '2022/09/29 10:00'
+EVENT_TIME = '2023/06/14 10:00'
 
 HOME_LINK = '/'
-# HOME_LINK = 'http://localhost/'
+#HOME_LINK = 'http://localhost/'
 
 LIVE_AT=False
 # "15:00"
@@ -25,7 +25,7 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2022 autumn: Privacy tra attivismo e scienza'
+SITENAME = u'e-privacy 2023 summer: Privacy, AI & Security: un trinomio complesso'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
@@ -56,7 +56,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "e-privacy 2022 summer"
+THIS_TITLE = "e-privacy 2023 summer"
 
 THIS = (
      ('Il programma', '/e-privacy-XXXI-programma.html'),
@@ -87,6 +87,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     #    ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2022 autumn XXXI', '/e-privacy-XXXI.html'),
     ('e-privacy 2022 summer XXX', '/e-privacy-XXX.html'),
     ('e-privacy 2021 autumn 29e¾', '/e-privacy-29e3quarti-programma.html'),
     ('e-privacy 2021 summer XXIX', '/e-privacy-XXIX.html'),
