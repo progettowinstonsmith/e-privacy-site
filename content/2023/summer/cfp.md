@@ -24,12 +24,14 @@ MediaPartner: infomedia,aneddotica,lealternative,hackerjournal
 timeline: 10 maggio | 14 maggio | 12 giugno
 css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
-<div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
-<div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
-<br/>
-
 e-privacy XXXII @ Roma
 ===============================
+
+<div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
+
+<div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
+
+<br>
 
 Call for Paper
 --------------
