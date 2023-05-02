@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
-Date: 2023-03-15 00:01:00
+Date: 2023-05-01 00:01:00
 slug: e-privacy-XXXII-cfp
 Category: 2023
 lang: it
