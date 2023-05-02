@@ -2,7 +2,7 @@ slug: e-privacy-XXXII-come-arrivare
 Template: event
 XStatus: draft
 Title: Come arrivare ad e-privacy
-Date: 2023-05-29 00:01:00
+Date: 2023-04-29 00:01:00
 Category: 2023
 lang: it
 Num: XXXII
