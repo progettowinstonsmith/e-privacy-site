@@ -99,7 +99,7 @@ Le proposte dovranno contenere:
 -   se disponibile alla pubblicazione di registrazioni audio
 -   se disponibile alla pubblicazione di registrazioni video
 
-**Le proposte dovranno essere presentate tramite questo <a href="/e-privacy-XXXII-proposta.html">form</a>.**
+**ATTENZIONE: Le proposte dovranno essere presentate tramite questo <a href="/e-privacy-XXXII-proposta.html">form</a>.**
 
 **entro il termine ultimo del 10 maggio 2023**
 
