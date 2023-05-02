@@ -16,11 +16,6 @@ previd: 2022W
 prev: e-privacy-XXXI
 nextid:
 next:
-Organizzatori: pws,asr
-Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup,hermes
-Patrocini: 
-MediaPartner: infomedia,aneddotica,lealternative,hackerjournal
 timeline: 10 maggio | 14 maggio | 12 giugno
 css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
