@@ -68,7 +68,7 @@ THIS = (
 #     ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
 #     ('FAQ per i relatori', '/e-privacy-XXXI-faq-relatori.html'),
 #     ('Slides', '/consegna-slides.html'),
-     ('Come arrivare', '/e-privacy-XXXI-come-arrivare.html'),
+     ('Come arrivare', '/e-privacy-XXXII-come-arrivare.html'),
 #     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
