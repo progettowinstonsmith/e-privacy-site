@@ -14,8 +14,8 @@ Season: autumn
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022S
 prev: e-privacy-XXX
-nextid:
-next: 
+nextid: 2023S
+next: e-privacy-XXXII
 Organizzatori: pws, hermes
 Collaboratori: roma3,masterroma3
 Patrocini: gpdp
