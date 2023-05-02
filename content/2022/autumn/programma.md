@@ -1,4 +1,4 @@
-slug: e-privacy-XXXI-programma
+slug: e-privacy-XXXI
 Template: event
 XStatus: draft
 Title: Privacy tra attivismo e scienza
