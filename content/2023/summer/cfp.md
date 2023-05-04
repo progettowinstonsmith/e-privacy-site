@@ -44,7 +44,7 @@ Call for Paper
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
 Digital Human Rights* sono lieti di invitarti come relatore all'edizione
 primaverile alla trentaduesima edizione di e-privacy, che si terrà in
-presenza il 14 e 15 giugno 2023 a Roma, <a href="/e-privacy-XXXII-come-arrivare.html">presso la sede</a> dell'Associazione Stampa Romana, Piazza della Torretta 26.
+presenza il 14 e 15 giugno 2023 a Roma, <a href="/e-privacy-XXXII-come-arrivare.html">presso la sede</a> dell'Associazione Stampa Romana, Piazza della Torretta 36.
 
 *Il nostro CfP si chiuderà il 10 maggio 2023*, e la comunicazione di
 accettazione ai relatori avverrà *entro il 14 maggio 2023.*
