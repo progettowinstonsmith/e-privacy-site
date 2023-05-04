@@ -22,7 +22,7 @@ Sponsor: cgt,sikurezza.org,sepel,ush,isgroup,hermes
 Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative,hackerjournal
 timeline: 10 maggio | 14 maggio | 12 giugno
-css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; } .avviso { color: red; }
 
 e-privacy XXXII @ Roma
 ===============================
@@ -32,6 +32,11 @@ e-privacy XXXII @ Roma
 <div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
 
 <br>
+
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
+
+<br/>
+
 
 Call for Paper
 --------------
