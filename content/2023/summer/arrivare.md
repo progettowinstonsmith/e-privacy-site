@@ -22,7 +22,7 @@ css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 <h2>Dove è la sede</h2>
 
-La sede del Convegno è la sala dell'Associazione Stampa Romana, Piazza della Torretta, 8, 00186 Roma.
+La sede del Convegno è la sala dell'Associazione Stampa Romana, Piazza della Torretta, 36, 00186 Roma.
 <br>
 <br>
 <br>
