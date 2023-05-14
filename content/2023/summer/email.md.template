@@ -16,30 +16,28 @@ previd: 2022W
 prev: e-privacy-XXXI
 nextid: 
 next: 
-Organizzatori: pws, hermes
+Organizzatori: pws, asr
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Sponsor: hermes,cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-ss: .title-XXX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }}
+css: .title-XXXII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }} .avviso {{ color: red; }}
 
+e-privacy XXXII @ Roma
+===============================
 
-
-###e-privacy 2022 - summer edition
-
-Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
+Il ** 14 e 15 giugno 2023 **  a Roma  si svolgerà **e-privacy 2023
 _summer edition_**.
 
-Il tema guida della XXIX edizione di e-privacy è:
+Il tema guida della XXXII edizione di e-privacy è:
 
-<div class="title-XXX">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
+
+<div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
+
 <br/>
 
-
-###Iscrizioni
-
-** La partecipazione al convegno è libera e gratuita  **
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
 
 
 ### <a name="programma"></a>Programma del Convegno
