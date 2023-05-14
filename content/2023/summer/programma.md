@@ -1,130 +1,99 @@
-slug: e-privacy-XXX
+slug: e-privacy-XXXII-programma
 Template: event
-Status: draft
-Title: Sospendiamo la privacy
-Date: 2022-05-30 00:02:00
-Category: 2022
+XStatus: draft
+Title: Privacy, AI & Security: un trinomio complesso
+Date: 2022-05-30 00:01:00
+Category: 2023
 lang: it
-Num: XXX
-Year: 2022
-City: FIRENZE | RETE
-Where: Firenze & Videoconferenza & Streaming
-When: 16-17 giugno
+Num: XXXII
+Year: 2023
+City: ROMA
+Where: Roma
+When: 14-15 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021V
-prev: e-privacy-29e3quarti
-nextid:2022V
-next:e-privacy-XXXI
-Organizzatori: pws, hermes
-Collaboratori: bba 
-Patrocini: firenze2,gpdp 
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+previd: 2022W
+prev: e-privacy-XXXI
+nextid: 
+next: 
+Organizzatori: pws,asr 
+Collaboratori: bba
+Sponsor: hermes,cgt,sikurezza.org,sepel,ush,isgroup
+Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-css: .title-XXX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; } .avviso { color: red; }
 
+e-privacy XXXII @ Roma
+===============================
 
-###e-privacy XXX - 2022 summer edition
-
-Il ** 16 e 17 giugno 2022 ** ONLINE ed in presenza a Firenze, si è svolto **e-privacy XXX - 2022
+Il ** 14 e 15 giugno 2023 **  a Roma  si svolgerà **e-privacy 2023
 _summer edition_**.
 
-Il tema guida della XXX edizione di e-privacy è stato:
+Il tema guida della XXXII edizione di e-privacy è:
 
-<div class="title-XXX">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
 
-###Sede
+<div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
 
-**Il Convegno si è svolto a <a href="/e-privacy-XXX-come-arrivare.html">Firenze</a>.**
-<br>
-**Le slide e gli atti del convegno sono stati pubblicati e sono raggiungibili, quando presenti, usando le icone poste accanto al nome del relatore, inserite nel programma**.
-<br>
-**Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith**.
-<br>
-Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br/>
+
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
+
 
 
 ### <a name="programma"></a>Programma del Convegno
 
-Legenda:
 
-Icona | Descrizione | Icona | Descrizione
----- | ---- | ----- | ----
-![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF) |
-![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![pdf](/images/icon/handouts.png) | Handouts|
-![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
-![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
 
-
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xWbC7fX_WjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Modera: <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a>
+* Modera: <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>Apertura dei lavori: Sospendiamo la privacy</em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#scorza">Guido Scorza (Garante per la protezione dei dati personali)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXX-interventi.html#scorza">Tecnologia, privacy e pandemia</a></em></span>
-10:30|45|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_03_giorio_emergenza_e_vera_emergenza.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_03_giorio_emergenza_e_vera_emergenza.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_03_giorio_emergenza_e_vera_emergenza_relazione.pdf"><img alt="pdf" src="/images/icon/document.png"></a>,<a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXX-interventi.html#giorio">Privacy: è l'emergenza la vera emergenza?</a></em></span>
-11:15|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_04_berto_contrapposizione_fra_diritti_fondamentali.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXX-interventi.html#berto">Contrapposizione fra diritti fondamentali: salute, privacy e non solo</a></em></span>
-11:45|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_05_surbone.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#surbone">Andrea Surbone (The Jus Semper Global Alliance)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXX-interventi.html#surbone">Gli aspetti legati a privacy, big data, ricerca scientifica e brevettabilità della vita nell’utopia contemporanea di Filoponىa</a></em></span>
-12:10|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_06_ferri_levoluzionedellasicurezzadelleinformazioni.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXX-interventi.html#ferri">L'evoluzione della sicurezza della informazioni</a></em></span>
-12:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_07_beltrami_2022-05-28.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/audio/ep2022se_07_beltrami_2022-05-28.m4a"><img alt="pdf" src="/images/icon/audio.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/video/ep2022se_07_beltrami_2022-05-28.mp4"><img alt="pdf" src="/images/icon/video.png"></a>,<a href="/e-privacy-XXX-relatori.html#beltrami">Giulio Emilio Maria Beltrami (Ecologia dei Sistemi Informativi)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXX-interventi.html#beltrami">World Wide People - Manifesto per un Sindacato della Rete</a> (intervento non tenuto per motivi tecnici, ma disponiibile tra gli atti come video registrato)</em></span>
+------- | --- | ------- 
+09:00||<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy, AI & Security: un trinomio complesso</em></span>
+09:10|10|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
+09:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
+09:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai, Associazione Stampa Romana)</a>, <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a>, <a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a> e <a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m02'></a>Tavola Rotonda: <a href="/e-privacy-XXXII-interventi.html#tavola1">Privacy, AI & Security: un trinomio complesso</a></em></span>
+11:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#saterno">Machina AI delinquere potest</a></em></span>
+11:20|20|<span class='talk'><em>Pausa</em></span>
+11:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#berto">Duello fra la privacy e l’uso dell’intelligenza artificiale</a></em></span>
+12:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai e Associazione Stampa Romana)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXII-interventi.html#pappagallo">TBA</a></em></span>
+12:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#monteleone">Alessandro Monteleone </a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXII-interventi.html#monteleone">Intelligenza artificiale - stato dell'arte e posizioni del Garante per la protezione dei dati personali; prospettive future.</a></em></span>
+12:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#sapuppo">Valentina Grazia Sapuppo (AI Alliance - Futurium - Commissione Europea)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXII-interventi.html#sapuppo">Neurodiritti: nuovi spazi di tutela per gli esseri umani</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - pomeriggio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/muF4h7ENeSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Modera: <a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a>
+* Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-15:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#giorio">Diego Giorio (Progetto Winston Smith)</a><br/><em>Apertura pomeridiana</em></span>
-15:00|20|<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='1p01'></a><a href="/e-privacy-XXX-interventi.html#priolo">Tanto non serve!</a></em></span>
-15:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#marzocchi">Duccio ( alessandro ) Marzocchi </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXX-interventi.html#marzocchi">Anonimato VS Identità nella cultura del web</a></em></span>
-15:50|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_14_somma_archivismi.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#winston">Winston Smith (Progetto Winston Smith)</a><br/><em><a name='2p01'></a><a href="/e-privacy-XXX-interventi.html#winston">Archivismi</a></em></span>
-16:15|45|<span class='talk'><em>Pausa caffé</em></span>
-17:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_15_sapuppo.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#sapuppo">Valentina Sapuppo (Ricercatore Indipendente)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXX-interventi.html#sapuppo">Dal cubo di Rubik al cubo di Necker: non tutto ciٍ che è legale è lecito.</a></em></span>
-17:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_16_gargano_la_giustizia_digitale_post_covid.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_16_gargano_la_giustizia_digitale_post_covid.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png"></a>,<a href="/e-privacy-XXX-relatori.html#gargano">Nicola Gargano (Ordine Avvocati di Bari)</a> e <a href="/e-privacy-XXX-relatori.html#dellacostanza">Paolo Della Costanza </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXX-interventi.html#gargano">La Giustizia digitale post covid tra innovazione e privacy. Il bicchiere è mezzo pieno o mezzo vuoto?</a></em></span>
-18:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#alagna">Marco Alagna (Perani Pozzi e Associati)</a> e <a href="/e-privacy-XXX-relatori.html#bonavita">Simone Bonavita (ISLC - Information Society Law Center)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXX-interventi.html#alagna">Proctoring e Controllo. Quali “emergenze” possono davvero giustificare una compressione sempre maggiore del diritto alla privacy? Quale il perimetro di rischio individuabile?</a></em></span>
-18:30||<span class='talk'><em>Chiusura sessione</em></span>
+------- | --- | ------- 
+15:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXII-interventi.html#grandis">TBA</a></em></span>
+15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
+16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gaudiano">Giulio Gaudiano (Associazione Italiana Podcasting)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#gaudiano">Il podcast e l'IA</a></em></span>
+16:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXII-interventi.html#gobbato">L'Artificial Intelligence Act e l'appello dell'ENISA</a></em></span>
+17:00||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
+#### <a name="sam"></a>Giovedì 15 giugno 2023 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S21aHf5LCBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Modera: <a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
 
-* Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a>
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-10:00||<span class='talk'><a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura seconda giornata</em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#aterno">Stefano Aterno </a><br/><em><a name='2m01'></a><a href="/e-privacy-XXX-interventi.html#aterno">La Privacy e la Sicurezza come diritti di libertà. Perché, nello Stato di Emergenza, non bisogna sospendere i diritti. (Stefano Aterno)</a></em></span>
-10:30|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_23_farnararo_privacy_rende_bugiardo.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#farnararo">Lorenzo Farnararo </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXX-interventi.html#farnararo">La privacy ti rende bugiardo</a></em></span>
-10:50|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_24_ciurcina_monitorapa.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it /Nexa Center) </a> <br/><em><a name='2m03'></a><a href="/e-privacy-XXX-interventi.html#ciurcina">MonitoraPA</a></em></span>
-11:20|30|<span class='talk'><a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXX-interventi.html#lisi">Tecnologia e Privacy: mission impossible per i poveri DPO?</a></em></span>
-11:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXX-relatori.html#priolo">Enrica Priolo </a><br/>Partecipano: <a href="/e-privacy-XXX-relatori.html#longo">Valentina Longo </a>, <a href="/e-privacy-XXX-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it /Nexa Center)</a>, <a href="/e-privacy-XXX-relatori.html#lisi">Andrea Lisi (Studio LegaLe Lisi)</a>, <a href="/e-privacy-XXX-relatori.html#naif">Fabio Pietrosanti (Hermes Center)</a> e <a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXX-interventi.html#tavola">MonitoraPA: Attivismo digitale o attacco indiscriminato?</a></em></span>
-13:00||<span class='talk'><em>Chiusura sessione mattina</em></span>
-
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J__McCuCMsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Modera: <a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a>
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
-------- | --- | -------
-15:00|5|<span class='talk'><a href="/e-privacy-XXX-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata pomeriggio</em></span>
-15:05|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_32_gallus_presentazione_diffusione-dati-pa.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici /Nexa Center)</a><br/><em><a name='2p03'></a><a href="/e-privacy-XXX-interventi.html#gallus">Cittadini trasparenti? La diffusione di dati personali dopo il DL 139/2021</a></em></span>
-15:35|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_33_piccoli_valutazione_trattamenti.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#piccoli">Andrea Piccoli (D&L Network)</a><br/><em><a name='2p02'></a><a href="/e-privacy-XXX-interventi.html#piccoli">la progettazione dei trattamenti e loro valutazione utilizzando lo schema ISDP 10003:2020</a></em></span>
-16:05|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_34_rossi_data_retention_e_privacy.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#rossi">Andrea Rossi (ANFP)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXX-interventi.html#rossi">Che valenza ha un diritto se non posso individuare il responsabile della sua violazione? Data retention, punto di frizione tra sicurezza e privacy</a></em></span>
-16:30|30|<span class='talk'><em>Pausa caffé</em></span>
-17:00|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_35_vieri_privacyadinbello.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='2p04'></a><a href="/e-privacy-XXX-interventi.html#vieri">Privacy in bello, privacy ad bellum</a></em></span>
-17:20|60|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2022/atti/ep2022se_36_gazzella_debugging_legale_algoritmi.pdf"><img alt="pdf" src="/images/icon/presentation.png"></a>,<a href="/e-privacy-XXX-relatori.html#gazzella">Stefano Gazzella (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#sindaco">Sara Sindaco (D&L NET)</a>, <a href="/e-privacy-XXX-relatori.html#capoluongo">Anna Capoluongo (D&L NET)</a> e <a href="/e-privacy-XXX-relatori.html#denicola">Valentina De Nicola (D&L NET)</a><br/><em><a name='2p05'></a><a href="/e-privacy-XXX-interventi.html#gazzella">Debugging legale degli algoritmi: necessità o virtù?</a></em></span>
-18:20|10|<span class='talk'><a href="/e-privacy-XXX-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='2p06'></a><a href="/e-privacy-XXX-interventi.html#calamari2">I prossimi 30 E-Privacy</a></em></span>
-18:30||<span class='talk'><em>Chiusura sessione</em></span>
+ **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
+------- | --- | ------- 
+09:00|1|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em>Apertura seconda giornata</em></span>
+09:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
+09:05|15|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
+09:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
+09:40|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
+10:10|45|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#delninno">Alessandro Del Ninno (Universita' degli studi di Roma Luiss Guido Carli)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#delninno">Il GDPR come presupposto e presidio dell’AI Act.</a></em></span>
+10:55|20|<span class='talk'><em>Pausa</em></span>
+11:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#iaselli">Michele Iaselli (Innova Jus)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#iaselli">IA e protezione dati: questioni in tema di responsabilità civile</a></em></span>
+11:50|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#fabiano">Nicola Fabiano (Professore a contratto Univeristà di Ostrava (Roma) - Studio Legale Fabiano)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#fabiano">Intelligenza Artificiale e privacy attraverso l'approccio con DAPPREMO (Data Protection and Privacy Relationships Model)</a></em></span>
+12:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#bianchini">Privacy-Enhancing Technologies - Ovvero: come ho imparato a non preoccuparmi e ad amare la data governance</a></em></span>
+12:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
+13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori
 

@@ -2,11 +2,32 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-LOAD_CONTENT_CACHE = False
-# CACHE_MODIFIED_METHOD = 'md5'
+
+##### Configurazioni per il sync
+
+EDITION = 32
+RELAZIONI = 'talks'
+RELATORI = 'curricula'
+EPRIVACY_N = 'XXXII'
+SESSIONI = '1M,1P,2M'.split(',')
+ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
+EVENT_PATH = 'content/2023/summer/'
+YEAR = u'2023'
+EDITION = 'summer'
+SITENAME = u'e-privacy 2023 summer: Privacy, AI & Security: un trinomio complesso'
+IMAGE='e-privacy-XXXII.jpeg'  
 
 COUNTDOWN = True
 EVENT_TIME = '2023/06/14 10:00'
+
+#####
+
+
+THIS_TITLE = f"e-privacy {YEAR} {EDITION}"
+
+
+LOAD_CONTENT_CACHE = False
+# CACHE_MODIFIED_METHOD = 'md5'
 
 HOME_LINK = '/'
 #HOME_LINK = 'http://localhost/'
@@ -25,20 +46,16 @@ def split(string):
 JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
-SITENAME = u'e-privacy 2023 summer: Privacy, AI & Security: un trinomio complesso'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
 #SITEURL = ''
 SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
-IMAGE='e-privacy-XXXII.jpeg'  
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/Rome'
 
 DEFAULT_LANG = u'it'
-
-YEAR = u'2022'
-EDITION = 'autumn'
 
 USE_FOLDER_AS_CATEGORY = True
 
@@ -56,7 +73,7 @@ DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THIS_TITLE = "e-privacy 2023 summer"
+
 
 THIS = (
 #     ('Il programma', '/e-privacy-XXXI-programma.html'),

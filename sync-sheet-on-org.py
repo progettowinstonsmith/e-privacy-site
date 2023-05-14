@@ -5,9 +5,7 @@
 """
 import re
 from io import StringIO
-from apiclient.discovery import build
 from httplib2 import Http
-from oauth2client import file, client, tools
 from pprint import pprint,pformat
 from pathlib import Path
 import click
@@ -17,16 +15,16 @@ import logging
 LOGGER = logging.getLogger("PWS")
 logging.basicConfig(level=logging.INFO)
 
+import pelicanconf
+
 ### ---------------------------------------- CONFIGURATION
 
-
-RELAZIONI = 'talks'
-RELATORI = 'curricula'
-EPRIVACY_N = 'XXXI'
-SESSIONI = '1M,1P,2M,2P'.split(',')
-ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-PATH = 'content/2022/autumn/'
-
+RELAZIONI = pelicanconf.RELAZIONI
+RELATORI = pelicanconf.RELATORI
+EPRIVACY_N = pelicanconf.EPRIVACY_N
+SESSIONI = pelicanconf.SESSIONI
+ORGANIZZATORI = pelicanconf.ORGANIZZATORI
+EVENT_PATH = pelicanconf.EVENT_PATH
 
 URL = 'e-privacy-'
 PROG_FNAME = 'programma.md'
@@ -38,31 +36,6 @@ F_ORG = 'org'
 
 def program_line(*cols):
     return " | ".join(cols)
-
-# def section_open(label, kind, srange, service, _id, info, rdb):
-#     lines = []
-#     import pdb; pdb.set_trace()
-#     for label, record in info.items():
-#         try:
-#             people = record['pers'].strip()
-#             if ',' in people:
-#                 people = re.split(r', *', people)
-#             else:
-#                 people = [people, ]
-#             names = make_persons(people, rdb)
-#             durata = re.sub(r'^0(|(0:))', '', record['duration'])
-#             lines.append(program_line(record['begin'],
-#                                       durata,
-#                                       names + "<br/>" + record['Titolo']))
-#         except:
-#             print("ERRORE: sulla linea {}".format(label))
-#             raise
-#     return lines, rdb
-
-
-# def section_saluti(label, kind, srange, service, _id, info, rdb):
-#     return section_open(label, kind, srange, service, _id, info, rdb)
-
 
 def section_talks(label, kind, srange, service, _id, info, rdb):
     lines = []
@@ -201,7 +174,7 @@ def db_get_attrs(attr,service, _id, _range, HEADERS):
 
 def write_out(path, fname, **kw):
     LOGGER.info(f"WRITE OUT\: {fname}")
-    templ_f = Path(path) / (fname+'.template')
+    templ_f = Path(path) / (fname + '.template')
     out_f = Path(path) / fname
     templ = templ_f.read_text(encoding='utf-8')
     output = templ.format(**kw)
@@ -342,13 +315,17 @@ def compose_title(relazioni, talk):
     output = None
     if relazione not in relazioni:
         LOGGER.error(f'COMPOSE_TITLE:NO RECORD FOR: {relazione}')
+        import pdb; pdb.set_trace()
         raise "COMPOSE TITLE"
         return None
     record = relazioni[relazione]
     index = talk['label']
-    title = record['title']
+    title = ''
+    if 'title' in record:
+        title = record['title']
     if len(title)==0:
-        import pdb; pdb.set_trace()
+        title = f'Titolo non comunicato ({talk["author"]})'
+        
     prefix = ''
     if re.match(r'tavola rotonda',title,re.I):
         prefix = "Tavola Rotonda: "
@@ -361,7 +338,7 @@ def compose_title(relazioni, talk):
 # cimpose_duration
 
 def compose_email(all_relatori, all_relazioni, db, dictionary):
-    write_out(PATH,'email.md',
+    write_out(EVENT_PATH,'email.md',
               RELATORI = _compose_speakers(all_relatori, db),
               INTERVENTI = _compose_interventi(all_relazioni, db),
               **dictionary)
@@ -382,7 +359,7 @@ def _compose_speakers(all_relatori, db):
     return str_out
 
 def compose_speakers(all_relatori, db):
-    write_out(PATH, 'speakers.md',
+    write_out(EVENT_PATH, 'speakers.md',
               RELATORI=_compose_speakers(all_relatori, db))
 
 def compose_speaker_bio(item,db):
@@ -411,19 +388,26 @@ def _compose_interventi(all_relazioni, db):
     return str_out
 
 def compose_interventi(all_relazioni, db):
-    write_out(PATH, 'interventi.md',
+    write_out(EVENT_PATH, 'interventi.md',
               INTERVENTI=_compose_interventi(all_relazioni, db))
 
 def compose_talk_info(talk, db):
     relazioni = db['relazioni']
     label = talk['author']
     link = talk['label']
-    title = relazioni[label]['title']
+    title = ''
+    if 'title' in relazioni[label]:
+        title = relazioni[label]['title']
+    if len(title)==0:
+        title = f"Titolo non comunicato ({label})"    
     _title = f'#### <a name="{label}"></a> {title}'
     _up = f'<a href="/e-privacy-{EPRIVACY_N}-programma.html#{link}">⇧</a>'
     auth = [ talk['author'], ]
     _authors = "*"+compose_people(talk, db, all=True)+"*"
-    desc = relazioni[label]['description']
+    if 'description' in relazioni[label]:
+        desc = relazioni[label]['description']
+    else:
+        desc = f"Descrizione non comunicata ({label})"
     return f'{_title}{_up}\n{_authors}\n\n{desc}\n\n'
 
 #### ---------------------------------------- SETUP PROGRAM
@@ -510,7 +494,7 @@ def setup_program_talk_items(label,talk,relazioni,relatori):
                                           f'setup_{kind}_{field}',
                                           f'setup_{field}' )
         talk[f'OUT_{num:02d}_{field}'] = value
-        soup = bs(value)
+        soup = bs(value,features="lxml")
         talk[f'OUT_{num:02d}_{field}_txt'] = soup.get_text()
         if not(value):
             value = ""
@@ -567,17 +551,17 @@ def setup_program_session(info, relazioni, relatori):
                         else:
                             LOGGER.error(f"Relatore {altro} non in RELATORI")
                             raise "RELATORE NON IN RELAZIONI"
-    LOGGER.info(f"SETUP PROGRAM SESSION/: {label}")
+        LOGGER.info(f"SETUP PROGRAM SESSION/: {label}")
     return session, D_relazioni, D_relatori
 
 
 #### ---------------------------------------- READ FUNCTIONS
 
-def read_db(service, range, tweak_item=None, tweak_collection=None, session=None):
+def read_db(service, range,
+            tweak_item=None, tweak_collection=None, session=None):
     values = service[range]
     infos = {}
     for jj,row in enumerate(values):
-        print(jj,row)
         if jj == 0:
             HEADERS = [x.strip().lower() for x in row]
             HEADERS[0] = "_"
@@ -598,7 +582,7 @@ def read_db(service, range, tweak_item=None, tweak_collection=None, session=None
             if session is not None:
                 if 'session' in info and info['session'].lower() != session.lower():
                     continue
-                LOGGER.info(f"SELECITN SESSIO {session} {info['label']}")
+                LOGGER.info(f"SELECTION SESSION {session} {info['label']}")
             if info['label'][0] != "<":
                 infos[info['label'].lower()] = info
     if tweak_collection:
@@ -612,7 +596,6 @@ def tweak_relazioni(info):
     return info
 
 def tweak_sessioni(info):
-    LOGGER.info("LABEL:"+info['label'])
     if info['label'][-2:].lower() == 'aa':
         info['label'] = 'apertura'
         info['kind'] = 'opening'
@@ -724,7 +707,6 @@ def setup_sheet_work(fh):
 def select_session_in_db(schedule,session, tweak_collection):
     ret = {}
     for key, value in schedule.items():
-        print(key)
         if value['session'] == session:
             ret[key] = value
     if tweak_collection:
@@ -747,7 +729,8 @@ def print_schedule(db):
     sh = StringIO()
     sessioni  = [ "G"+x for x in db['sessioni']]
     for session in sessioni:
-        sh.write(f"Moderator: {db[session]['chairman']}\n")
+        soup = bs(f"{compose_person(db['relatori'],db[session]['chairman'])}",features="lxml")
+        sh.write(f"Moderatore: {soup.get_text()}\n")
         table = []
         for label,event in db[session]['program']:
             row = []
@@ -757,37 +740,102 @@ def print_schedule(db):
             table.append(row)
             sh.write(f"{row[0]} {row[1]:>4} {row[2]}\n            {row[3]}\n")
     print(sh.getvalue())
+
+    
+import copy
+
+def check_curricula(db,authors):
+    relatori = db['relatori']
+    relazioni = db['relazioni']
+    SESSIONI = db['sessioni']
+
+    relatori_senza_curriculum =  { k  for k in set(relazioni.keys()) | authors }
+    
+    no_corr = (",".join([f"{relatore}"
+                    for relatore in \
+                    sorted(relatori_senza_curriculum) \
+                    if re.sub("[0-9]+$","",relatore)  not in relatori
+                    ]))
+    
+    for relatore in sorted(relatori_senza_curriculum):
+        if re.sub("[0-9]+$","",relatore) not in relatori:
+            db['relatori'][relatore]=copy.deepcopy(relatori["void"])
+            db['relatori'][relatore]["label"] = relatore
+            db['relatori'][relatore]["nome"] = f"curriculum-not-found({relatore})"
+
+    return db, no_corr
+
+
+def check_relazioni(db,authors):
+    relatori = db['relatori']
+    relazioni = db['relazioni']
+    SESSIONI = db['sessioni']
+
+    relatori_senza_relazioni =  { k  for k in set(relazioni.keys()) | authors }
+    
+    
+    no_rel = (",".join([f"{relatore}"
+                    for relatore in \
+                    sorted(relatori_senza_relazioni) \
+                    if relatore  not in relazioni
+                    ]))
+    
+    for relatore in sorted(relatori_senza_relazioni):
+        if relatore not in relazioni:
+            db['relazioni'][relatore]=copy.deepcopy(relatori["void"])
+            db['relazioni'][relatore]["label"] = relatore
+            db['relazioni'][relatore]["title"] = f"talk-def-not-found({relatore})"
+
+    return db, no_rel
+
+def get_session_authors(data):
+    authors = set()
+    for session in data.values():
+        for item in session['program']:
+            author = item[1]['author']
+            if author:
+                authors.add(author)
+    return authors
+
+            
 @click.command()
 @click.argument('input',type=click.File("r"))
 @click.option('--debug/--no-debug', default=False)
 @click.option('--debug-section', type=click.Choice(['db', 'program',
                                                     'relazioni','relatori']))
 def main(input,debug,debug_section):
-    LOGGER.info('service beginning')
     service = setup_sheet_work(input)
-    LOGGER.info('service loaded')
     relatori = read_db(service, RELATORI  )
-    db_info("relatori",relatori)
     relazioni = read_db(service, RELAZIONI, tweak_item = tweak_relazioni )
+    
+    db = {'relatori': relatori,
+          'relazioni': relazioni,
+          'sessioni': SESSIONI }
+
     db_info("relazioni",relazioni)
-    relatori_senza_curriculum =  { k: "*" if k in relatori else "" for k in relazioni.keys() }
-    print("RELATORI SENZA CURRICULUM")
-    print(",".join([f"{relatore}{curriculump}"
-                    for relatore,curriculump in \
-                    sorted(relatori_senza_curriculum.items()) \
-                    if relatore not in relatori
-                    ]))
-    db = {'relatori': relatori, 'relazioni': relazioni , 'sessioni': SESSIONI }
+    db_info("relatori",relatori)
+    
+    sessions = {}
+    for session in SESSIONI:
+        sessions[session] = read_db(service, "schedule",
+                                    session = session,
+                                    tweak_item = tweak_sessioni,
+                                    tweak_collection = tweak_sessioni_collection)
+        
+    authors = get_session_authors(sessions)
+    db, no_curr = check_curricula(db,authors)    
+    db, no_rel = check_relazioni(db,authors)    
+    
+    
     dictionary = {}
     all_relazioni = list()
     all_relatori = list()
     for session in SESSIONI:
-        sess_db = read_db(service, "schedule",
-                          session = session,
-                          tweak_item = tweak_sessioni,
-                          tweak_collection = tweak_sessioni_collection)
-        label = 'G' + session
+        sess_db = sessions[session]
+
+        label = 'G' + session        
         LOGGER.info(f'SETUP session: {label} {",".join(dict(all_relatori).keys())}')
+        
         db[label] = sess_db
         session, D_relazioni, D_relatori = setup_program_session(db[label],
                                                                  relazioni,
@@ -810,11 +858,17 @@ def main(input,debug,debug_section):
     if debug and debug_section=='relazioni':
         pprint(all_relazioni)
         return
-    write_out(PATH, PROG_FNAME , **dictionary)
+    write_out(EVENT_PATH, PROG_FNAME , **dictionary)
     compose_speakers(all_relatori, db)
     compose_interventi(all_relazioni, db)
     compose_email(all_relatori, all_relazioni, db, dictionary)
+    
+    
+    print(f"NO CURRICULUM: {no_curr}")
+    print(f"NO RELAZIONI: {no_rel}")
+    print("Schedule")
     print_schedule(db)
 
+    
 if __name__ == '__main__':
     main()

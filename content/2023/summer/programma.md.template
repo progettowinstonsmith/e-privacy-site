@@ -1,50 +1,50 @@
-slug: e-privacy-XXX-programma
+slug: e-privacy-XXXII-programma
 Template: event
 XStatus: draft
-Title: Sospendiamo la privacy
+Title: Privacy, AI & Security: un trinomio complesso
 Date: 2022-05-30 00:01:00
-Category: 2022
+Category: 2023
 lang: it
-Num: XXX
-Year: 2022
-City: FIRENZE | RETE
-Where: Firenze & Videoconferenza & Streaming
-When: 16-17 giugno
+Num: XXXII
+Year: 2023
+City: ROMA
+Where: Roma
+When: 14-15 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021V
-prev: e-privacy-29e3quarti
-nextid:
-next:
-Organizzatori: pws, hermes
+previd: 2022W
+prev: e-privacy-XXXI
+nextid: 
+next: 
+Organizzatori: pws,asr 
 Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Sponsor: hermes,cgt,sikurezza.org,sepel,ush,isgroup
 Patrocini: 
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-css: .title-XXX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }}
+css: .title-XXXII {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }} .avviso {{ color: red; }}
 
+e-privacy XXXII @ Roma
+===============================
 
-###e-privacy 2022 - summer edition
-
-Il ** 16 e 17 giugno 2022 ** ONLINE e a Firenze  si svolgerà **e-privacy 2022
+Il ** 14 e 15 giugno 2023 **  a Roma  si svolgerà **e-privacy 2023
 _summer edition_**.
 
-Il tema guida della XXIX edizione di e-privacy è:
+Il tema guida della XXXII edizione di e-privacy è:
 
-<div class="title-XXX">«Sospendiamo la privacy»</div>
-<div class="subtitle-XXX">Pandemia e guerra rendono la privacy un diritto rinunciabile?</div>
+<div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
+
+<div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
+
 <br/>
 
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
 
-###Iscrizioni
-
-** La partecipazione al convegno è libera e gratuita  **
 
 
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
 
 * Modera: {G1M_CHAIRMAN}
 
@@ -52,7 +52,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1M}
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - pomeriggio
 
 * Modera: {G1P_CHAIRMAN}
 
@@ -60,21 +60,13 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1P}
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
+#### <a name="sam"></a>Giovedì 15 giugno 2023 - mattina
 
 * Modera: {G2M_CHAIRMAN}
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 {G2M}
-
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
-
-* Modera: {G2P_CHAIRMAN}
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
-{G2P}
 
 ### Gli organizzatori
 

@@ -1,21 +1,21 @@
-slug: e-privacy-XXX-email
+slug: e-privacy-XXXII-email
 Template: event
 XStatus: draft
-Title: Sospendiamo la privacy
+Title: Privacy, AI & Security: un trinomio complesso
 Date: 2022-03-15 00:01:00
-Category: 2022
+Category: 2023
 lang: it
-Num: XXX
-Year: 2022
-City: FIRENZE | RETE
-Where: Firenze & Videoconferenza & Streaming
-When: 16-17 giugno
+Num: XXXII
+Year: 2023
+City: ROMA
+Where: Roma
+When: 14-15 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2021V
-prev: e-privacy-29e3quarti
-nextid:
-next:c
+previd: 2022W
+prev: e-privacy-XXXI
+nextid: 
+next: 
 Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
@@ -45,7 +45,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - mattina
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
 
 * Modera: {G1M_CHAIRMAN}
 
@@ -53,7 +53,7 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1M}
 
-#### <a name="vep"></a>Giovedì 16 giugno 2022 - pomeriggio
+#### <a name="vep"></a>Mercoledì 14 giugno 2023 - pomeriggio
 
 * Modera: {G1P_CHAIRMAN}
 
@@ -61,21 +61,13 @@ Il tema guida della XXIX edizione di e-privacy è:
 ------- | --- | ------- 
 {G1P}
 
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - mattina
+#### <a name="sam"></a>Giovedì 15 giugno 2023 - mattina
 
 * Modera: {G2M_CHAIRMAN}
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 {G2M}
-
-#### <a name="sam"></a>Venerdì 17 giugno 2022 - pomeriggio
-
-* Modera: {G2P_CHAIRMAN}
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
-{G2P}
 
 
 ## <a name="talks"></a>Gli interventi
