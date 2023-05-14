@@ -33,7 +33,10 @@ e-privacy XXXII @ Roma
 
 <br>
 
-<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
+<b class="avviso">Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b>
+
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
+Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
 
 <br/>
 
@@ -44,7 +47,7 @@ Call for Paper
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
 Digital Human Rights* sono lieti di invitarti come relatore all'edizione
 primaverile alla trentaduesima edizione di e-privacy, che si terrà in
-presenza il 14 e 15 giugno 2023 a Roma, presso la sede dell'Associazione Stampa Romana, Piazza della Torretta 8.
+presenza il 14 e 15 giugno 2023 a Roma, <a href="/e-privacy-XXXII-come-arrivare.html">presso la sede</a> dell'Associazione Stampa Romana, Piazza della Torretta 36.
 
 *Il nostro CfP si chiuderà il 10 maggio 2023*, e la comunicazione di
 accettazione ai relatori avverrà *entro il 14 maggio 2023.*
@@ -106,9 +109,8 @@ Le proposte dovranno contenere:
 -   se disponibile alla pubblicazione di registrazioni audio
 -   se disponibile alla pubblicazione di registrazioni video
 
-**ATTENZIONE: Le proposte dovranno essere presentate tramite questo <a href="/e-privacy-XXXII-proposta.html">form</a>.**
-
-**entro il termine ultimo del 10 maggio 2023**
+<br/>
+<b class="avviso">Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b>
 
 L'accettazione o meno delle proposte sarà comunicata **entro il 14 maggio 2023**.
 
