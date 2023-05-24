@@ -97,10 +97,10 @@ La relazione ha l'obiettivo di individuare, sulla scorta anche di recenti propos
 Le potenzialità attuali dell'Intelligenza Artificiale ed il conflitto dei sistemi con la normativa in materia di protezione dei dati personali.
 
 
-#### <a name="pappagallo"></a> TBA<a href="/e-privacy-XXXII-programma.html#1m05">⇧</a>
+#### <a name="pappagallo"></a> Giornalismo e IA<a href="/e-privacy-XXXII-programma.html#1m05">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai e Associazione Stampa Romana)</a>*
 
-
+Affrontare in maniera problematica l'introduzione dell'Intelligenza artificiale all'interno del mondo del giornalismo. L’intelligenza artificiale è entrata nelle nostre vite. E’ entrata già nel mondo dell’informazione? In quali modalità? Cosa porta con sé? Quali sono le ripercussioni sul lavoro del giornalista, sui ritmi di lavoro dei singoli e sull'occupazione in generale? Quali sono se ci sono i vantaggi di utilizzo?
 
 
 #### <a name="ppatriarca"></a> Metaverso, privacy e protezione dei dati personali<a href="/e-privacy-XXXII-programma.html#2m05">⇧</a>

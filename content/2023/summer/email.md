@@ -56,7 +56,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 11:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#saterno">Machina AI delinquere potest</a></em></span>
 11:20|20|<span class='talk'><em>Pausa</em></span>
 11:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#berto">Duello fra la privacy e l’uso dell’intelligenza artificiale</a></em></span>
-12:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai e Associazione Stampa Romana)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXII-interventi.html#pappagallo">TBA</a></em></span>
+12:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai e Associazione Stampa Romana)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXII-interventi.html#pappagallo">Giornalismo e IA</a></em></span>
 12:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#monteleone">Alessandro Monteleone </a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXII-interventi.html#monteleone">Intelligenza artificiale - stato dell'arte e posizioni del Garante per la protezione dei dati personali; prospettive future.</a></em></span>
 12:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#sapuppo">Valentina Grazia Sapuppo (AI Alliance - Futurium - Commissione Europea)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXII-interventi.html#sapuppo">Neurodiritti: nuovi spazi di tutela per gli esseri umani</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
@@ -169,10 +169,10 @@ La relazione ha l'obiettivo di individuare, sulla scorta anche di recenti propos
 Le potenzialità attuali dell'Intelligenza Artificiale ed il conflitto dei sistemi con la normativa in materia di protezione dei dati personali.
 
 
-#### <a name="pappagallo"></a> TBA<a href="/e-privacy-XXXII-programma.html#1m05">⇧</a>
+#### <a name="pappagallo"></a> Giornalismo e IA<a href="/e-privacy-XXXII-programma.html#1m05">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai e Associazione Stampa Romana)</a>*
 
-
+Affrontare in maniera problematica l'introduzione dell'Intelligenza artificiale all'interno del mondo del giornalismo. L’intelligenza artificiale è entrata nelle nostre vite. E’ entrata già nel mondo dell’informazione? In quali modalità? Cosa porta con sé? Quali sono le ripercussioni sul lavoro del giornalista, sui ritmi di lavoro dei singoli e sull'occupazione in generale? Quali sono se ci sono i vantaggi di utilizzo?
 
 
 #### <a name="ppatriarca"></a> Metaverso, privacy e protezione dei dati personali<a href="/e-privacy-XXXII-programma.html#2m05">⇧</a>
