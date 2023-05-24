@@ -78,22 +78,22 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="sam"></a>Giovedì 15 giugno 2023 - mattina
 
-* Modera: <a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>
+* Modera: <a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXXII-relatori.html#barrucci">Tiziana Barrucci (Associazione Stampa Romana)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-09:00|1|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em>Apertura seconda giornata</em></span>
-09:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
-09:05|15|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
-09:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
-09:40|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
-10:10|45|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#delninno">Alessandro Del Ninno (Universita' degli studi di Roma Luiss Guido Carli)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#delninno">Il GDPR come presupposto e presidio dell’AI Act.</a></em></span>
-10:55|20|<span class='talk'><em>Pausa</em></span>
-11:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#iaselli">Michele Iaselli (Innova Jus)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#iaselli">IA e protezione dati: questioni in tema di responsabilità civile</a></em></span>
-11:50|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#fabiano">Nicola Fabiano (Professore a contratto Univeristà di Ostrava (Roma) - Studio Legale Fabiano)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#fabiano">Intelligenza Artificiale e privacy attraverso l'approccio con DAPPREMO (Data Protection and Privacy Relationships Model)</a></em></span>
-12:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#bianchini">Privacy-Enhancing Technologies - Ovvero: come ho imparato a non preoccuparmi e ad amare la data governance</a></em></span>
-12:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
-13:00||<span class='talk'><em>Chiusura sessione</em></span>
+10:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXXII-relatori.html#barrucci">Tiziana Barrucci (Associazione Stampa Romana)</a><br/><em>Apertura seconda giornata</em></span>
+10:05|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
+10:10|40|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#delninno">Alessandro Del Ninno (Universita' degli studi di Roma Luiss Guido Carli)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXII-interventi.html#delninno">Il GDPR come presupposto e presidio dell’AI Act.</a></em></span>
+10:50|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#iaselli">Michele Iaselli (Innova Jus)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXII-interventi.html#iaselli">IA e protezione dati: questioni in tema di responsabilità civile</a></em></span>
+11:20|20|<span class='talk'><em>Pausa</em></span>
+11:40|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#fabiano">Nicola Fabiano (Professore a contratto Univeristà di Ostrava (Roma) - Studio Legale Fabiano)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXII-interventi.html#fabiano">Intelligenza Artificiale e privacy attraverso l'approccio con DAPPREMO (Data Protection and Privacy Relationships Model)</a></em></span>
+12:10|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#bianchini">Privacy-Enhancing Technologies - Ovvero: come ho imparato a non preoccuparmi e ad amare la data governance</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
+13:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
+13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
+13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
+14:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori
 

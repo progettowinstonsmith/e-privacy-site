@@ -423,7 +423,7 @@ def setup_duration(talk, relazioni,  relatori):
     return ""
 
 def setup_opening_author(talk, relazioni,  relatori):
-    return compose_person(relatori, talk['author'])
+    return get_chairman(relatori, talk, 'author', False) # compose_person(relatori, talk['author'])
 
 def setup_opening_title(talk, relazioni,  relatori):
     if len(talk['title'])>0:
@@ -632,8 +632,12 @@ def tweak_sessioni_collection(info):
     for key, value in sorted( info.items(),
                               key=lambda x : (re.sub(r':','',x[1]['begin']))):
         program.append((key, value))
+    if 'apertura' in info:
+        chairmans = re.split('\s*,\s*', info['apertura']['author'])
+    else:
+        chairmans = [ 'ND' ]
     return { 'program' :  program,
-             'chairman' : info['apertura']['author'] if 'apertura' in info else "ND" }
+             'chairmans' :   chairmans }
 
 def read_programma_db(service, _id, rdb, SESSIONI):
     variables = {}
@@ -729,7 +733,7 @@ def print_schedule(db):
     sh = StringIO()
     sessioni  = [ "G"+x for x in db['sessioni']]
     for session in sessioni:
-        soup = bs(f"{compose_person(db['relatori'],db[session]['chairman'])}",features="lxml")
+        soup = bs(f"{get_chairman(db['relatori'],db[session])}",features="lxml")
         sh.write(f"Moderatore: {soup.get_text()}\n")
         table = []
         for label,event in db[session]['program']:
@@ -797,7 +801,20 @@ def get_session_authors(data):
                 authors.add(author)
     return authors
 
-            
+def get_chairman(relatori,sess_db,field='chairmans',is_list=True):
+    if  field in sess_db:
+        if is_list:
+            chairs = sess_db[field]
+        else:
+            chairs = re.split('\s*,\s*',sess_db[field])
+        chair = []
+        for who in chairs:
+            chair.append( compose_person(relatori, who) )
+        chairman = ', '.join(chair)
+    else:
+        chairman = compose_person(relatori,sess_db['chairman'])
+    return chairman
+        
 @click.command()
 @click.argument('input',type=click.File("r"))
 @click.option('--debug/--no-debug', default=False)
@@ -843,7 +860,7 @@ def main(input,debug,debug_section):
         all_relazioni.extend(D_relazioni)
         all_relatori.extend(D_relatori)
         dictionary[label] = '\n'.join(session)
-        dictionary[f'{label}_CHAIRMAN'] = compose_person(relatori,sess_db['chairman'])
+        dictionary[f'{label}_CHAIRMAN'] = get_chairman(relatori,sess_db)
     db['_relazioni'] = dict(all_relazioni)
     db['_relatori'] = dict(all_relatori)
     if debug:
