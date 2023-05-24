@@ -52,7 +52,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 09:00||<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy, AI & Security: un trinomio complesso</em></span>
 09:10|10|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
 09:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
-09:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai, Associazione Stampa Romana)</a>, <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a>, <a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a> e <a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m02'></a>Tavola Rotonda: <a href="/e-privacy-XXXII-interventi.html#tavola1">Privacy, AI & Security: un trinomio complesso</a></em></span>
+09:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai, Associazione Stampa Romana)</a>, <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a>, <a href="/e-privacy-XXXII-relatori.html#blengino">Carlo Blengino </a>, <a href="/e-privacy-XXXII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a> e <a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m02'></a>Tavola Rotonda: <a href="/e-privacy-XXXII-interventi.html#tavola1">Privacy, AI & Security: un trinomio complesso</a></em></span>
 11:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#saterno">Machina AI delinquere potest</a></em></span>
 11:20|20|<span class='talk'><em>Pausa</em></span>
 11:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#berto">Duello fra la privacy e l’uso dell’intelligenza artificiale</a></em></span>
@@ -293,6 +293,18 @@ Avvocato cassazionista, socio dello Studio Legale E-LEX, professore universitari
 #### <a name="bianchini"></a> Filippo Bianchini (ASSO DPO)
 
 Filippo Bianchini è un avvocato abilitato al patrocinio innanzi alle Giurisdizioni Superiori; si occupa di data governance come consulente e DPO certificato UNI 11697:2017, nonché di gestione della sicurezza delle informazioni come L.A. ISO 27001:2022.&#13;&#10;È docente nel Master universitario in “Data protection, Cybersecurity e Digital forensics” dell'Università per gli Studi di Perugia ed è inserito nell’ “EDPB Support Pool of Experts” per i settori: “Technical expertise in new technologies and information security” e “Legal expertise in new technologies”.&#13;&#10;È socio di ASSO DPO e membro del Cyber Security National Lab, nodo di Perugia.&#13;&#10;Segue l’evoluzione dei fenomeni legati ad internet ed alle nuove tecnologie, con particolare attenzione a intelligenza artificiale, legal tech e blockchain.
+
+
+
+#### <a name="blengino"></a> Carlo Blengino 
+
+Carlo Blengino svolge la professione esclusivamente nel settore penale, con specializzazione in proprietà intellettuale, diritto dell'informatica, delle nuove tecnologie e tutela della riservatezza e dei dati personali. E' fellow del Nexa Center for Internet & Society del Politecnico di Torino, cura un blog personale sul quotidiano on-line ilPOST.it ed ha pubblicato lavori con Giappichelli, UTET Giuridica, Egea ed Aracne.
+
+
+
+#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
+
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 
 
 

@@ -2,7 +2,7 @@ slug: e-privacy-XXXII-programma
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
-Date: 2023-05-30 00:01:00
+Date: 2022-05-30 00:01:00
 Category: 2023
 lang: it
 Num: XXXII
@@ -53,7 +53,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 09:00||<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy, AI & Security: un trinomio complesso</em></span>
 09:10|10|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
 09:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
-09:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai, Associazione Stampa Romana)</a>, <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a>, <a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a> e <a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m02'></a>Tavola Rotonda: <a href="/e-privacy-XXXII-interventi.html#tavola1">Privacy, AI & Security: un trinomio complesso</a></em></span>
+09:50|70|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#pappagallo">Lazzaro Pappagallo (Rai, Associazione Stampa Romana)</a>, <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>, <a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a>, <a href="/e-privacy-XXXII-relatori.html#blengino">Carlo Blengino </a>, <a href="/e-privacy-XXXII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a> e <a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m02'></a>Tavola Rotonda: <a href="/e-privacy-XXXII-interventi.html#tavola1">Privacy, AI & Security: un trinomio complesso</a></em></span>
 11:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#saterno">Machina AI delinquere potest</a></em></span>
 11:20|20|<span class='talk'><em>Pausa</em></span>
 11:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#berto">Duello fra la privacy e l’uso dell’intelligenza artificiale</a></em></span>

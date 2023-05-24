@@ -107,6 +107,18 @@ Filippo Bianchini è un avvocato abilitato al patrocinio innanzi alle Giurisdizi
 
 
 
+#### <a name="blengino"></a> Carlo Blengino 
+
+Carlo Blengino svolge la professione esclusivamente nel settore penale, con specializzazione in proprietà intellettuale, diritto dell'informatica, delle nuove tecnologie e tutela della riservatezza e dei dati personali. E' fellow del Nexa Center for Internet & Society del Politecnico di Torino, cura un blog personale sul quotidiano on-line ilPOST.it ed ha pubblicato lavori con Giappichelli, UTET Giuridica, Egea ed Aracne.
+
+
+
+#### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
+
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto dell'Information Technology, diritto d'autore, brevetti e marchi, in particolare con focus su software libero, contenuti e dati aperti.&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
+
+
+
 #### <a name="delninno"></a> Alessandro Del Ninno (Universita' degli studi di Roma Luiss Guido Carli)
 
 Prof. Avv. Alessandro del Ninno&; Docente di Informatica Giuridica Presso la LUISS Guido Carli di Roma.&#13;&#10;Docente di Intelligenza Artificiale, Machine Learning e Diritto presso la LUISS Guido Carli di Roma.&#13;&#10;Avvocato esperto di ICT, AI, Data Protection del Foro di Roma.&#13;&#10;Presidente del Comitato Scientifico dell’Associazione Nazionale per la Protezione dei Dati Personali. &#13;&#10;Membro del Comitato Scientifico dell’Istituto Italiano Privacy.&#13;&#10;Appointed member del Pool of Experts europei di supporto e consulenza al Comitato Europeo per la Protezione dei Dati Personali.&#13;&#10;Relatore nell’ambito dei più importanti convegni nazionali e internazionali ove viene frequentemente invitato in qualità di esperto su tematiche legate all’Information& Communication Technology, all’AI, all’IP e alla Data Protection. &#13;&#10;Nelle stesse materie è autore di oltre 150 tra libri, trattati, monografie, saggi e articoli. Per Key Editore è Direttore delle due collane editoriali “GDPR: casi pratici risolti” e “Le Leggi del Decennio Digitale 2020-2030 della UE – I commentari pratici”.&#13;&#10;Maggiori informazioni su www.alessandrodelninno.it &#13;&#10;
