@@ -2,7 +2,7 @@ slug: e-privacy-XXXII-programma
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
-Date: 2022-05-30 00:01:00
+Date: 2023-05-30 00:01:00
 Category: 2023
 lang: it
 Num: XXXII
