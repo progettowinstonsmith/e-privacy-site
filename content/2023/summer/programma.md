@@ -1,4 +1,4 @@
-slug: e-privacy-XXXII-programma
+slug: e-privacy-XXXII
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
