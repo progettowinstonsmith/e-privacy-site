@@ -26,7 +26,7 @@ css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subti
 e-privacy XXXII @ Roma
 ===============================
 
-Il ** 14 e 15 giugno 2023 **  a Roma  si svolgerà **e-privacy 2023
+Il ** 14 e 15 giugno 2023 **  a Roma, presso l'Associazione Stampa Romana, piazza della Torretta 36, si svolgerà **e-privacy 2023
 _summer edition_**.
 
 Il tema guida della XXXII edizione di e-privacy è:
