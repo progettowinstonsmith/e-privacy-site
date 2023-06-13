@@ -37,8 +37,10 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 <br/>
 
-<b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie.
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a>. Grazie.
 
+
+<b class="avviso">Streaming:</b> Lo streaming del convegno sarà disponibile sul <a href="https://www.youtube.com/progettowinstonsmith">canale Youtube</a> del Progetto Winston Smith.
 
 
 ### <a name="programma"></a>Programma del Convegno
