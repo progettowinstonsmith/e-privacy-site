@@ -45,7 +45,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 #### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
