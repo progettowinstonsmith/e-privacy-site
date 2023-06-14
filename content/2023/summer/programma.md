@@ -77,7 +77,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 15:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXII-interventi.html#grandis">TBA</a></em></span>
-15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
+15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a> e <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
 16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gaudiano">Giulio Gaudiano (Associazione Italiana Podcasting)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#gaudiano">Il podcast e l'IA</a></em></span>
 16:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXII-interventi.html#gobbato">L'Artificial Intelligence Act e l'appello dell'ENISA</a></em></span>
 17:00||<span class='talk'><em>Chiusura sessione</em></span>
@@ -100,7 +100,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
 13:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
 13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
-13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
+13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#priolo">La guerra invisibile sugli algoritmi.</a></em></span>
 14:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori

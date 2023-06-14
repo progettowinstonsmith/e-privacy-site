@@ -70,7 +70,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 15:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXII-interventi.html#grandis">TBA</a></em></span>
-15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
+15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a> e <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
 16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gaudiano">Giulio Gaudiano (Associazione Italiana Podcasting)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#gaudiano">Il podcast e l'IA</a></em></span>
 16:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXII-interventi.html#gobbato">L'Artificial Intelligence Act e l'appello dell'ENISA</a></em></span>
 17:00||<span class='talk'><em>Chiusura sessione</em></span>
@@ -91,14 +91,14 @@ Il tema guida della XXXII edizione di e-privacy è:
 12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
 13:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
 13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
-13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
+13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#priolo">La guerra invisibile sugli algoritmi.</a></em></span>
 14:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="agostini"></a> ai or not ai?<a href="/e-privacy-XXXII-programma.html#1p02">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a>*
+*<a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a> e <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>*
 
 Tema caldo del momento, l'intelligenza artificiale sta ricevendo grande attenzione dal grande pubblico. Ma cosa è ai e cosa non è? Qualche indicazione per orientarsi tra acronimi, tecnologie, sfide di un settore che sta evolvendo molto rapidamente.&#13;&#10;Negli scorsi mesi abbiamo assistito a un crescente interesse per alcune applicazioni di intelligenza artificiale disponibili su internet, fino al recentissimo intervento del garante privacy italiano (seguito poi da altri in Europa) nei confronti di uno di questi servizi. La copertura mediatica e i commenti del pubblico mostrano però, in generale, una scarsa conoscenza di cosa si possa definire intelligenza artificiale, di quali siano le tecnologie sottostanti, quali le sfide computazionali, di sicurezza e sociali che ne accompagnano l'evoluzione.
 
@@ -181,6 +181,12 @@ Affrontare in maniera problematica l'introduzione dell'Intelligenza artificiale 
 Il metaverso (o, molto più realisticamente, i metaversi) è un insieme di spazi digitali interconnessi ove l’utente può immergersi attraverso molteplici dispositivi (visori, guanti, altri accessori indossabili) e tecnologie diverse (artificial intelligence, blockchain, cloud computing, virtual reality, ecc.). Tali strumenti tecnologici permettono di andare oltre le due dimensioni dell’Internet odierno, consentendo all’utente di “stare dentro” un ambiente tridimensionale totalmente digitale.&#13;&#10;Tra i possibili scenari, la particolarità del metaverso sta nel proposito di voler offrire all’utente un’esperienza globale e diversificata, che possa il più possibile riprodurre il mondo fisico. Pertanto, l’utente tramite il proprio avatar (verosimilmente a sua immagine e somiglianza) potrà svolgere l’intera gamma di attività quotidiane che svolgerebbe nella propria realtà (lavorativa, scolastica, ludica, sociale) e comportarsi così come farebbero nel mondo reale. Questa crescente permeabilità tra il mondo virtuale e quello reale, tra l’avatar e il soggetto e tra le loro condotte, comporta numerosi rischi in termini di privacy, sorveglianza, diritti digitali (e molto altro). In effetti, il trasferimento nel metaverso di attività e comportamenti, nonché di rapporti sociali, giuridici ed economici normalmente osservabili nelle interazioni personali proprie della società offline aumenta il rischio che ciò che avviene nel mondo virtuale – regolato, almeno per ora, dai privati delle Big Tech - abbia notevoli ripercussioni sul soggetto fisico che abita il mondo reale.  &#13;&#10;Pertanto, a fronte delle numerose e brillanti opportunità che tale nuova tecnologia può offrire, è fondamentale riflettere su alcuni profili critici al fine di trovare una soluzione che, ancora una volta, metta l’uomo al centro dello sviluppo tecnologico. In particolare, sotto il profilo della protezione dei dati personali sarà determinante indagare quanti e quali dati personali saranno raccolti e trattati dai gestori delle piattaforme, le modalità e le finalità di tale trattamento. Ciò al fine di evitare che i gestori delle piattaforme possano arrivare ad invadere i confini della privacy degli utenti, senza neppur che essi se ne accorgano. Fondamentale, inoltre, sarà comprendere l’adattabilità del quadro giuridico esistente in materia di protezione di dati personali a questa nuova tecnologia ovvero, in caso contrario, provvedere tempestivamente con una nuova regolamentazione che, lungi dal voler (poter) bloccare uno sviluppo tecnologico ormai inarrestabile, riaffermi indiscutibilmente il principio della privacy by design.&#13;&#10;&#13;&#10;
 
 
+#### <a name="priolo"></a> La guerra invisibile sugli algoritmi.<a href="/e-privacy-XXXII-programma.html#2m08">⇧</a>
+*<a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a>*
+
+Proverò ad indagare i fronti da cui si combatte la guerra del XXI secolo, focalizzandomi sul ruolo svolto dalle ultime conquiste tecnologiche, compresi i sistemi di LLM e di intelligenza artificiale generativa. Chi vincerà?
+
+
 #### <a name="sapuppo"></a> Neurodiritti: nuovi spazi di tutela per gli esseri umani<a href="/e-privacy-XXXII-programma.html#1m04">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#sapuppo">Valentina Grazia Sapuppo (AI Alliance - Futurium - Commissione Europea)</a>*
 
@@ -197,12 +203,6 @@ Un sistema di intelligenza artificiale può commettere reati ? La risposta è s�
 *<a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
 
 
-
-
-#### <a name="somma"></a> Etica dell'IA o etica dei programmatori<a href="/e-privacy-XXXII-programma.html#2m08">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a>*
-
-TBA
 
 
 
