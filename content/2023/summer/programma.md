@@ -1,4 +1,4 @@
-slug: e-privacy-XXXII
+slug: e-privacy-XXXII-programma
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
@@ -26,7 +26,7 @@ css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subti
 e-privacy XXXII @ Roma
 ===============================
 
-Il ** 14 e 15 giugno 2023 **  a Roma, presso l'Associazione Stampa Romana, piazza della Torretta 36, si svolgerà **e-privacy 2023
+Il ** 14 e 15 giugno 2023 **  a Roma, presso l'Associazione Stampa Romana, piazza della Torretta 36,  si svolgerà **e-privacy 2023
 _summer edition_**.
 
 Il tema guida della XXXII edizione di e-privacy è:
@@ -37,16 +37,16 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 <br/>
 
-<b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a>. Grazie.
-
-
-<b class="avviso">Streaming:</b> Lo streaming del convegno sarà disponibile sul <a href="https://www.youtube.com/progettowinstonsmith">canale Youtube</a> del Progetto Winston Smith.
-
+<b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a>
 
 ### <a name="programma"></a>Programma del Convegno
 
 
 #### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 * Modera: <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
 
@@ -93,7 +93,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 12:10|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#bianchini">Privacy-Enhancing Technologies - Ovvero: come ho imparato a non preoccuparmi e ad amare la data governance</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
 13:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
-13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale: rischi e opportunità per privacy e pubblica amministrazione</a></em></span>
+13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
 13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#somma">Emmanuele Somma </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#somma">Etica dell'IA o etica dei programmatori</a></em></span>
 14:00||<span class='talk'><em>Chiusura sessione</em></span>
 

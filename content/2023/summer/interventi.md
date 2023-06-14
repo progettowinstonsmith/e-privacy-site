@@ -67,7 +67,7 @@ Nell'era delle intelligenze artificiali un breve approccio di intelligenza non a
 
 
 
-#### <a name="giorio"></a> Intelligenza Artificiale: rischi e opportunità per privacy e pubblica amministrazione<a href="/e-privacy-XXXII-programma.html#2m07">⇧</a>
+#### <a name="giorio"></a> Intelligenza Artificiale e Pubblica Amministrazione<a href="/e-privacy-XXXII-programma.html#2m07">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>*
 
 Anzitutto l'AI è un pericolo o un'opportunità? In secondo luogo, può creare problemi o vantaggi alle Pubbliche Amministrazioni? L'AI è anzitutto uno strumento, com'è uno strumento un cacciavite, un'auto, una bomba atomica. Che, per le sue potenzialità, possa essere più vicina alla pericolosità di un'arma nucleare piuttosto che di un utensile classico è probabile, tuttavia anche l'auto genera migliaia di morti e feriti ogni anno, senza che nessuno metta in dubbio il suo utilizzo. Certo, si tratta di una tecnologia recente, per la quale sono ancora da esplorare potenzialità, rischi, limiti, ma si tratta anche di una grande opportunità. Nella PA, inoltre ci sono ampi spazi di miglioramento in termini di efficienza, puntualità, comunicazione, per cui un aiuto robotico potrebbe essere una soluzione, piuttosto che un problema, soprattutto se venisse utilizzato per sgravare i (pochi) dipendenti dalle procedure più ripetitive e consentisse di concentrarsi sui casi veramente impegnativi. Quanto al problema della perdita di posti di lavoro, ogni tecnologia ha sempre sottratto posizioni lavorative, per crearne altre. Certo potrà indurre pigrizia negli studenti e rendere difficile l’ingresso in certe professioni
