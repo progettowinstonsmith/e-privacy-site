@@ -48,6 +48,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+
 * Modera: <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -66,6 +67,9 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="vep"></a>Mercoledì 14 giugno 2023 - pomeriggio
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 * Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
@@ -79,6 +83,8 @@ Il tema guida della XXXII edizione di e-privacy è:
 17:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Giovedì 15 giugno 2023 - mattina
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>, <a href="/e-privacy-XXXII-relatori.html#barrucci">Tiziana Barrucci (Associazione Stampa Romana)</a>
 
