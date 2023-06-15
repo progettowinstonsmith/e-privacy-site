@@ -26,18 +26,16 @@ css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subti
 e-privacy XXXII @ Roma
 ===============================
 
-Il ** 14 e 15 giugno 2023 **  a Roma, presso l'Associazione Stampa Romana, piazza della Torretta 36,  si svolgerà **e-privacy 2023
+Il ** 14 e 15 giugno 2023 **  a Roma, presso l'Associazione Stampa Romana, piazza della Torretta 36,  si è tenuto **e-privacy 2023
 _summer edition_**.
 
-Il tema guida della XXXII edizione di e-privacy è:
+Il tema guida della XXXII edizione di e-privacy è stato:
 
 <div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
 
 <div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
 
 <br/>
-
-<b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a>
 
 ### <a name="programma"></a>Programma del Convegno
 
@@ -119,7 +117,4 @@ stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
 per i relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
 
-Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
-disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
 
-**Vi aspettiamo**.
