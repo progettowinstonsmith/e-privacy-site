@@ -137,12 +137,6 @@ Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la li
 
 
 
-#### <a name="gaudiano"></a> Giulio Gaudiano (Associazione Italiana Podcasting)
-
-Conduttore di "Strategia Digitale", il primo podcast di business in Italia. Dal 2010 dirige YouMediaWeb, acceleratore per startup e imprenditori digitali, e la Digital Business School.
-
-
-
 #### <a name="gobbato"></a> Monica Gobbato (Privacy Academy)
 
 Avvocato digitale, Professoressa universitaria (a.c.), Presidente di Privacy Academy.&#13;&#10;&#13;&#10;Inserita nel gruppo d’esperti di supporto dell’ EDPB, già commissario d’esame per Privacy Officer nel 2013, in passato è stata senior associate di due grandi studi legali internazionali: Gianni, Origoni & Partners e Baker e MCKenzie a Milano, dove ha coordinato i dipartimenti di Diritto della Privacy nell’ambito di Information Technology.&#13;&#10;&#13;&#10;Prof A.C. all’università Ca’ Foscari a Venezia dal 2007, è docente in Master Universitari, Seminari e Corsi in tutta Italia. Relatrice e moderatrice in materia di Diritto dell’informatica, privacy e cybercrime.&#13;&#10;Scrive per Assodigitale, StartUPItalia, CheFuturo (a suo tempo), Key4biz.

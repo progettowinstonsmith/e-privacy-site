@@ -71,7 +71,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#grandis">Nicola Grandis (ASC27)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXII-interventi.html#grandis">TBA</a></em></span>
 15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#agostini">Yvette Agostini </a> e <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#agostini">ai or not ai?</a></em></span>
-16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gaudiano">Giulio Gaudiano (Associazione Italiana Podcasting)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#gaudiano">Il podcast e l'IA</a></em></span>
+16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
 16:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXII-interventi.html#gobbato">L'Artificial Intelligence Act e l'appello dell'ENISA</a></em></span>
 17:00||<span class='talk'><em>Chiusura sessione</em></span>
 
@@ -90,8 +90,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 12:10|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#bianchini">Privacy-Enhancing Technologies - Ovvero: come ho imparato a non preoccuparmi e ad amare la data governance</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ppatriarca">Paola Patriarca (Studio Legale E-Lex)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#ppatriarca">Metaverso, privacy e protezione dei dati personali</a></em></span>
 13:00|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#ferri">La privacy nell’era dell’IA</a></em></span>
-13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Intelligenza Artificiale e Pubblica Amministrazione</a></em></span>
-13:40|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXII-interventi.html#priolo">La guerra invisibile sugli algoritmi.</a></em></span>
+13:20|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXII-interventi.html#priolo">La guerra invisibile sugli algoritmi.</a></em></span>
 14:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 
@@ -133,13 +132,7 @@ Quale può essere un approccio corretto nel rapporto tra Intelligenza Artificial
 Nell'era delle intelligenze artificiali un breve approccio di intelligenza non artificiale. Dalla sicurezza delle informazioni alla privacy nell'era delle AI
 
 
-#### <a name="gaudiano"></a> Il podcast e l'IA<a href="/e-privacy-XXXII-programma.html#1p03">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#gaudiano">Giulio Gaudiano (Associazione Italiana Podcasting)</a>*
-
-
-
-
-#### <a name="giorio"></a> Intelligenza Artificiale e Pubblica Amministrazione<a href="/e-privacy-XXXII-programma.html#2m07">⇧</a>
+#### <a name="giorio"></a> Intelligenza Artificiale e Pubblica Amministrazione<a href="/e-privacy-XXXII-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a>*
 
 Anzitutto l'AI è un pericolo o un'opportunità? In secondo luogo, può creare problemi o vantaggi alle Pubbliche Amministrazioni? L'AI è anzitutto uno strumento, com'è uno strumento un cacciavite, un'auto, una bomba atomica. Che, per le sue potenzialità, possa essere più vicina alla pericolosità di un'arma nucleare piuttosto che di un utensile classico è probabile, tuttavia anche l'auto genera migliaia di morti e feriti ogni anno, senza che nessuno metta in dubbio il suo utilizzo. Certo, si tratta di una tecnologia recente, per la quale sono ancora da esplorare potenzialità, rischi, limiti, ma si tratta anche di una grande opportunità. Nella PA, inoltre ci sono ampi spazi di miglioramento in termini di efficienza, puntualità, comunicazione, per cui un aiuto robotico potrebbe essere una soluzione, piuttosto che un problema, soprattutto se venisse utilizzato per sgravare i (pochi) dipendenti dalle procedure più ripetitive e consentisse di concentrarsi sui casi veramente impegnativi. Quanto al problema della perdita di posti di lavoro, ogni tecnologia ha sempre sottratto posizioni lavorative, per crearne altre. Certo potrà indurre pigrizia negli studenti e rendere difficile l’ingresso in certe professioni
@@ -181,7 +174,7 @@ Affrontare in maniera problematica l'introduzione dell'Intelligenza artificiale 
 Il metaverso (o, molto più realisticamente, i metaversi) è un insieme di spazi digitali interconnessi ove l’utente può immergersi attraverso molteplici dispositivi (visori, guanti, altri accessori indossabili) e tecnologie diverse (artificial intelligence, blockchain, cloud computing, virtual reality, ecc.). Tali strumenti tecnologici permettono di andare oltre le due dimensioni dell’Internet odierno, consentendo all’utente di “stare dentro” un ambiente tridimensionale totalmente digitale.&#13;&#10;Tra i possibili scenari, la particolarità del metaverso sta nel proposito di voler offrire all’utente un’esperienza globale e diversificata, che possa il più possibile riprodurre il mondo fisico. Pertanto, l’utente tramite il proprio avatar (verosimilmente a sua immagine e somiglianza) potrà svolgere l’intera gamma di attività quotidiane che svolgerebbe nella propria realtà (lavorativa, scolastica, ludica, sociale) e comportarsi così come farebbero nel mondo reale. Questa crescente permeabilità tra il mondo virtuale e quello reale, tra l’avatar e il soggetto e tra le loro condotte, comporta numerosi rischi in termini di privacy, sorveglianza, diritti digitali (e molto altro). In effetti, il trasferimento nel metaverso di attività e comportamenti, nonché di rapporti sociali, giuridici ed economici normalmente osservabili nelle interazioni personali proprie della società offline aumenta il rischio che ciò che avviene nel mondo virtuale – regolato, almeno per ora, dai privati delle Big Tech - abbia notevoli ripercussioni sul soggetto fisico che abita il mondo reale.  &#13;&#10;Pertanto, a fronte delle numerose e brillanti opportunità che tale nuova tecnologia può offrire, è fondamentale riflettere su alcuni profili critici al fine di trovare una soluzione che, ancora una volta, metta l’uomo al centro dello sviluppo tecnologico. In particolare, sotto il profilo della protezione dei dati personali sarà determinante indagare quanti e quali dati personali saranno raccolti e trattati dai gestori delle piattaforme, le modalità e le finalità di tale trattamento. Ciò al fine di evitare che i gestori delle piattaforme possano arrivare ad invadere i confini della privacy degli utenti, senza neppur che essi se ne accorgano. Fondamentale, inoltre, sarà comprendere l’adattabilità del quadro giuridico esistente in materia di protezione di dati personali a questa nuova tecnologia ovvero, in caso contrario, provvedere tempestivamente con una nuova regolamentazione che, lungi dal voler (poter) bloccare uno sviluppo tecnologico ormai inarrestabile, riaffermi indiscutibilmente il principio della privacy by design.&#13;&#10;&#13;&#10;
 
 
-#### <a name="priolo"></a> La guerra invisibile sugli algoritmi.<a href="/e-privacy-XXXII-programma.html#2m08">⇧</a>
+#### <a name="priolo"></a> La guerra invisibile sugli algoritmi.<a href="/e-privacy-XXXII-programma.html#2m07">⇧</a>
 *<a href="/e-privacy-XXXII-relatori.html#priolo">Enrica Priolo </a>*
 
 Proverò ad indagare i fronti da cui si combatte la guerra del XXI secolo, focalizzandomi sul ruolo svolto dalle ultime conquiste tecnologiche, compresi i sistemi di LLM e di intelligenza artificiale generativa. Chi vincerà?
@@ -323,12 +316,6 @@ Avvocato cassazionista, Professore a contratto (Università di Ostrava - Roma). 
 #### <a name="ferri"></a> Edoardo Ferri (Studio Tecnico Ferri & Costantino)
 
 Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri & Costantino. Senior Partner del BiSLab – Bicocca Security Lab, laboratorio interdipartimentale in materia di sicurezza informatica della facoltà di Giurisprudenza e di Informatica dell’Università Bicocca.
-
-
-
-#### <a name="gaudiano"></a> Giulio Gaudiano (Associazione Italiana Podcasting)
-
-Conduttore di "Strategia Digitale", il primo podcast di business in Italia. Dal 2010 dirige YouMediaWeb, acceleratore per startup e imprenditori digitali, e la Digital Business School.
 
 
 
