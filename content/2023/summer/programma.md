@@ -37,6 +37,13 @@ Il tema guida della XXXII edizione di e-privacy è stato:
 
 <br/>
 
+** Sono disponibili gli atti ed i video del Convegno; li trovate qui sotto. Chi non desiderasse utilizzare Youtube per visualizzare i video, può scaricarli da qui:**
+<br>
+<a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_14-06-2023_mattina.mkv">14 mattina (1,3 GB)</a>, 
+<a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_14-06-2023_pomeriggio.mkv">14 pomeriggio (585 MB)</a>, 
+<a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_15-06-2023_mattina.mkv">15 mattina (645 MB)</a>.
+<br/>
+
 ### <a name="programma"></a>Programma del Convegno
 
 
