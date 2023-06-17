@@ -40,7 +40,7 @@ Il tema guida della XXXII edizione di e-privacy è stato:
 <br>
 Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith.
 <br>
-Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+Potete saltare direttamente all'inizio di ogni intervento cliccando sul relativo orario; su Youtube i link sono nei commenti dei video.
 <br>
 Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link: 
 <a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_14-06-2023_mattina.mkv">14 mattina (1,3 GB)</a>, 
