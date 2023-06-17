@@ -34,17 +34,30 @@ Il tema guida della XXXII edizione di e-privacy è stato:
 <div class="title-XXXII">«Privacy, AI & Security: un trinomio complesso»</div>
 
 <div class="subtitle-XXXII">Come impatterà la privacy e la sicurezza degli abitanti di questo pianeta l'avvento prossimo venturo dell'IA?</div>
-
-<br/>
-
-** Sono disponibili gli atti ed i video del Convegno; li trovate qui sotto. Chi non desiderasse utilizzare Youtube per visualizzare i video, può scaricarli da qui:**
 <br>
+<br>
+**Le slide e gli atti del convegno sono stati pubblicati e sono raggiungibili, quando presenti, usando le icone poste accanto al nome del relatore, inserite nel programma**.
+<br>
+Le registrazioni video sono raggiungibili nel programma, all'inizio di ogni sessione, e sul <a href="https://www.youtube.com/user/progettowinstonsmith">canale Youtube </a> del Progetto Winston Smith.
+<br>
+Visualizzando il video direttamente su Youtube, nei commenti dei video troverete i minutaggi per saltare ai singoli interventi di ogni sessione.
+<br>
+Per scaricare direttamente i video dal nostro server senza usare Youtube, potete usare i seguenti link: 
 <a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_14-06-2023_mattina.mkv">14 mattina (1,3 GB)</a>, 
 <a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_14-06-2023_pomeriggio.mkv">14 pomeriggio (585 MB)</a>, 
 <a href="http://urna.winstonsmith.org/materiali/2023/video/e-privacy_XXXII_-_Privacy,_AI_e_Security_un_trinomio_complesso_-_15-06-2023_mattina.mkv">15 mattina (645 MB)</a>.
 <br/>
 
 ### <a name="programma"></a>Programma del Convegno
+
+Legenda:
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF) |
+![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT | ![pdf](/images/icon/handouts.png) | Handouts|
+![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
+![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
 
 
 #### <a name="vep"></a>Mercoledì 14 giugno 2023 - mattina
@@ -58,9 +71,9 @@ Il tema guida della XXXII edizione di e-privacy è stato:
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:00||<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy, AI & Security: un trinomio complesso</em></span>
-09:10|10|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
-09:20|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
+[09:00](https://www.youtube.com/watch?v=mBLCve2YHas&t=4s)||<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>Privacy, AI & Security: un trinomio complesso</em></span>
+[09:10](https://www.youtube.com/watch?v=mBLCve2YHas&t=112s)|10|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ferrante">Stefano Ferrante (Associazione Stampa Romana)</a><br/><em>Saluti Istituzionali</em></span>
+[09:20](https://www.youtube.com/watch?v=mBLCve2YHas&t=195s)|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
 09:50|20|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#saterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXII-interventi.html#saterno">Machina AI delinquere potest</a></em></span>
 10:10|20|<span class='talk'><span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023/atti/ep2023se_15_berto_duello_privacy_ed_uso_intelligenza_artificiale.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#berto">Duello fra la privacy e l’uso dell’intelligenza artificiale</a></em></span>
 10:30|20|<span class='talk'><span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023/atti/ep2023se_16_sapuppo_neurodiritti.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<span class='talk'><a href="/e-privacy-XXXII-relatori.html#sapuppo">Valentina Grazia Sapuppo (AI Alliance - Futurium - Commissione Europea)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#sapuppo">Neurodiritti: nuovi spazi di tutela per gli esseri umani</a></em></span>
