@@ -5,20 +5,20 @@ from __future__ import unicode_literals
 
 ##### Configurazioni per il sync
 
-EDITION = 32
+EDITION = 33
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
 EPRIVACY_N = 'XXXII'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2023/summer/'
+EVENT_PATH = 'content/2023/winter/'
 YEAR = u'2023'
-EDITION = 'summer'
-SITENAME = u'e-privacy 2023 summer: Privacy, AI & Security: un trinomio complesso'
+EDITION = 'winter'
+SITENAME = u'e-privacy 2023 winter: IA: Tecnologia, Etica e Privacy'
 IMAGE='e-privacy-XXXII.jpeg'  
 
 COUNTDOWN = False
-EVENT_TIME = '2023/06/14 10:00'
+EVENT_TIME = '2023/11/23 10:00'
 
 #####
 
@@ -75,16 +75,16 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-     ('Il programma', '/e-privacy-XXXII.html'),
-     ('Gli interventi', '/e-privacy-XXXII-interventi.html'),
-     ('I relatori', '/e-privacy-XXXII-relatori.html'),
+#     ('Il programma', '/e-privacy-XXXII.html'),
+#     ('Gli interventi', '/e-privacy-XXXII-interventi.html'),
+#     ('I relatori', '/e-privacy-XXXII-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Proposta Talk', '/e-privacy-XXXII-proposta.html'),
-#     ('Call for Paper', '/e-privacy-XXXII-cfp.html'),
+     ('Call for Paper', '/e-privacy-XXXIII.html'),
 #     ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
-#     ('FAQ per i relatori', '/e-privacy-XXXI-faq-relatori.html'),
+     ('FAQ per i relatori', '/e-privacy-XXXIII-faq-relatori.html'),
 #     ('Slides', '/consegna-slides.html'),
-     ('Come arrivare', '/e-privacy-XXXII-come-arrivare.html'),
+#     ('Come arrivare', '/e-privacy-XXXII-come-arrivare.html'),
 #     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
@@ -103,6 +103,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     #    ('mappa di tutte le edizioni', '/mappa.html'),
+    ('e-privacy 2023 summer XXXII', '/e-privacy-XXXII.html'),
     ('e-privacy 2022 autumn XXXI', '/e-privacy-XXXI.html'),
     ('e-privacy 2022 summer XXX', '/e-privacy-XXX.html'),
     ('e-privacy 2021 autumn 29e¾', '/e-privacy-29e3quarti.html'),

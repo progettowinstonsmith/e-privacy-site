@@ -1,4 +1,4 @@
-slug: e-privacy-XXXII-programma
+slug: e-privacy-XXXII
 Template: event
 XStatus: draft
 Title: Privacy, AI & Security: un trinomio complesso
@@ -12,10 +12,10 @@ Where: Roma
 When: 14-15 giugno
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2022W
 prev: e-privacy-XXXI
-nextid: 
-next: 
+previd: 2022W
+next: e-privacy-XXXIII
+nextid: 2023W
 Organizzatori: pws,asr 
 Collaboratori: bba
 Sponsor: hermes,cgt,sikurezza.org,sepel,ush,isgroup

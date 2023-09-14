@@ -3,6 +3,7 @@ Title: Donazioni
 lang: it
 Date: 2020-09-17 20:00:00
 slug: donazioni-e-privacy
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 Caro amico,
 

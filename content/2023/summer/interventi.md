@@ -14,8 +14,8 @@ Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022W
 prev: e-privacy-XXXI
-nextid: 
-next: 
+nextid: e-privacy-XXXIII
+next: 2022W
 Organizzatori: pws, asr
 Collaboratori: bba
 Sponsor: hermes,cgt,sikurezza.org,sepel,ush,isgroup
