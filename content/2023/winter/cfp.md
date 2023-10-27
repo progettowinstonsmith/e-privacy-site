@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-slug: e-privacy-XXXIII
+slug: e-privacy-XXXIII-cfp
 Title: IA: Tecnologia, Etica e Privacy
 Date: 2023-09-13 12:05:00
 Category: 2023

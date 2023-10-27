@@ -66,17 +66,6 @@ PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
 relatore.
 
 
-### <a name='priolo'></a>Enrica Priolo
-
-Sono avvocata (di estrazione penalista) e formatrice, specializzata in diritti umani e in legal tech. Le mie aree di ricerca sono principalmente la privacy, l'intelligenza Artificiale, i processi decisionali automatizzati e l'ethics by design; il mio approccio al diritto è di tipo filosofico. Sono co-founder dell'associazione Legal Hackers Pisa.
-
-
-### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
-
-Emmanuele Somma è prestato da anni al Progetto Winston Smith. È giornalista
-pubblicista, ha fondato Linux Magazine e dirige "LOGIN, saving the
-Internet wealth". 
-
 ## <a name="speakers"></a>I relatori
 
 #### <a name="aterno"></a> Stefano Aterno (Studio Legale E-LEx)
@@ -127,7 +116,7 @@ Ingegnere dell’informazione, master in secondo livello in Cybersecurity conseg
 
 
 
-#### <a name="matteuzzi"></a> costanza matteuzzi (Costituenda Associazione NO.VIO)
+#### <a name="matteuzzi"></a> Costanza Matteuzzi (Costituenda Associazione NO.VIO)
 
 Avvocato del Foro di Firenze. Specializzata in reati informatici. Data Protection e CyberSecurity Law. Si occupa sia di attività giudiziale che stragiudiziale su questi temi. Relatore per numerosi eventi su queste materie, autrice di articoli scientifici.
 
@@ -145,9 +134,16 @@ Junior Associate presso lo Studio Legale E-Lex, collaboro con esperti profession
 
 
 
-#### <a name="pievatolo"></a> Maria Chiara Pievatolo (Univesrsità Pisa)
+#### <a name="pievatolo"></a> Maria Chiara Pievatolo (Università Pisa)
 
-NYA
+Professoressa Ordinaria presso il Dipartimento di Scienze Politiche. 
+Settore scientifico disciplinare: Filosofia Politica SPS/01.
+
+- Insegnamento di Filosofia Politica (Cod. 008QQ) per Corso di Laurea in Scienze Politiche
+
+- Insegnamento di Filosofia e Teoria dei Linguaggi (Cod. 147MM) per Corso di Laurea Magistrale in Comunicazione D'Impresa E Politica Delle Risorse Umane
+
+- Incarichi di co-docenza in moduli/insegnamenti
 
 
 
@@ -159,14 +155,18 @@ Componente del Garante per la protezione dei dati personali Avvocato, giornalist
 
 #### <a name="valiani"></a> Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)
 
+NYA
 
 
 
-
-#### <a name="vieri"></a> giovambattista Vieri (consulente it)
+#### <a name="vieri"></a> Giovambattista Vieri (consulente.it)
 
 Giovambattista Vieri, sono un figlio degli anni '60, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori.
 
+
+#### <a name="vescovi"></a> Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)
+
+Chiara Vescovi è dottoranda in Informatica giuridica presso l'Università di Milano-Bicocca e Cyber Law Expert per ReD OPEN. Dopo alcune esperienze internazionali, tra cui uno stage all'INTERPOL di Lione, si è laureata in giurisprudenza con specializzazione in diritto Internazionale presso l'Università Bocconi di Milano. Dal 2021 è iscritta al dottorato di ricerca presso l'Università di Milano-Bicocca: una collaborazione tra l'Università e ReD OPEN. La sua ricerca indaga gli strumenti di governo dell'Intelligenza Artificiale, concentrandosi nello specifico sulle responsabilità connesse al suo utilizzo, soprattutto in ambito sanitario.
 
 
 

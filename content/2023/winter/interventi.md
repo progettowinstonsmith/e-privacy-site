@@ -26,7 +26,7 @@ L'IA e le altre tecnologie emergenti (come i computer quantistici) sembrano spin
 
 
 #### <a name="bassoli"></a> Il Machine learning nel nuovo “Regolamento Macchine”<a href="/e-privacy-XXXIII-programma.html#2m04">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a>*
+*<a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif - Ass. Naz. Giuristi e Informatici e Forenser)</a>*
 
 Tra le novità più rilevanti del nuovo Regolamento Macchine del 2023 vi è un approccio particolare alle componenti digitali, compreso il software, che viene per la prima volta introdotto nella disciplina macchine e l’introduzione di nuove responsabilità per fornitori, importatori e distributori con specifico riguardo al “comportamento autoevolutivo” delle macchine in cui sia stato implementato un qualche tipo di machine learning.&#13;&#10;Ciò determinerà particolari obblighi in capo agli operatori economici, in particolare per quanto attiene alla valutazione dei rischi e all’obbligo di introduzione di “limitatori di apprendimento”, come prescritto dal nuovo Regolamento, oltre alla messa a disposizione del codice sorgente o della logica di programmazione del software relativo alla sicurezza al fine di dimostrare la conformità della macchina o del prodotto correlato rispetto al Regolamento a seguito di richiesta da parte di un’Autorità nazionale.&#13;&#10;
 
@@ -55,7 +55,7 @@ Si illustrano il contesto tecnologico e normativo che, con opportune scelte poli
 Anche se non mancano casi di scarsa digitalizzazione anche nel settore privato, la Pubblica Amministrazione ha la nomea, a torto o ragione, di procedere come nell'800, gestendo gli iter con faldoni, timbri, montagne di moduli da compilare in triplice copia. L'accumulo di carta implica spesso la saturazione degli archivi, per cui i faldoni cominciano ad accumularsi nei corridoi accessibili al pubblico, o restare visibili sulle scrivanie. Anche la digitalizzazione non è esente da scarsa consapevolezza o attenzione alla sicurezza, amplificando la magnitudo del data breach in caso di perdita dei dati. Se quindi l'apparto pubblico ha poche risorse per la formazione e la gestione dei sistemi, un'AI attentamente programmata e controllata centralmente potrebbe essere una soluzione, anziché un problema?
 
 
-#### <a name="landucci"></a> Iil futuro dell'algoritmo pubblicitario e la protezione della privacy<a href="/e-privacy-XXXIII-programma.html#2m05">⇧</a>
+#### <a name="landucci"></a> Il futuro dell'algoritmo pubblicitario e la protezione della privacy<a href="/e-privacy-XXXIII-programma.html#2m05">⇧</a>
 *<a href="/e-privacy-XXXIII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a>*
 
 Esploreremo la connessione tra l'Intelligenza Artificiale e il futuro del targeting pubblicitario, ponendo particolare enfasi sulla protezione della privacy dei consumatori. L'utilizzo dell'IA nella progettazione di algoritmi pubblicitari è in continua evoluzione, mentre le aziende cercano di trovare un equilibrio tra la fornitura di contenuti pubblicitari rilevanti e il rispetto della privacy degli utenti.
@@ -68,15 +68,10 @@ La velocità del cambiamento tecnologico tende a stimolare una iper-produzione n
 
 
 #### <a name="matteuzzi1"></a> Email. Uno strumento obsoleto?<a href="/e-privacy-XXXIII-programma.html#1p02">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
+*<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">Costanza Matteuzzi (Costituenda Associazione NO.VIO)</a>*
 
-la email è uno degli strumenti più utilizzati nelle relazioni quotidiane. tuttavia questo strumento ha delle importanti criticità. Pertanto occorre domandarsi quali sono e se vi sono strumenti alternativi. I relatori intendono utilizzare sia un approccio giuridico che informatico, mettendo in evidenza i problemi di riservatezza e tutela dei dati che la mail ha. Inoltre si indicheranno delle alternative e se esistono dei sistemi mail più sicuri.
+L'email è uno degli strumenti più utilizzati nelle relazioni quotidiane. tuttavia questo strumento ha delle importanti criticità. Pertanto occorre domandarsi quali sono e se vi sono strumenti alternativi. I relatori intendono utilizzare sia un approccio giuridico che informatico, mettendo in evidenza i problemi di riservatezza e tutela dei dati che la mail ha. Inoltre si indicheranno delle alternative e se esistono dei sistemi mail più sicuri.
 
-
-#### <a name="matteuzzi2"></a> l'oblio e il giornalismo d'inchiesta<a href="/e-privacy-XXXIII-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
-
-Ci sono state importanti novità normative molto recenti. Dal 1° gennaio 2023, per legge gli imputati che sono stati assolti o in seguito all'archiviazione del loro caso in un procedimento penale hanno diritto alla cancellazione del proprio nominativo dai motori di ricerca. L'oblio dunque riguarda sia la data protection, ma anche la tutela dei diritti fondamentali. A questo punto ci si interroga sul tema del giornalismo d'inchiesta che ha delle peculiarità in tema di oblio. Si portano dei casi pratici per cercare di spiegare il difficile bilanciamento tra il compimento di alcuni reati particolarmente gravi (mafia o terrorismo) e oblio.
 
 
 #### <a name="menendez"></a> Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale<a href="/e-privacy-XXXIII-programma.html#1m03">⇧</a>
@@ -92,7 +87,7 @@ Nel 2012 l’Istituto Treccani ha definito con il neologismo smart city “una c
 
 
 #### <a name="pievatolo"></a> Dati privati e felicità pubblica<a href="/e-privacy-XXXIII-programma.html#1m02">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a>*
+*<a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Università Pisa)</a>*
 
 Stati e monopolisti dell'ICT usano i dati personali per progetti che giustificano con lo scopo di una presunta felicità collettiva. E lo possono fare senza troppe difficoltà, anche dove esistono legislazioni a tutela della privacy, quando i dati personali sono trattati come proprietà, (a) virtualmente esclusivi ma alienabili, specialmente ove i monopolisti propongono termini di servizio come offerte che non si possono rifiutare, e (b) limitati all'interesse individuale, anche qualora i "proprietari" fossero consapevoli che il carattere panottico dell'ordine sociale è un problema collettivo. Winston in "1984" viene riassimilato al sistema perché le azioni politiche collettive sono al di là della sua portata - perfino l'opposizione è organizzata dallo stato - e si trova a difendere solo un precario e infine illusorio fortino privato individuale.  É possibile intendere la condivisione - o no - dei dati personali come una questione di azione e di politica collettiva? Proverò a rispondere a questa domanda a partire dalle riflessione di Kant sul rapporto fra felicità e politica.&#13;&#10;
 
@@ -100,14 +95,18 @@ Stati e monopolisti dell'ICT usano i dati personali per progetti che giustifican
 #### <a name="scorza"></a> Il Garante e l'IA<a href="/e-privacy-XXXIII-programma.html#1p01">⇧</a>
 *<a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
 
-
+NYA
 
 
 #### <a name="vieri"></a> Io non ho nulla da nascodere, che mi importa della sicurezza IT?<a href="/e-privacy-XXXIII-programma.html#2m01">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#vieri">giovambattista Vieri (consulente it)</a>*
+*<a href="/e-privacy-XXXIII-relatori.html#vieri">Giovambattista Vieri (consulente it)</a>*
 
 Io non ho nulla da nascodere, che mi importa della sicurezza IT?&#13;&#10;Quante volte abbiamo sentito dire questo ? Forse e' il caso di cambiare ottica e cominciare a scoprire cosa e quanto queste attitudinin possono donare alla societa' e, ai suoi stakeholder.&#13;&#10;&#13;&#10;Cominciamo a parlare di tracce digitali rilevabili liberamente in molti paesi con un hardware da meno di 50 euro escluso pc.&#13;&#10;&#13;&#10;Di certo avete usato i dongle tv sul pc. E quelli bluetooh. E altri ancora (Zigbee? Lora?). Spesso questi apparati operano su frequenze ad ascolto libero e, il cui ascolto e' addirittura possibile da remoto, via web. Ma cosa troviamo su queste frequenze ? Sicuramente lettori di temperatura, pioggia e umidita'. Sensori a contatto. Pressione e temperatura delle gomme, contabilizzatori e altro ancora. Ricordo a tutti del bluetooth e del suo MAC facilmente registrabile... Insomma cosine molto interessanti che visto che usiamo rigorsamente in chiaro, e non ci diamo pena di cio' forse, nazioni, comuni e cittadini dovrebbero cominciare a usare. Mi raccomando senza mai violare la legge. Che al riguardo e' permissiva e chiara.&#13;&#10;&#13;&#10;Ora, se aggiungiamo questo 'strumento' che puo' arrivare a decine di metri, alla&#13;&#10; biometria potremmo avere un riconoscimento biometro rafforzato e rilassato ? Ai&#13;&#10; posteri l'ardua sentenza.&#13;&#10;
 
+#### <a name="vescovi"></a> Dal principio precauzionale all'approccio consapevole: la sfida dell'autovalutazione per l'AI<a href="/e-privacy-XXXIII-programma.html#1p06">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#vescovi">Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)</a>*
+
+Nell'ambito dell'Intelligenza Artificiale, l'emergente e vasta complessità normativa anticipa l'avvento di regolamentazioni più rigorose. Tuttavia, l'etica, che si riflette in ogni normativa, è intrinsecamente legata alla cultura di una certa società. Pertanto, gli strumenti sviluppati per navigare in questa complessità devono essere profondamente radicati nel contesto socio-culturale in cui operano. Questa esigenza diventa ancor più evidente quando si esplora il concetto di responsabilità, oscillando tra le prescrizioni del GDPR e le nuove proposte normative emergenti. La chiave per affrontare questi rapidi cambiamenti risiede nella creazione di strumenti che non solo aumentino la coscienza decisionale, ma che conservino anche la flessibilità necessaria per adattarsi all'evoluzione continua delle tecnologie AI. La direzione ottimale combina principi solidi con interventi specifici di governance e organizzazione. Uno strumento particolarmente efficace in questo contesto è l'introduzione di un momento "ex ante", un punto di autovalutazione che fornisce gli elementi essenziali per navigare il panorama normativo con chiarezza e consapevolezza.
 
 
 
