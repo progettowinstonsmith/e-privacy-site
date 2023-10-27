@@ -63,7 +63,7 @@ _winter edition_**.
 11:00|30|<span class='talk'><em>Pausa</em></span>
 11:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIII-interventi.html#bianchini">L'utilizzo dell'IA per la salute</a></em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
-12:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXIII-relatori.html#marcoc">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>, <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a> e <a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIII-interventi.html#tavola1">talk-def-not-found(tavola1)</a></em></span>
+12:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXIII-relatori.html#marcoc">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a>, <a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>, <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a> e <a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIII-interventi.html#tavola1">«IA: Tecnologia, Etica e Privacy»</a></em></span>
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio
@@ -343,6 +343,12 @@ NYA
 #### <a name="scorza"></a> Guido Scorza (Garante Privacy)
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
+
+
+
+#### <a name="valiani"></a> Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)
+
+
 
 
 

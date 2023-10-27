@@ -157,6 +157,12 @@ Componente del Garante per la protezione dei dati personali Avvocato, giornalist
 
 
 
+#### <a name="valiani"></a> Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)
+
+
+
+
+
 #### <a name="vieri"></a> giovambattista Vieri (consulente it)
 
 Giovambattista Vieri, sono un figlio degli anni '60, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori.
