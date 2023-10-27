@@ -93,7 +93,7 @@ Stati e monopolisti dell'ICT usano i dati personali per progetti che giustifican
 
 
 #### <a name="scorza"></a> Il Garante e l'IA<a href="/e-privacy-XXXIII-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
+*<a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante per la Protezione dei Dati Personali)</a>*
 
 NYA
 

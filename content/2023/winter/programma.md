@@ -22,7 +22,7 @@ Patrocini:
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 20 ottobre | 27 ottobre | 17 novembre
-css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXXIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIII { font: 18px arial, sans-serif; text-align: center; }
 
 
 ###e-privacy 2023 - winter edition
@@ -75,7 +75,7 @@ _winter edition_**.
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante per la Protezione dei Dati Personali)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
 15:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#matteuzzi">Costanza Matteuzzi (Costituenda Associazione NO.VIO)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi1">Email. Uno strumento obsoleto?</a></em></span>
 16:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#patriarca">Paola Patriarca, Luca Perozzo e Antonio Montillo </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIII-interventi.html#patriarca">Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini</a></em></span>
 16:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIII-interventi.html#giorio">Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione</a></em></span>
@@ -97,7 +97,7 @@ _winter edition_**.
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#mastella">Stefano Mastella </a>, <a href="/e-privacy-XXXIII-relatori.html#quirox">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXIII-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIII-interventi.html#mastella">Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta</a></em></span>
 11:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIII-interventi.html#aterno">La (in) sicurezza della IA</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif - Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIII-interventi.html#landucci">Il futuro dell'algoritmo pubblicitario e la protezione della privacy</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 

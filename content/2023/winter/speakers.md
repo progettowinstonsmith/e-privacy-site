@@ -74,7 +74,7 @@ Avvocato, Cassazionista, professore universitario
 
 
 
-#### <a name="bassoli"></a> Elena Bassoli (Angif (Ass. Naz. Giuristi, Informatici e Forenser))
+#### <a name="bassoli"></a> Elena Bassoli (Angif - Ass. Naz. Giuristi, Informatici e Forenser)
 
 Titolare dello Studio legale Bassoli, si occupa dal 1995 prevalentemente di privacy, diritto all'oblio,  legal cybersecurity, computer crimes, tutela della proprietà industriale, e intellettuale, contratti informatici, digital evidence, algoritmica giuridica. &#13;&#10;Docente di Diritto della comunicazione elettronica e di Cyber Security and Data Protection Università degli Studi di Genova. &#13;&#10;Presidente di ANGIF (Associazione Nazionale Giuristi Informatici e Forensi).&#13;&#10;Autore di oltre 300 pubblicazioni in materia.
 
@@ -147,7 +147,7 @@ Settore scientifico disciplinare: Filosofia Politica SPS/01.
 
 
 
-#### <a name="scorza"></a> Guido Scorza (Garante Privacy)
+#### <a name="scorza"></a> Guido Scorza (Garante per la Protezione dei Dati Personali)
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
 
