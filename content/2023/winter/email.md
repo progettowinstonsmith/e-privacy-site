@@ -51,152 +51,146 @@ _winter edition_**.
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5C8u-xpmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
 
-* Modera: <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco2 Calamari2 </a>
+* Modera: <a href="/e-privacy-XXXIII-relatori.html#marcoc">Marco Calamari </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:00|15|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#marcoc">Marco2 Calamari2 </a><br/><em>«IA: Tecnologia, Etica e Privacy»</em></span>
-09:15|15|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a><br/><em>Saluti Istituzionali</em></span>
-09:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXII-interventi.html#ciurcina">Politiche per la ricerca scientifica sull'IA</a></em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#mastella">Stefano Mastella </a>, <a href="/e-privacy-XXXII-relatori.html#quirox">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXII-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXII-interventi.html#mastella">Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXII-interventi.html#aterno">La (in) sicurezza della IA</a></em></span>
+09:00|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#marcoc">Marco Calamari </a><br/><em>«IA: Tecnologia, Etica e Privacy»</em></span>
+09:15|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a><br/><em>Saluti Istituzionali</em></span>
+09:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIII-interventi.html#berto">Intelligenza artificiale,  discriminazione e normativa europea</a></em></span>
+10:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIII-interventi.html#pievatolo">Dati privati e felicità pubblica</a></em></span>
+10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIII-interventi.html#menendez">Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale</a></em></span>
 11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXII-interventi.html#berto">Intelligenza artificiale,  discriminazione e normativa europea</a></em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#patriarca">Paola Patriarca </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXII-interventi.html#patriarca">Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini</a></em></span>
-12:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXII-relatori.html#marcoc">Marco2 Calamari2 </a><br/>Partecipano: <a href="/e-privacy-XXXII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXII-interventi.html#tavola1">talk-def-not-found(tavola1)</a></em></span>
+11:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIII-interventi.html#bianchini">L'utilizzo dell'IA per la salute</a></em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
+12:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXIII-relatori.html#marcoc">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>, <a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>, <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a> e <a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIII-interventi.html#tavola1">talk-def-not-found(tavola1)</a></em></span>
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvZEosz11yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
 
-* Modera: <a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a>
+* Modera: <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-15:00|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
-15:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXII-interventi.html#menendez">Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale</a></em></span>
-16:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#vescovi">Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXII-interventi.html#vescovi">Dal principio precauzionale all'approccio consapevole: la sfida dell'autovalutazione per l'AI</a></em></span>
-16:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXII-interventi.html#matteuzzi1">Email. Uno strumento obsoleto?</a></em></span>
-17:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXII-interventi.html#giorio">Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione</a></em></span>
-17:30||<span class='talk'><em>Chiusura sessione</em></span>
+15:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
+15:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi1">Email. Uno strumento obsoleto?</a></em></span>
+16:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#patriarca">Paola Patriarca </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIII-interventi.html#patriarca">Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini</a></em></span>
+16:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIII-interventi.html#giorio">Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione</a></em></span>
+17:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXIII-interventi.html#ciurcina">Politiche per la ricerca scientifica sull'IA</a></em></span>
+17:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi2">l'oblio e il giornalismo d'inchiesta</a></em></span>
+18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina
 
 <!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9UIuEWuVobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
 
 
-* Modera: <a href="/e-privacy-XXXII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>
+* Modera: <a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-09:30|5|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em>Apertura seconda giornata</em></span>
-09:35|25|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXII-interventi.html#matteuzzi2">l'oblio e il giornalismo d'inchiesta</a></em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#pievatolo">curriculum-not-found(pievatolo)  </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXII-interventi.html#pievatolo">Dati privati e felicità pubblica</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXII-interventi.html#landucci">Iil futuro dell'algoritmo pubblicitario e la protezione della privacy</a></em></span>
-11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#vieri">giovambattista Vieri (consulente it)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXII-interventi.html#vieri">Io non ho nulla da nascodere, che mi importa della sicurezza IT?</a></em></span>
-12:30|30|<span class='talk'><a href="/e-privacy-XXXII-relatori.html#brambilla">curriculum-not-found(brambilla)  </a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXII-interventi.html#brambilla">Antropologia del transumanesimo: una risposta critica</a></em></span>
+10:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em>Apertura seconda giornata</em></span>
+10:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#vieri">giovambattista Vieri (consulente it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIII-interventi.html#vieri">Io non ho nulla da nascodere, che mi importa della sicurezza IT?</a></em></span>
+10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#mastella">Stefano Mastella </a>, <a href="/e-privacy-XXXIII-relatori.html#quirox">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXIII-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIII-interventi.html#mastella">Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta</a></em></span>
+11:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIII-interventi.html#aterno">La (in) sicurezza della IA</a></em></span>
+11:30|30|<span class='talk'><em>Pausa</em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIII-interventi.html#landucci">Iil futuro dell'algoritmo pubblicitario e la protezione della privacy</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="aterno"></a> La (in) sicurezza della IA<a href="/e-privacy-XXXII-programma.html#1m03">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a>*
+#### <a name="aterno"></a> La (in) sicurezza della IA<a href="/e-privacy-XXXIII-programma.html#2m03">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a>*
 
 L'IA e le altre tecnologie emergenti (come i computer quantistici) sembrano spingere gli esseri umani verso una conoscenza della realtà che va oltre i confini della loro stessa percezione.&#13;&#10;Ma queste tecnologie hanno dei limiti. A fronte di grandi vantaggi già oggi  evidenti (e in futuro ancora più sbalorditivi) preoccupano a ragione i rischi, le incertezza e le insicurezze che l'uso di tali tecnologie comporteranno. Ci interroghiamo a livello mondiale sugli effetti, sulle criticità, sui danni, sulle responsabilità che l'uso di tale tecnologia comporterà. Il nostro problema è che non riusciamo ancora ad afferrare le implicazioni filosofiche del nostro rapporto con tali tecnologie. Stiamo progredendo in modo automatico e non cosciente. E questo è un problema. Stiamo assistendo ad un cambiamento della coscienza umana. Durante l'illuminismo la coscienza umana subì una trasformazione perchè la stampa (la nuova tecnologia dell'epoca) aveva prodotto nuove intuizioni filosofiche che erano state diffuse a loro volta dalla stessa tecnologia. Oggi si sta sviluppando una nuova tecnologia che però non solo è priva delle regole tecniche scritte tipiche delle grandi invenzioni, ma è ancora priva di una filosofia capace di guidarla. Dobbiamo quindi affrontare la sfida di sviluppare una visione etica e filosofica per guidare l'uso di queste potenti tecnologie, in modo da massimizzare i benefici e mitigare i rischi. È necessario un approccio multidisciplinare che coinvolga filosofi, scienziati, responsabili delle politiche, sviluppatori e la società nel suo complesso. Solo attraverso un dibattito approfondito e una guida filosofica adeguata possiamo affrontare responsabilmente la rapida evoluzione di queste tecnologie e plasmare un futuro in cui esse siano in sintonia con i valori umani e contribuiscano al progresso sostenibile della società.&#13;&#10;Nonostante queste preoccupazioni e insicurezze, è importante sottolineare che l'IA e le tecnologie emergenti hanno il potenziale di portare notevoli vantaggi alla società. Ad esempio, possono migliorare l'efficienza operativa, facilitare la diagnosi e il trattamento delle malattie, ottimizzare le risorse energetiche e consentire nuove scoperte scientifiche. È fondamentale bilanciare attentamente i benefici con i rischi, lavorando per creare un ambiente in cui l'IA sia sviluppata in modo sicuro, transparente ed etico.&#13;&#10;&#13;&#10;&#13;&#10;In conclusione, l'IA e le tecnologie emergenti costituiscono una doppia sfida: da un lato, presentano un vasto potenziale che può superare le limitazioni della nostra percezione e conoscenza; dall'altro, sorgono preoccupazioni riguardo ai rischi, alle incertezze e alle insicurezze che possiamo affrontare se queste tecnologie non sono gestite in modo adeguato. Per affrontare tali sfide, è necessario adottare un approccio responsabile basato su una solida base etica e filosofica, coinvolgendo diverse parti interessate per sviluppare un quadro normativo e regolamentare che favorisca lo sviluppo sicuro, responsabile ed equo delle tecnologie emergenti.&#13;&#10;
 
 
-#### <a name="bassoli"></a> Il Machine learning nel nuovo “Regolamento Macchine”<a href="/e-privacy-XXXII-programma.html#2m04">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a>*
+#### <a name="bassoli"></a> Il Machine learning nel nuovo “Regolamento Macchine”<a href="/e-privacy-XXXIII-programma.html#2m04">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif (Ass. Naz. Giuristi e Informatici e Forenser))</a>*
 
 Tra le novità più rilevanti del nuovo Regolamento Macchine del 2023 vi è un approccio particolare alle componenti digitali, compreso il software, che viene per la prima volta introdotto nella disciplina macchine e l’introduzione di nuove responsabilità per fornitori, importatori e distributori con specifico riguardo al “comportamento autoevolutivo” delle macchine in cui sia stato implementato un qualche tipo di machine learning.&#13;&#10;Ciò determinerà particolari obblighi in capo agli operatori economici, in particolare per quanto attiene alla valutazione dei rischi e all’obbligo di introduzione di “limitatori di apprendimento”, come prescritto dal nuovo Regolamento, oltre alla messa a disposizione del codice sorgente o della logica di programmazione del software relativo alla sicurezza al fine di dimostrare la conformità della macchina o del prodotto correlato rispetto al Regolamento a seguito di richiesta da parte di un’Autorità nazionale.&#13;&#10;
 
 
-#### <a name="berto"></a> Intelligenza artificiale,  discriminazione e normativa europea<a href="/e-privacy-XXXII-programma.html#1m04">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#berto">Rebecca Berto </a>*
+#### <a name="berto"></a> Intelligenza artificiale,  discriminazione e normativa europea<a href="/e-privacy-XXXIII-programma.html#1m01">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a>*
 
 “Poca favilla gran fiamma seconda” (Paradiso I, 34) scrisse Dante in un invito ai posteri a seguire il richiamo universale dei perenni valori umani. &#13;&#10;L'invenzione di tecnologie sempre più efficienti e di largo utilizzo pongono già adesso quesiti giuridici rilevanti: per esempio, le difficoltá connesse a dimostrare che una decisione avente effetti giuridici rilevanti sulla singola persona sia stata adottata solamente da un algoritmo.&#13;&#10;&#13;&#10;Difficoltá emergono anche nel riuscire ad applicare il principio di non-discriminazione in ambito tecnologico. Difatti uno dei temi che desta maggiore preoccupazione è che le applicazioni dell'Intellingenza Artificiale possa portare a pratiche discriminatorie: fra queste quelle che pongono maggiori complicazioni sono quelle pratiche apparentemente neutrali, ma discriminatorie ad un'analisi più attenta. Con la conseguenza che le potenziali vittime nemmeno si accorgono di essere state svantaggiate e non possono porvi rimedio.&#13;&#10;&#13;&#10;La normativa europea, pur ribadendo, in vari livelli normativi, il principio di non-discriminazione, lascia aperte delle criticità.&#13;&#10;
 
 
-#### <a name="brambilla"></a> Antropologia del transumanesimo: una risposta critica<a href="/e-privacy-XXXII-programma.html#2m06">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#brambilla">curriculum-not-found(brambilla)  </a>*
+#### <a name="bianchini"></a> L'utilizzo dell'IA per la salute<a href="/e-privacy-XXXIII-programma.html#1m04">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a>*
 
-Il concetto di progresso occupa un posto chiave nel modo in cui l’uomo intende la tecnologia, sebbene non vada sempre di pari passo con il bene morale. L’articolo, dopo aver brevemente presentato il concetto di progresso tecnologico e il suo stato attuale, si concentra sulla concezione dell’antropologia e della tecnica che emergono dal transumanesimo. In particolare, esamina l’interpretazione del corpo umano e i tre passaggi che Nick Bostrom indica come indispensabili per raggiungere il proprio sé transumano. In seguito, delinea i concetti di piacere e felicità, esplicitando che il sostrato filosofico da cui sono tratti è l’utilitarismo di matrice edonista nella versione di John Stuart Mill. Infine, propone una critica del transumanesimo con lo scopo di evidenziarne le contraddizioni che lo affliggono circa il concetto di natura umana e piacere, opponendo una visione differente dell’uomo e della felicità, grazie agli scritti di Aristotele e Tommaso d’Aquino. &#13;&#10;&#13;&#10;
+L’intervento intende essere una presentazioe dei risultati della WHO e mira a fornire una panoramica delle considerazioni normative sull'IA per la salute che copre le seguenti sei aree tematiche generali: documentazione e trasparenza, approccio al ciclo di vita totale del prodotto e gestione del rischio, uso previsto e validazione analitica e clinica, qualità dei dati, privacy e protezione dei dati, impegno e collaborazione.
 
 
-#### <a name="ciurcina"></a> Politiche per la ricerca scientifica sull'IA<a href="/e-privacy-XXXII-programma.html#1m01">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>*
+#### <a name="ciurcina"></a> Politiche per la ricerca scientifica sull'IA<a href="/e-privacy-XXXIII-programma.html#1p05">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a>*
 
 Si illustrano il contesto tecnologico e normativo che, con opportune scelte politiche, potrebbero favorire la libera disponibilità, lo studio e la comprensione dei sistemi d’intelligenza artificiale.&#13;&#10;Per conseguire questo fine, è utile valorizzare i metodi già adottati per il software libero. &#13;&#10;È anche utile approfittare del quadro normativo europeo che permette di adottare politiche che valorizzano la ricerca scientifica nello sviluppo dei sistemi d’intelligenza artificiale.
 
 
-#### <a name="giorio"></a> Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione<a href="/e-privacy-XXXII-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>*
+#### <a name="giorio"></a> Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione<a href="/e-privacy-XXXIII-programma.html#1p04">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>*
 
 Anche se non mancano casi di scarsa digitalizzazione anche nel settore privato, la Pubblica Amministrazione ha la nomea, a torto o ragione, di procedere come nell'800, gestendo gli iter con faldoni, timbri, montagne di moduli da compilare in triplice copia. L'accumulo di carta implica spesso la saturazione degli archivi, per cui i faldoni cominciano ad accumularsi nei corridoi accessibili al pubblico, o restare visibili sulle scrivanie. Anche la digitalizzazione non è esente da scarsa consapevolezza o attenzione alla sicurezza, amplificando la magnitudo del data breach in caso di perdita dei dati. Se quindi l'apparto pubblico ha poche risorse per la formazione e la gestione dei sistemi, un'AI attentamente programmata e controllata centralmente potrebbe essere una soluzione, anziché un problema?
 
 
-#### <a name="landucci"></a> Iil futuro dell'algoritmo pubblicitario e la protezione della privacy<a href="/e-privacy-XXXII-programma.html#2m03">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a>*
+#### <a name="landucci"></a> Iil futuro dell'algoritmo pubblicitario e la protezione della privacy<a href="/e-privacy-XXXIII-programma.html#2m05">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a>*
 
 Esploreremo la connessione tra l'Intelligenza Artificiale e il futuro del targeting pubblicitario, ponendo particolare enfasi sulla protezione della privacy dei consumatori. L'utilizzo dell'IA nella progettazione di algoritmi pubblicitari è in continua evoluzione, mentre le aziende cercano di trovare un equilibrio tra la fornitura di contenuti pubblicitari rilevanti e il rispetto della privacy degli utenti.
 
 
-#### <a name="mastella"></a> Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta<a href="/e-privacy-XXXII-programma.html#1m02">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#mastella">Stefano Mastella </a>, <a href="/e-privacy-XXXII-relatori.html#quirox">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXII-relatori.html#giacomello">Jolanda Giacomello </a>*
+#### <a name="mastella"></a> Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta<a href="/e-privacy-XXXIII-programma.html#2m02">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#mastella">Stefano Mastella </a>, <a href="/e-privacy-XXXIII-relatori.html#quirox">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXIII-relatori.html#giacomello">Jolanda Giacomello </a>*
 
 La velocità del cambiamento tecnologico tende a stimolare una iper-produzione normativa ed un cambiamento incessante della disciplina sulla riservatezza. in Europa, per esempio, dove le direttive prima ed il GDPR poi hanno uniformato e generalizzato la disciplina del trattamento dei dati personali le leggi sono continuamente modificate per adeguarle alle nuove minacce alla riservatezza o sono adattate alle concorrenti esigenze di informazione, comunicazione e commercio. Negli Stati Uniti le esigenze di tutela della privacy hanno determinato il fiorire di una vasta legislazione speciale (la privacy dei guidatori, la privacy dei lettori, dei consumatori, dei bambini, ecc) a tal punto che è oggettivamente difficile districarsi nella congerie di strumenti normativi federali, statali e frutto dell’autonomia privata. Velocità del cambiamento e accumulo normativo non vanno certo nella direzione del rafforzamento e della maggiore protezione dell’autonomia individuale: la cornice si fa confusa e l’individuo è esposto all’incertezza ed al peso delle influenze esterne. La moltiplicazione e la specificazione del diritto alla privacy ha creato occasioni di conflitto non solo tra il diritto alla riservatezza ed altri diritti di pari rilievo giuridico (libertà di informazione, trasparenza amministrativa etc..) ma ha ingenerato conflitti interni tra attori sociali diversi in nome dello stesso diritto alla riservatezza. La più grave conseguenza non prevista e non voluta dell’affermarsi del diritto alla riservatezza si è, tuttavia manifestata in Europa ed i contorni della sua gravità non sono ancora del tutto stati compresi e consistono nell’aumento del potere discrezionale delle autorità di regolazione del settore del trattamenti dei dati personali nel vecchio Continente, non controbilanciato da un aumento della possibilità per i cittadini europei di partecipare alle decisioni né con strumenti di democrazia rappresentativa né tanto meno con forme di democrazia deliberativa.&#13;&#10;&#13;&#10;Essenziale, dunque, il tema della sovranità riferita non solo e non tanto all’individuo come singolo ma come soggetto che opera politicamente mediante le formazioni sociali in cui è inserito.&#13;&#10;&#13;&#10;Il tema è trasversale e comporta la garanzia per il soggetto di sceglie se condividere le proprie opinioni, valutazioni scelte o preferenze all’interno di un gruppo circoscritto (l’associazione, il gruppo, il coordinamento) e se e come manifestare anche all’esterno le scelte e le opinioni individuali e collettive. Il tema non è quindi affrontabile senza un approfondimento sotto il profilo tecnologico di come di come occultare o disoccultare consapevolmente la propria presenza su internet e sui mezzi digitali, da un lato, e di come al potere delle autorità di controllo (governance dei fenomeni) può contrapporsi un potere di autoregolazione (poietico, pratico) che spetta agli individui ed alle associazioni.&#13;&#10;&#13;&#10;Produzione e controllo, trasformazione ed autoregolazione nell’era digitano pongono nuove sfide che solo un approccio interdisciplinare può affrontare nell’ottica del rafforzamento della capacità di partecipazione alle scelte politiche.&#13;&#10;&#13;&#10;L’intervento sarà diviso in tre “atti”. Il primo atto prevede un breve excursus sui sistemi giuridici pensati per proteggere l’autonomia individuale e nelle interazioni sociali. Il secondo atto prevede la definizione delle implicazioni etiche della determinazione della libertà di decidere di essere ciberneta (di guidare la propria barca in condizioni avverse). Il terzo atto esplora gli strumenti per permettere agli individui e ai gruppi di esprimersi liberamente al di là del controllo del potere.&#13;&#10;
 
 
-#### <a name="matteuzzi1"></a> Email. Uno strumento obsoleto?<a href="/e-privacy-XXXII-programma.html#1p04">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
+#### <a name="matteuzzi1"></a> Email. Uno strumento obsoleto?<a href="/e-privacy-XXXIII-programma.html#1p02">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
 
 la email è uno degli strumenti più utilizzati nelle relazioni quotidiane. tuttavia questo strumento ha delle importanti criticità. Pertanto occorre domandarsi quali sono e se vi sono strumenti alternativi. I relatori intendono utilizzare sia un approccio giuridico che informatico, mettendo in evidenza i problemi di riservatezza e tutela dei dati che la mail ha. Inoltre si indicheranno delle alternative e se esistono dei sistemi mail più sicuri.
 
 
-#### <a name="matteuzzi2"></a> l'oblio e il giornalismo d'inchiesta<a href="/e-privacy-XXXII-programma.html#2m01">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
+#### <a name="matteuzzi2"></a> l'oblio e il giornalismo d'inchiesta<a href="/e-privacy-XXXIII-programma.html#1p06">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">costanza matteuzzi (Costituenda Associazione NO.VIO)</a>*
 
 Ci sono state importanti novità normative molto recenti. Dal 1° gennaio 2023, per legge gli imputati che sono stati assolti o in seguito all'archiviazione del loro caso in un procedimento penale hanno diritto alla cancellazione del proprio nominativo dai motori di ricerca. L'oblio dunque riguarda sia la data protection, ma anche la tutela dei diritti fondamentali. A questo punto ci si interroga sul tema del giornalismo d'inchiesta che ha delle peculiarità in tema di oblio. Si portano dei casi pratici per cercare di spiegare il difficile bilanciamento tra il compimento di alcuni reati particolarmente gravi (mafia o terrorismo) e oblio.
 
 
-#### <a name="menendez"></a> Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale<a href="/e-privacy-XXXII-programma.html#1p02">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>*
+#### <a name="menendez"></a> Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale<a href="/e-privacy-XXXIII-programma.html#1m03">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>*
 
 La relazione discuterà l’'applicazione del principio di proporzionalità nell'uso delle Tecnologie di Riconoscimento Facciale (TRF). In particolare, approfondirà il modo con cui le autorità di controllo (autorità di protezione dei dati personali) in tutta l’'Unione Europea hanno applicato tale principio in alcuni degli usi più controversi delle TRF su cui hanno avuto modo di pronunciarsi.
 
 
-#### <a name="patriarca"></a> Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini<a href="/e-privacy-XXXII-programma.html#1m05">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#patriarca">Paola Patriarca </a>*
+#### <a name="patriarca"></a> Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini<a href="/e-privacy-XXXIII-programma.html#1p03">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#patriarca">Paola Patriarca </a>*
 
 Nel 2012 l’Istituto Treccani ha definito con il neologismo smart city “una città caratterizzata dall’integrazione tra saperi, strutture e mezzi tecnologicamente avanzati, propri della società della comunicazione e dell’informazione, finalizzati a una crescita sostenibile e al miglioramento della qualità della vita”. &#13;&#10;Tuttavia, il termine smart city ha guadagnato maggiore attenzione soltanto negli ultimi anni, grazie ad un progresso tecnologico rapido ed incessante che ha aperto la strada a molteplici scenari innovativi. La città intelligente rappresenta un ambizioso progetto che si fonda su un'alleanza vincente tra tecnologia e capitale umano intellettuale, politico e sociale. &#13;&#10;Smart city significa, tra le altre, un’organizzazione cittadina più interattiva e reattiva, spazi pubblici più sicuri e un migliore soddisfacimento delle esigenze di una popolazione: si pensi alla gestione del flusso del traffico tramite semafori intelligenti, alle reti di trasporto urbano più efficienti, alle nuove stazioni telefoniche intelligenti, fino ai processi innovativi per illuminare e riscaldare gli edifici e rendere più efficiente lo smaltimento dei rifiuti. &#13;&#10;Una city “domotica’’, interconnessa con una moltitudine di dispositivi collegati tra loro e al servizio dei cittadini, al fine di migliorare i servizi pubblici e la partecipazione dei consociati alla vita collettiva della città. &#13;&#10;Una smart city è in grado di analizzare esattamente le esigenze dei propri abitanti, conosce esattamente le loro abitudini perché si aggiorna continuamente sui loro spostamenti, sa cosa e quanto consumano e individua i servizi di cui hanno bisogno. Ma questo comporta grosse criticità sotto il profilo del trattamento dei dati. &#13;&#10;La costruzione di città intelligenti attribuisce infatti un’importanza centrale agli  aspetti legati alla sicurezza e alla sostenibilità, riconoscendo particolare attenzione alla raccolta, condivisione e conservazione dei dati personali dei singoli cittadini. Nelle città intelligenti, il ricorso massiccio alle tecnologie IoT genera incessantemente un'enorme quantità di dati, analizzati per fornire servizi innovativi ai cittadini. Nella corretta implementazione di queste tecnologie, una delle sfide maggiori riguarda proprio la tutela della riservatezza dei cittadini e la sicurezza delle loro informazioni, senza le quali mancherebbe la fiducia e l’appoggio dei consociati, la cui partecipazione è essenziale affinché si concretizzino i vantaggi legati allo sviluppo delle smart cities. &#13;&#10;Città di tutto il mondo si stanno adoperando per realizzare questa strategia di pianificazione urbanistica innovativa e all'avanguardia che chiama in causa attori politici, provider, esperti ma, soprattutto, gli stessi cittadini. &#13;&#10;Quali saranno gli scenari del prossimo futuro? Soprattutto, quali i rischi paventati rispetto allo sviluppo delle città intelligenti? L’intervento avrà lo scopo di illustrare questi aspetti, attraverso un’attenta analisi sulle criticità e sulle opportunità che la smart city offre, alla luce del quadro normativo nazionale ed europeo. &#13;&#10;
 
 
-#### <a name="pievatolo"></a> Dati privati e felicità pubblica<a href="/e-privacy-XXXII-programma.html#2m02">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#pievatolo">curriculum-not-found(pievatolo)  </a>*
+#### <a name="pievatolo"></a> Dati privati e felicità pubblica<a href="/e-privacy-XXXIII-programma.html#1m02">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Univesrsità Pisa)</a>*
 
 Stati e monopolisti dell'ICT usano i dati personali per progetti che giustificano con lo scopo di una presunta felicità collettiva. E lo possono fare senza troppe difficoltà, anche dove esistono legislazioni a tutela della privacy, quando i dati personali sono trattati come proprietà, (a) virtualmente esclusivi ma alienabili, specialmente ove i monopolisti propongono termini di servizio come offerte che non si possono rifiutare, e (b) limitati all'interesse individuale, anche qualora i "proprietari" fossero consapevoli che il carattere panottico dell'ordine sociale è un problema collettivo. Winston in "1984" viene riassimilato al sistema perché le azioni politiche collettive sono al di là della sua portata - perfino l'opposizione è organizzata dallo stato - e si trova a difendere solo un precario e infine illusorio fortino privato individuale.  É possibile intendere la condivisione - o no - dei dati personali come una questione di azione e di politica collettiva? Proverò a rispondere a questa domanda a partire dalle riflessione di Kant sul rapporto fra felicità e politica.&#13;&#10;
 
 
-#### <a name="scorza"></a> Il Garante e l'IA<a href="/e-privacy-XXXII-programma.html#1p01">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
+#### <a name="scorza"></a> Il Garante e l'IA<a href="/e-privacy-XXXIII-programma.html#1p01">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante Privacy)</a>*
 
 
 
 
-#### <a name="vescovi"></a> Dal principio precauzionale all'approccio consapevole: la sfida dell'autovalutazione per l'AI<a href="/e-privacy-XXXII-programma.html#1p03">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#vescovi">Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)</a>*
-
-Nell'ambito dell'Intelligenza Artificiale, l'emergente e vasta complessità normativa anticipa l'avvento di regolamentazioni più rigorose. Tuttavia, l'etica, che si riflette in ogni normativa, è intrinsecamente legata alla cultura di una certa società. Pertanto, gli strumenti sviluppati per navigare in questa complessità devono essere profondamente radicati nel contesto socio-culturale in cui operano. Questa esigenza diventa ancor più evidente quando si esplora il concetto di responsabilità, oscillando tra le prescrizioni del GDPR e le nuove proposte normative emergenti. La chiave per affrontare questi rapidi cambiamenti risiede nella creazione di strumenti che non solo aumentino la coscienza decisionale, ma che conservino anche la flessibilità necessaria per adattarsi all'evoluzione continua delle tecnologie AI. La direzione ottimale combina principi solidi con interventi specifici di governance e organizzazione. Uno strumento particolarmente efficace in questo contesto è l'introduzione di un momento "ex ante", un punto di autovalutazione che fornisce gli elementi essenziali per navigare il panorama normativo con chiarezza e consapevolezza.
-
-
-#### <a name="vieri"></a> Io non ho nulla da nascodere, che mi importa della sicurezza IT?<a href="/e-privacy-XXXII-programma.html#2m05">⇧</a>
-*<a href="/e-privacy-XXXII-relatori.html#vieri">giovambattista Vieri (consulente it)</a>*
+#### <a name="vieri"></a> Io non ho nulla da nascodere, che mi importa della sicurezza IT?<a href="/e-privacy-XXXIII-programma.html#2m01">⇧</a>
+*<a href="/e-privacy-XXXIII-relatori.html#vieri">giovambattista Vieri (consulente it)</a>*
 
 Io non ho nulla da nascodere, che mi importa della sicurezza IT?&#13;&#10;Quante volte abbiamo sentito dire questo ? Forse e' il caso di cambiare ottica e cominciare a scoprire cosa e quanto queste attitudinin possono donare alla societa' e, ai suoi stakeholder.&#13;&#10;&#13;&#10;Cominciamo a parlare di tracce digitali rilevabili liberamente in molti paesi con un hardware da meno di 50 euro escluso pc.&#13;&#10;&#13;&#10;Di certo avete usato i dongle tv sul pc. E quelli bluetooh. E altri ancora (Zigbee? Lora?). Spesso questi apparati operano su frequenze ad ascolto libero e, il cui ascolto e' addirittura possibile da remoto, via web. Ma cosa troviamo su queste frequenze ? Sicuramente lettori di temperatura, pioggia e umidita'. Sensori a contatto. Pressione e temperatura delle gomme, contabilizzatori e altro ancora. Ricordo a tutti del bluetooth e del suo MAC facilmente registrabile... Insomma cosine molto interessanti che visto che usiamo rigorsamente in chiaro, e non ci diamo pena di cio' forse, nazioni, comuni e cittadini dovrebbero cominciare a usare. Mi raccomando senza mai violare la legge. Che al riguardo e' permissiva e chiara.&#13;&#10;&#13;&#10;Ora, se aggiungiamo questo 'strumento' che puo' arrivare a decine di metri, alla&#13;&#10; biometria potremmo avere un riconoscimento biometro rafforzato e rilassato ? Ai&#13;&#10; posteri l'ardua sentenza.&#13;&#10;
 
@@ -286,9 +280,9 @@ Titolare dello Studio legale Bassoli, si occupa dal 1995 prevalentemente di priv
 
 
 
-#### <a name="marcoc"></a> Marco2 Calamari2 
+#### <a name="bianchini"></a> Filippo Bianchini (ASSO DPO - ISLC)
 
-Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego
+Avvocato cassazionista, si occupa di data governance come consulente e DPO certificato UNI 11697:2017, nonché di gestione della sicurezza delle informazioni. &#13;&#10;È docente nel Master universitario in “Data protection, Cybersecurity e Digital forensics” dell'Università per gli Studi di Perugia ed è inserito nell’ “EDPB Support Pool of Experts” per i settori: “Technical expertise in new technologies and information security” e “Legal expertise in new technologies”. &#13;&#10;È membro del Comitato Direttivo di ASSO DPO e Fellow di ISLC - Information Society Law Center, nonché membro del Cyber Security National Lab, nodo di Perugia. &#13;&#10;Segue l’evoluzione dei fenomeni legati ad internet ed alle nuove tecnologie, con particolare attenzione all'intelligenza artificiale e alla ricerca.
 
 
 
@@ -340,15 +334,15 @@ Junior Associate presso lo Studio Legale E-Lex, collaboro con esperti profession
 
 
 
+#### <a name="pievatolo"></a> Maria Chiara Pievatolo (Univesrsità Pisa)
+
+NYA
+
+
+
 #### <a name="scorza"></a> Guido Scorza (Garante Privacy)
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
-
-
-
-#### <a name="vescovi"></a> Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)
-
-Chiara Vescovi è dottoranda in Informatica giuridica presso l'Università di Milano-Bicocca e Cyber Law Expert per ReD OPEN. Dopo alcune esperienze internazionali, tra cui uno stage all'INTERPOL di Lione, si è laureata in giurisprudenza con specializzazione in diritto Internazionale presso l'Università Bocconi di Milano. Dal 2021 è iscritta al dottorato di ricerca presso l'Università di Milano-Bicocca: una collaborazione tra l'Università e ReD OPEN. La sua ricerca indaga gli strumenti di governo dell'Intelligenza Artificiale, concentrandosi nello specifico sulle responsabilità connesse al suo utilizzo, soprattutto in ambito sanitario.
 
 
 

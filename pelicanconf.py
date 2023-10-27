@@ -8,14 +8,14 @@ from __future__ import unicode_literals
 EDITION = 33
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXII'
+EPRIVACY_N = 'XXXIII'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
 EVENT_PATH = 'content/2023/winter/'
 YEAR = u'2023'
 EDITION = 'winter'
 SITENAME = u'e-privacy 2023 winter: IA: Tecnologia, Etica e Privacy'
-IMAGE='e-privacy-XXXII.jpeg'  
+IMAGE='e-privacy-XXXIII.jpeg'  
 
 COUNTDOWN = False
 EVENT_TIME = '2023/11/23 10:00'

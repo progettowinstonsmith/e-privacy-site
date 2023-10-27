@@ -91,9 +91,9 @@ Titolare dello Studio legale Bassoli, si occupa dal 1995 prevalentemente di priv
 
 
 
-#### <a name="marcoc"></a> Marco2 Calamari2 
+#### <a name="bianchini"></a> Filippo Bianchini (ASSO DPO - ISLC)
 
-Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego Il mio alter-ego
+Avvocato cassazionista, si occupa di data governance come consulente e DPO certificato UNI 11697:2017, nonché di gestione della sicurezza delle informazioni. &#13;&#10;È docente nel Master universitario in “Data protection, Cybersecurity e Digital forensics” dell'Università per gli Studi di Perugia ed è inserito nell’ “EDPB Support Pool of Experts” per i settori: “Technical expertise in new technologies and information security” e “Legal expertise in new technologies”. &#13;&#10;È membro del Comitato Direttivo di ASSO DPO e Fellow di ISLC - Information Society Law Center, nonché membro del Cyber Security National Lab, nodo di Perugia. &#13;&#10;Segue l’evoluzione dei fenomeni legati ad internet ed alle nuove tecnologie, con particolare attenzione all'intelligenza artificiale e alla ricerca.
 
 
 
@@ -145,15 +145,15 @@ Junior Associate presso lo Studio Legale E-Lex, collaboro con esperti profession
 
 
 
+#### <a name="pievatolo"></a> Maria Chiara Pievatolo (Univesrsità Pisa)
+
+NYA
+
+
+
 #### <a name="scorza"></a> Guido Scorza (Garante Privacy)
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
-
-
-
-#### <a name="vescovi"></a> Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)
-
-Chiara Vescovi è dottoranda in Informatica giuridica presso l'Università di Milano-Bicocca e Cyber Law Expert per ReD OPEN. Dopo alcune esperienze internazionali, tra cui uno stage all'INTERPOL di Lione, si è laureata in giurisprudenza con specializzazione in diritto Internazionale presso l'Università Bocconi di Milano. Dal 2021 è iscritta al dottorato di ricerca presso l'Università di Milano-Bicocca: una collaborazione tra l'Università e ReD OPEN. La sua ricerca indaga gli strumenti di governo dell'Intelligenza Artificiale, concentrandosi nello specifico sulle responsabilità connesse al suo utilizzo, soprattutto in ambito sanitario.
 
 
 

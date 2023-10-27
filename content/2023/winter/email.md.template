@@ -1,14 +1,13 @@
 slug: e-privacy-XXXIII-email
 Template: event
 XStatus: draft
-Title: Email
 Title: IA: Tecnologia, Etica e Privacy
 Date: 2023-09-13 12:05:00
 Category: 2023
 lang: it
 Num: XXXIII
 Year: 2023
-City: PISA | RETE
+City: PISA
 Where: Pisa & Videoconferenza & Streaming
 When: 23-34 novembre
 Season: winter
@@ -17,28 +16,27 @@ previd: 2023W
 prev: e-privacy-XXXII
 nextid:
 next:
-css: .title-XXX {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXX {{ font: 18px arial, sans-serif; text-align: center; }}
+Organizzatori: pws, hermes
+Collaboratori: 
+Patrocini: 
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+timeline: 20 ottobre | 27 ottobre | 17 novembre
+css: .title-XXXI {{ font: 25px arial, sans-serif; text-align: center; }}   .subtitle-XXXI {{ font: 18px arial, sans-serif; text-align: center; }}
 
 
+###e-privacy 2023 - winter edition
 
-###e-privacy 2022 - autumn edition
+Il ** 23 e 24 novembre 2023 **  a Pisa si svolgerà **e-privacy 2023
+_winter edition_**.
 
-Il ** 29 e 30 settembre 2022 ** ONLINE e a  si svolgerà **e-privacy 2022
-_autumn edition_**.
 
-Il tema guida della XXXI edizione di e-privacy è:
-
-<div class="title-XXXI">«Privacy tra attivismo e scienza»</div>
-<div class="subtitle-XXXI">E' possibile rendere la privacy una "notizia" e  la tecnologia un'"amica" dei cittadini?</div>
+<div class="title-XXXIII">«IA: Tecnologia, Etica e Privacy»</div>
+<div class="subtitle-XXXIII">un impegnativo viaggio per i prossimi cambiamenti sociali; il dibattito si alterna tra etica e tecnologia, ma non deve trascurare la privacy</div>
 <br/>
 
+**Il convegno ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
 
-**L'evento ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
-
-
-###Sede del Convegno
-
-La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magna</a> del Dipartimento di Giurisprudenza dell'Università degli Studi Roma Tre, in via Ostiense, 163 Roma
 
 
 ###Iscrizioni
@@ -46,12 +44,12 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 ** La partecipazione al convegno è libera e gratuita  **
 
 
-
-
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovedì 29 settembre 2022 - mattina
+#### <a name="vep"></a>Giovedì 23 novembre 2023 - mattina
+
+<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5C8u-xpmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
 
 * Modera: {G1M_CHAIRMAN}
 
@@ -59,7 +57,9 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 ------- | --- | ------- 
 {G1M}
 
-#### <a name="vep"></a>Giovedì 29 settembre 2022 - pomeriggio
+#### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio
+
+<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvZEosz11yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
 
 * Modera: {G1P_CHAIRMAN}
 
@@ -67,7 +67,10 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 ------- | --- | ------- 
 {G1P}
 
-#### <a name="sam"></a>Venerdì 30 settembre 2022 - mattina
+#### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina
+
+<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9UIuEWuVobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
+
 
 * Modera: {G2M_CHAIRMAN}
 
@@ -75,13 +78,6 @@ La sede del Convegno è l'<a href="/e-privacy-XXXI-come-arrivare.html">Aula Magn
 ------- | --- | ------- 
 {G2M}
 
-#### <a name="sam"></a>Venerdì 30 settembre 2022 - pomeriggio
-
-* Modera: {G2P_CHAIRMAN}
-
- **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
-------- | --- | ------- 
-{G2P}
 
 
 ## <a name="talks"></a>Gli interventi
