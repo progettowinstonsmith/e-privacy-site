@@ -11,7 +11,7 @@ City: Pisa
 Where: Pisa & Videoconferenza & Streaming
 When: 23-24 novembre
 Season: winter
-previd: 2023
+previd: 2023S
 prev: e-privacy-XXXII
 nextid:
 next:

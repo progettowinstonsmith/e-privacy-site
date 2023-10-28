@@ -12,7 +12,7 @@ Where: Pisa & Videoconferenza & Streaming
 When: 23-34 novembre
 Season: winter
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2023W
+previd: 2023S
 prev: e-privacy-XXXII
 nextid:
 next:
@@ -136,14 +136,14 @@ Junior Associate presso lo Studio Legale E-Lex, collaboro con esperti profession
 
 #### <a name="pievatolo"></a> Maria Chiara Pievatolo (Università Pisa)
 
-Professoressa Ordinaria presso il Dipartimento di Scienze Politiche. 
-Settore scientifico disciplinare: Filosofia Politica SPS/01.
 
-- Insegnamento di Filosofia Politica (Cod. 008QQ) per Corso di Laurea in Scienze Politiche
+Maria Chiara Pievatolo insegna filosofia politica all’università di 
+Pisa. È vicepresidente dell’associazione italiana per la promozione 
+della scienza aperta (AISA) e cura una delle meno recenti riviste 
+italiane ad accesso aperto, il Bollettino telematico di filosofia 
+politica. Ama usare I classici del pensiero antico e moderno per 
+discutere gli sviluppi dell’ICT anziché limitarsi a celebrarli. 
 
-- Insegnamento di Filosofia e Teoria dei Linguaggi (Cod. 147MM) per Corso di Laurea Magistrale in Comunicazione D'Impresa E Politica Delle Risorse Umane
-
-- Incarichi di co-docenza in moduli/insegnamenti
 
 
 

@@ -12,7 +12,7 @@ Where: Pisa & Videoconferenza & Streaming
 When: 23-34 novembre
 Season: winter
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2023W
+previd: 2023S
 prev: e-privacy-XXXII
 nextid:
 next:

@@ -12,7 +12,7 @@ Where: Pisa & Videoconferenza & Streaming
 When: 23-34 novembre
 Season: winter
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2023W
+previd: 2023S
 prev: e-privacy-XXXII
 nextid:
 next:
@@ -27,7 +27,7 @@ css: .title-XXXIII { font: 25px arial, sans-serif; text-align: center; }   .subt
 
 ###e-privacy 2023 - winter edition
 
-Il ** 23 e 24 novembre 2023 **  a Pisa si svolgerà **e-privacy 2023
+Il ** 23 e 24 novembre 2023 **  presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa si svolgerà **e-privacy 2023
 _winter edition_**.
 
 
@@ -37,9 +37,6 @@ _winter edition_**.
 
 **Il convegno ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
 
-
-
-###Iscrizioni
 
 ** La partecipazione al convegno è libera e gratuita  **
 
