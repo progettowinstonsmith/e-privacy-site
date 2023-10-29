@@ -18,7 +18,7 @@ nextid:
 next:
 Organizzatori: pws, hermes
 Collaboratori: 
-Patrocini: 
+Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 timeline: 20 ottobre | 27 ottobre | 17 novembre
@@ -35,7 +35,7 @@ _winter edition_**.
 <div class="subtitle-XXXIII">un impegnativo viaggio per i prossimi cambiamenti sociali; il dibattito si alterna tra etica e tecnologia, ma non deve trascurare la privacy</div>
 <br/>
 
-**Il convegno ha ottenuto il patrocinio dell'Autorità Garante per la protezione dei Dati Personali**.
+**Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali**.
 
 
 ** La partecipazione al convegno è libera e gratuita  **
