@@ -174,6 +174,35 @@ Giovambattista Vieri, sono un figlio degli anni '60, sono appassionato di inform
 Chiara Vescovi è dottoranda in Informatica giuridica presso l'Università di Milano-Bicocca e Cyber Law Expert per ReD OPEN. Dopo alcune esperienze internazionali, tra cui uno stage all'INTERPOL di Lione, si è laureata in giurisprudenza con specializzazione in diritto Internazionale presso l'Università Bocconi di Milano. Dal 2021 è iscritta al dottorato di ricerca presso l'Università di Milano-Bicocca: una collaborazione tra l'Università e ReD OPEN. La sua ricerca indaga gli strumenti di governo dell'Intelligenza Artificiale, concentrandosi nello specifico sulle responsabilità connesse al suo utilizzo, soprattutto in ambito sanitario.
 
 
+#### <a name="montillo"></a> Antonio Montillo
+
+Esperto Red Teamer e Professionista di Cybersecurity con oltre 15 anni di esperienza. Specializzato in Red Teaming avanzato, Penetration Testing e Ingegneria Sociale. Docente nell'ambito della sicurezza informatica. Relatore in numerosi eventi a tema cybersecurity.
+
+
+#### <a name="perozzo"></a> Luca Perozzo
+
+Sr CyberSec Architect and Engineer @ DV Cybersecurity, Network & System Security Senior. Si
+occupo anche di Fisica Teorica e Filosofia Analitica.
+CTO, CISO, FULL STACK CYBERSECURITY ARCHITECT, NETWORK & SYSTEM
+SECURITY ENGINEER. Project Manager for many security-related projects in >500+ employees
+companies with complex network, system infrastructures, security requirements.
+
+
+#### <a name="naman"></a> Joel Naman (Studio Legale E-Lex)
+
+Dottoressa in giurisprudenza, mi sono laureata a Luglio 2023 presso l'Università Luiss Guido Carli di Roma con votazione 110\110 e lode, con indirizzo di specializzazione in Law & Innovation, discutendo una tesi dal titolo ''gestione del rischio e profili di responsabilità penale dell'ISP: dall'E-Commerce Directive al Digital Services Act''. 
+Ho trascorso un periodo di studi all'estero, nell'ambito del programma Erasmus, presso la Tel Aviv University, durante il primo semestre dell'anno accademico 2021-2022, seguendo corsi in materia di proprietà intellettuale, start-up law, antitrust. 
+Da Febbraio 2023 svolgo la pratica forense anticipata presso lo studio legale E-Lex a Roma, che si occupa di Data Protection, Amministrazione digitale, Proprietà Intellettuale, Sicurezza informatica e Cybercrime e tutto ciò che riguarda le nuove sfide del digitale. In particolare collaboro con il Prof. Avv. Stefano Aterno. 
+
+
+
+
+
+
+
+
+
+
 
 
 
