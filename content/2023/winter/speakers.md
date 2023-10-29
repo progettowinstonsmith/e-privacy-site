@@ -104,7 +104,7 @@ Luca Landucci è un utente attivo su Wikipedia dal 2008 ed è anche un membro di
 
 
 
-#### <a name="quirox"></a> Quiroz Marco (Università degli Studi di Milano)
+#### <a name="quiroz"></a> Quiroz Marco (Università degli Studi di Milano)
 
 Dopo gli studi classici presso il liceo-ginnasio "G. Carducci" di Milano, nel 1992 mi sono laureato in giurisprudenza presso l'Università degli studidi Milano con votazione 110/110 e menzione di lode, discutendo una tesi di laurea in Sociologia del diritto dal titolo "Diritti degli emarginati ed istituzioni assistenziali. Studio sul Servizio di accoglienza Milanese", relatore Prof. V. Ferrari, correlatoreProf. M. Ghezzi. In tale primo studio veniva svolta una ricerca empirica di tipo socio giuridico sul rispetto dei diritti fondamentali dei soggetti marginali e come tali svantaggiati nelle interazioni con i servizi pubblici. Ho proseguito gli studi in camposociologico del diritto e della politica accedendo per concorso al dottorato di ricerca in Sociologia delle istituzioni giuridiche e politiche, sede amministrativa di Macerata sotto la supervisione del Prof. D. Nelken; durante il 1995, ho trascorso un periododi studio a Londra sotto la guida del Prof. M. Freeman, (University College of London), durante il quale ho approfondito la conoscenza dell'istituto dell'Ombudsman (Difensore civico), nei paesi di cultura anglosassone, studiando presso l’Institute of AdvancedLegal Studies di Londra. Nel 1998 ho conseguito il titolo accademico di Dottore di ricerca in Sociologia delle istituzioni giuridiche e politiche, rilasciato dal MIUR con una tesi dal titolo "Il controllo della discrezionalità amministrativa, forme partecipativee diritti dei cittadini". Nel 2001 ho frequentato il modulo “strumenti di analisi qualitativa: l’intervista in profondità e l’intervista narrativa” della Scuola di Metodologia della ricerca sociale presso la Facoltà di Sociologia dell’Università degli Studidi Milano – Bicocca.&#13;&#10;&#13;&#10;Negli anni successivi, pur esercitando la professione forense, ho continuato gli studi come assistente volontario presso l’Università degli studidi Milano e realizzato una intensa attività di ricerca che mi ha permesso la pubblicazione di monografie e di numerosi articoli presenti in riviste nazionali e internazionali. &#13;&#10;&#13;&#10; &#13;&#10;&#13;&#10; &#13;&#10;&#13;&#10;&#13;&#10;CARRIERA ACCADEMICA &#13;&#10;&#13;&#10;2021- &#13;&#10; &#13;&#10; &#13;&#10;&#13;&#10;Professore associato di Filosofia del diritto Università degli studi di Milano &#13;&#10; &#13;&#10;&#13;&#10;2018- &#13;&#10; &#13;&#10;Professore invitato presso L’Istituto universitario salesiano di Venezia, aggregato alla Pontificia universitàsalesiana di Roma&#13;&#10; &#13;&#10;&#13;&#10;2012-2020&#13;&#10; &#13;&#10;Professore aggregato di Filosofia del diritto Università degli studi di Milano&#13;&#10; &#13;&#10;&#13;&#10;2006-2012&#13;&#10; &#13;&#10;Ricercatore di Filosofia del diritto Università degli studi di Milano&#13;&#10; &#13;&#10;&#13;&#10;2004-2009 &#13;&#10; &#13;&#10;Professore a contratto / incaricato di Organizzazione aziendale, Università degli Studi di Bologna &#13;&#10; &#13;&#10;
 
@@ -119,6 +119,11 @@ Ingegnere dell’informazione, master in secondo livello in Cybersecurity conseg
 #### <a name="matteuzzi"></a> Costanza Matteuzzi (Costituenda Associazione NO.VIO)
 
 Avvocato del Foro di Firenze. Specializzata in reati informatici. Data Protection e CyberSecurity Law. Si occupa sia di attività giudiziale che stragiudiziale su questi temi. Relatore per numerosi eventi su queste materie, autrice di articoli scientifici.
+
+
+#### <a name="brasi"></a>Cristina Brasi (Criminologa Forense)
+
+NYA
 
 
 
@@ -164,7 +169,7 @@ NYA
 Giovambattista Vieri, sono un figlio degli anni '60, sono appassionato di informatica da quando avevo 16 anni e con l'aiuto del saldatore modificavo lo spectrum. Ho poi lavorato nell'industria aerospaziale (project leader) sia su GUI sia su apparati embedded, passando poi a societa' di consulenza e formazione (responsabile gruppo internet), poi a societa' editoriali con ruoli anche inerenti la IT security. Infine imprenditore (molto piccolo) e consulente. Nei ritagli di tempo, scrivo software che poi libero . Son anche molto appassionato di Storia (antica e recente) e sport. Amo la cucina e la buona tavola condita da discussioni interessanti. E dimenticavo che istruisco i computer a ripetere i ns errori.
 
 
-#### <a name="vescovi"></a> Chiara Vescovi (Università Milano-Bicocca e ReD OPEN)
+#### <a name="vescovi"></a> Chiara Vescovi (ReD OPEN - Università Milano-Bicocca)
 
 Chiara Vescovi è dottoranda in Informatica giuridica presso l'Università di Milano-Bicocca e Cyber Law Expert per ReD OPEN. Dopo alcune esperienze internazionali, tra cui uno stage all'INTERPOL di Lione, si è laureata in giurisprudenza con specializzazione in diritto Internazionale presso l'Università Bocconi di Milano. Dal 2021 è iscritta al dottorato di ricerca presso l'Università di Milano-Bicocca: una collaborazione tra l'Università e ReD OPEN. La sua ricerca indaga gli strumenti di governo dell'Intelligenza Artificiale, concentrandosi nello specifico sulle responsabilità connesse al suo utilizzo, soprattutto in ambito sanitario.
 

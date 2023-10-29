@@ -22,9 +22,8 @@ css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 <h2>Dove è la sede</h2>
 
-La sede del Convegno è l'Aula Magna del Dipartimento di Giurisprudenza dell'Università degli Studi Roma Tre, in via Ostiense, 163 Roma 
-(<a href="https://www.openstreetmap.org/search?query=Via%20Ostiense%2C%20163%20Roma#map=18/41.86185/12.47917">Mappa</a>
-, <a href="https://www.uniroma3.it/">Sito di Ateneo</a>).
+Il Convegno si svolgerà presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa 
+(<a href="https://www.openstreetmap.org/node/5105800450">click qui per la mappa</a>.
 <br>
 <br>
 
