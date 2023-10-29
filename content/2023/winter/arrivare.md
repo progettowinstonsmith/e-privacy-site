@@ -20,7 +20,7 @@ timeline: 7 settembre | 10 settembre | 25 settembre
 css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
 
 
-<h2>Dove è la sede?</h2>
+<h2>Dove è la sede? </h2>
 
 Il Convegno si svolgerà presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa 
 <br>
