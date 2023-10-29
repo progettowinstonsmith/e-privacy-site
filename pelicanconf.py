@@ -15,7 +15,7 @@ EVENT_PATH = 'content/2023/winter/'
 YEAR = u'2023'
 EDITION = 'winter'
 SITENAME = u'e-privacy 2023 winter: IA: Tecnologia, Etica e Privacy'
-IMAGE='e-privacy-XXXIII.jpeg'  
+IMAGE='e-privacy-XXXIII.png'  
 
 COUNTDOWN = False
 EVENT_TIME = '2023/11/23 10:00'
