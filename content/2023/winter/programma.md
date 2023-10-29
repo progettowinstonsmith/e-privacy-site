@@ -52,7 +52,7 @@ _winter edition_**.
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:30|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a><br/><em>«IA: Tecnologia, Etica e Privacy»</em></span>
+09:30|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>«IA: Tecnologia, Etica e Privacy»</em></span>
 09:45|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a><br/><em>Saluti Istituzionali</em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIII-interventi.html#berto">Intelligenza artificiale,  discriminazione e normativa europea</a></em></span>
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Università Pisa)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIII-interventi.html#pievatolo">Dati privati e felicità pubblica</a></em></span>
@@ -60,7 +60,7 @@ _winter edition_**.
 11:30|30|<span class='talk'><em>Pausa</em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#matteuzzi">Costanza Matteuzzi (Costituenda Associazione NO.VIO)</a>,Luca Perozzo e Antonio Montillo<br/><em><a name='1p02'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi1">Email. Uno strumento obsoleto?</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXIII-interventi.html#ciurcina">Politiche per la ricerca scientifica sull'IA</a></em></span>
-13:00|45|<span class='talk'>Modera: <a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a>, <a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a>, <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a> e <a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Università Pisa)</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIII-interventi.html#tavola1">«IA: Tecnologia, Etica e Privacy»</a></em></span>
+13:00|45|<span class='talk'>Modera: <a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani</a>, <a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González</a>, <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a> e <a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo</a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIII-interventi.html#tavola1">«IA: Tecnologia, Etica e Privacy»</a></em></span>
 13:45||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio

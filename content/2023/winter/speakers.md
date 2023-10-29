@@ -54,7 +54,7 @@ Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori
 ### <a name='giorio'></a>Diego Giorio  (Progetto Winston Smith)
 
 Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di
-una multinazionale di seminconduttori prima, nel marketing e nel web
+una multinazionale di semiconduttori prima, nel marketing e nel web
 marketing poi, ho successivamente avuto altre esperienza professionali
 prima di approdare alla Pubblica Amministrazione, nei servizi
 demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare
