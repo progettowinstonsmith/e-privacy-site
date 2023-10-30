@@ -24,7 +24,9 @@ css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtit
 
 Il Convegno si svolgerà presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa 
 <br>
+<br>
 E' in centro, dietro la Scuola Normale, 1,6 km, cioè 23 minuti a piedi dalla stazione ferroviaria.
+<br>
 <br>
 Per chi viene in auto, ci sono parcheggi con parchimetro anche di fronte alla sede, ma sono carissimi. Ce ne sono di meno cari nelle vicinanze, ma trovarli liberi non è facile.
 <br>
