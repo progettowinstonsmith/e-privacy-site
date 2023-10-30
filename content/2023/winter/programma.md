@@ -38,7 +38,7 @@ _winter edition_**.
 **Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali**.
 
 
-** La partecipazione al convegno è libera e gratuita  **
+** La partecipazione al convegno è libera e gratuita.  **
 
 
 ### <a name="programma"></a>Programma del Convegno
