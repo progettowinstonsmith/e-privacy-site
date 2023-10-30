@@ -32,7 +32,7 @@ Per chi viene in auto, ci sono parcheggi con parchimetro anche di fronte alla se
 <br>
 Se venite in aereo, dall'aereoporto consigliamo il taxi.
 <br>
-Chi avesse problemi o domande sulla logistica, può contattare la segreteria [eprivacy@winstonsmith.org](mailto:segreteria@winstonsmith.org).
+Chi avesse problemi o domande sulla logistica, può contattare la segreteria [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org).
 <br>
 <br>
 
