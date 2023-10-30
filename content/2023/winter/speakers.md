@@ -112,7 +112,8 @@ Dopo gli studi classici presso il liceo-ginnasio "G. Carducci" di Milano, nel 19
 
 #### <a name="mastella"></a> Stefano Mastella 
 
-Ingegnere dell’informazione, master in secondo livello in Cybersecurity conseguito presso l’Università degli Studi di Milano. Si occupa di informatica da sempre e di sicurezza delle informazioni da poco. Consulente in ambito della protezione dei dati personali e della cybersecurity.
+Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certificato UNI11697:2017. Membro comitati tecnici UNINFO UNI/CT 519 "Tecnologie ablitanti per l'Industry 4.0" e UNINFO UNI/CT 510 "Sicurezza Security".
+Mi occupo di sicurezza dei dati personali e delle informazioni come consulente e formatore.
 
 
 

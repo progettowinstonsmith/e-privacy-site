@@ -241,6 +241,8 @@ PARTNERS = {
     'gpdp': ('Garante per la Protezione dei Dati Personali', 'gpdp_logo.jpg', 'https://www.gpdp.it/'),
     'roma3': ('Università Roma Tre - Dipartimento di Giurisprudenza', 'LogoDipartimentoGiurisprudenza.jpg', 'https://www.uniroma3.it/ateneo/dipartimenti-e-scuole/dipartimenti/giurisprudenza-009447/'),
     'masterroma3': ('Master Privacy', 'logo_master.jpg', 'https://www.masterprotezionedatipersonali.it/'),
+    'ordinepisa': ('Ordine Ingegneri Pisa', 'ordine_pisa.jpg', 'https://www.ordineingegneripisa.it/'),
+    'federazionetoscana': ('Federazione Regionale Ingegneri Toscana', 'federazione_regionale_ingegneri.jpg', 'http://www.federazioneingegneri.toscana.it/'),
 }
 
 
