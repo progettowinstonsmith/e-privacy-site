@@ -105,6 +105,8 @@ _winter edition_**.
 La manifestazione e’ organizzata da:
 
  - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+ - [Ordine degli Ingegneri della provincia di Pisa](https://www.ordineingegneripisa.it/) 
+ - [Federazione Regionale degli Ordini degli Ingegneri della Toscana](http://www.federazioneingegneri.toscana.it/) 
  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
 e da altre organizzazioni, aziende ed associazioni.
