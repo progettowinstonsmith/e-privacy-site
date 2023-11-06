@@ -16,8 +16,8 @@ previd: 2023S
 prev: e-privacy-XXXII
 nextid:
 next:
-Organizzatori: pws, hermes
-Collaboratori: ordinepisa,federazionetoscana
+Organizzatori: pws, hermes,ordinepisa,federazionetoscana
+xCollaboratori: 
 Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
@@ -34,11 +34,21 @@ _winter edition_**.
 <div class="title-XXXIII">«IA: Tecnologia, Etica e Privacy»</div>
 <div class="subtitle-XXXIII">un impegnativo viaggio per i prossimi cambiamenti sociali; il dibattito si alterna tra etica e tecnologia, ma non deve trascurare la privacy</div>
 <br/>
+Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali.
 
-**Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali**.
+**La partecipazione in presenza al convegno è libera e gratuita.
+<br/>
+I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org)**
 
+**La diretta dell'evento sarà disponibile online al link che verrà fornito qui la mattina stessa.
+<br/>
+Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.**
 
-** La partecipazione al convegno è libera e gratuita.  **
+**L'evento è accreditato a livello nazionale per la formazione continua degli Ingegneri. 
+<br>
+per gli ingegneri che intendono avere i crediti l’iscrizione deve avvenire, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
+<br>
+A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link personale per partecipare; la presenza on line, al fine del riconoscimento dei crediti, verrà effettuata dall’Ordine degli Ingegneri Pisa.**
 
 
 ### <a name="programma"></a>Programma del Convegno
