@@ -17,7 +17,7 @@ prev: e-privacy-XXXII
 nextid:
 next:
 Organizzatori: pws, hermes,ordinepisa,federazionetoscana
-xCollaboratori: 
+XCollaboratori: 
 Patrocini: gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
