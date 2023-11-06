@@ -38,7 +38,7 @@ Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Per
 
 **La partecipazione in presenza al convegno è libera e gratuita.
 <br/>
-I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org)**
+I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org), specificando le giornate di presenza.**
 
 **La diretta dell'evento sarà disponibile online al link che verrà fornito qui la mattina stessa.
 <br/>
