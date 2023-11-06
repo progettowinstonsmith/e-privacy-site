@@ -44,9 +44,9 @@ I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di
 <br/>
 Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.**
 
-**L'evento è accreditato a livello nazionale per la formazione continua degli Ingegneri. 
+**L'evento sarà accreditato a livello nazionale per la formazione continua degli Ingegneri. 
 <br>
-per gli ingegneri che intendono avere i crediti l’iscrizione deve avvenire, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
+Non appena l'accredito sarà operativo, gli ingegneri interessati potranno iscriversi, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
 <br>
 A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link personale per partecipare; la presenza on line, al fine del riconoscimento dei crediti, verrà effettuata dall’Ordine degli Ingegneri Pisa.**
 
