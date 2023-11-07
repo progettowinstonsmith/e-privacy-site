@@ -36,19 +36,19 @@ _winter edition_**.
 <br/>
 Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali.
 
-**La partecipazione in presenza al convegno è libera e gratuita.
+**La partecipazione in presenza al convegno è libera e gratuita.**
 <br/>
-I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org), specificando le giornate di presenza.**
+I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org), specificando le giornate di presenza.
 
-**La diretta dell'evento sarà disponibile online al link che verrà fornito qui la mattina stessa.
+**La diretta dell'evento sarà disponibile online al link che verrà fornito qui la mattina stessa.**
 <br/>
-Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.**
+Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.
 
-**L'evento sarà accreditato a livello nazionale per la formazione continua degli Ingegneri. 
+**L'evento è stato accreditato a livello nazionale per la formazione continua degli Ingegneri.** 
 <br>
-Non appena l'accredito sarà operativo, gli ingegneri interessati potranno iscriversi, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
+Gli ingegneri interessati ai crediti formativi potranno iscriversi, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
 <br>
-A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link personale per partecipare; la presenza on line, al fine del riconoscimento dei crediti, verrà effettuata dall’Ordine degli Ingegneri Pisa.**
+A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link personale per partecipare; la presenza on line, al fine del riconoscimento dei crediti, verrà effettuata dall’Ordine degli Ingegneri Pisa.
 
 
 ### <a name="programma"></a>Programma del Convegno
