@@ -40,7 +40,7 @@ Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Per
 <br/>
 I posti in sala sono tuttavia limitati; si prega di riservarli (solo se certi di partecipare) registrandosi con una semplice email a [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org), specificando le giornate di presenza.
 
-**La diretta dell'evento sarà disponibile online al link che verrà fornito qui la mattina stessa.**
+**La diretta dell'evento sarà disponibile online.**
 <br/>
 Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.
 
@@ -56,7 +56,7 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - mattina
 
-<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O5C8u-xpmz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T0Wq8QvDxe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a>
 
@@ -75,7 +75,7 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio
 
-<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lvZEosz11yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4Zz1odcN9sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a>
 
@@ -93,7 +93,7 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 
 #### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina
 
-<!-- iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9UIuEWuVobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T0Wq8QvDxe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>
