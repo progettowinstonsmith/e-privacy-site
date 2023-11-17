@@ -76,7 +76,10 @@ L'email è uno degli strumenti più utilizzati nelle relazioni quotidiane. tutta
 #### <a name="matteuzzi2"></a>Profilazione di un cybercrimer<a href="/e-privacy-XXXIII-programma.html#1p02">⇧</a>
 *<a href="/e-privacy-XXXIII-relatori.html#matteuzzi">Cristina Brasi (Criminologa Forense)</a>, Giovanni Ronconi e Antonio Montillo*
 
-NYA
+L’applicazione del Criminal Profiling all’ambito digitale richiede necessariamente l’integrazione di modelli afferenti alla metodologia deduttiva e induttiva.
+Dal punto di vista deduttivo si tratta di scoprire l’intenzione e il movente di un reato e costruire il ritratto criminologico-comportamentale del criminale. Un Criminal Profiling, implica l’applicazione di teorie psicologiche per l’analisi e la ricostruzione delle prove oggettive riguardanti la scena del delitto e lo studio delle caratteristiche della vittima. Da qui l’importanza del lavoro di squadra e della collaborazione tra i differenti professionisti.
+Il metodo induttivo utilizza previsioni, stime e ipotesi elaborate attraverso dati già a disposizione, rilevati da elementi precedenti relativi a crimini e criminali noti. Si utilizza un processo di generalizzazione del comportamento e delle caratteristiche di un soggetto attraverso analisi statistiche e ipotesi probabilistiche, giungendo a delineare la descrizione di un profilo per similitudine comportamentale.
+Inoltre, per mezzo dell’analisi di modelli comportamentali individuali è possibile cogliere le peculiarità di cui sopra, mettendo in evidenza le motivazioni alla base dell’agito e le strutture di ordine cognitivo ed emotivo.
 
 
 #### <a name="menendez"></a> Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale<a href="/e-privacy-XXXIII-programma.html#1m03">⇧</a>

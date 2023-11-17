@@ -124,7 +124,7 @@ Avvocato del Foro di Firenze. Specializzata in reati informatici. Data Protectio
 
 #### <a name="brasi"></a>Cristina Brasi (Criminologa Forense)
 
-NYA
+Cristina Brasi è psicologa, criminologa forense ed analista scientifica del linguaggio non verbale. È sessuologa clinica esperta e consulente in sessualità tipica e atipica. È specializzata in Alto Potenziale Cognitivo e in trauma. Presta consulenza in Italia e in Svizzera, come psicologa, consulente tecnico e come specialista in Alto Potenziale Cognitivo. Collabora con esperti digitali forensi in ambito di digital profiling e di riconoscimento biometrico. Nel 2007 apre il suo studio in provincia di Como, dove esercita da allora la professione di psicologa. 
 
 
 
