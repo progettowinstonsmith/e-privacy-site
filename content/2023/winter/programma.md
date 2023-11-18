@@ -56,7 +56,7 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T0Wq8QvDxe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ptjs5CnnxOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a>
 
@@ -101,7 +101,7 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 10:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em>Apertura seconda giornata</em></span>
-10:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#vieri">Giovambattista Vieri (consulente it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIII-interventi.html#vieri">Io non ho nulla da nascodere, che mi importa della sicurezza IT?</a></em></span>
+10:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#vieri">Giovambattista Vieri (consulente it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIII-interventi.html#vieri">Io non ho nulla da nascondere, che mi importa della sicurezza IT?</a></em></span>
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIII-interventi.html#bianchini">L'utilizzo dell'IA per la salute</a></em></span>
 11:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif - Ass. Naz. Giuristi e Informatici e Forenser)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
