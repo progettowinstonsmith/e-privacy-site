@@ -16,7 +16,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 previd: 2020W
 prev: e-privacy-XXVIII
 nextid: 2021V
-next:e-privacy-29e3quarti-programma
+next:e-privacy-29e3quarti
 Organizzatori: pws, hermes
 Collaboratori: bba
 Sponsor: cgt,sikurezza.org,sepel,ush,whistleblowingsolutions
