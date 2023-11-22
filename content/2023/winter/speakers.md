@@ -157,13 +157,9 @@ discutere gli sviluppi dell’ICT anziché limitarsi a celebrarli.
 
 Componente del Garante per la protezione dei dati personali Avvocato, giornalista pubblicista, professore a contratto di diritto delle nuove tecnologie. Già responsabile degli affari regolamentari del team per la trasformazione digitale della Presidenza del Consiglio dei Ministri e, poi, Consigliere giuridico del Ministro per l’innovazione. Insegna diritto delle nuove tecnologie presso l’Università europea, diritto dei contratti ad oggetto informatico presso il Master in informatica giuridica e diritto dell’informatica dell’Università degli Studi di Bologna e privacy nelle comunicazioni elettroniche presso il Master in protezione dei dati personali dell’Università Roma Tre. Ha fondato lo Studio ELex del quale è stato partner fino all’assunzione dell’incarico di componente del Collegio e l’Istituto per le politiche dell’innovazione dalla cui Presidenza si è egualmente dimesso a seguito dell’assunzione a componente del Collegio. È rappresentante vicario del Governo italiano presso il Government advisory Board dell’ICANN. È blogger su L’Espresso e Il Fatto Quotidiano e scrive su Mashable Italia, il Corriere delle Comunicazioni e Agendadgitale.eu. È autore di alcuni libri, gli ultimi dei quali sono “Processi al Futuro”, 2020 Egea e “Intelligenza artificiale. L’impatto sulle nostre vite, diritti e libertà”, 2020, con A. Longo, Mondadori. Prima ha, tra gli altri, scritto “Internet, i nostri diritti” con Anna Masera per Laterza e “Meglio se taci” con Alessandro Gilioli per Baldini&Castoldi.
 
-
-
 #### <a name="valiani"></a> Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)
 
-NYA
-
-
+Ingegnere Responsabile Ricerca e Sviluppo in FMV Trasmissioni Meccaniche e membro del Consiglio di Amministrazione. Ha maturato prima di entrare in FMV esperienze in aziende multinazionali nel settore della moda e dell’occhialerie come responsabile progetti innovativi. Sempre alla ricerca di Innovazioni di prodotto e processo. Promotore all’interno della FMV di una nuova via d’azione volta all’interno dell’economia circolare alla valorizzazione del riuso creando un nuovo marchio, una nuova piattaforma di lavoro FMV Re-Use Design.
 
 #### <a name="vieri"></a> Giovambattista Vieri (consulente.it)
 
