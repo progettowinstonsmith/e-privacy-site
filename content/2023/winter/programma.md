@@ -46,11 +46,8 @@ Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su quest
 
 **L'evento è stato accreditato a livello nazionale per la formazione continua degli Ingegneri.** 
 <br>
-Gli ingegneri interessati ai crediti formativi potranno iscriversi, previa registrazione, tramite il sito [https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/](https://formazione.ordineingegneripisa.it/ISFormazione-Pisa/).
-<br>
-A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link personale per partecipare; la presenza on line, al fine del riconoscimento dei crediti, verrà effettuata dall’Ordine degli Ingegneri Pisa.
 
-
+<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/x.pdf"><img alt="pdf" src="/images/icon/presentation.png">
 ### <a name="programma"></a>Programma del Convegno
 
 
@@ -64,8 +61,8 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 ------- | --- | ------- 
 09:30|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>«IA: Tecnologia, Etica e Privacy»</em></span>
 09:45|15|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#valiani">Lisa Valiani (Federazione Ordini degli Ingegneri della Toscana)</a><br/><em>Saluti Istituzionali</em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIII-interventi.html#berto">Intelligenza artificiale,  discriminazione e normativa europea</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#vescovi">Chiara Vescovi (ReD OPEN - Università Milano-Bicocca)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIII-interventi.html#vescovi">Dal principio precauzionale all'approccio consapevole: la sfida dell'autovalutazione per l'AI</a></em></span>
+10:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_02_berto_ia_discriminazione_e_normativa_europea.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIII-interventi.html#berto">Intelligenza artificiale,  discriminazione e normativa europea</a></em></span>
+10:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_03_vescovi_principo_precauzionale_approccio_consapevole.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#vescovi">Chiara Vescovi (ReD OPEN - Università Milano-Bicocca)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIII-interventi.html#vescovi">Dal principio precauzionale all'approccio consapevole: la sfida dell'autovalutazione per l'AI</a></em></span>
 11:00|30|<span class='talk'><em>Pausa</em></span>
 11:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#scorza">Guido Scorza (Garante per la Protezione dei Dati Personali)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIII-interventi.html#scorza">Il Garante e l'IA</a></em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#matteuzzi">Costanza Matteuzzi (Costituenda Associazione NO.VIO)</a>,<a href="/e-privacy-XXXIII-relatori.html#perozzo"> Luca Perozzo</a> e <a href="/e-privacy-XXXIII-relatori.html#montillo">Antonio Montillo</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi">Email. Uno strumento obsoleto?</a></em></span>
@@ -82,11 +79,11 @@ A seguito dell’iscrizione, sempre gratuita, il sistema fornirà un link person
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Università Pisa)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIII-interventi.html#pievatolo">Dati privati e felicità pubblica</a></em></span>
+15:05|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_11_pievatolo_dati_privati_felicita_pubblica.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#pievatolo">Maria Chiara Pievatolo (Università Pisa)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIII-interventi.html#pievatolo">Dati privati e felicità pubblica</a></em></span>
 15:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#landucci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIII-interventi.html#landucci">Il futuro dell'algoritmo pubblicitario e la protezione della privacy</a></em></span>
-16:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIII-interventi.html#menendez">Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale</a></em></span>
-16:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#patriarca">Paola Patriarca</a> e <a href="/e-privacy-XXXIII-relatori.html#naman">Joel Naman</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIII-interventi.html#patriarca">Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini</a></em></span>
-17:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIII-interventi.html#giorio">Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione</a></em></span>
+16:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_13_gonzales_grande_potere_grandi_responsabilita.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#menendez">Natalia Menéndez González (Istituto Universitario Europeo)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIII-interventi.html#menendez">Da un grande potere derivano grandi responsabilità: proporzionalità nell'uso della tecnologia di riconoscimento facciale</a></em></span>
+16:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_14_patriarca_smart_city_e_innovazione.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#patriarca">Paola Patriarca</a> e <a href="/e-privacy-XXXIII-relatori.html#naman">Joel Naman</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIII-interventi.html#patriarca">Smart city e innovazione: una nuova sfida per i diritti individuali e la sicurezza dei cittadini</a></em></span>
+17:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_15_giorio_ia_soluzione_e_non_problema_01.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIII-interventi.html#giorio">Se l'AI fosse la soluzione e non il problema? Almeno nella Pubblica Amministrazione</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#brasi">Cristina Brasi (Criminologa Forense)</a>, Giovanni Ronconi e <a href="/e-privacy-XXXIII-relatori.html#montillo">Antonio Montillo</a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIII-interventi.html#matteuzzi2">Profilazione di un cybercrimer</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
