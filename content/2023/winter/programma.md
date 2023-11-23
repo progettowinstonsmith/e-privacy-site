@@ -44,7 +44,7 @@ Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Per
 
 **La diretta dell'evento è disponibile online.**
 <br/>
-Come d'uso, le registrazioni saranno poi pubblicate, insieme agli atti, su questo sito.
+Già pubblicati gli atti e le registrazioni della prima giornata.
 
 ### <a name="programma"></a>Programma del Convegno
 
@@ -60,6 +60,7 @@ Icona | Descrizione | Icona | Descrizione
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - mattina
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ptjs5CnnxOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#calamari">Marco Calamari </a>
 
@@ -79,6 +80,7 @@ Icona | Descrizione | Icona | Descrizione
 #### <a name="vep"></a>Giovedì 23 novembre 2023 - pomeriggio
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4Zz1odcN9sA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#berto">Rebecca Berto </a>
 
@@ -96,11 +98,12 @@ Icona | Descrizione | Icona | Descrizione
 <br>
 <img alt="pdf" src="/images/foto/ep2023we_cena_sociale_small.jpg">
 <br>
+<br>
 
 #### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T0Wq8QvDxe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 
 * Modera: <a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a>
 
