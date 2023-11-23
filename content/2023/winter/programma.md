@@ -100,7 +100,7 @@ Icona | Descrizione | Icona | Descrizione
 <br>
 <br>
 
-#### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina
+#### <a name="sam"></a>Venerdì 24 novembre 2023 - mattina 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T0Wq8QvDxe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
