@@ -27,24 +27,21 @@ css: .title-XXXIII { font: 25px arial, sans-serif; text-align: center; }   .subt
 
 ###e-privacy 2023 - winter edition
 
-Il ** 23 e 24 novembre 2023 **  presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa si svolgerà **e-privacy 2023
+**Sono stati pubblicati gli atti e le registrazioni del Convegno.**
+
+Il ** 23 e 24 novembre 2023 **  presso la sede dell'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa si è tenuto **e-privacy 2023
 _winter edition_**.
 
 
 <div class="title-XXXIII">«IA: Tecnologia, Etica e Privacy»</div>
 <div class="subtitle-XXXIII">un impegnativo viaggio per i prossimi cambiamenti sociali; il dibattito si alterna tra etica e tecnologia, ma non deve trascurare la privacy</div>
 <br/>
-Il convegno è patrocinato dall'Autorità Garante per la protezione dei Dati Personali.
-
-**La partecipazione in presenza al convegno è libera e gratuita.**
+**Il convegno è stato patrocinato dall'Autorità Garante per la protezione dei Dati Personali.**
 <br/>
-
 **L'evento è stato accreditato a livello nazionale per la formazione continua degli Ingegneri.** 
-<br>
-
-**La diretta dell'evento è disponibile online.**
 <br/>
-Già pubblicati gli atti e le registrazioni della prima giornata.
+**La partecipazione in presenza al convegno era libera e gratuita.**
+<br>
 
 ### <a name="programma"></a>Programma del Convegno
 
@@ -110,12 +107,12 @@ Icona | Descrizione | Icona | Descrizione
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 10:00|5|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#giorio">Diego GIORIO (Sepel Editrice)</a><br/><em>Apertura seconda giornata</em></span>
-10:05|25|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#vieri">Giovambattista Vieri (consulente it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIII-interventi.html#vieri">Io non ho nulla da nascondere, che mi importa della sicurezza IT?</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIII-interventi.html#bianchini">L'utilizzo dell'IA per la salute</a></em></span>
-11:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif - Ass. Naz. Giuristi e Informatici e Forenser)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
+10:05|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_21_vieri_sicurezza_privacy.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_21_vieri_sicurezza_privacy.odp"><img alt="odp" src="/images/icon/presentation-ppt.png"></a>,<a href="/e-privacy-XXXIII-relatori.html#vieri">Giovambattista Vieri (consulente it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIII-interventi.html#vieri">Io non ho nulla da nascondere, che mi importa della sicurezza IT?</a></em></span>
+10:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_22_bianchini_ia_in_sanita.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIII-interventi.html#bianchini">L'utilizzo dell'IA per la salute</a></em></span>
+11:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_23_bassoli_regolamento_macchine.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIII-relatori.html#bassoli">Elena Bassoli (Angif - Ass. Naz. Giuristi e Informatici e Forenser)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIII-interventi.html#bassoli">Il Machine learning nel nuovo “Regolamento Macchine”</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#aterno">Stefano Aterno (Studio Legale E-LEx)</a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIII-interventi.html#aterno">La (in) sicurezza della IA</a></em></span>
-12:30|30|<span class='talk'><a href="/e-privacy-XXXIII-relatori.html#mastella">Stefano Mastella</a>, <a href="/e-privacy-XXXIII-relatori.html#quiroz">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXIII-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIII-interventi.html#mastella">Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta</a></em></span>
+12:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2023we/atti/ep2023we_25_mastella_associazionismo_e_liberta.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXIII-relatori.html#mastella">Stefano Mastella</a>, <a href="/e-privacy-XXXIII-relatori.html#quiroz">Quiroz Marco (Università degli Studi di Milano)</a> e <a href="/e-privacy-XXXIII-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIII-interventi.html#mastella">Associazionismo e libertà: strumenti giuridici, etici e tecnici per la partecipazione libera e protetta</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 
