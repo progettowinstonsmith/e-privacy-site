@@ -49,8 +49,8 @@ Legenda:
 
 Icona | Descrizione | Icona | Descrizione
 ---- | ---- | ----- | ----
-![pdf](/images/icon/presentation.png) | Presentazione PDF | ![pdf](/images/icon/document.png) | Documento (PDF) |
-![ppt](/images/icon/presentation-ppt.png) | Presentazione modificabile | ![ppt](/images/icon/handouts.png) | Handouts|
+![pdf](/images/icon/presentation.png) | Presentazione (PDF) | ![pdf](/images/icon/document.png) | Documento (PDF) |
+![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![ppt](/images/icon/handouts.png) | Handouts (PDF)|
 ![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
 ![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
 
