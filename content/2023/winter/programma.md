@@ -40,7 +40,7 @@ _winter edition_**.
 <br/>
 **L'evento è stato accreditato a livello nazionale per la formazione continua degli Ingegneri.** 
 <br/>
-**La partecipazione in presenza al convegno era libera e gratuita.**
+**La partecipazione al convegno è libera e gratuita.**
 <br>
 
 ### <a name="programma"></a>Programma del Convegno
