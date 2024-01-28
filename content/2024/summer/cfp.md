@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2024-05-01 00:01:00
+Date: 2024-05-02 00:01:00
 slug: e-privacy-XXXIV-cfp
 Title: Moneta elettronica e altri traccianti
 Subtitle: Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà
@@ -8,7 +8,7 @@ Category: 2024
 lang: it
 Num: XXXIV
 Year: 2024
-City: ROMA
+City: FIRENZE
 Where: Firenze
 When: 16-17 maggio
 Season: summer
@@ -19,13 +19,11 @@ nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIV { font: 18px arial, sans-serif; text-align: center; } 
-Organizzatori: pws,asr
-Collaboratori: bba
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup,hermes
-Patrocini: 
-MediaPartner: infomedia,aneddotica,lealternative,hackerjournal
-
-
+Organizzatori: pws, hermes
+Collaboratori: bba 
+Patrocini: firenze2,gpdp 
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 e-privacy XXXIV @ Firenze
 ===============================
@@ -37,12 +35,8 @@ e-privacy XXXIV @ Firenze
 <br>
 
 <!-- b class="avviso">Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b -->
-
 <!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
 Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie. -->
-
-<br/>
-
 
 Call for Paper
 --------------
@@ -58,21 +52,20 @@ accettazione ai relatori avverrà *entro il 25 marzo 2024.*
 Il tema
 -------
 
-Parleremo, tanto per cambiare, di una società in cui una sorveglianza di massa viene considerata "accettabile" da una maggioranza della popolazione, spaventata da criminalità e pandemia. Siamo nelle migliori condizioni per riscrivere le più fosche pagine dei libri di storia e della letteratura distopica.
+Dai pagamenti elettronici all’imminente ID wallet europeo, passando per scatole nere sulle auto o riconoscimento facciale per varcare una [frontiera](https://www.quotidiano.net/esteri/gran-bretagna-niente-passaporto-kzdxtfni), siamo e saremo sempre più oggetto di un tracciamento continuo.
 
-Se solo ieri i sistemi algoritmici e di deep learning venivano osannati, come dispensatori di benessere e giustizia, pur avendo creato problemi nuovi, essendo viziati dagli stessi pregiudizi dei loro programmatori e dei dati raccolti in modo distorto e poi utilizzati per il loro addestramento, cosa potrà accadere oggi, ora che Modelli Linguistici ben funzionanti e che interagiscono con gli utenti con un linguaggio accattivante e forbito verranno venduti come oracoli di quella verità di cui non conoscono niente?
+Già in questi anni lo smartphone ha consentito tante attività – alcune utili, altre meno – che fino a pochi anni fa non avremmo neppure sognato, ma ha anche rappresentato, assieme ai Social, una specie di braccialetto elettronico che ci segue e che consente di seguirci ovunque siamo.
 
-Non si tratta solo dell'ennesima rivoluzione tecnologica, ma di una delle più grandi operazioni commerciali nel campo della tecnologia, volta non a creare un nuovo mercato ed i conseguenti vantaggi finanziari.
+Almeno ora si può spegnere, anche se non lo facciamo mai, ma se diventasse l’unico strumento per poter acquistare, per poter guidare, per poter viaggiare, saremmo sottoposti ad un controllo continuo e saremmo anche esposti al rischio di poter essere “spenti” da remoto se ci comportiamo in modo non allineato alle indicazioni del governo di turno, se esprimiamo idee in contrasto con il pensiero dominante del momento, se leggiamo un libro o guardiamo un film non in linea con l’ideologia prevalente.
 
-Si tratta del tentativo di far accettare, come qualche anno orsono fu per il riconoscimento facciale, una tecnologia, che fornisce ottimi risultati solo in campi ristretti, come la soluzione ad ogni problema, rendendola vettore per un ulteriore salto di qualità e quantità nel tecnocontrollo generalizzato della popolazione.
+Leggendo Red Mirror – il nostro futuro si scrive in Cina, di Simone Pieranni, emerge come WeChat, che in Occidente viene frettolosamente liquidato come WhatsApp cinese, sia un ecosistema di funzioni che consente di fare di tutto, dall’ordinare e pagare al ristorante, al prenotare una visita medica, ottenere un certificato dalla PA, chiamare un taxi. Comodo, certo, tanto che una cinese in viaggio in Europa spesso dimenticava il portafoglio in albergo, non essendo abituata ad usarlo, ma anche un modo per registrare costantemente dove siamo, cosa mangiamo, cosa leggiamo. E potenzialmente un modo per controllarci, perché se ci viene sospeso l’account di questa e/o altre app con funzionalità analoghe ci troviamo improvvisamente senza possibilità di sostentamento.
 
-Niente limiterà l’abuso sistematico dei nostri dati personali, che finiscono per essere illegalmente acquisiti vendemmiandoli in Rete ed utilizzandoli per creare ed allenare il sistemi . È così implementato un controllo di massa su base tecnologica, non normato a priori e senza limiti precostituiti
+Allora ben vengano le monete elettroniche, se in parallelo possiamo poter spendere cifre ragionevoli senza doverne rispondere; ben vengano le scatole nere sulle auto, se ci fanno risparmiare sull’assicurazione o chiamano i soccorsi se siamo finiti in un burrone, ma anche se ci consentono di disattivarle, così da poter sostare due ore nei pressi di un cinema o del convegno e-privacy senza che si venga a sapere cosa abbiamo ascoltato in quel momento specifico.
+Fino ad ora, anche se molti dati già sono stati raccolti, mancava la possibilità materiale di analizzare appieno le informazioni raccolte o potenzialmente incamerabili; pensiamo alle telecamere sparse dappertutto, che raccolgono milioni di ore di registrazione solo per poterne analizzare dei brandelli dopo che si è verificata qualche tragedia. Ma ora, con il dilagare dell’intelligenza artificiale, anche questo argine viene a cadere e il tracciamento diffuso e costante diviene una possibilità concreta. 
 
-Tali sistemi, eredi di manipolazioni avvenute nel recente passato come quelle di Cambridge Analytica, saranno presto in grado di determinare, di riflesso ed in tempo reale il comportamento delle persone, anche nel mondo fisico.
+In questa edizione vogliamo quindi analizzare come i nuovi mezzi di pagamento  ed in generale tutte le nuove tecnologie "smart", specialmente se "obbligatorie" verranno utilizzati come strumenti di tracciamento secondo la Terza Legge di Zuboff - "Qualunque tecnologia che possa essere utilizzata per la sorveglianza sarà certamente usata per la sorveglianza".
 
-La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere?
-
-E soprattutto, saremo in grado di convincere non solo le aziende ed i governi, ma anche i semplici cittadini a porre freni ad una tecnologia cosi accattivante, gentile, utile, fuffosa .. insomma così (apparentemente) gentle ed "umana".
+Per essere realisti, dovremmo anche analizzare quanto potranno incidere sulla nostra vita personale se, come è sempre accaduto, i vantaggi o gli obblighi saranno tali da poterne o doverne accettare i lati oscuri. Ci potranno essere modi per tutelarsi?
  
 
 Il convegno
@@ -113,13 +106,13 @@ Le proposte dovranno contenere:
 -   se disponibile alla pubblicazione di registrazioni video
 
 <br/>
-<b class="avviso">Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b>
+<b class="avviso">Attenzione: Il CFP di questa edizione si chiuderà il 4 marzo 2024.</b>
 
-L'accettazione o meno delle proposte sarà comunicata **entro il 14 maggio 2023**.
+L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 12 giugno 2022**.
+**entro il 29 aprile 2024**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 

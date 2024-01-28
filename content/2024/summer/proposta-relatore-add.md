@@ -1,12 +1,13 @@
 Template: event
-Title: Proposta Talk
+XStatus: draft
+Date: 2024-05-02 00:01:00
 slug: e-privacy-XXXIV-proposta-relatore-add
-Date: 2024-01-29 00:01:00
+Title: Proposta Talk
 Category: 2024
 lang: it
 Num: XXXIV
 Year: 2024
-City: Firenze
+City: FIRENZE
 Where: Firenze
 When: 16-17 maggio
 Season: summer
@@ -15,5 +16,8 @@ previd: 2023W
 prev: e-privacy-XXXIII
 nextid:
 next:
+timeline: 4 marzo | 25 marzo | 29 aprile
+css: .title-XXXII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
+
 
 <script type="text/javascript" src="//pws.xed.it/form/generate.js?id=23"></script>

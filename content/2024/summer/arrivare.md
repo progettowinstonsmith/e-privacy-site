@@ -1,12 +1,13 @@
-slug: e-privacy-XXXII-come-arrivare
 Template: event
-Status: draft
+XStatus: draft
+Date: 2024-05-01 00:01:00
+slug: e-privacy-XXXIV-come-arrivare
 Title: Come arrivare ad e-privacy
 Category: 2024
 lang: it
 Num: XXXIV
 Year: 2024
-City: ROMA
+City: FIRENZE
 Where: Firenze
 When: 16-17 maggio
 Season: summer
@@ -17,16 +18,32 @@ nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
-Date: 2024-04-29 00:01:00
 
 <h2>Dove è la sede</h2>
 
-La sede del Convegno è la sala dell'Associazione Stampa Romana, Piazza della Torretta, 36, 00186 Roma.
+La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
 <br>
 <br>
+<img src="/images/sale/ingresso_sala_infopoint_firenze.png">
+
 <br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.5119649028875!2d12.474677976138276!3d41.903351763832596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f605151e13eaf%3A0x37c7697a428cf021!2sPiazza%20della%20Torretta%2C%2036%2C%2000186%20Roma%20RM!5e0!3m2!1sit!2sit!4v1683016446798!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880.8889606944167!2d11.2468021154871!3d43.77516375255347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a56a860569c69%3A0x5a395f1d7c8b739e!2sUfficio%20Informazioni%20Turistiche%20Comune%20di%20Firenze%20-%20Feel%20Florence!5e0!3m2!1sit!2sit!4v1654003632802!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
+
+
+<h2>Come arrivare in aereo</h2>
+
+Numerosi voli nazionali arrivano all'Aereoporto di Firenze Peretola, che a sua volta è collegato direttamente con la tramvia a Piazza della Stazione.
+
+<h2>Come arrivare in auto</h2>
+
+E' possibile parcheggiare direttamente al parcheggio sotterraneo di Piazza della Stazione, che non è particolarmente economico ma è comodissimo, essendo a 20 metri dalla sede del convegno.
+<br>
+In alternativa, suggeriamo di parcheggiare in un parcheggio gratutio vicino ad una fermata della tramvia (occhio al colore delle striscie in terra). Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Stazione o vie limitrofe.
+
+<h2>Come arrivare in treno</h2>
+
+C'è bisogno di spiegarlo?
 
 

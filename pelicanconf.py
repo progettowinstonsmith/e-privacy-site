@@ -5,20 +5,20 @@ from __future__ import unicode_literals
 
 ##### Configurazioni per il sync
 
-EDITION = 33
+EDITION = 34
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXIII'
+EPRIVACY_N = 'XXXIV'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2023/winter/'
-YEAR = u'2023'
-EDITION = 'winter'
-SITENAME = u'e-privacy 2023 winter: IA: Tecnologia, Etica e Privacy'
-IMAGE='e-privacy-XXXIII.png'  
+EVENT_PATH = 'content/2024/summer/'
+YEAR = u'2024w'
+EDITION = 'summer'
+SITENAME = u'e-privacy 2024 summer: Moneta elettronica e altri traccianti'
+IMAGE='e-privacy-XXXIV.png'  
 
 COUNTDOWN = False
-EVENT_TIME = '2023/11/23 10:00'
+EVENT_TIME = '2024/05/16 10:00'
 
 #####
 
@@ -75,16 +75,16 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-     ('Il programma', '/e-privacy-XXXIII.html'),
-     ('Gli interventi', '/e-privacy-XXXIII-interventi.html'),
-     ('I relatori', '/e-privacy-XXXIII-relatori.html'),
+#     ('Il programma', '/e-privacy-XXXIII.html'),
+#     ('Gli interventi', '/e-privacy-XXXIII-interventi.html'),
+#     ('I relatori', '/e-privacy-XXXIII-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
-#     ('Proposta Talk', '/e-privacy-XXXII-proposta.html'),
-     ('Call for Paper', '/e-privacy-XXXIII-cfp.html'),
-#     ('Call for Sponsor', '/e-privacy-XXVIII-cfs.html'),
-#     ('FAQ per i relatori', '/e-privacy-XXXIII-faq-relatori.html'),
-#     ('Slides', '/consegna-slides.html'),
-     ('Come arrivare', '/e-privacy-XXXIII-come-arrivare.html'),
+     ('Proposta Talk', '/e-privacy-XXXIV-proposta.html'),
+     ('Call for Paper', '/e-privacy-XXXIV-cfp.html'),
+     ('Call for Sponsor', '/e-privacy-XXXIV-cfs.html'),
+     ('FAQ per i relatori', '/e-privacy-XXXIV-faq-relatori.html'),
+     ('Slides', '/consegna-slides.html'),
+     ('Come arrivare', '/e-privacy-XXXIV-come-arrivare.html'),
 #     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
