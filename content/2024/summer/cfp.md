@@ -90,7 +90,7 @@ della non-discriminazione, della sorveglianza e dei diritti civili
 digitali. Verranno prese in considerazione anche proposte su temi
 diversi da quello dell'edizione, purché di interesse e di attualità.
 
-Il CFP di questa edizione si **chiuderà il 4 marzo 2024.
+Il CFP di questa edizione si **chiuderà il 4 marzo 2024**.
 
 L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**.
 
