@@ -90,6 +90,15 @@ della non-discriminazione, della sorveglianza e dei diritti civili
 digitali. Verranno prese in considerazione anche proposte su temi
 diversi da quello dell'edizione, purché di interesse e di attualità.
 
+Il CFP di questa edizione si **chiuderà il 4 marzo 2024.
+
+L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**.
+
+Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
+forma elettronica, tramite un apposito form online che verrà comunicato successivamente ai relatori, **entro il 29 aprile 2024**.
+
+**La proposta deve essere presentata usando questo [form](/e-privacy-XXXIV-proposta.html).**
+
 Le proposte dovranno contenere:
 
 -   Nome del relatore
@@ -104,15 +113,6 @@ Le proposte dovranno contenere:
 -   se disponibile alla pubblicazione del materiale sotto licenza libera
 -   se disponibile alla pubblicazione di registrazioni audio
 -   se disponibile alla pubblicazione di registrazioni video
-
-<br/>
-<b class="avviso">Attenzione: Il CFP di questa edizione si chiuderà il 4 marzo 2024.</b>
-
-L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**.
-
-Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
-forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 29 aprile 2024**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
