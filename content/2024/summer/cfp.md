@@ -42,7 +42,7 @@ Call for Paper
 --------------
 
 Il *Progetto Winston Smith* è lieto di invitarti come relatore all'edizione
-primaverile alla trentaquaattresima edizione di e-privacy, che si terrà in
+primaverile alla trentaquattresima edizione di e-privacy, che si terrà in
 presenza ed in videoconferenza il 16 e 17 maggio a Firenze.
 
 *Il nostro CfP si chiuderà il 4 marzo 2024*, e la comunicazione di
