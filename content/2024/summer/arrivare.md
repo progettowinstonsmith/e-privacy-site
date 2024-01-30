@@ -12,10 +12,6 @@ Where: Firenze
 When: 16-17 maggio
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2023W
-prev: e-privacy-XXXIII
-nextid:
-next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
