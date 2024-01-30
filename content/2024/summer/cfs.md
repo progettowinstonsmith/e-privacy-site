@@ -96,11 +96,8 @@ riportato nell'apposita sezione della comunicazione.
 
 ### Organizzazione
 
-La manifestazione e’ organizzata da:
-
-
- - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
- - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
+La manifestazione e' organizzata dal [**Progetto Winston Smith**](http://pws.winstonsmith.org/),
+ un'associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori.
 
 ### Contatti
 

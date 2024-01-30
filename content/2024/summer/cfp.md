@@ -19,10 +19,10 @@ nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIV { font: 18px arial, sans-serif; text-align: center; } 
-Organizzatori: pws, hermes
+Organizzatori: pws
 Collaboratori: bba 
 Patrocini: firenze2,gpdp 
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 e-privacy XXXIV @ Firenze
@@ -41,8 +41,7 @@ Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscriz
 Call for Paper
 --------------
 
-Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and
-Digital Human Rights* sono lieti di invitarti come relatore all'edizione
+Il *Progetto Winston Smith* è lieto di invitarti come relatore all'edizione
 primaverile alla trentaduesima edizione di e-privacy, che si terrà in
 presenza il 16 e 17 maggio a Firenze.
 
@@ -61,6 +60,7 @@ Almeno ora si può spegnere, anche se non lo facciamo mai, ma se diventasse l’
 Leggendo Red Mirror – il nostro futuro si scrive in Cina, di Simone Pieranni, emerge come WeChat, che in Occidente viene frettolosamente liquidato come WhatsApp cinese, sia un ecosistema di funzioni che consente di fare di tutto, dall’ordinare e pagare al ristorante, al prenotare una visita medica, ottenere un certificato dalla PA, chiamare un taxi. Comodo, certo, tanto che una cinese in viaggio in Europa spesso dimenticava il portafoglio in albergo, non essendo abituata ad usarlo, ma anche un modo per registrare costantemente dove siamo, cosa mangiamo, cosa leggiamo. E potenzialmente un modo per controllarci, perché se ci viene sospeso l’account di questa e/o altre app con funzionalità analoghe ci troviamo improvvisamente senza possibilità di sostentamento.
 
 Allora ben vengano le monete elettroniche, se in parallelo possiamo poter spendere cifre ragionevoli senza doverne rispondere; ben vengano le scatole nere sulle auto, se ci fanno risparmiare sull’assicurazione o chiamano i soccorsi se siamo finiti in un burrone, ma anche se ci consentono di disattivarle, così da poter sostare due ore nei pressi di un cinema o del convegno e-privacy senza che si venga a sapere cosa abbiamo ascoltato in quel momento specifico.
+
 Fino ad ora, anche se molti dati già sono stati raccolti, mancava la possibilità materiale di analizzare appieno le informazioni raccolte o potenzialmente incamerabili; pensiamo alle telecamere sparse dappertutto, che raccolgono milioni di ore di registrazione solo per poterne analizzare dei brandelli dopo che si è verificata qualche tragedia. Ma ora, con il dilagare dell’intelligenza artificiale, anche questo argine viene a cadere e il tracciamento diffuso e costante diviene una possibilità concreta. 
 
 In questa edizione vogliamo quindi analizzare come i nuovi mezzi di pagamento  ed in generale tutte le nuove tecnologie "smart", specialmente se "obbligatorie" verranno utilizzati come strumenti di tracciamento secondo la Terza Legge di Zuboff - "Qualunque tecnologia che possa essere utilizzata per la sorveglianza sarà certamente usata per la sorveglianza".
@@ -155,13 +155,8 @@ come adesione morale ai temi ed ai principi.
 
 ### Gli organizzatori
 
-La manifestazione e' organizzata da:
-
--   [**Progetto Winston Smith**](http://pws.winstonsmith.org/)
--   [**HERMES**](http://logioshermes.org/) - Centro Studi Trasparenza e
-    Diritti Umani Digitali
-
-e da altre organizzazioni, aziende ed associazioni.
+La manifestazione e' organizzata dal [**Progetto Winston Smith**](http://pws.winstonsmith.org/)
+ e da altre organizzazioni, aziende ed associazioni.
 
 ### Contatti
 
