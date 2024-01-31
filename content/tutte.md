@@ -16,6 +16,6 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Bisogna modificare questo foglio elettronico qui per aggiornare i dati della mappa
 
 
-https://ethercalc.org/17whurbqij
+https://ethercalc.net/17whurbqij
 
 -->
