@@ -250,7 +250,11 @@ PARTNERS = {
 
 DEFAULT_PAGINATION = 1
 
-STATIC_PATHS = ['images', '.htaccess']
+STATIC_PATHS = ['images', '.htaccess' ]
+
+EXTRA_PATH_METADATA = {
+    'favicon.ico': {'path': 'favicon.ico'},  #
+    }
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
