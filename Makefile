@@ -1,4 +1,4 @@
-PY?=python
+PY?=$(CURDIR)/venv/bin/python3
 PELICAN?=pelican
 PELICANOPTS=
 
