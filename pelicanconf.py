@@ -127,7 +127,7 @@ PREVS = (
     ('e-privacy 2013 we XIV - Milano', '/e-privacy-XIV.html'),
     ('e-privacy 2013 se XIII - Firenze', '/e-privacy-XIII.html'),
     ('e-privacy 2012 we XII - Torino', '/e-privacy-XII.html'),
-    ('e-privacy 2012 se XI - Firenze', '/e-privacy-XI.html'),
+    ('e-privacy 2012 se XI - Milano', '/e-privacy-XI.html'),
     ('e-privacy 2011 X - Firenze', '/e-privacy-X.html'),
     ('e-privacy 2010 IX - Firenze', '/e-privacy-IX.html'),
     ('e-privacy 2009 VIII - Firenze', '/e-privacy-VIII.html'),
