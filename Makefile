@@ -9,7 +9,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 TARGETDIR=/home/pws/sites/org.winstonsmith.e-privacy/site
 
-INPUTORG=../../eprivacy-org-db/33-2023W.org
+INPUTORG=../../eprivacy-org-db/34-2024S.org
 
 
 FTP_HOST=localhost

@@ -2,6 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+##### Mappe
+
+# Foglio di calcolo: https://ethercalc.net/17whurbqij
+# Mappa: https://umap.openstreetmap.fr/en/map/anonymous-edit/1017298:LcFDpLUxJDkPE3C8zeTixfajLac45zJn3f7M4aSPCDE
+
 
 ##### Configurazioni per il sync
 
