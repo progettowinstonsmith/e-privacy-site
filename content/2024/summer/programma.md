@@ -56,16 +56,15 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:00|15|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Moneta elettronica e altri traccianti»</em></span>
-09:15|15|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#mastella">Stefano Mastella </a><br/><em></em></span>
-09:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#palombi">Daniele Palombi (20squares & CyberCat Institute)</a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIV-interventi.html#palombi">EUDI: Cattiva politica, cattiva tecnologia</a></em></span>
-10:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#landucci">Luca Landucci </a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIV-interventi.html#landucci">Parlare con l'AI: i pericoli delle privacy nell'uso dei chatbot</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#graesanus">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIV-interventi.html#graesanus">TRANSAUTOMOTIVE - l'auto oltre l'auto</a></em></span>
-11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#lopez">Ugo Lopez </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIV-interventi.html#lopez">Il Dilemma Dinamico: Bilanciamento tra Privacy e Cybersecurity nell'Era Digitale</a></em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIV-interventi.html#montillo">La rana bollita della libertà digitale ovvero come navigare nelle acque turbolente della libertà digitale: sfide e soluzioni per il presente.</a></em></span>
-12:30|60|<span class='talk'>Modera: <a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari </a><br/>Partecipano: <a href="/e-privacy-XXXIV-relatori.html#lopez">Ugo Lopez </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXIV-interventi.html#tavola1">talk-def-not-found(tavola1)</a></em></span>
-13:30||<span class='talk'><em>Chiusura sessione</em></span>
+09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Moneta elettronica e altri traccianti»</em></span>
+09:35|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXIV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIV-interventi.html#mastella">Il dilemma dell’invisibilità: stiamo correndo una maratona senza traguardo?</a></em></span>
+10:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#palombi">Daniele Palombi (20squares & CyberCat Institute)</a> e <a href="/e-privacy-XXXIV-relatori.html#prosseda">Valerio Prosseda (CyberEthics Lab.)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIV-interventi.html#palombi">EUDI: Cattiva politica, cattiva tecnologia</a></em></span>
+10:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#landucci">Luca Landucci </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIV-interventi.html#landucci">Parlare con l'AI: i pericoli delle privacy nell'uso dei chatbot</a></em></span>
+11:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#graesanus">Efrem Zugnaz (the Webprepping Initiative)</a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXIV-interventi.html#graesanus">TRANSAUTOMOTIVE - l'auto oltre l'auto</a></em></span>
+11:30|30|<span class='talk'><em>Pausa</em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#lopez">Ugo Lopez </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXIV-interventi.html#lopez">Il Dilemma Dinamico: Bilanciamento tra Privacy e Cybersecurity nell'Era Digitale</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXIV-interventi.html#montillo">La rana bollita della libertà digitale ovvero come navigare nelle acque turbolente della libertà digitale: sfide e soluzioni per il presente.</a></em></span>
+13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Giovedì 16 maggio 2024 - pomeriggio
 
@@ -80,9 +79,10 @@ Il tema guida della XXXII edizione di e-privacy è:
 15:05|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#corsini">Daniele Corsini (FlowPay e istituto di pagamento)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIV-interventi.html#corsini">L’euro digitale tra difesa della sovranità monetaria, promozione della concorrenza e tutela della privacy</a></em></span>
 15:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#agostini">Yvette Agostini </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIV-interventi.html#agostini">Identità Digitale Europea: rischi, opportunità, considerazioni varie</a></em></span>
 16:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#monti">Andrea Monti </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIV-interventi.html#monti">What Privacy Is Not</a></em></span>
-16:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gagliardi">Tommaso Gagliardoni (Kudelski Security)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIV-interventi.html#gagliardi">Shufflecake: l'evoluzione di TrueCrypt per</a></em></span>
+16:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIV-interventi.html#berto">Il connubio fra tecnologia della vita ed esercizio del diritto alla privacy</a></em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXIV-interventi.html#bianchini">Il regolamento DORA sulla resilienza operativa digitale</a></em></span>
-17:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIV-interventi.html#vieri">A-BOX: genesi di un nuovo utilissimo dispositivo.</a></em></span>
+17:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gagliardi">Tommaso Gagliardoni (Kudelski Security)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIV-interventi.html#gagliardi">Shufflecake: l'evoluzione di TrueCrypt per</a></em></span>
+18:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXIV-interventi.html#vieri">A-BOX: genesi di un nuovo utilissimo dispositivo.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
@@ -99,7 +99,8 @@ Il tema guida della XXXII edizione di e-privacy è:
 11:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#bassani">Davide Bassani </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIV-interventi.html#bassani">Dispositivi di sorveglianza e profilazione: aspetti tecnici</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#brasi">Cristina Brasi </a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIV-interventi.html#brasi">Dispositivi di sorveglianza e profilazione: rischi e limiti</a></em></span>
-13:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIV-interventi.html#ciurcina">Come resistere all'estrazione di dati?</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIV-interventi.html#gallus">European Health Data Space: come coniugare innovazione e protezione dei dati personali?</a></em></span>
+13:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXIV-interventi.html#ciurcina">Come resistere all'estrazione di dati?</a></em></span>
 13:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori

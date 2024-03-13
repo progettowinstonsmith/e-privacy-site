@@ -132,6 +132,18 @@ Tommaso Gagliardoni è un matematico, crittografo ed esperto di sicurezza quanti
 
 
 
+#### <a name="gallus"></a> Giovanni Battista Gallus (Circolo dei Giuristi Telematici, Nexa Center)
+
+Diritto d’autore, diritto penale, tutela della privacy e diritto dell’informatica e delle nuove tecnologie sono le sue principali materie di competenza. Dopo la laurea cum laude in giurisprudenza in Italia si trasferisce in Gran Bretagna per il Master of Laws in Maritime Law e Information Technology Law alla University College London – UCL.. In seguito consegue il titolo di dottore di ricerca. Nel 2009 ottiene lo European Certificate on Cybercrime and Electronic Evidence (ECCE). Iscritto all’Albo degli Avvocati dal 1996, Cassazionista dal 2009, Data Protection officer per diversi enti, collabora con la cattedra di Informatica Giuridica dell’Università di Milano ed è docente al Corso di Perfezionamento in Criminalità informatica e prova digitale, ed al Master DPO del Politecnico di Milano. Fellow del Nexa Center on Internet e Society e dell' Hermes Center for Transparency and Digital Human Rights. Autore di diverse pubblicazioni sui temi citati e relatore nei principali convegni nazionali e internazionali, affianca alla professione attività di formazione, in particolare nel campo del diritto d’autore, del Free software – Open Source, della tutela della privacy, della sicurezza informatica e della digital forensics. Past Presidente del Circolo dei Giuristi Telematici, fondato nel 1998, primo esempio italiano di associazione giuridica telematica, è componente della Gruppo di lavoro della Fondazione Italiana per l'Innovazione Forense (FIIF), membro dell'Advisory Board dell'Osservatorio Droni del Politecnico di Milano, del Surveillance Working Group del CCBE e del Comitato d'indirizzo della Fondazione per la Sostenibilità Digitale.
+
+
+
+#### <a name="giacomello"></a> Jolanda Giacomello 
+
+Dopo gli Studi classici, e da sempre appassionata di temi etici, mi sono laureata in Filosofia presso l’Università degli Studi di Padova, approfondendo la filosofia morale e l’estetica.Appassionata alla filosofia aristotelica ho, inoltre, approfondito il pensiero di Tommaso d’Aquino e Jaques Maritain. Dal 2001 mi occupo di consulenza e formazione in ambito privacy e sicurezza dei dati personali. Nel 2020 ho conseguito un Master in Cybersecurity
+
+
+
 #### <a name="gobbato"></a> Monica Gobbato (Privacy Academy)
 
 Avvocato digitale, Prof. universitaria (a.c.), Presidente di Privacy Academy.&#13;&#10;&#13;&#10;Inserita nel gruppo d’esperti di supporto dell’ EDPB, già commissario d’esame per Privacy Officer nel 2013, in passato è stata senior associate di due grandi studi legali internazionali: Gianni, Origoni & Partners e Baker e MCKenzie a Milano, dove ha coordinato i dipartimenti di Diritto della Privacy nell’ambito di Information Technology.&#13;&#10;&#13;&#10;Prof A.C. all’università Ca’ Foscari a Venezia dal 2007, è docente in Master Universitari, Seminari e Corsi in tutta Italia. Relatrice e moderatrice in materia di Diritto dell’informatica, privacy e cybercrime.&#13;&#10;Scrive per Privacy Academy, Assodigitale, StartUPItalia, Key4biz.
@@ -150,6 +162,12 @@ Ingegnere informatico, dottore magistrale in giurisprudenza, professore straordi
 
 
 
+#### <a name="mastella"></a> Stefano Mastella 
+
+Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certificato UNI11697:2017. Membro comitati tecnici UNINFO UNI/CT 519 "Tecnologie ablitanti per l'Industry 4.0" e UNINFO UNI/CT 510 "Sicurezza Security". Mi occupo di sicurezza dei dati personali e delle informazioni come consulente e formatore.
+
+
+
 #### <a name="monti"></a> Andrea Monti 
 
 Avvocato, giornalista pubblicista e scrittore, è titolare dell'insegnamento di Digital Law nell'università di Chieti-Pescara. Rappresenta l'Italia nell'Expert Advisory Panel for the State of Science Report on the capabilities and risks of frontier AI costituito nell'ambito dell'AI UK Summit. E' autore di articoli scientifici e monografie su privacy, sicurezza e diritti digitali. Nel suo ultimo libro, The Digital Rights Delusion (Routledge, 2023) analizza criticamente il concetto di "diritti digitali" in rapporto all'evoluzione della dialettica cittadino-Stato.
@@ -165,6 +183,12 @@ Esperto Red Teamer e Professionista di Cybersecurity con oltre 15 anni di esperi
 #### <a name="palombi"></a> Daniele Palombi (20squares & CyberCat Institute)
 
 Daniele Palombi è un ricercatore di matematica e informatica teorica fuggito dall'accademia. Attualmente ricopre posizioni quali "Staff R&D Engineer" presso 20squares (20squares.xyz) e "Senior Researcher" presso l'Institute for Categorical Cybernetics (cybercat.institute). La sua ricerca consiste nell'applicare strumenti della matematica astratta quali la logica e la teoria delle categorie a problemi in informatica quali la teoria e implementazione dei linguaggi di programmazione e la verifica formale del software, la teoria dei giochi, i sistemi multi-agente e la verifica formale degli incentivi in situazioni strategiche. Ha contribuito a diversi progetti open source legati alla verifica formale e i linguaggi di programmazione. Al momento è attivamente coinvolto nella ricerca sulla prevenzione della censura in network decentralizzati come Ethereum. È appassionato di diritti digitali, software open source e protocolli peer-to-peer, ed è un vocale sostenitore di un approccio razionale, democratico e privo di hype alle nuove tecnologie.
+
+
+
+#### <a name="prosseda"></a> Valerio Prosseda (CyberEthics Lab.)
+
+Valerio Prosseda ha conseguito la laurea magistrale in Scienze Cognitive presso l'Università degli Studi Roma Tre (2022) con una tesi sul ruolo dei filtri algoritmici online quali filter bubble ed echo chambers, e la loro intersezione con la diffusione delle fake news, il linguaggio meme di internet e le teorie del complotto. È interessato al rapporto che intercorre tra tecnologie e il loro impatto sulla società, in particolare all'intelligenza artificiale generativa. Nel lavoro si occupa delle implicazioni etiche connesse allo sviluppo di nuove tecnologie come 5G/6G, identità digitale e intelligenza artificiale in vari campi di applicazione (salute, connettività, industria), nonché alla loro accettabilità da parte della società. Si muove inoltre tra le culture digitali e mediatiche, è appassionato di storia dell’informatica e affascinato dal mondo open source.
 
 
 
