@@ -48,7 +48,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 #### <a name="vep"></a>Giovadì 16 maggio 2024 - mattina
 
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
@@ -68,7 +68,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="vep"></a>Giovedì 16 maggio 2024 - pomeriggio
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
@@ -87,7 +87,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a>
 
