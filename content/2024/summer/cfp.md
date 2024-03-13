@@ -19,11 +19,12 @@ nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIV { font: 18px arial, sans-serif; text-align: center; } 
-Organizzatori: pws
+Organizzatori: pws, hermes, firenze2
 Collaboratori: bba 
-Patrocini: firenze2,gpdp 
+Patrocini: gpdp 
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+
 
 e-privacy XXXIV @ Firenze
 ===============================
@@ -97,7 +98,7 @@ L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica, tramite un apposito form online che verrà comunicato successivamente ai relatori, **entro il 29 aprile 2024**.
 
-**La proposta deve essere presentata usando questo [form](/e-privacy-XXXIV-proposta.html).**
+<!-- **La proposta deve essere presentata usando questo [form](/e-privacy-XXXIV-proposta.html).** -->
 
 Le proposte dovranno contenere:
 

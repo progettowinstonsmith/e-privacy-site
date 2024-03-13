@@ -17,9 +17,9 @@ prev: e-privacy-XXXIII
 nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
-Organizzatori: pws
+Organizzatori: pws, hermes, firenze2
 Collaboratori: bba 
-Patrocini: firenze2,gpdp 
+Patrocini: gpdp 
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 

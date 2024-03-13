@@ -1,7 +1,7 @@
-slug: e-privacy-XXXIV-programma
 Template: event
 XStatus: draft
-Date: 2024-05-02 00:01:00
+slug: e-privacy-XXXIV-programma
+Date: 2024-05-03 00:02:00
 Title: Moneta elettronica e altri traccianti
 Subtitle: Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà
 Category: 2024
@@ -19,9 +19,9 @@ nextid:
 next:
 timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIV { font: 18px arial, sans-serif; text-align: center; }
-Organizzatori: pws
+Organizzatori: pws, hermes, firenze2
 Collaboratori: bba 
-Patrocini: firenze2,gpdp 
+Patrocini: gpdp 
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
@@ -37,18 +37,15 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
 
-
 <br/>
-
-<b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a>
 
 ### <a name="programma"></a>Programma del Convegno
 
 
-#### <a name="vep"></a>Giovadì 16 maggio 2024 - mattina
+#### <a name="vep"></a>Giovedì 16 maggio 2024 - mattina
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 
 
@@ -68,7 +65,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="vep"></a>Giovedì 16 maggio 2024 - pomeriggio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
@@ -87,7 +84,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a>
 
