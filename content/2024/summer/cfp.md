@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2024-05-02 00:01:00
+Date: 2024-05-04 00:01:00
 slug: e-privacy-XXXIV-cfp
 Title: Moneta elettronica e altri traccianti
 Subtitle: Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà
