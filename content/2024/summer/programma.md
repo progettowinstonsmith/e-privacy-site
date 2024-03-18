@@ -78,7 +78,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 16:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#monti">Andrea Monti </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIV-interventi.html#monti">What Privacy Is Not</a></em></span>
 16:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXIV-interventi.html#berto">Il connubio fra tecnologia della vita ed esercizio del diritto alla privacy</a></em></span>
 17:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXIV-interventi.html#bianchini">Il regolamento DORA sulla resilienza operativa digitale</a></em></span>
-17:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gagliardi">Tommaso Gagliardoni (Kudelski Security)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIV-interventi.html#gagliardi">Shufflecake: l'evoluzione di TrueCrypt per</a></em></span>
+17:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gagliardi">Tommaso Gagliardoni (Kudelski Security)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIV-interventi.html#gagliardi">Shufflecake: l'evoluzione di TrueCrypt per la negabilità plausibile su disco</a></em></span>
 18:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXIV-interventi.html#vieri">A-BOX: genesi di un nuovo utilissimo dispositivo.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 

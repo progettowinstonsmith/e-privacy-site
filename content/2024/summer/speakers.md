@@ -92,8 +92,7 @@ Internet wealth".
 
 #### <a name="agostini"></a> Yvette Agostini 
 
-TODO
-
+Laureata in ingegneria, si occupa di sicurezza informatica e delle informazioni da quasi un quarto di secolo, attualmente in veste di consulente indipendente. Ha all’attivo progetti di cybersecurity awareness e formazione, due diligence tecnologiche, digital forensics, disaster recovery, risk assessment, cloud computing security, tutela dei diritti umani nel digitale, project management progetti finanziati UE. In particolare, si sta occupando di formazione a diversi livelli in ambito cyber security.
 
 
 #### <a name="bassani"></a> Davide Bassani 
