@@ -9,7 +9,7 @@ lang: it
 Num: XXXIV
 Year: 2024
 City: FIRENZE
-Where: Firenze
+Where: Firenze & Streaming
 When: 16-17 maggio
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
@@ -36,6 +36,10 @@ Il tema guida della XXXII edizione di e-privacy è:
 <div class="title-XXXIV">«Moneta elettronica e altri traccianti»</div>
 
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
+
+<br/>
+
+**Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione ingresso e-privacy XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
 
 <br/>
 

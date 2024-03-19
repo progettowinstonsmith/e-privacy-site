@@ -9,7 +9,7 @@ lang: it
 Num: XXXIV
 Year: 2024
 City: FIRENZE
-Where: Firenze
+Where: Firenze & Streaming
 When: 16-17 maggio
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>

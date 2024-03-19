@@ -1,15 +1,15 @@
 slug: e-privacy-XXXIV-email
 Template: event
 XStatus: draft
-Title: Privacy, AI & Security: un trinomio complesso
+Title: e-mail
 Date: 2022-03-15 00:01:00
-Category: 2023
+Category: 2024
 lang: it
-Num: XXXII
-Year: 2023
-City: ROMA
-Where: Roma
-When: 14-15 giugno
+Num: XXXIV
+Year: 2024
+City: FIRENZE
+Where: Firenze & Streaming
+When: 16-17 maggio
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 previd: 2022W
