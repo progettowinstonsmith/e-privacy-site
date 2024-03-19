@@ -37,7 +37,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
 
-<br/> 
+<br/>   
 
 **Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione ingresso e-privacy XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
 
