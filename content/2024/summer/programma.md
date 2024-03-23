@@ -37,27 +37,23 @@ Il tema guida della XXXII edizione di e-privacy è:
 
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
 
-<br/>
+<br>
+La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi nel menù "Come Arrivare"
 
 **Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
-
 <br/>
-
 ### <a name="programma"></a>Programma del Convegno
 
 
 #### <a name="vep"></a>Giovedì 16 maggio 2024 - mattina
 
-
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
-
-
-* Modera: <a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari </a>
+* Modera: <a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Moneta elettronica e altri traccianti»</em></span>
+09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a><br/><em>«Moneta elettronica e altri traccianti»</em></span>
 09:35|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXIV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXIV-interventi.html#mastella">Il dilemma dell’invisibilità: stiamo correndo una maratona senza traguardo?</a></em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#palombi">Daniele Palombi (20squares & CyberCat Institute)</a> e <a href="/e-privacy-XXXIV-relatori.html#prosseda">Valerio Prosseda (CyberEthics Lab.)</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXIV-interventi.html#palombi">EUDI: Cattiva politica, cattiva tecnologia</a></em></span>
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#landucci">Luca Landucci </a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXIV-interventi.html#landucci">Parlare con l'AI: i pericoli delle privacy nell'uso dei chatbot</a></em></span>
@@ -72,7 +68,7 @@ Il tema guida della XXXII edizione di e-privacy è:
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 
-* Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
+* Modera: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
@@ -84,25 +80,28 @@ Il tema guida della XXXII edizione di e-privacy è:
 17:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#bianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXIV-interventi.html#bianchini">Il regolamento DORA sulla resilienza operativa digitale</a></em></span>
 17:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gagliardi">Tommaso Gagliardoni (Kudelski Security)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXIV-interventi.html#gagliardi">Shufflecake: l'evoluzione di TrueCrypt per la negabilità plausibile su disco</a></em></span>
 18:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#vieri">Giovambattista Vieri (ENT SRL)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXIV-interventi.html#vieri">A-BOX: genesi di un nuovo utilissimo dispositivo.</a></em></span>
-18:00||<span class='talk'><em>Chiusura sessione</em></span>
+18:30||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
-* Modera: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a>
+
+* Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-10:00|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
-10:05|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIV-interventi.html#gobbato">Cittadini digitali e webscraping: come gestire i dati personali in un mondo iperconnesso</a></em></span>
+09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
+09:35|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#senor">Monica Senor</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXIV-interventi.html#senor">Il caso Worldcoin</a></em></span>
+10:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIV-interventi.html#gobbato">Cittadini digitali e webscraping: come gestire i dati personali in un mondo iperconnesso</a></em></span>
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIV-interventi.html#giorio">La (mancanza di) privacy che ci aspetta Vecchie paranoie da declinare nel mondo moderno</a></em></span>
 11:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#bassani">Davide Bassani </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIV-interventi.html#bassani">Dispositivi di sorveglianza e profilazione: aspetti tecnici</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
 12:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#brasi">Cristina Brasi </a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIV-interventi.html#brasi">Dispositivi di sorveglianza e profilazione: rischi e limiti</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIV-interventi.html#gallus">European Health Data Space: come coniugare innovazione e protezione dei dati personali?</a></em></span>
 13:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXIV-interventi.html#ciurcina">Come resistere all'estrazione di dati?</a></em></span>
-13:30||<span class='talk'><em>Chiusura sessione</em></span>
+13:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#blengino">Carlo Blengino</a><br/><em><a name='2m07'></a><a href="/e-privacy-XXXIV-interventi.html#blengino">Dati finanziari e sorveglianza: quello che abbiamo imparato dallo scandalo SOS</a></em></span>
+14:00||<span class='talk'><em>Chiusura del Convegno</em></span>
 
 ### Gli organizzatori
 

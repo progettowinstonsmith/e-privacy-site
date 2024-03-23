@@ -36,7 +36,7 @@ Numerosi voli nazionali arrivano all'Aereoporto di Firenze Peretola, che a sua v
 
 E' possibile parcheggiare direttamente al parcheggio sotterraneo di Piazza della Stazione, che non è particolarmente economico ma è comodissimo, essendo a 20 metri dalla sede del convegno.
 <br>
-In alternativa, suggeriamo di parcheggiare in un parcheggio gratutio vicino ad una fermata della tramvia (occhio al colore delle striscie in terra). Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Stazione o vie limitrofe.
+In alternativa, suggeriamo di parcheggiare in un parcheggio gratuito vicino ad una fermata della tramvia (occhio al colore delle striscie in terra). Tutte le linee della tramvia fermano o fanno capolinea in Piazza della Stazione. Anche gli autobus passano quasi tutti da Piazza della Stazione o vie limitrofe.
 
 <h2>Come arrivare in treno</h2>
 

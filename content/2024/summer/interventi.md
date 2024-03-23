@@ -142,5 +142,18 @@ La proposta di un portafoglio europeo per l'identità digitale (EUDI) desta preo
 Abbiamo le black-box e il capitalismo della sorveglianza. Quello che ci serve ora e' sicuramente qualcosa che ci controlli e ci aiuti con la diligenza del buon padre di famiglia a gestire le nostre attivita' e le nostre vite in modo facile, sicuro e trasparente. &#13;&#10;&#13;&#10;Il talk sara' basato su quattro persone fittizie Alessandro, Bob, Claudia, Delia, che dialogano su come metter su il pitch per simili dispositivi di cui nessuno potra' mai fare a meno. &#13;&#10;&#13;&#10;Quindi sensori, device e altro saranno descritti e scrutinati al fine di realizzare un pitch da presentare a un finanziatore che consenta ai nostri magnifici e progressivi quattro di cominciare la loro attivita'. Si parlera' di avere un mvp (minimum viable product) da proporre in seguito e di come far 'scalare' il progetto fornendo fonti di guadagno in cambio di dati e servizi! &#13;&#10;&#13;&#10;BANDO AGLI SCRUPOLI! A-BOX STA' ARRIVANDO!
 
 
+#### <a name="blengino"></a>Dati finanziari e sorveglianza: quello che abbiamo imparato dallo scandalo SOS<a href="/e-privacy-XXXIV-programma.html#2p07">⇧</a>
+*<a href="/e-privacy-XXXIV-relatori.html#blengino">Carlo Blengino</a>*
+
+Gli accessi abusivi, o presunti tali, alla banca dati SOS hanno rivelato prevedibili disastrose carenze nella gestione delle banche dati per finalità di law enforcement a disposizione delle autorità italiane.
+Ma tale aspetto non è quello più inquietante. Ciò che emerge è la totale assenza di rilevanza delle norme a tutela del diritto alla protezione dei dati e l’apparente mancata consapevolezza da parte dello Stato e delle diverse agenzie del ruolo di tale diritto fondamentale e della cornice normativa d’attuazione. 
+L’intelligence finanziaria, anche a livello europeo, sembra considerarsi esentata dai vincoli posti a tutela dei dati personali e pone le basi di una sorveglianza di massa.
+
+#### <a name="senor"></a>Il caso Worldcoin<a href="/e-privacy-XXXIV-programma.html#2p08">⇧</a>
+*<a href="/e-privacy-XXXIV-relatori.html#senor">Monica Senor</a>*
+
+“Worldcoin is designed to become the world’s largest privacy-preserving human identity and financial network, giving ownership to everyone”.
+Worldcoin è un progetto di Sam Altman, lanciato nel luglio 2023, in cui convergono criptovaluta ed identità digitale biometrica. Il progetto solleva numerose criticità sotto molteplici profili: da quello economico a quello legale in senso lato alla data protection. L’intervento si focalizzerà su quest’ultimo aspetto analizzando sia le recenti misure provvisorie d’urgenza adottate dall’autorità di controllo spagnola che il modello di monetizzazione dei dati sotteso al sistema.
+
 
 
