@@ -21,7 +21,7 @@ timeline: 4 marzo | 25 marzo | 29 aprile
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIV { font: 18px arial, sans-serif; text-align: center; }
 Organizzatori: pws, hermes, firenze2
 Collaboratori: bba 
-Patrocini: gpdp 
+Patrocini: ordinefirenze,gpdp
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
@@ -41,6 +41,10 @@ Il tema guida della XXXII edizione di e-privacy è:
 La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi nel menù "Come Arrivare"
 
 **Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
+
+**Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.**
+
+In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="https://firenze.ing4.it/ISFormazione-Firenze/moneta-elettronica-e-altri-traccianti-il-contante-i-documenti-fisici-le-auto-disconnesse-come-strume-corso-495.xhtml">questo link</a>. Gli iscritti ad ordini diversi da quello di Firenze dovranno registrarsi al sito; la maschera per la registrazione appare dopo il click sui pulsanti *Vai all'Iscrizione* e poi *Iscriviti Ora*.
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
