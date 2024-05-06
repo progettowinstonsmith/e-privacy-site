@@ -31,7 +31,7 @@ e-privacy XXXIV @ Firenze
 Il ** 16 e 17 maggio 2024 **  a Firenze  si svolgerà **e-privacy 2024
 _summer edition_**.
 
-Il tema guida della XXXII edizione di e-privacy è:
+Il tema guida della XXXIV edizione di e-privacy è:
 
 <div class="title-XXXIV">«Moneta elettronica e altri traccianti»</div>
 
@@ -44,7 +44,7 @@ La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistich
 
 **Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.**
 
-In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="https://firenze.ing4.it/ISFormazione-Firenze/moneta-elettronica-e-altri-traccianti-il-contante-i-documenti-fisici-le-auto-disconnesse-come-strume-corso-495.xhtml">questo link</a>. Gli iscritti ad ordini diversi da quello di Firenze dovranno registrarsi al sito; la maschera per la registrazione appare dopo il click sui pulsanti *Vai all'Iscrizione* e poi *Iscriviti Ora*.
+In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="https://firenze.ing4.it/ISFormazione-Firenze/moneta-elettronica-e-altri-traccianti-il-contante-i-documenti-fisici-le-auto-disconnesse-come-strume-corso-495.xhtml">questo link</a>. Gli iscritti ad ordini diversi da quello di Firenze dovranno prima registrarsi al sito; la maschera per la registrazione appare dopo il click sui pulsanti *Vai all'Iscrizione* e poi *Iscriviti Ora*.
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
