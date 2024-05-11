@@ -76,7 +76,7 @@ In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="htt
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-15:00|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em>Apertura sessione pomeridiana</em></span>
+15:00|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto</a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#corsini">Daniele Corsini (FlowPay e istituto di pagamento)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXIV-interventi.html#corsini">L’euro digitale tra difesa della sovranità monetaria, promozione della concorrenza e tutela della privacy</a></em></span>
 15:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#agostini">Yvette Agostini </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXIV-interventi.html#agostini">Identità Digitale Europea: rischi, opportunità, considerazioni varie</a></em></span>
 16:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#monti">Andrea Monti </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXIV-interventi.html#monti">What Privacy Is Not</a></em></span>
