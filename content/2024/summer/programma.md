@@ -95,7 +95,7 @@ In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="htt
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
+09:30|5|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#berto">Diego GIORIO </a><br/><em>Apertura seconda giornata</em></span>
 09:35|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#senor">Monica Senor</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXIV-interventi.html#senor">Il caso Worldcoin</a></em></span>
 10:00|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIV-interventi.html#gobbato">Cittadini digitali e webscraping: come gestire i dati personali in un mondo iperconnesso</a></em></span>
 10:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIV-interventi.html#giorio">La (mancanza di) privacy che ci aspetta Vecchie paranoie da declinare nel mondo moderno</a></em></span>
