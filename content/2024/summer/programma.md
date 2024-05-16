@@ -47,6 +47,8 @@ La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistich
 In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="https://firenze.ing4.it/ISFormazione-Firenze/moneta-elettronica-e-altri-traccianti-il-contante-i-documenti-fisici-le-auto-disconnesse-come-strume-corso-495.xhtml">questo link</a>. Gli iscritti ad ordini diversi da quello di Firenze dovranno prima registrarsi al sito; la maschera per la registrazione appare dopo il click sui pulsanti *Vai all'Iscrizione* e poi *Iscriviti Ora*.
 
 **Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo, editata mantenendo solo gli interventi recuperabili, entro pochi giorni. La registrazione del pomeriggio del 16 è invece già disponibile qui sotto.**
+
+**Sono disponibili gli atti completi della prima giornata**
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
