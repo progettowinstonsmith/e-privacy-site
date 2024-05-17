@@ -96,7 +96,7 @@ Icona | Descrizione | Icona | Descrizione
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=eghuYj-aYRKjuuGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=eghuYj-aYRKjuuGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
 * Moderano: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto</a> e <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
