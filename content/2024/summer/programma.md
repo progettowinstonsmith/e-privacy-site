@@ -92,7 +92,7 @@ In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="htt
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=sCOy_DdqkKEukAaz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=uMdjZ2E1MFYpVM3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
