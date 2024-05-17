@@ -44,8 +44,7 @@ Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità del
 
 Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.
 
-**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo entro pochi giorni dopo averla editata, mantenendo solo gli interventi recuperabili,. Le registrazione del pomeriggio del 16 e della mattina deòl 17 sono invece già disponibili qui sotto.**
-
+**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo entro pochi giorni dopo averla editata, mantenendo solo gli interventi recuperabili,. Le registrazione del pomeriggio del 16 e della mattina del 17 sono invece già disponibili qui sotto.**
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
@@ -100,7 +99,7 @@ Icona | Descrizione | Icona | Descrizione
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=eghuYj-aYRKjuuGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-* Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
+* Moderano: <a href="/e-privacy-XXXIV-relatori.html#berto">Rebecca Berto</a> e <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
