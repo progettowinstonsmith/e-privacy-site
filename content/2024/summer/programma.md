@@ -28,27 +28,24 @@ MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 e-privacy XXXIV @ Firenze
 ===============================
 
-Il ** 16 e 17 maggio 2024 **  a Firenze  si svolgerà **e-privacy 2024
+Il ** 16 e 17 maggio 2024 **  a Firenze  si è svolto **e-privacy 2024
 _summer edition_**.
 
-Il tema guida della XXXIV edizione di e-privacy è:
+Il tema guida della XXXIV edizione di e-privacy è stato:
 
 <div class="title-XXXIV">«Moneta elettronica e altri traccianti»</div>
 
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
 
 <br>
-La sede del Convegno è la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi nel menù "Come Arrivare"
+La sede del Convegno è stata la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi il menù "Come Arrivare"
 
 **Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
 
 **Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.**
 
-In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="https://firenze.ing4.it/ISFormazione-Firenze/moneta-elettronica-e-altri-traccianti-il-contante-i-documenti-fisici-le-auto-disconnesse-come-strume-corso-495.xhtml">questo link</a>. Gli iscritti ad ordini diversi da quello di Firenze dovranno prima registrarsi al sito; la maschera per la registrazione appare dopo il click sui pulsanti *Vai all'Iscrizione* e poi *Iscriviti Ora*.
+**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo, editata mantenendo solo gli interventi recuperabili, entro pochi giorni. La registrazione del pomeriggio del 16 è invece già disponibile qui sotto**
 
-**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo, editata mantenendo solo gli interventi recuperabili, entro pochi giorni. La registrazione del pomeriggio del 16 è invece già disponibile qui sotto.**
-
-**Sono disponibili gli atti completi della prima giornata**
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
