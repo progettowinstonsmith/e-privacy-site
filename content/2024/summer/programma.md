@@ -74,7 +74,7 @@ In questo caso l'iscrizione al corso deve essere effettuata tramite <a href="htt
 
 #### <a name="vep"></a>Giovedì 16 maggio 2024 - pomeriggio
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sniRfIkKr6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Pq4c-LOCvzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
