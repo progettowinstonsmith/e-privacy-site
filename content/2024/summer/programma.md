@@ -40,11 +40,11 @@ Il tema guida della XXXIV edizione di e-privacy è stato:
 <br>
 La sede del Convegno è stata la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi il menù "Come Arrivare"
 
-**Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.**
+Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.
 
-**Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.**
+Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.
 
-**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo, editata mantenendo solo gli interventi recuperabili, entro pochi giorni. La registrazione del pomeriggio del 16 è invece già disponibile qui sotto**
+**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo entro pochi giorni dopo averla editata, mantenendo solo gli interventi recuperabili,. Le registrazione del pomeriggio del 16 e della mattina deòl 17 sono invece già disponibili qui sotto.**
 
 <br/>
 ### <a name="programma"></a>Programma del Convegno
@@ -97,7 +97,7 @@ Icona | Descrizione | Icona | Descrizione
 
 #### <a name="sam"></a>Venerdì 17 maggio 2024 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=uMdjZ2E1MFYpVM3B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kB1Q9OX7_8Q?si=eghuYj-aYRKjuuGF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
@@ -108,7 +108,7 @@ Icona | Descrizione | Icona | Descrizione
 09:35|25|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#senor">Monica Senor</a><br/><em><a name='2m08'></a><a href="/e-privacy-XXXIV-interventi.html#senor">Il caso Worldcoin</a></em></span>
 10:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024/atti/ep2024se_32_gobbato_cittadino_digitale_webscraping.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXIV-interventi.html#gobbato">Cittadini digitali e webscraping: come gestire i dati personali in un mondo iperconnesso</a></em></span>
 10:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024/atti/ep2024se_33_giorio_privacy_aspetta_testo.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXIV-interventi.html#giorio">La (mancanza di) privacy che ci aspetta Vecchie paranoie da declinare nel mondo moderno</a></em></span>
-11:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024/ep2024se_34_bassani_dispositivi_sorveglianza_profilazione.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIV-relatori.html#bassani">Davide Bassani </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIV-interventi.html#bassani">Dispositivi di sorveglianza e profilazione: aspetti tecnici</a></em></span>
+11:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024/atti/ep2024se_34_bassani_dispositivi_sorveglianza_profilazione.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIV-relatori.html#bassani">Davide Bassani </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXIV-interventi.html#bassani">Dispositivi di sorveglianza e profilazione: aspetti tecnici</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
 12:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024/atti/ep2024se_35_brasi_dispositivi_sorveglianza_profilazione.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXIV-relatori.html#brasi">Cristina Brasi </a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXIV-interventi.html#brasi">Dispositivi di sorveglianza e profilazione: rischi e limiti</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXIV-relatori.html#gallus">Giovanni Battista Gallus (Circolo dei Giuristi Telematici e Nexa Center)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXIV-interventi.html#gallus">European Health Data Space: come coniugare innovazione e protezione dei dati personali?</a></em></span>
