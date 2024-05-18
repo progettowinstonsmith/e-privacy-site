@@ -148,8 +148,11 @@ PREVS = (
 # Social widget
 LINKS = (
     ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
-#    ('Centro HERMES', 'http://logioshermes.org/'),
-        ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
+    ('Maillist Sikurezza.org', 'https://www.sikurezza.org/'),
+    ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
+    ('Centro HERMES', 'http://logioshermes.org/'),
+    ('Cassandra Crossing', 'https://www.cassandracrossing.org/'),
+    ('Aneddotica Magazine', 'https://www.aneddoticamagazine.com/it/'),
 )
 
 PARTNERS = {
