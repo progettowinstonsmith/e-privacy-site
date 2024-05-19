@@ -46,8 +46,8 @@ Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come eve
 
 Le registrazioni sono disponibili qui sotto. Potete anche scaricare direttamente i video dal nostro server senza usare Youtube, usando i seguenti link
 <a href="https://e-privacy.winstonsmith.org/materiali/2024/video/e-privacy 2024 XXXIV «Moneta elettronica e altri traccianti» 16_05_2024 mattina.mp4"> 16-mattina, </a>
-<a href="https://e-privacy.winstonsmith.org/materiali/2024/video/e-privacy 2024 XXXIV «Moneta elettronica e altri traccianti» 16_05_2024 mattina.mp4"> 16-pomeriggio, </a>
-<a href="https://e-privacy.winstonsmith.org/materiali/2024/video/e-privacy 2024 XXXIV «Moneta elettronica e altri traccianti» 16_05_2024 mattina.mp4"> 17-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2024/video/e-privacy 2024 XXXIV «Moneta elettronica e altri traccianti» 16_05_2024 pomeriggio.mp4"> 16-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2024/video/e-privacy 2024 XXXIV «Moneta elettronica e altri traccianti» 17_05_2024 mattina.mp4"> 17-mattina, </a>
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
