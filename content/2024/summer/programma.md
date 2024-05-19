@@ -42,7 +42,7 @@ Grazie alla collaborazione ed all'ospitalità della Presidenza del Consiglio del
 
 Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.
 
-**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata editata, mantenendo solo gli interventi recuperabili.
+**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata editata, mantenendo solo gli interventi recuperabili.**
 
 Ci scusiamo con i nostri relatori Efrem Zugnaz ed Ugo Lopez per la parti mancanti nei loro interventi.
 Le registrazioni sono disponibili qui sotto.
