@@ -38,13 +38,14 @@ Il tema guida della XXXIV edizione di e-privacy è stato:
 <div class="subtitle-XXXIV">Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà</div>
 
 <br>
-La sede del Convegno è stata la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi il menù "Come Arrivare"
-
-Il Convegno è gratuito e ad ingresso libero. Tuttavia, poiché la capacità della sala è limitata, si prega di prenotare il proprio posto, inviando una semplice email (nominativa o pseudonima) a <a href="mailto:eprivacy@winstonsmith.org?subject=Prenotazione%20ingresso%20e-privacy%20XXXIV">eprivacy@winstonsmith.org</a>, indicando il numero di posti da riservare.
+Grazie alla collaborazione ed all'ospitalità della Presidenza del Consiglio del Comune di Firenze, la sede del Convegno è stata la sala multimediale dell'Ufficio Informazioni Turistiche del Comune di Firenze, Piazza della Stazione di Santa Maria Novella, 4 - Firenze. Vedi il menù "Come Arrivare"
 
 Il Convegno è stato accreditato dall'Ordine degli Ingegneri di Firenze come evento gratuito per la formazione continua multiterritoriale. La frequenza in presenza della prima giornata darà diritto a 6 crediti formativi.
 
-**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata temporaneamente rimossa; la ripubblicheremo entro pochi giorni dopo averla editata, mantenendo solo gli interventi recuperabili,. Le registrazione del pomeriggio del 16 e della mattina del 17 sono invece già disponibili qui sotto.**
+**Lo streaming della mattina del 16 ha avuto problemi (per usare un eufemismo). La registrazione è stata editata, mantenendo solo gli interventi recuperabili.
+
+Ci scusiamo con i nostri relatori Efrem Zugnaz ed Ugo Lopez per la parti mancanti nei loro interventi.
+Le registrazioni sono disponibili qui sotto.
 <br/>
 ### <a name="programma"></a>Programma del Convegno
 
