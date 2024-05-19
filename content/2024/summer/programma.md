@@ -61,6 +61,7 @@ Icona | Descrizione | Icona | Descrizione
 
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/sniRfIkKr6s?si=Ems_yaKxYO9Dix9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sniRfIkKr6s?si=kDYiHJow2MmHx0oq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXIV-relatori.html#marcoc">Marco Calamari (Progetto Winston Smith)</a>
 
