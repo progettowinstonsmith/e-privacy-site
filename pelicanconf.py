@@ -10,20 +10,20 @@ from __future__ import unicode_literals
 
 ##### Configurazioni per il sync
 
-EDITION = 34
+EDITION = 35
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXIV'
+EPRIVACY_N = 'XXXV'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2024/summer/'
+EVENT_PATH = 'content/2024/winter/'
 YEAR = u'2024'
-EDITION = 'summer'
-SITENAME = u'e-privacy 2024 summer: Moneta elettronica e altri traccianti'
+EDITION = 'winter'
+SITENAME = u'e-privacy 2024 winter: Privacy: tante norme, poca protezione'
 IMAGE='e-privacy-XXXIV.png'  
 
 COUNTDOWN = False
-EVENT_TIME = '2024/05/16 10:00'
+EVENT_TIME = '2024/10/30 10:00'
 
 #####
 
@@ -80,16 +80,16 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-     ('Il programma', '/e-privacy-XXXIV.html'),
-     ('Gli interventi', '/e-privacy-XXXIV-interventi.html'),
-     ('I relatori', '/e-privacy-XXXIV-relatori.html'),
+#     ('Il programma', '/e-privacy-XXXIV-cfp.html'),
+#     ('Gli interventi', '/e-privacy-XXXIV-interventi.html'),
+#     ('I relatori', '/e-privacy-XXXIV-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
-#     ('Call for Paper', '/e-privacy-XXXIV-cfp.html'),
-#     ('Proposta Talk', '/e-privacy-XXXIV-proposta.html'),
-#     ('Call for Sponsor', '/e-privacy-XXXIV-cfs.html'),
-#     ('FAQ per i relatori', '/e-privacy-XXXIV-faq-relatori.html'),
+     ('Call for Paper', '/e-privacy-XXXV-cfp.html'),
+     ('Proposta Talk', '/e-privacy-XXXV-proposta.html'),
+     ('Call for Sponsor', '/e-privacy-XXXV-cfs.html'),
+#    ('FAQ per i relatori', '/e-privacy-XXXIV-faq-relatori.html'),
 #     ('Slides', '/consegna-slides.html'),
-     ('Come arrivare', '/e-privacy-XXXIV-come-arrivare.html'),
+     ('Come arrivare', '/e-privacy-XXXV-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
@@ -108,6 +108,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa-edizioni-e-privacy.html'),
+    ('e-privacy 2024 se XXXIV - Firenze', '/e-privacy-XXXIV.html'),
     ('e-privacy 2023 we XXXIII - Pisa', '/e-privacy-XXXIII.html'),
     ('e-privacy 2023 se XXXII - Roma', '/e-privacy-XXXII.html'),
     ('e-privacy 2022 we XXXI - Roma', '/e-privacy-XXXI.html'),

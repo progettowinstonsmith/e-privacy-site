@@ -27,7 +27,7 @@ css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtit
 e-privacy XXXV @ Brescia | Rete | streaming
 ===============================
 
-<div class="title-XXXI">«IA: Tecnologia, Etica e Privacy»</div>
+<div class="title-XXXI">«Privacy: tante norme, poca protezione»</div>
 <div class="subtitle-XXXI">Quali reali tutele è in grado di offrire l’Europa, a fronte di tecnologie sempre più invasive, più sofisticate e più veloci nella loro diffusione? Sono sufficienti norme come il GDPR o l’AI act per frenare i sistemi che saranno disponibili fra due anni quando questo Regolamento troverà piena applicazione?</div>
 <br/>
 
