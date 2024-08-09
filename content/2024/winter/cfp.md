@@ -1,35 +1,35 @@
 Template: event
 XStatus: draft
 slug: e-privacy-XXXV-cfp
-Title: IA: Tecnologia, Etica e Privacy
-Date: 2024-09-13 12:05:00
+Title: Privacy: tante norme, poca protezione
+Date: 2024-08-10 23:00:00
 Category: 2024
 lang: it
 Num: XXXV
 Year: 2024
 City: BRESCIA
-Where: Pisa & Videoconferenza & Streaming
-When: 23-34 novembre
+Where: Brescia & Videoconferenza & Streaming
+When: 30-31 ottobre
 Season: winter
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2023S
+previd: 2024
 prev: e-privacy-XXXIV
 nextid:
 next:
+timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Collaboratori: 
 Patrocini: 
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-timeline: 20 ottobre | 27 ottobre | 17 novembre
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
 
-<div class="title-XXXI">«IA: Tecnologia, Etica e Privacy»</div>
-<div class="subtitle-XXXI">un impegnativo viaggio per i prossimi cambiamenti sociali; il dibattito si alterna tra etica e tecnologia, ma non deve trascurare la privacy</div>
-<br/>
-
-e-privacy XXXIII @ Pisa | Rete | streaming
+e-privacy XXXV @ Brescia | Rete | streaming
 ===============================
+
+<div class="title-XXXI">«IA: Tecnologia, Etica e Privacy»</div>
+<div class="subtitle-XXXI">Quali reali tutele è in grado di offrire l’Europa, a fronte di tecnologie sempre più invasive, più sofisticate e più veloci nella loro diffusione? Sono sufficienti norme come il GDPR o l’AI act per frenare i sistemi che saranno disponibili fra due anni quando questo Regolamento troverà piena applicazione?</div>
+<br/>
 
 Call for Paper
 --------------
@@ -37,34 +37,37 @@ Call for Paper
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Human Rights*
  sono lieti di invitarti come relatore 
 alla trentunesima edizione di e-privacy, che si terrà in
-modalità mista, presenza + videoconferenza **il 23 e 24 novembre 2023 a Pisa.**
+modalità mista, presenza e videoconferenza **il 30 e 31 ottobre 2024 a Brescia.**
 
-Il CfP si chiuderà il 20 ottobre 2023.
+Il CfP si chiuderà il 30 settembre 2024.
 
-La comunicazione di accettazione sarà entro il 27 ottobre 2023.
+La comunicazione di accettazione sarà entro il 7 ottobre 2024.
 
-Le slide dovranno essere inviate entro il 17 novembre 2023.
+Le slide dovranno essere inviate entro il 21 ottobre 2024.
 
 
 Il tema
 -------
 
-Il successo del tema della scorsa edizione, in cui la maggior parte dei relatori ha presentato relazioni in tema ci ha convinto di proporre una "seconda puntata", con esattamente lo stesso tema.
+C’è chi parla di costellazione, mentre il prof. Pizzetti ha paragonato il sistema normativo UE ad un mosaico; al di là delle immagini, però, è un dato di fatto che la normativa UE è sempre più complessa e stratificata, senza voler considerare il rapporto con le norme nazionali come ulteriore elemento di complessità. 
 
-Parleremo, tanto per cambiare, di una società in cui una sorveglianza di massa viene considerata "accettabile" da una maggioranza della popolazione, spaventata da criminalità e pandemia. Siamo nelle migliori condizioni per riscrivere le più fosche pagine dei libri di storia e della letteratura distopica.
+Il recente AI Act già in copertina si propone di modificare ben nove normative europee. Il GDPR avrebbe dovuto costituire una sorta di testo unico per la protezione dei dati personali, ma nel 2016 è arrivato in compagnia della Direttiva 680 per le indagini di polizia e dalla Direttiva 681 per il trattamento dei dati di polizia; nel corso degli anni si sono aggiunte norme sul commercio elettronico, sulle telecomunicazioni, sulle piattaforme, sull’intelligenza artificiale…
 
-Se solo ieri i sistemi algoritmici e di deep learning venivano osannati, come dispensatori di benessere e giustizia, pur avendo creato problemi nuovi, essendo viziati dagli stessi pregiudizi dei loro programmatori e dei dati raccolti in modo distorto e poi utilizzati per il loro addestramento, cosa potrà accadere oggi, ora che Modelli Linguistici ben funzionanti e che interagiscono con gli utenti con un linguaggio accattivante e forbito verranno venduti come oracoli di quella verità di cui non conoscono niente?
+Il lodevole obiettivo di far diventare l’Europa uno spazio protetto e sicuro va a scontrarsi, da un lato, con tecnologie sempre più invasive e pervasive, dall’altro con una bulimia normativa che rende difficile, anche per esperti di assoluto livello, essere costantemente aggiornati sull’intero quadro. 
 
-Non si tratta solo dell'ennesima rivoluzione tecnologica, ma di una delle più grandi operazioni commerciali nel campo della tecnologia, volta non a creare un nuovo mercato ed i conseguenti vantaggi finanziari.
+Il rischio di essersi persi un articolo, un comma, un codicillo disperso in qualche norma apparentemente non impattante è costante e concreto. Inevitabilmente il legislatore è chiamato a governare un fenomeno in continuo sviluppo. 
 
-Si tratta del tentativo di far accettare, come qualche anno orsono fu per il riconoscimento facciale, una tecnologia, che fornisce ottimi risultati solo in campi ristretti, come la soluzione ad ogni problema, rendendola vettore per un ulteriore salto di qualità e quantità nel tecnocontrollo generalizzato della popolazione.
+Si assiste ad una corposa produzione normativa europea, integrata dalle leggi nazionali: ma riuscirà concretamente a contenere l'invasività dell'AI e delle nuove tecnologie? Le sanzioni saranno applicabili e sufficienti?
 
-Niente limiterà l’abuso sistematico dei nostri dati personali, che finiscono per essere illegalmente acquisiti vendemmiandoli in Rete ed utilizzandoli per creare ed allenare il sistemi . È così implementato un controllo di massa su base tecnologica, non normato a priori e senza limiti precostituiti
+In ogni caso la globalità della Rete non consente di agire efficacemente con azioni giuridiche mirate; pensiamo banalmente al Registro delle Opposizioni, che, nella pratica, serve soprattutto a fornire il nostro numero di telefono ai call center localizzati al di fuori dell’UE.
 
-Tali sistemi, eredi di manipolazioni avvenute nel recente passato come quelle di Cambridge Analytica, saranno presto in grado di determinare, di riflesso ed in tempo reale il comportamento delle persone, anche nel mondo fisico.
+Neppure possiamo riporre tante speranze nelle soluzioni tecniche, dato che lo sforzo di tanti encomiabili volontari non potrà mai competere con le risorse, praticamente illimitate, che le big del WEB possono mettere a disposizione dei migliori cervelli disponibili sulla piazza. 
 
-La domanda fondamentale è: possono esistere sistemi alimentati da dati biometrici utilizzabili per fini socialmente utili e rispettosi dei diritti civili i cui rischi non trascendano l’utilità? Chi sta assumendo la responsabilità per la cospicua sottrazione di libertà che questi sistemi introducono? Siamo in grado di verificarne il potere?
-E soprattutto, saremo in grado di convincere non solo le aziende ed i governi, ma anche i semplici cittadini a porre freni ad una tecnologia cosi accattivante, gentile, utile, fuffosa .. insomma così (apparentemente) gentle ed "umana".
+L'Intelligenza Artificiale è ormai in mezzo a noi: in banca si occupa di analisi dei dati, in sanità è in grado di velocizzare le indagini diagnostiche, nell'ambito legale conduce ricerche in pochi secondi. Si parla e si scrive molto sul tema, in un dibattito che oscilla fra la fiducia in un "mondo migliore" ed lo scetticismo di coloro che guardano alle conseguenze di una diffusione incontrollata.
+
+Dobbiamo rassegnarci? l’AI potrà aiutare a rendere efficaci i buoni propositi normativi del Vecchio Continente? Ci potranno essere soluzioni tecniche per mitigare gli effetti negativi delle tecnologie di oggi e di domani (perché del dopodomani non v’è certezza)?
+
+Vogliamo riflettere su questi temi nella prossima edizione di e-privacy, che si terrà a Brescia il prossimo ottobre: aspettiamo la tua proposta!
 
 
 Il convegno
@@ -106,14 +109,14 @@ Le proposte dovranno contenere:
 
 Le proposte dovranno essere presentate utilizzando il form disponibile
 in questa
-[**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXXIII-proposta.html),
-e dovranno pervenire al comitato scientifico **entro il termine ultimo del 20 ottobre 2023**
+[**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXXV-proposta.html),
+e dovranno pervenire al comitato scientifico **entro il termine ultimo del 30 settembre 2024**
 
-L'accettazione o meno delle proposte sarà comunicata **entro il 27 ottobre 2023**.
+L'accettazione o meno delle proposte sarà comunicata **entro il 7 ottobre 2024**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
 forma elettronica sul form online in seguito comunicato ai relatori.
-**entro il 17 novembre 2023**.
+**entro il 21 ottobre 2024**.
 
 Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 
