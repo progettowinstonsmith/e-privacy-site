@@ -33,15 +33,14 @@ La sede del Convegno è l'Ordine degli Ingegneri di Brescia, Via Cefalonia, 70, 
 
 <h2>Come arrivare in aereo</h2>
 
-Numerosi voli nazionali arrivano all'Aereoporto .
+TBD.
 
 <h2>Come arrivare in auto</h2>
 
-E' possibile parcheggiare direttamente al parcheggio.
-
+TBD
 
 <h2>Come arrivare in treno</h2>
 
-C'è bisogno di spiegarlo?
+TBD
 
 
