@@ -20,7 +20,7 @@ EVENT_PATH = 'content/2024/winter/'
 YEAR = u'2024'
 EDITION = 'winter'
 SITENAME = u'e-privacy 2024 winter: Privacy: tante norme, poca protezione'
-IMAGE='e-privacy-XXXIV.png'  
+IMAGE='e-privacy-XXXV.png'  
 
 COUNTDOWN = False
 EVENT_TIME = '2024/10/30 10:00'
