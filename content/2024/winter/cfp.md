@@ -43,7 +43,7 @@ Il CfP si chiuderà il 30 settembre 2024.
 
 La comunicazione di accettazione sarà entro il 7 ottobre 2024.
 
-Le slide dovranno essere inviate entro il 21 ottobre 2024.
+Le slide dovranno essere inviate entro il 21 ottobre 2024. 
 
 
 Il tema
