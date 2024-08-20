@@ -37,7 +37,7 @@ Call for Paper
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Human Rights*
  sono lieti di invitarti come relatore 
 alla trentunesima edizione di e-privacy, che si terrà in
-modalità mista, presenza e videoconferenza **il 30 e 31 ottobre 2024 a Brescia.**
+modalità mista, presenza e videoconferenza **il 30 e 31 ottobre 2024 a Brescia.**, presso la [sede dell'Ordine degli Ingegneri di Brescia](./e-privacy-XXXV-come-arrivare.html), Via Cefalonia 70.
 
 Il CfP si chiuderà il 30 settembre 2024.
 

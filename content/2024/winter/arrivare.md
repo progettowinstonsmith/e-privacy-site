@@ -39,7 +39,7 @@ Informazioni complete su [Brescia Tourism](https://www.bresciatourism.it/info-ut
 
 <h2>Come arrivare in auto</h2>
 
-Raggiungibile con l’autostrada A4 Milano e Venezia (E64), con la A35 Brescia – Bergamo – Milanoe con la A21 Torino – Piacenza – Cremona – Brescia (E70).
+Raggiungibile con l’autostrada A4 Milano e Venezia (E64), con la A35 Brescia – Bergamo – Milano e con la A21 Torino – Piacenza – Cremona – Brescia (E70).
 <br>
 Per le autostrade A4 e A21 è consigliata l'uscita di Brescia Centro.
 <br>
