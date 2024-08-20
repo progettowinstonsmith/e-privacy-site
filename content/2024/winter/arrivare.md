@@ -24,7 +24,9 @@ css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subti
 La sede del Convegno è l'Ordine degli Ingegneri di Brescia, Via Cefalonia, 70, 25124 Brescia.
 <br>
 <br>
-<img src="/images/sale/ingresso_sala_infopoint_firenze.png">
+<img src="/images/sale/brescia_sede_ordine.jpg">
+<br>
+<img src="/images/sale/brescia_sala_ordine.jpg">
 
 <br>
 
@@ -33,14 +35,24 @@ La sede del Convegno è l'Ordine degli Ingegneri di Brescia, Via Cefalonia, 70, 
 
 <h2>Come arrivare in aereo</h2> 
 
-TBD.
+Informazioni complete su [Brescia Tourism](https://www.bresciatourism.it/info-utili/come-arrivare-a-brescia/in-aereo/).
 
 <h2>Come arrivare in auto</h2>
 
-TBD
+Raggiungibile con l’autostrada A4 Milano e Venezia (E64), con la A35 Brescia – Bergamo – Milanoe con la A21 Torino – Piacenza – Cremona – Brescia (E70).
+<br>
+Per le autostrade A4 e A21 è consigliata l'uscita di Brescia Centro.
+<br>
+E' possibile parcheggiare direttamente al parcheggio sotto la sede del Convegno (parcheggio Crystal - accesso da via Aldo Moro 17 – Brescia).
+<br>
+In alternativa si può posteggiare al parcheggio Stazione (ingressi e uscite in V.le Stazione e in Via Solferino – Brescia) e raggiungere la sede come da Come arrivare in treno.
+
 
 <h2>Come arrivare in treno</h2>
 
-TBD
+La sede è raggiungibile usando la linea metropolitana (da fermata Stazione direzione San Eufemia - Buffolora) - una fermata (scendere a Bresciadue).
+<br>
+Per chi fosse più atletico: la sede è a circa 1 km di cammino dalla stazione.
+
 
 
