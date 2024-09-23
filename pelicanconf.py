@@ -151,7 +151,7 @@ LINKS = (
     ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
     ('Maillist Sikurezza.org', 'https://www.sikurezza.org/'),
     ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
-    ('Centro HERMES', 'http://logioshermes.org/'),
+    ('Centro HERMES', 'https://hermescenter.org/'),
     ('Cassandra Crossing', 'https://www.cassandracrossing.org/'),
     ('Aneddotica Magazine', 'https://www.aneddoticamagazine.com/it/'),
 )

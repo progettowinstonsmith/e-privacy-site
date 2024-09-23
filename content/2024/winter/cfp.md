@@ -155,7 +155,7 @@ come adesione morale ai temi ed ai principi.
 La manifestazione e' organizzata da:
 
 -   [**Progetto Winston Smith**](http://pws.winstonsmith.org/)
--   [**HERMES**](http://logioshermes.org/) - Centro Studi Trasparenza e
+-   [**HERMES**](http://hermescenter.org/) - Centro Studi Trasparenza e
     Diritti Umani Digitali
 
 e da altre organizzazioni, aziende ed associazioni.

@@ -403,7 +403,7 @@ Efrem Zugnaz, opera nel settore IT da piu' di trent'anni. Attualmente si occupa 
 La manifestazione e’ organizzata da:
 
   - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
-  - [HERMES](http://logioshermes.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
+  - [HERMES](http://hermescenter.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
 
 
 ### Contatti
