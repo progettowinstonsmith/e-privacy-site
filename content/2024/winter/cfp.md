@@ -31,8 +31,10 @@ e-privacy XXXV @ Brescia | Rete | streaming
 <div class="subtitle-XXXI">Quali reali tutele è in grado di offrire l’Europa, a fronte di tecnologie sempre più invasive, più sofisticate e più veloci nella loro diffusione? Sono sufficienti norme come il GDPR o l’AI act per frenare i sistemi che saranno disponibili fra due anni quando questo Regolamento troverà piena applicazione?</div>
 <br/>
 
-Call for Paper
+Call for Paper - il CfP è chiuso
 --------------
+
+**Il CfP è chiuso**
 
 Il *Progetto Winston Smith* e l'*Hermes Center for Transparency and Digital Human Rights*
  sono lieti di invitarti come relatore 
@@ -109,7 +111,7 @@ Le proposte dovranno contenere:
 
 Le proposte dovranno essere presentate utilizzando il form disponibile
 in questa
-[**pagina**](http://e-privacy.winstonsmith.org/e-privacy-XXXV-proposta.html),
+[**pagina**](http://e-privacy.winstonsmith.org/),
 e dovranno pervenire al comitato scientifico **entro il termine ultimo del 30 settembre 2024**
 
 L'accettazione o meno delle proposte sarà comunicata **entro il 7 ottobre 2024**.
