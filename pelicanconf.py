@@ -80,14 +80,14 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-#     ('Il programma', '/e-privacy-XXXIV-cfp.html'),
-#     ('Gli interventi', '/e-privacy-XXXIV-interventi.html'),
-#     ('I relatori', '/e-privacy-XXXIV-relatori.html'),
+     ('Il programma', '/e-privacy-XXXV-programma.html'),
+     ('Gli interventi', '/e-privacy-XXXV-interventi.html'),
+     ('I relatori', '/e-privacy-XXXV-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
      ('Call for Paper', '/e-privacy-XXXV-cfp.html'),
 #     ('Proposta Talk', '/e-privacy-XXXV-proposta.html'),
      ('Call for Sponsor', '/e-privacy-XXXV-cfs.html'),
-#    ('FAQ per i relatori', '/e-privacy-XXXIV-faq-relatori.html'),
+     ('FAQ per i relatori', '/e-privacy-XXXV-faq-relatori.html'),
 #     ('Slides', '/consegna-slides.html'),
      ('Come arrivare', '/e-privacy-XXXV-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),

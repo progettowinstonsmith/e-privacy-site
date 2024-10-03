@@ -17,12 +17,7 @@ nextid:
 next:
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
-Collaboratori: 
-Patrocini: 
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
-MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
-
 
 ## <a name="talks"></a>Gli interventi
 

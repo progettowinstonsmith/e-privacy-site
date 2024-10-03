@@ -2,7 +2,7 @@ slug: e-privacy-XXXV-programma
 Template: event
 XStatus: draft
 Title: Privacy: tante norme, poca protezione
-Date: 2024-08-10 23:00:00
+Date: 2024-08-11 23:00:00
 Category: 2024
 lang: it
 Num: XXXV
@@ -18,16 +18,16 @@ next:
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Collaboratori: 
-Patrocini: 
+Patrocini:   
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-css: .title-XXXI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXI { font: 18px arial, sans-serif; text-align: center; }
+css: .title-XXXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXV { font: 18px arial, sans-serif; text-align: center; }
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 e-privacy XXXV @ Brescia
 ===============================
 
-Il ** 30 e 31 ottobre 2024 **  a Firenze  si svolgerà **e-privacy 2024
+Il ** 30 e 31 ottobre 2024 **  a Brescia  si svolgerà **e-privacy 2024
 _winter edition_**.
 
 Il tema guida della XXXV edizione di e-privacy è:
@@ -65,12 +65,12 @@ Il tema guida della XXXV edizione di e-privacy è:
 12:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
-#### <a name="vep"></a>Mercoledì 31 ottobre 2024 - pomeriggio
+#### <a name="vep"></a>Mercoledì 30 ottobre 2024 - pomeriggio
 
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 
-* Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a>
+* Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> 
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
