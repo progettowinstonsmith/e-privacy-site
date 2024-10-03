@@ -570,8 +570,11 @@ def read_db(service, range,
             continue
         if len(row[1]):
             info = dict(zip(HEADERS, row))
-            del info[""]
-            del info["_"]
+            try:
+                del info[""]
+                del info["_"]
+            except:
+                pass
             info['label'] = info['label'].lower()
             if 'pers' in info:
                 info['pers'] = info['pers'].lower()
