@@ -54,7 +54,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
-09:30|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Moneta elettronica e altri traccianti»</em></span>
+09:30|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Privacy: tante norme, poca protezione»</em></span>
 09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
 10:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?</a></em></span>
 10:20|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">GESTIONE DEL RISCHIO, POCA PROTEZIONE NONOSTANTE LE NORME</a></em></span>
