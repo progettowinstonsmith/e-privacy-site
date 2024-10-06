@@ -2,7 +2,7 @@ Template: event
 XStatus: draft
 slug: e-privacy-XXXV-cfp
 Title: Privacy: tante norme, poca protezione
-Date: 2024-08-10 23:00:00
+Date: 2024-08-12 23:00:00
 Category: 2024
 lang: it
 Num: XXXV
