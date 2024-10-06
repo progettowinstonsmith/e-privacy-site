@@ -18,7 +18,6 @@ next:
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Collaboratori: 
-Patrocini:   
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 css: .title-XXXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXV { font: 18px arial, sans-serif; text-align: center; }
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
@@ -30,7 +29,7 @@ e-privacy XXXV @ Brescia
 Il ** 30 e 31 ottobre 2024 **  a Brescia  si svolgerà **e-privacy 2024
 _winter edition_**.
 
-Il tema guida della XXXV edizione di e-privacy è:
+Il tema guida della XXXV edizione di e-p rivacy è:
 
 <div class="title-XXXV">«Privacy: tante norme, poca protezione»</div>
 
@@ -70,19 +69,19 @@ Il tema guida della XXXV edizione di e-privacy è:
 <!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
 
 
-* Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> 
+* Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
-15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">curriculum-not-found(zanoni)  </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
-15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">curriculum-not-found(chiesa)  </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
+15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
+15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
 16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">curriculum-not-found(fasano)  </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
 17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marmo">Roberto Marmo </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#marmo">Prompt di ChatGPT e Perplexity per scoprire i propri dati personali.</a></em></span>
-17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">curriculum-not-found(montillo)  </a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
+17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina

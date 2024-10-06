@@ -104,6 +104,12 @@ Alessandra Bormioli è giornalista professionista e attivista per i diritti digi
 
 
 
+#### <a name="chiesa"></a> Raoul “Nobody” Chiesa (Security Brokers SCpA)
+
+Socio Fondatore e Presidente di Security Brokers SCpA - Società Cooperativa per Azioni Raoul "Nobody" Chiesa è nato a Torino nel 1973. Dopo essere stato tra i primi hacker italiani a cavallo tra gli anni '80 e '90 (1986- 1995), Raoul decide nel 1997 di muoversi verso l'Information Security professionale e fonda una delle prime società italiane di «security advisory» vendor-neutral; lascia l’azienda nel 2012 per fondare “Security Brokers», un "think-tank" altamente innovativo nel mondo dell'Information Security Consulting di alta fascia, una "cooperativa di cyber esperti" con background molto differenti e complementari.  Sono però l’amore e la passione che nutre per il mondo dell’InfoSec che hanno reso Raoul uno dei maggiori e più riconosciuti esperti a livello mondiale.  In vent’anni di carriera «Nobody» è arrivato a ricoprire importanti ruoli presso diverse Associazioni, Enti e security community, sia nazionali che internazionali: nel 2000 è uno dei soci fondatori del CLUSIT (Associazione Italiana per la Sicurezza Informatica), dal 2002 è membro del Comitato Direttivo dell'ISECOM e del Board dell'OWASP Italian Chapter, è stato per tre anni tra i coordinatori del Gruppo di Lavoro «Cyber World» presso il CASD/OSN (Centro Alti Studi per la Difesa / Osservatorio per la Sicurezza Nazionale) e membro dell'Osservatorio Italiano Sicurezza & Privacy (AIP/OPSI); nel 2013 viene scelto come coordinatore per l'Italia del capitolo europeo di APWG.EU (Anti-Phishing Working Group) e nel 2015 viene eletto nel Consiglio Direttivo dell’AIIC (Associazione Italiana esperti di Infrastrutture Critiche).  A livello istituzionale, dal 2003 ha iniziato la sua collaborazione con l'agenzia delle Nazioni Unite "UNICRI" (United Nations Interregional Crime and Justice Research Institute), come ideatore del progetto "HPP", l'Hackers Profiling Project, noto in tutto il mondo; oggi il suo ruolo di consulente esterno presso l'UNICRI è quello di "Special Advisor on Cybercrime Issues and Hackers Profiling".  Nel 2010 è l’Europa a chiamarlo: Raoul è il primo esperto di sicurezza italiano ad essere selezionato, come membro del PSG (Permanent Stakeholders Group) tramite chiamata «ad personam» dal Direttore della stessa agenzia ENISA, la European Union Network & Information Security Agency; il PSG è un gruppo selezionato di 30 professionisti, provenienti da tutti i Member States dell’EU e con mandato personale di due anni e mezzo; Raoul è nel PSG nel biennio 2010-2012 e gli viene poi riconfermato il mandato del 2013-2015. Sempre nel 2015 viene chiamato a far parte del prestigioso Roster of Experts in Cybersecurity dell’ITU, l’International Telecommunication Union delle Nazioni Unite, oltre che Subject Matter Expert all’ADETEF (che raduna 9 differenti Ministeri francesi) @ENCYSEC (Enhancing Cyber Security), progetto transnazionale dell’Unione Europea. Dal 2016 Raoul è il punto di contatto presso ECSO (European Organization for Cybersecurity) in rappresentanza di Security Brokers, socio fondatore insieme ad EOS (European Organization for Security) all’interno della stessa ECSO, in PPP con la Commissione Europea.  E' autore di numerose pubblicazioni, cartacee ed on-line, di settore e generaliste, sia in Italia che all'estero (Apogeo Editore, Feltrinelli, Hoepli, McGrawHill, Taylor&Francis Group/CRC Press, Sperling&Kupfler) ed ospite in trasmissioni (TV, radio) nazionali ed estere sin dal 1996 (Rai, Mediaset, SKY, TV2000, BBC, Bloomberg, Wall Street Journal, ecc)
+
+
+
 #### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
 
 Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e privacy).&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
@@ -113,6 +119,12 @@ Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e
 #### <a name="falzone"></a> Eric Falzone (EUCS)
 
 Consulente esperto in "law compliance", specializzato in privacy, intelligenza artificiale, cybersecurity, digitalizzazione, computer forensics, e-health, informatica giuridica, diritto dell’informatica, diritto internet, diritto delle nuove tecnologie, diritto tributario informatico e organizzazione aziendale digitale.
+
+
+
+#### <a name="fasano"></a> Gianluca Fasano 
+
+(non ancora comunicato)
 
 
 
@@ -158,9 +170,21 @@ Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certifi
 
 
 
+#### <a name="montillo"></a> Antonio Montillo (Digital Value Cybersecurity)
+
+Esperto Red Teamer e Professionista di Cybersecurity con quasi 20 anni di esperienza. Specializzato in attività di Red Team, Penetration Testing , Ingegneria Sociale, Incident handling, Threat Intelligence. Docente nell'ambito della sicurezza informatica. Relatore in numerosi eventi a tema cybersecurity in Europa ed in Asia.
+
+
+
 #### <a name="pedalina"></a> Angela Pedalina (Associazione Lawboat.ch)
 
 Data Protection Consultant, Formatrice Aziendale, Giurista e Criminologa specializzata in Diritto di Internet e delle nuove Tecnologie. Vice presidente e Cofounder di Lawboat.ch, Sociale responsabile dell'area legale di Informatich Sagl
+
+
+
+#### <a name="zanoni"></a> Gabriele Zanoni 
+
+Gabriele Zanoni è un esperto di sicurezza informatica con oltre 16 anni di esperienza nel settore. Nel suo ruolo attuale supporta aziende globali nel valutare la propria postura cyber e nel definire roadmap strategiche per affrontare le minacce più sofisticate e rilevanti. Gabriele ha un solido background tecnico in ethical hacking, threat intelligence, incident response e cloud security. Appassionato di innovazione e sensibilizzazione sulla sicurezza informatica, Gabriele partecipa regolarmente come relatore a conferenze su temi legati alla cybersecurity.
 
 
 

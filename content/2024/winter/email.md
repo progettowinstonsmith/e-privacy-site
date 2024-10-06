@@ -69,13 +69,13 @@ Il tema guida della XXXV edizione di e-privacy è:
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
-15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">curriculum-not-found(zanoni)  </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
-15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">curriculum-not-found(chiesa)  </a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
+15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
+15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
 16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">curriculum-not-found(fasano)  </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
 17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marmo">Roberto Marmo </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#marmo">Prompt di ChatGPT e Perplexity per scoprire i propri dati personali.</a></em></span>
-17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">curriculum-not-found(montillo)  </a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
+17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina
@@ -122,7 +122,7 @@ Nell'era dell'IA, i diritti digitali sono sempre più sotto pressione. Questo in
 
 
 #### <a name="chiesa"></a> e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus<a href="/e-privacy-XXXV-programma.html#1p03">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#chiesa">curriculum-not-found(chiesa)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a>*
 
 "I leak del ""caso Snowden"" hanno disegnato un nuovo confine nel mondo dell'Intelligence e delle ""Cyber Operations"". &#13;&#10;Questa presentazione analizzerà alcuni concetti di data breach e violazioni della privacy da parte di attori Nation-State dopo il c.d. ""Datagate Affair"" (lo scandalo NSA), insieme a recenti avvenimenti da Kiev a Beirut, passando per Caracas, per poi focalizzarsi  sul concetto di Democrazia e controllo massivo nel 21esimo secolo."
 
@@ -140,7 +140,7 @@ La relazione verte sulla problematica relativa al controllo geopolitico e di mas
 
 
 #### <a name="fasano"></a> Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali<a href="/e-privacy-XXXV-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#fasano">curriculum-not-found(fasano)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a>*
 
 Utilizziamo sempre di più artefatti non per facilitare il compimento di un’azione, un’attività o un’operazione che abbiamo già pianificato, bensì per assumere decisioni. La delega compu-decisionale varia significativamente a seconda della complessità delle decisioni da assumere, del livello di automazione e del corrispondente grado dell’intervento umano. &#13;&#10;E' proprio sul rapporto tra grado di automazione e intervento umano che si incentrano le tutele previste dal Regolamento europeo sul trattamento dei dati personali. Tuttavia, subordinare le tutele normative ad un’indagine circa la complessità delle diverse dinamiche che caratterizzano i processi decisionali automatizzati, alla ricerca di evidenze sulla prevalenza dell’uno o dell’altro fattore in contesti formati da reti complesse di input, algoritmi, dati e interventi umani, rischia di dissolvere le tutele stesse. &#13;&#10;La recente sentenza della Corte di giustizia (C-634/21, Schufa) pur offrendo un’interpretazione estensiva della nozione di decisione automatizzata, consente di mettere in luce, ancora una volta, le fragilità delle tutele costruite per le libertà fondamentali.
 
@@ -194,7 +194,7 @@ Lo sviluppo tecnologico e la rapida e crescente digitalizzazione in tutti gli as
 
 
 #### <a name="montillo"></a> Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.<a href="/e-privacy-XXXV-programma.html#1p07">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#montillo">curriculum-not-found(montillo)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a>*
 
 Nell’era digitale contemporanea, la protezione della privacy e la garanzia di comunicazioni sicure sono diventate questioni fondamentali per l’autonomia individuale e collettiva. Le tecnologie della liberazione, che includono strumenti e pratiche progettate per difendere la libertà e la sicurezza degli utenti, giocano un ruolo chiave in questo contesto. Queste tecnologie comprendono l’uso di protocolli di crittografia avanzati, piattaforme di comunicazione decentralizzate e software open source, tutti finalizzati a garantire la riservatezza e la sicurezza delle interazioni digitali, preservando i diritti alla privacy e alla libertà di espressione.&#13;&#10;&#13;&#10;Il tema di questo intervento si focalizza sull’evoluzione delle tecnologie della liberazione e sul loro impatto concreto nel rafforzamento della privacy digitale e delle comunicazioni sicure. Attraverso un’analisi delle principali soluzioni disponibili oggi, come la crittografia end-to-end, la decentralizzazione delle reti di comunicazione e l’uso di blockchain per la protezione dell’identità digitale, l'intervento illustrerà come queste tecnologie siano strumenti essenziali per difendere l’individuo dalle minacce rappresentate dalla sorveglianza di massa, dalla censura e dalle violazioni della privacy.&#13;&#10;&#13;&#10;Un’attenzione particolare sarà rivolta al ruolo della crittografia come fondamento per la protezione della privacy. La crittografia non è solo uno strumento tecnico, ma anche un potente mezzo per garantire il rispetto dei diritti fondamentali. Verranno discussi i principali protocolli crittografici utilizzati oggi, come Signal Protocol, TLS e le criptovalute basate su zero-knowledge proofs, evidenziando come essi proteggano le comunicazioni da attacchi di intercettazione e assicurino la confidenzialità dei dati trasmessi.&#13;&#10;&#13;&#10;In parallelo, verrà approfondito l’uso delle tecnologie decentralizzate, come le reti peer-to-peer e le piattaforme basate su blockchain, che offrono modelli alternativi di comunicazione e scambio di informazioni. Queste soluzioni, grazie alla loro natura distribuita e resistente alla censura, permettono di eludere i controlli centralizzati e di proteggere l’integrità dei messaggi e l’anonimato degli utenti. Saranno presentati esempi di applicazioni decentralizzate che permettono comunicazioni sicure e resistenti a interferenze esterne, come i sistemi di messaggistica decentralizzata e i progetti di identità auto-sovrana.&#13;&#10;&#13;&#10;L'intervento metterà anche in luce le sfide e le problematiche legate all’adozione di queste tecnologie. Verranno analizzati i limiti tecnici, come la scalabilità e la complessità d’uso, e le questioni etiche, come il potenziale abuso di tecnologie anonime da parte di attori malevoli. Nonostante queste problematiche, le tecnologie della liberazione rappresentano una componente essenziale per costruire un ecosistema digitale sicuro e rispettoso dei diritti dell’utente.&#13;&#10;&#13;&#10;Infine, verrà proposta una visione futura delle tecnologie della liberazione, sottolineando l’importanza di uno sviluppo continuo e inclusivo, in grado di rispondere alle nuove minacce emergenti e di adattarsi ai cambiamenti normativi. La costruzione di un ambiente digitale veramente sicuro e libero richiede la collaborazione tra ricercatori, sviluppatori, attivisti e legislatori, affinché la privacy e la sicurezza possano essere arricchite da tecnologie che mettano al centro l’individuo e il suo diritto alla riservatezza.&#13;&#10;&#13;&#10;Questo intervento invita i partecipanti a riflettere sulle opportunità e le sfide offerte dalle tecnologie della liberazione e a contribuire alla costruzione di un futuro digitale che privilegi la sicurezza, la privacy e la libertà di espressione.
 
@@ -206,7 +206,7 @@ L'intervento esplora il rapporto tra giustizia predittiva e questioni etiche, an
 
 
 #### <a name="zanoni"></a> Il ruolo della cybersecurity nell'era dell'AI<a href="/e-privacy-XXXV-programma.html#1p02">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#zanoni">curriculum-not-found(zanoni)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a>*
 
 Le minacce alle intelligenze artificiali comprendono azioni che ne potrebbero compromettere il funzionamento, la sicurezza e l'affidabilità. Gli attacchi alle AI possono anche avere conseguenze negative su privacy e sicurezza. Servono strategie di mitigazione mirate per prevenire, rilevare e limitare i danni attraverso attivita' di assessment specifiche oltre a policy per implementare correttamente l'uso della AI.
 
@@ -302,6 +302,12 @@ Alessandra Bormioli è giornalista professionista e attivista per i diritti digi
 
 
 
+#### <a name="chiesa"></a> Raoul “Nobody” Chiesa (Security Brokers SCpA)
+
+Socio Fondatore e Presidente di Security Brokers SCpA - Società Cooperativa per Azioni Raoul "Nobody" Chiesa è nato a Torino nel 1973. Dopo essere stato tra i primi hacker italiani a cavallo tra gli anni '80 e '90 (1986- 1995), Raoul decide nel 1997 di muoversi verso l'Information Security professionale e fonda una delle prime società italiane di «security advisory» vendor-neutral; lascia l’azienda nel 2012 per fondare “Security Brokers», un "think-tank" altamente innovativo nel mondo dell'Information Security Consulting di alta fascia, una "cooperativa di cyber esperti" con background molto differenti e complementari.  Sono però l’amore e la passione che nutre per il mondo dell’InfoSec che hanno reso Raoul uno dei maggiori e più riconosciuti esperti a livello mondiale.  In vent’anni di carriera «Nobody» è arrivato a ricoprire importanti ruoli presso diverse Associazioni, Enti e security community, sia nazionali che internazionali: nel 2000 è uno dei soci fondatori del CLUSIT (Associazione Italiana per la Sicurezza Informatica), dal 2002 è membro del Comitato Direttivo dell'ISECOM e del Board dell'OWASP Italian Chapter, è stato per tre anni tra i coordinatori del Gruppo di Lavoro «Cyber World» presso il CASD/OSN (Centro Alti Studi per la Difesa / Osservatorio per la Sicurezza Nazionale) e membro dell'Osservatorio Italiano Sicurezza & Privacy (AIP/OPSI); nel 2013 viene scelto come coordinatore per l'Italia del capitolo europeo di APWG.EU (Anti-Phishing Working Group) e nel 2015 viene eletto nel Consiglio Direttivo dell’AIIC (Associazione Italiana esperti di Infrastrutture Critiche).  A livello istituzionale, dal 2003 ha iniziato la sua collaborazione con l'agenzia delle Nazioni Unite "UNICRI" (United Nations Interregional Crime and Justice Research Institute), come ideatore del progetto "HPP", l'Hackers Profiling Project, noto in tutto il mondo; oggi il suo ruolo di consulente esterno presso l'UNICRI è quello di "Special Advisor on Cybercrime Issues and Hackers Profiling".  Nel 2010 è l’Europa a chiamarlo: Raoul è il primo esperto di sicurezza italiano ad essere selezionato, come membro del PSG (Permanent Stakeholders Group) tramite chiamata «ad personam» dal Direttore della stessa agenzia ENISA, la European Union Network & Information Security Agency; il PSG è un gruppo selezionato di 30 professionisti, provenienti da tutti i Member States dell’EU e con mandato personale di due anni e mezzo; Raoul è nel PSG nel biennio 2010-2012 e gli viene poi riconfermato il mandato del 2013-2015. Sempre nel 2015 viene chiamato a far parte del prestigioso Roster of Experts in Cybersecurity dell’ITU, l’International Telecommunication Union delle Nazioni Unite, oltre che Subject Matter Expert all’ADETEF (che raduna 9 differenti Ministeri francesi) @ENCYSEC (Enhancing Cyber Security), progetto transnazionale dell’Unione Europea. Dal 2016 Raoul è il punto di contatto presso ECSO (European Organization for Cybersecurity) in rappresentanza di Security Brokers, socio fondatore insieme ad EOS (European Organization for Security) all’interno della stessa ECSO, in PPP con la Commissione Europea.  E' autore di numerose pubblicazioni, cartacee ed on-line, di settore e generaliste, sia in Italia che all'estero (Apogeo Editore, Feltrinelli, Hoepli, McGrawHill, Taylor&Francis Group/CRC Press, Sperling&Kupfler) ed ospite in trasmissioni (TV, radio) nazionali ed estere sin dal 1996 (Rai, Mediaset, SKY, TV2000, BBC, Bloomberg, Wall Street Journal, ecc)
+
+
+
 #### <a name="ciurcina"></a> Marco Ciurcina (StudioLegale.it)
 
 Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e privacy).&#13;&#10;Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino.&#13;&#10;Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
@@ -311,6 +317,12 @@ Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e
 #### <a name="falzone"></a> Eric Falzone (EUCS)
 
 Consulente esperto in "law compliance", specializzato in privacy, intelligenza artificiale, cybersecurity, digitalizzazione, computer forensics, e-health, informatica giuridica, diritto dell’informatica, diritto internet, diritto delle nuove tecnologie, diritto tributario informatico e organizzazione aziendale digitale.
+
+
+
+#### <a name="fasano"></a> Gianluca Fasano 
+
+(non ancora comunicato)
 
 
 
@@ -356,9 +368,21 @@ Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certifi
 
 
 
+#### <a name="montillo"></a> Antonio Montillo (Digital Value Cybersecurity)
+
+Esperto Red Teamer e Professionista di Cybersecurity con quasi 20 anni di esperienza. Specializzato in attività di Red Team, Penetration Testing , Ingegneria Sociale, Incident handling, Threat Intelligence. Docente nell'ambito della sicurezza informatica. Relatore in numerosi eventi a tema cybersecurity in Europa ed in Asia.
+
+
+
 #### <a name="pedalina"></a> Angela Pedalina (Associazione Lawboat.ch)
 
 Data Protection Consultant, Formatrice Aziendale, Giurista e Criminologa specializzata in Diritto di Internet e delle nuove Tecnologie. Vice presidente e Cofounder di Lawboat.ch, Sociale responsabile dell'area legale di Informatich Sagl
+
+
+
+#### <a name="zanoni"></a> Gabriele Zanoni 
+
+Gabriele Zanoni è un esperto di sicurezza informatica con oltre 16 anni di esperienza nel settore. Nel suo ruolo attuale supporta aziende globali nel valutare la propria postura cyber e nel definire roadmap strategiche per affrontare le minacce più sofisticate e rilevanti. Gabriele ha un solido background tecnico in ethical hacking, threat intelligence, incident response e cloud security. Appassionato di innovazione e sensibilizzazione sulla sicurezza informatica, Gabriele partecipa regolarmente come relatore a conferenze su temi legati alla cybersecurity.
 
 
 

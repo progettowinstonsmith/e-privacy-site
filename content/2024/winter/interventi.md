@@ -19,6 +19,7 @@ timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
+
 ## <a name="talks"></a>Gli interventi
 
 #### <a name="abeti"></a> Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?<a href="/e-privacy-XXXV-programma.html#1m02">⇧</a>
@@ -46,7 +47,7 @@ Nell'era dell'IA, i diritti digitali sono sempre più sotto pressione. Questo in
 
 
 #### <a name="chiesa"></a> e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus<a href="/e-privacy-XXXV-programma.html#1p03">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#chiesa">curriculum-not-found(chiesa)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a>*
 
 "I leak del ""caso Snowden"" hanno disegnato un nuovo confine nel mondo dell'Intelligence e delle ""Cyber Operations"". &#13;&#10;Questa presentazione analizzerà alcuni concetti di data breach e violazioni della privacy da parte di attori Nation-State dopo il c.d. ""Datagate Affair"" (lo scandalo NSA), insieme a recenti avvenimenti da Kiev a Beirut, passando per Caracas, per poi focalizzarsi  sul concetto di Democrazia e controllo massivo nel 21esimo secolo."
 
@@ -64,7 +65,7 @@ La relazione verte sulla problematica relativa al controllo geopolitico e di mas
 
 
 #### <a name="fasano"></a> Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali<a href="/e-privacy-XXXV-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#fasano">curriculum-not-found(fasano)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a>*
 
 Utilizziamo sempre di più artefatti non per facilitare il compimento di un’azione, un’attività o un’operazione che abbiamo già pianificato, bensì per assumere decisioni. La delega compu-decisionale varia significativamente a seconda della complessità delle decisioni da assumere, del livello di automazione e del corrispondente grado dell’intervento umano. &#13;&#10;E' proprio sul rapporto tra grado di automazione e intervento umano che si incentrano le tutele previste dal Regolamento europeo sul trattamento dei dati personali. Tuttavia, subordinare le tutele normative ad un’indagine circa la complessità delle diverse dinamiche che caratterizzano i processi decisionali automatizzati, alla ricerca di evidenze sulla prevalenza dell’uno o dell’altro fattore in contesti formati da reti complesse di input, algoritmi, dati e interventi umani, rischia di dissolvere le tutele stesse. &#13;&#10;La recente sentenza della Corte di giustizia (C-634/21, Schufa) pur offrendo un’interpretazione estensiva della nozione di decisione automatizzata, consente di mettere in luce, ancora una volta, le fragilità delle tutele costruite per le libertà fondamentali.
 
@@ -118,7 +119,7 @@ Lo sviluppo tecnologico e la rapida e crescente digitalizzazione in tutti gli as
 
 
 #### <a name="montillo"></a> Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.<a href="/e-privacy-XXXV-programma.html#1p07">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#montillo">curriculum-not-found(montillo)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a>*
 
 Nell’era digitale contemporanea, la protezione della privacy e la garanzia di comunicazioni sicure sono diventate questioni fondamentali per l’autonomia individuale e collettiva. Le tecnologie della liberazione, che includono strumenti e pratiche progettate per difendere la libertà e la sicurezza degli utenti, giocano un ruolo chiave in questo contesto. Queste tecnologie comprendono l’uso di protocolli di crittografia avanzati, piattaforme di comunicazione decentralizzate e software open source, tutti finalizzati a garantire la riservatezza e la sicurezza delle interazioni digitali, preservando i diritti alla privacy e alla libertà di espressione.&#13;&#10;&#13;&#10;Il tema di questo intervento si focalizza sull’evoluzione delle tecnologie della liberazione e sul loro impatto concreto nel rafforzamento della privacy digitale e delle comunicazioni sicure. Attraverso un’analisi delle principali soluzioni disponibili oggi, come la crittografia end-to-end, la decentralizzazione delle reti di comunicazione e l’uso di blockchain per la protezione dell’identità digitale, l'intervento illustrerà come queste tecnologie siano strumenti essenziali per difendere l’individuo dalle minacce rappresentate dalla sorveglianza di massa, dalla censura e dalle violazioni della privacy.&#13;&#10;&#13;&#10;Un’attenzione particolare sarà rivolta al ruolo della crittografia come fondamento per la protezione della privacy. La crittografia non è solo uno strumento tecnico, ma anche un potente mezzo per garantire il rispetto dei diritti fondamentali. Verranno discussi i principali protocolli crittografici utilizzati oggi, come Signal Protocol, TLS e le criptovalute basate su zero-knowledge proofs, evidenziando come essi proteggano le comunicazioni da attacchi di intercettazione e assicurino la confidenzialità dei dati trasmessi.&#13;&#10;&#13;&#10;In parallelo, verrà approfondito l’uso delle tecnologie decentralizzate, come le reti peer-to-peer e le piattaforme basate su blockchain, che offrono modelli alternativi di comunicazione e scambio di informazioni. Queste soluzioni, grazie alla loro natura distribuita e resistente alla censura, permettono di eludere i controlli centralizzati e di proteggere l’integrità dei messaggi e l’anonimato degli utenti. Saranno presentati esempi di applicazioni decentralizzate che permettono comunicazioni sicure e resistenti a interferenze esterne, come i sistemi di messaggistica decentralizzata e i progetti di identità auto-sovrana.&#13;&#10;&#13;&#10;L'intervento metterà anche in luce le sfide e le problematiche legate all’adozione di queste tecnologie. Verranno analizzati i limiti tecnici, come la scalabilità e la complessità d’uso, e le questioni etiche, come il potenziale abuso di tecnologie anonime da parte di attori malevoli. Nonostante queste problematiche, le tecnologie della liberazione rappresentano una componente essenziale per costruire un ecosistema digitale sicuro e rispettoso dei diritti dell’utente.&#13;&#10;&#13;&#10;Infine, verrà proposta una visione futura delle tecnologie della liberazione, sottolineando l’importanza di uno sviluppo continuo e inclusivo, in grado di rispondere alle nuove minacce emergenti e di adattarsi ai cambiamenti normativi. La costruzione di un ambiente digitale veramente sicuro e libero richiede la collaborazione tra ricercatori, sviluppatori, attivisti e legislatori, affinché la privacy e la sicurezza possano essere arricchite da tecnologie che mettano al centro l’individuo e il suo diritto alla riservatezza.&#13;&#10;&#13;&#10;Questo intervento invita i partecipanti a riflettere sulle opportunità e le sfide offerte dalle tecnologie della liberazione e a contribuire alla costruzione di un futuro digitale che privilegi la sicurezza, la privacy e la libertà di espressione.
 
@@ -130,7 +131,7 @@ L'intervento esplora il rapporto tra giustizia predittiva e questioni etiche, an
 
 
 #### <a name="zanoni"></a> Il ruolo della cybersecurity nell'era dell'AI<a href="/e-privacy-XXXV-programma.html#1p02">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#zanoni">curriculum-not-found(zanoni)  </a>*
+*<a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a>*
 
 Le minacce alle intelligenze artificiali comprendono azioni che ne potrebbero compromettere il funzionamento, la sicurezza e l'affidabilità. Gli attacchi alle AI possono anche avere conseguenze negative su privacy e sicurezza. Servono strategie di mitigazione mirate per prevenire, rilevare e limitare i danni attraverso attivita' di assessment specifiche oltre a policy per implementare correttamente l'uso della AI.
 
