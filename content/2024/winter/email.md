@@ -273,13 +273,13 @@ PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
 relatore.
 
 
-### <a name='priolo'></a>Enrica Priolo (Bonadio Priolo LTF )
+### <a name='priolo'></a>Enrica Priolo 
 
 Avvocata, DPO e formatrice, specializzata in diritti umani e in legal
 tech. Le mie aree di ricerca sono principalmente la privacy,
 l'intelligenza Artificiale, i processi decisionali automatizzati e
 l'ethics by design; il mio approccio al diritto è di tipo filosofico.
-
+\
 
 ### <a name='somma'></a>Emmanuele Somma  (Progetto Winston Smith)
 

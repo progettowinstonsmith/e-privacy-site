@@ -68,7 +68,7 @@ PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come
 relatore.
 
 
-### <a name='priolo'></a>Enrica Priolo (Bonadio Priolo LTF )
+### <a name='priolo'></a>Enrica Priolo
 
 Avvocata, DPO e formatrice, specializzata in diritti umani e in legal
 tech. Le mie aree di ricerca sono principalmente la privacy,
