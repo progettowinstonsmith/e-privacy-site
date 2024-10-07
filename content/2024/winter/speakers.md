@@ -104,6 +104,12 @@ Alessandra Bormioli è giornalista professionista e attivista per i diritti digi
 
 
 
+#### <a name="brambilla"></a> Emanuele Brambilla 
+
+(non comunicato)
+
+
+
 #### <a name="chiesa"></a> Raoul “Nobody” Chiesa (Security Brokers SCpA)
 
 Socio Fondatore e Presidente di Security Brokers SCpA - Società Cooperativa per Azioni Raoul "Nobody" Chiesa è nato a Torino nel 1973. Dopo essere stato tra i primi hacker italiani a cavallo tra gli anni '80 e '90 (1986- 1995), Raoul decide nel 1997 di muoversi verso l'Information Security professionale e fonda una delle prime società italiane di «security advisory» vendor-neutral; lascia l’azienda nel 2012 per fondare “Security Brokers», un "think-tank" altamente innovativo nel mondo dell'Information Security Consulting di alta fascia, una "cooperativa di cyber esperti" con background molto differenti e complementari.  Sono però l’amore e la passione che nutre per il mondo dell’InfoSec che hanno reso Raoul uno dei maggiori e più riconosciuti esperti a livello mondiale.  In vent’anni di carriera «Nobody» è arrivato a ricoprire importanti ruoli presso diverse Associazioni, Enti e security community, sia nazionali che internazionali: nel 2000 è uno dei soci fondatori del CLUSIT (Associazione Italiana per la Sicurezza Informatica), dal 2002 è membro del Comitato Direttivo dell'ISECOM e del Board dell'OWASP Italian Chapter, è stato per tre anni tra i coordinatori del Gruppo di Lavoro «Cyber World» presso il CASD/OSN (Centro Alti Studi per la Difesa / Osservatorio per la Sicurezza Nazionale) e membro dell'Osservatorio Italiano Sicurezza & Privacy (AIP/OPSI); nel 2013 viene scelto come coordinatore per l'Italia del capitolo europeo di APWG.EU (Anti-Phishing Working Group) e nel 2015 viene eletto nel Consiglio Direttivo dell’AIIC (Associazione Italiana esperti di Infrastrutture Critiche).  A livello istituzionale, dal 2003 ha iniziato la sua collaborazione con l'agenzia delle Nazioni Unite "UNICRI" (United Nations Interregional Crime and Justice Research Institute), come ideatore del progetto "HPP", l'Hackers Profiling Project, noto in tutto il mondo; oggi il suo ruolo di consulente esterno presso l'UNICRI è quello di "Special Advisor on Cybercrime Issues and Hackers Profiling".  Nel 2010 è l’Europa a chiamarlo: Raoul è il primo esperto di sicurezza italiano ad essere selezionato, come membro del PSG (Permanent Stakeholders Group) tramite chiamata «ad personam» dal Direttore della stessa agenzia ENISA, la European Union Network & Information Security Agency; il PSG è un gruppo selezionato di 30 professionisti, provenienti da tutti i Member States dell’EU e con mandato personale di due anni e mezzo; Raoul è nel PSG nel biennio 2010-2012 e gli viene poi riconfermato il mandato del 2013-2015. Sempre nel 2015 viene chiamato a far parte del prestigioso Roster of Experts in Cybersecurity dell’ITU, l’International Telecommunication Union delle Nazioni Unite, oltre che Subject Matter Expert all’ADETEF (che raduna 9 differenti Ministeri francesi) @ENCYSEC (Enhancing Cyber Security), progetto transnazionale dell’Unione Europea. Dal 2016 Raoul è il punto di contatto presso ECSO (European Organization for Cybersecurity) in rappresentanza di Security Brokers, socio fondatore insieme ad EOS (European Organization for Security) all’interno della stessa ECSO, in PPP con la Commissione Europea.  E' autore di numerose pubblicazioni, cartacee ed on-line, di settore e generaliste, sia in Italia che all'estero (Apogeo Editore, Feltrinelli, Hoepli, McGrawHill, Taylor&Francis Group/CRC Press, Sperling&Kupfler) ed ospite in trasmissioni (TV, radio) nazionali ed estere sin dal 1996 (Rai, Mediaset, SKY, TV2000, BBC, Bloomberg, Wall Street Journal, ecc)
@@ -116,15 +122,21 @@ Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e
 
 
 
+#### <a name="dassisti"></a> Monica Dassisti (Studio Legale E-Lex)
+
+Sono la Dott.ssa Dassisti Monica, ho 26 anni e sono di origini pugliesi. Da sempre interessata alle sfide giuridiche derivanti dall'innovazione tecnologica e dal mondo digitale, attualmente sono iscritta come praticante all’albo dell’Ordine degli Avvocati di Roma e collaboro con lo studio legale E-Lex, all'interno del quale mi occupo di offrire consulenza in tema di privacy e data protection. Inoltre, partecipo a un master sull'e-commerce per accrescere le mie conoscenze riguardo l'ambito legal all'interno di quel settore.&#13;&#10;Sono laureata in Scienze Investigative e in Scienze Giuridiche della Sicurezza, con lode, presso l’Università degli Studi di Foggia, discutendo una tesi in Economia della Sicurezza e dell’Innovazione sulle problematiche di cybersecurity relative al Metaverso, dopodiché ho integrato la carriera universitaria con la laurea in Giurisprudenza.&#13;&#10;Nel 2023, grazie a una borsa di ricerca, ho sviluppato un progetto della durata di un anno in uno Studio Legale, incrementando le mie competenze in tema di cybersecurity e trattamento dei dati personali. Inoltre, sono cultrice della materia “Sicurezza informatica” presso l’Università degli Studi di Foggia.&#13;&#10;Per me è fondamentale continuare a formarsi e tenersi costantemente aggiornati sulle nuove sfide, al fine di poter ampliare sempre di più il mio bagaglio culturale e soprattutto umano, grazie al costante scambio di opinioni e idee riguardo gli argomenti più disparati nel novero del comparto legal tech.
+
+
+
 #### <a name="falzone"></a> Eric Falzone (EUCS)
 
 Consulente esperto in "law compliance", specializzato in privacy, intelligenza artificiale, cybersecurity, digitalizzazione, computer forensics, e-health, informatica giuridica, diritto dell’informatica, diritto internet, diritto delle nuove tecnologie, diritto tributario informatico e organizzazione aziendale digitale.
 
 
 
-#### <a name="fasano"></a> Gianluca Fasano 
+#### <a name="fasano"></a> gianluca fasano 
 
-Dirigente Tecnologo del Consiglio Nazionale delle Ricerche (ISTC), con un passato di avvocato del libero foro e manager in enti pubblici di ricerca. Ho partecipato a progetti di ricerca nazionali ed internazionali, collaboro con altri enti pubblici e privati nel ruolo di consultant, of consuel e teacher. Studio le intersezioni tra diritto e nuove tecnologie, ho scritto saggi ed articoli in materia di diritto pubblico, diritto dell’Unione Europea, diritti fondamentali e ho presentato su questi temi relazioni presso convegni e seminari.
+Dirigente Tecnologo del Consiglio Nazionale delle Ricerche (ISTC), con un passato di avvocato del libero foro e manager in enti pubblici di ricerca. Ho partecipato a progetti di ricerca nazionali ed internazionali, collaboro con altri enti pubblici e privati nel ruolo di consultant, of consuel e teacher. Studio le intersezioni  tra diritto e nuove tecnologie, ho scritto saggi ed articoli in materia di diritto pubblico, diritto dell’Unione Europea, diritti fondamentali e ho presentato su questi temi relazioni presso convegni e seminari.
 
 
 
@@ -137,6 +149,12 @@ Consulente Tecnico Forense iscritto all'Ordine dei Periti Industriali e Periti I
 #### <a name="fiorenza"></a> Valentina Fiorenza 
 
 Avvocato, esperta del diritto applicato alle nuove tecnologie, al marketing e ai social network. Ha&#13;&#10;conseguito il master di diritto industriale e proprietà intellettuale. Ha maturato la sua  esperienza come consulente per le attività svolte nel mondo digitale, curando la contrattualistica e gli aspetti relativi a GDPR, proprietà industriale ed intellettuale. E' particolarmente attiva nella divulgazione delle nuove normative che regolano il web attraverso il canale IG @theblondlawyer&#13;&#10;e come relatrice ospite a webinar, eventi, convegni e corsi universitari.
+
+
+
+#### <a name="giacomello"></a> Jolanda Giacomello 
+
+opo gli Studi classici, e da sempre appassionata di temi etici, mi sono laureata in Filosofia presso l’Università degli Studi di Padova, approfondendo la filosofia morale e l’estetica.Appassionata alla filosofia aristotelica ho, inoltre, approfondito il pensiero di Tommaso d’Aquino e Jaques Maritain. Dal 2001 mi occupo di consulenza e formazione in ambito privacy e sicurezza dei dati personali. Nel 2020 ho conseguito un Master in Cybersecurity
 
 
 
@@ -158,12 +176,6 @@ Luca Landucci è un esperto di digital marketing, specializzato in strategie onl
 
 
 
-#### <a name="marmo"></a> Roberto Marmo 
-
-Data Scientist, consulente e formatore sugli algoritmi con intelligenza artificiale.&#13;&#10;Professore a contratto di Informatica presso l'Università di Pavia.&#13;&#10;Autore di libri tecnici come "Informatica per il tradimento sentimentale" e "Algoritmi per l'intelligenza artificiale.&#13;&#10;Vasta esperienza nella formazione e nella programmazione software.&#13;&#10;Ho già partecipato alle edizioni in Torino e Bologna.
-
-
-
 #### <a name="mastella"></a> Stefano Mastella 
 
 Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certificato UNI11697:2017. Membro comitati tecnici UNINFO UNI/CT 519 "Tecnologie ablitanti per l'Industry 4.0" e UNINFO UNI/CT 510 "Sicurezza Security". Mi occupo di sicurezza dei dati personali e delle informazioni come consulente e formatore.
@@ -179,6 +191,12 @@ Esperto Red Teamer e Professionista di Cybersecurity con quasi 20 anni di esperi
 #### <a name="pedalina"></a> Angela Pedalina (Associazione Lawboat.ch)
 
 Data Protection Consultant, Formatrice Aziendale, Giurista e Criminologa specializzata in Diritto di Internet e delle nuove Tecnologie. Vice presidente e Cofounder di Lawboat.ch, Sociale responsabile dell'area legale di Informatich Sagl
+
+
+
+#### <a name="scarpelli"></a> Andrea Scarpellini Camilli 
+
+Andrea Scarpellini Camilli è Direttore dell'Ufficio Legale dell'ASL BAT, Azienda Sanitaria Locale in Puglia.&#13;&#10;È avvocato cassazionista specializzato nella tutela del diritto alla libertà di stampa.&#13;&#10;Ha conseguito la laurea in Giurisprudenza presso l'Università degli Studi di Bari, si è specializzato in Scienza delle Autonomie Costituzionali presso la stessa Università e ha perfezionato le sue competenze in Discipline Parlamentari presso la LUISS Guido Carli - School of Management. &#13;&#10;È anche certificato come Manager per la direzione amministrativa e generale delle aziende sanitarie.&#13;&#10;In passato è stato legale della testata "Quotidiano di Puglia" del Gruppo Editoriale Caltagirone, dal 2005 al 2018.&#13;&#10;Unitamente alla direzione dell’ufficio legale della Asl Bat, ricopre nella stessa azienda il ruolo di Data Protection Officer da ottobre 2018, assumendo anche il ruolo di RPCT (Responsabile della Prevenzione della Corruzione e della Trasparenza) nell’anno 2020.
 
 
 

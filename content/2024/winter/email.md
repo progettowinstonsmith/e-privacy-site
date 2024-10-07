@@ -51,7 +51,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 09:30|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Privacy: tante norme, poca protezione»</em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
+09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
 10:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?</a></em></span>
 10:20|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">GESTIONE DEL RISCHIO, POCA PROTEZIONE NONOSTANTE LE NORME</a></em></span>
 10:50|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">Risk Management per la privacy in ambito medicale</a></em></span>
@@ -73,8 +73,8 @@ Il tema guida della XXXV edizione di e-privacy è:
 15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
 16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
-17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marmo">Roberto Marmo </a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#marmo">Prompt di ChatGPT e Perplexity per scoprire i propri dati personali.</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
 17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
@@ -84,11 +84,11 @@ Il tema guida della XXXV edizione di e-privacy è:
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
-10:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
-10:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Diritto e digitale: niente di nuovo sul fronte occidentale</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
+10:00|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
+10:10|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Diritto e digitale: niente di nuovo sul fronte occidentale</a></em></span>
+10:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#brambilla">Privacy e dignità nel mondo digitale</a></em></span>
 11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">Giustizia predittiva e questioni etiche</a></em></span>
+11:30|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">Giustizia predittiva e questioni etiche</a></em></span>
 12:15|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXV-interventi.html#ferri">Norme e Leggi vs Ingegneria Sociale</a></em></span>
 12:35|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#landucci">Luca Landucci Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXV-interventi.html#landucci">La monetizzazione dei dati personali</a></em></span>
 13:05|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXV-relatori.html#pedalina">Angela Pedalina (Associazione Lawboat.ch)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXV-interventi.html#gobbato">Dark Pattern: conseguenze dell'indagine del Garante Privacy</a></em></span>
@@ -121,6 +121,12 @@ La conoscenza e la gestione dei rischi è elemento cardine di tutta la recente n
 Nell'era dell'IA, i diritti digitali sono sempre più sotto pressione. Questo intervento di Hermes Center esamina i rischi della sorveglianza tecnologica, sia da parte dei governi che del settore privato. Discuteremo l'importanza di una regolamentazione adeguata per bilanciare innovazione e tutela dei diritti umani, promuovendo un futuro digitale rispettoso della privacy individuale.
 
 
+#### <a name="brambilla"></a> Privacy e dignità nel mondo digitale<a href="/e-privacy-XXXV-programma.html#2m02">⇧</a>
+*<a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a>*
+
+Internet e le nuove tecnologie hanno trasformato radicalmente il modo in cui le persone vivono e interagiscono, portando la nostra società a confrontarsi con nuove questioni etiche e legali riguardanti la privacy, la protezione dei dati personali e lo statuto dell’uomo in rapporto alle proprie informazioni. L'intervento esamina l'evoluzione del concetto di privacy nella società digitale partendo dalla celebre definizione di Warren e Brandeis, ponendo poi in rilievo la stretta correlazione tra protezione dei dati personali e dignità umana. Pertanto, in primo luogo, si riflette sul significato di privacy e sulle ragioni del suo parziale cambiamento, analizzando il legame tra corpo fisico e corpo elettronico attraverso i concetti di homo numericus e infosfera. Si argomenta che paragonando i nostri dati a delle tracce digitali lasciate sul Web e capaci di identificarci in una modalità simile a quella che avviene con le nostre impronte fisiche, si riesce a comprendere il loro valore senza ricorrere ad una identificazione ontologica fra noi e le nostre tracce, che sarebbe difficile da giustificare. In questo modo, si può approfondire altresì lo statuto e il significato del “corpo elettronico”, partendo dalla definizione che diede Stefano Rodotà. L’intervento sottolinea che tale concetto possegga un ampiezza maggiore rispetto a quella dei singoli dati e che, di conseguenza, richieda un livello di protezione più elevato e attento. Tale ampiezza semantica, tiene conto della natura duale del corpo elettronico, che è considerabile sia come una mera somma di singoli dati personali sia come un insieme da cui si possono dedurre, tramite una sorta di sillogismo, ulteriori dati che non compaiono in superficie. Per giustificare la proposta di questa definizione, viene esposto un esempio che ne illustri le ragioni. L’analisi appena presentata, infine, è propedeutica all’esplorazione del concetto di dignità umana, che nella storia del pensiero filosofico ha avuto differenti interpretazioni. A questo proposito, verranno delineate le due teorie principali sulla dignità, quella della dotazione e quella della prestazione, argomentando che le prime, siccome intendono la dignità in senso ontologico, pre-giuridico e come un possesso originario inalienabile, riescono ad essere il principio fondante della protezione dei dati. Tuttavia, l’intervento propone altresì un’unione fra i due gruppi di teorie di modo che la dignità ontologica possa trovare la sua collocazione anche in campo giuridico, così da permettere che la legge ne recepisca la definizione e si impegni nella sua protezione. Infine, per evitare una possibile obiezione circa la tensione presente fra sicurezza e privacy, l’intervento propone di considerare, accanto alla dignità ontologica, il concetto di dignità morale.
+
+
 #### <a name="chiesa"></a> e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus<a href="/e-privacy-XXXV-programma.html#1p03">⇧</a>
 *<a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a>*
 
@@ -133,6 +139,12 @@ Nell'era dell'IA, i diritti digitali sono sempre più sotto pressione. Questo in
 Osservando la storia dello sviluppo del digitale e la relazione di questo processo con il diritto si rileva la ripetizione di alcuni schemi, che hanno radici antiche.&#13;&#10;Partendo da questa constatazione, si propone una mappa dei vettori di produzione normativa e dei punti di forza e debolezza del diritto nel governare il digitale. Si illustrano infine alcune delle proposte di cambiamento sistemico che, nell'attuale fase di crisi, potrebbero configurarsi all'orizzonte.
 
 
+#### <a name="dassisti"></a> IA: una maratona senza fine?<a href="/e-privacy-XXXV-programma.html#1p06">⇧</a>
+*<a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a>*
+
+Il comparto normativo si amplia sempre di più mentre si cercano di tappare le voragini che la tecnologia crea costantemente. Innovazione dopo innovazione, ci si comincia a chiedere seriamente se mai riusciremo a stare al passo con la tecnologia, ad anticiparla, ad essere addirittura una spanna avanti. Ma come ci dimostra l'AI, in particolar modo quella generativa, essa attiene a dei costrutti che ben si distanziano dal ragionamento che in grado di compiere l'essere umano, addentrandosi in strade inesplorate e spesso inimmaginabili. Questo, però, è anche il motivo per il quale l'AI riesce a offrire quel surplus che ci consente di svolgere un lavoro di squadra non di poco conto, grazie al quale il risultato raggiunto può determinarsi geniale e produttivo a livelli che forse non avevamo mai raggiunto prima. Ahimè, il legislatore (probabilmente) non è dello stesso avviso. Dal lontano 2016 si affanna per cercare di stilare un piano d'azione a medio-lungo termine, che al massimo abbia bisogno di piccoli ritocchi durante il cammino, ma senza perdere l'efficacia del muro portante. Eppure abbiamo potuto constatare non è stato così: ce l'hanno dimostrato l'AI Act, il Regolamento DORA, la NIS2, il DMA e il DSA, il DGA e tanti altri piccoli mattoncini giunti nel tentativo di riparare una torre in costante equilibrio precario. Ci chiediamo, a questo punto, se mai un giorno riusciremo anche solo per qualche istante a far stare ferma quella torre, se riusciremo a ideare delle tecniche antisismiche di massima resilienza. Ma se invece fosse l'AI stessa a poterci dare la chiave di volta, trovando un modo per prevedere le sue stesse mosse? Sarebbe una vera e propria rivoluzione riuscire a stilare un disegno di legge ancor prima che la tecnologia avanzi e lo sarebbe ancora di più se questo azzeccasse esattamente, in mezzo a infinite vie, la strada giusta che porta al punto esatto segnato sulla mappa da una grossa "X", un po' come se fosse una caccia al tesoro. Siamo destinati ad arrivare sempre al secondo o possiamo utilizzare le tecnologie emergenti per colmare il gap tra noi umani e i sistemi che noi stessi abbiamo architettato?
+
+
 #### <a name="falzone"></a> Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.<a href="/e-privacy-XXXV-programma.html#1p04">⇧</a>
 *<a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a>*
 
@@ -140,7 +152,7 @@ La relazione verte sulla problematica relativa al controllo geopolitico e di mas
 
 
 #### <a name="fasano"></a> Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali<a href="/e-privacy-XXXV-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a>*
+*<a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a>*
 
 Utilizziamo sempre di più artefatti non per facilitare il compimento di un’azione, un’attività o un’operazione che abbiamo già pianificato, bensì per assumere decisioni. La delega compu-decisionale varia significativamente a seconda della complessità delle decisioni da assumere, del livello di automazione e del corrispondente grado dell’intervento umano. &#13;&#10;E' proprio sul rapporto tra grado di automazione e intervento umano che si incentrano le tutele previste dal Regolamento europeo sul trattamento dei dati personali. Tuttavia, subordinare le tutele normative ad un’indagine circa la complessità delle diverse dinamiche che caratterizzano i processi decisionali automatizzati, alla ricerca di evidenze sulla prevalenza dell’uno o dell’altro fattore in contesti formati da reti complesse di input, algoritmi, dati e interventi umani, rischia di dissolvere le tutele stesse. &#13;&#10;La recente sentenza della Corte di giustizia (C-634/21, Schufa) pur offrendo un’interpretazione estensiva della nozione di decisione automatizzata, consente di mettere in luce, ancora una volta, le fragilità delle tutele costruite per le libertà fondamentali.
 
@@ -181,14 +193,8 @@ La ricerca delle impostazioni privacy sui siti Web è ancora ostacolata dall’u
 "Nell'era digitale i dati personali sono diventati una risorsa fondamentale, il cosidetto nuovo oro. L'attuale modello di monetizzazione, che si basa sulla raccolta e vendita di dati per fini pubblicitari, si sta dimostrando insostenibile e richiede un ripensamento radicale. Con un mercato che vale miliardi e una produzione di dati in costante aumento grazie a tecnologie come IoT, edge computing e 5G, grandi aziende dominano il settore sfruttando massivamente i dati degli utenti.&#13;&#10;Nonostante l'introduzione del GDPR, che ha stabilito importanti principi di protezione, la sua applicazione concreta spesso si riduce a pratiche poco trasparenti, come i banner per i cookie e i ""dark patterns"" che manipolano gli utenti. La monetizzazione aggressiva dei dati persiste anche a causa del grande squilibrio di potere tra le piattaforme e gli utenti.&#13;&#10;Il modello ""servizi gratuiti in cambio di dati"" ha creato esternalità negative come la sorveglianza di massa, la manipolazione delle opinioni pubbliche e la polarizzazione. Questo ha messo a rischio sia la qualità dell'informazione sia la democrazia stessa, rendendo anche inefficace il targeting pubblicitario.&#13;&#10;Anche il recente l'AI Act, che regola l'uso dei dati per l'addestramento di intelligenze artificiali, pone nuove sfide evidenziando la necessità di trovare un equilibrio tra innovazione e protezione dei dati. &#13;&#10;Questo talk esplora un futuro in cui la privacy non è più una merce di scambio, ma un diritto fondamentale e una fonte di valore. Esamineremo come tecnologie emergenti come la blockchain e l'identità auto-sovrana possano restituire agli utenti il controllo dei propri dati, aprendo la strada a nuovi modelli di business etici e sostenibili. Discuteremo le sfide e le opportunità di questa transizione, immaginando un'economia digitale in cui innovazione e privacy coesistono a beneficio di tutti."
 
 
-#### <a name="marmo"></a> Prompt di ChatGPT e Perplexity per scoprire i propri dati personali.<a href="/e-privacy-XXXV-programma.html#1p06">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#marmo">Roberto Marmo </a>*
-
-Il prompt è la richiesta scritta da mandare ai sistemi di Intelligenza Artificiale Generativa per ottenere immagini e testo desiderati. ChatGPT e Perplexity sono due importanti generatori, allenati su enormi quantità di dati. Discutiamo quali sono i prompt per sapere le informazioni che loro possiedono sulla mia vita personale. Queste richieste sono utili per sapere se ci siano violazioni della mia privacy.
-
-
-#### <a name="mastella"></a> Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.<a href="/e-privacy-XXXV-programma.html#2m02">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a>*
+#### <a name="mastella"></a> Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.<a href="/e-privacy-XXXV-programma.html#1m01">⇧</a>
+*<a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a>*
 
 Lo sviluppo tecnologico e la rapida e crescente digitalizzazione in tutti gli aspetti della vita dell’uomo, hanno reso la protezione dei dati personali una questione di fondamentale importanza a livello globale, di cui non possiamo più ignorare. Il Regolamento Generale sulla Protezione dei Dati (GDPR) e il recente AI Act, hanno rappresentato e rappresentano una svolta epocale in questo ambito, introducendo un quadro normativo rigoroso e uniforme a livello europeo. Tuttavia, l'applicazione concreta di tali norme spesso risulta farraginosa e di difficile attuazione in quanto i fattori da considerare nella effettiva protezione dei dati sono tanti e le competenze richieste sono trasversali e sempre più specifiche. &#13;&#10;Le ispezioni condotte dal Garante per la Privacy possono rappresentare uno strumento fondamentale per applicare e monitorare il rispetto della normativa e individuare le migliori pratiche in materia di protezione dei dati. Attraverso queste attività di controllo, l'Autorità contribuisce non solo a garantire i diritti degli interessati, ma anche a fornire indicazioni preziose agli esperti che si occupano di protezione dei dati personali.&#13;&#10;Approfondire le Ispezioni del Garante e analizzare i Provvedimenti aiuta a individuare le tendenze e le interpretazioni del GDPR e di tutto il quadro normativo sulla protezione dei dati, a riconoscere l’influenza e quindi l’importanza delle Linee Guida e dei Pareri, a identificare le best practices e i nuovi modelli di governance della protezione dei dati che si stanno affermando, a riflettere sulle nuove sfide che ci impongono le tecnologie emergenti.&#13;&#10;
 
@@ -200,7 +206,7 @@ Nell’era digitale contemporanea, la protezione della privacy e la garanzia di 
 
 
 #### <a name="priolo"></a> Giustizia predittiva e questioni etiche<a href="/e-privacy-XXXV-programma.html#2m03">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a>*
+*<a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a>*
 
 L'intervento esplora il rapporto tra giustizia predittiva e questioni etiche, analizzando i benefici e i rischi associati all'adozione di sistemi di IA nel sistema giuridico. Si propone una riflessione su come bilanciare il potenziale di innovazione con le necessità di responsabilità, equità e trasparenza, suggerendo possibili linee guida per un'implementazione etica della giustizia predittiva.
 
@@ -302,6 +308,12 @@ Alessandra Bormioli è giornalista professionista e attivista per i diritti digi
 
 
 
+#### <a name="brambilla"></a> Emanuele Brambilla 
+
+(non comunicato)
+
+
+
 #### <a name="chiesa"></a> Raoul “Nobody” Chiesa (Security Brokers SCpA)
 
 Socio Fondatore e Presidente di Security Brokers SCpA - Società Cooperativa per Azioni Raoul "Nobody" Chiesa è nato a Torino nel 1973. Dopo essere stato tra i primi hacker italiani a cavallo tra gli anni '80 e '90 (1986- 1995), Raoul decide nel 1997 di muoversi verso l'Information Security professionale e fonda una delle prime società italiane di «security advisory» vendor-neutral; lascia l’azienda nel 2012 per fondare “Security Brokers», un "think-tank" altamente innovativo nel mondo dell'Information Security Consulting di alta fascia, una "cooperativa di cyber esperti" con background molto differenti e complementari.  Sono però l’amore e la passione che nutre per il mondo dell’InfoSec che hanno reso Raoul uno dei maggiori e più riconosciuti esperti a livello mondiale.  In vent’anni di carriera «Nobody» è arrivato a ricoprire importanti ruoli presso diverse Associazioni, Enti e security community, sia nazionali che internazionali: nel 2000 è uno dei soci fondatori del CLUSIT (Associazione Italiana per la Sicurezza Informatica), dal 2002 è membro del Comitato Direttivo dell'ISECOM e del Board dell'OWASP Italian Chapter, è stato per tre anni tra i coordinatori del Gruppo di Lavoro «Cyber World» presso il CASD/OSN (Centro Alti Studi per la Difesa / Osservatorio per la Sicurezza Nazionale) e membro dell'Osservatorio Italiano Sicurezza & Privacy (AIP/OPSI); nel 2013 viene scelto come coordinatore per l'Italia del capitolo europeo di APWG.EU (Anti-Phishing Working Group) e nel 2015 viene eletto nel Consiglio Direttivo dell’AIIC (Associazione Italiana esperti di Infrastrutture Critiche).  A livello istituzionale, dal 2003 ha iniziato la sua collaborazione con l'agenzia delle Nazioni Unite "UNICRI" (United Nations Interregional Crime and Justice Research Institute), come ideatore del progetto "HPP", l'Hackers Profiling Project, noto in tutto il mondo; oggi il suo ruolo di consulente esterno presso l'UNICRI è quello di "Special Advisor on Cybercrime Issues and Hackers Profiling".  Nel 2010 è l’Europa a chiamarlo: Raoul è il primo esperto di sicurezza italiano ad essere selezionato, come membro del PSG (Permanent Stakeholders Group) tramite chiamata «ad personam» dal Direttore della stessa agenzia ENISA, la European Union Network & Information Security Agency; il PSG è un gruppo selezionato di 30 professionisti, provenienti da tutti i Member States dell’EU e con mandato personale di due anni e mezzo; Raoul è nel PSG nel biennio 2010-2012 e gli viene poi riconfermato il mandato del 2013-2015. Sempre nel 2015 viene chiamato a far parte del prestigioso Roster of Experts in Cybersecurity dell’ITU, l’International Telecommunication Union delle Nazioni Unite, oltre che Subject Matter Expert all’ADETEF (che raduna 9 differenti Ministeri francesi) @ENCYSEC (Enhancing Cyber Security), progetto transnazionale dell’Unione Europea. Dal 2016 Raoul è il punto di contatto presso ECSO (European Organization for Cybersecurity) in rappresentanza di Security Brokers, socio fondatore insieme ad EOS (European Organization for Security) all’interno della stessa ECSO, in PPP con la Commissione Europea.  E' autore di numerose pubblicazioni, cartacee ed on-line, di settore e generaliste, sia in Italia che all'estero (Apogeo Editore, Feltrinelli, Hoepli, McGrawHill, Taylor&Francis Group/CRC Press, Sperling&Kupfler) ed ospite in trasmissioni (TV, radio) nazionali ed estere sin dal 1996 (Rai, Mediaset, SKY, TV2000, BBC, Bloomberg, Wall Street Journal, ecc)
@@ -314,15 +326,21 @@ Marco Ciurcina, avvocato in Torino (diritto commerciale e contrattuale, IT, IP e
 
 
 
+#### <a name="dassisti"></a> Monica Dassisti (Studio Legale E-Lex)
+
+Sono la Dott.ssa Dassisti Monica, ho 26 anni e sono di origini pugliesi. Da sempre interessata alle sfide giuridiche derivanti dall'innovazione tecnologica e dal mondo digitale, attualmente sono iscritta come praticante all’albo dell’Ordine degli Avvocati di Roma e collaboro con lo studio legale E-Lex, all'interno del quale mi occupo di offrire consulenza in tema di privacy e data protection. Inoltre, partecipo a un master sull'e-commerce per accrescere le mie conoscenze riguardo l'ambito legal all'interno di quel settore.&#13;&#10;Sono laureata in Scienze Investigative e in Scienze Giuridiche della Sicurezza, con lode, presso l’Università degli Studi di Foggia, discutendo una tesi in Economia della Sicurezza e dell’Innovazione sulle problematiche di cybersecurity relative al Metaverso, dopodiché ho integrato la carriera universitaria con la laurea in Giurisprudenza.&#13;&#10;Nel 2023, grazie a una borsa di ricerca, ho sviluppato un progetto della durata di un anno in uno Studio Legale, incrementando le mie competenze in tema di cybersecurity e trattamento dei dati personali. Inoltre, sono cultrice della materia “Sicurezza informatica” presso l’Università degli Studi di Foggia.&#13;&#10;Per me è fondamentale continuare a formarsi e tenersi costantemente aggiornati sulle nuove sfide, al fine di poter ampliare sempre di più il mio bagaglio culturale e soprattutto umano, grazie al costante scambio di opinioni e idee riguardo gli argomenti più disparati nel novero del comparto legal tech.
+
+
+
 #### <a name="falzone"></a> Eric Falzone (EUCS)
 
 Consulente esperto in "law compliance", specializzato in privacy, intelligenza artificiale, cybersecurity, digitalizzazione, computer forensics, e-health, informatica giuridica, diritto dell’informatica, diritto internet, diritto delle nuove tecnologie, diritto tributario informatico e organizzazione aziendale digitale.
 
 
 
-#### <a name="fasano"></a> Gianluca Fasano 
+#### <a name="fasano"></a> gianluca fasano 
 
-(non ancora comunicato)
+Dirigente Tecnologo del Consiglio Nazionale delle Ricerche (ISTC), con un passato di avvocato del libero foro e manager in enti pubblici di ricerca. Ho partecipato a progetti di ricerca nazionali ed internazionali, collaboro con altri enti pubblici e privati nel ruolo di consultant, of consuel e teacher. Studio le intersezioni  tra diritto e nuove tecnologie, ho scritto saggi ed articoli in materia di diritto pubblico, diritto dell’Unione Europea, diritti fondamentali e ho presentato su questi temi relazioni presso convegni e seminari.
 
 
 
@@ -335,6 +353,12 @@ Consulente Tecnico Forense iscritto all'Ordine dei Periti Industriali e Periti I
 #### <a name="fiorenza"></a> Valentina Fiorenza 
 
 Avvocato, esperta del diritto applicato alle nuove tecnologie, al marketing e ai social network. Ha&#13;&#10;conseguito il master di diritto industriale e proprietà intellettuale. Ha maturato la sua  esperienza come consulente per le attività svolte nel mondo digitale, curando la contrattualistica e gli aspetti relativi a GDPR, proprietà industriale ed intellettuale. E' particolarmente attiva nella divulgazione delle nuove normative che regolano il web attraverso il canale IG @theblondlawyer&#13;&#10;e come relatrice ospite a webinar, eventi, convegni e corsi universitari.
+
+
+
+#### <a name="giacomello"></a> Jolanda Giacomello 
+
+opo gli Studi classici, e da sempre appassionata di temi etici, mi sono laureata in Filosofia presso l’Università degli Studi di Padova, approfondendo la filosofia morale e l’estetica.Appassionata alla filosofia aristotelica ho, inoltre, approfondito il pensiero di Tommaso d’Aquino e Jaques Maritain. Dal 2001 mi occupo di consulenza e formazione in ambito privacy e sicurezza dei dati personali. Nel 2020 ho conseguito un Master in Cybersecurity
 
 
 
@@ -356,12 +380,6 @@ Luca Landucci è un esperto di digital marketing, specializzato in strategie onl
 
 
 
-#### <a name="marmo"></a> Roberto Marmo 
-
-Data Scientist, consulente e formatore sugli algoritmi con intelligenza artificiale.&#13;&#10;Professore a contratto di Informatica presso l'Università di Pavia.&#13;&#10;Autore di libri tecnici come "Informatica per il tradimento sentimentale" e "Algoritmi per l'intelligenza artificiale.&#13;&#10;Vasta esperienza nella formazione e nella programmazione software.&#13;&#10;Ho già partecipato alle edizioni in Torino e Bologna.
-
-
-
 #### <a name="mastella"></a> Stefano Mastella 
 
 Ingegnere dell'informazione, master di II livello in cybersecurity e DPO certificato UNI11697:2017. Membro comitati tecnici UNINFO UNI/CT 519 "Tecnologie ablitanti per l'Industry 4.0" e UNINFO UNI/CT 510 "Sicurezza Security". Mi occupo di sicurezza dei dati personali e delle informazioni come consulente e formatore.
@@ -377,6 +395,12 @@ Esperto Red Teamer e Professionista di Cybersecurity con quasi 20 anni di esperi
 #### <a name="pedalina"></a> Angela Pedalina (Associazione Lawboat.ch)
 
 Data Protection Consultant, Formatrice Aziendale, Giurista e Criminologa specializzata in Diritto di Internet e delle nuove Tecnologie. Vice presidente e Cofounder di Lawboat.ch, Sociale responsabile dell'area legale di Informatich Sagl
+
+
+
+#### <a name="scarpelli"></a> Andrea Scarpellini Camilli 
+
+Andrea Scarpellini Camilli è Direttore dell'Ufficio Legale dell'ASL BAT, Azienda Sanitaria Locale in Puglia.&#13;&#10;È avvocato cassazionista specializzato nella tutela del diritto alla libertà di stampa.&#13;&#10;Ha conseguito la laurea in Giurisprudenza presso l'Università degli Studi di Bari, si è specializzato in Scienza delle Autonomie Costituzionali presso la stessa Università e ha perfezionato le sue competenze in Discipline Parlamentari presso la LUISS Guido Carli - School of Management. &#13;&#10;È anche certificato come Manager per la direzione amministrativa e generale delle aziende sanitarie.&#13;&#10;In passato è stato legale della testata "Quotidiano di Puglia" del Gruppo Editoriale Caltagirone, dal 2005 al 2018.&#13;&#10;Unitamente alla direzione dell’ufficio legale della Asl Bat, ricopre nella stessa azienda il ruolo di Data Protection Officer da ottobre 2018, assumendo anche il ruolo di RPCT (Responsabile della Prevenzione della Corruzione e della Trasparenza) nell’anno 2020.
 
 
 

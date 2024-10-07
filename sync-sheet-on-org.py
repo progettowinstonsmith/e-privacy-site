@@ -173,7 +173,7 @@ def db_get_attrs(attr,service, _id, _range, HEADERS):
 
 
 def write_out(path, fname, **kw):
-    LOGGER.info(f"WRITE OUT\: {fname}")
+    LOGGER.info(f"WRITE OUT: {fname}")
     templ_f = Path(path) / (fname + '.template')
     out_f = Path(path) / fname
     templ = templ_f.read_text(encoding='utf-8')
@@ -183,7 +183,7 @@ def write_out(path, fname, **kw):
     LOGGER.info(f"WRITE OUT/: {fname}")
 
 def write_out_debug(fname, *kw):
-    LOGGER.info(f"WRITE OUT DEBUG\: {fname}")
+    LOGGER.info(f"WRITE OUT DEBUG: {fname}")
     out_f = Path("/tmp/") / (fname + ".dbg")
     output = pformat(kw)
     out_f.write_text(output)
@@ -285,13 +285,13 @@ def compose_people(talk, db, all=False):
 ### ---------------------------------------- ELEMENT COMPOSITIONS
 
 def compose_person(rdb, *people, org=True):
-    LOGGER.info('COMPOSE_PERSON\: ')
+    LOGGER.info('COMPOSE_PERSON: ')
     output = []
     for person in people:
         if len(person)==0:
             continue
         LOGGER.info(f'COMPOSE_PERSON=: {person}')
-        person = re.sub("\d","",person)
+        person = re.sub(r"\d","",person)
         if person not in rdb:
             LOGGER.error(f'COMPOSE_PERSON :NO RECORD FOR: {person} {people}')
             raise "COMPOSE PERSON"
@@ -486,7 +486,7 @@ def setup_program_talk_items(label,talk,relazioni,relatori):
     line = []
     kind = talk['kind']
     for num, field in enumerate(('begin','duration','author', 'title')):
-        LOGGER.info(f"SETUP PROGRAM\: {label} {num:02d}_{field}")
+        LOGGER.info(f"SETUP PROGRAM: {label} {num:02d}_{field}")
         value = execute_method_in_globals(talk,
                                           relazioni,
                                           relatori,
@@ -503,7 +503,7 @@ def setup_program_talk_items(label,talk,relazioni,relatori):
     return line
 
 def setup_program_session(info, relazioni, relatori):
-    LOGGER.info(f"SETUP PROGRAM SESSION\:")
+    LOGGER.info(f"SETUP PROGRAM SESSION:")
     program = info['program']
     session = []
     D_relazioni = list()
@@ -523,7 +523,7 @@ def setup_program_session(info, relazioni, relatori):
         LOGGER.info(f"SETUP PROGRAM=: {session[-1]}")
         if kind == 'roundtable':
             LOGGER.info(f"SETUP PROGRAM=: {label} ROUNDTABLE")
-            relatoreX = re.sub("\d","",relatore)
+            relatoreX = re.sub(r"\d","",relatore)
             D_relatori.append((relatore, relatori[relatoreX] ))
             if 'altri' in talk:
                 if len(talk['altri'])>0:
@@ -538,7 +538,7 @@ def setup_program_session(info, relazioni, relatori):
                 raise "RELATORE NON IN RELAZIONI"
             intervento = relazioni[relatore]
             D_relazioni.append((relatore, talk))
-            relatoreX = re.sub("\d","",relatore)
+            relatoreX = re.sub(r"\d","",relatore)
             if relatoreX not in relatori:
                 LOGGER.error(f"Relatore {relatoreX} non in RELATORI")
                 raise "RELATOREX NON IN RELAZIONI"
@@ -636,7 +636,7 @@ def tweak_sessioni_collection(info):
                               key=lambda x : (re.sub(r':','',x[1]['begin']))):
         program.append((key, value))
     if 'apertura' in info:
-        chairmans = re.split('\s*,\s*', info['apertura']['author'])
+        chairmans = re.split(r'\s*,\s*', info['apertura']['author'])
     else:
         chairmans = [ 'ND' ]
     return { 'program' :  program,
@@ -809,7 +809,7 @@ def get_chairman(relatori,sess_db,field='chairmans',is_list=True):
         if is_list:
             chairs = sess_db[field]
         else:
-            chairs = re.split('\s*,\s*',sess_db[field])
+            chairs = re.split(r'\s*,\s*',sess_db[field])
         chair = []
         for who in chairs:
             chair.append( compose_person(relatori, who) )
