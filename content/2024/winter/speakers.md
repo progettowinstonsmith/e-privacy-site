@@ -129,6 +129,7 @@ Sono la Dott.ssa Dassisti Monica, ho 26 anni e sono di origini pugliesi. Da semp
 #### <a name="falzone"></a> Eric Falzone (EUCS)
 
 Consulente esperto in "law compliance", specializzato in privacy, intelligenza artificiale, cybersecurity, digitalizzazione, computer forensics, e-health, informatica giuridica, diritto dell’informatica, diritto internet, diritto delle nuove tecnologie, diritto tributario informatico e organizzazione aziendale digitale.
+Partner e Fondatore di EUCS (www.eucs.it) svolge attività di docenza e consulenza legale e organizzativa in progetti di digitalizzazione aziendale per grandi imprese, multinazionali e pubbliche amministrazioni.
 
 
 
