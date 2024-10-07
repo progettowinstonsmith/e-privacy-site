@@ -60,7 +60,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 10:50|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">Risk Management per la privacy in ambito medicale</a></em></span>
 11:10|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fiorenza">Valentina Fiorenza </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXV-interventi.html#fiorenza">Da consumatori a consumati: la libagione delle nuove divinità algoritmiche</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
 12:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
@@ -79,7 +79,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
 16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
 17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
 17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
