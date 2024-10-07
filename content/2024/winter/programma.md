@@ -54,14 +54,14 @@ Il tema guida della XXXV edizione di e-p rivacy è:
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 09:30|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Privacy: tante norme, poca protezione»</em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Titolo non comunicato (mastella)</a></em></span>
-10:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">talk-def-not-found(abeti)</a></em></span>
-10:20|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">talk-def-not-found(bontempi)</a></em></span>
-10:50|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">talk-def-not-found(gibellini)</a></em></span>
-11:10|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fiorenza">Valentina Fiorenza </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXV-interventi.html#fiorenza">talk-def-not-found(fiorenza)</a></em></span>
+09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
+10:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?</a></em></span>
+10:20|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a><br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">GESTIONE DEL RISCHIO, POCA PROTEZIONE NONOSTANTE LE NORME</a></em></span>
+10:50|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">Risk Management per la privacy in ambito medicale</a></em></span>
+11:10|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fiorenza">Valentina Fiorenza </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXV-interventi.html#fiorenza">Da consumatori a consumati: la libagione delle nuove divinità algoritmiche</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Titolo non comunicato (giorio)</a></em></span>
-12:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Titolo non comunicato (berto)</a></em></span>
+12:00|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#giorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
+12:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - pomeriggio
@@ -74,14 +74,14 @@ Il tema guida della XXXV edizione di e-p rivacy è:
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">talk-def-not-found(bormioli)</a></em></span>
-15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">talk-def-not-found(zanoni)</a></em></span>
-15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">talk-def-not-found(chiesa)</a></em></span>
+15:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
+15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
+15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
-16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">talk-def-not-found(falzone)</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">talk-def-not-found(fasano)</a></em></span>
-17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">talk-def-not-found(dassisti)</a></em></span>
-17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Titolo non comunicato (montillo)</a></em></span>
+16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
+17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
+17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina
@@ -93,13 +93,13 @@ Il tema guida della XXXV edizione di e-p rivacy è:
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 10:00|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
-10:10|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Titolo non comunicato (ciurcina)</a></em></span>
-10:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#brambilla">talk-def-not-found(brambilla)</a></em></span>
+10:10|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Diritto e digitale: niente di nuovo sul fronte occidentale</a></em></span>
+10:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#brambilla">Privacy e dignità nel mondo digitale</a></em></span>
 11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">talk-def-not-found(priolo)</a></em></span>
-12:15|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXV-interventi.html#ferri">talk-def-not-found(ferri)</a></em></span>
-12:35|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#landucci">Luca Landucci Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXV-interventi.html#landucci">Titolo non comunicato (landucci)</a></em></span>
-13:05|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXV-relatori.html#pedalina">Angela Pedalina (Associazione Lawboat.ch)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXV-interventi.html#gobbato">Titolo non comunicato (gobbato)</a></em></span>
+11:30|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">Giustizia predittiva e questioni etiche</a></em></span>
+12:15|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXV-interventi.html#ferri">Norme e Leggi vs Ingegneria Sociale</a></em></span>
+12:35|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#landucci">Luca Landucci Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXV-interventi.html#landucci">La monetizzazione dei dati personali</a></em></span>
+13:05|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXV-relatori.html#pedalina">Angela Pedalina (Associazione Lawboat.ch)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXV-interventi.html#gobbato">Dark Pattern: conseguenze dell'indagine del Garante Privacy</a></em></span>
 13:35||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori
