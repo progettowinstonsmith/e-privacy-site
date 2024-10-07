@@ -124,7 +124,7 @@ Consulente esperto in "law compliance", specializzato in privacy, intelligenza a
 
 #### <a name="fasano"></a> Gianluca Fasano 
 
-(non ancora comunicato)
+Dirigente Tecnologo del Consiglio Nazionale delle Ricerche (ISTC), con un passato di avvocato del libero foro e manager in enti pubblici di ricerca. Ho partecipato a progetti di ricerca nazionali ed internazionali, collaboro con altri enti pubblici e privati nel ruolo di consultant, of consuel e teacher. Studio le intersezioni tra diritto e nuove tecnologie, ho scritto saggi ed articoli in materia di diritto pubblico, diritto dell’Unione Europea, diritti fondamentali e ho presentato su questi temi relazioni presso convegni e seminari.
 
 
 
