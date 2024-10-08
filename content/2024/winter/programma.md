@@ -2,7 +2,7 @@ slug: e-privacy-XXXV-programma
 Template: event
 XStatus: draft
 Title: Privacy: tante norme, poca protezione
-Date: 2024-08-11 23:00:00
+Date: 2024-01-08 15:00:00
 Category: 2024
 lang: it
 Num: XXXV
@@ -28,6 +28,8 @@ e-privacy XXXV @ Brescia
 
 Il ** 30 e 31 ottobre 2024 **  a Brescia, presso la sede dell'Ordine degli Ingegneri di Brescia, Via Cefalonia 70 si svolgerà **e-privacy 2024
 _winter edition_**.
+
+**E' stata realizzata una [convenzione per e-privacy](/images/locandine/istruzioni_prenotazione_con_codice_sconto_EPRIVACY.pdf) che dà diritto ad uno sconto in alcune strutture ricettive.**
 
 Il tema guida della XXXV edizione di e-privacy è:
 
