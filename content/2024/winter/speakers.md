@@ -27,22 +27,8 @@ Chi è Winston Smith?
 
 ### <a name='berto'></a>Rebecca Berto
 
-Rebecca Berto è attiva come consulente legale in un progetto europeo
-finanziato anche dalla Commissione Europea. Ha mosso i primi passi
-lavorativi in ambito legale in uno studio legale della Corte d'Appello
-di Trento. Poi gli eventi l'hanno portata prima a lavorare per
-un'azienda a partecipazione pubblica e poi all'interno dell'attuale
-progetto europeo. Ha continuato a studiare, specializzandosi in
-risoluzione internazionale delle dispute commerciali, in altre parole
-arbitrati commerciali internazionali e dispute internazionali relativi
-ad investimenti: per questo motivo procedure come quelle previste dal
-WTO o ICSID sono conosciute. Se volete chiederle dell'Energy Charter
-Treaty e dei casi più recenti ve ne parlerà per ore! Nata a Celle, in
-Germania, vive e lavora in Trentino Alto Adige. Pensa e parla in
-italiano ed in tedesco, parla e pensa anche in inglese... ogni tanto
-dice qualche frase in altre lingue straniere: cerca di studiarle di
-più, fra un’attività ed un’altra. Ha la passione per le scienze
-naturali, la fisica e le nuove tecnologie.
+Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Per motivi professionali – ed non solo perchè sono temi che la entusiasmano – si occupa degli aspetti applicativi e pratico-giuridici della giustizia procedurale intra-comunitaria, della sua innovazione e digitalizzazione, degli aspetti  esecutivi. L'attività comprende la comparazione di diritto e delle procedure civili e non solo.
+Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati commerciali internazionali e dispute internazionali: il Trattato sull'Energia è il suo preferito e ve ne potrebbe parlare per ore! Vive e lavora in Trentino Alto Adige: fra un'attività ed un'altra cerca di trovare il tempo per studiare di più le lingue straniere. Inoltre è appassionata di scienze naturali, fisica e nuove tecnologie.
 
 ### <a name='calamari'></a> Marco Calamari (Progetto Winston Smith)
 
