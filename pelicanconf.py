@@ -192,7 +192,7 @@ PARTNERS = {
     'csig': ('Centro Studi di Informatica Giuridica', 'csig.png', 'http://www.csig.it'),
     'cutaway': ('Cutaway', 'cutaway.png', 'http://www.cutaway.it'),
     'dataconsec': ('DataConSec', 'DataConSec.jpg', 'http://www.dataconsec.com'),
-    'hermes': ('Centro Studi Hermes per la Trasparenza e i Diritti Civili Digitali', 'hermes.png', 'http://logioshermes.org'),
+    'hermes': ('Centro Studi Hermes per la Trasparenza e i Diritti Civili Digitali', 'hermes.png', 'http://hermescenter.org'),
     'fiif' : ('Fondazione Italiana per l\'Innovazione Forense','fiif.png','http://fiif.it'), # kikko
     'firenze': ('Comune di Firenze', 'comune-firenze.png', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
     'firenze1': ('Comune di Firenze: Consiglio di Quartiere 1', 'logoq1.gif', "http://www.comune.fi.it/opencms/export/sites/retecivica/comune_firenze/comune/consiglio/gruppi_consiliari.htm"),
