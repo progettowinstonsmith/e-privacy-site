@@ -24,7 +24,7 @@ Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
 MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 e-privacy XXXV @ Brescia
-==============================
+===============================
 
 Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia sono lieti di invitarvi ad **e-privacy XXXV winter edition**, che si svolgerà il **30 e 31 ottobre 2024**  a Brescia, presso la sede dell'Ordine, Via Cefalonia 70.
 
