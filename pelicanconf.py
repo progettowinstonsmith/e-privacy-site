@@ -254,6 +254,7 @@ PARTNERS = {
     'ordinepisa': ('Ordine Ingegneri Pisa', 'ordine_pisa.jpg', 'https://www.ordineingegneripisa.it/'),
    'ordinefirenze': ('Ordine Ingegneri Firenze', 'ordinefilogo.png', 'https://www.ordineingegneri.fi.it/'),
     'federazionetoscana': ('Federazione Regionale Ingegneri Toscana', 'federazione_regionale_ingegneri.png', 'http://www.federazioneingegneri.toscana.it/'),
+    'ordineingegneribrescia': ('Ordine Ingegneri Brescia', 'logoOIB.png', 'https://brescia.ordingegneri.it/'),
 }
 
 

@@ -17,7 +17,7 @@ nextid:
 next:
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
-Collaboratori: 
+Collaboratori: ordineingegneribrescia
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 css: .title-XXXV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXV { font: 18px arial, sans-serif; text-align: center; }
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
