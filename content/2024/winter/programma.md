@@ -30,6 +30,10 @@ Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia 
 
 L'ingresso al convegno è libero e gratuito; per consentirci una migliore gestione delle presenze, è suggerita ma non necessaria una mail di comunicazione della propria presenza a questo indirizzo: [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Partecipazione%20ad%20e-privacy%20XXXV&body=Parteciperò%20ad%20e-privacyXXXV%20a%20Brescia.%0d%0aVi%20prego%20di%20riservarmi%20n.%201%20posto.)
 
+**Il Convegno è stato accreditato per la formazione continua degli Ingegneri**: chi desidera ottenere i crediti formativi deve registrarsi al sito [www.isiformazione.it](https://www.isiformazione.it).
+Una volta effettuata l'iscrizione e registrati i propri dati, sarà possibile ricollegarsi, selezionare l'evento ed iscriversi. Gli iscritti all'Ordine di Brescia otterranno i cfp sia in presenza che tramite la piattaforma CNI, mentre gli iscritti degli altri ordini solo se in presenza.
+Non è necessario iscriversi per la partecipazione al Convegno.
+
 **E' stata realizzata una [convenzione per e-privacy](/images/locandine/istruzioni_prenotazione_con_codice_sconto_EPRIVACY.pdf) che dà diritto ad un piccolo sconto in alcune strutture ricettive.**
 L'ammontare dello sconto appare solo al momento del checkout finale della prenotazione.
 
