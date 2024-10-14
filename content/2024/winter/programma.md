@@ -26,10 +26,9 @@ MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 e-privacy XXXV @ Brescia
 ===============================
 
-Il ** 30 e 31 ottobre 2024 **  a Brescia, presso la sede dell'Ordine degli Ingegneri di Brescia, Via Cefalonia 70 si svolgerà **e-privacy 2024
-_winter edition_**.
+Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia sono lieti di invitarvi ad **e-privacy XXXV winter edition**, che si svolgerà il **30 e 31 ottobre 2024**  a Brescia, presso la sede dell'Ordine, Via Cefalonia 70.
 
-L'ingresso al convegno è libero e gratuito; è suggerita ma non necessaria una mail di comunicazione della propria presenza a questo indirizzo: [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Partecipazione%20ad%20e-privacy%20XXXV&body=Parteciperò%20ad%20e-privacyXXXV%20a%20Brescia.%0d%0aVi%20prego%20di%20riservarmi%20n.%201%20posto.)
+L'ingresso al convegno è libero e gratuito; per consentirci una migliore gestione delle presenze, è suggerita ma non necessaria una mail di comunicazione della propria presenza a questo indirizzo: [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Partecipazione%20ad%20e-privacy%20XXXV&body=Parteciperò%20ad%20e-privacyXXXV%20a%20Brescia.%0d%0aVi%20prego%20di%20riservarmi%20n.%201%20posto.)
 
 **E' stata realizzata una [convenzione per e-privacy](/images/locandine/istruzioni_prenotazione_con_codice_sconto_EPRIVACY.pdf) che dà diritto ad un piccolo sconto in alcune strutture ricettive.**
 L'ammontare dello sconto appare solo al momento del checkout finale della prenotazione.
