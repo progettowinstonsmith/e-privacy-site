@@ -78,7 +78,7 @@ La relazione verte sulla problematica relativa al controllo geopolitico e di mas
 
 
 #### <a name="fasano"></a> Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali<a href="/e-privacy-XXXV-programma.html#1p05">⇧</a>
-*<a href="/e-privacy-XXXV-relatori.html#fasano">gianluca fasano </a>*
+*<a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a>*
 
 Utilizziamo sempre di più artefatti non per facilitare il compimento di un’azione, un’attività o un’operazione che abbiamo già pianificato, bensì per assumere decisioni. La delega compu-decisionale varia significativamente a seconda della complessità delle decisioni da assumere, del livello di automazione e del corrispondente grado dell’intervento umano. &#13;&#10;E' proprio sul rapporto tra grado di automazione e intervento umano che si incentrano le tutele previste dal Regolamento europeo sul trattamento dei dati personali. Tuttavia, subordinare le tutele normative ad un’indagine circa la complessità delle diverse dinamiche che caratterizzano i processi decisionali automatizzati, alla ricerca di evidenze sulla prevalenza dell’uno o dell’altro fattore in contesti formati da reti complesse di input, algoritmi, dati e interventi umani, rischia di dissolvere le tutele stesse. &#13;&#10;La recente sentenza della Corte di giustizia (C-634/21, Schufa) pur offrendo un’interpretazione estensiva della nozione di decisione automatizzata, consente di mettere in luce, ancora una volta, le fragilità delle tutele costruite per le libertà fondamentali.
 
