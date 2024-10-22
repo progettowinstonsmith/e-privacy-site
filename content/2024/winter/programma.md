@@ -53,7 +53,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - mattina
 
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/mBLCve2YHas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewt91jae4A8?si=qHiiEmQv5KnRkqF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -74,7 +74,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - pomeriggio
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/EJse8vqbkEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3xwy1lr9eA?si=oZH_gKA34_k2FAp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a>
@@ -94,7 +94,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina
 
-<!-- iframe width="560" height="315" src="https://www.youtube.com/embed/m58flx5d1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDFF9TOhgIc?si=7KgvgMaFUUwYwoyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a>
 
