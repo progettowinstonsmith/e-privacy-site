@@ -96,7 +96,7 @@ Il tema guida della XXXV edizione di e-privacy è:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDFF9TOhgIc?si=7KgvgMaFUUwYwoyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* Modera: <a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a>
+* Modera: TBD
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
