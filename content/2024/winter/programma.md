@@ -49,54 +49,65 @@ Il tema guida della XXXV edizione di e-privacy è:
 
 ### <a name="programma"></a>Programma del Convegno
 
+Legenda:
 
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione (PDF) | ![pdf](/images/icon/document.png) | Documento (PDF) |
+![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![ppt](/images/icon/handouts.png) | Handouts (PDF)|
+![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
+![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
+
+<br>
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - mattina
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewt91jae4A8?si=qHiiEmQv5KnRkqF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
+<br>
 * Modera: <a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a>
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 09:30|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#marcoc">Marco Calamari </a><br/><em>«Privacy: tante norme, poca protezione»</em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
-10:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?</a></em></span>
-10:20|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a> e Giacomo Uberti<br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">Gestione del rischio, poca protezione nonostante le norme</a></em></span>
-10:50|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">Risk Management per la privacy in ambito medicale</a></em></span>
-11:10|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fiorenza">Valentina Fiorenza </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXV-interventi.html#fiorenza">Da consumatori a consumati: la libagione delle nuove divinità algoritmiche</a></em></span>
+09:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_01_mastella_ispezioni_provvedimenti_garante_privacy.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#mastella">Stefano Mastella </a> e <a href="/e-privacy-XXXV-relatori.html#giacomello">Jolanda Giacomello </a><br/><em><a name='1m01'></a><a href="/e-privacy-XXXV-interventi.html#mastella">Le ispezioni e i Provvedimenti del Garante per la Privacy: strumenti fondamentali per capire il quadro normativo sulla protezione dei dati personali.</a></em></span>
+10:00|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_02_abeti_compliance_e_tutela_diritti.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_02_abeti_compliance_e_tutela_diritti.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXV-relatori.html#abeti">Riccardo Abeti (Commissione "New Technology, Personal Data and Communication Law"  e UAE (Unione Avvocati Europei))</a><br/><em><a name='1m02'></a><a href="/e-privacy-XXXV-interventi.html#abeti">Compliance e tutela dei diritti, prima ci è scappata di mano la privacy ora ci scapperà di mano l’Intelligenza Artificiale?</a></em></span>
+10:20|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_03_bontempi_gestione_rischio.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#bontempi">Paola Bontempi (Resolve Consulting Srl)</a> e Giacomo Uberti<br/><em><a name='1m03'></a><a href="/e-privacy-XXXV-interventi.html#bontempi">Gestione del rischio, poca protezione nonostante le norme</a></em></span>
+10:50|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_04_gibellini_risk_management_ambito_medicale.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#gibellini">Paolo Gibellini </a><br/><em><a name='1m04'></a><a href="/e-privacy-XXXV-interventi.html#gibellini">Risk Management per la privacy in ambito medicale</a></em></span>
+11:10|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_05_fiorenza_consumatori_e_consumati.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#fiorenza">Valentina Fiorenza </a><br/><em><a name='1m05'></a><a href="/e-privacy-XXXV-interventi.html#fiorenza">Da consumatori a consumati: la libagione delle nuove divinità algoritmiche</a></em></span>
 11:30|30|<span class='talk'><em>Pausa</em></span>
-12:00|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
-12:30|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
+12:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa_testo.pdf"><img alt="pdf" src="/images/icon/handouts.png">,<a href="/e-privacy-XXXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
+12:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_07_berto_dall_adr_all_ai-adr_prime_riflessioni.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
 
+<br>
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - pomeriggio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s3xwy1lr9eA?si=oZH_gKA34_k2FAp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-* Modera: <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a>
+<br>
+* Modera: TBD
 
 **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo**
 ------- | --- | ------- 
 15:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura sessione pomeridiana</em></span>
-15:05|25|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
-15:25|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
-15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a></em></span>
+15:05|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_11_bormioli_Autorita_AI_Ita_2024.pdf"><img alt="pdf" src="/images/icon/handouts.png"><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_11_bormioli_Policy_paper_TGL_Hermes.pdf"> <img alt="pdf" src="/images/icon/handouts.png"> <a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
+15:25|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_12_zanoni_role_cybersecurity_in_AI_era.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
+15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a>Intervento non tenuto</em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
-16:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
-17:00|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
-17:20|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
-17:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
+16:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_14_falzone_ia_come_strumento_geopolitico_controllo.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_14_falzone_ia_come_strumento_geopolitico_controllo.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
+17:00|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_15_fasano_decisioni_umanizzate.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
+17:20|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_16_dassisti_ai_una_maratona_senza_fine.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_16_dassisti_ai_una_maratona_senza_fine.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
+17:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_17_montillo_riflessioni_tecnologie_liberazione.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_17_montillo_riflessioni_tecnologie_liberazione.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
 
+<br>
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDFF9TOhgIc?si=7KgvgMaFUUwYwoyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* Modera: TBD
+<br>
+* Modera: <a href="/e-privacy-XXXV-relatori.html#giorio">Diego Giorio </a>
 
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
