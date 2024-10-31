@@ -26,26 +26,17 @@ MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 e-privacy XXXV @ Brescia
 ===============================
 
-Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia sono lieti di invitarvi ad **e-privacy XXXV winter edition**, che si svolgerà il **30 e 31 ottobre 2024**  a Brescia, presso la sede dell'Ordine, Via Cefalonia 70.
+Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia hanno organizzato **e-privacy XXXV winter edition**, che si è svolto il **30 e 31 ottobre 2024**  a Brescia, presso la sede dell'Ordine, Via Cefalonia 70.
 
-L'ingresso al convegno è libero e gratuito; per consentirci una migliore gestione delle presenze, è suggerita ma non necessaria una mail di comunicazione della propria presenza a questo indirizzo: [segreteria@winstonsmith.org](mailto:segreteria@winstonsmith.org?subject=Partecipazione%20ad%20e-privacy%20XXXV&body=Parteciperò%20ad%20e-privacyXXXV%20a%20Brescia.%0d%0aVi%20prego%20di%20riservarmi%20n.%201%20posto.)
+**Il Convegno è stato accreditato per la formazione continua degli Ingegneri**
 
-**Il Convegno è stato accreditato per la formazione continua degli Ingegneri**: chi desidera ottenere i crediti formativi deve registrarsi al sito [www.isiformazione.it](https://www.isiformazione.it).
-Una volta effettuata l'iscrizione e registrati i propri dati, sarà possibile ricollegarsi, selezionare l'evento ed iscriversi. Gli iscritti all'Ordine di Brescia otterranno i cfp sia in presenza che tramite la piattaforma CNI, mentre gli iscritti degli altri ordini solo se in presenza.
-Non è necessario iscriversi per la partecipazione al Convegno.
-
-**E' stata realizzata una [convenzione per e-privacy](/images/locandine/istruzioni_prenotazione_con_codice_sconto_EPRIVACY.pdf) che dà diritto ad un piccolo sconto in alcune strutture ricettive.**
-L'ammontare dello sconto appare solo al momento del checkout finale della prenotazione.
-
-Il tema guida della XXXV edizione di e-privacy è:
+Il tema guida della XXXV edizione di e-privacy è stato:
 
 <div class="title-XXXV">«Privacy: tante norme, poca protezione»</div>
 
 <div class="subtitle-XXXV">Quali reali tutele è in grado di offrire l’Europa, a fronte di tecnologie sempre più invasive, più sofisticate e più veloci nella loro diffusione? Sono sufficienti norme come il GDPR o l’AI act per frenare i sistemi che saranno disponibili fra due anni quando questo Regolamento troverà piena applicazione?</div>
-
 <br/>
 
-<!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy è a numero chiuso. La lista d'attesa è chiusa; chi della lista rientrerà nei posti disponibili sarà avvisato</a -->
 
 ### <a name="programma"></a>Programma del Convegno
 
@@ -93,7 +84,7 @@ Icona | Descrizione | Icona | Descrizione
 15:00|5|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a><br/><em>Apertura sessione pomeridiana</em></span>
 15:05|25|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_11_bormioli_Autorita_AI_Ita_2024.pdf"><img alt="pdf" src="/images/icon/handouts.png"><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_11_bormioli_Policy_paper_TGL_Hermes.pdf"> <img alt="pdf" src="/images/icon/handouts.png"> <a href="/e-privacy-XXXV-relatori.html#bormioli">Alessandra Bormioli (Hermes Center)</a><br/><em><a name='1p01'></a><a href="/e-privacy-XXXV-interventi.html#bormioli">IA e diritti umani: in bilico tra progresso e distopia</a></em></span>
 15:25|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_12_zanoni_role_cybersecurity_in_AI_era.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#zanoni">Gabriele Zanoni </a><br/><em><a name='1p02'></a><a href="/e-privacy-XXXV-interventi.html#zanoni">Il ruolo della cybersecurity nell'era dell'AI</a></em></span>
-15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a>Intervento non tenuto</em></span>
+15:45|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#chiesa">Raoul “Nobody” Chiesa (Security Brokers SCpA)</a><br/><em><a name='1p03'></a><a href="/e-privacy-XXXV-interventi.html#chiesa">e-democracy e controllo massivo nell'era post-Snowden dalle black-ops della NSA al caso Pegasus</a> - Intervento non tenuto</em></span>
 16:30|10|<span class='talk'><em>Pausa</em></span>
 16:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_14_falzone_ia_come_strumento_geopolitico_controllo.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_14_falzone_ia_come_strumento_geopolitico_controllo.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#falzone">Eric Falzone (EUCS)</a><br/><em><a name='1p04'></a><a href="/e-privacy-XXXV-interventi.html#falzone">Intelligenza artificiale come nuovo strumento di controllo geopolitico e di massa: l’approccio normativo ed economico europeo è ancora fallimentare.</a></em></span>
 17:00|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_15_fasano_decisioni_umanizzate.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#fasano">Gianluca Fasano </a><br/><em><a name='1p05'></a><a href="/e-privacy-XXXV-interventi.html#fasano">Le decisioni 'umanizzate' dei sistemi automatizzati: ancora fragili tutele per le libertà fondamentali</a></em></span>
@@ -112,13 +103,13 @@ Icona | Descrizione | Icona | Descrizione
  **Ora** | Durata | **Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> **Titolo** 
 ------- | --- | ------- 
 10:00|10|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em>Apertura seconda giornata</em></span>
-10:10|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Diritto e digitale: niente di nuovo sul fronte occidentale</a></em></span>
-10:40|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#brambilla">Privacy e dignità nel mondo digitale</a></em></span>
+10:10|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_21_ciurcina_diritto_e_digitale.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_21_ciurcina_diritto_e_digitale.odp"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#ciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2m01'></a><a href="/e-privacy-XXXV-interventi.html#ciurcina">Diritto e digitale: niente di nuovo sul fronte occidentale</a></em></span>
+10:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_22_brambilla_privacy_e_dignita_nel_mondo_digitale.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_22_brambilla_privacy_e_dignita_nel_mondo_digitale.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#brambilla">Emanuele Brambilla </a><br/><em><a name='2m02'></a><a href="/e-privacy-XXXV-interventi.html#brambilla">Privacy e dignità nel mondo digitale</a></em></span>
 11:00|30|<span class='talk'><em>Pausa</em></span>
-11:30|45|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">Giustizia predittiva e questioni etiche</a></em></span>
-12:15|20|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXV-interventi.html#ferri">Norme e Leggi vs Ingegneria Sociale</a></em></span>
-12:35|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#landucci">Luca Landucci Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXV-interventi.html#landucci">La monetizzazione dei dati personali</a></em></span>
-13:05|30|<span class='talk'><a href="/e-privacy-XXXV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXV-relatori.html#pedalina">Angela Pedalina (Associazione Lawboat.ch)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXV-interventi.html#gobbato">Dark Pattern: conseguenze dell'indagine del Garante Privacy</a></em></span>
+11:30|45|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_23_priolo_giustizia_predittiva.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_23_priolo_giustizia_predittiva.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_23_scarpellini-camilli_giustizia_predittiva.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_23_scarpellini-camilli_giustizia_predittiva.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#priolo">Enrica Priolo </a> e <a href="/e-privacy-XXXV-relatori.html#scarpelli">Andrea Scarpellini Camilli </a><br/><em><a name='2m03'></a><a href="/e-privacy-XXXV-interventi.html#priolo">Giustizia predittiva e questioni etiche</a></em></span>
+12:15|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_24_ferri_norme_e_leggi_vs_ingegneria_sociale.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#ferri">Edoardo Ferri (Studio Tecnico Ferri & Costantino)</a><br/><em><a name='2m04'></a><a href="/e-privacy-XXXV-interventi.html#ferri">Norme e Leggi vs Ingegneria Sociale</a></em></span>
+12:35|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_25_landucci_monetizzazione_dati_personali.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#landucci">Luca Landucci Landucci (Pro Cultura Aperta)</a><br/><em><a name='2m05'></a><a href="/e-privacy-XXXV-interventi.html#landucci">La monetizzazione dei dati personali</a></em></span>
+13:05|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_26_gobbato_dark_pattern.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="/e-privacy-XXXV-relatori.html#gobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXV-relatori.html#pedalina">Angela Pedalina (Associazione Lawboat.ch)</a><br/><em><a name='2m06'></a><a href="/e-privacy-XXXV-interventi.html#gobbato">Dark Pattern: conseguenze dell'indagine del Garante Privacy</a></em></span>
 13:35||<span class='talk'><em>Chiusura sessione</em></span>
 
 ### Gli organizzatori
