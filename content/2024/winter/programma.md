@@ -71,6 +71,7 @@ Icona | Descrizione | Icona | Descrizione
 12:00|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_06_giorio_chi_sa_gestire_diritto_in_europa_testo.pdf"><img alt="pdf" src="/images/icon/handouts.png">,<a href="/e-privacy-XXXV-relatori.html#giorio">Diego Giorio (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1m06'></a><a href="/e-privacy-XXXV-interventi.html#giorio">Sarà un’AI a gestire il diritto in Europa?</a></em></span>
 12:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_07_berto_dall_adr_all_ai-adr_prime_riflessioni.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXV-relatori.html#berto">Rebecca Berto </a><br/><em><a name='1m07'></a><a href="/e-privacy-XXXV-interventi.html#berto">Dall’ADR all’AI-ADR: prime riflessioni</a></em></span>
 13:00||<span class='talk'><em>Chiusura sessione</em></span>
+
 <br>
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - pomeriggio
 
@@ -91,6 +92,7 @@ Icona | Descrizione | Icona | Descrizione
 17:20|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_16_dassisti_ai_una_maratona_senza_fine.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_16_dassisti_ai_una_maratona_senza_fine.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#dassisti">Monica Dassisti (Studio Legale E-Lex)</a><br/><em><a name='1p06'></a><a href="/e-privacy-XXXV-interventi.html#dassisti">IA: una maratona senza fine?</a></em></span>
 17:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_17_montillo_riflessioni_tecnologie_liberazione.pdf"><img alt="pdf" src="/images/icon/presentation.png"> <a href="http://urna.winstonsmith.org/materiali/2024we/atti/ep2024we_17_montillo_riflessioni_tecnologie_liberazione.pptx"><img alt="pdf" src="/images/icon/presentation-ppt.png"> <a href="/e-privacy-XXXV-relatori.html#montillo">Antonio Montillo (Digital Value Cybersecurity)</a><br/><em><a name='1p07'></a><a href="/e-privacy-XXXV-interventi.html#montillo">Riflessioni su Tecnologie della Liberazione per l'Arricchimento della Privacy, Crittografia e Comunicazione Sicura, un approccio pratico.</a></em></span>
 18:00||<span class='talk'><em>Chiusura sessione</em></span>
+
 <br>
 #### <a name="sam"></a>Giovedì 31 ottobre 2024 - mattina
 
