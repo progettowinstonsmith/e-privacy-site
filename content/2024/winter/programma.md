@@ -53,6 +53,9 @@ Icona | Descrizione | Icona | Descrizione
 #### <a name="vep"></a>Mercoledì 30 ottobre 2024 - mattina
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAUfjaUXqgA?si=KHbgckBKS1TOw01U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewt91jae4A8?si=qHiiEmQv5KnRkqF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
