@@ -108,6 +108,7 @@ ISCRIVITI='''
 # Blogroll
 PREVS = (
     ('mappa di tutte le edizioni', '/mappa-edizioni-e-privacy.html'),
+    ('e-privacy 2024 we XXXV  - Brescia', '/e-privacy-XXXV.html'),
     ('e-privacy 2024 se XXXIV - Firenze', '/e-privacy-XXXIV.html'),
     ('e-privacy 2023 we XXXIII - Pisa', '/e-privacy-XXXIII.html'),
     ('e-privacy 2023 se XXXII - Roma', '/e-privacy-XXXII.html'),
