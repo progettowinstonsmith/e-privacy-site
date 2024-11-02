@@ -27,6 +27,7 @@ e-privacy XXXV @ Brescia
 ===============================
 
 **Sono disponibili gli atti completi ed i video del Convegno.**
+<br>
 Il video della mattina del 30 è diviso in due parti.
 
 Il Progetto Winston Smith e l'Ordine degli Ingegneri della Provincia di Brescia hanno organizzato **e-privacy XXXV winter edition**, che si è svolto il **30 e 31 ottobre 2024**  a Brescia, presso la sede dell'Ordine, Via Cefalonia 70.
