@@ -493,22 +493,7 @@ def setup_program_session(info, relazioni, relatori):
     D_relatori = list()
     for label,talk in program:
         kind = talk['kind']
-        line = []
-        for num, field in enumerate(('Ora','Durata','author', 'title')):
-            method = None
-            name = f'setup_{kind}_{field}'
-            if name in globals():
-                method = globals()[name]
-            else:
-                name = f'setup_{field}'
-                if name in globals():
-                    method = globals()[name]
-            if method:
-                value = method(talk, relazioni, relatori)
-            else:
-                value = talk[field]
-            talk[f'OUT_{num:02d}_{field}'] = value
-            line.append(value)
+        line = _handle_fields(relazioni, relatori, talk, kind)
         title = line.pop()
         author = line.pop()
         line.append('')
@@ -519,23 +504,48 @@ def setup_program_session(info, relazioni, relatori):
         line[-1] += "</span>"
         session.append('|'.join(line))
         if kind == 'roundtable':
-            relatoreX = re.sub("\d","",relatore)
-            D_relatori.append((relatore, relatori[relatoreX] ))
-            if 'altri' in talk:
-                for altro in talk['altri'].split(','):
-                    if altro in relatori:
-                        D_relatori.append((altro,relatori[altro]))
+            _handle_round_table(relatori, D_relatori, talk)
         elif kind == 'talk':
-            relatore = talk['author']
-            intervento = relazioni[relatore]
-            D_relazioni.append((relatore, talk))
-            relatoreX = re.sub("\d","",relatore)
-            D_relatori.append((relatore, relatori[relatoreX] ))
-            if 'altri' in talk:
-                for altro in talk['altri'].split(','):
-                    if altro in relatori:
-                        D_relatori.append((altro,relatori[altro]))
+            _handle_talk(relazioni, relatori, D_relazioni, D_relatori, talk)
     return session, D_relazioni, D_relatori
+
+def _handle_talk(relazioni, relatori, D_relazioni, D_relatori, talk):
+    relatore = talk['author']
+    intervento = relazioni[relatore]
+    D_relazioni.append((relatore, talk))
+    relatoreX = re.sub("\d","",relatore)
+    D_relatori.append((relatore, relatori[relatoreX] ))
+    if 'altri' in talk:
+        for altro in talk['altri'].split(','):
+            if altro in relatori:
+                D_relatori.append((altro,relatori[altro]))
+
+def _handle_round_table(relatori, D_relatori, talk):
+    relatoreX = re.sub("\d","",relatore)
+    D_relatori.append((relatore, relatori[relatoreX] ))
+    if 'altri' in talk:
+        for altro in talk['altri'].split(','):
+            if altro in relatori:
+                D_relatori.append((altro,relatori[altro]))
+
+def _handle_fields(relazioni, relatori, talk, kind):
+    line = []
+    for num, field in enumerate(('Ora','Durata','author', 'title')):
+        method = None
+        name = f'setup_{kind}_{field}'
+        if name in globals():
+            method = globals()[name]
+        else:
+            name = f'setup_{field}'
+            if name in globals():
+                method = globals()[name]
+        if method:
+            value = method(talk, relazioni, relatori)
+        else:
+            value = talk[field]
+        talk[f'OUT_{num:02d}_{field}'] = value
+        line.append(value)
+    return line
 
 
 #### ---------------------------------------- READ FUNCTIONS
