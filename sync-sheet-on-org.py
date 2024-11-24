@@ -531,28 +531,31 @@ def setup_program_session(info, relazioni, relatori):
                         if altro in relatori:
                             D_relatori.append((altro,relatori[altro]))
         elif kind == 'talk':
-            LOGGER.info(f"SETUP PROGRAM=: {label} TALK")
-            relatore = talk['author']
-            if relatore not in relazioni:
-                LOGGER.error(f"Relatore {relatore} non in RELAZIONI")
-                raise "RELATORE NON IN RELAZIONI"
-            intervento = relazioni[relatore]
-            D_relazioni.append((relatore, talk))
-            relatoreX = re.sub(r"\d","",relatore)
-            if relatoreX not in relatori:
-                LOGGER.error(f"Relatore {relatoreX} non in RELATORI")
-                raise "RELATOREX NON IN RELAZIONI"
-            D_relatori.append((relatore, relatori[relatoreX] ))
-            if 'altri' in talk:
-                if len(talk['altri'])>0:
-                    for altro in talk['altri'].split(','):
-                        if altro in relatori:
-                            D_relatori.append((altro,relatori[altro]))
-                        else:
-                            LOGGER.error(f"Relatore {altro} non in RELATORI")
-                            raise "RELATORE NON IN RELAZIONI"
+            _handle_talk(relazioni, relatori, D_relazioni, D_relatori, label, talk)
         LOGGER.info(f"SETUP PROGRAM SESSION/: {label}")
     return session, D_relazioni, D_relatori
+
+def _handle_talk(relazioni, relatori, D_relazioni, D_relatori, label, talk):
+    LOGGER.info(f"SETUP PROGRAM=: {label} TALK")
+    relatore = talk['author']
+    if relatore not in relazioni:
+        LOGGER.error(f"Relatore {relatore} non in RELAZIONI")
+        raise "RELATORE NON IN RELAZIONI"
+    intervento = relazioni[relatore]
+    D_relazioni.append((relatore, talk))
+    relatoreX = re.sub(r"\d","",relatore)
+    if relatoreX not in relatori:
+        LOGGER.error(f"Relatore {relatoreX} non in RELATORI")
+        raise "RELATOREX NON IN RELAZIONI"
+    D_relatori.append((relatore, relatori[relatoreX] ))
+    if 'altri' in talk:
+        if len(talk['altri'])>0:
+            for altro in talk['altri'].split(','):
+                if altro in relatori:
+                    D_relatori.append((altro,relatori[altro]))
+                else:
+                    LOGGER.error(f"Relatore {altro} non in RELATORI")
+                    raise "RELATORE NON IN RELAZIONI"
 
 
 #### ---------------------------------------- READ FUNCTIONS
