@@ -1,4 +1,5 @@
-Date: 2025-02-14 13:00:00
+Date: 2025-02-14 15:00:00
+slug: e-privacy-XXXVI
 Title: La vita è tutto un dossier
 Category: 2025
 lang: it
@@ -15,7 +16,7 @@ nextid:
 next:
 timeline: 28 marzo | 7 aprile | 12 maggio
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
-Organizzatori: pws, hermes, firenze2
+Organizzatori: pws
 Collaboratori: bba 
 Patrocini: gpdp 
 Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
@@ -38,9 +39,7 @@ Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscriz
 Call for Paper
 --------------
 
-Il *Progetto Winston Smith* è lieto di invitarti come relatore all'edizione
-primaverile alla trentaquattresima edizione di e-privacy, che si terrà in
-presenza e in videoconferenza il 22 e 23 maggio a Bari.
+Il *Progetto Winston Smith* è lieto di invitarti come relatore alla trentaseiesima edizione di e-privacy, che si terrà in presenza ed in videoconferenza  il 22 e 23 maggio a Bari.
 
 *Il nostro CfP si chiuderà il 28 marzo 2024*, e la comunicazione di
 accettazione ai relatori avverrà *entro il 7 aprile 2024.*
@@ -96,14 +95,14 @@ della non-discriminazione, della sorveglianza e dei diritti civili
 digitali. Verranno prese in considerazione anche proposte su temi
 diversi da quello dell'edizione, purché di interesse e di attualità.
 
-Il CFP di questa edizione si **chiuderà il 4 marzo 2024**.
+Il CFP di questa edizione si **chiuderà il 28 marzo 2025**.
 
-L'accettazione o meno delle proposte sarà comunicata **entro il 25 marzo 2024**.
+L'accettazione o meno delle proposte sarà comunicata **entro il 7 aprile 2025**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
-forma elettronica, tramite un apposito form online che verrà comunicato successivamente ai relatori, **entro il 29 aprile 2024**.
+forma elettronica, tramite un apposito form online che verrà comunicato successivamente ai relatori, **entro il 12 maggio 2025**.
 
-<!-- **La proposta deve essere presentata usando questo [form](/e-privacy-XXXIV-proposta.html).** -->
+**La proposta deve essere presentata usando questo [form](/e-privacy-XXXVI-proposta.html).**
 
 Le proposte dovranno contenere:
 
