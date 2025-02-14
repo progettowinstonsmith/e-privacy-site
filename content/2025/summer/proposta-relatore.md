@@ -20,6 +20,6 @@ css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subti
 
 Grazie
 
-[Vuoi aggiungere il profilo per un relatore dell'intervento?](/e-privacy-XXX-proposta-relatore-add.html)
+[Vuoi aggiungere il profilo per un relatore dell'intervento?](/e-privacy-XXXV-proposta-relatore-add.html)
 
 Ricordarti di inserire i profili di tutti i relatori che vuoi vengano riportati sul sito.
