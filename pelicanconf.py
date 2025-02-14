@@ -13,17 +13,17 @@ from __future__ import unicode_literals
 EDITION = 35
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXV'
+EPRIVACY_N = 'XXXVI'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2024/winter/'
-YEAR = u'2024'
-EDITION = 'winter'
-SITENAME = u'e-privacy 2024 winter: Privacy: tante norme, poca protezione'
-IMAGE='e-privacy-XXXV.png'  
+EVENT_PATH = 'content/2025/summer/'
+YEAR = u'2025'
+EDITION = 'summer'
+SITENAME = u'e-privacy 2025 summer: La vita è tutta un dossier'
+IMAGE='e-privacy-XXXVI.png'  
 
 COUNTDOWN = False
-EVENT_TIME = '2024/10/30 10:00'
+EVENT_TIME = '2025/05/22 10:00'
 
 #####
 
