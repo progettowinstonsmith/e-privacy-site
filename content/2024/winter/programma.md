@@ -1,4 +1,4 @@
-slug: e-privacy-XXXV-programma
+slug: e-privacy-XXXV
 Template: event
 XStatus: draft
 Title: Privacy: tante norme, poca protezione
@@ -13,8 +13,8 @@ When: 30-31 ottobre
 Season: winter
 previd: 2024
 prev: e-privacy-XXXIV
-nextid:
-next:
+nextid: 2025
+next: e-privacy-XXXVI
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Collaboratori: ordineingegneribrescia
