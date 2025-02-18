@@ -10,7 +10,7 @@ from __future__ import unicode_literals
 
 ##### Configurazioni per il sync
 
-EDITION = 35
+EDITION = 36
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
 EPRIVACY_N = 'XXXVI'
