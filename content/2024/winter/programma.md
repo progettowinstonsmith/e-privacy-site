@@ -40,7 +40,10 @@ Il tema guida della XXXV edizione di e-privacy è stato:
 
 <div class="subtitle-XXXV">Quali reali tutele è in grado di offrire l’Europa, a fronte di tecnologie sempre più invasive, più sofisticate e più veloci nella loro diffusione? Sono sufficienti norme come il GDPR o l’AI act per frenare i sistemi che saranno disponibili fra due anni quando questo Regolamento troverà piena applicazione?</div>
 <br/>
-
+Le registrazioni sono disponibili nel programma. Potete anche scaricare direttamente i video dal nostro server senza usare Youtube, usando i seguenti link: 
+<a href="https://e-privacy.winstonsmith.org/materiali/2024we/video/ep2024we_video_gotowebinar_30_mattina_e_pomeriggio.mp4"> 30-mattina-e-pomeriggio</a>, 
+<a href="https://e-privacy.winstonsmith.org/materiali/2024we/video/ep2024we_video_gotowebinar_31_mattina.mp4"> 31-mattina</a>.
+.
 
 ### <a name="programma"></a>Programma del Convegno
 
