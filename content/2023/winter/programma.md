@@ -43,6 +43,13 @@ _winter edition_**.
 **La partecipazione al convegno è libera e gratuita.**
 <br>
 
+Le registrazioni sono disponibili qui sotto. Potete anche scaricare direttamente i video dal nostro server senza usare Youtube, usando i seguenti link
+<a href="https://e-privacy.winstonsmith.org/materiali/2023we/video/e-privacy 2023 XXXIII «IA Tecnologia, Etica e Privacy» 23_11_2023 mattina originale.mp4"> 23-mattina, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2023we/video/e-privacy 2023 XXXIII «IA Tecnologia, Etica e Privacy» 23_11_2023 pomeriggio originale.mp4"> 23-pomeriggio, </a>
+<a href="https://e-privacy.winstonsmith.org/materiali/2023we/video/e-privacy 2023 XXXIII «IA Tecnologia, Etica e Privacy» 24_11_2023 mattina originale.mp4"> 24-mattina. </a>
+<br/>
+
+
 ### <a name="programma"></a>Programma del Convegno
 
 Legenda:
