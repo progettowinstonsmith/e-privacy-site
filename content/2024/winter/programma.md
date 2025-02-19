@@ -43,7 +43,7 @@ Il tema guida della XXXV edizione di e-privacy è stato:
 Le registrazioni sono disponibili nel programma. Potete anche scaricare direttamente i video dal nostro server senza usare Youtube, usando i seguenti link: 
 <a href="https://e-privacy.winstonsmith.org/materiali/2024we/video/ep2024we_video_gotowebinar_30_mattina_e_pomeriggio.mp4"> 30-mattina-e-pomeriggio</a>, 
 <a href="https://e-privacy.winstonsmith.org/materiali/2024we/video/ep2024we_video_gotowebinar_31_mattina.mp4"> 31-mattina</a>.
-.
+
 
 ### <a name="programma"></a>Programma del Convegno
 
