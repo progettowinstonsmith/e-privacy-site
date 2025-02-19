@@ -1,5 +1,5 @@
 Date: 2025-02-14 15:00:00
-slug: e-privacy-XXXVI
+slug: e-privacy-XXXVI-cfp
 Title: La vita è tutto un dossier
 Category: 2025
 lang: it
