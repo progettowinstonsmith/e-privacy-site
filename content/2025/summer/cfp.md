@@ -1,3 +1,4 @@
+Template: event
 Date: 2025-02-14 15:00:00
 slug: e-privacy-XXXVI-cfp
 Title: La vita è tutto un dossier
