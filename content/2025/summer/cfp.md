@@ -37,6 +37,13 @@ e-privacy XXXVI @ Bari
 <!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
 Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie. -->
 
+Messaggio per gli aspiranti relatori al Convegno
+--------------
+
+Il *Progetto Winston Smith* comunica che, grazie allo smaltimento degli ultimi fondi residui dell'OTF - Open Tecnology Fund, recentemente chiuso dall'amministrazione Trump, i relatori che il 22 e 23 maggio a Bari parteciperanno al Convegno potranno essere ospitati gratuitamente presso il resort "Guglielmo Fabbro", una sistemazione a quattro stelle posta in posizione centralissima nei pressi del teatro "Regina Margherita".
+<br> Gli interessati, dopo aver presentato la loro proposta, potranno mettersi in contatto direttamente con la segreteria.
+
+
 Call for Paper
 --------------
 
