@@ -19,4 +19,6 @@ next:
 timeline: 28 marzo | 7 aprile | 12 maggio
 css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
 
-<script type="text/javascript" src="//pws.xed.it/form/generate.js?id=22"></script>
+** Il CfP è chiuso ***
+
+
