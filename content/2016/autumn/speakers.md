@@ -181,10 +181,7 @@ la forensics.
 
 ### <a name='lagrasta'></a>Federico Lagrasta
 
-Sono Federico Lagrasta, nickname ""last"". Classe 1995, romano,
-attualmente studente presso la facoltà di Scienze Strategiche
-dell'Università di Torino. Non ho certificazioni, non sono un
-ultra-uber-master-leet hacker (non ancora), sono solo l'ultimo.
+ -- contenuto rimosso su richesta dell'interessato --
 
 ### <a name='micozzi'></a>Francesco Paolo Micozzi
 
