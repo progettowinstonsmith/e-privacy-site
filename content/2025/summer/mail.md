@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2023-04-13 16:57:04
+Date: 2023-04-13 17:27:49
 slug: e-privacy-XXXVI-mail
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -11,7 +11,7 @@ previd: 2023W
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: summer
 When: 22-23 maggio
-Where: Camera di Commercio
+Where: Università degli studi
 City: Bari
 Year: 2025
 Num: XXXVI
@@ -88,7 +88,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-15:00|5|<span class='talk'>Marco Calamari<br/><em>Apertura della sessione</em></span>
+15:00|5|<span class='talk'>Ugo Lopez<br/><em>Apertura della sessione</em></span>
 15:05|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
 15:25|20|<span class='talk'>Rebecca Berto<br/><em>Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</em></span>
 15:45|30|<span class='talk'>Ferdinando Traversa (Wikimedia Italia)<br/><em>La gestione della privacy in Wikipedia tra attacchi e censure</em></span>
@@ -104,7 +104,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk'>Marco Calamari<br/><em>Apertura della sessione</em></span>
+09:30|5|<span class='talk'>Ugo Lopez<br/><em>Apertura della sessione</em></span>
 09:35|20|<span class='talk'>Filippo Bianchini (ASSO DPO - ISLC)<br/><em>Spazio Europeo dei Dati Sanitari (EHDS): una nuova era per la condivisione e l’innovazione in ambito sanitario</em></span>
 09:55|30|<span class='talk'>Monica Gobbato (Privacy Academy)<br/><em>I nuovi dossier Digitali: i social network</em></span>
 10:25|30|<span class='talk'>Guido Scorza (Garante per la Protezione dei Dati Personali)<br/><em>TBD</em></span>

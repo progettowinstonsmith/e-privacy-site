@@ -7,7 +7,7 @@ lang: it
 Num: XXXVI
 Year: 2025
 City: Bari
-Where: Camera di Commercio
+Where: Università degli studi
 When: 22-23 maggio
 Season: summer
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>

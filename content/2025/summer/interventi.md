@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 16:57:04
+Date: 2023-04-13 17:27:50
 slug: e-privacy-XXXVI-interventi
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -11,7 +11,7 @@ previd: 2023W
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Season: summer
 When: 22-23 maggio
-Where: Camera di Commercio
+Where: Università degli studi
 City: Bari
 Year: 2025
 Num: XXXVI
