@@ -20,6 +20,7 @@
 {% endblock %}
 
 {% block content %}
+{% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
 <article>
     <header>
         <h3 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
