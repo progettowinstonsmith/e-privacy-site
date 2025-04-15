@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 15:10:14
+Date: 2023-04-13 15:11:35
 slug: e-privacy-XXXVI-programma
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -42,8 +42,8 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
 10:40|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
 11:10|30|<span class='talk'><em>Coffee Break</em></span>
-11:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</a></em></span>
-12:00|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
+11:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
+12:00|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</a></em></span>
 12:20|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#smastella">Stefano Mastella</a><br/><em><a name='1gm04'></a><a href="/e-privacy-XXXVI-interventi.html#1gm04">Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</a></em></span>
 12:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>

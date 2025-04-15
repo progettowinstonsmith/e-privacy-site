@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2023-04-13 15:10:04
+Date: 2023-04-13 15:11:24
 slug: e-privacy-XXXVI-mail
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -76,8 +76,8 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 10:00|40|<span class='talk'>Christian Bernieri (DPO - molte aziende, titolare di SGST srl)<br/><em>Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</em></span>
 10:40|30|<span class='talk'>Nanni Bassetti<br/><em>La privacy, le norme, l'AI Act, sono davvero applicabili?</em></span>
 11:10|30|<span class='talk'><em>Coffee Break</em></span>
-11:40|20|<span class='talk'>Art P. (Digidati.art)<br/><em>L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</em></span>
-12:00|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
+11:40|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
+12:00|20|<span class='talk'>Art P. (Digidati.art)<br/><em>L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</em></span>
 12:20|20|<span class='talk'>Stefano Mastella<br/><em>Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</em></span>
 12:40|20|<span class='talk'>Jolanda Giacomello<br/><em>Dai dati alle previsioni: l'IA per un dossieraggio predittivo</em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
