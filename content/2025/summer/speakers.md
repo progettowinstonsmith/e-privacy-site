@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 15:16:21
+Date: 2025-04-15 19:27:24
 slug: e-privacy-XXXVI-relatori
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -94,7 +94,7 @@ Internet wealth".
 
 ### <a name='apedalina'></a>Angela Pedalina
 
-Angela Pedalina. Cofounder con Monica Gobbato di Lawboat.ch. Cofounder di Informatich.ch.Giurista che si occupa di privacy  e cybersecurity. Socia di Privacy Academy.it
+Angela Pedalina, giurista, criminologa e consulente Data protection. Da anni si occupa di diritto di internet e delle nuove tecnologie, come l'AI, e di altre tematiche legate al mondo del Digitale. Formatrice aziendale con un approccio multidisciplinare che integra privacy, cybersecurity e innovazione. Socia di InformatiCH Sagl, Vice Presidente dell'associazione Lawboat.ch e socia affezionata di Privacy Academy.
 
 ### <a name='fbianchini'></a>Filippo Bianchini
 
@@ -143,6 +143,10 @@ Luca Landucci opera nel digital marketing e nell’intelligenza artificiale. Con
 ### <a name='ap'></a>Art P.
 
 Punto a costruire un mondo dove siamo noi a governare il digitale, e non il digitale a governare noi. Per questo ho fondato DigiDati, un progetto di consulenza e facilitazione informatica, specializzato nel rafforzamento della sovranità digitale di privati e aziende. Nel concreto, guido e supporto le persone ad utilizzare al meglio strumenti e servizi informatici, preservando al contempo la propria privacy e il controllo sui propri dispositivi e digitali. Porto tutto questo alle persone comuni senza competenze tecnico-informatiche, contribuendo così ad innalzare il livello di Alfabetizzazione Digitale in Italia.
+
+### <a name='mcalamari'></a>Marco Calamari
+
+Progetto Winston Smith
 
 ### <a name='vconvertini'></a>Vito Nicola Convertini
 

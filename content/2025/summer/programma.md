@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 15:16:31
+Date: 2025-04-15 19:27:35
 slug: e-privacy-XXXVI-programma
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
