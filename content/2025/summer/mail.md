@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2023-04-13 17:27:49
+Date: 2023-04-13 15:10:04
 slug: e-privacy-XXXVI-mail
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -72,14 +72,14 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 ------- | --- | -------
 09:30|5|<span class='talk'>Marco Calamari<br/><em>La vita è tutto un dossier (apertura)</em></span>
 09:35|5|<span class='talk'><em>Saluti istituzionali</em></span>
-09:40|20|<span class='talk'>Jolanda Giacomello<br/><em>Dai dati alle previsioni: l'IA per un dossieraggio predittivo</em></span>
-10:00|20|<span class='talk'>Stefano Mastella<br/><em>Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</em></span>
-10:20|20|<span class='talk'>Art P. (Digidati.art)<br/><em>L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</em></span>
-10:40|30|<span class='talk'><em>Coffee Break</em></span>
-11:10|20|<span class='talk'>Ugo Lopez<br/><em>AI, privacy & security: punti di contatto e problemi aperti</em></span>
-11:30|30|<span class='talk'>Nanni Bassetti<br/><em>La privacy, le norme, l'AI Act, sono davvero applicabili?</em></span>
-12:00|40|<span class='talk'>Christian Bernieri (DPO - molte aziende, titolare di SGST srl)<br/><em>Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</em></span>
-12:40|20|<span class='talk'><em>«Intervento da comunicare»</em></span>
+09:40|20|<span class='talk'>Ugo Lopez<br/><em>AI, privacy & security: punti di contatto e problemi aperti</em></span>
+10:00|40|<span class='talk'>Christian Bernieri (DPO - molte aziende, titolare di SGST srl)<br/><em>Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</em></span>
+10:40|30|<span class='talk'>Nanni Bassetti<br/><em>La privacy, le norme, l'AI Act, sono davvero applicabili?</em></span>
+11:10|30|<span class='talk'><em>Coffee Break</em></span>
+11:40|20|<span class='talk'>Art P. (Digidati.art)<br/><em>L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</em></span>
+12:00|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
+12:20|20|<span class='talk'>Stefano Mastella<br/><em>Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</em></span>
+12:40|20|<span class='talk'>Jolanda Giacomello<br/><em>Dai dati alle previsioni: l'IA per un dossieraggio predittivo</em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
 
@@ -89,12 +89,12 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk'>Ugo Lopez<br/><em>Apertura della sessione</em></span>
-15:05|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
+15:05|20|<span class='talk'><em>«Intervento da comunicare»</em></span>
 15:25|20|<span class='talk'>Rebecca Berto<br/><em>Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</em></span>
 15:45|30|<span class='talk'>Ferdinando Traversa (Wikimedia Italia)<br/><em>La gestione della privacy in Wikipedia tra attacchi e censure</em></span>
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
 16:45|30|<span class='talk'>Marco Ciurcina (StudioLegale.it)<br/><em>Privacy tra stato e mercato</em></span>
-17:15|30|<span class='talk'>Vito Nicola Convertini (Uniba)<br/><em>Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</em></span>
+17:15|30|<span class='talk'>Vito Nicola Convertini<br/><em>Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</em></span>
 17:45|30|<span class='talk'>Luca Landucci (Pro Cultura Aperta)<br/><em>Il valore nascosto della tua vita online</em></span>
 18:15||<span class='talk'><em>Fine sessione</em></span>
 
@@ -112,7 +112,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 11:25|30|<span class='talk'>Luca Landucci (Pro Cultura Aperta)<br/><em>La monetizzazione dei dati personali</em></span>
 11:55|30|<span class='talk'>Carlo Blengino<br/><em>La volpe nel pollaio: le agenzie per la sicurezza nazionale nell'era della sorveglianza di massa</em></span>
 12:25|30|<span class='talk'>Christian Bernieri (DPO - molte aziende, titolare di SGST srl)<br/><em>Abbiamo scoperto l'acqua calda</em></span>
-12:55|30|<span class='talk'>Vito Nicola Convertini (Uniba)<br/><em>Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati</em></span>
+12:55|30|<span class='talk'>Vito Nicola Convertini<br/><em>Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati</em></span>
 13:25|5|<span class='talk'>Marco Calamari<br/><em>Chiusura di e-privacy XXXVI</em></span>
 13:30||<span class='talk'><em>Fine sessione</em></span>
 
@@ -128,12 +128,12 @@ Ugo Lopez
 L'intervento si propone di dare una rapida panoramica sulla rivalutazione delle problematiche classiche di privacy & security con l'introduzione dell'IA generativa nelle sua diverse varianti. Se, da un lato, l'IA può essere un valido aiuto anche in questi settori, dall'altro ci pone di fronte a nuove e stimolanti sfide
 
 #### <a name="2gm08"></a> Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati
-Vito Nicola Convertini (Uniba) 
+Vito Nicola Convertini
 
 Le tecniche di anonimizzazione dei dati sono adottate in industria a tutela della privacy degli individui in una pluralità di settori, tra cui la sanità, la finanza e la ricerca sociale. Tuttavia, metodi tradizionalmente adottato come il k-anonimato e la l-diversità presentano vulnerabilità che possono essere sfruttate per re-identificare informazioni sensibili. In questo intervento si fornirà un’analisi tecnica delle principali debolezze nei metodi di anonimizzazione, come il k-anonimato e la l-diversità, proponendo strategie avanzate per la loro mitigazione. Saranno discussi esempi concreti di attacchi e l'adozione di contromisure efficaci.
 
 #### <a name="1gp06"></a> Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione
-Vito Nicola Convertini (Uniba) 
+Vito Nicola Convertini
 
 I dark pattern rappresentano una minaccia significativa per la privacy digitale, manipolando gli utenti per ottenere il consenso. Il lavoro si concentra sull’analisi tecnica dei dark pattern, esaminando sia le tecniche di ingegneria sociale sia le vulnerabilità delle interfacce utente. Verranno presentate le proposte tecniche presenti in letteratura per rilevare e mitigare questi pattern, migliorando sicurezza e trasparenza delle piattaforme digitali.
 

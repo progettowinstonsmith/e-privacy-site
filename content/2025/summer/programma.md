@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 17:28:00
+Date: 2023-04-13 15:10:14
 slug: e-privacy-XXXVI-programma
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -38,14 +38,14 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 ------- | --- | -------
 09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
 09:35|5|<span class='talk'><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
-10:00|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#smastella">Stefano Mastella</a><br/><em><a name='1gm04'></a><a href="/e-privacy-XXXVI-interventi.html#1gm04">Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</a></em></span>
-10:20|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</a></em></span>
-10:40|30|<span class='talk'><em>Coffee Break</em></span>
-11:10|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
-11:30|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
-12:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
-12:40|20|<span class='talk'><em><a name='1gm09'></a><a href="/e-privacy-XXXVI-interventi.html#1gm09">«Intervento da comunicare»</a></em></span>
+09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
+10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
+10:40|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
+11:10|30|<span class='talk'><em>Coffee Break</em></span>
+11:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</a></em></span>
+12:00|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
+12:20|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#smastella">Stefano Mastella</a><br/><em><a name='1gm04'></a><a href="/e-privacy-XXXVI-interventi.html#1gm04">Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</a></em></span>
+12:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
 
@@ -55,12 +55,12 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em>Apertura della sessione</em></span>
-15:05|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
+15:05|20|<span class='talk'><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">«Intervento da comunicare»</a></em></span>
 15:25|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gp03'></a><a href="/e-privacy-XXXVI-interventi.html#1gp03">Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</a></em></span>
 15:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ftraversa">Ferdinando Traversa (Wikimedia Italia)</a><br/><em><a name='1gp04'></a><a href="/e-privacy-XXXVI-interventi.html#1gp04">La gestione della privacy in Wikipedia tra attacchi e censure</a></em></span>
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
 16:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1gp05'></a><a href="/e-privacy-XXXVI-interventi.html#1gp05">Privacy tra stato e mercato</a></em></span>
-17:15|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini (Uniba)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</a></em></span>
+17:15|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</a></em></span>
 17:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Il valore nascosto della tua vita online</a></em></span>
 18:15||<span class='talk'><em>Fine sessione</em></span>
 
@@ -78,7 +78,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 11:25|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2gm05'></a><a href="/e-privacy-XXXVI-interventi.html#2gm05">La monetizzazione dei dati personali</a></em></span>
 11:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm06'></a><a href="/e-privacy-XXXVI-interventi.html#2gm06">La volpe nel pollaio: le agenzie per la sicurezza nazionale nell'era della sorveglianza di massa</a></em></span>
 12:25|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='2gm07'></a><a href="/e-privacy-XXXVI-interventi.html#2gm07">Abbiamo scoperto l'acqua calda</a></em></span>
-12:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini (Uniba)</a><br/><em><a name='2gm08'></a><a href="/e-privacy-XXXVI-interventi.html#2gm08">Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati</a></em></span>
+12:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='2gm08'></a><a href="/e-privacy-XXXVI-interventi.html#2gm08">Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati</a></em></span>
 13:25|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari</a><br/><em>Chiusura di e-privacy XXXVI</em></span>
 13:30||<span class='talk'><em>Fine sessione</em></span>
 

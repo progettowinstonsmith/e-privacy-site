@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 17:27:50
+Date: 2023-04-13 15:10:04
 slug: e-privacy-XXXVI-interventi
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -27,12 +27,12 @@ Title: La vita è tutto un dossier
 L'intervento si propone di dare una rapida panoramica sulla rivalutazione delle problematiche classiche di privacy & security con l'introduzione dell'IA generativa nelle sua diverse varianti. Se, da un lato, l'IA può essere un valido aiuto anche in questi settori, dall'altro ci pone di fronte a nuove e stimolanti sfide
 
 #### <a name="2gm08"></a> Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati<a href="/e-privacy-XXXVI-programma.html#2gm08">⇧</a>
-<a href="/e-privacy-XXXVI-relatori.html#2gm08">Vito Nicola Convertini (Uniba) </a>
+<a href="/e-privacy-XXXVI-relatori.html#2gm08">Vito Nicola Convertini</a>
 
 Le tecniche di anonimizzazione dei dati sono adottate in industria a tutela della privacy degli individui in una pluralità di settori, tra cui la sanità, la finanza e la ricerca sociale. Tuttavia, metodi tradizionalmente adottato come il k-anonimato e la l-diversità presentano vulnerabilità che possono essere sfruttate per re-identificare informazioni sensibili. In questo intervento si fornirà un’analisi tecnica delle principali debolezze nei metodi di anonimizzazione, come il k-anonimato e la l-diversità, proponendo strategie avanzate per la loro mitigazione. Saranno discussi esempi concreti di attacchi e l'adozione di contromisure efficaci.
 
 #### <a name="1gp06"></a> Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione<a href="/e-privacy-XXXVI-programma.html#1gp06">⇧</a>
-<a href="/e-privacy-XXXVI-relatori.html#1gp06">Vito Nicola Convertini (Uniba) </a>
+<a href="/e-privacy-XXXVI-relatori.html#1gp06">Vito Nicola Convertini</a>
 
 I dark pattern rappresentano una minaccia significativa per la privacy digitale, manipolando gli utenti per ottenere il consenso. Il lavoro si concentra sull’analisi tecnica dei dark pattern, esaminando sia le tecniche di ingegneria sociale sia le vulnerabilità delle interfacce utente. Verranno presentate le proposte tecniche presenti in letteratura per rilevare e mitigare questi pattern, migliorando sicurezza e trasparenza delle piattaforme digitali.
 
