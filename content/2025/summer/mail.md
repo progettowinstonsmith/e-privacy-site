@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2023-04-13 15:11:24
+Date: 2023-04-13 15:16:21
 slug: e-privacy-XXXVI-mail
 css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 timeline: 28 marzo | 7 aprile | 12 maggio
@@ -77,7 +77,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 10:40|30|<span class='talk'>Nanni Bassetti<br/><em>La privacy, le norme, l'AI Act, sono davvero applicabili?</em></span>
 11:10|30|<span class='talk'><em>Coffee Break</em></span>
 11:40|20|<span class='talk'>Emanuele Brambilla<br/><em>La gestione dei dati fra infosfera e docusfera</em></span>
-12:00|20|<span class='talk'>Art P. (Digidati.art)<br/><em>L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici</em></span>
+12:00|20|<span class='talk'>Art P. (Digidati.art)<br/><em>La privacy digitale non è alla tua portata... o forse sì?</em></span>
 12:20|20|<span class='talk'>Stefano Mastella<br/><em>Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</em></span>
 12:40|20|<span class='talk'>Jolanda Giacomello<br/><em>Dai dati alle previsioni: l'IA per un dossieraggio predittivo</em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
@@ -106,7 +106,7 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 ------- | --- | -------
 09:30|5|<span class='talk'>Ugo Lopez<br/><em>Apertura della sessione</em></span>
 09:35|20|<span class='talk'>Filippo Bianchini (ASSO DPO - ISLC)<br/><em>Spazio Europeo dei Dati Sanitari (EHDS): una nuova era per la condivisione e l’innovazione in ambito sanitario</em></span>
-09:55|30|<span class='talk'>Monica Gobbato (Privacy Academy)<br/><em>I nuovi dossier Digitali: i social network</em></span>
+09:55|30|<span class='talk'>Monica Gobbato (Privacy Academy) e Angela Pedalina (Lawboat.ch)<br/><em>I nuovi dossier Digitali: i social network</em></span>
 10:25|30|<span class='talk'>Guido Scorza (Garante per la Protezione dei Dati Personali)<br/><em>TBD</em></span>
 10:55|30|<span class='talk'><em>Coffee Break</em></span>
 11:25|30|<span class='talk'>Luca Landucci (Pro Cultura Aperta)<br/><em>La monetizzazione dei dati personali</em></span>
@@ -222,10 +222,29 @@ Christian Bernieri (DPO - molte aziende, titolare di SGST srl)
 
 Dai tempi delle BBS in poi, chi gestisce un sistema informativo può vedere tutto ciò che gli utenti fanno, dal piccolo server aziendale ai Data Center di un grande Social Network. Gli utenti non sono consapevoli di questo, anzi, sono convinti del contrario. Si tratta di una precisa scelta: le conseguenze sono note e desiderate. La cifratura potrebbe cambiare le cose a vantaggio degli utenti, forse per questo, è osteggiata a vari livelli: politico, mediatico, regolatorio. Considerazioni sulla possibilità di una esistenza digitale protetta.
 
-#### <a name="1gm05"></a> L'Era dell'Informazione: soccombere o padroneggiare? Portare gli strumenti della libertà ai non-tecnici
+#### <a name="1gm05"></a> La privacy digitale non è alla tua portata... o forse sì?
 Art P. (Digidati.art) 
 
-Per una lettura più agevole allego il PDF della descrizione: https://www.swisstransfer.com/d/5f400c82-caee-4b5c-aa79-ccf394be992a&#13;&#10;&#13;&#10;In alternativa, copio-incollo il testo anche qui anche se non c'è la formattazione.&#13;&#10;&#13;&#10;________&#13;&#10;&#13;&#10;L'Era Digitale sta cambiando l'assetto dell'intera società. Ed è solo l'inizio. &#13;&#10;Da un lato, essa sta dando a istituzioni e multinazionali un potere sul popolo mai visto nella storia. Dall’altro lato, i singoli individui hanno ora a disposizione tecnologie che permettono di fronteggiare questo enorme potere. &#13;&#10;Da una parte, quindi, c’è una forte minaccia della nostra libertà, dall’altra, strumenti che possono aiutarci a mantenere la nostra libertà.&#13;&#10;C’è un piccolo dettaglio in tutto questo: per trarre vantaggio da tali strumenti serve conoscerli, padroneggiarli.&#13;&#10;Tale percorso verso la libertà passa quindi necessariamente anche dalla conoscenza e dalla consapevolezza del ruolo dell'informatica nelle nostre vite.&#13;&#10;La nostra relazione con gli strumenti digitali e il nostro approccio con l'informatica diventano cruciali in questo contesto.&#13;&#10;Quando sappiamo come funzionano e sappiamo utilizzarli a nostro vantaggio, siamo più capaci di controllare il flusso dei nostri dati digitali e quindi la nostra privacy.&#13;&#10;Per ora queste capacità sono state appannaggio di pochi eletti: smanettoni, appassionati di informatica, professionisti del settore o autodidatti con molto tempo da investire per imparare. È il momento di espandere queste conoscenze e capacità anche ad altre persone non-tecniche!&#13;&#10;Esistono tre aspetti su cui porre attenzione per perseguire questo obiettivo.&#13;&#10;    1. Il primo aspetto è la presa di consapevolezza. Significa renderci conto della nostra sempre minor sovranità in ambito digitale e di riflesso di una nostra sempre minor privacy digitale.&#13;&#10;E già qui c’è uno spartiacque che separa una minoranza di coloro che hanno compreso la serietà della situazione e una maggioranza di coloro che, invece, non se ne curano. È inefficace forzare questo aspetto, per cui è opportuno concentrarsi su coloro che hanno sviluppato o stanno sviluppando una sensibilità su questi temi.&#13;&#10;    2. Il secondo aspetto è analizzare la situazione attuale. Sono già presenti associazioni, siti, blog e video che forniscono informazioni utili in tale ambito. Tuttavia sono in genere visitati dagli stessi pochi eletti e non è sempre semplice districarsi tra la mole di informazioni e offerte di strumenti alternativi.&#13;&#10;In più, rimanere al passo in questo mondo che cambia rapidamente e imparare da autodidatta rimane una sfida. Raggiungere e mantenere una situazione di maggior sovranità sulla propria vita digitale, in modo stabile e sereno, rimane arduo e alla portata di pochi.&#13;&#10;    3. Il terzo e ultimo aspetto che punta all’espansione di queste conoscenze è la creazione e lo sviluppo di realtà che guidano le persone verso il raggiungimento di una maggior sovranità digitale in modo sereno e duraturo. Tali realtà sono necessarie perché portano conoscenze e strumenti fondamentali ai non-tecnici e li guidano in questo percorso.&#13;&#10;Riprendere il controllo dei nostri dati, dei nostri dispositivi tecnologici e della nostra libertà di essere se stessi è diventata ormai una necessità. È giunto il momento di creare un punto di riferimento in Italia, professionale e strutturato, che risolva questa nuova esigenza nell’Era dell'informazione in cui viviamo.&#13;&#10;In primis, tale punto di riferimento deve avere un metodo funzionale su come approcciare qualcuno che non è un appassionato di informatica e al quale interessa solo quella piccola percentuale di nozioni e strumenti per riprendere la sua privacy. Significa lavorare sull’approccio all’informatica odierna.&#13;&#10;In secondo luogo deve poter offrire un set di strumenti semplici da adottare e personalizzati perché non tutte le alternative più libere sono valide per tutti. Attraverso una guida e assistenza continuativa e presente, anche una persona non-tecnica può utilizzare con soddisfazione strumenti e servizi più etici.&#13;&#10;Il sottoscritto è già operativo nel costruire questa nuova realtà. Dalla mia esperienza vorrei portare delle linee guida che hanno funzionato per promuovere questi temi. Vorrei anche portare aspetti a mio avviso da migliorare nell’attuale divulgazione su questi temi. Infine vorrei intavolare una discussione sul modo più efficace per portare questi strumenti di libertà ai nuovi consapevoli non-tecnici e su come unire le forze per raggiungere tale obiettivo.&#13;&#10;Dobbiamo essere noi a governare il digitale, e non il digitale a governare noi.
+Siamo nel bel mezzo di una rivoluzione: l'Era dell'Informazione sta
+cambiando l’assetto della società. O rimaniamo al passo, oppure siamo
+destinati a soccombere, sia in veste di consumatori, sia in veste di
+cittadini e infine, come essere umani. Questa rivoluzione offre sì
+nuove opportunità, benefici e potenzialità; tuttavia presenta anche
+molti rischi e problemi per la società e l'individuo. In tutto questo,
+si investe poco nello stimolare la consapevolezza riguardo il lato
+oscuro del digitale, tra cui l’abuso dei dati personali, l’alterazione
+della percezione della realtà e in generale l’assenza della privacy
+digitale. Ne consegue che in primis pochi si rendono conto del mancato
+controllo sui propri dati e dispositivi. In più, tra quei pochi che se
+ne sono accorti, sembra solo che i tecnici, appassionati e smanettoni
+abbiano la possibilità di coltivare la loro consapevolezza e
+migliorare quindi la loro privacy. C’è modo di coinvolgere più
+persone? Come dare in mano strumenti più attenti alla privacy a
+persone comuni? La privacy digitale può essere alla portata di chi
+“non capisce nulla di tecnologia e non gli interessa”? Porterò esempi
+dalla mia esperienza di consulente e divulgatore, per stimolare
+riflessioni su come aiutare coloro che hanno sensibilità latente o
+manifestata riguardo questi temi.
 
 #### <a name="1gp03"></a> Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni
 Rebecca Berto
