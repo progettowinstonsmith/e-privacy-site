@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 12:56:02
+Date: 2023-04-13 21:20:40
 slug: e-privacy-XXXVI-programma
 Year: 2025
 Where: Università degli studi
@@ -25,6 +25,7 @@ Date: 13/04/2025
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 City: Bari
 Category: 2025
+Slug: e-privacy-XXXVI-vars
 
 
 Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.

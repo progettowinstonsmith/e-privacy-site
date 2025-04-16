@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 12:55:52
+Date: 2023-04-13 21:20:30
 slug: e-privacy-XXXVI-interventi
 Year: 2025
 Where: Università degli studi
@@ -25,6 +25,7 @@ Date: 13/04/2025
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 City: Bari
 Category: 2025
+Slug: e-privacy-XXXVI-vars
 
 ## <a name="talks"></a>Gli interventi
 

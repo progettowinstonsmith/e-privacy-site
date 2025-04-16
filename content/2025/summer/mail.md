@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2023-04-13 12:55:52
+Date: 2023-04-13 21:20:30
 slug: e-privacy-XXXVI-mail
 Year: 2025
 Where: Università degli studi
@@ -25,6 +25,7 @@ Date: 13/04/2025
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 City: Bari
 Category: 2025
+Slug: e-privacy-XXXVI-vars
 
 <span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVI-mail.html">qui</a></font></span>
 <br/><br/>
@@ -333,10 +334,6 @@ Luca Landucci opera nel digital marketing e nell’intelligenza artificiale. Con
 ### <a name='ap'></a>Art P.
 
 Punto a costruire un mondo dove siamo noi a governare il digitale, e non il digitale a governare noi. Per questo ho fondato DigiDati, un progetto di consulenza e facilitazione informatica, specializzato nel rafforzamento della sovranità digitale di privati e aziende. Nel concreto, guido e supporto le persone ad utilizzare al meglio strumenti e servizi informatici, preservando al contempo la propria privacy e il controllo sui propri dispositivi e digitali. Porto tutto questo alle persone comuni senza competenze tecnico-informatiche, contribuendo così ad innalzare il livello di Alfabetizzazione Digitale in Italia.
-
-### <a name='mcalamari'></a>Marco Calamari
-
-Progetto Winston Smith
 
 ### <a name='vconvertini'></a>Vito Nicola Convertini
 
