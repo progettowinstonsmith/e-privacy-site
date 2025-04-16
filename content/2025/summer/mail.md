@@ -1,23 +1,30 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-04-15 19:27:24
+Date: 2023-04-13 12:55:52
 slug: e-privacy-XXXVI-mail
-css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
-timeline: 28 marzo | 7 aprile | 12 maggio
-next: 
-nextid: 
-prev: e-privacy-XXXV
-previd: 2023W
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: summer
-When: 22-23 maggio
-Where: Università degli studi
-City: Bari
 Year: 2025
-Num: XXXVI
-lang: it
-Category: 2025
+Where: Università degli studi
+When: 22-23 maggio
 Title: La vita è tutto un dossier
+Timeline: 28 marzo | 7 aprile | 12 maggio
+Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
+Season: summer
+Previd: 2024W
+Prev: e-privacy-XXXV
+Num: 36
+Nextid: 
+Next: 
+Location: Bari
+Lang: it
+Giorni: 22 e 23 maggio 2025
+Extra-Documents: nil
+Event_Path: content/2025/summer
+Eprivacy_N: XXXVI
+Edition: summer
+Date: 13/04/2025
+Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
+City: Bari
+Category: 2025
 
 <span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVI-mail.html">qui</a></font></span>
 <br/><br/>
@@ -277,7 +284,7 @@ Biografie relatori
 
 ### <a name='apedalina'></a>Angela Pedalina
 
-Angela Pedalina, giurista, criminologa e consulente Data protection. Da anni si occupa di diritto di internet e delle nuove tecnologie, come l'AI, e di altre tematiche legate al mondo del Digitale. Formatrice aziendale con un approccio multidisciplinare che integra privacy, cybersecurity e innovazione. Socia di InformatiCH Sagl, Vice Presidente dell'associazione Lawboat.ch e socia affezionata di Privacy Academy.
+Angela Pedalina. Cofounder con Monica Gobbato di Lawboat.ch. Cofounder di Informatich.ch.Giurista che si occupa di privacy  e cybersecurity. Socia di Privacy Academy.it
 
 ### <a name='fbianchini'></a>Filippo Bianchini
 

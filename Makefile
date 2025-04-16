@@ -100,6 +100,11 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
+deposit: publish
+	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
+	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
+
+
 upload: publish
 	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
 	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"

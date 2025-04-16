@@ -1,23 +1,30 @@
 Template: event
 XStatus: draft
-Date: 2025-04-15 19:27:24
+Date: 2023-04-13 12:55:52
 slug: e-privacy-XXXVI-interventi
-css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
-timeline: 28 marzo | 7 aprile | 12 maggio
-next: 
-nextid: 
-prev: e-privacy-XXXV
-previd: 2023W
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Season: summer
-When: 22-23 maggio
-Where: Università degli studi
-City: Bari
 Year: 2025
-Num: XXXVI
-lang: it
-Category: 2025
+Where: Università degli studi
+When: 22-23 maggio
 Title: La vita è tutto un dossier
+Timeline: 28 marzo | 7 aprile | 12 maggio
+Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
+Season: summer
+Previd: 2024W
+Prev: e-privacy-XXXV
+Num: 36
+Nextid: 
+Next: 
+Location: Bari
+Lang: it
+Giorni: 22 e 23 maggio 2025
+Extra-Documents: nil
+Event_Path: content/2025/summer
+Eprivacy_N: XXXVI
+Edition: summer
+Date: 13/04/2025
+Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
+City: Bari
+Category: 2025
 
 ## <a name="talks"></a>Gli interventi
 
