@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2023-04-13 21:20:30
+Date: 2025-04-16 21:24:44
 slug: e-privacy-XXXVI-interventi
 Year: 2025
 Where: Università degli studi
@@ -11,7 +11,7 @@ Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra 
 Season: summer
 Previd: 2024W
 Prev: e-privacy-XXXV
-Num: 36
+Num: XXXVI
 Nextid: 
 Next: 
 Location: Bari
