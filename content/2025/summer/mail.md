@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-04-16 22:31:05
+Date: 2025-04-16 22:41:44
 slug: e-privacy-XXXVI-mail
 Year: 2025
 Where: Università degli studi
@@ -74,8 +74,6 @@ Il convegno si svolgerà presso:
 [Facoltà di Giurispudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex)
 
 <br/>Piazza C. Battisti 1<br/>Aula Aldo Moro piano terra
-
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=16.865419149398807%2C41.119345316084406%2C16.867790222167972%2C41.12084863946091&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/41.120097/16.866605">View Larger Map</a></small>
 
 
 
