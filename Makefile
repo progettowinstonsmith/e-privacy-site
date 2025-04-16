@@ -101,7 +101,7 @@ ssh_upload: publish
 
 
 deposit: publish
-	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
+	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(TARGETDIR) --cvs-exclude  --exclude=materiali --delete-excluded
 	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
 
 
