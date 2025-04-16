@@ -15,6 +15,7 @@ Location: Bari
 Next: 
 Nextid: 
 Num: XXXVI
+Options: toc:nil
 Prev: e-privacy-XXXV
 Previd: 2024W
 Season: summer
@@ -26,13 +27,6 @@ Where: Università degli studi
 Year: 2025
 
 
-# Table of Contents
-
-1.  [Dove è la sede?](#orgadb7359)
-
-
-
-<a id="orgadb7359"></a>
 
 # Dove è la sede?
 

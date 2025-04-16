@@ -1,82 +1,133 @@
-Template: event
-Date: 2025-02-14 15:00:00
-slug: e-privacy-XXXVI-cfp
-Title: La vita è tutto un dossier
+Slug: e-privacy-XXXVI-cfp
 Category: 2025
-lang: it
-Num: XXXVI
-Year: 2025
 City: Bari
-Where: Università degli studi
-When: 22-23 maggio
+Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
+Date: 13/04/2025
+Edition: summer
+Enabled: yes
+Eprivacy_N: XXXVI
+Event_Path: content/2025/summer
+Extra-Documents: nil
+Giorni: 22 e 23 maggio 2025
+Lang: it
+Location: Bari
+Next: 
+Nextid: 
+Num: XXXVI
+Options: toc:nil
+Prev: e-privacy-XXXV
+Previd: 2024W
 Season: summer
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2024W
-prev: e-privacy-XXXV
-nextid:
-next:
-timeline: 28 marzo | 7 aprile | 12 maggio
-css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
-Organizzatori: pws
-Collaboratori: bba 
-Patrocini: gpdp 
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
-MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+Status: locked
+Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
+Timeline: 28 marzo | 7 aprile | 12 maggio
+Title: La vita è tutto un dossier
+When: 22-23 maggio
+Where: Università degli studi
+Year: 2025
 
 
-e-privacy XXXVI @ Bari
-===============================
 
-<div class="title-XXXVI">«La vita è tutto un dossier»</div>
+# e-privacy XXXVI @ Bari
 
-<div class="subtitle-XXXVI">Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?</div>
+«La vita è tutto un dossier»
 
-<br>
+Avere come obiettivo solo una riduzione del danno alla privacy sembra
+ormai l'unica strada percorribile per gli individui. Ma è davvero
+possibile ottenerlo?
 
-<!-- b class="avviso">Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b -->
-<!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
-Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie. -->
+<div class="HTML" id="orga70a13b">
+<p>
+&lt;!&#x2013; b class="avviso"&gt;Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.&lt;/b &#x2013;&gt;
+</p>
+
+</div>
+
+<div class="HTML" id="org83f3cc5">
+<p>
+&lt;!&#x2013; b class="avviso"&gt;Attenzione:&lt;/b&gt; Questa edizione di e-privacy sarà a numero chiuso. 
+Per iscriversi in lista d'attesa per l'accesso compilare questo &lt;a href="/iscrizione-lista-dattesa-eprivacy.html"&gt;form&lt;/a&gt;. Grazie. &#x2013;&gt;
+</p>
+
+</div>
 
 
-Call for Paper
---------------
+## Call for Paper
 
-Il *Progetto Winston Smith* è lieto di invitarti come relatore alla trentaseiesima edizione di e-privacy, che si terrà in presenza ed in videoconferenza  il 22 e 23 maggio a Bari.
+Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
+trentaseiesima edizione di e-privacy, che si terrà in presenza ed in
+videoconferenza il 22 e 23 maggio a Bari.
 
-**Il nostro CfP si è chiuso l'8 aprile 2024*, e la comunicazione di
-accettazione ai relatori avverrà *entro il 14 aprile 2024.**
+**Il nostro CfP si è chiuso l'8 aprile 2024/, e la comunicazione di
+accettazione ai relatori avverrà /entro il 14 aprile 2024.**
 
-Il tema
--------
+
+## Il tema
 
 La raccolta di dati in dossier non è una novità dell‘era moderna.
 
-Storicamente in Europa i dati relativi ai passaggi fondamentali della vita di un individuo, ovvero nascita, matrimonio, morte, iniziarono ad essere raccolti in modo sistematico a partire dal Concilio di Trento, che si chiuse nel 1563. 
+Storicamente in Europa i dati relativi ai passaggi fondamentali della
+vita di un individuo, ovvero nascita, matrimonio, morte, iniziarono ad
+essere raccolti in modo sistematico a partire dal Concilio di Trento,
+che si chiuse nel 1563.
 
-L'atto di battesimo era anche la prova della propria esistenza come cittadino, tanto che gli appartenenti ai culti non cattolici chiesero a gran voce che questi registri fossero gestiti dallo Stato e non dalla Chiesa, per essere parte della società civile. Nacque così l'ufficio dello Stato Civile, ma nacquero così anche i primi dossier, poiché, nel bene e nel male, l'individuo non era più un'entità che esiste per dato di fatto, ma aveva una sua dignità giuridica. 
-A inizio '900 si introdusse l'anagrafe, che registrava, oltre ai componenti della famiglia, anche il "foglio di casa", primo nucleo del catasto urbano. Si aggiunsero poi i registri di vaccinazione, i dati del casellario penale, le cartelle cliniche, i titoli di studio... 
+L'atto di battesimo era anche la prova della propria esistenza come
+cittadino, tanto che gli appartenenti ai culti non cattolici chiesero a
+gran voce che questi registri fossero gestiti dallo Stato e non dalla
+Chiesa, per essere parte della società civile. Nacque così l'ufficio
+dello Stato Civile, ma nacquero così anche i primi dossier, poiché, nel
+bene e nel male, l'individuo non era più un'entità che esiste per dato
+di fatto, ma aveva una sua dignità giuridica. A inizio '900 si
+introdusse l'anagrafe, che registrava, oltre ai componenti della
+famiglia, anche il "foglio di casa", primo nucleo del catasto urbano. Si
+aggiunsero poi i registri di vaccinazione, i dati del casellario penale,
+le cartelle cliniche, i titoli di studio&#x2026;
 
-Tutti dati importanti, come importanti sono i dati privati relativi ai conti bancari, alla carriera lavorativa, alle attività di hobbistica e volontariato, ma si trattava di dati sparsi, per cui ogni volta che serviva un’informazione occorreva andare presso l'Ente e chiedere di frugare nei faldoni per averne una copia.
+Tutti dati importanti, come importanti sono i dati privati relativi ai
+conti bancari, alla carriera lavorativa, alle attività di hobbistica e
+volontariato, ma si trattava di dati sparsi, per cui ogni volta che
+serviva un'informazione occorreva andare presso l'Ente e chiedere di
+frugare nei faldoni per averne una copia.
 
-Oggi si tende, come nel caso dell'ANPR - anagrafe nazionale della popolazione residente, a raggruppare tutti i dati di una persona in un unico luogo virtuale, accessibile da qualunque parte del mondo.
+Oggi si tende, come nel caso dell'ANPR - anagrafe nazionale della
+popolazione residente, a raggruppare tutti i dati di una persona in un
+unico luogo virtuale, accessibile da qualunque parte del mondo.
 
-Ma, nell‘era digitale, il cittadino è anche attivo nel web: in un articolo pubblicato su "BigThink" nel maggio 2012 l‘autore Mark Cheney si poneva già il quesito di quanto il cittadino od il consumatore fosse a conoscenza del contenuto del suo dossier digitale. L‘autore rifletteva sulla vita nel web, dove si accumulano dati sulle abitudini e sugli interessi della vita online di ognuno. 
+Ma, nell‘era digitale, il cittadino è anche attivo nel web: in un
+articolo pubblicato su "BigThink" nel maggio 2012 l‘autore Mark Cheney
+si poneva già il quesito di quanto il cittadino od il consumatore fosse
+a conoscenza del contenuto del suo dossier digitale. L‘autore rifletteva
+sulla vita nel web, dove si accumulano dati sulle abitudini e sugli
+interessi della vita online di ognuno.
 
-Oggigiorno moltissimi hanno letteralmente l'intera vita professionale e privata immersa nei dati digitali. Se poi non hanno più accesso a tali dati sono letteralmente nei guai, anche solo nel recuperare copie delle fatture emesse, perché la vita digitale "reale" prosegue, anche indipendentemente dall‘accesso o meno ai propri fascicoli digitali.
+Oggigiorno moltissimi hanno letteralmente l'intera vita professionale e
+privata immersa nei dati digitali. Se poi non hanno più accesso a tali
+dati sono letteralmente nei guai, anche solo nel recuperare copie delle
+fatture emesse, perché la vita digitale "reale" prosegue, anche
+indipendentemente dall‘accesso o meno ai propri fascicoli digitali.
 
-Tuttavia i dossier digitali hanno dei lati oscuri, ossia chi utilizza i dossier: coloro che vengono  in mente sono gli esperti degli uffici delle risorse umane di imprese, che verificano se sul web vi siano delle informazioni relative ad un candidato tali da renderlo inadatto a ricoprire una determinata posizione lavorativa. O peggio ancora informazioni delicate, nelle mani sbagliate, possono portare a ricatti digitali oppure alla possibilità di rintracciare dissidenti. 
+Tuttavia i dossier digitali hanno dei lati oscuri, ossia chi utilizza i
+dossier: coloro che vengono in mente sono gli esperti degli uffici delle
+risorse umane di imprese, che verificano se sul web vi siano delle
+informazioni relative ad un candidato tali da renderlo inadatto a
+ricoprire una determinata posizione lavorativa. O peggio ancora
+informazioni delicate, nelle mani sbagliate, possono portare a ricatti
+digitali oppure alla possibilità di rintracciare dissidenti.
 
-Poco si parla dei rischi meno evidenti connessi ai dossier digitali: accessi illegittimi, raggruppamento di tutti i dati di una persona in un unico posto. 
+Poco si parla dei rischi meno evidenti connessi ai dossier digitali:
+accessi illegittimi, raggruppamento di tutti i dati di una persona in un
+unico posto.
 
-I dossier in genere - e quelli digitali in particolare - possono essere comodi, ma certamente non sono innocui. 
+I dossier in genere - e quelli digitali in particolare - possono essere
+comodi, ma certamente non sono innocui.
 
-Ed in tale contesto, il GDPR è ancora uno strumento efficace, in grado di ridurre il danno alla privacy? 
+Ed in tale contesto, il GDPR è ancora uno strumento efficace, in grado
+di ridurre il danno alla privacy?
 
 O è solo una chimera inseguita dagli addetti ai lavori?
- 
 
-Il convegno
-===========
+
+# Il convegno
 
 Sin dal 2002 ad e-privacy si sono confrontate le tematiche di un mondo
 sempre più digitale ed interconnesso, nel quale le possibilità di
@@ -87,8 +138,8 @@ in informatica ai legali che si occupano di nuove tecnologie, dagli
 psicologi agli educatori, dagli operatori privati a quanti operano nel
 settore pubblico ed istituzionale.
 
-Le proposte d'intervento
-=========================
+
+# Le proposte d'intervento
 
 Il comitato organizzatore valuterà proposte in ambito tecnologico,
 legale, istituzionale e giurisprudenziale, delle scienze sociali, della
@@ -99,12 +150,15 @@ diversi da quello dell'edizione, purché di interesse e di attualità.
 
 Il CFP di questa edizione si **chiuderà il 28 marzo 2025**.
 
-L'accettazione o meno delle proposte sarà comunicata **entro il 7 aprile 2025**.
+L'accettazione o meno delle proposte sarà comunicata **entro il 7 aprile
+2025**.
 
 Gli elaborati, slide o relazioni dell'intervento dovranno pervenire in
-forma elettronica, tramite un apposito form online che verrà comunicato successivamente ai relatori, **entro il 12 maggio 2025**.
+forma elettronica, tramite un apposito form online che verrà comunicato
+successivamente ai relatori, **entro il 12 maggio 2025**.
 
-**La proposta deve essere presentata usando questo [form](/e-privacy-XXXVI-proposta.html).**
+**La proposta deve essere presentata usando questo
+[form](file:///e-privacy-XXXVI-proposta.html).**
 
 Le proposte dovranno contenere:
 
@@ -133,16 +187,16 @@ Di seguito un elenco - non esaustivo - di argomenti pertinenti:
 -   Profilazione, geotagging, biometria, riconoscimento facciale
 -   Tecnologie della liberazione per l'arricchimento della privacy,
     crittografia e comunicazione sicura.
--   Impatto delle tecnologie di controllo e dell'anonimato sui diritti
-    dei lavoratori e degli studenti.
+-   Impatto delle tecnologie di controllo e dell'anonimato sui diritti dei
+    lavoratori e degli studenti.
 -   Evoluzione dei mercati di dati personali: data retention, analisi
     big-data, circolazione e rivendita
--   Dati personali in rete: captatori, intercettazioni lecite e
-    illecite, anonimizzazione, ciclo di vita dei dati raccolti a fini
+-   Dati personali in rete: captatori, intercettazioni lecite e illecite,
+    anonimizzazione, ciclo di vita dei dati raccolti a fini
     d'investigazione criminale o di sorveglianza di polizia.
 
-Gli interventi
-==============
+
+# Gli interventi
 
 Gli interventi saranno effettuati dal vivo oppure in videoconferenza e,
 con il consenso dei relatori, registrati in audio ed in video.
@@ -151,8 +205,8 @@ I relatori potranno utilizzare documenti, slide o filmati; è apprezzata
 la disponibilità del relatore a concedere la pubblicazione del materiale
 e delle riprese dell'intervento sotto licenza libera.
 
-L'Organizzazione
-=================
+
+# L'Organizzazione
 
 Al fine di mantenere la propria indipendenza, il convegno è, come
 sempre, **a budget zero**. I relatori ed i partecipanti dovranno
@@ -160,10 +214,13 @@ provvedere in proprio alle spese. Eventuali sponsorizzazioni di ditte,
 enti, gruppi o associazioni hanno carattere non economico e sono intese
 come adesione morale ai temi ed ai principi.
 
+
 ### Gli organizzatori
 
-La manifestazione e' organizzata dal [**Progetto Winston Smith**](http://pws.winstonsmith.org/)
- e da altre organizzazioni, aziende ed associazioni.
+La manifestazione e' organizzata dal
+[**Progetto Winston Smith**](http://pws.winstonsmith.org/) e da altre
+organizzazioni, aziende ed associazioni.
+
 
 ### Contatti
 
@@ -173,6 +230,7 @@ contatti con i relatori
 [**cfp-eprivacy@winstonsmith.org**](mailto:cfp-eprivacy@winstonsmith.org).
 
 Maggiori informazioni sul sito del Convegno
-[**http://e-privacy.winstonsmith.org**](http://e-privacy.winstonsmith.org/).
+[**<http://e-privacy.winstonsmith.org>**](http://e-privacy.winstonsmith.org/).
 
 **Vi aspettiamo**.
+

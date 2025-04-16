@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-04-16 22:41:55
+Date: 2025-04-16 22:47:43
 slug: e-privacy-XXXVI-programma
 Year: 2025
 Where: Università degli studi
@@ -35,11 +35,11 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 <div class="title-XXXVI">«La vita è tutto un dossier»</div>
 <div class="subtitle-XXXVI">Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?</div>
 
-Il convegno si svolgerà presso:
+<br/><br/>
 
-[Facoltà di Giurispudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex)
+Il convegno si svolgerà presso la [Facoltà di Giurispudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra
 
-<br/>Piazza C. Battisti 1<br/>Aula Aldo Moro piano terra
+<br/><br/>
 
 
 

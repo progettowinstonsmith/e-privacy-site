@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-04-16 22:41:45
+Date: 2025-04-16 22:47:33
 slug: e-privacy-XXXVI-relatori
 Year: 2025
 Where: Università degli studi

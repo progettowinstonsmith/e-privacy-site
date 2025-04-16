@@ -1,24 +1,38 @@
-Date: 2025-02-14 14:00:00
-slug: e-privacy-XXXVI-proposta
-Template: event
-XStatus: draft
-Title: La vita è tutto un dossier
+Slug: e-privacy-XXXVI-proposta
 Category: 2025
-lang: it
-Num: XXXVI
-Year: 2025
 City: Bari
-Where: Camera di Commercio
-When: 22-23 maggio
+Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
+Date: 13/04/2025
+Edition: summer
+Eprivacy_N: XXXVI
+Event_Path: content/2025/summer
+Extra-Documents: nil
+Giorni: 22 e 23 maggio 2025
+Lang: it
+Location: Bari
+Next: 
+Nextid: 
+Num: XXXVI
+Prev: e-privacy-XXXV
+Previd: 2024W
 Season: summer
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-previd: 2024W
-prev: e-privacy-XXXV
-nextid:
-next:
-timeline: 28 marzo | 7 aprile | 12 maggio
-css: .title-XXXIV { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXX { font: 18px arial, sans-serif; text-align: center; }
-
-** Il CfP è chiuso **
+Status: locked
+Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
+Timeline: 28 marzo | 7 aprile | 12 maggio
+Title: La vita è tutto un dossier
+When: 22-23 maggio
+Where: Università degli studi
+Year: 2025
 
 
+# Table of Contents
+
+1.  [Il CfP è chiuso \*\*](#org84badc9)
+
+
+
+<a id="org84badc9"></a>
+
+# Il CfP è chiuso \*\*
+
+TEST
