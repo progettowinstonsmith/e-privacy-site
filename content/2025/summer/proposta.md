@@ -4,6 +4,7 @@ City: Bari
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 Date: 13/04/2025
 Edition: summer
+Enabled: yes
 Eprivacy_N: XXXVI
 Event_Path: content/2025/summer
 Extra-Documents: nil
@@ -17,7 +18,7 @@ Options: toc:nil
 Prev: e-privacy-XXXV
 Previd: 2024W
 Season: summer
-Status: locked
+Status: hidden
 Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
 Timeline: 28 marzo | 7 aprile | 12 maggio
 Title: La vita è tutto un dossier

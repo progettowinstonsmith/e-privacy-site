@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-04-17 10:26:52
+Date: 2025-04-17 11:06:11
 Slug: e-privacy-XXXVI-programma
 Year: 2025
 Where: Università degli studi

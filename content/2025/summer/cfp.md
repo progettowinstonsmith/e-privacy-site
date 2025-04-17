@@ -36,14 +36,14 @@ Avere come obiettivo solo una riduzione del danno alla privacy sembra
 ormai l'unica strada percorribile per gli individui. Ma è davvero
 possibile ottenerlo?
 
-<div class="HTML" id="orga70a13b">
+<div class="HTML" id="orgef6483c">
 <p>
 &lt;!&#x2013; b class="avviso"&gt;Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.&lt;/b &#x2013;&gt;
 </p>
 
 </div>
 
-<div class="HTML" id="org83f3cc5">
+<div class="HTML" id="org39657b9">
 <p>
 &lt;!&#x2013; b class="avviso"&gt;Attenzione:&lt;/b&gt; Questa edizione di e-privacy sarà a numero chiuso. 
 Per iscriversi in lista d'attesa per l'accesso compilare questo &lt;a href="/iscrizione-lista-dattesa-eprivacy.html"&gt;form&lt;/a&gt;. Grazie. &#x2013;&gt;
