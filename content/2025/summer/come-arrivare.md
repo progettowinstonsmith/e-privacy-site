@@ -33,7 +33,7 @@ Year: 2025
 
 Il convegno si svolgerà presso:
 
-[Facoltà di Giurispudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex)
+[Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex)
 
 <br/>Piazza C. Battisti 1<br/>Aula Aldo Moro piano terra
 
