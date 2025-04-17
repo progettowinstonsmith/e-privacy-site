@@ -1,7 +1,7 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-04-16 22:47:33
-slug: e-privacy-XXXVI-mail
+Date: 2025-04-17 08:34:19
+Slug: e-privacy-XXXVI-mail
 Year: 2025
 Where: Università degli studi
 When: 22-23 maggio
@@ -21,11 +21,9 @@ Extra-Documents: nil
 Event_Path: content/2025/summer
 Eprivacy_N: XXXVI
 Edition: summer
-Date: 13/04/2025
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 City: Bari
 Category: 2025
-Slug: e-privacy-XXXVI-vars
 
 <span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVI-mail.html">qui</a></font></span>
 <br/><br/>
