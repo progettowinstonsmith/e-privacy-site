@@ -13,6 +13,7 @@ Location: Bari
 Next: 
 Nextid: 
 Num: XXXVI
+Options: toc:nil
 Prev: e-privacy-XXXV
 Previd: 2024W
 Season: summer
@@ -25,14 +26,6 @@ Where: Università degli studi
 Year: 2025
 
 
-# Table of Contents
-
-1.  [Il CfP è chiuso \*\*](#org84badc9)
-
-
-
-<a id="org84badc9"></a>
 
 # Il CfP è chiuso \*\*
 
-TEST
