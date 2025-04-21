@@ -256,7 +256,7 @@ PARTNERS = {
    'ordinefirenze': ('Ordine Ingegneri Firenze', 'ordinefilogo.png', 'https://www.ordineingegneri.fi.it/'),
     'federazionetoscana': ('Federazione Regionale Ingegneri Toscana', 'federazione_regionale_ingegneri.png', 'http://www.federazioneingegneri.toscana.it/'),
     'ordineingegneribrescia': ('Ordine Ingegneri Brescia', 'logoOIB.png', 'https://brescia.ordingegneri.it/'),
-    'ministerouniversitaricerca': ('Ministero Università e Ricerca', 'logomur.png', 'https://www.mur.gov.it/it'),
+    'ministerouniversitaricerca': ('Ministero Università e Ricerca', 'logomur.jpg', 'https://www.mur.gov.it/it'),
 }
 
 
