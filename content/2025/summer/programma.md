@@ -32,7 +32,7 @@ MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 
 Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
- Il tema guida della XXXVI edizione è: 
+ Il tema guida della XXXVI edizione è:
 
 
 <div class="title-XXXVI">«La vita è tutto un dossier»</div>
