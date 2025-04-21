@@ -24,6 +24,11 @@ Edition: summer
 Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVI { font: 18px arial, sans-serif; text-align: center; }
 City: Bari
 Category: 2025
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Organizzatori: pws
+Collaboratori: ministerouniversitaricerca
+Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
+MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
 
 
 Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
@@ -32,13 +37,10 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 
 <div class="title-XXXVI">«La vita è tutto un dossier»</div>
 <div class="subtitle-XXXVI">Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?</div>
-
-<br/><br/>
+<br/>
 
 Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra
-
-<br/><br/>
-
+<br/>
 
 
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
@@ -47,7 +49,7 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
-09:35|5|<span class='talk'><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
+09:35|5|<span class='talk'>Michele Baldassarre<br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
 09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
 10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
 10:40|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
@@ -65,7 +67,7 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em>Apertura della sessione</em></span>
-15:05|20|<span class='talk'><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">«Intervento da comunicare»</a></em></span>
+15:05|20|<span class='talk'>Michele Baldassarre, Valeria Tamborra, Martina Dicorato, Anna Maria Cuzzi, Francesco Pio Sarcina<br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">Learning Analytics. Across data processing ethics, instructional design and academic policy: milestones e primi risultati</a></em></span>
 15:25|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gp03'></a><a href="/e-privacy-XXXVI-interventi.html#1gp03">Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</a></em></span>
 15:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ftraversa">Ferdinando Traversa (Wikimedia Italia)</a><br/><em><a name='1gp04'></a><a href="/e-privacy-XXXVI-interventi.html#1gp04">La gestione della privacy in Wikipedia tra attacchi e censure</a></em></span>
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
