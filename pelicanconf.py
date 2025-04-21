@@ -81,7 +81,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THIS = (
      ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
-#     ('Gli interventi', f'/e-privacy-{EPRIVACY_N}-interventi.html'),
+     ('Gli interventi', f'/e-privacy-{EPRIVACY_N}-interventi.html'),
      ('I relatori', f'/e-privacy-{EPRIVACY_N}-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
      ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
