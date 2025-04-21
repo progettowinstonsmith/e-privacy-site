@@ -27,7 +27,6 @@ Where: Università degli studi
 Year: 2025
 
 
-
 # e-privacy XXXVI @ Bari
 
 «La vita è tutto un dossier»
@@ -36,13 +35,6 @@ Avere come obiettivo solo una riduzione del danno alla privacy sembra
 ormai l'unica strada percorribile per gli individui. Ma è davvero
 possibile ottenerlo?
 
-<div class="HTML" id="orgef6483c">
-<p>
-<b>Attenzione: Il CFP di questa edizione si è chiuso il 10 maggio.</b>
-</p>
-
-</div>
-
 
 ## Call for Paper
 
@@ -50,8 +42,8 @@ Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
 trentaseiesima edizione di e-privacy, che si terrà in presenza ed in
 videoconferenza il 22 e 23 maggio a Bari.
 
-**Il nostro CfP si è chiuso l'8 aprile 2024/, e la comunicazione di
-accettazione ai relatori avverrà /entro il 14 aprile 2024.**
+**Il nostro CfP si è chiuso l'8 aprile 2024, e la comunicazione di
+accettazione ai relatori avverrà entro il 14 aprile 2024.**
 
 
 ## Il tema
