@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 # Mappa: https://umap.openstreetmap.fr/en/map/anonymous-edit/1017298:LcFDpLUxJDkPE3C8zeTixfajLac45zJn3f7M4aSPCDE
 
 
-##### Configurazioni per il sync
+##### Configurazioni per il sync 
 
 EDITION = 36
 RELAZIONI = 'talks'
