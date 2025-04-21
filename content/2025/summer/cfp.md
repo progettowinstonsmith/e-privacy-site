@@ -18,7 +18,7 @@ Options: toc:nil
 Prev: e-privacy-XXXV
 Previd: 2024W
 Season: summer
-Status: locked
+XStatus: locked
 Subtitle: Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?
 Timeline: 28 marzo | 7 aprile | 12 maggio
 Title: La vita è tutto un dossier
