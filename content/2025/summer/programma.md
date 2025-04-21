@@ -48,7 +48,7 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
+09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
 09:35|5|<span class='talk'>Michele Baldassarre (Università di Bari)<br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
 09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
 10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
