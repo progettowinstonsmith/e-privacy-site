@@ -27,8 +27,8 @@ Category: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Organizzatori: pws
 Collaboratori: ministerouniversitaricerca
-Sponsor: cgt,sikurezza.org,sepel,ush,isgroup, hermes
-MediaPartner: infomedia,aneddotica,lealternative, hackerjournal
+Sponsor: gpdp, sikurezza.org, cgt, ush, sepel, isgroup, hermes, onif
+MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 
 Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
