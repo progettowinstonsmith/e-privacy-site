@@ -27,7 +27,7 @@ Category: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Organizzatori: pws
 Collaboratori: ministerouniversitaricerca
-Sponsor: gpdp, sikurezza.org, cgt, ush, sepel, isgroup, hermes, onif
+Sponsor: gpdp, sikurezza.org, cgt, ush, sepel, isgroup, hermes, onif, lopez, faro
 MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 

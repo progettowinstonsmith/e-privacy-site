@@ -258,6 +258,8 @@ PARTNERS = {
     'ordineingegneribrescia': ('Ordine Ingegneri Brescia', 'logoOIB.png', 'https://brescia.ordingegneri.it/'),
     'ministerouniversitaricerca': ('Ministero Università e Ricerca', 'logomur.jpg', 'https://www.mur.gov.it/it'),
     'onif': ('Osservatorio Nazionale Informatica Forense', 'logoONIF.png', 'https://www.onif.it/'),
+    'lopez': ('UgoLopez.it', 'logoUgoLopez.png', 'https://www.ugolopez.it/'),
+    'faro': ('Blue Lighthouse', 'logoFaro.ai.png', 'https://blue-lighthouse.org/'),
 }
 
 
