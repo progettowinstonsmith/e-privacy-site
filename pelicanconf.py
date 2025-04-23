@@ -253,13 +253,14 @@ PARTNERS = {
     'roma3': ('Università Roma Tre - Dipartimento di Giurisprudenza', 'LogoDipartimentoGiurisprudenza.jpg', 'https://www.uniroma3.it/ateneo/dipartimenti-e-scuole/dipartimenti/giurisprudenza-009447/'),
     'masterroma3': ('Master Privacy', 'logo_master.jpg', 'https://www.masterprotezionedatipersonali.it/'),
     'ordinepisa': ('Ordine Ingegneri Pisa', 'ordine_pisa.jpg', 'https://www.ordineingegneripisa.it/'),
-   'ordinefirenze': ('Ordine Ingegneri Firenze', 'ordinefilogo.png', 'https://www.ordineingegneri.fi.it/'),
+    'ordinefirenze': ('Ordine Ingegneri Firenze', 'ordinefilogo.png', 'https://www.ordineingegneri.fi.it/'),
     'federazionetoscana': ('Federazione Regionale Ingegneri Toscana', 'federazione_regionale_ingegneri.png', 'http://www.federazioneingegneri.toscana.it/'),
     'ordineingegneribrescia': ('Ordine Ingegneri Brescia', 'logoOIB.png', 'https://brescia.ordingegneri.it/'),
     'ministerouniversitaricerca': ('Ministero Università e Ricerca', 'logomur.jpg', 'https://www.mur.gov.it/it'),
     'onif': ('Osservatorio Nazionale Informatica Forense', 'logoONIF.png', 'https://www.onif.it/'),
     'lopez': ('UgoLopez.it', 'logoUgoLopez.png', 'https://www.ugolopez.it/'),
     'faro': ('Blue Lighthouse', 'logoFaro.ai.png', 'https://blue-lighthouse.org/'),
+    'uniba': ('Università degli Studi di Bari - Aldo Moro', 'logouniba.png', 'https://www.uniba.it/it'),
 }
 
 

@@ -25,7 +25,7 @@ Css: .title-XXXVI { font: 25px arial, sans-serif; text-align: center; }   .subti
 City: Bari
 Category: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
-Organizzatori: pws
+Organizzatori: pws, uniba
 Collaboratori: ministerouniversitaricerca
 Sponsor: gpdp, sikurezza.org, cgt, ush, isgroup, lopez, hermes, onif, sepel, faro
 MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
