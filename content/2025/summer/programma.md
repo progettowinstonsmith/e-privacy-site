@@ -67,7 +67,7 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em>Apertura della sessione</em></span>
-15:05|20|<span class='talk'>Michele Baldassarre, Valeria Tamborra, Martina Dicorato, Anna Maria Cuzzi, Francesco Pio Sarcina<br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">Learning Analytics. Across data processing ethics, instructional design and academic policy: milestones e primi risultati</a></em></span>
+15:05|20|<span class='talk'>Michele Baldassarre, Valeria Tamborra, Martina Dicorato, Annamaria Cuzzi, Francesco Pio Sarcina<br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">Learning Analytics. Across data processing ethics, instructional design and academic policy: milestones e primi risultati</a></em></span>
 15:25|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gp03'></a><a href="/e-privacy-XXXVI-interventi.html#1gp03">Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</a></em></span>
 15:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ftraversa">Ferdinando Traversa (Wikimedia Italia)</a><br/><em><a name='1gp04'></a><a href="/e-privacy-XXXVI-interventi.html#1gp04">La gestione della privacy in Wikipedia tra attacchi e censure</a></em></span>
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
