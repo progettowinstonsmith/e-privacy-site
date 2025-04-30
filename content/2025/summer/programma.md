@@ -39,7 +39,10 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 <div class="subtitle-XXXVI">Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?</div>
 <br/>
 
-Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra
+Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra.
+<br/>
+
+**Il convegno è gratuito ed aperto a tutti; l'accesso è libero fino ad esaurimento dei posti disponibili.**
 <br/>
 
 
