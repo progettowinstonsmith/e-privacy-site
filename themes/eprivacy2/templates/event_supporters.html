@@ -1,19 +1,70 @@
 <style>
- #photo_strip { margin:0 auto 5px auto; font-family:'latolight', arial, sans-serif;}
- #container {padding:0; color:#222; background:#fff; display:table;
-     margin: auto 0;
-     width: 100%;
-     max-height: 75px;
-     overflow-x: scroll;
-     white-space: nowrap;
-     max-width: inherited;
- }
- #container ul {margin:0; padding:0; list-style:none; white-space:nowrap; display:table-row;}
- #container ul li { display:table-cell; padding:0 5px; background:#fff; vertical-align:top; }
- #container ul li img { margin: 10px 0 5px 0;  max-width: initial; display: inline-block; vertical-align: top;  height: 120px; }
- #photo_strip h1 {text-align:center; padding:0; margin:0; height:38px; line-height:35px; color:#555; font-weight:normal;
-     font-size:20px; border-bottom:1px solid #888; text-transform:uppercase;}
- #container p {margin:0; padding:5px 0; font-size:14px;}
+  #photo_strip {
+  margin: 0 auto 2em auto;
+  font-family: 'latolight', arial, sans-serif;
+  padding: 1em 0;
+  background: #f9f9f9;
+}
+
+#photo_strip h1 {
+  text-align: center;
+  font-size: 1.5em;
+  color: #FFF;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5em;
+  text-transform: uppercase;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  padding: 0 1em;
+}
+
+#container ul {
+  display: contents; /* utile per mantenere la logica a blocchi ma non spezzare Flex */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#container ul li {
+    /* flex: 0 1 100%; */
+    position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;           /* valore base */
+  transition: z-index 0.1s;
+  isolation: isolate;
+}
+
+#container ul li img {
+  height: 80px;
+  max-width: 100%;
+  object-fit: contain;
+  /* filter: grayscale(100%) opacity(0.8); */ 
+  filter: opacity(0.8); 
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+#container ul li:hover {
+  z-index: 10;
+  background: white;
+  box-shadow: 0 0 12px rgba(0,0,0,0.25);
+  transform: scale(1.15);
+  border-radius: 8px;
+  }
+  
+#container ul li:hover img {
+  filter: none;
+  transform: scale(1.15);
+  background: white;
+}
+
 </style>
 
 <!--[if lte IE 7]>
