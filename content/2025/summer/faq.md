@@ -232,7 +232,7 @@ via email alla [segreteria](mailto:segreteria@winstonsmith.org)
 indicando le stesse informazioni nel soggetto del messaggio in questo
 modo, separandole con il segno - (meno):
 
-    Oggetto: JULIA - <i>cognome - giorno - tipo</i>
+    Oggetto: JULIA - *cognome - giorno - tipo*
 
 ad esempio:
 
