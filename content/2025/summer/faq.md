@@ -213,7 +213,7 @@ nella peggiore delle ipotesi, rimanere vuoto.
 
 # <a name="contrattempidurante"></a>Se ho un contrattempo o necessito informazioni DURANTE il convegno?
 
-Il referente dei relatori per la prima giornata è **Emmanuele Somma**
+Il referente dei relatori per la prima giornata è **Ugo Lopez**
 per la seconda giornata  è **Marco Calamari**.
 
 Dovreste aver ricevuto i numeri di cellulare via email. Registrateli
@@ -230,9 +230,9 @@ chiederà di incontrarvi al banco della reception.
 Solo se l'applicazione online non dovesse funzionare spedire le slides
 via email alla [segreteria](mailto:segreteria@winstonsmith.org)
 indicando le stesse informazioni nel soggetto del messaggio in questo
-modo:
+modo, separandole con il segno - (meno):
 
-    Oggetto: JULIA - <COGNOME> - <GIORNO> - <TIPO>
+    Oggetto: JULIA - <i>cognome - giorno - tipo</i>
 
 ad esempio:
 
