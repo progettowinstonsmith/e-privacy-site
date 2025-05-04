@@ -11,6 +11,6 @@ Redirect: https://e-privacy.winstonsmith.org/donazioni-e-privacy.html
 
 <h2>Grazie</h2>
 
-I dati sono stati ricevuti. Dovresti a breve ricevere una mail di conferma.
+    I dati sono stati ricevuti. Dovresti a breve ricevere una mail di conferma.
 
 Altrimenti facci sapere.
