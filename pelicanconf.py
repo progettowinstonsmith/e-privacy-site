@@ -100,53 +100,6 @@ ISCRIVITI='''
 <a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a>
 '''
 
-# PAGINATION_PATTERNS = (
-#    (1, '{base_name}/', '{base_name}/index.html'),
-#    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
-#)
-
-# Blogroll
-# PREVS = (
-#     ('mappa di tutte le edizioni', '/mappa-edizioni-e-privacy.html'),
-#     ('e-privacy 2024 we XXXV  - Brescia', '/e-privacy-XXXV.html'),
-#     ('e-privacy 2024 se XXXIV - Firenze', '/e-privacy-XXXIV.html'),
-#     ('e-privacy 2023 we XXXIII - Pisa', '/e-privacy-XXXIII.html'),
-#     ('e-privacy 2023 se XXXII - Roma', '/e-privacy-XXXII.html'),
-#     ('e-privacy 2022 we XXXI - Roma', '/e-privacy-XXXI.html'),
-#     ('e-privacy 2022 se XXX - Firenze', '/e-privacy-XXX.html'),
-#     ('e-privacy 2021 we 29e¾ - Covid', '/e-privacy-29e3quarti.html'),
-#     ('e-privacy 2021 se XXIX - Covid', '/e-privacy-XXIX.html'),
-#     ('e-privacy 2020 we XXVIII - Covid', '/e-privacy-XXVIII.html'),
-#     ('e-privacy 2020 se XXVII - Covid', '/e-privacy-XXVII.html'),
-#     ('e-privacy 2019 we XXVI - Bari', '/e-privacy-XXVI.html'),
-#     ('e-privacy 2019 se XXV - Torino', '/e-privacy-XXV.html'),
-#     ('e-privacy 2018 we XXIV - Roma', '/e-privacy-XXIV.html'),
-#     ('e-privacy 2018 se XXIII - Bologna', '/e-privacy-XXIII.html'),
-#     ('e-privacy 2017 we XXII - Venezia', '/e-privacy-XXII.html'),
-#     ('e-privacy 2017 se XXI - Lucca', '/e-privacy-XXI.html'),
-#     ('e-privacy 2016 we XX - Roma', '/e-privacy-XX.html'),
-#     ('e-privacy 2016 se XIX - Pisa', '/e-privacy-XIX.html'),
-#     ('e-privacy 2016 we 3.1416 - Udine', '/e-privacy-3.1416.html'),
-#     ('e-privacy 2015 we XVIII - Cagliari', '/e-privacy-XVIII.html'),
-#     ('e-privacy 2015 se XVII - Roma', '/e-privacy-XVII.html'),
-#     ('e-privacy 2014 we XVI- Cagliari', '/e-privacy-XVI.html'),
-#     ('e-privacy 2014 se XV - Firenze', '/e-privacy-XV.html'),
-#     ('e-privacy 2013 we XIV - Milano', '/e-privacy-XIV.html'),
-#     ('e-privacy 2013 se XIII - Firenze', '/e-privacy-XIII.html'),
-#     ('e-privacy 2012 we XII - Torino', '/e-privacy-XII.html'),
-#     ('e-privacy 2012 se XI - Milano', '/e-privacy-XI.html'),
-#     ('e-privacy 2011 X - Firenze', '/e-privacy-X.html'),
-#     ('e-privacy 2010 IX - Firenze', '/e-privacy-IX.html'),
-#     ('e-privacy 2009 VIII - Firenze', '/e-privacy-VIII.html'),
-#     ('e-privacy 2008 VII - Firenze', '/e-privacy-VII.html'),
-#     ('e-privacy 2007 VI - Firenze', '/e-privacy-VI.html'),
-#     ('e-privacy 2006 V - Firenze', '/e-privacy-V.html'),
-#     ('e-privacy 2005 IV - Firenze', '/e-privacy-IV.html'),
-#     ('e-privacy 2004 III - Firenze', '/e-privacy-III.html'),
-#     ('e-privacy 2003 II - Firenze', '/e-privacy-II.html'),
-#     ('e-privacy 2002 I - Firenze', '/e-privacy-I.html'),
-# )
-
 EDIZIONI = [
     (2024, {
         "spring": ("Firenze", "/e-privacy-XXXIV.html"),
