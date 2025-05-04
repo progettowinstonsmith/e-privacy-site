@@ -539,3 +539,32 @@ h4 {
   left: 0;
   margin: auto
 }
+
+.edizioni-tabella {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.edizioni-tabella th,
+.edizioni-tabella td {
+  padding: 0.4em 0.6em;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+.edizioni-tabella th {
+  background-color: #f5f5f5;
+  text-transform: uppercase;
+  font-size: 0.85em;
+  color: #555;
+}
+
+.edizioni-tabella a {
+  text-decoration: none;
+  color: #0077aa;
+}
+
+.edizioni-tabella a:hover {
+  text-decoration: underline;
+}

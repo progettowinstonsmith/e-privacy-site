@@ -106,46 +106,133 @@ ISCRIVITI='''
 #)
 
 # Blogroll
-PREVS = (
-    ('mappa di tutte le edizioni', '/mappa-edizioni-e-privacy.html'),
-    ('e-privacy 2024 we XXXV  - Brescia', '/e-privacy-XXXV.html'),
-    ('e-privacy 2024 se XXXIV - Firenze', '/e-privacy-XXXIV.html'),
-    ('e-privacy 2023 we XXXIII - Pisa', '/e-privacy-XXXIII.html'),
-    ('e-privacy 2023 se XXXII - Roma', '/e-privacy-XXXII.html'),
-    ('e-privacy 2022 we XXXI - Roma', '/e-privacy-XXXI.html'),
-    ('e-privacy 2022 se XXX - Firenze', '/e-privacy-XXX.html'),
-    ('e-privacy 2021 we 29e¾ - Covid', '/e-privacy-29e3quarti.html'),
-    ('e-privacy 2021 se XXIX - Covid', '/e-privacy-XXIX.html'),
-    ('e-privacy 2020 we XXVIII - Covid', '/e-privacy-XXVIII.html'),
-    ('e-privacy 2020 se XXVII - Covid', '/e-privacy-XXVII.html'),
-    ('e-privacy 2019 we XXVI - Bari', '/e-privacy-XXVI.html'),
-    ('e-privacy 2019 se XXV - Torino', '/e-privacy-XXV.html'),
-    ('e-privacy 2018 we XXIV - Roma', '/e-privacy-XXIV.html'),
-    ('e-privacy 2018 se XXIII - Bologna', '/e-privacy-XXIII.html'),
-    ('e-privacy 2017 we XXII - Venezia', '/e-privacy-XXII.html'),
-    ('e-privacy 2017 se XXI - Lucca', '/e-privacy-XXI.html'),
-    ('e-privacy 2016 we XX - Roma', '/e-privacy-XX.html'),
-    ('e-privacy 2016 se XIX - Pisa', '/e-privacy-XIX.html'),
-    ('e-privacy 2016 we 3.1416 - Udine', '/e-privacy-3.1416.html'),
-    ('e-privacy 2015 we XVIII - Cagliari', '/e-privacy-XVIII.html'),
-    ('e-privacy 2015 se XVII - Roma', '/e-privacy-XVII.html'),
-    ('e-privacy 2014 we XVI- Cagliari', '/e-privacy-XVI.html'),
-    ('e-privacy 2014 se XV - Firenze', '/e-privacy-XV.html'),
-    ('e-privacy 2013 we XIV - Milano', '/e-privacy-XIV.html'),
-    ('e-privacy 2013 se XIII - Firenze', '/e-privacy-XIII.html'),
-    ('e-privacy 2012 we XII - Torino', '/e-privacy-XII.html'),
-    ('e-privacy 2012 se XI - Milano', '/e-privacy-XI.html'),
-    ('e-privacy 2011 X - Firenze', '/e-privacy-X.html'),
-    ('e-privacy 2010 IX - Firenze', '/e-privacy-IX.html'),
-    ('e-privacy 2009 VIII - Firenze', '/e-privacy-VIII.html'),
-    ('e-privacy 2008 VII - Firenze', '/e-privacy-VII.html'),
-    ('e-privacy 2007 VI - Firenze', '/e-privacy-VI.html'),
-    ('e-privacy 2006 V - Firenze', '/e-privacy-V.html'),
-    ('e-privacy 2005 IV - Firenze', '/e-privacy-IV.html'),
-    ('e-privacy 2004 III - Firenze', '/e-privacy-III.html'),
-    ('e-privacy 2003 II - Firenze', '/e-privacy-II.html'),
-    ('e-privacy 2002 I - Firenze', '/e-privacy-I.html'),
-)
+# PREVS = (
+#     ('mappa di tutte le edizioni', '/mappa-edizioni-e-privacy.html'),
+#     ('e-privacy 2024 we XXXV  - Brescia', '/e-privacy-XXXV.html'),
+#     ('e-privacy 2024 se XXXIV - Firenze', '/e-privacy-XXXIV.html'),
+#     ('e-privacy 2023 we XXXIII - Pisa', '/e-privacy-XXXIII.html'),
+#     ('e-privacy 2023 se XXXII - Roma', '/e-privacy-XXXII.html'),
+#     ('e-privacy 2022 we XXXI - Roma', '/e-privacy-XXXI.html'),
+#     ('e-privacy 2022 se XXX - Firenze', '/e-privacy-XXX.html'),
+#     ('e-privacy 2021 we 29e¾ - Covid', '/e-privacy-29e3quarti.html'),
+#     ('e-privacy 2021 se XXIX - Covid', '/e-privacy-XXIX.html'),
+#     ('e-privacy 2020 we XXVIII - Covid', '/e-privacy-XXVIII.html'),
+#     ('e-privacy 2020 se XXVII - Covid', '/e-privacy-XXVII.html'),
+#     ('e-privacy 2019 we XXVI - Bari', '/e-privacy-XXVI.html'),
+#     ('e-privacy 2019 se XXV - Torino', '/e-privacy-XXV.html'),
+#     ('e-privacy 2018 we XXIV - Roma', '/e-privacy-XXIV.html'),
+#     ('e-privacy 2018 se XXIII - Bologna', '/e-privacy-XXIII.html'),
+#     ('e-privacy 2017 we XXII - Venezia', '/e-privacy-XXII.html'),
+#     ('e-privacy 2017 se XXI - Lucca', '/e-privacy-XXI.html'),
+#     ('e-privacy 2016 we XX - Roma', '/e-privacy-XX.html'),
+#     ('e-privacy 2016 se XIX - Pisa', '/e-privacy-XIX.html'),
+#     ('e-privacy 2016 we 3.1416 - Udine', '/e-privacy-3.1416.html'),
+#     ('e-privacy 2015 we XVIII - Cagliari', '/e-privacy-XVIII.html'),
+#     ('e-privacy 2015 se XVII - Roma', '/e-privacy-XVII.html'),
+#     ('e-privacy 2014 we XVI- Cagliari', '/e-privacy-XVI.html'),
+#     ('e-privacy 2014 se XV - Firenze', '/e-privacy-XV.html'),
+#     ('e-privacy 2013 we XIV - Milano', '/e-privacy-XIV.html'),
+#     ('e-privacy 2013 se XIII - Firenze', '/e-privacy-XIII.html'),
+#     ('e-privacy 2012 we XII - Torino', '/e-privacy-XII.html'),
+#     ('e-privacy 2012 se XI - Milano', '/e-privacy-XI.html'),
+#     ('e-privacy 2011 X - Firenze', '/e-privacy-X.html'),
+#     ('e-privacy 2010 IX - Firenze', '/e-privacy-IX.html'),
+#     ('e-privacy 2009 VIII - Firenze', '/e-privacy-VIII.html'),
+#     ('e-privacy 2008 VII - Firenze', '/e-privacy-VII.html'),
+#     ('e-privacy 2007 VI - Firenze', '/e-privacy-VI.html'),
+#     ('e-privacy 2006 V - Firenze', '/e-privacy-V.html'),
+#     ('e-privacy 2005 IV - Firenze', '/e-privacy-IV.html'),
+#     ('e-privacy 2004 III - Firenze', '/e-privacy-III.html'),
+#     ('e-privacy 2003 II - Firenze', '/e-privacy-II.html'),
+#     ('e-privacy 2002 I - Firenze', '/e-privacy-I.html'),
+# )
+
+EDIZIONI = [
+    (2024, {
+        "spring": ("Firenze", "/e-privacy-XXXIV.html"),
+        "fall": ("Brescia", "/e-privacy-XXXV.html"),
+    }),
+    (2023, {
+        "spring": ("Roma", "/e-privacy-XXXII.html"),
+        "fall": ("Pisa", "/e-privacy-XXXIII.html"),
+    }),
+    (2022, {
+        "spring": ("Firenze", "/e-privacy-XXX.html"),
+        "fall": ("Roma", "/e-privacy-XXXI.html"),
+    }),
+    (2021, {
+        "spring": ("Covid", "/e-privacy-XXIX.html"),
+        "fall": ("Covid", "/e-privacy-29e3quarti.html"),
+    }),
+    (2020, {
+        "spring": ("Covid", "/e-privacy-XXVII.html"),
+        "fall": ("Covid", "/e-privacy-XXVIII.html"),
+    }),
+    (2019, {
+        "spring": ("Torino", "/e-privacy-XXV.html"),
+        "fall": ("Bari", "/e-privacy-XXVI.html"),
+    }),
+    (2018, {
+        "spring": ("Bologna", "/e-privacy-XXIII.html"),
+        "fall": ("Roma", "/e-privacy-XXIV.html"),
+    }),
+    (2017, {
+        "spring": ("Lucca", "/e-privacy-XXI.html"),
+        "fall": ("Venezia", "/e-privacy-XXII.html"),
+    }),
+    (2016, {
+        "spring": ("Pisa", "/e-privacy-XIX.html"),
+        "fall": ("Roma", "/e-privacy-XX.html"),
+        "extra": ("Udine", "/e-privacy-3.1416.html"),
+    }),
+    (2015, {
+        "spring": ("Roma", "/e-privacy-XVII.html"),
+        "fall": ("Cagliari", "/e-privacy-XVIII.html"),
+    }),
+    (2014, {
+        "spring": ("Firenze", "/e-privacy-XV.html"),
+        "fall": ("Cagliari", "/e-privacy-XVI.html"),
+    }),
+    (2013, {
+        "spring": ("Firenze", "/e-privacy-XIII.html"),
+        "fall": ("Milano", "/e-privacy-XIV.html"),
+    }),
+    (2012, {
+        "spring": ("Milano", "/e-privacy-XI.html"),
+        "fall": ("Torino", "/e-privacy-XII.html"),
+    }),
+    (2011, {
+        "spring": ("Firenze", "/e-privacy-X.html"),
+    }),
+    (2010, {
+        "spring": ("Firenze", "/e-privacy-IX.html"),
+    }),
+    (2009, {
+        "spring": ("Firenze", "/e-privacy-VIII.html"),
+    }),
+    (2008, {
+        "spring": ("Firenze", "/e-privacy-VII.html"),
+    }),
+    (2007, {
+        "spring": ("Firenze", "/e-privacy-VI.html"),
+    }),
+    (2006, {
+        "spring": ("Firenze", "/e-privacy-V.html"),
+    }),
+    (2005, {
+        "spring": ("Firenze", "/e-privacy-IV.html"),
+    }),
+    (2004, {
+        "spring": ("Firenze", "/e-privacy-III.html"),
+    }),
+    (2003, {
+        "spring": ("Firenze", "/e-privacy-II.html"),
+    }),
+    (2002, {
+        "spring": ("Firenze", "/e-privacy-I.html"),
+    }),
+]
+
 
 # Social widget
 LINKS = (
