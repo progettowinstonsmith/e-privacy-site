@@ -45,6 +45,14 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Il convegno è gratuito ed aperto a tutti; l'accesso è libero fino ad esaurimento dei posti disponibili.**
 <br/>
 
+**Ricordiamo ai relatori la consegna degli elaborati, slide o relazioni dell'intervento. 
+<br>
+Dovranno pervenire in forma elettronica, tramite questo apposito form online entro il 12 maggio 2025**
+<br/>
+
+**[https://e-privacy.winstonsmith.org/consegna-slides.html](https://e-privacy.winstonsmith.org/consegna-slides.html)**
+<br/>
+
 
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a>
