@@ -118,75 +118,56 @@
         {% endif %}
 
 
-        <!--
-        <h5 class="sidebar-title">SITO</h5>
-        <ul class="side-nav">
-            <li><a href="{{ SITEURL }}/archives.html">Archivi</a>
-            <li><a href="{{ SITEURL }}/tags.html">Tags</a>
-            {% if FEED_RSS %}
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" rel="alternate">Atom feed</a></li>
-            {% endif %}
-            {% if FEED_RSS %}
-            <li><a href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" rel="alternate">RSS feed</a></li>
-            {% endif %}
-        </ul>
-
-        {% if categories %}
-        <h5 class="sidebar-title">Categorie</h5>
-        <ul class="side-nav">
-        {% for cat, null in categories %}
-            <li><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-        {% endfor %}
-        </ul>
-        {% endif %}
-        -->
-
         {% if EDIZIONI %}
         <h5 class="sidebar-title">Edizioni passate</h5>
-<table class="edizioni-tabella">
-  <thead>
-    <tr>
-      <th>Anno</th>
-      <th>S1</th>
-      <th>S2</th>
-      <th>Extra</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for year, editions in EDIZIONI %}
-    <tr>
-      <td>{{ year }}</td>
-      <td>
-        {% if editions.spring %}
-          <a href="{{ editions.spring[1] }}">{{ editions.spring[0] }}</a>
-        {% else %}
-          &mdash;
-        {% endif %}
-      </td>
-      <td>
-        {% if editions.fall %}
-          <a href="{{ editions.fall[1] }}">{{ editions.fall[0] }}</a>
-        {% else %}
-          &mdash;
-        {% endif %}
-      </td>
-      <td>
-        {% if editions.extra %}
-          <a href="{{ editions.extra[1] }}">{{ editions.extra[0] }}</a>
-        {% else %}
-          &mdash;
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-        <!-- <h5 class="sidebar-title">EDIZIONI</h5>
-         !-- <ul class="side-nav">
-         !-- {% for name, link in PREVS %}
-         !--     <li><a href="{{ link }}">{{ name }}</a></li>
-         !-- {% endfor %}
-         !-- </ul> -->
+        <table class="edizioni-tabella">
+          <thead>
+            <tr>
+              <th>Anno</th>
+              <th>Estiva</th>
+              <th>Invernale</th>
+              <th>Extra</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for year, editions in EDIZIONI %}
+            <tr>
+              <td>{{ year }}</td>
+              <td>
+                {% if editions.spring %}
+                <small class="edizione-num">{{ editions.spring[2] }}</small> <br>
+                <a href="{{ editions.spring[1] }}">
+                  {{ editions.spring[0] }}
+                </a>
+                {% else %}
+                &mdash;
+                {% endif %}
+              </td>
+              <td>
+                {% if editions.fall %}
+                <small class="edizione-num">{{ editions.fall[2] }}</small><br>
+                <a href="{{ editions.fall[1] }}">
+                  {{ editions.fall[0] }}
+                </a>
+                {% else %}
+                &mdash;
+                {% endif %}
+              </td>
+
+              <td>
+                {% if editions.extra %}
+                <small class="edizione-num">{{ editions.extra[2] }}</small><br>
+                <a href="{{ editions.extra[1] }}">
+                  {{ editions.extra[0] }}
+                </a>
+                {% else %}
+                &mdash;
+                {% endif %}
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
         {% endif %}
 
         {% if LINKS %}

@@ -544,27 +544,55 @@ h4 {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.9em;
+  margin-top: 1em;
+  background-color: white !important;
 }
 
-.edizioni-tabella th,
-.edizioni-tabella td {
-  padding: 0.4em 0.6em;
+/* Neutralizza la zebra striping di Foundation */
+.edizioni-tabella tbody tr:nth-of-type(odd),
+.edizioni-tabella tbody tr:nth-of-type(even) {
+  background-color: white !important;
+}
+.edizioni-tabella thead th {
   text-align: left;
-  border-bottom: 1px solid #ccc;
+  font-weight: bold;
+  border-bottom: 1px solid #999;
+  padding: 0.5em 0.5em 0.4em 0;
+  text-transform: uppercase;
+  color: #333;
+  font-size: 0.85em;
+}
+.edizioni-tabella tr {
+  background-color: white !important;
 }
 
-.edizioni-tabella th {
-  background-color: #f5f5f5;
-  text-transform: uppercase;
-  font-size: 0.85em;
-  color: #555;
+.edizioni-tabella td {
+  padding: 0.4em 0.5em 0.4em 0;
+  background-color: white !important;
+  /* border-bottom: 1px solid #ddd; */
+  vertical-align: top;
+}
+
+.edizioni-tabella td:first-child {
+  vertical-align: bottom;
+  white-space: nowrap;
 }
 
 .edizioni-tabella a {
-  text-decoration: none;
   color: #0077aa;
+  text-decoration: none;
+  line-height: 1.2;
 }
 
 .edizioni-tabella a:hover {
   text-decoration: underline;
+}
+
+.edizione-num {
+  font-size: 0.75em;
+  color: #888;
+}
+
+.edizioni-tabella td:first-child {
+  vertical-align: bottom;
 }

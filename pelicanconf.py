@@ -99,93 +99,91 @@ THIS = (
 ISCRIVITI='''
 <a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a>
 '''
-
 EDIZIONI = [
     (2024, {
-        "spring": ("Firenze", "/e-privacy-XXXIV.html"),
-        "fall": ("Brescia", "/e-privacy-XXXV.html"),
+        "spring": ("Firenze", "/e-privacy-XXXIV.html", "XXXIV"),
+        "fall": ("Brescia", "/e-privacy-XXXV.html", "XXXV"),
     }),
     (2023, {
-        "spring": ("Roma", "/e-privacy-XXXII.html"),
-        "fall": ("Pisa", "/e-privacy-XXXIII.html"),
+        "spring": ("Roma", "/e-privacy-XXXII.html", "XXXII"),
+        "fall": ("Pisa", "/e-privacy-XXXIII.html", "XXXIII"),
     }),
     (2022, {
-        "spring": ("Firenze", "/e-privacy-XXX.html"),
-        "fall": ("Roma", "/e-privacy-XXXI.html"),
+        "spring": ("Firenze", "/e-privacy-XXX.html", "XXX"),
+        "fall": ("Roma", "/e-privacy-XXXI.html", "XXXI"),
     }),
     (2021, {
-        "spring": ("Covid", "/e-privacy-XXIX.html"),
-        "fall": ("Covid", "/e-privacy-29e3quarti.html"),
+        "spring": ("Covid", "/e-privacy-XXIX.html", "XXIX"),
+        "extra": ("Hogward", "/e-privacy-29e3quarti.html", "29¾"),
     }),
     (2020, {
-        "spring": ("Covid", "/e-privacy-XXVII.html"),
-        "fall": ("Covid", "/e-privacy-XXVIII.html"),
+        "spring": ("Covid", "/e-privacy-XXVII.html", "XXVII"),
+        "fall": ("Covid", "/e-privacy-XXVIII.html", "XXVIII"),
     }),
     (2019, {
-        "spring": ("Torino", "/e-privacy-XXV.html"),
-        "fall": ("Bari", "/e-privacy-XXVI.html"),
+        "spring": ("Torino", "/e-privacy-XXV.html", "XXV"),
+        "fall": ("Bari", "/e-privacy-XXVI.html", "XXVI"),
     }),
     (2018, {
-        "spring": ("Bologna", "/e-privacy-XXIII.html"),
-        "fall": ("Roma", "/e-privacy-XXIV.html"),
+        "spring": ("Bologna", "/e-privacy-XXIII.html", "XXIII"),
+        "fall": ("Roma", "/e-privacy-XXIV.html", "XXIV"),
     }),
     (2017, {
-        "spring": ("Lucca", "/e-privacy-XXI.html"),
-        "fall": ("Venezia", "/e-privacy-XXII.html"),
+        "spring": ("Lucca", "/e-privacy-XXI.html", "XXI"),
+        "fall": ("Venezia", "/e-privacy-XXII.html", "XXII"),
     }),
     (2016, {
-        "spring": ("Pisa", "/e-privacy-XIX.html"),
-        "fall": ("Roma", "/e-privacy-XX.html"),
-        "extra": ("Udine", "/e-privacy-3.1416.html"),
+        "spring": ("Pisa", "/e-privacy-XIX.html", "XIX"),
+        "fall": ("Roma", "/e-privacy-XX.html", "XX"),
+        "extra": ("Udine", "/e-privacy-3.1416.html", "π"),
     }),
     (2015, {
-        "spring": ("Roma", "/e-privacy-XVII.html"),
-        "fall": ("Cagliari", "/e-privacy-XVIII.html"),
+        "spring": ("Roma", "/e-privacy-XVII.html", "XVII"),
+        "fall": ("Cagliari", "/e-privacy-XVIII.html", "XVIII"),
     }),
     (2014, {
-        "spring": ("Firenze", "/e-privacy-XV.html"),
-        "fall": ("Cagliari", "/e-privacy-XVI.html"),
+        "spring": ("Firenze", "/e-privacy-XV.html", "XV"),
+        "fall": ("Cagliari", "/e-privacy-XVI.html", "XVI"),
     }),
     (2013, {
-        "spring": ("Firenze", "/e-privacy-XIII.html"),
-        "fall": ("Milano", "/e-privacy-XIV.html"),
+        "spring": ("Firenze", "/e-privacy-XIII.html", "XIII"),
+        "fall": ("Milano", "/e-privacy-XIV.html", "XIV"),
     }),
     (2012, {
-        "spring": ("Milano", "/e-privacy-XI.html"),
-        "fall": ("Torino", "/e-privacy-XII.html"),
+        "spring": ("Milano", "/e-privacy-XI.html", "XI"),
+        "fall": ("Torino", "/e-privacy-XII.html", "XII"),
     }),
     (2011, {
-        "spring": ("Firenze", "/e-privacy-X.html"),
+        "spring": ("Firenze", "/e-privacy-X.html", "X"),
     }),
     (2010, {
-        "spring": ("Firenze", "/e-privacy-IX.html"),
+        "spring": ("Firenze", "/e-privacy-IX.html", "IX"),
     }),
     (2009, {
-        "spring": ("Firenze", "/e-privacy-VIII.html"),
+        "spring": ("Firenze", "/e-privacy-VIII.html", "VIII"),
     }),
     (2008, {
-        "spring": ("Firenze", "/e-privacy-VII.html"),
+        "spring": ("Firenze", "/e-privacy-VII.html", "VII"),
     }),
     (2007, {
-        "spring": ("Firenze", "/e-privacy-VI.html"),
+        "spring": ("Firenze", "/e-privacy-VI.html", "VI"),
     }),
     (2006, {
-        "spring": ("Firenze", "/e-privacy-V.html"),
+        "spring": ("Firenze", "/e-privacy-V.html", "V"),
     }),
     (2005, {
-        "spring": ("Firenze", "/e-privacy-IV.html"),
+        "spring": ("Firenze", "/e-privacy-IV.html", "IV"),
     }),
     (2004, {
-        "spring": ("Firenze", "/e-privacy-III.html"),
+        "spring": ("Firenze", "/e-privacy-III.html", "III"),
     }),
     (2003, {
-        "spring": ("Firenze", "/e-privacy-II.html"),
+        "spring": ("Firenze", "/e-privacy-II.html", "II"),
     }),
     (2002, {
-        "spring": ("Firenze", "/e-privacy-I.html"),
+        "spring": ("Firenze", "/e-privacy-I.html", "I"),
     }),
 ]
-
 
 # Social widget
 LINKS = (
