@@ -45,6 +45,10 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Il convegno è gratuito ed aperto a tutti; l'accesso è libero fino ad esaurimento dei posti disponibili.**
 <br/>
 
+**Il convegno è stato accreditato presso l'Ordine degli Avvocati di Bari per la formazione continua. 
+L'iscrizione al Convegno, con il riconoscimento di 9 crediti formativi, può avvenire tramite il [sito dell'Ordine](https://www.ordineavvocati.bari.it/)**
+<br/>
+
 **Ricordiamo ai relatori la consegna degli elaborati, slide o relazioni dell'intervento. 
 <br>
 Dovranno pervenire in forma elettronica, tramite questo apposito form online entro il 12 maggio 2025**
