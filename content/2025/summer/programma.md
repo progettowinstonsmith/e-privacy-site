@@ -49,16 +49,16 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 L'iscrizione al Convegno, con il riconoscimento di 9 crediti formativi, può avvenire tramite il [sito dell'Ordine](https://www.ordineavvocati.bari.it/)**
 <br/>
 
-**Ricordiamo ai relatori la consegna degli elaborati, slide o relazioni dell'intervento. 
+Ricordiamo ai relatori la consegna degli elaborati, slide o relazioni dell'intervento. 
 <br>
-Dovranno pervenire in forma elettronica, tramite questo apposito form online entro il 12 maggio 2025**
-<br/>
-
+Dovranno pervenire in forma elettronica, tramite questo apposito form online entro il 12 maggio 2025
 **[https://e-privacy.winstonsmith.org/consegna-slides.html](https://e-privacy.winstonsmith.org/consegna-slides.html)**
 <br/>
 
-
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
+
+<iframe width="424" height="238" src="https://www.youtube.com/embed/OVnEGPMNz0k" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -75,8 +75,10 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 12:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
-
 #### <a name="1gp"></a>Giovedì 22 maggio 2025 - pomeriggio
+
+<iframe width="424" height="238" src="https://www.youtube.com/embed/puRGoXxwe7E" title="e-privacy 2025 XXXVI summer edition - 22/05/2025 pomeriggio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -91,8 +93,10 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 17:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Il valore nascosto della tua vita online</a></em></span>
 18:15||<span class='talk'><em>Fine sessione</em></span>
 
-
 #### <a name="2gm"></a>Venerdì 23 maggio 2025 - mattina
+
+<iframe width="424" height="238" src="https://www.youtube.com/embed/OVnEGPMNz0k" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
