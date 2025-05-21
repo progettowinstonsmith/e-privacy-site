@@ -65,7 +65,7 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 ------- | --- | -------
 09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
 09:35|5|<span class='talk'>Michele Baldassarre (Università di Bari)<br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
+09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a> e Francesco Terenzio<br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
 10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Davide contro Golia: dal Belgio una sentenza che scardina il TCF - Transparency & Consent Framework sviluppato da IAB e utilizzato dalla massima parte dei siti, inclusi X e Amazon.</a></em></span>
 10:40|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
 11:10|30|<span class='talk'><em>Coffee Break</em></span>
