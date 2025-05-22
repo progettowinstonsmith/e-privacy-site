@@ -57,7 +57,7 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/OVnEGPMNz0k" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="424" height="238" src="https://www.youtube.com/embed/7H4r2zC8dS8" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a>
 
