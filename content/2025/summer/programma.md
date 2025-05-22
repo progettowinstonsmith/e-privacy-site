@@ -48,16 +48,18 @@ Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.unib
 **Il convegno è stato accreditato presso l'Ordine degli Avvocati di Bari per la formazione continua. 
 L'iscrizione al Convegno, con il riconoscimento di 9 crediti formativi, può avvenire tramite il [sito dell'Ordine](https://www.ordineavvocati.bari.it/)**
 <br/>
-
-Ricordiamo ai relatori la consegna degli elaborati, slide o relazioni dell'intervento. 
-<br>
-Dovranno pervenire in forma elettronica, tramite questo apposito form online entro il 12 maggio 2025
-**[https://e-privacy.winstonsmith.org/consegna-slides.html](https://e-privacy.winstonsmith.org/consegna-slides.html)**
 <br/>
+Legenda:
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione (PDF) | ![pdf](/images/icon/document.png) | Documento (PDF) |
+![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![ppt](/images/icon/handouts.png) | Handouts (PDF)|
+![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
+![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
 
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/7H4r2zC8dS8" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a>
 
@@ -65,14 +67,14 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 ------- | --- | -------
 09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari (Progetto Winston Smith)</a><br/><em>La vita è tutto un dossier (apertura)</em></span>
 09:35|5|<span class='talk'>Michele Baldassarre (Università di Bari)<br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVI-interventi.html#1gm02">Saluti istituzionali</a></em></span>
-09:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a> e Francesco Terenzio<br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
-10:00|40|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Davide contro Golia: dal Belgio una sentenza che scardina il TCF - Transparency & Consent Framework sviluppato da IAB e utilizzato dalla massima parte dei siti, inclusi X e Amazon.</a></em></span>
-10:40|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
+09:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_11_lopez_AI_privacy_security.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_11_lopez_AI_privacy_security.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a> e Francesco Terenzio<br/><em><a name='1gm06'></a><a href="/e-privacy-XXXVI-interventi.html#1gm06">AI, privacy & security: punti di contatto e problemi aperti</a></em></span>
+10:00|40|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_12__bernieri_davide_e_golia.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='1gm08'></a><a href="/e-privacy-XXXVI-interventi.html#1gm08">Davide contro Golia: dal Belgio una sentenza che scardina il TCF - Transparency & Consent Framework sviluppato da IAB e utilizzato dalla massima parte dei siti, inclusi X e Amazon.</a></em></span>
+10:40|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_13_bassetti_la_privacy_nel_mondo_digitale_protezione_o_ostacolo.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_13_bassetti_la_privacy_nel_mondo_digitale_protezione_o_ostacolo.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVI-relatori.html#nbassetti">Nanni Bassetti</a><br/><em><a name='1gm07'></a><a href="/e-privacy-XXXVI-interventi.html#1gm07">La privacy, le norme, l'AI Act, sono davvero applicabili?</a></em></span>
 11:10|30|<span class='talk'><em>Coffee Break</em></span>
-11:40|20 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
-12:00|20 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">La privacy digitale non è alla tua portata... o forse sì?</a></em></span>
-12:20|20 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1gp05'></a><a href="/e-privacy-XXXVI-interventi.html#1gp05">Privacy tra stato e mercato</a></em></span>
-12:40|20|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
+11:40|20 R|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_14_brambilla_la_gestione_dei_dati_fra_infosfera_e_docusfera.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#ebrambilla">Emanuele Brambilla</a><br/><em><a name='1gp02'></a><a href="/e-privacy-XXXVI-interventi.html#1gp02">La gestione dei dati fra infosfera e docusfera</a></em></span>
+12:00|20 R|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_15_artp_la_privacy_digitale_non_e_alla_tua_portata.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#ap">Art P. (Digidati.art)</a><br/><em><a name='1gm05'></a><a href="/e-privacy-XXXVI-interventi.html#1gm05">La privacy digitale non è alla tua portata... o forse sì?</a></em></span>
+12:20|20 R|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_15_artp_la_privacy_digitale_non_e_alla_tua_portata.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='1gp05'></a><a href="/e-privacy-XXXVI-interventi.html#1gp05">Privacy tra stato e mercato</a></em></span>
+12:40|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_17_giacomello_ia_dossieraggio.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_17_giacomello_ia_dossieraggio.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVI-relatori.html#jgiacomello">Jolanda Giacomello</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVI-interventi.html#1gm03">Dai dati alle previsioni: l'IA per un dossieraggio predittivo</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
 #### <a name="1gp"></a>Giovedì 22 maggio 2025 - pomeriggio
@@ -84,12 +86,12 @@ Dovranno pervenire in forma elettronica, tramite questo apposito form online ent
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em>Apertura della sessione</em></span>
-15:05|20|<span class='talk'>Michele Baldassarre, Valeria Tamborra, Martina Dicorato, Annamaria Cuzzi, Francesco Pio Sarcina<br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">Learning Analytics. Across data processing ethics, instructional design and academic policy: milestones e primi risultati</a></em></span>
-15:25|20 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gp03'></a><a href="/e-privacy-XXXVI-interventi.html#1gp03">Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</a></em></span>
-15:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ftraversa">Ferdinando Traversa (Wikimedia Italia)</a><br/><em><a name='1gp04'></a><a href="/e-privacy-XXXVI-interventi.html#1gp04">La gestione della privacy in Wikipedia tra attacchi e censure</a></em></span>
+15:05|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_21_dicorato_learning_analytics.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_21_tamborra_learning_analytics.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_21_dicorato_learning_analytics.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_21_tamborra_learning_analytics.pdf"><img alt="pdf" src="/images/icon/presentation.png">,Michele Baldassarre, Valeria Tamborra, Martina Dicorato, Annamaria Cuzzi, Francesco Pio Sarcina<br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVI-interventi.html#1gp01">Learning Analytics. Across data processing ethics, instructional design and academic policy: milestones e primi risultati</a></em></span>
+15:25|20 R|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_22_berto_chi_sono_i_lettori_dei_dossier.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gp03'></a><a href="/e-privacy-XXXVI-interventi.html#1gp03">Chi sono i lettori dei dossier? Base giuridica per accedere alle informazioni</a></em></span>
+15:45|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_23_traversa__gestione_privacy_wikipedia.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#ftraversa">Ferdinando Traversa (Wikimedia Italia)</a><br/><em><a name='1gp04'></a><a href="/e-privacy-XXXVI-interventi.html#1gp04">La gestione della privacy in Wikipedia tra attacchi e censure</a></em></span>
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
 16:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#smastella">Stefano Mastella</a><br/><em><a name='1gm04'></a><a href="/e-privacy-XXXVI-interventi.html#1gm04">Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</a></em></span>
-17:15|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</a></em></span>
+17:15|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_25_convertini_dark_pattern_e_manipolazione_del_consenso.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</a></em></span>
 17:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Il valore nascosto della tua vita online</a></em></span>
 18:15||<span class='talk'><em>Fine sessione</em></span>
 
