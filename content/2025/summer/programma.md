@@ -31,8 +31,8 @@ Sponsor: gpdp, sikurezza.org, cgt, ush, isgroup, lopez, hermes, onif, sepel, far
 MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 
-Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
- Il tema guida della XXXVI edizione è: 
+Il **22 e 23 maggio 2025** si è tenuto a Bari **e-privacy 2025 summer edition**.
+ Il tema guida della XXXVI edizione è stato: 
 
 
 <div class="title-XXXVI">«La vita è tutto un dossier»</div>
@@ -42,12 +42,13 @@ Il **22 e 23 maggio 2025** si terrà a Bari **e-privacy 2025 summer edition**.
 Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra.
 <br/>
 
-**Il convegno è gratuito ed aperto a tutti; l'accesso è libero fino ad esaurimento dei posti disponibili.**
+Il convegno era accreditato presso l'Ordine degli Avvocati di Bari per la formazione continua. 
 <br/>
 
-**Il convegno è stato accreditato presso l'Ordine degli Avvocati di Bari per la formazione continua. 
-L'iscrizione al Convegno, con il riconoscimento di 9 crediti formativi, può avvenire tramite il [sito dell'Ordine](https://www.ordineavvocati.bari.it/)**
+Ci scusiamo con i primi tre relatori del convegno, Ugo Lopez, Christian Bernieri e Nanni Bassetti, i cui interventi, per un problema tecnico, non sono stati ripresi in video.
 <br/>
+Le slide dei loro interventi sono già pubblicate nel programma.
+
 <br/>
 Legenda:
 
@@ -94,7 +95,7 @@ Icona | Descrizione | Icona | Descrizione
 16:15|30|<span class='talk'><em>Coffee Break</em></span>
 16:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#smastella">Stefano Mastella</a><br/><em><a name='1gm04'></a><a href="/e-privacy-XXXVI-interventi.html#1gm04">Il GDPR è davvero così complesso da non essere applicabile per PMI - un approccio pragmatico</a></em></span>
 17:15|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_25_convertini_dark_pattern_e_manipolazione_del_consenso.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_25_convertini_dark_pattern_e_manipolazione_del_consenso.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Dark Pattern e Manipolazione del Consenso: Analisi Tecnica e Proposte di Mitigazione</a></em></span>
-17:45|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Il valore nascosto della tua vita online</a></em></span>
+17:45|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_26_landucci_valore_nascosto_vita_digitale_online.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='1gp06'></a><a href="/e-privacy-XXXVI-interventi.html#1gp06">Il valore nascosto della tua vita online</a></em></span>
 18:15||<span class='talk'><em>Fine sessione</em></span>
 
 #### <a name="2gm"></a>Venerdì 23 maggio 2025 - mattina
@@ -106,12 +107,12 @@ Icona | Descrizione | Icona | Descrizione
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 09:30|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a><br/><em>Apertura della sessione</em></span>
-09:35|20 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#fbianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='2gm02'></a><a href="/e-privacy-XXXVI-interventi.html#2gm02">Spazio Europeo dei Dati Sanitari (EHDS): una nuova era per la condivisione e l’innovazione in ambito sanitario</a></em></span>
-09:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mgobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXVI-relatori.html#apedalina">Angela Pedalina (Lawboat.ch)</a><br/><em><a name='2gm03'></a><a href="/e-privacy-XXXVI-interventi.html#2gm03">I nuovi dossier Digitali: i social network</a></em></span>
+09:35|20 R|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_31_bianchini_ehds_and_cybersecurity.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_31_bianchini_ehds_and_cybersecurity.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVI-relatori.html#fbianchini">Filippo Bianchini (ASSO DPO - ISLC)</a><br/><em><a name='2gm02'></a><a href="/e-privacy-XXXVI-interventi.html#2gm02">Spazio Europeo dei Dati Sanitari (EHDS): una nuova era per la condivisione e l’innovazione in ambito sanitario</a></em></span>
+09:55|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_32_pedalina_nuovi_dossier_digitali.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_32_gobbato_ai_dossier.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#mgobbato">Monica Gobbato (Privacy Academy)</a> e <a href="/e-privacy-XXXVI-relatori.html#apedalina">Angela Pedalina (Lawboat.ch)</a><br/><em><a name='2gm03'></a><a href="/e-privacy-XXXVI-interventi.html#2gm03">I nuovi dossier Digitali: i social network</a></em></span>
 10:25|30|<span class='talk'><em>Coffee Break</em></span>
 10:55|30 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#gscorza">Guido Scorza (Garante per la Protezione dei Dati Personali)</a><br/><em><a name='2gm04'></a><a href="/e-privacy-XXXVI-interventi.html#2gm04">Troppo tardi per ricordarsi che la privacy è importante?</a></em></span>
 11:25|30 R|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm06'></a><a href="/e-privacy-XXXVI-interventi.html#2gm06">La volpe nel pollaio: le agenzie per la sicurezza nazionale nell'era della sorveglianza di massa</a></em></span>
-11:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2gm05'></a><a href="/e-privacy-XXXVI-interventi.html#2gm05">La monetizzazione dei dati personali</a></em></span>
+11:55|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025/atti/ep2025se_34_landucci_monetizzazione_dati_personali.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVI-relatori.html#llanducci">Luca Landucci (Pro Cultura Aperta)</a><br/><em><a name='2gm05'></a><a href="/e-privacy-XXXVI-interventi.html#2gm05">La monetizzazione dei dati personali</a></em></span>
 12:25|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#cbernieri">Christian Bernieri (DPO - molte aziende, titolare di SGST srl)</a><br/><em><a name='2gm07'></a><a href="/e-privacy-XXXVI-interventi.html#2gm07">Maltrattamento preterintenzionale dei dati personali: quando la vittima aiuta il proprio carnefice.</a></em></span>
 12:55|30|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#vconvertini">Vito Nicola Convertini</a><br/><em><a name='2gm08'></a><a href="/e-privacy-XXXVI-interventi.html#2gm08">Analisi e Mitigazione delle Vulnerabilità nei Sistemi di Anonimizzazione dei Dati</a></em></span>
 13:25|5|<span class='talk'><a href="/e-privacy-XXXVI-relatori.html#mcalamari">Marco Calamari</a><br/><em>Chiusura di e-privacy XXXVI</em></span>
