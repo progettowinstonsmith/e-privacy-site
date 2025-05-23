@@ -102,8 +102,7 @@ ISCRIVITI='''
 EDIZIONI = [
     (2025, {
         "spring": ("Bari", "/e-privacy-XXXVI.html", "XXXVI"),
-        "fall": ("", "", ""),
-    }),    (2024, {
+     }),    (2024, {
         "spring": ("Firenze", "/e-privacy-XXXIV.html", "XXXIV"),
         "fall": ("Brescia", "/e-privacy-XXXV.html", "XXXV"),
     }),
