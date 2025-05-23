@@ -97,7 +97,7 @@ Icona | Descrizione | Icona | Descrizione
 
 #### <a name="2gm"></a>Venerdì 23 maggio 2025 - mattina
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/OVnEGPMNz0k" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="424" height="238" src="https://youtube.com/embed/3IDUw_uQh0o" title="e-privacy 2024 XXXVI summer edition - 23/05/2025 mattina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href="/e-privacy-XXXVI-relatori.html#ulopez">Ugo Lopez</a>
 
