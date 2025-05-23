@@ -58,6 +58,8 @@ Icona | Descrizione | Icona | Descrizione
 ![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
 ![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9rQz7nVYZM?si=8uV6jfJdImnbU4WX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### <a name="1gm"></a>Giovedì 22 maggio 2025 - mattina
 
 
