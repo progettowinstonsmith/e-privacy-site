@@ -14,7 +14,7 @@ Season: winter
 previd: 2024
 prev: e-privacy-XXXIV
 nextid: 2025
-next: e-privacy-XXXVI-cfp
+next: e-privacy-XXXVI
 timeline: 30 settembre | 21 ottobre | 30 ottobre
 Organizzatori: pws, hermes
 Collaboratori: ordineingegneribrescia
