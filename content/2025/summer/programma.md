@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Date: 2025-04-17 11:06:11
-Slug: e-privacy-XXXVI-programma
+Slug: e-privacy-XXXVI
 Year: 2025
 Where: Università degli studi
 When: 22-23 maggio
@@ -39,7 +39,7 @@ Il **22 e 23 maggio 2025** si è tenuto a Bari **e-privacy 2025 summer edition**
 <div class="subtitle-XXXVI">Avere come obiettivo solo una riduzione del danno alla privacy sembra ormai l’unica strada percorribile per gli individui. Ma è davvero possibile ottenerlo?</div>
 <br/>
 
-Il convegno si svolgerà presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra.
+Il convegno si è svolto presso la [Facoltà di Giurisprudenza](https://www.uniba.it/it/ricerca/dipartimenti/lex) in Piazza C. Battisti 1 Bari, Aula Aldo Moro piano terra.
 <br/>
 
 Il convegno era accreditato presso l'Ordine degli Avvocati di Bari per la formazione continua. 

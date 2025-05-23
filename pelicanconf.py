@@ -87,8 +87,8 @@ THIS = (
      ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
 #     ('Proposta Talk', f'/e-privacy-{EPRIVACY_N}-proposta.html'),
 #     ('Call for Sponsor', f'/e-privacy-{EPRIVACY_N}-cfs.html'),
-     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),
-     ('Slides', f'/consegna-slides.html'),
+#     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),
+#     ('Slides', f'/consegna-slides.html'),
      ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
@@ -100,7 +100,10 @@ ISCRIVITI='''
 <a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a>
 '''
 EDIZIONI = [
-    (2024, {
+    (2025, {
+        "spring": ("Bari", "/e-privacy-XXXVI.html", "XXXVI"),
+        "fall": ("", "", ""),
+    }),    (2024, {
         "spring": ("Firenze", "/e-privacy-XXXIV.html", "XXXIV"),
         "fall": ("Brescia", "/e-privacy-XXXV.html", "XXXV"),
     }),
