@@ -48,7 +48,18 @@ Il convegno era accreditato presso l'Ordine degli Avvocati di Bari per la formaz
 Ci scusiamo con i primi tre relatori del convegno, Ugo Lopez, Christian Bernieri e Nanni Bassetti, i cui interventi, per un problema tecnico, non sono stati ripresi in video.
 <br/>
 Le slide dei loro interventi sono già pubblicate nel programma.
-
+<br/>
+<br/>
+I video del Convegno presenti in questa pagina **sono pubblicati su [Youtube](https://www.youtube.com/@ProgettoWinstonSmith).**
+<br/>
+**Per fruirli senza cedere dati personali**, possono essere scaricati dal nostro server (ferro gestito da noi, non cloud), e fruiti in locale, usando questi link:
+<br/>
+- [22 mattina](https://e-privacy.winstonsmith.org/materiali/2025/video/e-privacy_2025_XXXVI_summer_edition_-_22_05_2025_mattina.mp4)
+<br/>
+- [22 pomeriggio](https://e-privacy.winstonsmith.org/materiali/2025/video/e-privacy_2025_XXXVI_summer_edition_-_22_05_2025_pomeriggio.mp4)
+<br/>
+- [23 mattina](https://e-privacy.winstonsmith.org/materiali/2025/video/e-privacy_2025_XXXVI_summer_edition_-_23_05_2025_mattina.mp4)
+<br/>
 <br/>
 Legenda:
 
