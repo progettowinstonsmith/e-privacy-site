@@ -100,10 +100,380 @@ THIS = (
 ISCRIVITI='''
 <a class="linkbutton"  href="http://lists.xed.it/ep2018-registration-form">Iscriviti!</a>
 '''
-EDIZIONI = [
+
+ALL_EDIZIONI = [
+    (2002, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-I.html',
+            'edition': 'I',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2003, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-II.html',
+            'edition': 'II',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2004, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-III.html',
+            'edition': 'III',
+            'location': 'Facoltà di Scienze Politiche, Aula Magna, via delle Pandette 21, 50127 Firenze',
+            'lat': 43.7936710078093,
+            'lon': 11.2319221893708,
+        },
+    }),
+    (2005, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-IV.html',
+            'edition': 'IV',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2006, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-V.html',
+            'edition': 'V',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2007, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-VI.html',
+            'edition': 'VI',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2008, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-VII.html',
+            'edition': 'VII',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2009, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-VIII.html',
+            'edition': 'VIII',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.25617,
+        },
+    }),
+    (2010, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-IX.html',
+            'edition': 'IX',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.256174,
+        },
+    }),
+    (2011, {
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-X.html',
+            'edition': 'X',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.256174,
+        },
+    }),
+    (2012, {
+        'winter': {
+            'city': 'Torino',
+            'link': '/e-privacy-XII.html',
+            'edition': 'XII',
+            'location': 'Politecnico di Torino, Corso Duca degli Abruzzi, 24, 10129 Torino TO',
+            'lat': 45.0626206827201,
+            'lon': 7.66226743224073,
+        },
+        'spring': {
+            'city': 'Milano',
+            'link': '/e-privacy-XI.html',
+            'edition': 'XI',
+            'location': 'Università degli Studi, Via Festa del Perdono, 7, 20122 Milano MI',
+            'lat': 45.46012,
+            'lon': 9.19381,
+        },
+    }),
+    (2013, {
+        'winter': {
+            'city': 'Milano',
+            'link': '/e-privacy-XIV.html',
+            'edition': 'XIV',
+            'location': 'Università Bocconi, ASK Research Center, P.za Angelo Sraffa, 13, 20136 Milano MI',
+            'lat': 45.44926,
+            'lon': 9.18763,
+        },
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-XIII.html',
+            'edition': 'XIII',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.256174,
+        },
+    }),
+    (2014, {
+        'winter': {
+            'city': 'Cagliari',
+            'link': '/e-privacy-XVI.html',
+            'edition': 'XVI',
+            'location': 'Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA',
+            'lat': 39.2215273,
+            'lon': 9.1045885,
+        },
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-XV.html',
+            'edition': 'XV',
+            'location': 'Palazzo Vecchio, P.za della Signoria, 50122 Firenze FI',
+            'lat': 43.76957,
+            'lon': 11.256174,
+        },
+    }),
+    (2015, {
+        'winter': {
+            'city': 'Cagliari',
+            'link': 'http:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ',
+            'edition': 'http:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ',
+            'location': 'Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA',
+            'lat': 39.2215273,
+            'lon': 9.1045885,
+        },
+        'spring': {
+            'city': 'Roma',
+            'link': '/e-privacy-XVII.html',
+            'edition': 'XVII',
+            'location': 'Camera dei Deputati, Via di Campo Marzio, 78, 00186 Roma RM',
+            'lat': 41.9016883770125,
+            'lon': 12.477077708666,
+        },
+    }),
+    (2016, {
+        'winter': {
+            'city': 'Roma',
+            'link': '/e-privacy-XX.html',
+            'edition': 'XX',
+            'location': 'Campidoglio, Piazza del Campidoglio, 00186 Roma RM',
+            'lat': 41.8935153767401,
+            'lon': 12.4827607433228,
+        },
+        'spring': {
+            'city': 'Pisa',
+            'link': '/e-privacy-XIX.html',
+            'edition': 'XIX',
+            'location': 'Università degli Studi di Pisa, Via Giacomo Matteotti, 11, 56124 Pisa PI',
+            'lat': 43.7107318754532,
+            'lon': 10.4119962664637,
+        },
+        '3.1416': {
+            'city': 'Udine',
+            'link': '/e-privacy-3.1416.html',
+            'edition': '3.1416',
+            'location': 'Sala dell\'Economia Camera di Commercio di Udine, Piazza Girolamo Venerio, 7, 33100 Udine UD',
+            'lat': 46.0611921424782,
+            'lon': 13.236749837799,
+        },
+    }),
+    (2017, {
+        'winter': {
+            'city': 'Venezia',
+            'link': '/e-privacy-XXII.html',
+            'edition': 'XXII',
+            'location': 'Tribunale di Rialto, San Polo, 119, 30100 Venezia VE',
+            'lat': 45.4388988,
+            'lon': 12.3352285,
+        },
+        'spring': {
+            'city': 'Lucca',
+            'link': '/e-privacy-XXI.html',
+            'edition': 'XXI',
+            'location': 'Real Collegio, Piazza del Collegio, 13, 55100 Lucca LU',
+            'lat': 43.8462411,
+            'lon': 10.50392252,
+        },
+    }),
+    (2018, {
+        'winter': {
+            'city': 'Roma',
+            'link': '/e-privacy-XXIV.html',
+            'edition': 'XXIV',
+            'location': 'Campidoglio, Piazza del Campidoglio, 00186 Roma RM',
+            'lat': 41.8935153767401,
+            'lon': 12.4827607433228,
+        },
+        'spring': {
+            'city': 'Bologna',
+            'link': '/e-privacy-XXIII.html',
+            'edition': 'XXIII',
+            'location': 'Biblioteca Salaborsa, Piazza Nettuno 3, 40124 Bologna ',
+            'lat': 44.4936714,
+            'lon': 11.3430347,
+        },
+    }),
+    (2019, {
+        'winter': {
+            'city': 'Bari',
+            'link': '/e-privacy-XXVI.html',
+            'edition': 'XXVI',
+            'location': 'Ordine Avvocati di Bari, Piazza Enrico de Nicola, 1, 70123 Bari BA',
+            'lat': 41.12352027474724,
+            'lon': 16.85657165279148,
+        },
+        'spring': {
+            'city': 'Torino',
+            'link': '/e-privacy-XXV.html',
+            'edition': 'XXV',
+            'location': 'Politecnico di Torino, Corso Duca degli Abruzzi, 24, 10129 Forlì TO',
+            'lat': 45.0626499683941,
+            'lon': 7.66233776656111,
+        },
+    }),
+    (2020, {
+        'winter': {
+            'city': 'covid',
+            'link': '/e-privacy-XXVIII.html',
+            'edition': 'XXVIII',
+            'location': 'http://127.0.0.1',
+            'lat': 43.7722395941173,
+            'lon': 11.2506047028547,
+        },
+        'spring': {
+            'city': 'covid',
+            'link': '/e-privacy-XXVII.html',
+            'edition': 'XXVII',
+            'location': 'http://127.0.0.1',
+            'lat': 43.7722395941173,
+            'lon': 11.2506047028547,
+        },
+    }),
+    (2021, {
+        'winter': {
+            'city': 'covid',
+            'link': '/e-privacy-29e3quarti.html',
+            'edition': '29e3quarti',
+            'location': 'http://127.0.0.1',
+            'lat': 43.7722395941173,
+            'lon': 11.2506047028547,
+        },
+        'spring': {
+            'city': 'covid',
+            'link': '/e-privacy-XXIX.html',
+            'edition': 'XXIX',
+            'location': 'http://127.0.0.1',
+            'lat': 43.7722395941173,
+            'lon': 11.2506047028547,
+        },
+    }),
+    (2022, {
+        'winter': {
+            'city': 'Roma',
+            'link': '/e-privacy-XXXI.html',
+            'edition': 'XXXI',
+            'location': 'Università degli Studi Roma Tre, in via Ostiense, 163 Roma',
+            'lat': 41.8625984138748,
+            'lon': 12.4797359137282,
+        },
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-XXX.html',
+            'edition': 'XXX',
+            'location': 'Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI',
+            'lat': 43.7754177098538,
+            'lon': 11.2490475524806,
+        },
+    }),
+    (2023, {
+        'winter': {
+            'city': 'Pisa',
+            'link': '/e-privacy-XXXIII.html',
+            'edition': 'XXXIII',
+            'location': 'Ordine degli Ingegneri di Pisa, Via Santa Caterina, 16 - 56127 Pisa',
+            'lat': 43.7216798394982,
+            'lon': 10.4023665664594,
+        },
+        'spring': {
+            'city': 'Roma',
+            'link': '/e-privacy-XXXII.html',
+            'edition': 'XXXII',
+            'location': 'Associazione Stampa Romana, Piazza della Torretta, 36, 00186 Roma RM',
+            'lat': 41.9034193668435,
+            'lon': 12.4774368020809,
+        },
+    }),
+    (2024, {
+        'winter': {
+            'city': 'Brescia',
+            'link': '/e-privacy-XXXV.html',
+            'edition': 'XXXV',
+            'location': 'Ordine degli Ingegneri della Provincia di Brescia, Via Cefalonia, 70, 25124 Brescia BS',
+            'lat': 45.5249933866926,
+            'lon': 10.2156898251627,
+        },
+        'spring': {
+            'city': 'Firenze',
+            'link': '/e-privacy-XXXIV.html',
+            'edition': 'XXXIV',
+            'location': 'Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI',
+            'lat': 43.7754177098538,
+            'lon': 11.2490475524806,
+        },
+    }),
+    (2025, {
+        'spring': {
+            'city': 'Bari',
+            'link': '/e-privacy-XXXVI.html',
+            'edition': 'XXXVI',
+            'location': 'Università degli Studi di Bari - Dipartimento di Giurisprudenza, Piazza Cesare Battisti, 1, 70122 Bari BA',
+            'lat': 41.1202400901967,
+            'lon': 16.8677728933869,
+            },
+            }),
+            ]
+
+
+EDIZIONI = []
+
+for year, sessions in ALL_EDIZIONI:
+    ed = {}
+    for name, session in sessions.items():
+        try:
+            ed[name] = (session["city"], session["link"], session["edition"])
+        except Exception as e:
+            print(f"Errore a {year}, {name}: {e}")
+    EDIZIONI.append((year, ed))
+
+
+XEDIZIONI = [
     (2025, {
         "spring": ("Bari", "/e-privacy-XXXVI.html", "XXXVI"),
-     }),    (2024, {
+     }),
+    (2024, {
         "spring": ("Firenze", "/e-privacy-XXXIV.html", "XXXIV"),
         "fall": ("Brescia", "/e-privacy-XXXV.html", "XXXV"),
     }),
@@ -305,7 +675,6 @@ PARTNERS = {
 }
 
 
-
 DEFAULT_PAGINATION = False
 
 STATIC_PATHS = ['images', '.htaccess', 'extra/js']
@@ -314,6 +683,10 @@ EXTRA_PATH_METADATA = {
     'favicon.ico': {'path': 'favicon.ico'},  #
     'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
 }
+
+PLUGIN_PATHS = ['plugins']
+# PLUGINS = [
+PLUGINS = ['gened']
 
 # Uncomment following line if you want document-relative URLs when developing 
 # RELATIVE_URLS = True
