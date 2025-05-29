@@ -73,7 +73,8 @@ USE_FOLDER_AS_CATEGORY = True
 # AUTHOR_FEED_RSS = None
 # CATEGORY_FEED_ATOM_URL = None
 
-DIRECT_TEMPLATES = ['index', 'archives']
+
+# DIRECT_TEMPLATES = ['index', 'archives']
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -305,7 +306,7 @@ PARTNERS = {
 
 
 
-DEFAULT_PAGINATION = 1
+DEFAULT_PAGINATION = False
 
 STATIC_PATHS = ['images', '.htaccess', 'extra/js']
 
@@ -328,3 +329,15 @@ DATE_FORMATS = {
 
 LOCALE = ('it_IT', 'it_IT.utf8'
           )
+
+
+CATEGORY_SAVE_AS = ''
+CATEGORY_URL = ''
+TAG_SAVE_AS = ''
+TAG_URL = ''
+AUTHOR_SAVE_AS = ''
+AUTHOR_URL = ''
+ARCHIVES_SAVE_AS = ''
+YEAR_ARCHIVE_SAVE_AS = ''
+MONTH_ARCHIVE_SAVE_AS = ''
+DAY_ARCHIVE_SAVE_AS = ''
