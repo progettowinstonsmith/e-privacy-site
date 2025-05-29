@@ -311,7 +311,7 @@ STATIC_PATHS = ['images', '.htaccess', 'extra/js']
 
 EXTRA_PATH_METADATA = {
     'favicon.ico': {'path': 'favicon.ico'},  #
-    'extra/js/eprivacy_locations.js': {'path': 'static/js/eprivacy_locations.js'},
+    'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
 }
 
 # Uncomment following line if you want document-relative URLs when developing 
