@@ -139,6 +139,11 @@
                 <a href="{{ editions.spring[1] }}">
                   {{ editions.spring[0] }}
                 </a>
+                {% elif editions.summer %}
+                <small class="edizione-num">{{ editions.summer[2] }}</small> <br>
+                <a href="{{ editions.summer[1] }}">
+                  {{ editions.summer[0] }}
+                </a>
                 {% else %}
                 &mdash;
                 {% endif %}
@@ -148,6 +153,11 @@
                 <small class="edizione-num">{{ editions.fall[2] }}</small><br>
                 <a href="{{ editions.fall[1] }}">
                   {{ editions.fall[0] }}
+                </a>
+                {% elif editions.winter %}
+                <small class="edizione-num">{{ editions.winter[2] }}</small><br>
+                <a href="{{ editions.winter[1] }}">
+                  {{ editions.winter[0] }}
                 </a>
                 {% else %}
                 &mdash;
