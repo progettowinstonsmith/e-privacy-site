@@ -152,7 +152,7 @@ const eprivacyLocations = [
     "when": "Winter",
     "city": "Cagliari",
     "where": "Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA",
-    "link": "https://e-privacy.winstonsmith.orghttp:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ",
+    "link": "https://e-privacy.winstonsmith.org/e-privacy-XVIII.html ",
     "lat": 39.2215273,
     "lon": 9.1045885
   },
@@ -185,7 +185,7 @@ const eprivacyLocations = [
   },
   {
     "year": "2016",
-    "when": "3.1416",
+    "when": "Extra",
     "city": "Udine",
     "where": "Sala dell'Economia Camera di Commercio di Udine, Piazza Girolamo Venerio, 7, 33100 Udine UD",
     "link": "https://e-privacy.winstonsmith.org/e-privacy-3.1416.html",

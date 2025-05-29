@@ -259,7 +259,7 @@ ALL_EDIZIONI = [
     (2015, {
         'winter': {
             'city': 'Cagliari',
-            'link': 'http:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ',
+            'link': '/e-privacy-XVIII.html ',
             'edition': 'http:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ',
             'location': 'Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA',
             'lat': 39.2215273,
@@ -291,7 +291,7 @@ ALL_EDIZIONI = [
             'lat': 43.7107318754532,
             'lon': 10.4119962664637,
         },
-        '3.1416': {
+        'extra': {
             'city': 'Udine',
             'link': '/e-privacy-3.1416.html',
             'edition': '3.1416',
@@ -469,94 +469,6 @@ for year, sessions in ALL_EDIZIONI:
     EDIZIONI.append((year, ed))
 
 
-XEDIZIONI = [
-    (2025, {
-        "spring": ("Bari", "/e-privacy-XXXVI.html", "XXXVI"),
-     }),
-    (2024, {
-        "spring": ("Firenze", "/e-privacy-XXXIV.html", "XXXIV"),
-        "fall": ("Brescia", "/e-privacy-XXXV.html", "XXXV"),
-    }),
-    (2023, {
-        "spring": ("Roma", "/e-privacy-XXXII.html", "XXXII"),
-        "fall": ("Pisa", "/e-privacy-XXXIII.html", "XXXIII"),
-    }),
-    (2022, {
-        "spring": ("Firenze", "/e-privacy-XXX.html", "XXX"),
-        "fall": ("Roma", "/e-privacy-XXXI.html", "XXXI"),
-    }),
-    (2021, {
-        "spring": ("Covid", "/e-privacy-XXIX.html", "XXIX"),
-        "extra": ("Hogward", "/e-privacy-29e3quarti.html", "29¾"),
-    }),
-    (2020, {
-        "spring": ("Covid", "/e-privacy-XXVII.html", "XXVII"),
-        "fall": ("Covid", "/e-privacy-XXVIII.html", "XXVIII"),
-    }),
-    (2019, {
-        "spring": ("Torino", "/e-privacy-XXV.html", "XXV"),
-        "fall": ("Bari", "/e-privacy-XXVI.html", "XXVI"),
-    }),
-    (2018, {
-        "spring": ("Bologna", "/e-privacy-XXIII.html", "XXIII"),
-        "fall": ("Roma", "/e-privacy-XXIV.html", "XXIV"),
-    }),
-    (2017, {
-        "spring": ("Lucca", "/e-privacy-XXI.html", "XXI"),
-        "fall": ("Venezia", "/e-privacy-XXII.html", "XXII"),
-    }),
-    (2016, {
-        "spring": ("Pisa", "/e-privacy-XIX.html", "XIX"),
-        "fall": ("Roma", "/e-privacy-XX.html", "XX"),
-        "extra": ("Udine", "/e-privacy-3.1416.html", "π"),
-    }),
-    (2015, {
-        "spring": ("Roma", "/e-privacy-XVII.html", "XVII"),
-        "fall": ("Cagliari", "/e-privacy-XVIII.html", "XVIII"),
-    }),
-    (2014, {
-        "spring": ("Firenze", "/e-privacy-XV.html", "XV"),
-        "fall": ("Cagliari", "/e-privacy-XVI.html", "XVI"),
-    }),
-    (2013, {
-        "spring": ("Firenze", "/e-privacy-XIII.html", "XIII"),
-        "fall": ("Milano", "/e-privacy-XIV.html", "XIV"),
-    }),
-    (2012, {
-        "spring": ("Milano", "/e-privacy-XI.html", "XI"),
-        "fall": ("Torino", "/e-privacy-XII.html", "XII"),
-    }),
-    (2011, {
-        "spring": ("Firenze", "/e-privacy-X.html", "X"),
-    }),
-    (2010, {
-        "spring": ("Firenze", "/e-privacy-IX.html", "IX"),
-    }),
-    (2009, {
-        "spring": ("Firenze", "/e-privacy-VIII.html", "VIII"),
-    }),
-    (2008, {
-        "spring": ("Firenze", "/e-privacy-VII.html", "VII"),
-    }),
-    (2007, {
-        "spring": ("Firenze", "/e-privacy-VI.html", "VI"),
-    }),
-    (2006, {
-        "spring": ("Firenze", "/e-privacy-V.html", "V"),
-    }),
-    (2005, {
-        "spring": ("Firenze", "/e-privacy-IV.html", "IV"),
-    }),
-    (2004, {
-        "spring": ("Firenze", "/e-privacy-III.html", "III"),
-    }),
-    (2003, {
-        "spring": ("Firenze", "/e-privacy-II.html", "II"),
-    }),
-    (2002, {
-        "spring": ("Firenze", "/e-privacy-I.html", "I"),
-    }),
-]
 
 # Social widget
 LINKS = (
