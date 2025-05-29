@@ -2,7 +2,7 @@ Template: article
 Title: Mappa delle edizioni di e-privacy
 Date: 2021-04-22 10:20
 lang: it
-slug: mappa-edizioni-e-privacy
+slug: mappa-edizioni-e-privacy-old
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 <!-- Usa height="1000px" -->
