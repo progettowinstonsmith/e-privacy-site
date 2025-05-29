@@ -24,15 +24,17 @@
         <meta property="og:url" content="{{ SITEURL }}/" />
         {% endif %}
         <meta property="og:description" content="{{ SITENAME }}" />
-        {%endblock%}
+        {% endblock %}
 
         {% block redirect %}{% endblock %}
-        <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+        <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
 
         <!-- link rel="stylesheet"
              href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" -->
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/font-awesome.min.css" />
 
+        {% block links %}{% endblock links %}
+        
         <!-- link rel="stylesheet"
              href="//yui.yahooapis.com/pure/0.4.2/pure-min.css" -->
 
@@ -46,14 +48,12 @@
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css" />
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css"/>
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/syntax.css">
-
+        
         <script src="{{ SITEURL }}/theme/js/jquery.js"></script></head>
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/lodash.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/modernizr.js"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.countdown.js"></script>
-
-
 
 <body>
 
@@ -95,7 +95,7 @@
 
     <!-- Main Blog Content -->
     <div class="large-9 columns">
-    {% block content %}{% endblock %}
+    {% block content %}{% endblock content %}
     </div>
     <!-- End Main Content -->
 
@@ -222,6 +222,6 @@
     </div>
 </footer>
 {% include 'piwik.html' %}
-{% include 'mautic.html' %}
+{# % include 'mautic.html' % #}
 </body>
 </html>
