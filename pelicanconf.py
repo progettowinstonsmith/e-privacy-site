@@ -260,7 +260,7 @@ ALL_EDIZIONI = [
         'winter': {
             'city': 'Cagliari',
             'link': '/e-privacy-XVIII.html ',
-            'edition': 'http:/e-privacy.winstonsmith.org/e-privacy-XVIII.html ',
+            'edition': 'XVIII ',
             'location': 'Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA',
             'lat': 39.2215273,
             'lon': 9.1045885,
