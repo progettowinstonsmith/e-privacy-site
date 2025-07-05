@@ -141,7 +141,7 @@ forma elettronica, tramite un apposito form online che verrà comunicato
 successivamente ai relatori, **entro il 12 maggio 2025**.
 
 **La proposta deve essere presentata usando questo
-[form](file:///e-privacy-XXXVI-proposta.html).**
+[form](https://e-privacy.winstonsmith.org/e-privacy-XXXVI-proposta.html).**
 
 Le proposte dovranno contenere:
 
