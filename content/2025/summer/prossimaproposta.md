@@ -16,7 +16,7 @@ When: 23 e 24 ottobre
 Where: Sala Conferenze Infopoint
 Edition: winter
 Giorni: 23 e 24 ottobre 2025
-Event_Path: content/2025/winter
+Event_Path: content/2025/summer
 Extra-Documents: nil
 Lang: it
 Next: 
