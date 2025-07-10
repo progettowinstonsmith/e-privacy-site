@@ -2,7 +2,7 @@ Slug: e-privacy-XXXVII-proposta-relatore-add
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
-Date: 23/10/2025
+Date: 23/01/2025
 Edition: winter
 Enabled: yes
 Eprivacy_N: XXXVII
@@ -21,7 +21,7 @@ Season: winter
 Status: hidden
 Subtitle: TBA
 Timeline: 28 marzo | 7 aprile | 12 maggio
-Title: TBA
+Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
 Where: TBA
 Year: 2025
