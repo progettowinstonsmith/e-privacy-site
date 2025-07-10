@@ -1,4 +1,4 @@
-Slug: e-privacy-XXXVII-proposta-relatore-add
+Slug: e-privacy-XXXVII-proposta
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
@@ -26,5 +26,10 @@ When: 23-24 ottobre
 Where: TBA
 Year: 2025
 
-<script type="text/javascript" src="//pws.xed.it/form/generate.js?id=23"></script>
+
+# Table of Contents
+
+
+
+<script type="text/javascript" src="//pws.xed.it/form/generate.js?id=22"></script>
 
