@@ -26,10 +26,5 @@ When: 23-24 ottobre
 Where: TBA
 Year: 2025
 
-
-# Table of Contents
-
-
-
 <script type="text/javascript" src="//pws.xed.it/form/generate.js?id=22"></script>
 

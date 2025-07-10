@@ -26,11 +26,6 @@ When: 23-24 ottobre
 Where: TBA
 Year: 2025
 
-
-# Table of Contents
-
-
-
 Grazie
 
 [Vuoi aggiungere il profilo per un relatore dell'intervento?](file:///e-privacy-XXXVII-proposta-relatore-add.html)
