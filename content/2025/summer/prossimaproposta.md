@@ -1,6 +1,6 @@
 Enabled: yes
 Options: toc:nil
-Slug: e-privacy-XXXVII-proposta
+Slug: e-privacy-XXXVII-proposta-old
 Date: 23/10/2024
 Category: 2025
 Num: XXXVII
