@@ -28,7 +28,7 @@ Year: 2025
 
 Grazie
 
-[Vuoi aggiungere il profilo per un relatore dell'intervento?](file:///e-privacy-XXXVII-proposta-relatore-add.html)
+[Vuoi aggiungere il profilo per un relatore dell'intervento?](https://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta-relatore-add.html)
 
 Ricordarti di inserire i profili di tutti i relatori che vuoi vengano
 riportati sul sito.
