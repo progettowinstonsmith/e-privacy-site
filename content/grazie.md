@@ -1,4 +1,4 @@
-Template: article
+Template: grazie
 Title: Grazie
 Date: 2015-04-22 10:20
 Category: generale
@@ -8,7 +8,7 @@ Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che 
 Redirect: https://e-privacy.winstonsmith.org/donazioni-e-privacy.html
 
 
+Grazie per aver inviato la tua proposta!  
+Di seguito trovi il riepilogo dei dati che hai inserito:
 
-<h2>Grazie</h2>
-
-I dati sono stati ricevuti. Dovresti a breve ricevere una mail di conferma.
+<div id="summary"></div>

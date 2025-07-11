@@ -1,18 +1,15 @@
 #!/usr/bin/env /home/pws/miniconda3/bin/python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import cgi
-import csv
-import os
-import smtplib
-import datetime
-import html
-import sys
+import cgi, csv, os, smtplib, datetime, html, json, sys
 
-# — CONFIGURAZIONE — 
-CSV_PATH = '/home/pws/data/contacts.csv'
-SMTP_HOST = 'localhost'
+# — CONFIGURAZIONE —
+CSV_PATH     = '/home/pws/data/contacts.csv'
+SMTP_HOST    = 'localhost'
 SENDER_EMAIL = 'noreply@e-privacy.winstonsmith.org'
+# URL di ringraziamento
+REDIRECT_URL = '/grazie.html'
 
 # Destinatari fissi
 STATIC_RECIPIENTS = [
@@ -20,87 +17,104 @@ STATIC_RECIPIENTS = [
     'archivio@winstonsmith.org',
 ]
 
-# Definizione dei campi: (nome_csv, chiave_form, is_list)
-FIELD_SPECS = [
-    ('email_talk',                  'mauticform[email_di_contatto_con_il]',   False),
-    ('nome_cognome',                'mauticform[nome_e_cognome]',              False),
-    ('contatto_telefonico',         'mauticform[contatto_telefonico]',         False),
-    ('proposta_di_durata',          'mauticform[proposta_di_durata]',          False),
-    ('titolo',                      'mauticform[titolo]',                      False),
-    ('descrizione',                 'mauticform[descrizione]',                 False),
-    ('sessioni',                    'mauticform[sessioni]',                    True),
-    ('dal_vivo',                    'mauticform[dal_vivo]',                    False),
-    ('argomenti',                   'mauticform[argomento__aree_di_intere1]',  True),
-    ('quale_altro_argomento',       'mauticform[quale_altro_argomento]',       False),
-    ('multi_relatori',              'mauticform[saranno_presenti_piu_rela]',   False),
-    ('consenso_pubblicazione',      'mauticform[consenso_alla_pubblicazio]',   False),
-    ('consenso_registrazione',      'mauticform[consenso_alle_registrazio]',   False),
-    ('commenti',                    'mauticform[commenti_e_istruzioni]',       False),
-    ('antispam',                    'mauticform[antispam]',                    False),
+# Campi “talk”
+TALK_FIELDS = [
+    ('email',    'form[email_di_contatto_con_il]', False, False),
+    ('nome',     'form[nome_e_cognome]',           False, False),
+    ('telefono', 'form[contatto_telefonico]',      False, False),
+    ('durata',   'form[proposta_di_durata]',       False, False),
+    ('titolo',   'form[titolo]',                   False, False),
+    ('descr',    'form[descrizione]',              False, False),
+    ('sessioni','form[sessioni]',                  False, True),
+    ('dal_vivo','form[dal_vivo]',                  False, False),
+    ('argomenti','form[argomento__aree_di_intere1]',False, True),
+    ('altro_arg', 'form[quale_altro_argomento]',   False, False),
+    ('multi_rela','form[saranno_presenti_piu_rela]',False, False),
+    ('cons_pub','form[consenso_alla_pubblicazio]', False, False),
+    ('cons_reg','form[consenso_alle_registrazio]', False, False),
+    ('comm','form[commenti_e_istruzioni]',         False, False),
+    ('antispam','form[antispam]',                  False, False),
 ]
 
-def get_field(form, key):
+# Campi speaker
+SPEAKER_FIELDS = [
+    'relatore_o_autore',
+    'cognome',
+    'nome',
+    'organizzazione_o_istituzi',
+    'email',
+    'numero_di_telefono',
+    'breve_ma_non_troppo_prese',
+    'telegram1'
+]
+
+def get_first(form, key):
     return html.escape(form.getfirst(key, '').strip())
 
-def get_list_field(form, key):
+def get_all(form, key):
     return [html.escape(v.strip()) for v in form.getlist(key)]
+
+def bail(status, msg):
+    print(f"Status: {status}")
+    print("Content-Type: text/plain\n")
+    print(f"Errore: {msg}")
+    sys.exit(1)
 
 def main():
     form = cgi.FieldStorage()
-    data = {}
+    talk = {}
 
-    # 1) Raccogli e valida i campi
-    for name, key, is_list in FIELD_SPECS:
+    # 1) Raccogli i campi “talk”
+    for key, fname, optional, is_list in TALK_FIELDS:
         if is_list:
-            vals = get_list_field(form, key)
-            if name != 'antispam' and not vals:
-                print("Status: 400 Bad Request")
-                print("Content-Type: text/plain\n")
-                print(f"Errore: manca il campo {name}")
-                sys.exit(1)
-            data[name] = vals
+            vals = get_all(form, fname)
+            if not vals and not optional:
+                bail("400 Bad Request", f"campo '{key}' mancante")
+            talk[key] = vals
         else:
-            val = get_field(form, key)
-            if name != 'antispam' and not val:
-                print("Status: 400 Bad Request")
-                print("Content-Type: text/plain\n")
-                print(f"Errore: manca il campo {name}")
-                sys.exit(1)
-            data[name] = val
+            val = get_first(form, fname)
+            if not val and not optional:
+                bail("400 Bad Request", f"campo '{key}' mancante")
+            talk[key] = val
 
-    # 2) Antispam: 7 + 7 deve dare “14”
-    if data.get('antispam') != '14':
-        print("Status: 400 Bad Request")
-        print("Content-Type: text/plain\n")
-        print("Errore: risposta antispam errata")
-        sys.exit(1)
+    # 2) Controlla antispam
+    if talk.get('antispam') != '14':
+        bail("400 Bad Request", "risposta antispam errata")
 
-    # 3) Prepara la lista destinatari includendo l’email dal form
-    recipients = STATIC_RECIPIENTS + [data['email_talk']]
+    # 3) Raccogli speaker
+    # leggiamo array per ogni SPEAKER_FIELDS
+    lists = { f: get_all(form, f"form[{f}]") for f in SPEAKER_FIELDS }
+    count = len(lists['nome'])
+    speakers = []
+    for i in range(count):
+        sp = { f: lists[f][i] if i < len(lists[f]) else '' for f in SPEAKER_FIELDS }
+        if not sp['nome'] or not sp['cognome'] or not sp['email']:
+            bail("400 Bad Request", f"relatore #{i+1} incompleto")
+        speakers.append(sp)
 
-    # 4) Scrivi (o crea) il CSV
+    # 4) Destinatari
+    recipients = STATIC_RECIPIENTS + [talk['email']] + [ s['email'] for s in speakers ]
+
+    # 5) Scrivi CSV
     os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
     header_needed = not os.path.exists(CSV_PATH)
     try:
         with open(CSV_PATH, 'a', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
             if header_needed:
-                writer.writerow([name for name, _, _ in FIELD_SPECS] + ['timestamp'])
+                header = [k for k, *_ in TALK_FIELDS] + ['speakers_json','timestamp']
+                writer.writerow(header)
             row = []
-            for name, _, is_list in FIELD_SPECS:
-                if is_list:
-                    row.append(';'.join(data[name]))
-                else:
-                    row.append(data[name])
+            for k, *_ in TALK_FIELDS:
+                v = talk[k]
+                row.append(';'.join(v) if isinstance(v, list) else v)
+            row.append(json.dumps(speakers, ensure_ascii=False))
             row.append(datetime.datetime.now().isoformat())
             writer.writerow(row)
     except Exception as e:
-        print("Status: 500 Internal Server Error")
-        print("Content-Type: text/plain\n")
-        print(f"Errore scrittura CSV: {e}")
-        sys.exit(1)
+        bail("500 Internal Server Error", f"scrittura CSV fallita: {e}")
 
-    # 5) Costruisci l’email
+    # 6) Invia email
     headers = [
         f"From: {SENDER_EMAIL}",
         f"To: {', '.join(recipients)}",
@@ -109,30 +123,49 @@ def main():
         "Content-Type: text/plain; charset=utf-8",
         ""
     ]
-    body_lines = []
-    for name, _, is_list in FIELD_SPECS:
-        if is_list:
-            body_lines.append(f"{name}: {', '.join(data[name])}")
-        else:
-            body_lines.append(f"{name}: {data[name]}")
-    message = "\n".join(headers) + "\n" + "\n".join(body_lines)
+    body = ["=== DATI TALK ==="]
+    for k, *_ in TALK_FIELDS:
+        val = talk[k]
+        body.append(f"{k}: {', '.join(val) if isinstance(val, list) else val}")
+    body.append("\n=== RELATORI ===")
+    for idx, sp in enumerate(speakers,1):
+        body.append(f"-- Relatore #{idx} --")
+        for f in SPEAKER_FIELDS:
+            body.append(f"{f}: {sp[f]}")
+    message = "\n".join(headers) + "\n" + "\n".join(body)
 
-    # 6) Invia l’email
     try:
         smtp = smtplib.SMTP(SMTP_HOST)
         smtp.sendmail(SENDER_EMAIL, recipients, message.encode('utf-8'))
         smtp.quit()
     except Exception as e:
-        print("Status: 500 Internal Server Error")
-        print("Content-Type: text/plain\n")
-        print(f"Errore invio mail: {e}")
-        sys.exit(1)
+        bail("500 Internal Server Error", f"invio email fallito: {e}")
 
-    # 7) Risposta al browser
-    print("Content-Type: text/html\n")
-    print("<html><head><meta charset='UTF-8'></head><body>")
-    print("<h3>Grazie! La tua proposta è stata inviata con successo.</h3>")
-    print("</body></html>")
+    # 7) Rispondi con script che popola sessionStorage e reindirizza
+    payload = {
+        'talk': {
+            'titolo': talk['titolo'],
+            'email': talk['email']
+        },
+        'speakers': [
+            {'nome': s['nome'], 'cognome': s['cognome'], 'email': s['email']}
+            for s in speakers
+        ]
+    }
+    payload_json = json.dumps(payload, ensure_ascii=False)
+
+    print("Content-Type: text/html; charset=utf-8\n")
+    print(f"""<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Reindirizzamento…</title></head><body>
+<script>
+  // salva i dati in sessionStorage
+  var payload = {payload_json};
+  sessionStorage.setItem('lastSubmission', JSON.stringify(payload));
+  // reindirizza alla pagina statica di ringraziamento
+  window.location.href = '{REDIRECT_URL}';
+</script>
+<p>Un momento, stiamo lavorando…</p>
+</body></html>""")
 
 if __name__ == '__main__':
     main()
