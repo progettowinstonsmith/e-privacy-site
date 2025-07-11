@@ -200,12 +200,6 @@ Template: form
                 <span class="form-errormsg" style="display: none;"></span>
             </div>
 
-            <div id="form_propostatalk_antispam" style="display: none;" class="form-row form-text form-field-14">
-                <label id="form_label_propostatalk_antispam" for="form_input_propostatalk_antispam" class="form-label">Anti-spam</label>
-                <span class="form-helpmessage">Quanto fa sette più sette</span>
-                <input id="form_input_propostatalk_antispam" name="form[antispam]" value="" class="form-input" type="text">
-                <span class="form-errormsg" style="display: none;"></span>
-            </div>
 
 
        <div id="speakers">

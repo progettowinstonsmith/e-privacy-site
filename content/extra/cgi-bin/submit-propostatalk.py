@@ -33,7 +33,6 @@ TALK_FIELDS = [
     ('cons_pub','form[consenso_alla_pubblicazio]', False, False),
     ('cons_reg','form[consenso_alle_registrazio]', False, False),
     ('comm','form[commenti_e_istruzioni]',         True, False),
-    ('antispam','form[antispam]',                  False, False),
 ]
 
 # Campi speaker
