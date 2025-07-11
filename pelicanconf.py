@@ -21,7 +21,7 @@ YEAR = u'2025'
 EDITION = 'summer'
 SITENAME = u'e-privacy 2025 summer: La vita è tutta un dossier'
 IMAGE='e-privacy-XXXVI.png'  
-PROPOSALS_OPEN = False
+PROPOSALS_OPEN = True
 
 COUNTDOWN = False
 EVENT_TIME = '2025/05/22 10:00'
