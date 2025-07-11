@@ -25,7 +25,7 @@ TALK_FIELDS = [
     ('durata',   'form[proposta_di_durata]',       False, False),
     ('titolo',   'form[titolo]',                   False, False),
     ('descr',    'form[descrizione]',              False, False),
-    ('sessioni','form[sessioni]',                  False, True),
+    ('sessioni','form[sessioni][]',                  False, True),
     ('dal_vivo','form[dal_vivo]',                  False, False),
     ('argomenti','form[argomento__aree_di_intere1]',False, True),
     ('altro_arg', 'form[quale_altro_argomento]',   False, False),
