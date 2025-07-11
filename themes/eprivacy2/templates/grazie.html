@@ -186,6 +186,13 @@ button[type="submit"]:hover {
     });
     html.push('</ul>');
     c.innerHTML = html.join('');
+      
+    if (obj.org) {
+      var pre = document.createElement('pre');
+      pre.textContent = obj.org;
+      c.appendChild(pre);
+    }
+      
     sessionStorage.removeItem('lastSubmission');
   });
   </script>
