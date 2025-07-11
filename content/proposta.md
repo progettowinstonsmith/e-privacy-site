@@ -151,7 +151,8 @@ Template: form
             <div id="form_propostatalk_quale_altro_argomento" data--form-show-on="argomento__aree_di_intere1:Altro:" data--form-expr="in" class="form-row form-text form-field-9  form-field-hidden">
                 <label id="form_label_propostatalk_quale_altro_argomento" for="form_input_propostatalk_quale_altro_argomento" class="form-label">Quale altro argomento?</label>
                 <span class="form-helpmessage">Indica qui un argomento alternativo</span>
-                <input id="form_input_propostatalk_quale_altro_argomento" name="form[quale_altro_argomento]" value="" class="form-input" type="text">
+                <input id="form_input_propostatalk_quale_altro_argomento"
+		name="form[quale_altro_argomento]" value="" class="form-input" type="text">
                 <span class="form-errormsg" style="display: none;"></span>
             </div>
 

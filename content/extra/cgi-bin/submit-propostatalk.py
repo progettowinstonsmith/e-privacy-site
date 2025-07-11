@@ -66,7 +66,6 @@ def main():
 
     # 1) Raccogli i campi “talk”
     for key, fname, optional, is_list in TALK_FIELDS:
-        printf(key)
         if is_list:
             vals = get_all(form, fname)
             if not vals and not optional:

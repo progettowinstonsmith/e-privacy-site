@@ -7,9 +7,25 @@
  *  - validazione HTML5‐style dei campi con data‐validate
  */
 
+// show-hide “Quale altro argomento?”
+(function(){
+  var checkboxAltro = document.querySelector(
+    'input[name="form[argomento__aree_di_intere1][]"][value="Altro:"]'
+  );
+  var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
+  if (!checkboxAltro || !divAltro) return;
+  function toggle() {
+    divAltro.style.display = checkboxAltro.checked ? '' : 'none';
+  }
+  // iniziale + onChange
+  toggle();
+  checkboxAltro.addEventListener('change', toggle);
+})();
+
 (function(){
   'use strict';
 
+    
   // Utility di validazione
   function validateEmail(email) {
     var at = email.indexOf('@'),
@@ -166,4 +182,5 @@
 
   });
 
+    
 })();
