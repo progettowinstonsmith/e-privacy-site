@@ -9,30 +9,30 @@ CSV_PATH     = '/home/pws/data/contacts.csv'
 SMTP_HOST    = 'localhost'
 SENDER_EMAIL = 'noreply@e-privacy.winstonsmith.org'
 # URL di ringraziamento
-REDIRECT_URL = '/grazie.html'
+REDIRECT_URL = '/grazie-della-proposta.html'
 
 # Destinatari fissi
 STATIC_RECIPIENTS = [
-    'segreteria@winstonsmith.org',
-    'archivio@winstonsmith.org',
+#     'segreteria@winstonsmith.org',
+    'emmanuele@exedre.org',
 ]
 
 # Campi “talk”
 TALK_FIELDS = [
-    ('email',    'form[email_di_contatto_con_il]', False, False),
-    ('nome',     'form[nome_e_cognome]',           False, False),
-    ('telefono', 'form[contatto_telefonico]',      False, False),
-    ('durata',   'form[proposta_di_durata]',       False, False),
-    ('titolo',   'form[titolo]',                   False, False),
-    ('descr',    'form[descrizione]',              False, False),
-    ('sessioni','form[sessioni][]',                  False, True),
-    ('dal_vivo','form[dal_vivo]',                  False, False),
+    ('email',    'form[email_di_contatto_con_il]',  False, False),
+    ('nome',     'form[nome_e_cognome]', False, False),
+    ('telefono', 'form[contatto_telefonico]', False, False),
+    ('durata',   'form[proposta_di_durata]', False, False),
+    ('titolo',   'form[titolo]', False, False),
+    ('descr',    'form[descrizione]', False, False),
+    ('sessioni','form[sessioni][]', False, True),
+    ('dal_vivo','form[dal_vivo]', False, False),
     ('argomenti','form[argomento__aree_di_intere1][]',False, True),
-    ('altro_arg', 'form[quale_altro_argomento]',   False, False),
+    ('altro_arg', 'form[quale_altro_argomento]', False, False),
     ('multi_rela','form[saranno_presenti_piu_rela]',False, False),
     ('cons_pub','form[consenso_alla_pubblicazio]', False, False),
     ('cons_reg','form[consenso_alle_registrazio]', False, False),
-    ('comm','form[commenti_e_istruzioni]',         True, False),
+    ('comm','form[commenti_e_istruzioni]', True, False),
 ]
 
 # Campi speaker
@@ -87,9 +87,11 @@ def main():
             bail("400 Bad Request", f"relatore #{i+1} incompleto")
         speakers.append(sp)
 
-    # 4) Destinatari
-    recipients = STATIC_RECIPIENTS + [talk['email']] + [ s['email'] for s in speakers ]
-
+    # 4) Destinatari (univoci)
+    recipients = STATIC_RECIPIENTS + [talk['email']] + [s['email'] for s in speakers]
+    # elimina i duplicati mantenendo l’ordine (Python 3.7+)
+    recipients = list(dict.fromkeys(recipients))
+        
     # 5) Scrivi CSV
     os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
     header_needed = not os.path.exists(CSV_PATH)
@@ -119,14 +121,59 @@ def main():
         ""
     ]
     body = ["=== DATI TALK ==="]
-    for k, *_ in TALK_FIELDS:
-        val = talk[k]
-        body.append(f"{k}: {', '.join(val) if isinstance(val, list) else val}")
-    body.append("\n=== RELATORI ===")
-    for idx, sp in enumerate(speakers,1):
-        body.append(f"-- Relatore #{idx} --")
-        for f in SPEAKER_FIELDS:
-            body.append(f"{f}: {sp[f]}")
+    # helper per mascherare: primi 3, poi asterischi, ultimi 2
+def mask_phone(num):
+    return num[:3] + '*'*(len(num)-5) + num[-2:] if len(num) > 5 else num
+
+# mappe per etichette leggibili
+label_map = {
+    'email':       'Email di contatto',
+    'nome':        'Nome e Cognome',
+    'telefono':    'Telefono di contatto',
+    'durata':      'Durata proposta',
+    'titolo':      'Titolo del talk',
+    'descr':       'Descrizione',
+    'sessioni':    'Sessioni disponibili',
+    'dal_vivo':    'Presenza in loco',
+    'argomenti':   'Argomenti trattati',
+    'altro_arg':   'Altro argomento',
+    'multi_rela':  'Più relatori',
+    'cons_pub':    'Consenso alla pubblicazione',
+    'cons_reg':    'Consenso alle registrazioni',
+    'comm':        'Commenti aggiuntivi',
+    'antispam':    'Anti-spam',
+}
+
+label_map_speaker = {
+    'relatore_o_autore':         'Ruolo',
+    'cognome':                   'Cognome relatore',
+    'nome':                      'Nome relatore',
+    'organizzazione_o_istituzi': 'Organizzazione / Istituzione',
+    'email':                     'Email relatore',
+    'numero_di_telefono':        'Telefono relatore',
+    'breve_ma_non_troppo_prese': 'Breve bio',
+    'telegram1':                 'Telegram',
+}
+
+
+body.append("=== DATI TALK ===")
+for key, *_ in TALK_FIELDS:
+    val = talk[key]
+    if key == 'telefono':
+        val = mask_phone(val)
+    label = label_map.get(key, key)
+    body.append(f"{label}: {val}")
+
+body.append("\n=== RELATORI ===")
+for idx, sp in enumerate(speakers, 1):
+    body.append(f"-- Relatore #{idx} --")
+    for f in SPEAKER_FIELDS:
+        val = sp[f]
+        if f == 'numero_di_telefono':
+            val = mask_phone(val)
+        label = label_map_speaker.get(f, f)
+        body.append(f"{label}: {val}")
+        
     message = "\n".join(headers) + "\n" + "\n".join(body)
 
     try:
