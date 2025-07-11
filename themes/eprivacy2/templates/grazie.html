@@ -1,0 +1,199 @@
+{% extends "base.html" %}
+
+
+{% block og %}
+<meta property="og:title" content="{{ article.title|striptags }}" />
+{% if article.image %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/{{article.image}}.png" />
+{% else %}
+{% if article.num %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/EPRIVACY_{{article.num}}.png" />
+{% else %}
+<meta property="og:image" content="{{ SITEURL }}/images/editions/e-privacy.png" />
+{% endif %}
+{% endif %}
+<meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+<meta property="og:description" content="{{ SITENAME }}" />
+<style type="text/css" scoped>
+    .form_wrapper { max-width: 600px; margin: 10px auto; font-family: Helvetica, Arial, sans-serif; color: #676767;}
+    .form-innerform {}
+    .form-post-success {}
+    .form-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
+    .form-description { margin-top: 2px; margin-bottom: 10px; }
+    .form-error { margin-bottom: 10px; color: red; }
+    .form-message { margin-bottom: 10px;color: green; }
+    .form-row { display: block; margin-bottom: 20px; }
+    .form-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }
+    .form-row.form-required .form-label:after { color: #e32; content: " *"; display: inline; }
+    .form-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }
+    .form-errormsg { display: block; color: red; margin-top: 2px; }
+    .form-selectbox, .form-input, .form-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; border-radius: 4px; box-sizing: border-box; }
+    .form-checkboxgrp-row {}
+    .form-checkboxgrp-label { font-weight: normal; }
+    .form-checkboxgrp-checkbox {}
+    .form-radiogrp-row {}
+    .form-radiogrp-label { font-weight: normal; }
+    .form-radiogrp-radio {}
+    .form-button-wrapper .form-button.btn-default { color: #5d6c7c;background-color: #ffffff;border-color: #dddddd;}
+    .form-button-wrapper .form-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 13px;line-height: 1.3856;border-radius: 3px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .form-button-wrapper .form-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
+
+/* Stile generale del contenitore speaker */
+details.speaker {
+  margin-bottom: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Summary come blocco pieno con padding e background */
+details.speaker summary {
+  list-style: none;           /* disabilita il marker nativo */
+  cursor: pointer;
+  padding: 0.75em 1em;
+  background: #f0f0f0;
+  font-weight: bold;
+  position: relative;
+  user-select: none;
+}
+
+/* Nasconde il marker di default nei browser WebKit */
+details.speaker summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Triangolino custom, ruota quando è aperto */
+details.speaker summary::before {
+  content: "▶";
+  display: inline-block;
+  margin-right: 0.5em;
+  transition: transform 0.2s ease;
+}
+details.speaker[open] summary::before {
+  content: "▼";
+}
+
+/* Contenuto interno con bordo superiore e background distinto */
+details.speaker .speaker-fields {
+  padding: 1em;
+  background: #fafafa;
+  border-top: 1px solid #ccc;
+}
+
+/* Pulsante “Aggiungi altro relatore” più chiaro e moderno */
+button#addSpeaker {
+  display: inline-block;
+  background: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  margin-bottom: 1em;
+}
+button#addSpeaker:hover {
+  background: #0056b3;
+}
+
+/* Se vuoi uniformare anche il submit */
+button[type="submit"] {
+  background: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+button[type="submit"]:hover {
+  background: #1e7e34;
+}
+
+</style>
+<style type="text/css" scoped>
+    .form-field-hidden { display:none }
+</style>
+<script src="/theme/js/form-handler.js"></script>
+{% endblock %}
+
+{% block evurl %}{% endblock evurl %}
+
+
+{% block evinfo %}
+{% include 'evinfo.html' %}
+{% endblock evinfo %}
+
+{% block title %}
+{% if article.num %}e-privacy {{ article.num }} — {% endif %}
+{{ article.title|striptags }}
+{% endblock title %}
+
+{% block ptitle %}
+{% if article.pagetitle %}
+{{ article.pagetitle }}
+{% else %}
+{% if article.num %}e-privacy {{ article.num }}
+{% if article.year %} <i>({{ article.year }})</i>{% endif %}<br/>
+{% endif %}
+{{ article.title }}
+{% endif %}
+{% endblock ptitle %}
+
+{% block oldsite %}{% include 'oldsite.html' %}{% endblock oldsite %}
+
+{% block content %}
+{% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
+<article>
+{#
+    <header>
+        <h3 class="article-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                                     title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h3>
+        {% include 'twitter.html' %}
+    </header>
+        {% include 'event_infos.html' %}
+#}
+
+    {% if article.slogan %}
+    <table class="slogan"><tr><td width="100%">{{ article.slogan }}</td></tr></table>
+    {% endif %}
+    {{ article.content }}
+      <div class="form_wrapper">
+    <h1>Grazie per la tua proposta!</h1>
+    <div id="summary">
+      <!-- Qui il riepilogo verrà inserito via JS -->
+    </div>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', function(){
+    var data = sessionStorage.getItem('lastSubmission');
+    if (!data) return;
+    var obj = JSON.parse(data),
+        talk = obj.talk,
+        speakers = obj.speakers,
+        c = document.getElementById('summary'),
+        html = [];
+
+    html.push('<h2>Riepilogo Talk</h2>');
+    html.push('<p><strong>Titolo:</strong> ' + talk.titolo + '</p>');
+    html.push('<p><strong>Email identificativa:</strong> ' + talk.email + '</p>');
+    html.push('<h3>Relatori</h3><ul>');
+    speakers.forEach(function(s){
+      html.push('<li>' + s.nome + ' ' + s.cognome + ' &lt;' + s.email + '&gt;</li>');
+    });
+    html.push('</ul>');
+    c.innerHTML = html.join('');
+    sessionStorage.removeItem('lastSubmission');
+  });
+  </script>
+    {% include 'event_supporters.html' %}
+    {% include 'event_infos_bottom.html' %}
+    {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+	<h4>Comments</h4>
+    {% include 'disqus_script.html' %}
+    {% endif %}
+</article>
+{% endblock %}
