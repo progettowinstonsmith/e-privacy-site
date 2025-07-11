@@ -191,13 +191,12 @@
 	      // classe nascosta
 	      divAltro.classList.toggle('form-field-hidden', !show);
 	  }
-  }
 
-  // 3) Validazione
-  if (!validateForm(form)) {
-    e.preventDefault();
-    // facoltativo: form.reportValidity();
-  }
+	  // 3) Validazione
+	  if (!validateForm(form)) {
+	      e.preventDefault();
+	      form.reportValidity();
+	  }
       });
       
 
