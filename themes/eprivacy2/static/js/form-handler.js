@@ -7,31 +7,6 @@
  *  - validazione HTML5‐style dei campi con data‐validate
  */
 
-// show-hide “Quale altro argomento?”
-(function(){ var checkboxAltro = document.querySelector(
-    'input[name="form[argomento__aree_di_intere1][]"][value="Altro:"]'
-  );
-  var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
-  if (!checkboxAltro || !divAltro) return;
-	     function toggle() {
-		 console.log('toggleAltro() chiamato; checked =', checkboxAltro.checked);
-		 console.log('divAltro:', divAltro);
- 
-		 var show = checkboxAltro.checked;
-		 // display
-		 divAltro.style.display = show ? '' : 'none';
-		 // classe nascosta
-		 if (show) {
-		     divAltro.classList.remove('form-field-hidden');
-		 } else {
-		     divAltro.classList.add('form-field-hidden');
-		 }
-	     }
-  // iniziale + onChange
-  toggle();
-  checkboxAltro.addEventListener('change', toggle);
-})();
-
 (function(){
   'use strict';
 
@@ -123,7 +98,13 @@
           wrap = document.getElementById('form_propostatalk_quale_altro_argomento');
       if (cb && wrap) {
         cb.addEventListener('change', function(){
-          wrap.style.display = cb.checked ? '' : 'none';
+            wrap.style.display = cb.checked ? '' : 'none';
+            if (cb.checked) {
+		        divAltro.classList.remove('form-field-hidden');
+		    } else {
+		        divAltro.classList.add('form-field-hidden');
+		    }
+
         });
         // iniziale
         wrap.style.display = cb.checked ? '' : 'none';
