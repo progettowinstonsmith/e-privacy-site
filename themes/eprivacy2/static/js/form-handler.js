@@ -100,9 +100,9 @@
         cb.addEventListener('change', function(){
             wrap.style.display = cb.checked ? '' : 'none';
             if (cb.checked) {
-		        divAltro.classList.remove('form-field-hidden');
+		        wrap.classList.remove('form-field-hidden');
 		    } else {
-		        divAltro.classList.add('form-field-hidden');
+		        wrap.classList.add('form-field-hidden');
 		    }
 
         });
