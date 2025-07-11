@@ -76,10 +76,6 @@ def main():
                 bail("400 Bad Request", f"campo '{key}' mancante")
             talk[key] = val
 
-    # 2) Controlla antispam
-    if talk.get('antispam') != '14':
-        bail("400 Bad Request", "risposta antispam errata")
-
     # 3) Raccogli speaker
     # leggiamo array per ogni SPEAKER_FIELDS
     lists = { f: get_all(form, f"form[{f}]") for f in SPEAKER_FIELDS }
