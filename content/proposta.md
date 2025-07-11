@@ -140,7 +140,9 @@ Template: form
                     <label id="form_checkboxgrp_label_argomento__aree_di_intere1_Tecnocontrollo6" for="form_checkboxgrp_checkbox_argomento__aree_di_intere1_Tecnocontrollo6" class="form-checkboxgrp-label">Tecnocontrollo</label>
                 </div>
                 <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[argomento__aree_di_intere1][]" id="form_checkboxgrp_checkbox_argomento__aree_di_intere1_PubblicaAmministrazione7" type="checkbox" value="Pubblica Amministrazione">
-                    <label id="form_checkboxgrp_label_argomento__aree_di_intere1_PubblicaAmministrazione7" for="form_checkboxgrp_checkbox_argomento__aree_di_intere1_PubblicaAmministrazione7" class="form-checkboxgrp-label">Pubblica Amministrazione</label>
+                    <label id="form_checkboxgrp_label_argomento__aree_di_intere1_PubblicaAmministrazione7"
+		           for="form_checkboxgrp_checkbox_argomento__aree_di_intere1_PubblicaAmministrazione7"
+ 			   class="form-checkboxgrp-label">Pubblica Amministrazione</label>
                 </div>
                 <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[argomento__aree_di_intere1][]" id="form_checkboxgrp_checkbox_argomento__aree_di_intere1_Altro8" type="checkbox" value="Altro:">
                     <label id="form_checkboxgrp_label_argomento__aree_di_intere1_Altro8" for="form_checkboxgrp_checkbox_argomento__aree_di_intere1_Altro8" class="form-checkboxgrp-label">Altro:</label>
