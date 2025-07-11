@@ -596,6 +596,7 @@ EXTRA_PATH_METADATA = {
     'favicon.ico': {'path': 'favicon.ico'},  #
     'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
     'extra/cgi-bin/submit.py': {'path': 'cgi-bin/submit.py'},
+    'robots.txt': {'path': 'robots.txt'},
 }
 
 PLUGIN_PATHS = ['plugins']
