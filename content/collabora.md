@@ -53,3 +53,4 @@ Per queste collaborazioni spedite la vostra disponibilità
 all'indirizzo dei [volontari](mailto:volontari@winstonsmith.org).
 
 
+{% include 'contact.html' %}.

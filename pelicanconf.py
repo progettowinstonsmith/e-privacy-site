@@ -590,11 +590,12 @@ PARTNERS = {
 
 DEFAULT_PAGINATION = False
 
-STATIC_PATHS = ['images', '.htaccess', 'extra/js']
+STATIC_PATHS = ['images', '.htaccess', 'extra/js', 'extra/cgi-bin']
 
 EXTRA_PATH_METADATA = {
     'favicon.ico': {'path': 'favicon.ico'},  #
     'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
+    'extra/cgi-bin/submit.py': {'path': 'cgi-bin/submit.py'},
 }
 
 PLUGIN_PATHS = ['plugins']
