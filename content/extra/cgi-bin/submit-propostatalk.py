@@ -120,8 +120,8 @@ def main():
         "Content-Type: text/plain; charset=utf-8",
         ""
     ]
-    body = ["=== DATI TALK ==="]
-    # helper per mascherare: primi 3, poi asterischi, ultimi 2
+    
+# helper per mascherare: primi 3, poi asterischi, ultimi 2
 def mask_phone(num):
     return num[:3] + '*'*(len(num)-5) + num[-2:] if len(num) > 5 else num
 
@@ -156,7 +156,8 @@ label_map_speaker = {
 }
 
 
-body.append("=== DATI TALK ===")
+body = ["=== DATI TALK ==="]
+
 for key, *_ in TALK_FIELDS:
     val = talk[key]
     if key == 'telefono':
