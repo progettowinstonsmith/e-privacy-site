@@ -18,7 +18,11 @@
 		 // display
 		 divAltro.style.display = show ? '' : 'none';
 		 // classe nascosta
-		 divAltro.classList.toggle('form-field-hidden');
+		 if (show) {
+		     divAltro.classList.remove('form-field-hidden');
+		 } else {
+		     divAltro.classList.add('form-field-hidden');
+		 }
 	     }
   // iniziale + onChange
   toggle();
@@ -188,9 +192,7 @@
 	      // display
 	      divAltro.style.display =  '';
 	      // classe nascosta
-	      if (!show) {
-		  divAltro.classList.toggle('form-field-hidden');
-	      }
+	      divAltro.classList.remove('form-field-hidden');
 	  }
 
 	  // 3) Validazione
