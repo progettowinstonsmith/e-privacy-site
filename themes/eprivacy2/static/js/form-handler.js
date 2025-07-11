@@ -13,17 +13,13 @@
   );
   var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
   if (!checkboxAltro || !divAltro) return;
-  function toggle() {
-      if (checkboxAltro.checked) {
-	  // mostra il div
-	  divAltro.style.display = '';
-	  divAltro.classList.remove('form-field-hidden');
-      } else {
-	  // nascondi il div
-	  divAltro.style.display = 'none';
-	  divAltro.classList.add('form-field-hidden');
-      }
-  }
+	     function toggle() {
+		 var show = checkboxAltro.checked;
+		 // display
+		 divAltro.style.display = show ? '' : 'none';
+		 // classe nascosta
+		 divAltro.classList.toggle('form-field-hidden', !show);
+	     }
   // iniziale + onChange
   toggle();
   checkboxAltro.addEventListener('change', toggle);
@@ -177,25 +173,24 @@
 
 
       form.addEventListener('submit', function(e){
-  // 1) Apri tutte le tab dei relatori
-  form.querySelectorAll('details.speaker').forEach(function(d){
-    d.setAttribute('open', '');
-  });
+	  // 1) Apri tutte le tab dei relatori
+	  form.querySelectorAll('details.speaker').forEach(function(d){
+	      d.setAttribute('open', '');
+	  });
 
-  // 2) Assicurati che il campo “Altro argomento” sia visibile se spuntato
-  var checkboxAltro = form.querySelector(
-    'input[name="form[argomento__aree_di_intere1][]"][value="Altro:"]'
-  );
-  var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
-  if (checkboxAltro && divAltro) {
-    if (checkboxAltro.checked) {
-      divAltro.style.display = '';
-      divAltro.classList.remove('form-field-hidden');
-    } else {
-      // opzionale: se vuoi nasconderlo anche a submit quando non spuntato
-      divAltro.style.display = 'none';
-      divAltro.classList.add('form-field-hidden');
-    }
+	  // 2) Assicurati che il campo “Altro argomento” sia visibile se spuntato
+	  var checkboxAltro = form.querySelector(
+	      'input[name="form[argomento__aree_di_intere1][]"][value="Altro:"]'
+	  );
+	  var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
+	  if (checkboxAltro && divAltro) {
+	      var show = false;
+	      
+	      // display
+	      divAltro.style.display = show ? '' : 'none';
+	      // classe nascosta
+	      divAltro.classList.toggle('form-field-hidden', !show);
+	  }
   }
 
   // 3) Validazione
