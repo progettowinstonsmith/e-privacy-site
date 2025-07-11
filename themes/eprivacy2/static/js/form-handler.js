@@ -14,6 +14,9 @@
   var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
   if (!checkboxAltro || !divAltro) return;
 	     function toggle() {
+		 console.log('toggleAltro() chiamato; checked =', checkboxAltro.checked);
+		 console.log('divAltro:', divAltro);
+ 
 		 var show = checkboxAltro.checked;
 		 // display
 		 divAltro.style.display = show ? '' : 'none';
