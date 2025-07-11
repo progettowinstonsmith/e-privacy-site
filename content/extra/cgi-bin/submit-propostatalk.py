@@ -32,7 +32,7 @@ TALK_FIELDS = [
     ('multi_rela','form[saranno_presenti_piu_rela]',False, False),
     ('cons_pub','form[consenso_alla_pubblicazio]', False, False),
     ('cons_reg','form[consenso_alle_registrazio]', False, False),
-    ('comm','form[commenti_e_istruzioni]',         False, False),
+    ('comm','form[commenti_e_istruzioni]',         True, False),
     ('antispam','form[antispam]',                  False, False),
 ]
 
