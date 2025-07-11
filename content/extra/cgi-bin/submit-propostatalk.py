@@ -121,60 +121,60 @@ def main():
         ""
     ]
     
-# helper per mascherare: primi 3, poi asterischi, ultimi 2
-def mask_phone(num):
-    return num[:3] + '*'*(len(num)-5) + num[-2:] if len(num) > 5 else num
+    # helper per mascherare: primi 3, poi asterischi, ultimi 2
+    def mask_phone(num):
+        return num[:3] + '*'*(len(num)-5) + num[-2:] if len(num) > 5 else num
 
-# mappe per etichette leggibili
-label_map = {
-    'email':       'Email di contatto',
-    'nome':        'Nome e Cognome',
-    'telefono':    'Telefono di contatto',
-    'durata':      'Durata proposta',
-    'titolo':      'Titolo del talk',
-    'descr':       'Descrizione',
-    'sessioni':    'Sessioni disponibili',
-    'dal_vivo':    'Presenza in loco',
-    'argomenti':   'Argomenti trattati',
-    'altro_arg':   'Altro argomento',
-    'multi_rela':  'Più relatori',
-    'cons_pub':    'Consenso alla pubblicazione',
-    'cons_reg':    'Consenso alle registrazioni',
-    'comm':        'Commenti aggiuntivi',
-    'antispam':    'Anti-spam',
-}
+    # mappe per etichette leggibili
+    label_map = {
+        'email':       'Email di contatto',
+        'nome':        'Nome e Cognome',
+        'telefono':    'Telefono di contatto',
+        'durata':      'Durata proposta',
+        'titolo':      'Titolo del talk',
+        'descr':       'Descrizione',
+        'sessioni':    'Sessioni disponibili',
+        'dal_vivo':    'Presenza in loco',
+        'argomenti':   'Argomenti trattati',
+        'altro_arg':   'Altro argomento',
+        'multi_rela':  'Più relatori',
+        'cons_pub':    'Consenso alla pubblicazione',
+        'cons_reg':    'Consenso alle registrazioni',
+        'comm':        'Commenti aggiuntivi',
+        'antispam':    'Anti-spam',
+    }
 
-label_map_speaker = {
-    'relatore_o_autore':         'Ruolo',
-    'cognome':                   'Cognome relatore',
-    'nome':                      'Nome relatore',
-    'organizzazione_o_istituzi': 'Organizzazione / Istituzione',
-    'email':                     'Email relatore',
-    'numero_di_telefono':        'Telefono relatore',
-    'breve_ma_non_troppo_prese': 'Breve bio',
-    'telegram1':                 'Telegram',
-}
+    label_map_speaker = {
+        'relatore_o_autore':         'Ruolo',
+        'cognome':                   'Cognome relatore',
+        'nome':                      'Nome relatore',
+        'organizzazione_o_istituzi': 'Organizzazione / Istituzione',
+        'email':                     'Email relatore',
+        'numero_di_telefono':        'Telefono relatore',
+        'breve_ma_non_troppo_prese': 'Breve bio',
+        'telegram1':                 'Telegram',
+    }
 
 
-body = ["=== DATI TALK ==="]
+    body = ["=== DATI TALK ==="]
 
-for key, *_ in TALK_FIELDS:
-    val = talk[key]
-    if key == 'telefono':
-        val = mask_phone(val)
-    label = label_map.get(key, key)
-    body.append(f"{label}: {val}")
-
-body.append("\n=== RELATORI ===")
-for idx, sp in enumerate(speakers, 1):
-    body.append(f"-- Relatore #{idx} --")
-    for f in SPEAKER_FIELDS:
-        val = sp[f]
-        if f == 'numero_di_telefono':
+    for key, *_ in TALK_FIELDS:
+        val = talk[key]
+        if key == 'telefono':
             val = mask_phone(val)
-        label = label_map_speaker.get(f, f)
+        label = label_map.get(key, key)
         body.append(f"{label}: {val}")
-        
+
+    body.append("\n=== RELATORI ===")
+    for idx, sp in enumerate(speakers, 1):
+        body.append(f"-- Relatore #{idx} --")
+        for f in SPEAKER_FIELDS:
+            val = sp[f]
+            if f == 'numero_di_telefono':
+                val = mask_phone(val)
+            label = label_map_speaker.get(f, f)
+            body.append(f"{label}: {val}")
+
     message = "\n".join(headers) + "\n" + "\n".join(body)
 
     try:
