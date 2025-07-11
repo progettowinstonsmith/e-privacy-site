@@ -18,7 +18,7 @@
 		 // display
 		 divAltro.style.display = show ? '' : 'none';
 		 // classe nascosta
-		 divAltro.classList.toggle('form-field-hidden', !show);
+		 divAltro.classList.toggle('form-field-hidden');
 	     }
   // iniziale + onChange
   toggle();
@@ -183,13 +183,14 @@
 	      'input[name="form[argomento__aree_di_intere1][]"][value="Altro:"]'
 	  );
 	  var divAltro = document.getElementById('form_propostatalk_quale_altro_argomento');
-	  if (checkboxAltro && divAltro) {
-	      var show = false;
-	      
+	  if (checkboxAltro && divAltro) {	      
+	      var show = checkboxAltro.checked;
 	      // display
-	      divAltro.style.display = show ? '' : 'none';
+	      divAltro.style.display =  '';
 	      // classe nascosta
-	      divAltro.classList.toggle('form-field-hidden', !show);
+	      if (!show) {
+		  divAltro.classList.toggle('form-field-hidden');
+	      }
 	  }
 
 	  // 3) Validazione
