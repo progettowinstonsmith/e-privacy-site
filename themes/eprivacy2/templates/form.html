@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block afterbody %}
+<script>
+  window.PROPOSALS_OPEN = {{ PROPOSALS_OPEN|lower }};
+</script>
+{% endblock %}
+
 {% block og %}
 <meta property="og:title" content="{{ article.title|striptags }}" />
 {% if article.image %}
@@ -166,4 +172,6 @@ button[type="submit"]:hover {
     {% include 'disqus_script.html' %}
     {% endif %}
 </article>
-{% endblock %}
+{% endblock content %}
+
+
