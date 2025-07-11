@@ -271,10 +271,8 @@ def main():
         },
         'speakers': [
             {'nome': s['nome'], 'cognome': s['cognome'], 'email': s['email']}
-            for s in speakers,
+            for s in speakers ],
             'org': org_text,
-
-        ]
     }
     payload_json = json.dumps(payload, ensure_ascii=False)
 
