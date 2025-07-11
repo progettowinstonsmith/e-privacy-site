@@ -263,14 +263,18 @@ def main():
     
     # 7) Rispondi con script che popola sessionStorage e reindirizza
     org_text = "\n".join(lines)
+    
     payload = {
         'talk': {
             'titolo': talk['titolo'],
-            'email': talk['email'],
-            'altro_argomento': talk.get('altro_arg', '')
+            'email': talk['email']
         },
-        'speakers': [ … ],
-        'org': org_text
+        'speakers': [
+            {'nome': s['nome'], 'cognome': s['cognome'], 'email': s['email']}
+            for s in speakers,
+            'org': org_text,
+
+        ]
     }
     payload_json = json.dumps(payload, ensure_ascii=False)
 
