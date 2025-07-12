@@ -171,7 +171,6 @@ def main():
         lines.append(f":IP: {ip}")
         lines.append(f":REFERRER: {referer}")
         lines.append(f":EMAIL: {sp['email']}")
-        lines.append(f":RUOLO: {sp['relatore_o_autore']}")
         lines.append(f":COGNOME: {sp['cognome']}")
         lines.append(f":NOME: {sp['nome']}")
         lines.append(f":ORG: {sp['organizzazione_o_istituzi']}")
