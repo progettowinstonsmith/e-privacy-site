@@ -4,6 +4,8 @@
 
 import cgi, csv, os, smtplib, datetime, html, json, sys
 
+import json, os
+
 # — CONFIGURAZIONE —
 CSV_PATH     = '/home/pws/data/contacts.csv'
 ORG_PATH = '/home/pws/data/proposte.org'
@@ -19,6 +21,17 @@ STATIC_RECIPIENTS = [
 #     'segreteria@winstonsmith.org',
     'emmanuele@exedre.org',
 ]
+
+CONFIG_PATH = '/home/pws/sites/org.winstonsmit.e-privacy/site/assets/submit_config.json'
+with open(CONFIG_PATH, encoding='utf-8') as f:
+    cfg = json.load(f)
+
+STATIC_RECIPIENTS = cfg['STATIC_RECIPIENTS']
+SENDER_EMAIL       = cfg['SENDER_EMAIL']
+ORG_PATH           = cfg['ORG_PATH']
+CSV_PATH           = cfg['CSV_PATH']
+REDIRECT_URL  = cfg["REDIRECT_URL"]
+
 
 # Campi “talk”
 TALK_FIELDS = [

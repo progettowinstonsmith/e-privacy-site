@@ -26,6 +26,19 @@ PROPOSALS_OPEN = True
 COUNTDOWN = False
 EVENT_TIME = '2025/05/22 10:00'
 
+# Queste variabili vengono passata a submit-propostatalk.py
+SUBMIT_SETTINGS = {
+    'STATIC_RECIPIENTS': [
+        'segreteria@dominio.org',
+        'exedre@winstonsmith.org',
+        'marco@marcoc.it'
+    ],
+    'SENDER_EMAIL':       'segreteria@winstonsmith.org',
+    'ORG_PATH':           '/home/pws/data/proposte.org',
+    'CSV_PATH':           '/home/pws/data/contacts.csv',
+    'REDIRECT_URL':  '/grazie-della-proposta.html'
+}
+
 #####
 
 
@@ -471,6 +484,7 @@ for year, sessions in ALL_EDIZIONI:
     EDIZIONI.append((year, ed))
 
 
+    
 
 # Social widget
 LINKS = (
