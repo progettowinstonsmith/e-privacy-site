@@ -22,7 +22,7 @@ STATIC_RECIPIENTS = [
     'emmanuele@exedre.org',
 ]
 
-CONFIG_PATH = '/home/pws/sites/org.winstonsmit.e-privacy/site/assets/submit_config.json'
+CONFIG_PATH = '/home/pws/sites/org.winstonsmith.e-privacy/site/assets/submit_config.json'
 with open(CONFIG_PATH, encoding='utf-8') as f:
     cfg = json.load(f)
 
