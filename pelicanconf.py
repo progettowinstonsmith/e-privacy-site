@@ -617,7 +617,7 @@ EXTRA_PATH_METADATA = {
 
 PLUGIN_PATHS = ['plugins']
 # PLUGINS = [
-PLUGINS = ['gened']
+PLUGINS = ['gened', 'submitter']
 
 # Uncomment following line if you want document-relative URLs when developing 
 # RELATIVE_URLS = True
