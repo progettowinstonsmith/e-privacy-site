@@ -44,7 +44,7 @@ TALK_FIELDS = [
     ('sessioni','form[sessioni][]', False, True),
     ('dal_vivo','form[dal_vivo]', False, False),
     ('argomenti','form[argomento__aree_di_intere1][]',False, True),
-    ('altro_arg', 'form[quale_altro_argomento]', False, False),
+    ('altro_arg', 'form[quale_altro_argomento]', True, False),
     ('multi_rela','form[saranno_presenti_piu_rela]',False, False),
     ('cons_pub','form[consenso_alla_pubblicazio]', False, False),
     ('cons_reg','form[consenso_alle_registrazio]', False, False),
