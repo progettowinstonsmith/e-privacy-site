@@ -53,7 +53,6 @@ TALK_FIELDS = [
 
 # Campi speaker
 SPEAKER_FIELDS = [
-    'relatore_o_autore',
     'cognome',
     'nome',
     'organizzazione_o_istituzi',

@@ -210,16 +210,6 @@ Template: form
                     Identificazione dei Relatori
             </h3>
 
-            <div id="form_propostarelatore_relatore_o_autore" data-validate="relatore_o_autore" data-validation-type="radiogrp" class="form-row form-radiogrp form-field-3 form-required">
-                <label class="form-label" for="form_radiogrp_radio_relatore_o_autore_Relatorechepresenteraadeprivacy1">Relatore o autore?</label>
-                <div class="form-radiogrp-row">                    <input name="form[relatore_o_autore]" class="form-radiogrp-radio" id="form_radiogrp_radio_relatore_o_autore_Relatore0" type="radio" value="Relatore">
-                    <label id="form_radiogrp_label_relatore_o_autore_Relatore0" for="form_radiogrp_radio_relatore_o_autore_Relatore0" class="form-radiogrp-label">Relatore che presenterà ad e-privacy</label>
-                </div>
-                <div class="form-radiogrp-row">                    <input name="form[relatore_o_autore]" class="form-radiogrp-radio" id="form_radiogrp_radio_relatore_o_autore_Autore1" type="radio" value="Autore">
-                    <label id="form_radiogrp_label_relatore_o_autore_Autore1" for="form_radiogrp_radio_relatore_o_autore_Autore1" class="form-radiogrp-label">Autore che non sarà presente sul palco</label>
-                </div>
-                <span class="form-errormsg" style="display: none;">Su, non perdere tempo. Questo campo è obbligatorio.</span>
-            </div>
 
             <div id="form_propostarelatore_cognome" data-validate="cognome" data-validation-type="text" class="form-row form-text form-field-4 form-required">
                 <label id="form_label_propostarelatore_cognome" for="form_input_propostarelatore_cognome" class="form-label">Cognome</label>
