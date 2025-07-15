@@ -148,7 +148,7 @@
     //
     // 3) Sync Email Talk → primo relatore
     //
-    (function(){
+     (function(){
       var talkEmail = document.getElementById('form_input_propostatalk_email_di_contatto_con_il');
       if (!talkEmail) return;
       function sync(val) {
@@ -156,8 +156,11 @@
         if (first) first.value = val;
       }
       sync(talkEmail.value);
-      talkEmail.addEventListener('input', function(e){ sync(e.target.value); });
-      var talkTel = document.getElementById('form_input_propostatalk_contatto_telefonico');
+       talkEmail.addEventListener('input', function(e){ sync(e.target.value); });
+     })();
+
+      (function(){
+       var talkTel = document.getElementById('form_input_propostatalk_contatto_telefonico');
       if (!talkTel) return;
       function sync(val) {
         var first = document.querySelector('#speakers .speaker input[name="form[numero_di_telefono]"]');
