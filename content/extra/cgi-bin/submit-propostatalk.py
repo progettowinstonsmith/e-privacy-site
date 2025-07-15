@@ -4,7 +4,7 @@
 
 import cgi, csv, os, smtplib, datetime, html, json, sys
 
-import json, os
+import json, os, logging
 
 # — CONFIGURAZIONE —
 CSV_PATH     = '/home/pws/data/contacts.csv'
