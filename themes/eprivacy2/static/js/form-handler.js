@@ -157,6 +157,14 @@
       }
       sync(talkEmail.value);
       talkEmail.addEventListener('input', function(e){ sync(e.target.value); });
+      var talkTel = document.getElementById('form_input_propostatalk_contatto_telefonico');
+      if (!talkTel) return;
+      function sync(val) {
+        var first = document.querySelector('#speakers .speaker input[name="form[numero_di_telefono]"]');
+        if (first) first.value = val;
+      }
+      sync(talkTel.value);
+      talkTel.addEventListener('input', function(e){ sync(e.target.value); });
     })();
 
 
