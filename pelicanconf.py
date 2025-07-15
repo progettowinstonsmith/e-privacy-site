@@ -31,7 +31,7 @@ SUBMIT_SETTINGS = {
     'STATIC_RECIPIENTS': [
         'segreteria@dominio.org',
         'exedre@winstonsmith.org',
-        'marco@marcoc.it'
+        'marcoc@marcoc.it'
     ],
     'SENDER_EMAIL':       'segreteria@winstonsmith.org',
     'ORG_PATH':           '/home/pws/data/proposte.org',
