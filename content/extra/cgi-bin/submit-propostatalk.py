@@ -9,6 +9,8 @@ import json, os
 # — CONFIGURAZIONE —
 CSV_PATH     = '/home/pws/data/contacts.csv'
 ORG_PATH = '/home/pws/data/proposte.org'
+LOG_PATH     = '/home/pws/sites/org.winstonsmith.e-privacy/logs/mail.log'
+
 
 SMTP_HOST    = 'localhost'
 SENDER_EMAIL = 'noreply@winstonsmith.org'
@@ -18,7 +20,7 @@ REDIRECT_URL = '/grazie-della-proposta.html'
 
 # Destinatari fissi
 STATIC_RECIPIENTS = [
-#     'segreteria@winstonsmith.org',
+    'segreteria@winstonsmith.org',
     'emmanuele@exedre.org',
 ]
 
@@ -31,6 +33,16 @@ SENDER_EMAIL       = cfg['SENDER_EMAIL']
 ORG_PATH           = cfg['ORG_PATH']
 CSV_PATH           = cfg['CSV_PATH']
 REDIRECT_URL  = cfg["REDIRECT_URL"]
+
+# === CONFIGURAZIONE LOGGING ===
+os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
+logging.basicConfig(
+    filename=LOG_PATH,
+    level=logging.INFO,
+    format='%(asctime)s %(levelname)-8s %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
+logging.info("Avvio script di submission talk")
 
 
 # Campi “talk”
@@ -69,6 +81,7 @@ def get_all(form, key):
     return [html.escape(v.strip()) for v in form.getlist(key)]
 
 def bail(status, msg):
+    logging.error("Errore %s: %s", status, msg)
     print(f"Status: {status}")
     print("Content-Type: text/plain\n")
     print(f"Errore: {msg}")
@@ -76,6 +89,7 @@ def bail(status, msg):
 
 def main():
     form = cgi.FieldStorage()
+    logging.info("Ricevuta submit da %s", os.environ.get('REMOTE_ADDR','-'))    
     talk = {}
 
     # 1) Raccogli i campi “talk”
@@ -186,81 +200,11 @@ def main():
         with open(ORG_PATH, 'a', encoding='utf-8') as f:
             f.write("\n".join(lines))
     except Exception as e:
+        logging.exception("Scrittura su %s fallita", ORG_PATH)
         bail("500 Internal Server Error", f"scrittura proposte.org fallita: {e}")
+    else:
+        logging.info("Appended %d righe su %s", len(lines), ORG_PATH)
         
-    # # 6) Invia email
-    # headers = [
-    #     f"From: {SENDER_EMAIL}",
-    #     f"To: {', '.join(recipients)}",
-    #     "Subject: Nuova proposta Talk inviata",
-    #     "MIME-Version: 1.0",
-    #     "Content-Type: text/plain; charset=utf-8",
-    #     ""
-    # ]
-    # 
-    # # helper per mascherare: primi 3, poi asterischi, ultimi 2
-    # def mask_phone(num):
-    #     return num[:3] + '*'*(len(num)-5) + num[-2:] if len(num) > 5 else num
-    # 
-    # # mappe per etichette leggibili
-    # label_map = {
-    #     'email':       'Email di contatto',
-    #     'nome':        'Nome e Cognome',
-    #     'telefono':    'Telefono di contatto',
-    #     'durata':      'Durata proposta',
-    #     'titolo':      'Titolo del talk',
-    #     'descr':       'Descrizione',
-    #     'sessioni':    'Sessioni disponibili',
-    #     'dal_vivo':    'Presenza in loco',
-    #     'argomenti':   'Argomenti trattati',
-    #     'altro_arg':   'Altro argomento',
-    #     'multi_rela':  'Più relatori',
-    #     'cons_pub':    'Consenso alla pubblicazione',
-    #     'cons_reg':    'Consenso alle registrazioni',
-    #     'comm':        'Commenti aggiuntivi',
-    #     'antispam':    'Anti-spam',
-    # }
-    # 
-    # label_map_speaker = {
-    #     'relatore_o_autore':         'Ruolo',
-    #     'cognome':                   'Cognome relatore',
-    #     'nome':                      'Nome relatore',
-    #     'organizzazione_o_istituzi': 'Organizzazione / Istituzione',
-    #     'email':                     'Email relatore',
-    #     'numero_di_telefono':        'Telefono relatore',
-    #     'breve_ma_non_troppo_prese': 'Breve bio',
-    #     'telegram1':                 'Telegram',
-    # }
-    # 
-    # 
-    # body = ["=== DATI TALK ==="]
-    # 
-    # for key, *_ in TALK_FIELDS:
-    #     val = talk[key]
-    #     if key == 'telefono':
-    #         val = mask_phone(val)
-    #     label = label_map.get(key, key)
-    #     body.append(f"{label}: {val}")
-    # 
-    # body.append("\n=== RELATORI ===")
-    # for idx, sp in enumerate(speakers, 1):
-    #     body.append(f"-- Relatore #{idx} --")
-    #     for f in SPEAKER_FIELDS:
-    #         val = sp[f]
-    #         if f == 'numero_di_telefono':
-    #             val = mask_phone(val)
-    #         label = label_map_speaker.get(f, f)
-    #         body.append(f"{label}: {val}")
-    # 
-    # message = "\n".join(headers) + "\n" + "\n".join(body)
-    # 
-    # try:
-    #     smtp = smtplib.SMTP(SMTP_HOST)
-    #     smtp.sendmail(SENDER_EMAIL, recipients, message.encode('utf-8'))
-    #     smtp.quit()
-    # except Exception as e:
-    #     bail("500 Internal Server Error", f"invio email fallito: {e}")
-
     # --- 6) Invia la stessa append di proposte.org come corpo dell'email ---
     headers = [
         f"From: {SENDER_EMAIL}",
@@ -272,6 +216,21 @@ def main():
     ]
     message = "\n".join(headers) + "\n" + "\n".join(lines)
     
+    try:
+        smtp = smtplib.SMTP(SMTP_HOST)
+        smtp.sendmail(SENDER_EMAIL, recipients, message.encode('utf-8'))
+        smtp.quit()
+    except Exception as e:
+        logging.info("Invio email a %s via %s", recipients, SMTP_HOST)
+        smtp = smtplib.SMTP(SMTP_HOST)
+        smtp.sendmail(SENDER_EMAIL, recipients, message.encode('utf-8'))
+        smtp.quit()
+    except Exception as e:
+        logging.exception("Invio email fallito")
+        bail("500 Internal Server Error", f"invio email fallito: {e}")
+    else:
+        logging.info("Email inviata con successo a %s", recipients)
+        
     # 7) Rispondi con script che popola sessionStorage e reindirizza
     org_text = "\n".join(lines)
     
