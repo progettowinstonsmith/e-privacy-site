@@ -100,7 +100,7 @@ THIS = (
      ('I relatori', f'/e-privacy-{EPRIVACY_N}-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
-     ('Call for Paper', f'http://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta.html'),   ###### ATTENZIONE QUI
+#     ('Call for Paper', f'http://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta.html'),   ###### ATTENZIONE QUI
 #     ('Proposta Talk', f'/e-privacy-{EPRIVACY_N}-proposta.html'),
 #     ('Call for Sponsor', f'/e-privacy-{EPRIVACY_N}-cfs.html'),
 #     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),
