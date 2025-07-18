@@ -1,4 +1,5 @@
 Slug: e-privacy-XXXVII-proposta-relatore
+Status: draft
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
