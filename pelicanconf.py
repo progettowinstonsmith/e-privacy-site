@@ -29,7 +29,7 @@ EVENT_TIME = '2025/05/22 10:00'
 # Queste variabili vengono passata a submit-propostatalk.py
 SUBMIT_SETTINGS = {
     'STATIC_RECIPIENTS': [
-        'segreteria@dominio.org',
+        'segreteria@winstonsmith.org',
         'exedre@winstonsmith.org',
         'marcoc@marcoc.it'
     ],
