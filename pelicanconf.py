@@ -13,18 +13,18 @@ from __future__ import unicode_literals
 EDITION = 36
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXVI'
+EPRIVACY_N = 'XXXVII'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2025/summer/'
+EVENT_PATH = 'content/2025/winter/'
 YEAR = u'2025'
-EDITION = 'summer'
-SITENAME = u'e-privacy 2025 summer: La vita è tutta un dossier'
-IMAGE='e-privacy-XXXVI.png'  
+EDITION = 'winter'
+SITENAME = u'e-privacy 2025 winter: Misurare l’Umano? Dal Vitruviano all’Algoritmo'
+IMAGE='e-privacy-XXXVII.png'  
 PROPOSALS_OPEN = True
 
 COUNTDOWN = False
-EVENT_TIME = '2025/05/22 10:00'
+EVENT_TIME = '2025/10/23 10:00'
 
 # Queste variabili vengono passata a submit-propostatalk.py
 SUBMIT_SETTINGS = {
@@ -95,12 +95,13 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-     ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
-     ('Gli interventi', f'/e-privacy-{EPRIVACY_N}-interventi.html'),
-     ('I relatori', f'/e-privacy-{EPRIVACY_N}-relatori.html'),
+#     ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
+#     ('Gli interventi', f'/e-privacy-{EPRIVACY_N}-interventi.html'),
+#     ('I relatori', f'/e-privacy-{EPRIVACY_N}-relatori.html'),
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
 #     ('Call for Paper', f'http://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta.html'),   ###### ATTENZIONE QUI
+     ('Proposta Talk', f'http://e-privacy.winstonsmith.org/e-privacy-proposta-talk.html'),  
 #     ('Proposta Talk', f'/e-privacy-{EPRIVACY_N}-proposta.html'),
 #     ('Call for Sponsor', f'/e-privacy-{EPRIVACY_N}-cfs.html'),
 #     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),

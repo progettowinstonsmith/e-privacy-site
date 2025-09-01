@@ -1,12 +1,11 @@
 Template: event
 XStatus: draft
-Date: 2024-05-01 00:01:00
 slug: e-privacy-XXXVII-come-arrivare
+Date: 2025/09/01
 Title: Come arrivare ad e-privacy
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
-Date: 2025/09/01
 Edition: winter
 Enabled: yes
 Eprivacy_N: XXXVII

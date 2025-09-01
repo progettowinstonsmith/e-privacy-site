@@ -12,8 +12,8 @@ Season: summer
 Previd: 2024W
 Prev: e-privacy-XXXV
 Num: XXXVI
-Nextid: 
-Next: 
+Nextid: 2025W
+Next: e-privacy-XXXVII
 Location: Bari
 Lang: it
 Giorni: 22 e 23 maggio 2025
