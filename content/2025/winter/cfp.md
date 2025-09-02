@@ -1,3 +1,4 @@
+Template: event
 Slug: e-privacy-XXXVII
 XStatus: draft
 Category: 2025

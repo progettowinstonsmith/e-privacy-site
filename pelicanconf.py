@@ -469,6 +469,15 @@ ALL_EDIZIONI = [
             'lat': 41.1202400901967,
             'lon': 16.8677728933869,
             },
+       'winter': {
+            'city': 'Firenze',
+            'link': '/e-privacy-XXXVII.html',
+            'edition': 'XXXVII',
+            'location': 'Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI',
+            'lat': 43.7754177098538,
+            'lon': 11.2490475524806,
+        },
+
             }),
             ]
 

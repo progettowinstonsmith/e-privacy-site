@@ -344,5 +344,14 @@ const eprivacyLocations = [
     "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXVI.html",
     "lat": 41.1202400901967,
     "lon": 16.8677728933869
+  },
+  {
+    "year": "2025",
+    "when": "Winter",
+    "city": "Firenze",
+    "where": "Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI",
+    "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXVII.html",
+    "lat": 43.7754177098538,
+    "lon": 11.2490475524806
   }
 ];
