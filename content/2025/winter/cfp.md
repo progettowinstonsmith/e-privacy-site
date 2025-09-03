@@ -1,6 +1,4 @@
-Template: event
 Slug: e-privacy-XXXVII
-XStatus: draft
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
@@ -9,28 +7,30 @@ Edition: winter
 Enabled: yes
 Eprivacy_N: XXXVII
 Event_Path: content/2025/winter
-XExtra-Documents: nil
 Giorni: 23 e 24 ottobre 2025
 Lang: it
 Location: Firenze
 Next: 
 Nextid: 
 Num: XXXVII
-XOptions: toc:nil
 Prev: e-privacy-XXXVI
 Previd: 2025
 Season: winter
-XStatus: hidden
 Subtitle: Dall’Uomo Vitruviano all’Umano Digitale: l’intelligenza artificiale e la nuova anatomia dell’identità
+Template: event
 Timeline: 1 settembre | 30 settembre | 19 ottobre
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
 Where: Firenze & Streaming
+XExtra-Documents: nil
+XOptions: toc:nil
+XStatus: draft
+XStatus: hidden
 Year: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Organizzatori: pws
 Collaboratori: isgroup
-Sponsor: gpdp, sikurezza.org, cgt, ush, hermes, onif, sepel
+Sponsor: gpdp, sikurezza.org, cgt, ush, onif, hermes, sepel
 MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 # e-privacy XXXVII@Firenze
