@@ -20,7 +20,7 @@ EVENT_PATH = 'content/2025/winter/'
 YEAR = u'2025'
 EDITION = 'winter'
 SITENAME = u'e-privacy 2025 winter: Misurare l’Umano? Dal Vitruviano all’Algoritmo'
-IMAGE='e-privacy-XXXVII.png'  
+IMAGE='e-privacy-XXXVII.jpeg'  
 PROPOSALS_OPEN = True
 
 COUNTDOWN = False
