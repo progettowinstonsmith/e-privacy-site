@@ -29,8 +29,8 @@ Where: Firenze & Streaming
 Year: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 Organizzatori: pws
-Collaboratori: 
-Sponsor: gpdp, sikurezza.org, cgt, ush, isgroup, hermes, onif, sepel
+Collaboratori: isgroup
+Sponsor: gpdp, sikurezza.org, cgt, ush, hermes, onif, sepel
 MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 # e-privacy XXXVII@Firenze
