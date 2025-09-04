@@ -65,8 +65,8 @@ JINJA_FILTERS = {'split': split}
 
 AUTHOR = u'Winston Smith'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
-#SITEURL = ''
-SITEURL = 'https://e-privacy.winstonsmith.org'
+SITEURL = ''
+#SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
 
 PATH = 'content'
@@ -101,7 +101,7 @@ THIS = (
 #     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
 #     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
 #     ('Call for Paper', f'http://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta.html'),   ###### ATTENZIONE QUI
-     ('Proposta Talk', f'http://e-privacy.winstonsmith.org/e-privacy-proposta-talk.html'),  
+     ('Proposta Talk', f'/e-privacy-proposta-talk.html'),  
 #     ('Proposta Talk', f'/e-privacy-{EPRIVACY_N}-proposta.html'),
 #     ('Call for Sponsor', f'/e-privacy-{EPRIVACY_N}-cfs.html'),
 #     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),
@@ -493,9 +493,6 @@ for year, sessions in ALL_EDIZIONI:
             print(f"Errore a {year}, {name}: {e}")
     EDIZIONI.append((year, ed))
 
-
-    
-
 # Social widget
 LINKS = (
     ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
@@ -626,14 +623,12 @@ EXTRA_PATH_METADATA = {
 }
 
 PLUGIN_PATHS = ['plugins']
-# PLUGINS = [
 PLUGINS = ['gened', 'submitter']
 
 # Uncomment following line if you want document-relative URLs when developing 
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = 'themes/eprivacy2'
-
 
 DATE_FORMATS = {
     'en': '%a, %d %b %Y',
@@ -641,8 +636,7 @@ DATE_FORMATS = {
     'it': '%d-%m-%Y',
 }
 
-LOCALE = ('it_IT', 'it_IT.utf8'
-          )
+LOCALE = ('it_IT', 'it_IT.utf8')
 
 
 CATEGORY_SAVE_AS = ''
