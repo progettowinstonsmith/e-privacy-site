@@ -162,6 +162,17 @@ def main():
     setup_logging()
     cfg = load_config()
 
+    if os.environ.get('REQUEST_METHOD', '').upper() != 'POST':
+        redirect_url = cfg.get('REDIRECT_URL', '/grazie-consegna-slides.html')
+        print('Status: 405 Method Not Allowed')
+        print('Content-Type: text/html; charset=utf-8\n')
+        print(f"""<!DOCTYPE html>
+<html><head><meta charset=\"utf-8\"><title>Metodo non supportato</title></head><body>
+<p>Questa risorsa è disponibile solo tramite il form di consegna.</p>
+<p>Vai alla <a href='{redirect_url}'>pagina principale</a>.</p>
+</body></html>""")
+        return
+
     storage_root = os.path.expanduser(cfg.get('STORAGE_PATH', '~/data/inbound'))
     os.makedirs(storage_root, exist_ok=True)
 
