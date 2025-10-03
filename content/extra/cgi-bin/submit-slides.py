@@ -56,13 +56,6 @@ def get_field(form, name, required=False):
     return value
 
 
-def parse_submitter(cfg, submitter_id):
-    for entry in cfg.get('SUBMITTERS', []):
-        if entry.get('id') == submitter_id:
-            return entry
-    bail('400 Bad Request', 'Relatore non valido')
-
-
 def safe_filename(name):
     base = os.path.basename(name or '')
     if not base:
@@ -134,6 +127,37 @@ def read_size(fileobj):
     return size
 
 
+def sanitise_submitter(raw_value):
+    value = raw_value.strip()
+    if not value:
+        bail('400 Bad Request', "Nome relatore mancante")
+
+    normalised = unicodedata.normalize('NFKD', value)
+    ascii_only = normalised.encode('ascii', 'ignore').decode('ascii')
+
+    cleaned_chars = []
+    for char in ascii_only:
+        if char.isalpha():
+            cleaned_chars.append(char.lower())
+        elif char == '_':
+            cleaned_chars.append('_')
+        else:
+            cleaned_chars.append('_')
+
+    cleaned = ''.join(cleaned_chars)
+    cleaned = cleaned.strip('_')
+    cleaned = cleaned[:12]
+
+    if not cleaned:
+        bail('400 Bad Request', "Nome relatore non valido")
+
+    cleaned = cleaned.replace('__', '_')
+    while '__' in cleaned:
+        cleaned = cleaned.replace('__', '_')
+
+    return cleaned
+
+
 def main():
     setup_logging()
     cfg = load_config()
@@ -144,9 +168,8 @@ def main():
     form = cgi.FieldStorage(keep_blank_values=True)
     logging.info('Ricevuta consegna da %s', os.environ.get('REMOTE_ADDR', '-'))
 
-    submitter_id = get_field(form, 'submitter', required=True)
-    submitter = parse_submitter(cfg, submitter_id)
-    submitter_label = submitter['label']
+    submitter_label = get_field(form, 'submitter', required=True)
+    submitter_id = sanitise_submitter(submitter_label)
     submitter_email = get_field(form, 'email', required=True)
     notes = get_field(form, 'note', required=False)
 

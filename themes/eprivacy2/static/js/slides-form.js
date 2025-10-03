@@ -1,4 +1,4 @@
-/* global document, sessionStorage */
+/* global document */
 (function(){
   'use strict';
 
@@ -19,8 +19,8 @@
     if (!form) { return; }
 
     var errorBox = document.getElementById('slides-error');
+    var submitterField = document.getElementById('slides_submitter');
     var emailField = document.getElementById('slides_email');
-    var select = document.getElementById('slides_submitter');
     var passwordField = document.getElementById('slides_password');
     var captchaQuestion = document.getElementById('slides_captcha_question');
     var captchaAnswer = document.getElementById('slides_captcha_answer');
@@ -34,13 +34,15 @@
       captchaQuestion.textContent = challenge.a + ' + ' + challenge.b + ' = ?';
     }
 
-    if (select && emailField) {
-      select.addEventListener('change', function(){
-        var option = select.options[select.selectedIndex];
-        var preset = option ? option.getAttribute('data-email') : '';
-        if (preset && !emailField.value) {
-          emailField.value = preset;
-        }
+    if (submitterField) {
+      submitterField.addEventListener('input', function(){
+        var value = submitterField.value || '';
+        var normalised = value.normalize('NFKD').replace(/[^A-Za-z]/g, '_');
+        normalised = normalised.replace(/_+/g, '_');
+        normalised = normalised.replace(/^_+/, '').replace(/_+$/, '');
+        normalised = normalised.slice(0, 12);
+        normalised = normalised.toLowerCase();
+        submitterField.value = normalised;
       });
     }
 

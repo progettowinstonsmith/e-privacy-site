@@ -19,22 +19,8 @@ Consegna materiale — {{ SITENAME }}
 
       <div class="form-row form-required">
         <label class="form-label" for="slides_submitter">Relatore</label>
-        <span class="form-helpmessage">Seleziona il referente per questa consegna.</span>
-        <select id="slides_submitter" name="submitter" class="form-selectbox" required>
-          <option value="">Seleziona…</option>
-          {% for entry in SLIDES_SUBMITTERS %}
-            {% if entry is mapping %}
-              {% set value = entry.id or entry.slug or entry.value %}
-              {% set label = entry.label or entry.name or entry.title %}
-              {% set email = entry.email if entry.email is defined else '' %}
-            {% else %}
-              {% set value = entry[0] %}
-              {% set label = entry[1] %}
-              {% set email = entry[2] if entry|count > 2 else '' %}
-            {% endif %}
-            <option value="{{ value }}"{% if email %} data-email="{{ email }}"{% endif %}>{{ label }}</option>
-          {% endfor %}
-        </select>
+        <span class="form-helpmessage">Inserisci un identificativo breve (max 12 caratteri, solo lettere e «_»).</span>
+        <input id="slides_submitter" name="submitter" type="text" class="form-input" maxlength="12" required pattern="[A-Za-z_]{1,12}" autocomplete="off">
       </div>
 
       <div class="form-row form-required">
