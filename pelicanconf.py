@@ -39,6 +39,27 @@ SUBMIT_SETTINGS = {
     'REDIRECT_URL':  '/grazie-della-proposta.html'
 }
 
+# Submit slides configuration
+SLIDES_SUBMITTERS = [
+    ('calamari', 'Fabio Pietrosanti (Calamari)'),
+    ('giorio', 'Andrea Giorio'),
+    ('somma', 'Sandro Somma'),
+    ('berto', 'Stefano Berto'),
+    ('priolo', 'Giovanni Priolo'),
+    ('smith', 'Winston Smith'),
+]
+
+SLIDES_SETTINGS = {
+    'STATIC_RECIPIENTS': [
+        'segreteria@winstonsmith.org',
+    ],
+    'SENDER_EMAIL': 'segreteria@winstonsmith.org',
+    'STORAGE_PATH': '/home/pws/data/inbound',
+    'PASSWORD': 'JULIA',
+    'REDIRECT_URL': '/grazie-consegna-slides.html',
+    'MAX_INLINE_SIZE': 1024 * 1024 * 1024,  # 1 GiB
+}
+
 #####
 
 
@@ -62,6 +83,10 @@ def split(string):
     return [x.strip() for x in string.strip().split(',')]
 
 JINJA_FILTERS = {'split': split}
+JINJA_GLOBALS = {
+    'SLIDES_SUBMITTERS': SLIDES_SUBMITTERS,
+    'SLIDES_SETTINGS': SLIDES_SETTINGS,
+}
 
 AUTHOR = u'Winston Smith'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
@@ -111,6 +136,7 @@ THIS = (
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
      ('Contatti', '/contatti.html'),
+     ('Consegna Slides', '/consegna-slides.html'),
 )
 
 ISCRIVITI='''

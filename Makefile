@@ -83,9 +83,6 @@ else
 	$(BASEDIR)/develop_server.sh restart
 endif
 
-program:
-	python sync-sheet-on-org.py $(INPUTORG)
-
 stopserver:
 	kill -9 `cat pelican.pid`
 	kill -9 `cat srv.pid`
