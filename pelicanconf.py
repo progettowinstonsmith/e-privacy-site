@@ -645,6 +645,7 @@ EXTRA_PATH_METADATA = {
     'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
     'extra/cgi-bin/submit.py': {'path': 'cgi-bin/submit.py'},
     'extra/cgi-bin/submit-propostatalk.py': {'path': 'cgi-bin/submit-propostatalk.py'},
+    'extra/cgi-bin/submit-slides.py': {'path': 'cgi-bin/submit-slides.py'},
     'robots.txt': {'path': 'robots.txt'},
 }
 
