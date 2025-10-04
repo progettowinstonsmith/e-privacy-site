@@ -22,6 +22,8 @@
     var submitterField = document.getElementById('slides_submitter');
     var emailField = document.getElementById('slides_email');
     var passwordField = document.getElementById('slides_password');
+    var dayField = document.getElementById('slides_day');
+    var sessionField = document.getElementById('slides_session');
     var captchaQuestion = document.getElementById('slides_captcha_question');
     var captchaAnswer = document.getElementById('slides_captcha_answer');
     var captchaA = document.getElementById('slides_captcha_a');
@@ -53,6 +55,20 @@
         evt.preventDefault();
         showError(errorBox, 'Inserisci la password.');
         passwordField.focus();
+        return;
+      }
+
+      if (dayField && !dayField.value) {
+        evt.preventDefault();
+        showError(errorBox, 'Seleziona la giornata.');
+        dayField.focus();
+        return;
+      }
+
+      if (sessionField && !sessionField.value) {
+        evt.preventDefault();
+        showError(errorBox, 'Seleziona la sessione.');
+        sessionField.focus();
         return;
       }
 

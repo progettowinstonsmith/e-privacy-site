@@ -158,6 +158,14 @@ def sanitise_submitter(raw_value):
     return cleaned
 
 
+def get_choice(form, name, allowed, message):
+    value = get_field(form, name, required=True)
+    normalised = value.upper()
+    if normalised not in allowed:
+        bail('400 Bad Request', message)
+    return normalised
+
+
 def main():
     setup_logging()
     cfg = load_config()
@@ -183,6 +191,8 @@ def main():
     submitter_id = sanitise_submitter(submitter_label)
     submitter_email = get_field(form, 'email', required=True)
     notes = get_field(form, 'note', required=False)
+    day = get_choice(form, 'day', {'1G', '2G'}, "Giornata non valida")
+    session = get_choice(form, 'session', {'M', 'P'}, "Sessione non valida")
 
     password = get_field(form, 'password', required=True)
     if password != cfg.get('PASSWORD'):
@@ -212,6 +222,8 @@ def main():
 
     stored_files = []
     total_size = 0
+    slot_prefix = f"{day}{session}"
+
     for idx, item in enumerate(files, start=1):
         original_name = safe_filename(item.filename)
         ensure_allowed(original_name)
@@ -219,12 +231,12 @@ def main():
         size = read_size(file_obj)
         total_size += size
 
-        target_name = original_name
+        target_name = f"{slot_prefix}-{submitter_id}-{original_name}"
         target_path = os.path.join(submission_dir, target_name)
         suffix = 1
         while os.path.exists(target_path):
             stem, ext = os.path.splitext(original_name)
-            target_name = f"{stem}_{suffix}{ext}"
+            target_name = f"{slot_prefix}-{submitter_id}-{stem}_{suffix}{ext}"
             target_path = os.path.join(submission_dir, target_name)
             suffix += 1
 
@@ -241,6 +253,7 @@ def main():
             'saved_as': target_name,
             'size': size,
             'path': target_path,
+            'slot': slot_prefix,
         })
 
     metadata = {
@@ -249,6 +262,8 @@ def main():
         'submitter_label': submitter_label,
         'email': submitter_email,
         'notes': notes,
+        'day': day,
+        'session': session,
         'files': stored_files,
         'timestamp': datetime.datetime.now().isoformat(),
         'ip': os.environ.get('REMOTE_ADDR', '-'),
@@ -272,6 +287,7 @@ def main():
         'abbiamo ricevuto i file consegnati tramite il portale e-privacy.',
         f"Identificativo consegna: {submission_id}",
         f"Data/Ora: {metadata['timestamp']}",
+        f"Giornata/Sessione: {slot_prefix}",
         '',
         'Materiale ricevuto:',
     ]

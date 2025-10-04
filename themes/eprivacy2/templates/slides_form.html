@@ -41,6 +41,26 @@ Consegna materiale — {{ SITENAME }}
         <input id="slides_files" name="files" type="file" class="form-input" multiple required accept=".pdf,.doc,.docx,.odt,.rtf,.txt,.md,.html,.htm,.ppt,.pptx,.odp,.key,.zip,audio/*,video/*">
       </div>
 
+      <div class="form-row form-required">
+        <label class="form-label" for="slides_day">Giornata</label>
+        <span class="form-helpmessage">Scegli la giornata in cui presenti.</span>
+        <select id="slides_day" name="day" class="form-selectbox" required>
+          <option value="">Seleziona…</option>
+          <option value="1G">Prima giornata</option>
+          <option value="2G">Seconda giornata</option>
+        </select>
+      </div>
+
+      <div class="form-row form-required">
+        <label class="form-label" for="slides_session">Sessione</label>
+        <span class="form-helpmessage">Mattina (M) o pomeriggio (P).</span>
+        <select id="slides_session" name="session" class="form-selectbox" required>
+          <option value="">Seleziona…</option>
+          <option value="M">Mattina</option>
+          <option value="P">Pomeriggio</option>
+        </select>
+      </div>
+
       <div class="form-row">
         <label class="form-label" for="slides_note">Note per la segreteria</label>
         <textarea id="slides_note" name="note" class="form-textarea" rows="4"></textarea>
