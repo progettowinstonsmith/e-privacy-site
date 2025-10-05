@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-10-03 20:05:54
+Date: 2025-10-05 10:25:06
 Slug: e-privacy-XXXVII-mail
 Year: 2025
 Where: TBA
@@ -121,7 +121,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 11:00|30|<span class='talk'><em>Coffee Break</em></span>
 11:30|20|<span class='talk'>Carlo Blengino<br/><em>Funes il memorioso ChatGpt e il giudice imperfetto</em></span>
 11:50|20|<span class='talk'>Monica Alessia Senor<br/><em>Bias e intelligenza artificiale generativa</em></span>
-12:10|45|<span class='talk'>Marco Ciurcina. (StudioLegale.it)<br/><em>Le ragioni della speranza</em></span>
+12:10|45|<span class='talk'>Marco Ciurcina (StudioLegale.it)<br/><em>Le ragioni della speranza</em></span>
 12:55|5|<span class='talk'>Marco Calamari<br/><em>Conclusioni?</em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
