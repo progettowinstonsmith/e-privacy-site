@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-10-03 20:06:04
+Date: 2025-10-05 10:25:16
 Slug: e-privacy-XXXVII-programma
 Year: 2025
 Where: TBA
@@ -87,7 +87,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 11:00|30|<span class='talk'><em>Coffee Break</em></span>
 11:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm4'></a><a href="/e-privacy-XXXVII-interventi.html#2gm4">Funes il memorioso ChatGpt e il giudice imperfetto</a></em></span>
 11:50|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#msenor">Monica Alessia Senor</a><br/><em><a name='2gm5'></a><a href="/e-privacy-XXXVII-interventi.html#2gm5">Bias e intelligenza artificiale generativa</a></em></span>
-12:10|45|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mciurcina">Marco Ciurcina. (StudioLegale.it)</a><br/><em><a name='2gm6'></a><a href="/e-privacy-XXXVII-interventi.html#2gm6">Le ragioni della speranza</a></em></span>
+12:10|45|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2gm6'></a><a href="/e-privacy-XXXVII-interventi.html#2gm6">Le ragioni della speranza</a></em></span>
 12:55|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='2gm7'></a><a href="/e-privacy-XXXVII-interventi.html#2gm7">Conclusioni?</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
