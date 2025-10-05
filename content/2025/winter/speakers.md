@@ -3,7 +3,7 @@ XStatus: draft
 Date: 2025-10-03 20:05:54
 Slug: e-privacy-XXXVII-relatori
 Year: 2025
-Where: TBA
+Where: Firenze & Streaming
 When: 23-24 ottobre
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 Timeline: 28 marzo | 7 aprile | 12 maggio
@@ -16,7 +16,7 @@ Options: toc:nil
 Num: XXXVII
 Nextid: 
 Next: 
-Location: Firenze
+Location: UIT Comune di Firenze, Piazza della Stazione di S. M. Novella 4, Firenze
 Lang: it
 Giorni: 23 e 24 ottobre 2025
 Extra-Documents: nil
@@ -269,5 +269,4 @@ Yvette è una ingegnere, consulente senior di cybersecurity. Da quasi 25 anni si
 Nel suo percorso professionale, ha collaborato con diverse realtà, supportandole nello sviluppo di strategie di sicurezza efficaci. È particolarmente interessata a temi come la cittadinanza digitale e i diritti digitali, che ritiene fondamentali per garantire un futuro digitale equo e inclusivo.
 
 Ad e-privacy XXXVII presenta [Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale](/e-privacy-XXXVII-programma.html#1gp5).
-
 

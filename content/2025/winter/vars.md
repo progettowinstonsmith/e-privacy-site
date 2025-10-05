@@ -9,7 +9,7 @@ Event_Path: content/2025/winter
 Extra-Documents: nil
 Giorni: 23 e 24 ottobre 2025
 Lang: it
-Location: Firenze
+Location: UIT Comune di Firenze, Piazza della Stazione di S. M. Novella 4, Firenze
 Next: 
 Nextid: 
 Num: XXXVII
@@ -22,8 +22,7 @@ Subtitle: TBA
 Timeline: 28 marzo | 7 aprile | 12 maggio
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
-Where: TBA
+Where: Firenze & Streaming
 Year: 2025
-
 
 
