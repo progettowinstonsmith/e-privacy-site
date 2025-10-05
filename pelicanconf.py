@@ -120,23 +120,14 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-#     ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
-#     ('Gli interventi', f'/e-privacy-{EPRIVACY_N}-interventi.html'),
-#     ('I relatori', f'/e-privacy-{EPRIVACY_N}-relatori.html'),
-#     ('Iscriviti', 'https://lists.xed.it/ep2019w-registration-form'),
-#     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
-#     ('Call for Paper', f'http://e-privacy.winstonsmith.org/e-privacy-XXXVII-proposta.html'),   ###### ATTENZIONE QUI
-     ('Proposta Talk', f'/e-privacy-proposta-talk.html'),  
-#     ('Proposta Talk', f'/e-privacy-{EPRIVACY_N}-proposta.html'),
-#     ('Call for Sponsor', f'/e-privacy-{EPRIVACY_N}-cfs.html'),
-#     ('FAQ per i relatori', f'/e-privacy-{EPRIVACY_N}-faq-relatori.html'),
-#     ('Slides', f'/consegna-slides.html'),
+     ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
+     ('Consegna Slides', '/consegna-slides.html'),
+     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}.html'),
      ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
      ('Donazioni', '/donazioni-e-privacy.html'),
      ('Collabora', '/collabora.html'),
      ('Contatti', '/contatti.html'),
-     ('Consegna Slides', '/consegna-slides.html'),
 )
 
 ISCRIVITI='''
