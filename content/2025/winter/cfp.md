@@ -42,6 +42,8 @@ MediaPartner: infomedia, aneddotica,lealternative, hackerjournal
 
 ## Call for Paper
 
+ATTENZIONE: il Call for Paper è chiuso. Non stiamo più accettando nuove proposte per questa edizione.
+
 Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
 trentasettesima edizione di e-privacy, che si terrà in presenza ed in
 videoconferenza il 23 e 24 ottobre a Firenze.
@@ -175,4 +177,3 @@ Maggiori informazioni sul sito del Convegno
 [**<http://e-privacy.winstonsmith.org>**](http://e-privacy.winstonsmith.org/).
 
 **Vi aspettiamo**.
-
