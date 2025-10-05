@@ -3,7 +3,7 @@ XStatus: draft
 Date: 2025-10-03 20:06:04
 Slug: e-privacy-XXXVII-programma
 Year: 2025
-Where: Firenze & Streaming
+Where: TBA
 When: 23-24 ottobre
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 Timeline: 28 marzo | 7 aprile | 12 maggio
@@ -16,7 +16,7 @@ Options: toc:nil
 Num: XXXVII
 Nextid: 
 Next: 
-Location: UIT Comune di Firenze, Piazza della Stazione di S. M. Novella 4, Firenze
+Location: Firenze
 Lang: it
 Giorni: 23 e 24 ottobre 2025
 Extra-Documents: nil
