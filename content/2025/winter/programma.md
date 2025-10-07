@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-10-05 10:25:16
+Date: 2025-10-07 13:35:43
 Slug: e-privacy-XXXVII-programma
 Year: 2025
 Where: TBA
@@ -50,7 +50,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 ------- | --- | -------
 10:00|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='1gm01'></a><a href="/e-privacy-XXXVII-interventi.html#1gm01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
 10:05|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#lsparavigna">Laura Sparavigna (Assessore Comune Firenze)</a><br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVII-interventi.html#1gm02">Saluti istituzionali</a></em></span>
-10:10|40|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#guberti">Giacomo Uberti. (udeis Srl (partner di rete Penelope))</a> e <a href="/e-privacy-XXXVII-relatori.html#pbontempi">Paola Bontempi. (Resolve Consulting Srl (partner di rete Penelope))</a><br/><em><a name='1gm2gm45 (casi eccezionali da concordare con gli organizzatori)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm2gm45 (casi eccezionali da concordare con gli organizzatori)">Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</a></em></span>
+10:10|40|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#guberti">Giacomo Uberti (udeis Srl (partner di rete Penelope))</a> e <a href="/e-privacy-XXXVII-relatori.html#pbontempi">Paola Bontempi (Resolve Consulting Srl (partner di rete Penelope))</a><br/><em><a name='1gm2gm45 (casi eccezionali da concordare con gli organizzatori)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm2gm45 (casi eccezionali da concordare con gli organizzatori)">Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</a></em></span>
 10:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVII-interventi.html#1gm03">Tette e gattini (titolo rubato a Matteo Flora)</a></em></span>
 11:20|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#arizzini">Andrea Rizzini (Politecnico di Milano)</a><br/><em><a name='1gm4'></a><a href="/e-privacy-XXXVII-interventi.html#1gm4">Blockchain tra privacy e regolamentazioni: un nuovo paradigma di compliance</a></em></span>
 11:40|30|<span class='talk'><em>Coffee Break</em></span>
@@ -70,9 +70,9 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 15:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#amontillo">Antonio Montillo.</a><br/><em><a name='1gp3'></a><a href="/e-privacy-XXXVII-interventi.html#1gp3">AI or not AI – that is the question</a></em></span>
 15:50|30|<span class='talk'><em>Coffee Break</em></span>
 16:20📡|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgobbato">Monica Gobbato (Privacy Academy e Lawboat.ch)</a> e <a href="/e-privacy-XXXVII-relatori.html#apedalina">Angela Pedalina (LawBoat.ch Informatich.ch)</a><br/><em><a name='1gp4'></a><a href="/e-privacy-XXXVII-interventi.html#1gp4">Policy Aziendali per i lavoratori per  la Tutela dei Dati Riservati nell&#x27;utilizzo della AI</a></em></span>
-16:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#yagostini">Yvette Agostini.</a><br/><em><a name='1gp5'></a><a href="/e-privacy-XXXVII-interventi.html#1gp5">Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</a></em></span>
-17:20|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#eetruscan">eTrUSCAN eTrUSCAN.</a><br/><em><a name='1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gp20 (meglio)">Etica, Privacy e FOSS: proviamo a unirle.</a></em></span>
-17:40|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#lcadonici">Luca Cadonici. (European Forensic Institute)</a><br/><em><a name='1gm1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm1gp20 (meglio)">L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</a></em></span>
+16:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#yagostini">Yvette Agostini</a><br/><em><a name='1gp5'></a><a href="/e-privacy-XXXVII-interventi.html#1gp5">Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</a></em></span>
+17:20|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#lcadonici">Luca Cadonici (European Forensic Institute)</a><br/><em><a name='1gm1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm1gp20 (meglio)">L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</a></em></span>
+17:40|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#eetruscan">eTrUSCAN eTrUSCAN</a><br/><em><a name='1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gp20 (meglio)">Etica, Privacy e FOSS: proviamo a unirle.</a></em></span>
 18:00||<span class='talk'><em>Fine sessione</em></span>
 
 
@@ -83,7 +83,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 ------- | --- | -------
 10:00|10|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='2gm01'></a><a href="/e-privacy-XXXVII-interventi.html#2gm01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
 10:10📡|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#fbianchini">Filippo Bianchini (AIP - ASSO DPO - CLUSIT)</a><br/><em><a name='2gm2'></a><a href="/e-privacy-XXXVII-interventi.html#2gm2">Navigare la complessità normativa nell&#x27;era dell&#x27;intelligenza artificiale sanitaria</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#fcarletti">Fabio Carletti. (ipfire italia)</a> e <a href="/e-privacy-XXXVII-relatori.html#uparma">Umberto Parma.</a><br/><em><a name='2gm3'></a><a href="/e-privacy-XXXVII-interventi.html#2gm3">Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</a></em></span>
+10:30|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#fcarletti">Fabio Carletti (ipfire italia)</a> e <a href="/e-privacy-XXXVII-relatori.html#uparma">Umberto Parma</a><br/><em><a name='2gm3'></a><a href="/e-privacy-XXXVII-interventi.html#2gm3">Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</a></em></span>
 11:00|30|<span class='talk'><em>Coffee Break</em></span>
 11:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm4'></a><a href="/e-privacy-XXXVII-interventi.html#2gm4">Funes il memorioso ChatGpt e il giudice imperfetto</a></em></span>
 11:50|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#msenor">Monica Alessia Senor</a><br/><em><a name='2gm5'></a><a href="/e-privacy-XXXVII-interventi.html#2gm5">Bias e intelligenza artificiale generativa</a></em></span>

@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-10-05 10:25:06
+Date: 2025-10-07 13:35:33
 Slug: e-privacy-XXXVII-mail
 Year: 2025
 Where: TBA
@@ -84,7 +84,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 ------- | --- | -------
 10:00|5|<span class='talk'>Marco Calamari<br/><em>Misurare l’Umano? Dal Vitruviano all’Algoritmo</em></span>
 10:05|5|<span class='talk'>Laura Sparavigna (Assessore Comune Firenze)<br/><em>Saluti istituzionali</em></span>
-10:10|40|<span class='talk'>Giacomo Uberti. (udeis Srl (partner di rete Penelope)) e Paola Bontempi. (Resolve Consulting Srl (partner di rete Penelope))<br/><em>Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</em></span>
+10:10|40|<span class='talk'>Giacomo Uberti (udeis Srl (partner di rete Penelope)) e Paola Bontempi (Resolve Consulting Srl (partner di rete Penelope))<br/><em>Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</em></span>
 10:50|30|<span class='talk'>Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)<br/><em>Tette e gattini (titolo rubato a Matteo Flora)</em></span>
 11:20|20|<span class='talk'>Andrea Rizzini (Politecnico di Milano)<br/><em>Blockchain tra privacy e regolamentazioni: un nuovo paradigma di compliance</em></span>
 11:40|30|<span class='talk'><em>Coffee Break</em></span>
@@ -104,9 +104,9 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 15:30|20|<span class='talk'>Antonio Montillo.<br/><em>AI or not AI – that is the question</em></span>
 15:50|30|<span class='talk'><em>Coffee Break</em></span>
 16:20📡|30|<span class='talk'>Monica Gobbato (Privacy Academy e Lawboat.ch) e Angela Pedalina (LawBoat.ch Informatich.ch)<br/><em>Policy Aziendali per i lavoratori per  la Tutela dei Dati Riservati nell&#x27;utilizzo della AI</em></span>
-16:50|30|<span class='talk'>Yvette Agostini.<br/><em>Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</em></span>
-17:20|20|<span class='talk'>eTrUSCAN eTrUSCAN.<br/><em>Etica, Privacy e FOSS: proviamo a unirle.</em></span>
-17:40|20|<span class='talk'>Luca Cadonici. (European Forensic Institute)<br/><em>L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</em></span>
+16:50|30|<span class='talk'>Yvette Agostini<br/><em>Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</em></span>
+17:20|20|<span class='talk'>Luca Cadonici (European Forensic Institute)<br/><em>L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</em></span>
+17:40|20|<span class='talk'>eTrUSCAN eTrUSCAN<br/><em>Etica, Privacy e FOSS: proviamo a unirle.</em></span>
 18:00||<span class='talk'><em>Fine sessione</em></span>
 
 
@@ -117,7 +117,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 ------- | --- | -------
 10:00|10|<span class='talk'>Marco Calamari<br/><em>Misurare l’Umano? Dal Vitruviano all’Algoritmo</em></span>
 10:10📡|20|<span class='talk'>Filippo Bianchini (AIP - ASSO DPO - CLUSIT)<br/><em>Navigare la complessità normativa nell&#x27;era dell&#x27;intelligenza artificiale sanitaria</em></span>
-10:30|30|<span class='talk'>Fabio Carletti. (ipfire italia) e Umberto Parma.<br/><em>Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</em></span>
+10:30|30|<span class='talk'>Fabio Carletti (ipfire italia) e Umberto Parma<br/><em>Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</em></span>
 11:00|30|<span class='talk'><em>Coffee Break</em></span>
 11:30|20|<span class='talk'>Carlo Blengino<br/><em>Funes il memorioso ChatGpt e il giudice imperfetto</em></span>
 11:50|20|<span class='talk'>Monica Alessia Senor<br/><em>Bias e intelligenza artificiale generativa</em></span>
