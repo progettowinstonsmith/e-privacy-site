@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-10-07 13:35:43
+Date: 2025-10-09 10:18:29
 Slug: e-privacy-XXXVII-programma
 Year: 2025
 Where: TBA
@@ -66,8 +66,8 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|10|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVII-interventi.html#1gp01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
-15:10|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgherbin">Massimo Gherbin. (Prodev Srl)</a><br/><em><a name='1gp2'></a><a href="/e-privacy-XXXVII-interventi.html#1gp2">EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</a></em></span>
-15:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#amontillo">Antonio Montillo.</a><br/><em><a name='1gp3'></a><a href="/e-privacy-XXXVII-interventi.html#1gp3">AI or not AI – that is the question</a></em></span>
+15:10|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgherbin">Massimo Gherbin (Prodev Srl)</a><br/><em><a name='1gp2'></a><a href="/e-privacy-XXXVII-interventi.html#1gp2">EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</a></em></span>
+15:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#amontillo">Antonio Montillo</a><br/><em><a name='1gp3'></a><a href="/e-privacy-XXXVII-interventi.html#1gp3">AI or not AI – that is the question</a></em></span>
 15:50|30|<span class='talk'><em>Coffee Break</em></span>
 16:20📡|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgobbato">Monica Gobbato (Privacy Academy e Lawboat.ch)</a> e <a href="/e-privacy-XXXVII-relatori.html#apedalina">Angela Pedalina (LawBoat.ch Informatich.ch)</a><br/><em><a name='1gp4'></a><a href="/e-privacy-XXXVII-interventi.html#1gp4">Policy Aziendali per i lavoratori per  la Tutela dei Dati Riservati nell&#x27;utilizzo della AI</a></em></span>
 16:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#yagostini">Yvette Agostini</a><br/><em><a name='1gp5'></a><a href="/e-privacy-XXXVII-interventi.html#1gp5">Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</a></em></span>

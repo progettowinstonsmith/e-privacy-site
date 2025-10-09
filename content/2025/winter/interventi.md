@@ -1,6 +1,6 @@
 Template: event
 XStatus: draft
-Date: 2025-10-07 13:35:33
+Date: 2025-10-09 10:18:19
 Slug: e-privacy-XXXVII-interventi
 Year: 2025
 Where: TBA

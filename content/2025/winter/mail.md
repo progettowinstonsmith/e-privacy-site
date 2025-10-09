@@ -1,6 +1,6 @@
 Template: fullpage
 XStatus: draft
-Date: 2025-10-07 13:35:33
+Date: 2025-10-09 10:18:19
 Slug: e-privacy-XXXVII-mail
 Year: 2025
 Where: TBA
@@ -100,8 +100,8 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|10|<span class='talk'>Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)<br/><em>Misurare l’Umano? Dal Vitruviano all’Algoritmo</em></span>
-15:10|20|<span class='talk'>Massimo Gherbin. (Prodev Srl)<br/><em>EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</em></span>
-15:30|20|<span class='talk'>Antonio Montillo.<br/><em>AI or not AI – that is the question</em></span>
+15:10|20|<span class='talk'>Massimo Gherbin (Prodev Srl)<br/><em>EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</em></span>
+15:30|20|<span class='talk'>Antonio Montillo<br/><em>AI or not AI – that is the question</em></span>
 15:50|30|<span class='talk'><em>Coffee Break</em></span>
 16:20📡|30|<span class='talk'>Monica Gobbato (Privacy Academy e Lawboat.ch) e Angela Pedalina (LawBoat.ch Informatich.ch)<br/><em>Policy Aziendali per i lavoratori per  la Tutela dei Dati Riservati nell&#x27;utilizzo della AI</em></span>
 16:50|30|<span class='talk'>Yvette Agostini<br/><em>Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</em></span>
