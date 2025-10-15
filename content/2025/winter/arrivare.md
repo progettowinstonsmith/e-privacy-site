@@ -24,7 +24,6 @@ Season: winter
 XStatus: hidden
 Subtitle: Dall’Uomo Vitruviano all’Umano Digitale: l’intelligenza artificiale e la nuova anatomia dell’identità
 Timeline: 1 settembre | 30 settembre | 19 ottobre
-Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
 Where: Firenze & Streaming
 Year: 2025

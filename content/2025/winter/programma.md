@@ -3,11 +3,11 @@ XStatus: draft
 Date: 2025-10-09 10:18:29
 Slug: e-privacy-XXXVII-programma
 Year: 2025
-Where: TBA
+Where: Firenze & Streaming
 When: 23-24 ottobre
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 Timeline: 28 marzo | 7 aprile | 12 maggio
-Subtitle: TBA
+Subtitle: Firenze & Streaming
 Status: published
 Season: winter
 Previd: 2025
@@ -27,22 +27,23 @@ Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subt
 City: Firenze
 Category: 2025
 
-
 Il **23 e 24 ottobre 2025** si terrà a Firenze **e-privacy 2025 winter edition**.
  Il tema guida della XXXVII edizione è:
-
 
 <div class="title-XXXVII">«Misurare l’Umano? Dal Vitruviano all’Algoritmo»</div>
 <div class="subtitle-XXXVII">Dall’Uomo Vitruviano all’Umano Digitale: l’intelligenza artificiale e la nuova anatomia dell’identità</div>
 
-<br/><br/>
-
 La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistiche del Comune di Firenze](http://e-privacy.winstonsmith.org/e-privacy-XXXVII-come-arrivare.html) in Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
+<br/>
 
-<br/><br/>
+## Il tema del Convegno
+Che siano esperimenti sociali, operazioni commerciali o studi scientifici, l’umanità è oggi sotto la lente di numerose applicazioni del capitalismo della sorveglianza, fra le quali la più clamorosa è stata battezzata col nome di intelligenza artificiale.
 
+Le sue numerose applicazioni, anche se sfruttano solo quanto, della cultura umana, si è scelto o è stato possibile digitalizzare, si fondano su una raccolta costante e pervasiva di dati, impiegati in particolare per costruire grandi modelli di linguaggio, che, pur essendo in sostanza elaborazioni statistiche, vengono fatti passare per intelligenti.
 
+Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicato in Rete, dall’articolo scientifico alla stupidaggine per far ridere, contribuisce a creare un profilo di noi stessi e dell’umanità intera, sulla base del quale si pretende di misurare le capacità e gli interessi dei singoli e della collettività, di determinare cambi di orientamento, o addirittura di prevedere le direzioni che verranno.
 
+## Il programma del Convegno
 #### <a name="1gm"></a>Giovedì 23 ottobre 2025 - mattina
 * Modera: <a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a>
 
@@ -77,7 +78,7 @@ La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistic
 
 
 #### <a name="2gm"></a>Venerdì 24 ottobre 2025 - mattina
-* Modera: <a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
+* Modera: <a href="/e-privacy-XXXVII-relatori.html#rberto">Rebecca Berto</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
@@ -108,8 +109,5 @@ Per contatti generali e per la
 stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
 per i relatori
 [cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
-
-Maggiori informazioni saranno pubblicate sul sito del Convegno non appena
-disponibili, all'indirizzo [e-privacy.winstonsmith.org](http://e-privacy.winstonsmith.org).
 
 **Vi aspettiamo**.

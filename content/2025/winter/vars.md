@@ -18,11 +18,11 @@ Prev: e-privacy-XXXVI
 Previd: 2025
 Season: winter
 Status: published
-Subtitle: TBA
+Subtitle: Firenze & Streaming
 Timeline: 28 marzo | 7 aprile | 12 maggio
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
-Where: TBA
+Where: Firenze & Streaming
 Year: 2025
 
 

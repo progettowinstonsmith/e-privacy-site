@@ -3,11 +3,11 @@ XStatus: draft
 Date: 2025-10-09 10:18:19
 Slug: e-privacy-XXXVII-relatori
 Year: 2025
-Where: TBA
+Where: Firenze & Streaming
 When: 23-24 ottobre
 Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 Timeline: 28 marzo | 7 aprile | 12 maggio
-Subtitle: TBA
+Subtitle: 
 Status: published
 Season: winter
 Previd: 2025
