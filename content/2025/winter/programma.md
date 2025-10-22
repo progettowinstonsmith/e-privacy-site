@@ -87,7 +87,7 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 
 #### <a name="2gm"></a>Venerdì 24 ottobre 2025 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9rQz7nVYZM?si=8uV6jfJdImnbU4WX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfymeovWtgo?si=Yvo0NlcJElpxx-wF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 * Modera: <a href="/e-privacy-XXXVII-relatori.html#rberto">Rebecca Berto</a>
