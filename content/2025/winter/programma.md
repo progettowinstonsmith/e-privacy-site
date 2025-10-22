@@ -44,7 +44,12 @@ Le sue numerose applicazioni, anche se sfruttano solo quanto, della cultura uman
 Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicato in Rete, dall’articolo scientifico alla stupidaggine per far ridere, contribuisce a creare un profilo di noi stessi e dell’umanità intera, sulla base del quale si pretende di misurare le capacità e gli interessi dei singoli e della collettività, di determinare cambi di orientamento, o addirittura di prevedere le direzioni che verranno.
 
 ## Il programma del Convegno
+
 #### <a name="1gm"></a>Giovedì 23 ottobre 2025 - mattina
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TijDKI_XFxc?si=Jt4J4prQ4_DfvaKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * Modera: <a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -62,6 +67,9 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 
 
 #### <a name="1gp"></a>Giovedì 23 ottobre 2025 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eKz0ld8W3JE?si=8gj8zS0cKZp9Y3RJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -78,6 +86,10 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 
 
 #### <a name="2gm"></a>Venerdì 24 ottobre 2025 - mattina
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9rQz7nVYZM?si=8uV6jfJdImnbU4WX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * Modera: <a href="/e-privacy-XXXVII-relatori.html#rberto">Rebecca Berto</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
