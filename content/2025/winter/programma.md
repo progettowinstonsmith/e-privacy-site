@@ -27,13 +27,15 @@ Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subt
 City: Firenze
 Category: 2025
 
-Il **23 e 24 ottobre 2025** si terrà a Firenze **e-privacy 2025 winter edition**.
- Il tema guida della XXXVII edizione è:
+**Pubblicati gli atti e le registrazioni video del convegno**
+
+Il **23 e 24 ottobre 2025** si è tenuto a Firenze **e-privacy 2025 winter edition**.
+ Il tema guida della XXXVII edizione è stato:
 
 <div class="title-XXXVII">«Misurare l’Umano? Dal Vitruviano all’Algoritmo»</div>
 <div class="subtitle-XXXVII">Dall’Uomo Vitruviano all’Umano Digitale: l’intelligenza artificiale e la nuova anatomia dell’identità</div>
 
-La sede del Convegno è la sala multimediale dell'[Ufficio Informazioni Turistiche del Comune di Firenze](http://e-privacy.winstonsmith.org/e-privacy-XXXVII-come-arrivare.html) in Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
+La sede del Convegno è stata la sala multimediale dell'[Ufficio Informazioni Turistiche del Comune di Firenze](http://e-privacy.winstonsmith.org/e-privacy-XXXVII-come-arrivare.html) in Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
 <br/>
 
 ## Il tema del Convegno
@@ -44,6 +46,16 @@ Le sue numerose applicazioni, anche se sfruttano solo quanto, della cultura uman
 Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicato in Rete, dall’articolo scientifico alla stupidaggine per far ridere, contribuisce a creare un profilo di noi stessi e dell’umanità intera, sulla base del quale si pretende di misurare le capacità e gli interessi dei singoli e della collettività, di determinare cambi di orientamento, o addirittura di prevedere le direzioni che verranno.
 
 ## Il programma del Convegno
+<br/>
+Legenda:
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione (PDF) | ![pdf](/images/icon/document.png) | Documento (PDF) |
+![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![ppt](/images/icon/handouts.png) | Handouts (PDF)|
+![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
+![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
+<br/>
 
 #### <a name="1gm"></a>Giovedì 23 ottobre 2025 - mattina
 
@@ -56,12 +68,12 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 ------- | --- | -------
 10:00|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='1gm01'></a><a href="/e-privacy-XXXVII-interventi.html#1gm01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
 10:05|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#lsparavigna">Laura Sparavigna (Assessore Comune Firenze)</a><br/><em><a name='1gm02'></a><a href="/e-privacy-XXXVII-interventi.html#1gm02">Saluti istituzionali</a></em></span>
-10:10|40|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#guberti">Giacomo Uberti (udeis Srl (partner di rete Penelope))</a> e <a href="/e-privacy-XXXVII-relatori.html#pbontempi">Paola Bontempi (Resolve Consulting Srl (partner di rete Penelope))</a><br/><em><a name='1gm2gm45 (casi eccezionali da concordare con gli organizzatori)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm2gm45 (casi eccezionali da concordare con gli organizzatori)">Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</a></em></span>
-10:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVII-interventi.html#1gm03">Tette e gattini (titolo rubato a Matteo Flora)</a></em></span>
-11:20|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#arizzini">Andrea Rizzini (Politecnico di Milano)</a><br/><em><a name='1gm4'></a><a href="/e-privacy-XXXVII-interventi.html#1gm4">Blockchain tra privacy e regolamentazioni: un nuovo paradigma di compliance</a></em></span>
+10:10|40|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_01_uberti_bontempi_tessere_sicurezza_navigare_rischio.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_01_uberti_bontempi_tessere_sicurezza_navigare_rischio.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#guberti">Giacomo Uberti (udeis Srl (partner di rete Penelope))</a> e <a href="/e-privacy-XXXVII-relatori.html#pbontempi">Paola Bontempi (Resolve Consulting Srl (partner di rete Penelope))</a><br/><em><a name='1gm2gm45 (casi eccezionali da concordare con gli organizzatori)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm2gm45 (casi eccezionali da concordare con gli organizzatori)">Tessere Sicurezza, Navigare il Rischio: L&#x27;Impresa Responsabile nell&#x27;Era della Misurazione Algoritmica</a></em></span>
+10:50|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_02_giorio_tette_e_gattini.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_02_giorio_tette_e_gattini_solo_testo.docx"><img alt="doc" src="/images/icon/document.png">,<a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1gm03'></a><a href="/e-privacy-XXXVII-interventi.html#1gm03">Tette e gattini (titolo rubato a Matteo Flora)</a></em></span>
+11:20|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_03_rizzini_blockchain.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_03_rizzini_blockchain.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#arizzini">Andrea Rizzini (Politecnico di Milano)</a><br/><em><a name='1gm4'></a><a href="/e-privacy-XXXVII-interventi.html#1gm4">Blockchain tra privacy e regolamentazioni: un nuovo paradigma di compliance</a></em></span>
 11:40|30|<span class='talk'><em>Coffee Break</em></span>
-12:10|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gm5'></a><a href="/e-privacy-XXXVII-interventi.html#1gm5">Il corpo fisico ed il corpo digitale dell’uomo contemporaneo</a></em></span>
-12:30📡|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#ebrambilla">Emanuele Brambilla (Università degli Studi di Milano)</a><br/><em><a name='1gm6'></a><a href="/e-privacy-XXXVII-interventi.html#1gm6">Dal corpo elettronico alla &quot;governamentalità algoritmica&quot;: l’assolutizzazione del frammento e le ricadute etico-giuridiche</a></em></span>
+12:10|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_04_berto_corpo_fisico_corpo_digitale.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVII-relatori.html#rberto">Rebecca Berto</a><br/><em><a name='1gm5'></a><a href="/e-privacy-XXXVII-interventi.html#1gm5">Il corpo fisico ed il corpo digitale dell’uomo contemporaneo</a></em></span>
+12:30📡|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_05_brambilla_corpo_elettronico_governamentalita_algoritmica.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVII-relatori.html#ebrambilla">Emanuele Brambilla (Università degli Studi di Milano)</a><br/><em><a name='1gm6'></a><a href="/e-privacy-XXXVII-interventi.html#1gm6">Dal corpo elettronico alla &quot;governamentalità algoritmica&quot;: l’assolutizzazione del frammento e le ricadute etico-giuridiche</a></em></span>
 12:50📡|40|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mchirivì">Massimo Chirivì (Associazione Italiana Professionisti della Sicurezza Informatica)</a><br/><em><a name='1gm7'></a><a href="/e-privacy-XXXVII-interventi.html#1gm7">Hacking e Privacy: minacce invisibili e difese consapevoli</a></em></span>
 13:30||<span class='talk'><em>Fine sessione</em></span>
 
@@ -75,12 +87,12 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|10|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#dgiorio">Diego GIORIO (SEPEL Editrice - Comune di Villanova Canavese)</a><br/><em><a name='1gp01'></a><a href="/e-privacy-XXXVII-interventi.html#1gp01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
-15:10|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgherbin">Massimo Gherbin (Prodev Srl)</a><br/><em><a name='1gp2'></a><a href="/e-privacy-XXXVII-interventi.html#1gp2">EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</a></em></span>
-15:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#amontillo">Antonio Montillo</a><br/><em><a name='1gp3'></a><a href="/e-privacy-XXXVII-interventi.html#1gp3">AI or not AI – that is the question</a></em></span>
+15:10|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_11_gherbini_encprimes.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_11_gherbini_encprimes.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#mgherbin">Massimo Gherbin (Prodev Srl)</a><br/><em><a name='1gp2'></a><a href="/e-privacy-XXXVII-interventi.html#1gp2">EncPriMes Privacy assoluta nella trasmissione messaggi mediante E2EE con chiavi OTP simmetriche precaricate</a></em></span>
+15:30|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_12_montillo_ai_or_not_ai.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_12_montillo_ai_or_not_ai.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#amontillo">Antonio Montillo</a><br/><em><a name='1gp3'></a><a href="/e-privacy-XXXVII-interventi.html#1gp3">AI or not AI – that is the question</a></em></span>
 15:50|30|<span class='talk'><em>Coffee Break</em></span>
 16:20📡|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mgobbato">Monica Gobbato (Privacy Academy e Lawboat.ch)</a> e <a href="/e-privacy-XXXVII-relatori.html#apedalina">Angela Pedalina (LawBoat.ch Informatich.ch)</a><br/><em><a name='1gp4'></a><a href="/e-privacy-XXXVII-interventi.html#1gp4">Policy Aziendali per i lavoratori per  la Tutela dei Dati Riservati nell&#x27;utilizzo della AI</a></em></span>
-16:50|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#yagostini">Yvette Agostini</a><br/><em><a name='1gp5'></a><a href="/e-privacy-XXXVII-interventi.html#1gp5">Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</a></em></span>
-17:20|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#lcadonici">Luca Cadonici (European Forensic Institute)</a><br/><em><a name='1gm1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm1gp20 (meglio)">L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</a></em></span>
+16:50|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_14_agostini_digitalizzare_umano_umanizzare_digitale.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVII-relatori.html#yagostini">Yvette Agostini</a><br/><em><a name='1gp5'></a><a href="/e-privacy-XXXVII-interventi.html#1gp5">Alla ricerca del nuovo umanesimo: digitalizzare l’umano, umanizzare il digitale</a></em></span>
+17:20|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_15_cadonici_europa_alla_prova_del_chatcontrol.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_15_cadonici_europa_alla_prova_del_chatcontrol.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#lcadonici">Luca Cadonici (European Forensic Institute)</a><br/><em><a name='1gm1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gm1gp20 (meglio)">L’Europa alla prova del Chat Control: la cifratura E2EE come fondamento della libertà digitale</a></em></span>
 17:40|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#eetruscan">eTrUSCAN eTrUSCAN</a><br/><em><a name='1gp20 (meglio)'></a><a href="/e-privacy-XXXVII-interventi.html#1gp20 (meglio)">Etica, Privacy e FOSS: proviamo a unirle.</a></em></span>
 18:00||<span class='talk'><em>Fine sessione</em></span>
 
@@ -96,11 +108,11 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 ------- | --- | -------
 10:00|10|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='2gm01'></a><a href="/e-privacy-XXXVII-interventi.html#2gm01">Misurare l’Umano? Dal Vitruviano all’Algoritmo</a></em></span>
 10:10📡|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#fbianchini">Filippo Bianchini (AIP - ASSO DPO - CLUSIT)</a><br/><em><a name='2gm2'></a><a href="/e-privacy-XXXVII-interventi.html#2gm2">Navigare la complessità normativa nell&#x27;era dell&#x27;intelligenza artificiale sanitaria</a></em></span>
-10:30|30|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#fcarletti">Fabio Carletti (ipfire italia)</a> e <a href="/e-privacy-XXXVII-relatori.html#uparma">Umberto Parma</a><br/><em><a name='2gm3'></a><a href="/e-privacy-XXXVII-interventi.html#2gm3">Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</a></em></span>
+10:30|30|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_22_ipfire.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_22_ipfire.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#fcarletti">Fabio Carletti (ipfire italia)</a> e <a href="/e-privacy-XXXVII-relatori.html#uparma">Umberto Parma</a><br/><em><a name='2gm3'></a><a href="/e-privacy-XXXVII-interventi.html#2gm3">Il Firewall che Respira Open Source: Un Viaggio all&#x27;Interno di IPFire.</a></em></span>
 11:00|30|<span class='talk'><em>Coffee Break</em></span>
-11:30|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm4'></a><a href="/e-privacy-XXXVII-interventi.html#2gm4">Funes il memorioso ChatGpt e il giudice imperfetto</a></em></span>
+11:30|20|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_23_blengino.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="https://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_23_blengino.pptx"><img alt="ppt" src="/images/icon/presentation-ppt.png">,<a href="/e-privacy-XXXVII-relatori.html#cblengino">Carlo Blengino</a><br/><em><a name='2gm4'></a><a href="/e-privacy-XXXVII-interventi.html#2gm4">Funes il memorioso ChatGpt e il giudice imperfetto</a></em></span>
 11:50|20|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#msenor">Monica Alessia Senor</a><br/><em><a name='2gm5'></a><a href="/e-privacy-XXXVII-interventi.html#2gm5">Bias e intelligenza artificiale generativa</a></em></span>
-12:10|45|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2gm6'></a><a href="/e-privacy-XXXVII-interventi.html#2gm6">Le ragioni della speranza</a></em></span>
+12:10|45|<span class='talk'><a href="http://urna.winstonsmith.org/materiali/2025we/atti/ep2025we_25_ciurcina_ragioni_speranza.pdf"><img alt="pdf" src="/images/icon/presentation.png">,<a href="/e-privacy-XXXVII-relatori.html#mciurcina">Marco Ciurcina (StudioLegale.it)</a><br/><em><a name='2gm6'></a><a href="/e-privacy-XXXVII-interventi.html#2gm6">Le ragioni della speranza</a></em></span>
 12:55|5|<span class='talk'><a href="/e-privacy-XXXVII-relatori.html#mcalamari">Marco Calamari</a><br/><em><a name='2gm7'></a><a href="/e-privacy-XXXVII-interventi.html#2gm7">Conclusioni?</a></em></span>
 13:00||<span class='talk'><em>Fine sessione</em></span>
 
