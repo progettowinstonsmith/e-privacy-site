@@ -121,7 +121,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THIS = (
      ('Il programma', f'/e-privacy-{EPRIVACY_N}-programma.html'),
-     ('Consegna Slides', '/consegna-slides.html'),
+#     ('Consegna Slides', '/consegna-slides.html'),
      ('Call for Paper', f'/e-privacy-{EPRIVACY_N}.html'),
      ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
