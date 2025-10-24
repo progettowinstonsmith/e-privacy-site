@@ -47,7 +47,6 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 
 ## Il programma del Convegno
 <br/>
-<br/>
 I video del Convegno presenti in questa pagina **sono pubblicati su [Youtube](https://www.youtube.com/@ProgettoWinstonSmith).**
 <br/>
 **Per fruirli senza cedere dati personali**, possono essere scaricati dal nostro server (ferro gestito da noi, non cloud), e fruiti in locale, usando questi link:
