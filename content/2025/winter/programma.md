@@ -59,7 +59,7 @@ I video del Convegno presenti in questa pagina **sono pubblicati su [Youtube](ht
 - [24 mattina](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_24_10_2025_mattina.mp4)
 <br/>
 <br/>
-Legenda:
+Legenda: 
 
 Icona | Descrizione | Icona | Descrizione
 ---- | ---- | ----- | ----
