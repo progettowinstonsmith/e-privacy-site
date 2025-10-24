@@ -1,4 +1,4 @@
-Slug: e-privacy-XXXVII
+Slug: e-privacy-XXXVII-cfp
 Category: 2025
 City: Firenze
 Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
