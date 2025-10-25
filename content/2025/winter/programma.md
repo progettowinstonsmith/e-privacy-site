@@ -49,13 +49,9 @@ Di fatto, nonostante il GDPR e altre normative, tutto ciò che abbiamo pubblicat
 <br/>
 I video del Convegno presenti in questa pagina **sono pubblicati su [Youtube](https://www.youtube.com/@ProgettoWinstonSmith).**
 <br/>
-**Per fruirli senza cedere dati personali**, possono essere scaricati dal nostro server (ferro gestito da noi, non cloud), e fruiti in locale, usando questi link:
-<br/>
-- [23 mattina](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_23_10_2025_mattina.mp4)
-<br/>
-- [23 pomeriggio](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_23_10_2025_pomeriggio.mp4)
-<br/>
-- [24 mattina](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_24_10_2025_mattina.mp4)
+**Per fruirli senza cedere dati personali**, possono essere scaricati dal nostro server (ferro gestito da noi, non cloud), e fruiti in locale, usando questi link: [23 mattina](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_23_10_2025_mattina.mp4), 
+[23 pomeriggio](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_23_10_2025_pomeriggio.mp4),
+[24 mattina](https://e-privacy.winstonsmith.org/materiali/2025we/video/e-privacy_2025_XXXVII_winter_edition_-_24_10_2025_mattina.mp4).
 <br/>
 <br/>
 Legenda: 
@@ -66,8 +62,8 @@ Icona | Descrizione | Icona | Descrizione
 ![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![ppt](/images/icon/handouts.png) | Handouts (PDF)|
 ![mp3](/images/icon/audio.png) | Audio | ![mp4](/images/icon/video.png) | Video |
 ![URL](/images/icon/link.png) | Link online | ![-](/images/icon/tech.svg) | Intervento Tecnologico
-<br/>
 
+<br/>
 #### <a name="1gm"></a>Giovedì 23 ottobre 2025 - mattina
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TijDKI_XFxc?si=Jt4J4prQ4_DfvaKG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
