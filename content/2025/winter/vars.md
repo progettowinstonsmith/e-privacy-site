@@ -24,6 +24,5 @@ Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
 When: 23-24 ottobre
 Where: Firenze & Streaming
 Year: 2025
-
-
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b><br><i>"La paranoia è una virtù, ed i paranoici sono degli ottimisti"</i><br/><b>Cassandra</b><br/>
 
