@@ -27,7 +27,6 @@ Timeline: 1 settembre | 30 settembre | 19 ottobre
 When: 23-24 ottobre
 Where: Firenze & Streaming
 Year: 2025
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
 
 <h2>Dove è la sede</h2>
 

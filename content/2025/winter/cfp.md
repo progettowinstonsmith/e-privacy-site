@@ -27,7 +27,7 @@ XOptions: toc:nil
 XStatus: draft
 XStatus: hidden
 Year: 2025
-Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b>
+Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b><br><i>"La paranoia è una virtù, ed i paranoici sono degli ottimisti"</i><br/><b>Cassandra</b><br/>
 Organizzatori: pws
 Collaboratori: isgroup
 Sponsor: gpdp, sikurezza.org, cgt, ush, onif, hermes, sepel, lopez, faro
