@@ -28,7 +28,7 @@ City: Firenze
 Category: 2025
 Slogan: <i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i><br/><b>V (da John Basil Barnhill)</b><br><i>"La paranoia è una virtù, ed i paranoici sono degli ottimisti"</i><br/><b>Cassandra</b><br/>
 
-**Pubblicati gli atti e le registrazioni video del convegno**
+**Pubblicati gli atti e le registrazioni video del convegno** 
 
 Il **23 e 24 ottobre 2025** si è tenuto a Firenze **e-privacy 2025 winter edition**.
  Il tema guida della XXXVII edizione è stato:
