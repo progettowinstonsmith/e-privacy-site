@@ -10,21 +10,21 @@ from __future__ import unicode_literals
 
 ##### Configurazioni per il sync 
 
-EDITION = 36
+EDITION = 37
 RELAZIONI = 'talks'
 RELATORI = 'curricula'
-EPRIVACY_N = 'XXXVII'
+EPRIVACY_N = 'XXXVIII'
 SESSIONI = '1M,1P,2M'.split(',')
 ORGANIZZATORI = ['calamari', 'giorio', 'somma', 'berto', 'priolo', 'smith']
-EVENT_PATH = 'content/2025/winter/'
-YEAR = u'2025'
-EDITION = 'winter'
+EVENT_PATH = 'content/2026/summer/'
+YEAR = u'2026'
+EDITION = 'summer'
 SITENAME = u'e-privacy 2025 winter: Misurare l’Umano? Dal Vitruviano all’Algoritmo'
-IMAGE='e-privacy-XXXVII.jpeg'  
+IMAGE='e-privacy-XXXVIII.jpeg'  
 PROPOSALS_OPEN = True
 
 COUNTDOWN = False
-EVENT_TIME = '2025/10/23 10:00'
+EVENT_TIME = '2026/04/24 09:30'
 
 # Queste variabili vengono passata a submit-propostatalk.py
 SUBMIT_SETTINGS = {
@@ -120,8 +120,8 @@ DELETE_OUTPUT_DIRECTORY = True
 
 
 THIS = (
-     ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
-#     ('Consegna Slides', '/consegna-slides.html'),
+#     ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
+     ('Consegna Slides', '/consegna-slides.html'),
      ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
      ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-come-arrivare.html'),
      ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
