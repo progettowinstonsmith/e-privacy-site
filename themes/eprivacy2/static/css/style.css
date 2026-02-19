@@ -154,9 +154,10 @@ div.e-container {
 
 div.e-num {
     z-index: 100;
-    font-size: 4em;
+    font-size: 3.5em;
     text-align: center;
     color: rgb(1.,1.,1.);
+    white-space: nowrap;
     text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
                0 3px 0 #bbb,
@@ -589,8 +590,9 @@ h4 {
 }
 
 .edizione-num {
-  font-size: 0.75em;
+  font-size: 0.65em;
   color: #888;
+  white-space: nowrap;
 }
 
 .edizioni-tabella td:first-child {
