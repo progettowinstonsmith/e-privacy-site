@@ -29,32 +29,14 @@ Year: 2026
 
 # e-privacy XXXVIII @ Firenze
 
-<div class="HTML" id="org4a9d7a3">
-<p>
-&lt;div class="title-XXXIV"&gt;«Moneta elettronica e altri traccianti»&lt;/div&gt;
-</p>
+<div class="title-XXXVIII">«Privacy senza Garante o Garante senza Privacy?»</div>
 
-<p>
-&lt;div class="subtitle-XXXIV"&gt;Il contante, i documenti fisici, le auto disconnesse come strumenti di libertà&lt;/div&gt;
-</p>
+<div class="subtitle-XXXVIII">Processo al Garante per la Protezione dei Dati Personali</div>
 
-<p>
-&lt;br&gt;
-</p>
+<br>
 
-</div>
-
-«Privacy senza Garante o Garante senza Privacy?»
-
-Processo al Garante per la Protezione dei Dati Personali
-
-<div class="HTML" id="orgc0accb2">
-<p>
-&lt;!&#x2013; b class="avviso"&gt;Attenzione:&lt;/b&gt; Questa edizione di e-privacy sarà a numero chiuso. 
-Per iscriversi in lista d'attesa per l'accesso compilare questo &lt;a href="/iscrizione-lista-dattesa-eprivacy.html"&gt;form&lt;/a&gt;. Grazie. &#x2013;&gt;
-</p>
-
-</div>
+<!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
+Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie. -->
 
 
 ## Call for Paper
@@ -162,7 +144,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="org05778f3"></a>Temi suggeriti (non esaustivi)
+## <a id="org3095833"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
