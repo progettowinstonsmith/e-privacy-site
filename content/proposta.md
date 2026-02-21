@@ -1,31 +1,34 @@
 Slug: e-privacy-proposta-talk
-Category: 2025
+Category: 2026
 City: Firenze
-Css: .title-XXXVII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVII { font: 18px arial, sans-serif; text-align: center; }
-Date: 23/01/2025
-Edition: winter
+Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVIII { font: 18px arial, sans-serif; text-align: center; }
+Date: 20/02/2026
+Edition: summer
 Enabled: yes
-Eprivacy_N: XXXVII
-Event_Path: content/2025/winter
+Eprivacy_N: XXXVIII
+Event_Path: content/2026/summer
 Extra-Documents: nil
-Giorni: 23 e 24 ottobre 2025
+Giorni: 24 aprile
 Lang: it
 Location: Firenze
 Next: 
 Nextid: 
-Num: XXXVII
+Num: XXXVIII
 Options: toc:nil
-Prev: e-privacy-XXXVI
-Previd: 2025
-Season: winter
-XStatus: hidden
-Subtitle: TBA
-Timeline: 28 marzo | 7 aprile | 12 maggio
-Title: Misurare l’Umano? Dal Vitruviano all’Algoritmo
-When: 23-24 ottobre
-Where: TBA
-Year: 2025
-Template: form
+Prev: e-privacy-XXXVII
+Previd: 2025W
+Season: summer
+Status: published
+Subtitle: Processo al Garante per la Protezione dei Dati Personali
+Timeline: 15 marzo | 20 marzo | 17 aprile
+Title: Privacy senza Garante o Garante senza Privacy?
+When: 24 aprile 2026
+Where: Sala conferenze dell'Infopoint
+Year: 2026
+
+
+
+
 
 <div id="form_wrapper_propostatalk" class="form_wrapper">
     <form autocomplete="false" role="form" method="post" action="/cgi-bin/submit-propostatalk.py" id="form_propostatalk" data--form="propostatalk" enctype="multipart/form-data">
