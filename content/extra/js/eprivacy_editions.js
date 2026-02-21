@@ -356,7 +356,7 @@ const eprivacyLocations = [
   },
   {
     "year": "2026",
-    "when": "Winter",
+    "when": "Summer",
     "city": "Firenze",
     "where": "Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI",
     "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXVIII.html",
