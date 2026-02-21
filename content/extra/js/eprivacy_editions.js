@@ -266,7 +266,7 @@ const eprivacyLocations = [
   },
   {
     "year": "2021",
-    "when": "Winter",
+    "when": "Extra",
     "city": "covid",
     "where": "http://127.0.0.1",
     "link": "https://e-privacy.winstonsmith.org/e-privacy-29e3quarti.html",

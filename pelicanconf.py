@@ -407,7 +407,7 @@ ALL_EDIZIONI = [
         },
     }),
     (2021, {
-        'winter': {
+        'extra': {
             'city': 'covid',
             'link': '/e-privacy-29e3quarti.html',
             'edition': '29e3quarti',
