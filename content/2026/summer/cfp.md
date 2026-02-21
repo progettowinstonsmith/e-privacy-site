@@ -46,7 +46,7 @@ Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscriz
 ## Call for Paper
 
   Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
-trentaseiesima edizione di e-privacy, che si terrà in presenza ed in
+trentottesima edizione di e-privacy, che si terrà in presenza ed in
 videoconferenza il 24 aprile a Firenze.
 
 
@@ -148,7 +148,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="orgc61ca16"></a>Temi suggeriti (non esaustivi)
+## <a id="org142ca08"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
