@@ -152,7 +152,7 @@ const eprivacyLocations = [
     "when": "Winter",
     "city": "Cagliari",
     "where": "Mediateca del Mediterraneo, Via Goffredo Mameli, 164, 09123 Cagliari CA",
-    "link": "https://e-privacy.winstonsmith.org/e-privacy-XVIII.html ",
+    "link": "https://e-privacy.winstonsmith.org/e-privacy-XVIII.html",
     "lat": 39.2215273,
     "lon": 9.1045885
   },
@@ -223,7 +223,7 @@ const eprivacyLocations = [
     "year": "2018",
     "when": "Spring",
     "city": "Bologna",
-    "where": "Biblioteca Salaborsa, Piazza Nettuno 3, 40124 Bologna ",
+    "where": "Biblioteca Salaborsa, Piazza Nettuno 3, 40124 Bologna",
     "link": "https://e-privacy.winstonsmith.org/e-privacy-XXIII.html",
     "lat": 44.4936714,
     "lon": 11.3430347
