@@ -11,13 +11,16 @@ Extra-Documents: nil
 Giorni: 24 aprile
 Lang: it
 Location: Firenze
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Next: 
 Nextid: 
 Num: XXXVIII
 Options: toc:nil
+Organizzatori: pws
 Prev: e-privacy-XXXVII
 Previd: 2025W
 Season: summer
+Sponsor: hermes
 Status: published
 Subtitle: Processo al Garante per la Protezione dei Dati Personali
 Timeline: 15 marzo | 20 marzo | 17 aprile
@@ -145,7 +148,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="org66efe20"></a>Temi suggeriti (non esaustivi)
+## <a id="orgc766152"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
