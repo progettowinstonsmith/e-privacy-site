@@ -148,7 +148,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="orgfe21da3"></a>Temi suggeriti (non esaustivi)
+## <a id="orgbfaf6f7"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
