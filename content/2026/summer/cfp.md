@@ -56,7 +56,9 @@ La protezione della privacy in Europa è scivolata lungo un piano
 inclinato, passando da imperativo etico a feticcio burocratico. Mentre
 il cittadino si barcamena in un mare di consensi estorti da banner che
 nascondono centinaia di partner silenti, la tutela reale appare
-intermittente e, troppo spesso, opaca. La contraddizione è manifesta; un
+intermittente e, troppo spesso, opaca.
+
+La contraddizione è manifesta; un
 apparato legislativo tra i più temibili al mondo genera, nella pratica,
 una messa cantata della conformità che non protegge l'individuo e non
 guida il mercato, ma produce costi di adempimento che solo i grandi
@@ -148,7 +150,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="orgbfaf6f7"></a>Temi suggeriti (non esaustivi)
+## <a id="org3f91dc7"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
