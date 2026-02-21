@@ -478,7 +478,7 @@ ALL_EDIZIONI = [
         },
     }),
     (2021, {
-        'winter': {
+        'extra': {
             'city': 'covid',
             'link': '/e-privacy-29e3quarti.html',
             'edition': '29e3quarti',
@@ -568,7 +568,7 @@ ALL_EDIZIONI = [
         },
     }),
     (2026, {
-       'winter': {
+       'summer': {
             'city': 'Firenze',
             'link': '/e-privacy-XXXVIII.html',
             'edition': 'XXXVIII',
