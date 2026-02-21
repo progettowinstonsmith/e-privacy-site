@@ -18,7 +18,7 @@ Options: toc:nil
 Prev: e-privacy-XXXVII
 Previd: 2025W
 Season: summer
-Status: hidden
+Status: published
 Subtitle: Processo al Garante per la Protezione dei Dati Personali
 Timeline: 15 marzo | 20 marzo | 17 aprile
 Title: Privacy senza Garante o Garante senza Privacy?

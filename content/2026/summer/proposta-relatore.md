@@ -8,7 +8,7 @@ Enabled: yes
 Eprivacy_N: XXXVIII
 Event_Path: content/2026/summer
 Extra-Documents: nil
-Giorni: 24 aprile 2026
+Giorni: 24 aprile
 Lang: it
 Location: Firenze
 Next: 
@@ -16,10 +16,11 @@ Nextid:
 Num: XXXVIII
 Options: toc:nil
 Prev: e-privacy-XXXVII
+Previd: 2025W
 Season: summer
-Status: hidden
-Subtitle: Privacy senza Garante o Garante senza Privacy?
-Timeline: 15 marzo | 1 aprile | 20 aprile
+Status: published
+Subtitle: Processo al Garante per la Protezione dei Dati Personali
+Timeline: 15 marzo | 20 marzo | 17 aprile
 Title: Privacy senza Garante o Garante senza Privacy?
 When: 24 aprile 2026
 Where: Sala conferenze dell'Infopoint
