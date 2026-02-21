@@ -108,10 +108,10 @@
         {% include 'countdown.html' %}
         {% include 'pws-button.html' %}
 
-        {% if THIS %}
+        {% if LATERAL_BAR %}
         <h5 class="sidebar-title">{{ THIS_TITLE  }}</h5>
         <ul class="side-nav">
-        {% for name, link in THIS %}
+        {% for name, link in LATERAL_BAR %}
             <li><a href="{{ link }}">{{ name }}</a></li>
         {% endfor %}
         </ul>
