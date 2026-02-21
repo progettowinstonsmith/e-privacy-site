@@ -1,7 +1,7 @@
 Template: event
 XStatus: draft
 Date: 2025-10-27 10:18:29
-Slug: e-privacy-XXXVII-programma
+Slug: e-privacy-XXXVII
 Year: 2025
 Where: Firenze & Streaming
 When: 23-24 ottobre
@@ -14,8 +14,8 @@ Previd: 2025
 Prev: e-privacy-XXXVI
 Options: toc:nil
 Num: XXXVII
-Nextid: 
-Next: 
+Nextid: 2026 
+Next: e-privacy-XXXVIII-cfp
 Location: Firenze
 Lang: it
 Giorni: 23 e 24 ottobre 2025
