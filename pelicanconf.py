@@ -497,8 +497,7 @@ ALL_EDIZIONI = [
         },
     }),
     (2026, {
-       'summer
-       ': {
+       'summer': {
             'city': 'Firenze',
             'link': '/e-privacy-XXXVIII.html',
             'edition': 'XXXVIII',
