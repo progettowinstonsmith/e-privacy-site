@@ -148,7 +148,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="orgc766152"></a>Temi suggeriti (non esaustivi)
+## <a id="orgc61ca16"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
@@ -166,7 +166,7 @@ esercizio di potere.
 
 **Le modalità di presentazione delle proposte e di candidatura ai ruoli
 nel Processo dovranno pervenire al Comitato Scientifico entro domenica
-15 marzo 2026, e sono indicate sul sito del Convegno**
+15 marzo 2026, e saranno disponibili sul sito del Convegno da lunedì 23 febbraio.**
 
 
 # Gli interventi
