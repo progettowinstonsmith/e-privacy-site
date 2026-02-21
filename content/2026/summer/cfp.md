@@ -20,7 +20,7 @@ Organizzatori: pws
 Prev: e-privacy-XXXVII
 Previd: 2025W
 Season: summer
-Sponsor: hermes
+Sponsor: hermes, sikurezza
 Status: published
 Subtitle: Processo al Garante per la Protezione dei Dati Personali
 Timeline: 15 marzo | 20 marzo | 17 aprile
@@ -148,7 +148,7 @@ esercizio di potere.
     giuridica.
 
 
-## <a id="org142ca08"></a>Temi suggeriti (non esaustivi)
+## <a id="orgfe21da3"></a>Temi suggeriti (non esaustivi)
 
 -   Indipendenza dei garanti: garanzie, nomine, stabilità del mandato.
 -   Trasparenza istruttoria e criteri di priorità: cosa è verificabile e
