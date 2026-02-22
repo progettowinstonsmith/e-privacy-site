@@ -13,6 +13,7 @@ Nextid:
 Num: XXXVIII
 Options: toc:nil
 Prev: e-privacy-XXXVII
+Previd: 2025W
 Season: summer
 Subtitle: Processo al Garante per la Protezione dei Dati Personali
 Timeline: 15 marzo | 20 marzo | 17 aprile
