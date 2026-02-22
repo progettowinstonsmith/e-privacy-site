@@ -23,10 +23,11 @@ Where: Sala conferenze dell'Infopoint
 Year: 2026
 Date: 21/02/2026
 Enabled: yes
-Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
-Organizzatori: pws
 Slug: e-privacy-XXXVIII-cfp
-Sponsor: hermes, sikurezza.org
+Organizzatori: pws
+Collaboratori: hermes
+Sponsor: sikurezza.org, sepel
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Status: published
 
 # e-privacy XXXVIII @ Firenze
@@ -37,7 +38,7 @@ Status: published
 
 <br>
 
-<!-- b class="avviso">Attenzione:</b> Questa edizione di e-privacy sarà a numero chiuso. 
+<!-- b class="avviso">Attenzione: Questa edizione di e-privacy sarà a numero chiuso. </b>
 Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscrizione-lista-dattesa-eprivacy.html">form</a>. Grazie. -->
 
 
