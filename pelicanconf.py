@@ -515,7 +515,7 @@ JINJA_GLOBALS = {
 
 AUTHOR = u'Winston Smith'
 SITESUBTITLE = u'<br/><br/><br/><i>"I popoli non dovrebbero temere i propri governi: sono i governi che dovrebbero temere i propri popoli."</i> - V (da John Basil Barnhill) '
-SITEURL = ''
+SITEURL = 'test.winstonsmith.org'
 #SITEURL = 'https://e-privacy.winstonsmith.org'
 OLDSITE = 'https://e-privacy.winstonsmith.org'
 
@@ -601,3 +601,4 @@ ARCHIVES_SAVE_AS = ''
 YEAR_ARCHIVE_SAVE_AS = ''
 MONTH_ARCHIVE_SAVE_AS = ''
 DAY_ARCHIVE_SAVE_AS = ''
+IGNORE_FILES = ['.*', '*~', '#*#', 'vars.md']
