@@ -21,11 +21,11 @@ Title: Privacy senza Garante o Garante senza Privacy?
 When: 24 aprile 2026
 Where: Sala conferenze dell'Infopoint
 Year: 2026
+Collaboratori: hermes, isgroup
 Date: 21/02/2026
 Enabled: yes
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
-Collaboratori: hermes, isgroup
 Slug: e-privacy-XXXVIII-cfp
 Sponsor: sikurezza.org, sepel, lopez, faro
 Status: published
@@ -165,9 +165,9 @@ esercizio di potere.
     co-regolazione.
 -   Privacy e potere: chi controlla il controllore.
 
-**Le modalità di presentazione delle proposte e di candidatura ai ruoli
+**Le proposte di relazione ed eventuali candidatura ai ruoli
 nel Processo dovranno pervenire al Comitato Scientifico entro domenica
-15 marzo 2026, e saranno disponibili sul sito del Convegno da lunedì 23 febbraio.**
+15 marzo 2026; la loro accettazione sarà comunicate agli interessati entro il 20 marzo.**
 
 
 # Gli interventi
