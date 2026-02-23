@@ -165,7 +165,7 @@ esercizio di potere.
     co-regolazione.
 -   Privacy e potere: chi controlla il controllore.
 
-**Le proposte di relazione ed eventuali candidatura ai ruoli
+**Le proposte di relazione ed eventuali candidature ai ruoli
 nel Processo dovranno pervenire al Comitato Scientifico entro domenica
 15 marzo 2026; la loro accettazione sarà comunicate agli interessati entro il 20 marzo.**
 
