@@ -27,7 +27,7 @@ Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
 Collaboratori: hermes, isgroup
 Slug: e-privacy-XXXVIII-cfp
-Sponsor: sikurezza.org, sepel
+Sponsor: sikurezza.org, sepel, lopez, faro
 Status: published
 
 # e-privacy XXXVIII @ Firenze
