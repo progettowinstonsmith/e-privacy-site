@@ -20,7 +20,7 @@ EVENT_PATH = 'content/2026/summer/'
 YEAR = '2026'
 EDITION = 'summer'
 SITENAME = 'e-privacy 2026 summer: Privacy senza Garante o Garante senza Privacy?'
-IMAGE = 'e-privacy-XXXVIII.jpeg'
+IMAGE = 'e-privacy-XXXVIII.png'
 PROPOSALS_OPEN = True
 
 COUNTDOWN = False
