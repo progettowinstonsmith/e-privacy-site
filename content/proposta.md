@@ -85,17 +85,11 @@ Year: 2026
             <div id="form_propostatalk_sessioni" data-validate="sessioni" data-validation-type="checkboxgrp" class="form-row form-checkboxgrp form-field-7 form-required">
                 <label class="form-label" for="form_checkboxgrp_checkbox_sessioni_PrimogiornoMattina1">Sessioni</label>
                 <span class="form-helpmessage">Quando potresti essere presente (scegline anche più di una)</span>
-                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_1GM0" type="checkbox" value="1GM">
-                    <label id="form_checkboxgrp_label_sessioni_1GM0" for="form_checkboxgrp_checkbox_sessioni_1GM0" class="form-checkboxgrp-label">Primo giorno - Mattina</label>
+                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_1M0" type="checkbox" value="1M">
+                    <label id="form_checkboxgrp_label_sessioni_1M0" for="form_checkboxgrp_checkbox_sessioni_1M0" class="form-checkboxgrp-label">Primo giorno - Mattina</label>
                 </div>
-                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_1GP1" type="checkbox" value="1GP">
-                    <label id="form_checkboxgrp_label_sessioni_1GP1" for="form_checkboxgrp_checkbox_sessioni_1GP1" class="form-checkboxgrp-label">Primo giorno - Pomeriggio</label>
-                </div>
-                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_2GM2" type="checkbox" value="2GM">
-                    <label id="form_checkboxgrp_label_sessioni_2GM2" for="form_checkboxgrp_checkbox_sessioni_2GM2" class="form-checkboxgrp-label">Secondo giorno - Mattina</label>
-                </div>
-                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_2GP3" type="checkbox" value="2GP">
-                    <label id="form_checkboxgrp_label_sessioni_2GP3" for="form_checkboxgrp_checkbox_sessioni_2GP3" class="form-checkboxgrp-label">Secondo giorno - Pomeriggio (non ancora previsto)</label>
+                <div class="form-checkboxgrp-row">                    <input class="form-checkboxgrp-checkbox" name="form[sessioni][]" id="form_checkboxgrp_checkbox_sessioni_1P1" type="checkbox" value="1P">
+                    <label id="form_checkboxgrp_label_sessioni_1P1" for="form_checkboxgrp_checkbox_sessioni_1P1" class="form-checkboxgrp-label">Primo giorno - Pomeriggio</label>
                 </div>
                 <span class="form-errormsg" style="display: none;">Scegli comunque per favore, anche tutte</span>
             </div>
