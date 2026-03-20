@@ -601,4 +601,4 @@ ARCHIVES_SAVE_AS = ''
 YEAR_ARCHIVE_SAVE_AS = ''
 MONTH_ARCHIVE_SAVE_AS = ''
 DAY_ARCHIVE_SAVE_AS = ''
-IGNORE_FILES = ['.*', '*~', '#*#', 'vars.md']
+IGNORE_FILES = ['.*', '*~', '#*#', 'vars.md', '*_head.md', '*_tail.md']
