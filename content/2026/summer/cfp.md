@@ -24,10 +24,10 @@ Year: 2026
 Collaboratori: hermes, isgroup
 Date: 21/02/2026
 Enabled: yes
-Mediapartner: infomedia, aneddotica, lealternative, hackerjournal, onif
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
 Slug: e-privacy-XXXVIII-cfp
-Sponsor: sikurezza.org, sepel, lopez, faro, ush
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
 Status: published
 
 # e-privacy XXXVIII @ Firenze
