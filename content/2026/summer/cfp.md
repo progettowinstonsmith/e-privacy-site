@@ -22,7 +22,7 @@ When: 24 aprile 2026
 Where: Sala conferenze dell'Infopoint
 Year: 2026
 Collaboratori: hermes, isgroup
-Date: 21/02/2026
+Date: 23/03/2026
 Enabled: yes
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
