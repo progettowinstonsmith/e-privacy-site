@@ -1,6 +1,6 @@
 Template: event
 Date: 2026-03-22 00:37:35
-Slug: e-privacy-XXXVIII-email
+Slug: e-privacy-XXXVIII-mail
 Year: 2026
 Where: Sala conferenze dell'Infopoint
 When: 24 aprile 2026
