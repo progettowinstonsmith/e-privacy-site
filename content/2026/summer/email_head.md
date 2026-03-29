@@ -25,7 +25,7 @@ enabled: no
 locked: no
 status: draft
 
-<span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVIII-mail.html">qui</a></font></span>
+<span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVIII-email.html">qui</a></font></span>
 <br/><br/>
 Caro Relatore,
 
