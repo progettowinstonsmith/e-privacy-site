@@ -21,9 +21,9 @@ YEAR = '2026'
 EDITION = 'summer'
 SITENAME = 'e-privacy 2026 summer: Privacy senza Garante o Garante senza Privacy?'
 IMAGE = 'e-privacy-XXXVIII.png'
-PROPOSALS_OPEN = True
+PROPOSALS_OPEN = False
 
-COUNTDOWN = False
+COUNTDOWN = True
 EVENT_TIME = '2026/04/24 09:30'
 
 LIVE_AT=False
@@ -36,17 +36,16 @@ LIVE_URL="https://www.youtube.com/watch?v=m58flx5d1qI"
 
 ### CONFIGURAZIONE BARRA LATERALE
 
-LATERAL_BAR = (
+LATERAL_BAR = [
     # [ ] ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
     # [ ] ('Consegna Slides', '/consegna-slides.html'),
-    ('Proposta Talk', '/e-privacy-proposta-talk.html'),
     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
     ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
     ('Contatti', '/contatti.html'),
-)
+]
 
 
 
@@ -494,6 +493,9 @@ ALL_EDIZIONI = [(2002,
 
 #####
 
+
+if PROPOSALS_OPEN:
+    LATERAL_BAR.insert(0,('Proposta Talk', '/e-privacy-proposta-talk.html'))
 
 THIS_TITLE = f"e-privacy {YEAR} {EDITION}"
 

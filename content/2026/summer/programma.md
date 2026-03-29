@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-03-21 17:59:18
+Date: 2026-04-01 20:00:00
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -56,35 +56,36 @@ attori possono assorbire senza scosse.
 
 ## Il programma del Convegno
 
-<style>
-.pws-program-wrap{display:grid;gap:.9rem}
-.pws-tabs{display:flex;flex-wrap:wrap;gap:.45rem}
-.pws-tab{border:1px solid #334155;background:#0b1220;color:#cbd5e1;border-radius:999px;padding:.42rem .72rem;cursor:pointer;font-weight:600}
-.pws-tab.active{background:#1d4ed8;border-color:#1d4ed8;color:#eff6ff}
-.pws-panel{display:none}.pws-panel.active{display:block}
-.pws-chair{margin:.35rem 0 .75rem 0;color:#64748b;font-size:.95rem}
-.pws-cards{display:grid;gap:.55rem}
-.pws-card{border:1px solid #334155;border-radius:12px;background:#0f172a;padding:.66rem .7rem;display:grid;grid-template-columns:minmax(108px,16%) 1fr auto;gap:.64rem;align-items:center}
-.pws-time{font-size:1.52rem;font-weight:800;color:#0f172a;background:#e2e8f0;border-radius:10px;padding:.24rem .44rem;text-align:center;line-height:1.1}
-.pws-main{display:grid;gap:.22rem}
-.pws-speaker{font-size:.92rem;color:#cbd5e1;line-height:1.35}.pws-speaker a{color:#cbd5e1}
-.pws-title{font-weight:700;font-size:1.03rem;line-height:1.25}.pws-title a{color:#f8fafc;text-decoration:none}
-.pws-side{display:grid;justify-items:end;align-content:start}.pws-duration{font-size:.78rem;color:#94a3b8}
-.pws-break .pws-title{font-weight:500}
-</style>
-<div class='pws-program-wrap'><div class='pws-tabs'><button type='button' class='pws-tab active' data-target='pws-session-0'>24 aprile 2026 - mattina</button><button type='button' class='pws-tab' data-target='pws-session-1'>24 aprile 2026 - pomeriggio</button></div><section id='pws-session-0' class='pws-panel active'><p class='pws-chair'>Modera: calamari</p><div class='pws-cards'><article class='pws-card' id='1m01-card'><div class='pws-time'>09:30</div><div class='pws-main'><div class='pws-speaker'>Marco Calamari</div><div class='pws-title'><a name='1m01'></a><a href='/e-privacy-XXXVIII-interventi.html#1m01'>Apertura dei lavori</a></div></div><div class='pws-side'><div class='pws-duration'>10m</div></div></article><article class='pws-card' id='1m02-card'><div class='pws-time'>09:40</div><div class='pws-main'><div class='pws-speaker'>TBA</div><div class='pws-title'><a name='1m02'></a><a href='/e-privacy-XXXVIII-interventi.html#1m02'>Saluti istituzionali</a></div></div><div class='pws-side'><div class='pws-duration'>5m</div></div></article><article class='pws-card' id='1m03-card'><div class='pws-time'>09:45</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#diego-giorio'>Diego GIORIO (SEPEL Editrice)</a></div><div class='pws-title'><a name='1m03'></a><a href='/e-privacy-XXXVIII-interventi.html#1m03'>Ma io cosa farei?</a></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card' id='1m04-card'><div class='pws-time'>10:15</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#monica-gobbato'>Monica Gobbato (Privacy Academy)</a></div><div class='pws-title'><a name='1m04'></a><a href='/e-privacy-XXXVIII-interventi.html#1m04'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></div></div><div class='pws-side'><div class='pws-duration'>45m</div></div></article><article class='pws-card' id='1m05-card'><div class='pws-time'>11:00</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#simone-aliprandi'>Simone Aliprandi</a></div><div class='pws-title'><a name='1m05'></a><a href='/e-privacy-XXXVIII-interventi.html#1m05'>Il Codice Etico, questo sconosciuto</a></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card pws-break'><div class='pws-time'>11:30</div><div class='pws-main'><div class='pws-speaker'>-</div><div class='pws-title'><em>Coffee Break</em></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card' id='1m07-card'><div class='pws-time'>12:00</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#valentino-spataro'>Valentino Spataro (IusOnDemand srl)</a></div><div class='pws-title'><a name='1m07'></a><a href='/e-privacy-XXXVIII-interventi.html#1m07'>La privacy e le interpretazioni non intuitive</a></div></div><div class='pws-side'><div class='pws-duration'>20m</div></div></article><article class='pws-card' id='1m08-card'><div class='pws-time'>12:20</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#rebecca-berto'>Rebecca Berto</a></div><div class='pws-title'><a name='1m08'></a><a href='/e-privacy-XXXVIII-interventi.html#1m08'>Società interconnessa e l’effettività dei rimedi</a></div></div><div class='pws-side'><div class='pws-duration'>20m</div></div></article><article class='pws-card' id='1m09-card'><div class='pws-time'>12:40</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#edoardo-ferri'>Edoardo Ferri (Il Cibernetico)</a></div><div class='pws-title'><a name='1m09'></a><a href='/e-privacy-XXXVIII-interventi.html#1m09'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></div></div><div class='pws-side'><div class='pws-duration'>20m</div></div></article><article class='pws-card' id='1m10-card'><div class='pws-time'>13:00</div><div class='pws-main'><div class='pws-speaker'>Marco Calamari</div><div class='pws-title'><a name='1m10'></a><a href='/e-privacy-XXXVIII-interventi.html#1m10'>Chiusura sessione</a></div></div><div class='pws-side'><div class='pws-duration'>5m</div></div></article></div></section><section id='pws-session-1' class='pws-panel'><p class='pws-chair'>Modera: berto</p><div class='pws-cards'><article class='pws-card' id='1p01-card'><div class='pws-time'>15:00</div><div class='pws-main'><div class='pws-speaker'>Rebecca Berto</div><div class='pws-title'><a name='1p01'></a><a href='/e-privacy-XXXVIII-interventi.html#1p01'>Apertura lavori</a></div></div><div class='pws-side'><div class='pws-duration'>5m</div></div></article><article class='pws-card' id='1p02-card'><div class='pws-time'>15:05</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#simone-aliprandi'>Simone Aliprandi</a></div><div class='pws-title'><a name='1p02'></a><a href='/e-privacy-XXXVIII-interventi.html#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card' id='1p03-card'><div class='pws-time'>15:35</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#francesca-vignali'>Francesca Vignali (Avvocato)</a> e <a href='/e-privacy-XXXVIII-relatori.html#gabriele-zanoni'>Gabriele Zanoni</a></div><div class='pws-title'><a name='1p03'></a><a href='/e-privacy-XXXVIII-interventi.html#1p03'>Successione dei beni digitali: Aspetti legali e tecnici</a></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card' id='1p04-card'><div class='pws-time'>16:05</div><div class='pws-main'><div class='pws-speaker'><a href='/e-privacy-XXXVIII-relatori.html#raffaele-zallone'>Raffaele Zallone</a></div><div class='pws-title'><a name='1p04'></a><a href='/e-privacy-XXXVIII-interventi.html#1p04'>l'Eurapoa val bene una birra</a></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card pws-break'><div class='pws-time'>16:35</div><div class='pws-main'><div class='pws-speaker'>-</div><div class='pws-title'><em>Coffee Break</em></div></div><div class='pws-side'><div class='pws-duration'>30m</div></div></article><article class='pws-card' id='1p06-card'><div class='pws-time'>17:05</div><div class='pws-main'><div class='pws-speaker'>Carlo Blengino</div><div class='pws-title'><a name='1p06'></a><a href='/e-privacy-XXXVIII-interventi.html#1p06'>Processo al Garante</a></div></div><div class='pws-side'><div class='pws-duration'>60m</div></div></article><article class='pws-card' id='1p07-card'><div class='pws-time'>18:05</div><div class='pws-main'><div class='pws-speaker'>Marco Calamari</div><div class='pws-title'><a name='1p07'></a><a href='/e-privacy-XXXVIII-interventi.html#1p07'>Chiusura dei lavori</a></div></div><div class='pws-side'><div class='pws-duration'>5m</div></div></article></div></section></div>
-<script>
-(function(){
-const root=document.currentScript&&document.currentScript.previousElementSibling;
-if(!root)return;
-const tabs=root.querySelectorAll('.pws-tab[data-target]');
-tabs.forEach((btn)=>btn.addEventListener('click',()=>{
-const t=btn.getAttribute('data-target');
-tabs.forEach((x)=>x.classList.toggle('active',x===btn));
-root.querySelectorAll('.pws-panel').forEach((p)=>p.classList.toggle('active',p.id===t));
-}));
-})();
-</script>
+#### 24 aprile 2026 - mattina
+
+* Modera: [Marco Calamari](/e-privacy-XXXVIII-relatori.html#marco-calamari)
+
+**Ora** | Durata | **Relatore**<br/> **Titolo**
+------- | --- | -------
+09:30|5|<a name='1m01'></a>Marco Calamari<br/>Apertura della sessione
+09:35|5|<a name='1m02'></a>TBA<br/>Saluti istituzionali
+09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*
+10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
+10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
+10:50|30|*Coffee Break*
+11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
+11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
+12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
+12:45|5|<a name='1m10'></a>Marco Calamari<br/>Chiusura sessione
+
+#### 24 aprile 2026 - pomeriggio
+
+* Modera: [Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)
+
+**Ora** | Durata | **Relatore**<br/> **Titolo**
+------- | --- | -------
+15:00|5|<a name='1p01'></a>Rebecca Berto<br/>Apertura lavori
+15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
+15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Eurapoa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
+16:35|30|*Coffee Break*
+17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
+18:05|5|<a name='1p07'></a>Marco Calamari<br/>Chiusura dei lavori
 
 ### Gli organizzatori
 

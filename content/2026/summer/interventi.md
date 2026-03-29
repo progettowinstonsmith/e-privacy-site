@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-03-21 17:59:18
+Date: 2026-04-01 19:59:58
 Slug: e-privacy-XXXVIII-interventi
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -28,22 +28,40 @@ Category: 2026
 
 ## <a name="talks"></a>Gli interventi
 
-#### <a name="1m03"></a> Ma io cosa farei?<a href='/e-privacy-XXXVIII-programma.html#1m03-card'>⇧</a>
-[Diego GIORIO (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)
+#### <a name="1m03"></a> [Ma io cosa farei?](/e-privacy-XXXVIII-programma.html#1m03) [⇧](/e-privacy-XXXVIII-programma.html#1m03)
+[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)
 
 È facile criticare dall’esterno, ma molto più difficile è prendere le decisioni corrette. Pertanto cosa si dovrebbe fare per gestire correttamente il ciclo di vita di un Collegio, a partire dalla nomina, proseguendo per l’attività ordinaria di monitoraggio, divulgazione, assistenza e repressione, fino alla ripresa della professione precedente? Come garantire una scelta obiettiva, selezionando le persone sulla base delle migliori caratteristiche e non su una simpatia politica? Quali sono queste caratteristiche, dato che un Garante ha diversi ruoli, che vanno dal preparare gli opuscoli all’irrorare sanzioni milionarie? Come garantire che un membro del Collegio sia totalmente super partes e non pensi a quando dovrà riprendere in mano la propria carriera? Soprattutto, come garantire che la necessaria indipendenza non si trasformi in un apparato al di sopra della legge? Non ho risposte definitive, ma forse qualche riflessione insieme possiamo farla.
 
-#### <a name="1m04"></a> Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza<a href='/e-privacy-XXXVIII-programma.html#1m04-card'>⇧</a>
-[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato)
+#### <a name="1m04"></a> [Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-programma.html#1m04) [⇧](/e-privacy-XXXVIII-programma.html#1m04)
+[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)
 
-La nostra strategia difensiva mira a riaffermare l&#x27;indipendenza organica del Garante, la cui stabilità di mandato è scudo necessario contro ogni interferenza esterna, inclusa quella giudiziaria. Si contesterà l&#x27;ipotesi di pre-giudizio, chiarendo come la comunicazione mediatica non debba mai anticipare la decisione, ma debba invece adempiere ad un equilibrato dovere di trasparenza e prevenzione del danno. Infine, si evidenzierà la natura della privacy come diritto assoluto e indisponibile: un bene non contrattabile né sacrificabile alle logiche dell’audience, la cui tutela costituisce il perimetro invalicabile dell&#x27;azione dell&#x27;Autorità.
+Relazione su data retention, legalità e tutela dei diritti: il difficile equilibrio tra privacy e sicurezza nel sistema giudiziario.
 
-#### <a name="1m05"></a> Il Codice Etico, questo sconosciuto<a href='/e-privacy-XXXVIII-programma.html#1m05-card'>⇧</a>
-[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)
+Partendo dal principio che la legalità è fondamento della libertà ordinata, la sicurezza rappresenta una precondizione essenziale per l'esercizio dei diritti. La data retention (conservazione dei metadati esterni alle comunicazioni) è il nodo critico su cui si gioca il bilanciamento tra diritto alla privacy e capacità dello Stato di individuare i responsabili di violazioni.
 
-Uno degli aspetti più inaccettabili della triste vicenda che ha investito l&#x27;attuale Collegio del Garante Privacy è che buona parte dei comportamenti inopportuni segnalati sia dai giornalisti sia dagli inquirenti sarebbero comunque espressamente vietate dal Codice Etico approvato nel 2000 sotto la gestione Rodotà (regolamento n. 1/2000) e tutt&#x27;ora in vigore? Chiunque sia dotato di senso civico e cultura delle istituzioni si sarà chiesto: a chi spettava far rispettare quelle norme etiche? Quali sono i meccanismi di enforcement di un codice come quello (che rischia di rimanere solo un atto simbolico, una mera dichiarazione di intenti, un documento per sentirsi a posto con la coscienza)? L&#x27;autonomia amministrativa e gestionale del GPDP non può essere il pretesto per ignorare totalmente un codice come quello. Nell&#x27;intervento verranno messe in luce le norme del codice etico palesemente violate e si rifletterà su eventuali rimedi affinché non si verifichi ancora una situazione simile.
+Analisi delle posizioni della Corte di Giustizia UE e del Garante Privacy italiano:
+- Interpretazione restrittiva della CGUE (solo criminalità grave) che paradossalmente riduce la capacità investigativa senza diminuire i dati conservati
+- Forzature ermeneutiche del Garante italiano (2008) nel qualificare metadati telematici come equiparati al contenuto, eccedendo le proprie competenze
+- Incoerenza nei criteri applicati: tolleranza verso conservazioni commerciali (fino a 15-20 anni) ma severità verso esigenze di giustizia
 
-#### <a name="1m07"></a> La privacy e le interpretazioni non intuitive<a href='/e-privacy-XXXVIII-programma.html#1m07-card'>⇧</a>
+Tre capi di accusa all'Autorità:
+1. Aver limitato conservazione dati necessari all'accertamento, violando artt. 111 Cost. e 9 GDPR
+2. Aver articolato fattispecie indeterminate, violando il principio di ragionevolezza e certezza del diritto
+3. Aver ecceduto i poteri, producendo conseguenze sull'applicabilità del codice di procedura penale
+
+Prospettiva storica: dal 1996 ad oggi, con focus su sentenze CGUE e provvedimenti Garante. Disponibile anche come contributo di supporto su temi giuridici correlati.
+
+#### <a name="1m05"></a> [Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-programma.html#1m05) [⇧](/e-privacy-XXXVIII-programma.html#1m05)
+[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)
+
+La Direttiva NIS2 (2022/2555), recepita in Italia con il D.Lgs. 138/2024, impone alle organizzazioni soggette l&#x27;adozione di capacità strutturate di monitoraggio continuo, rilevamento degli incidenti e risposta. Nella pratica, la stragrande maggioranza delle organizzazioni — anche di dimensioni medie — non dispone internamente delle competenze necessarie e ricorre a servizi gestiti: il SOC (Security Operations Center) esternalizzato, erogato tipicamente sotto forma di MDR (Managed Detection and Response).
+
+Ma cosa accade realmente ai dati di un&#x27;organizzazione quando vengono consegnati a un fornitore MDR?
+
+L&#x27;intervento intende svelare, con approccio tecnico-forense, la filiera reale del SOC esternalizzato o del software utilizzato per il SOC interno
+
+#### <a name="1m07"></a> [La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-programma.html#1m07) [⇧](/e-privacy-XXXVIII-programma.html#1m07)
 [Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)
 
 La relazione esplora le interpretazioni meno ovvie del GDPR e delle normative italiane recenti, dove la teoria si scontra con casi concreti spesso controintuitivi. Si analizzano ambiti critici come l’uso di videosorveglianza per sinistri, la registrazione audio non preventiva, la gestione dei log e dei metadati (con il limite dei 21 giorni), e le responsabilità di titolari e fornitori software, anche alla luce delle sanzioni del Garante Privacy. Particolare attenzione è dedicata ai servizi rivolti ai minori, ai dati pubblici tra ePrivacy e legittimo interesse, e alla cybersecurity come strumento di minimizzazione del rischio.
@@ -71,7 +89,12 @@ Temi:
 
 - cybersecurity e minimizzazione
 
-#### <a name="1m08"></a> Società interconnessa e l’effettività dei rimedi<a href='/e-privacy-XXXVIII-programma.html#1m08-card'>⇧</a>
+#### <a name="1m08"></a> [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-programma.html#1m08) [⇧](/e-privacy-XXXVIII-programma.html#1m08)
+[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato)
+
+La nostra strategia difensiva mira a riaffermare l&#x27;indipendenza organica del Garante, la cui stabilità di mandato è scudo necessario contro ogni interferenza esterna, inclusa quella giudiziaria. Si contesterà l&#x27;ipotesi di pre-giudizio, chiarendo come la comunicazione mediatica non debba mai anticipare la decisione, ma debba invece adempiere ad un equilibrato dovere di trasparenza e prevenzione del danno. Infine, si evidenzierà la natura della privacy come diritto assoluto e indisponibile: un bene non contrattabile né sacrificabile alle logiche dell’audience, la cui tutela costituisce il perimetro invalicabile dell&#x27;azione dell&#x27;Autorità.
+
+#### <a name="1m09"></a> [Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-programma.html#1m09) [⇧](/e-privacy-XXXVIII-programma.html#1m09)
 [Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)
 
 La società contemporanea è sempre più interconnessa ed i dati personali sono considerati il nuovo “petrolio:” per esempio realtà virtuale, oggetti fisici sono dotati di sensori, social network rendono i protagonisti della società, cittadini, imprese e pubblica amministrazione, sempre più interdipendenti.
@@ -79,26 +102,17 @@ Tale interconnessione trasforma la natura delle richieste di tutela da nazionale
 Tuttavia le norme procedurali europee, che dovrebbero fornire una risposta moderna a tali richieste, rimangono ancorate al principio di accesso alla giustizia e pare essere trascurato il principio dell’effettività del rimedio. Naturalmente è sempre fatto salvo, il diritto del singolo di rivolgersi all’autorità giudiziaria: in concreto significa avvalersi di un rimedio previsto dalla procedura nazionale per una questione che ha natura intra-comunitaria. 
 Ma tale approccio è tutt’ora in grado di rispondere alle esigenze di tutela emergenti da una società interconnessa?
 
-#### <a name="1m09"></a> Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile<a href='/e-privacy-XXXVIII-programma.html#1m09-card'>⇧</a>
-[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)
-
-La Direttiva NIS2 (2022/2555), recepita in Italia con il D.Lgs. 138/2024, impone alle organizzazioni soggette l&#x27;adozione di capacità strutturate di monitoraggio continuo, rilevamento degli incidenti e risposta. Nella pratica, la stragrande maggioranza delle organizzazioni — anche di dimensioni medie — non dispone internamente delle competenze necessarie e ricorre a servizi gestiti: il SOC (Security Operations Center) esternalizzato, erogato tipicamente sotto forma di MDR (Managed Detection and Response).
-
-Ma cosa accade realmente ai dati di un&#x27;organizzazione quando vengono consegnati a un fornitore MDR?
-
-L&#x27;intervento intende svelare, con approccio tecnico-forense, la filiera reale del SOC esternalizzato o del software utilizzato per il SOC interno
-
-#### <a name="1p02"></a> Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali<a href='/e-privacy-XXXVIII-programma.html#1p02-card'>⇧</a>
+#### <a name="1p02"></a> [Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-programma.html#1p02) [⇧](/e-privacy-XXXVIII-programma.html#1p02)
 [Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)
 
 In questo intervento vorrei condividere la mia storia di circa tre anni di tentativi mirati a sollevare i gravi problemi istituzionali di questa autorità, poi emersi interamente nelle più recenti inchieste giornalistiche. Ho presentato sia accessi civici, sia segnalazioni ad ANAC, sia denunce penali, ma al momento sembra che nulla abbia scalfito il tipico muro di gomma della pubblica amministrazione centrale. Posso fornire qualche dettaglio più specifico sulle varie iniziative intraprese e sulle risposte ricevute (o più che altro sui mancati riscontri) e contestualmente proporrei qualche riflessione di natura giuridica e di corretta gestione delle istituzioni.
 
-#### <a name="1p03"></a> Successione dei beni digitali: Aspetti legali e tecnici<a href='/e-privacy-XXXVIII-programma.html#1p03-card'>⇧</a>
+#### <a name="1p03"></a> [Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-programma.html#1p03) [⇧](/e-privacy-XXXVIII-programma.html#1p03)
 [Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)
 
 Il talk esplora l&#x27;eredità digitale al crocevia tra diritto successorio, regole dei provider e sicurezza informatica, illustrando i metodi di trasmissione successoria dei beni digitali (partendo dal legato di password fino alla gestione delle memorie in cloud), superando il paradosso tra privacy post-mortem e diritti degli eredi, evitando il &quot;buio digitale&quot; e la dispersione del patrimonio immateriale.
 
-#### <a name="1p04"></a> l'Eurapoa val bene una birra<a href='/e-privacy-XXXVIII-programma.html#1p04-card'>⇧</a>
+#### <a name="1p04"></a> [l'Eurapoa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04) [⇧](/e-privacy-XXXVIII-programma.html#1p04)
 [Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)
 
 L’EUROPA VAL BENE UNA BIRRA (e con questo mi schiero dalla parte dell’accusa)
@@ -115,7 +129,8 @@ D.	Una valutazione complessiva
  
 Lo scopo dell’intervento è quello di sollecitare una riflessione critica e complessiva sullo stato della attuazione della privacy, cosa è stato fatto e come, cosa si poteva fare e non è stato fatto, e quali sono le responsabilità ed a chi attribuirle
 
-#### <a name="1p06"></a> Processo al Garante<a href='/e-privacy-XXXVIII-programma.html#1p06-card'>⇧</a>
-Carlo Blengino
+#### <a name="1p06"></a> [Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-programma.html#1p06) [⇧](/e-privacy-XXXVIII-programma.html#1p06)
+Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)
+Partecipano: TBA
 
 -
