@@ -29,23 +29,17 @@ status: draft
 <br/><br/>
 Caro Relatore,
 
-è con piacere che ti comunichiamo l'accettazione della tua proposta di intervento SE seguirai le istruzioni di questa mail.
+c'è stata una piccola variazione sul programma iniziale che riguarda sostanzialmente la mattina e i relatori
 
-Il programma è in fondo a questa mail oppure online a <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVII-programma.html">https://e-privacy.winstonsmith.org/e-privacy-XXXVIII-programma.html</a>
+Ferri, Gobbato, Aliprandi, Rossi e Spataro
 
-Cosa devi fare adesso?  ****Rispondi SUBITO a questo messaggio.****
+per gli altri non ci sono state sostanziali variazioni
 
-La risposta deve arrivarci PRIMA POSSIBILE, e comunque non oltre 24 ore e deve essere POSITIVA oppure NEGATIVA se non intendi più partecipare.
+Il programma definitivo è in fondo a questa mail oppure online a <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXVII-programma.html">https://e-privacy.winstonsmith.org/e-privacy-XXXVIII-programma.html</a>
 
-La domanda a cui devi rispondere è:
+Cosa devi fare adesso?  ****Niente.****
 
-1. Confermi la tua disponibilità a presentare la relazione nella  data/ora/posto indicata?
-
-Rispondi esplicitamente per favore. ORA!
-
-Se la risposta non ci giunge entro 24 ore o se non è esplicitamente positiva, la collocazione del tuo intervento potrebbe non essere quella indicata e comunque non garantiamo di poter fare alcuno spostamento eventualmente richiesto.
-
-Verifica anche il testo della tua descrizione dell'intervento e anche la tua biografia (che sono sempre in calce a questo stesso messaggio o online). Se noti altri errori, comunicalo per favore rispondendo a questa mail.
+Il programma è definitivo.
 
 Per contatti più diretti se non sei stato aggiunto al gruppo Telegram (a causa delle tue configurazioni di privacy) puoi sempre accedere con questo link:
 
