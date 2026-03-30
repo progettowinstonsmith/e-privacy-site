@@ -90,7 +90,7 @@ Temi:
 - cybersecurity e minimizzazione
 
 #### <a name="1m08"></a> [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-programma.html#1m08) [⇧](/e-privacy-XXXVIII-programma.html#1m08)
-[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato)
+[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)
 
 La nostra strategia difensiva mira a riaffermare l&#x27;indipendenza organica del Garante, la cui stabilità di mandato è scudo necessario contro ogni interferenza esterna, inclusa quella giudiziaria. Si contesterà l&#x27;ipotesi di pre-giudizio, chiarendo come la comunicazione mediatica non debba mai anticipare la decisione, ma debba invece adempiere ad un equilibrato dovere di trasparenza e prevenzione del danno. Infine, si evidenzierà la natura della privacy come diritto assoluto e indisponibile: un bene non contrattabile né sacrificabile alle logiche dell’audience, la cui tutela costituisce il perimetro invalicabile dell&#x27;azione dell&#x27;Autorità.
 

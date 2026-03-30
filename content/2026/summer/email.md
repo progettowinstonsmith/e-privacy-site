@@ -71,7 +71,7 @@ Programma del Convegno
 10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em></span>
 10:50|30|<span class='talk'><em>Coffee Break</em></span>
 11:20|20|<span class='talk' id='1m07-programma'>[Valentino Spataro (IusOnDemand srl)](#valentino-spataro)<br/><em><a href='#1m07'>La privacy e le interpretazioni non intuitive</a></em></span>
-11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em></span>
+11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em></span>
 12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em></span>
 12:45|5|<span class='talk' id='1m10-programma'>Marco Calamari<br/><em><a href='#1m10'>Chiusura sessione</a></em></span>
 
@@ -154,7 +154,7 @@ Temi:
 - cybersecurity e minimizzazione
 
 #### <a name="1m08"></a> Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza<a href='#1m08'>⇧</a>
-[Monica Gobbato (Privacy Academy)](#monica-gobbato)
+[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)
 
 La nostra strategia difensiva mira a riaffermare l&#x27;indipendenza organica del Garante, la cui stabilità di mandato è scudo necessario contro ogni interferenza esterna, inclusa quella giudiziaria. Si contesterà l&#x27;ipotesi di pre-giudizio, chiarendo come la comunicazione mediatica non debba mai anticipare la decisione, ma debba invece adempiere ad un equilibrato dovere di trasparenza e prevenzione del danno. Infine, si evidenzierà la natura della privacy come diritto assoluto e indisponibile: un bene non contrattabile né sacrificabile alle logiche dell’audience, la cui tutela costituisce il perimetro invalicabile dell&#x27;azione dell&#x27;Autorità.
 
@@ -240,6 +240,12 @@ Ad e-privacy presenta [Ma io cosa farei?](#1m03).
 ### <a name='monica-gobbato'></a>Monica Gobbato (Privacy Academy) <a href='#1m08'>⇧</a>
 
 Avvocato, Presidente Privacy Academy e Data Protection Officer. Responsabile di Corsi Specialistici per DPO e AI. Docente a contratto per l&#x27;Università Ca&#x27; Foscari sia su Privacy che AI. E&#x27; autrice di diverse monografie in tema di Privacy e diritto dell&#x27;informatica. È inoltre membro dell&#x27;EDPBoard (Gruppo di Lavoro dei Garanti Privacy Europei) dal 2022. Autrice e speaker. Dopo diversi testi giuridici nel 2024 ha pubblicato il suo primo Romanzo :&quot;Assassinio in Crociera&quot; vincitore del Premio Book and Go del TTG 2025.
+
+Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](#1m08).
+
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch Informatich.ch) <a href='#1m08'>⇧</a>
+
+Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, con esperienza nella consulenza legale per imprese e start-up in ambito digitale. Vice Presidente e Cofounder di LawBoat, è anche Socia e Responsabile dell’Area Legale di InformatiCH Sagl, dove si occupa di compliance normativa, privacy, AI governance e formazione aziendale. Unisce competenze giuridiche e visione strategica per accompagnare l’innovazione in modo etico e sostenibile.
 
 Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](#1m08).
 

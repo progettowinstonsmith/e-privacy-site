@@ -70,6 +70,12 @@ Avvocato, Presidente Privacy Academy e Data Protection Officer. Responsabile di 
 
 Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-programma.html#1m08).
 
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch Informatich.ch) [⇧](/e-privacy-XXXVIII-programma.html#1m08)
+
+Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, con esperienza nella consulenza legale per imprese e start-up in ambito digitale. Vice Presidente e Cofounder di LawBoat, è anche Socia e Responsabile dell’Area Legale di InformatiCH Sagl, dove si occupa di compliance normativa, privacy, AI governance e formazione aziendale. Unisce competenze giuridiche e visione strategica per accompagnare l’innovazione in modo etico e sostenibile.
+
+Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-programma.html#1m08).
+
 ### <a name='andrea-rossi'></a>Andrea Rossi (SECSI) [⇧](/e-privacy-XXXVIII-programma.html#1m04)
 
 Data Protection Officer presso SECSI

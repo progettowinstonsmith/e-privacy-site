@@ -69,7 +69,7 @@ attori possono assorbire senza scosse.
 10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
 10:50|30|*Coffee Break*
 11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
-11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
+11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
 12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
 12:45|5|<a name='1m10'></a>Marco Calamari<br/>Chiusura sessione
 
