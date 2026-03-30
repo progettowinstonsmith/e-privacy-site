@@ -24,6 +24,9 @@ Year: 2026
 enabled: no
 locked: no
 status: draft
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
+Organizzatori: pws
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
 
 # e-privacy XXXVIII @ Firenze
 
