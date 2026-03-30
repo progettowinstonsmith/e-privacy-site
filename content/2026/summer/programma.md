@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-01 20:00:00
+Date: 2026-04-01 00:00:00
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
