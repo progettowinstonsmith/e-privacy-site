@@ -100,7 +100,7 @@ Già direttore legale, IBM Italia
 2000 - 2005 professore di diritto della informatica, Università Bocconi, Milano
 2022  ad oggi: Comitato Europeo per la protezione dei dati (EDPB), membro dello European Support Group
 
-Ad e-privacy presenta [l'Eurapoa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04).
+Ad e-privacy presenta [l'Eurapa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04).
 
 ### <a name='gabriele-zanoni'></a>Gabriele Zanoni [⇧](/e-privacy-XXXVIII-programma.html#1p03)
 

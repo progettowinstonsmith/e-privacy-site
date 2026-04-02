@@ -84,7 +84,7 @@ Programma del Convegno
 15:00|5|<span class='talk' id='1p01-programma'>Rebecca Berto<br/><em><a href='#1p01'>Apertura lavori</a></em></span>
 15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em></span>
 15:35|30|<span class='talk' id='1p03-programma'>[Francesca Vignali (Avvocato)](#francesca-vignali) e [Gabriele Zanoni](#gabriele-zanoni)<br/><em><a href='#1p03'>Successione dei beni digitali: Aspetti legali e tecnici</a></em></span>
-16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Eurapoa val bene una birra</a></em></span>
+16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Eurapa val bene una birra</a></em></span>
 16:35|30|<span class='talk'><em>Coffee Break</em></span>
 17:05|60|<span class='talk' id='1p06-programma'><em><a href='#1p06'>Processo all'Autorità Garante per la protezione dei dati personali</a></em><br/>Moderato da: Carlo Blengino<br/>Partecipano: TBA</span>
 18:05|5|<span class='talk' id='1p07-programma'>Marco Calamari<br/><em><a href='#1p07'>Chiusura dei lavori</a></em></span>
@@ -176,7 +176,7 @@ In questo intervento vorrei condividere la mia storia di circa tre anni di tenta
 
 Il talk esplora l&#x27;eredità digitale al crocevia tra diritto successorio, regole dei provider e sicurezza informatica, illustrando i metodi di trasmissione successoria dei beni digitali (partendo dal legato di password fino alla gestione delle memorie in cloud), superando il paradosso tra privacy post-mortem e diritti degli eredi, evitando il &quot;buio digitale&quot; e la dispersione del patrimonio immateriale.
 
-#### <a name="1p04"></a> l'Eurapoa val bene una birra<a href='#1p04'>⇧</a>
+#### <a name="1p04"></a> l'Eurapa val bene una birra<a href='#1p04'>⇧</a>
 [Raffaele Zallone](#raffaele-zallone)
 
 L’EUROPA VAL BENE UNA BIRRA (e con questo mi schiero dalla parte dell’accusa)
@@ -273,7 +273,7 @@ Già direttore legale, IBM Italia
 2000 - 2005 professore di diritto della informatica, Università Bocconi, Milano
 2022  ad oggi: Comitato Europeo per la protezione dei dati (EDPB), membro dello European Support Group
 
-Ad e-privacy presenta [l'Eurapoa val bene una birra](#1p04).
+Ad e-privacy presenta [l'Eurapa val bene una birra](#1p04).
 
 ### <a name='gabriele-zanoni'></a>Gabriele Zanoni <a href='#1p03'>⇧</a>
 
