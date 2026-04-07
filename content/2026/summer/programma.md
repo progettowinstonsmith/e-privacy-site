@@ -1,33 +1,33 @@
-Template: event
-Date: 2026-04-01 00:00:00
-Slug: e-privacy-XXXVIII-programma
-Year: 2026
-Where: Sala conferenze dell'Infopoint
-When: 24 aprile 2026
-Title: Privacy senza Garante o Garante senza Privacy?
-Timeline: 15 marzo | 20 marzo | 17 aprile
-Subtitle: Processo al Garante per la Protezione dei Dati Personali
-Status: published
-Season: summer
-Previd: 2025W
-Prev: e-privacy-XXXVII
-Options: toc:nil
-Num: XXXVIII
-Nextid: 
-Next: 
-Location: Firenze
-Lang: it
-Giorni: 24 aprile
-Extra-Documents: nil
-Event_Path: content/2026/summer
-Eprivacy_N: XXXVIII
-Edition: summer
-Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVIII { font: 18px arial, sans-serif; text-align: center; }
-City: Firenze
 Category: 2026
+City: Firenze
+Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVIII { font: 18px arial, sans-serif; text-align: center; }
+Edition: summer
+Eprivacy_N: XXXVIII
+Event_Path: content/2026/summer
+Extra-Documents: nil
+Giorni: 24 aprile
+Lang: it
+Location: Firenze
+Next:
+Nextid:
+Num: XXXVIII
+Options: toc:nil
+Prev: e-privacy-XXXVII
+Previd: 2025W
+Season: summer
+Subtitle: Processo al Garante per la Protezione dei Dati Personali
+Timeline: 15 marzo | 20 marzo | 17 aprile
+Title: Privacy senza Garante o Garante senza Privacy?
+When: 24 aprile 2026
+Where: Sala conferenze dell'Infopoint
+Year: 2026
+Date: 2026-04-01 00:00:00
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
+Slug: e-privacy-XXXVIII-programma
 Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
+Status: published
+Template: event
 
 # e-privacy XXXVIII @ Firenze
 
@@ -85,7 +85,7 @@ attori possono assorbire senza scosse.
 15:00|5|<a name='1p01'></a>Rebecca Berto<br/>Apertura lavori
 15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Eurapa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
 18:05|5|<a name='1p07'></a>Marco Calamari<br/>Chiusura dei lavori
