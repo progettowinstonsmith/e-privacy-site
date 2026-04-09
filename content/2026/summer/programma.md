@@ -24,6 +24,7 @@ Year: 2026
 Date: 2026-04-01 00:00:00
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
+Collaboratori: hermes, isgroup
 Slug: e-privacy-XXXVIII-programma
 Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
 Status: published
