@@ -23,10 +23,11 @@ Where: Sala conferenze dell'Infopoint
 Year: 2026
 enabled: no
 locked: no
-status: draft
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
 Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
+Collaboratori: hermes, isgroup
+status: draft
 
 # e-privacy XXXVIII @ Firenze
 
