@@ -82,7 +82,7 @@ Data Protection Officer presso SECSI
 
 Ad e-privacy presenta [Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-programma.html#1m04).
 
-### <a name='laura-sparavigna'></a>Laura Sparavigna [⇧](/e-privacy-XXXVIII-programma.html#1m02)
+### <a name='laura-sparavigna'></a>Laura Sparavigna (Comune di Firenze) [⇧](/e-privacy-XXXVIII-programma.html#1m02)
 
 Assessora del Comune di Firenze a Organizzazione e Personale, Efficienza amministrativa, Anagrafe, Protezione civile, Servizi informativi, Smart city e Innovazione, Intelligenza nartificiale
 

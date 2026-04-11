@@ -65,7 +65,7 @@ Programma del Convegno
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari<br/><em>Apertura della sessione</em></span>
-09:35|5|<span class='talk' id='1m02-programma'>Laura Sparavigna<br/><em>Saluti istituzionali</em></span>
+09:35|5|<span class='talk' id='1m02-programma'>Laura Sparavigna (Comune di Firenze)<br/><em>Saluti istituzionali</em></span>
 09:40|30|<span class='talk' id='1m03-programma'>[Diego Giorio (SEPEL Editrice)](#diego-giorio)<br/><em><a href='#1m03'>Ma io cosa farei?</a></em></span>
 10:10|20|<span class='talk' id='1m04-programma'>[Andrea Rossi (SECSI)](#andrea-rossi)<br/><em><a href='#1m04'>Processo all'Autorità Garante per la protezione dei dati personali</a></em></span>
 10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em></span>
@@ -255,7 +255,7 @@ Data Protection Officer presso SECSI
 
 Ad e-privacy presenta [Processo all'Autorità Garante per la protezione dei dati personali](#1m04).
 
-### <a name='laura-sparavigna'></a>Laura Sparavigna <a href='#1m02'>⇧</a>
+### <a name='laura-sparavigna'></a>Laura Sparavigna (Comune di Firenze) <a href='#1m02'>⇧</a>
 
 Assessora del Comune di Firenze a Organizzazione e Personale, Efficienza amministrativa, Anagrafe, Protezione civile, Servizi informativi, Smart city e Innovazione, Intelligenza nartificiale
 
