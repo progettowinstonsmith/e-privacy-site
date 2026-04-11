@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-03-31 23:59:59
+Date: 2026-04-09 23:59:59
 Slug: e-privacy-XXXVIII-relatori
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -81,6 +81,12 @@ Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Gara
 Data Protection Officer presso SECSI
 
 Ad e-privacy presenta [Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-programma.html#1m04).
+
+### <a name='laura-sparavigna'></a>Laura Sparavigna [⇧](/e-privacy-XXXVIII-programma.html#1m02)
+
+Assessora del Comune di Firenze a Organizzazione e Personale, Efficienza amministrativa, Anagrafe, Protezione civile, Servizi informativi, Smart city e Innovazione, Intelligenza nartificiale
+
+Ad e-privacy presenta [Saluti istituzionali](/e-privacy-XXXVIII-programma.html#1m02).
 
 ### <a name='valentino-spataro'></a>Valentino Spataro (IusOnDemand srl) [⇧](/e-privacy-XXXVIII-programma.html#1m07)
 

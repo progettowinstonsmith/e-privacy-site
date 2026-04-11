@@ -1,34 +1,34 @@
-Category: 2026
-City: Firenze
-Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVIII { font: 18px arial, sans-serif; text-align: center; }
-Edition: summer
-Eprivacy_N: XXXVIII
-Event_Path: content/2026/summer
-Extra-Documents: nil
-Giorni: 24 aprile
-Lang: it
-Location: Firenze
-Next:
-Nextid:
-Num: XXXVIII
-Options: toc:nil
-Prev: e-privacy-XXXVII
-Previd: 2025W
-Season: summer
-Subtitle: Processo al Garante per la Protezione dei Dati Personali
-Timeline: 15 marzo | 20 marzo | 17 aprile
-Title: Privacy senza Garante o Garante senza Privacy?
-When: 24 aprile 2026
-Where: Sala conferenze dell'Infopoint
+Template: event
+Date: 2026-04-10 00:00:00
+Slug: e-privacy-XXXVIII-programma
 Year: 2026
-Date: 2026-04-01 00:00:00
+Where: Sala conferenze dell'Infopoint
+When: 24 aprile 2026
+Title: Privacy senza Garante o Garante senza Privacy?
+Timeline: 15 marzo | 20 marzo | 17 aprile
+Subtitle: Processo al Garante per la Protezione dei Dati Personali
+Status: published
+Season: summer
+Previd: 2025W
+Prev: e-privacy-XXXVII
+Options: toc:nil
+Num: XXXVIII
+Nextid: 
+Next: 
+Location: Firenze
+Lang: it
+Giorni: 24 aprile
+Extra-Documents: nil
+Event_Path: content/2026/summer
+Eprivacy_N: XXXVIII
+Edition: summer
+Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXVIII { font: 18px arial, sans-serif; text-align: center; }
+City: Firenze
+Category: 2026
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
-Collaboratori: hermes, isgroup
-Slug: e-privacy-XXXVIII-programma
 Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
-Status: published
-Template: event
+Collaboratori: hermes, isgroup
 
 # e-privacy XXXVIII @ Firenze
 
@@ -38,7 +38,7 @@ Template: event
 
 <br>
 
-  Il *Progetto Winston Smith* è lieto di invitarti alla
+  Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
 trentottesima edizione di e-privacy, che si terrà in presenza ed in
 videoconferenza il 24 aprile a Firenze.
 
@@ -66,8 +66,8 @@ attori possono assorbire senza scosse.
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<a name='1m01'></a>Marco Calamari<br/>Apertura della sessione
-09:35|5|<a name='1m02'></a>TBA<br/>Saluti istituzionali
+09:30|5|<a name='1m01'></a>Marco Calamari<br/>*Apertura della sessione*
+09:35|5|<a name='1m02'></a>[Laura Sparavigna](/e-privacy-XXXVIII-relatori.html#laura-sparavigna)<br/>*Saluti istituzionali*
 09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*
 10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
 10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
@@ -75,7 +75,7 @@ attori possono assorbire senza scosse.
 11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
 11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
 12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
-12:45|5|<a name='1m10'></a>Marco Calamari<br/>Chiusura sessione
+12:45|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
 
 #### 24 aprile 2026 - pomeriggio
 
@@ -83,13 +83,13 @@ attori possono assorbire senza scosse.
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-15:00|5|<a name='1p01'></a>Rebecca Berto<br/>Apertura lavori
+15:00|5|<a name='1p01'></a>Rebecca Berto<br/>*Apertura lavori*
 15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Eurapa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
-18:05|5|<a name='1p07'></a>Marco Calamari<br/>Chiusura dei lavori
+18:05|5|<a name='1p07'></a>Marco Calamari<br/>*Chiusura dei lavori*
 
 ### Gli organizzatori
 

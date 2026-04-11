@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-03-31 23:59:57
+Date: 2026-04-09 23:59:57
 Slug: e-privacy-XXXVIII-email
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -64,8 +64,8 @@ Programma del Convegno
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari<br/><em><a href='#1m01'>Apertura della sessione</a></em></span>
-09:35|5|<span class='talk' id='1m02-programma'>TBA<br/><em><a href='#1m02'>Saluti istituzionali</a></em></span>
+09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari<br/><em>Apertura della sessione</em></span>
+09:35|5|<span class='talk' id='1m02-programma'>Laura Sparavigna<br/><em>Saluti istituzionali</em></span>
 09:40|30|<span class='talk' id='1m03-programma'>[Diego Giorio (SEPEL Editrice)](#diego-giorio)<br/><em><a href='#1m03'>Ma io cosa farei?</a></em></span>
 10:10|20|<span class='talk' id='1m04-programma'>[Andrea Rossi (SECSI)](#andrea-rossi)<br/><em><a href='#1m04'>Processo all'Autorità Garante per la protezione dei dati personali</a></em></span>
 10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em></span>
@@ -73,7 +73,7 @@ Programma del Convegno
 11:20|20|<span class='talk' id='1m07-programma'>[Valentino Spataro (IusOnDemand srl)](#valentino-spataro)<br/><em><a href='#1m07'>La privacy e le interpretazioni non intuitive</a></em></span>
 11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em></span>
 12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em></span>
-12:45|5|<span class='talk' id='1m10-programma'>Marco Calamari<br/><em><a href='#1m10'>Chiusura sessione</a></em></span>
+12:45|5|<span class='talk' id='1m10-programma'>Marco Calamari<br/><em>Chiusura sessione</em></span>
 
 #### 24 aprile 2026 - pomeriggio
 
@@ -81,13 +81,13 @@ Programma del Convegno
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-15:00|5|<span class='talk' id='1p01-programma'>Rebecca Berto<br/><em><a href='#1p01'>Apertura lavori</a></em></span>
+15:00|5|<span class='talk' id='1p01-programma'>Rebecca Berto<br/><em>Apertura lavori</em></span>
 15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em></span>
 15:35|30|<span class='talk' id='1p03-programma'>[Francesca Vignali (Avvocato)](#francesca-vignali) e [Gabriele Zanoni](#gabriele-zanoni)<br/><em><a href='#1p03'>Successione dei beni digitali: Aspetti legali e tecnici</a></em></span>
 16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Eurapa val bene una birra</a></em></span>
 16:35|30|<span class='talk'><em>Coffee Break</em></span>
 17:05|60|<span class='talk' id='1p06-programma'><em><a href='#1p06'>Processo all'Autorità Garante per la protezione dei dati personali</a></em><br/>Moderato da: Carlo Blengino<br/>Partecipano: TBA</span>
-18:05|5|<span class='talk' id='1p07-programma'>Marco Calamari<br/><em><a href='#1p07'>Chiusura dei lavori</a></em></span>
+18:05|5|<span class='talk' id='1p07-programma'>Marco Calamari<br/><em>Chiusura dei lavori</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
@@ -254,6 +254,12 @@ Ad e-privacy presenta [Collegio di difesa - Oltre lo Scoop: La Funzione del Gara
 Data Protection Officer presso SECSI
 
 Ad e-privacy presenta [Processo all'Autorità Garante per la protezione dei dati personali](#1m04).
+
+### <a name='laura-sparavigna'></a>Laura Sparavigna <a href='#1m02'>⇧</a>
+
+Assessora del Comune di Firenze a Organizzazione e Personale, Efficienza amministrativa, Anagrafe, Protezione civile, Servizi informativi, Smart city e Innovazione, Intelligenza nartificiale
+
+Ad e-privacy presenta [Saluti istituzionali](#1m02).
 
 ### <a name='valentino-spataro'></a>Valentino Spataro (IusOnDemand srl) <a href='#1m07'>⇧</a>
 
