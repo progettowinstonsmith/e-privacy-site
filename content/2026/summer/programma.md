@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-10 00:00:00
+Date: 2026-04-11 23:09:27
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -60,22 +60,22 @@ attori possono assorbire senza scosse.
 
 ## Il programma del Convegno
 
-#### 24 aprile 2026 - mattina
+#### Sessione 1M
 
-* Modera: [Marco Calamari](/e-privacy-XXXVIII-relatori.html#marco-calamari)
+* Modera: -
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<a name='1m01'></a>Marco Calamari<br/>*Apertura della sessione*
-09:35|5|<a name='1m02'></a>[Laura Sparavigna](/e-privacy-XXXVIII-relatori.html#laura-sparavigna) (Comune di Firenze)<br/>*Saluti istituzionali*
-09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*
-10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
-10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
-10:50|30|*Coffee Break*
-11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
-11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
-12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
-12:45|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
+09:00|5|<a name='1m01'></a>Marco Calamari<br/>*Apertura della sessione*
+09:05|5|<a name='1m02'></a>[Laura Sparavigna](/e-privacy-XXXVIII-relatori.html#laura-sparavigna) (Comune di Firenze)<br/>*Saluti istituzionali*
+09:10|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*<br/><a href="/api/program/candidates/6/assets/2/download"><img alt="slides" src="/images/icon/presentation-ppt.png"></a>
+09:40|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
+10:00|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
+10:20|30|*Coffee Break*
+10:50|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
+11:10|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
+11:55|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
+12:15|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
 
 #### 24 aprile 2026 - pomeriggio
 
@@ -86,10 +86,20 @@ attori possono assorbire senza scosse.
 15:00|5|<a name='1p01'></a>Rebecca Berto<br/>*Apertura lavori*
 15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Eurapa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Eurapa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="/api/program/candidates/3/assets/1/download"><img alt="slides" src="/images/icon/presentation-ppt.png"></a>
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
 18:05|5|<a name='1p07'></a>Marco Calamari<br/>*Chiusura dei lavori*
+
+
+## Legenda risorse
+
+Icona | Descrizione | Icona | Descrizione
+---- | ---- | ----- | ----
+![pdf](/images/icon/presentation.png) | Presentazione (PDF) | ![doc](/images/icon/document.png) | Documento (PDF)
+![ppt](/images/icon/presentation-ppt.png) | Presentazione (modificabile) | ![handouts](/images/icon/handouts.png) | Handouts (PDF)
+![audio](/images/icon/audio.png) | Audio | ![video](/images/icon/video.png) | Video
+![link](/images/icon/link.png) | Link online | ![tech](/images/icon/tech.svg) | Intervento Tecnologico
 
 ### Gli organizzatori
 
