@@ -49,6 +49,7 @@ LATERAL_BAR = [
 
 
 
+
 # CONFIGURAZIONE Social widget
 LINKS = (
     ('Progetto Winston Smith', 'https://pws.winstonsmith.org/'),
