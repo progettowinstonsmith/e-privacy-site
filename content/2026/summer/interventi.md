@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-12 10:46:27
+Date: 2026-04-12 10:47:51
 Slug: e-privacy-XXXVIII-interventi
 Year: 2026
 Where: Sala conferenze dell'Infopoint
