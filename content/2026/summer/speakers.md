@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-11 23:10:58
+Date: 2026-04-12 10:40:44
 Slug: e-privacy-XXXVIII-relatori
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -106,7 +106,7 @@ Già direttore legale, IBM Italia
 2000 - 2005 professore di diritto della informatica, Università Bocconi, Milano
 2022  ad oggi: Comitato Europeo per la protezione dei dati (EDPB), membro dello European Support Group
 
-Ad e-privacy presenta [l'Eurapa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04).
+Ad e-privacy presenta [l'Europa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04).
 
 ### <a name='gabriele-zanoni'></a>Gabriele Zanoni [⇧](/e-privacy-XXXVIII-programma.html#1p03)
 

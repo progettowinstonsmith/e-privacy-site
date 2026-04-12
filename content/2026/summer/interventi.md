@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-11 23:10:57
+Date: 2026-04-12 10:40:43
 Slug: e-privacy-XXXVIII-interventi
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -112,7 +112,7 @@ In questo intervento vorrei condividere la mia storia di circa tre anni di tenta
 
 Il talk esplora l&#x27;eredità digitale al crocevia tra diritto successorio, regole dei provider e sicurezza informatica, illustrando i metodi di trasmissione successoria dei beni digitali (partendo dal legato di password fino alla gestione delle memorie in cloud), superando il paradosso tra privacy post-mortem e diritti degli eredi, evitando il &quot;buio digitale&quot; e la dispersione del patrimonio immateriale.
 
-#### <a name="1p04"></a> [l'Eurapa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04) [⇧](/e-privacy-XXXVIII-programma.html#1p04)
+#### <a name="1p04"></a> [l'Europa val bene una birra](/e-privacy-XXXVIII-programma.html#1p04) [⇧](/e-privacy-XXXVIII-programma.html#1p04)
 [Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)
 
 L’EUROPA VAL BENE UNA BIRRA (e con questo mi schiero dalla parte dell’accusa)
