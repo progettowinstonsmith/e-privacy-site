@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-12 10:43:05
+Date: 2026-04-12 10:46:29
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -86,7 +86,7 @@ attori possono assorbire senza scosse.
 15:00|5|<a name='1p01'></a>Rebecca Berto<br/>*Apertura lavori*
 15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_zallone_test.pdf"><img alt="slides" src="/images/icon/presentation-ppt.png"></a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_zallone_cv.pdf"><img alt="handout" src="/images/icon/presentation.png"></a>
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_zallone_test.pdf"><img alt="slides" src="/images/icon/presentation-ppt.png"></a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_zallone_cv.pdf"><img alt="handout" src="/images/icon/presentation.png"></a> <a href="https://urna.winstonsmith.org/materiali/2026/video/ep2026su_03_zallone_sd.webm"><img alt="video" src="/images/icon/video.png"></a> <a href="https://urna.winstonsmith.org/materiali/2026/audio/ep2026su_04_zallone_c.mp3"><img alt="audio" src="/images/icon/audio.png"></a>
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
 18:05|5|<a name='1p07'></a>Marco Calamari<br/>*Chiusura dei lavori*
