@@ -119,10 +119,10 @@ allowfullscreen></iframe>
 [00:00:00](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=17s)|<span class='talk'><em>Marco Calamari|apertura lavori: Dalla privacy ad Hogwarts</em></span>
 [00:06:16](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=376s)|<span class='talk'><em>Emmanuele Somma</em></span>
 [00:13:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=800s)|<span class='talk'><em>Enrica Priolo</em></span>
-[00:17:22](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=1042s)|<span class='talk'>Manuela Vacca|[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_manuela_vacca_invasione_degli_e-giuristi.pdf) L'invasione degli e-giuristi<br/></span>
+[00:17:22](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=1042s)|<span class='talk'>Manuela Vacca|[📄](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_manuela_vacca_invasione_degli_e-giuristi.pdf) L'invasione degli e-giuristi<br/></span>
 [00:26:02](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=1562s)|<span class='talk'><em>Carlo Gubitosa</em>|Dai social network al "fediverso" delle comunità virtuali decentralizzate: come riprendere il controllo sulla nostra vita digitale, con i suoi dati e metadati.</span>
 [00:36:20](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=2180s)|<span class='talk'><em>Claudio "Carlo" Agosti</em>|Come e-privacy ha cambiato una prospettiva</span>
-[00:51:35](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=3095s)|<span class='talk'><em>Efrem Zugnaz|[![pdf](/images/icon/presentation.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_efrem_zugnaz_gli_ultimi_panda.pdf) Gli ultimi panda<br/></span></em></span>
+[00:51:35](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=3095s)|<span class='talk'><em>Efrem Zugnaz|[📄](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_efrem_zugnaz_gli_ultimi_panda.pdf) Gli ultimi panda<br/></span></em></span>
 [01:10:40](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=4240s)|<span class='talk'><em>Riccardo Abeti</em></span>
 [01:30:10](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5410s)|<span class='talk'><em>Valentina Longo|aneddoti su giuristi, tecnici, food & wine </em></span>
 [01:38:30](https://www.youtube.com/watch?v=OP5IgJL9w9w&t=5910s)|<span class='talk'><em>Giovanni Battista Gallus|Winston Smith o Cassandra? Come e-privacy ha anticipato il futuro e dove la realtà ha superato anche le più fosche previsioni</em></span>
@@ -148,7 +148,7 @@ allowfullscreen></iframe>
 [00:16:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=990s)|<span class='talk'><em>Marco Ciurcina|Sotto, sotto..Voli pindarici, gesuiti euclidei e centri di gravità permanente</em></span>
 [00:28:30](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1710s)|<span class='talk'><em>Andrea Surbone|A mente aperta, come mi hanno accolto</em></span>
 [00:31:13](https://www.youtube.com/watch?v=c1vUAElJTX0&t=1873s)|<span class='talk'><em>Alessandro Del Ninno|L'evoluzione del concetto di privacy</em></span>
-[00:49:35](https://www.youtube.com/watch?v=c1vUAElJTX0&t=2975s)|<span class='talk'><em>Daniele Salvini|[![pdf](/images/icon/youtube.png)](https://youtu.be/R94G0fO8Yx4) [![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_daniele_salvini_il_cimitero_delle_illusioni.pdf) Il Cimitero delle Illusioni, ed altre storie sulla privacy</em></span>
+[00:49:35](https://www.youtube.com/watch?v=c1vUAElJTX0&t=2975s)|<span class='talk'><em>Daniele Salvini|[🎬](https://youtu.be/R94G0fO8Yx4) [📄](http://urna.winstonsmith.org/materiali/2021vnetq/atti/ep2021vnetq_daniele_salvini_il_cimitero_delle_illusioni.pdf) Il Cimitero delle Illusioni, ed altre storie sulla privacy</em></span>
 [01:02:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=3731s)|<span class='talk'><em>Yvette Agostini|Ha ancora senso difendere la privacy?</em></span>
 [01:12:11](https://www.youtube.com/watch?v=c1vUAElJTX0&t=4331s)|<span class='talk'><em>Ugo Lopez|La privacy ai tempi del COVID</em></span>
 [01:27:26](https://www.youtube.com/watch?v=c1vUAElJTX0&t=5246s)|<span class='talk'><em>Diego Giorio|</em></span>

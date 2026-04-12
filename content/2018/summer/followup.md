@@ -56,12 +56,12 @@ Legenda:
 
 Icona | Descrizione
 ---- | ----
-![video](/images/icon/video.png) | Video MP4
-![pdf](/images/icon/presentation.png) | Presentazione PDF
-![ppt](/images/icon/presentation-ppt.png) | Presentazione PPT
-![pdf](/images/icon/handouts.png) | Handouts
-![pdf](/images/icon/document.png) | Documento (PDF)
-![URL](/images/icon/link.png) | Link online
+🎬 | Video MP4
+📄 | Presentazione PDF
+📄 | Presentazione PPT
+🧾 | Handouts
+🧾 | Documento (PDF)
+🔗 | Link online
 
 
 ### <a name="programma"></a>Programma del Convegno
@@ -69,59 +69,59 @@ Icona | Descrizione
 #### <a name="vem"></a>Venerdì 24 Giugno 2016 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith 
- * Riprese Video: [![video](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_24_mattino.mp4)
+ * Riprese Video: [🎬](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_24_mattino.mp4)
  
  **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | ------- | ------- 
 9:15 || Saluti ed introduzione
-9:45 | [_Daniele Tumietto_](/e-privacy-XIX-relatori.html#tumietto)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_01_tumietto_160624_da_SPID_ad_eIDAS_TUMIETTO.pdf)[Perchè è necessario collegare SPID ad eIDAS](/e-privacy-XIX-interventi.html#tumietto)
+9:45 | [_Daniele Tumietto_](/e-privacy-XIX-relatori.html#tumietto)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_01_tumietto_160624_da_SPID_ad_eIDAS_TUMIETTO.pdf)[Perchè è necessario collegare SPID ad eIDAS](/e-privacy-XIX-interventi.html#tumietto)
 10:15 | [_Fulvio Sarzana_](/e-privacy-XIX-relatori.html#sarzana)|[SPID, un cammino tormentato tra sentenze del TAR e del Consiglio di  Stato ed il Codice dell'Amministrazione digitale](/e-privacy-XIX-interventi.html#sarzana)
-10:45 | [_Italo Cerno_](/e-privacy-XIX-relatori.html#cerno)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_03_cerno_SPID_e_i_servizi_online_per_i_minori_160624.pdf) [SPID e i servizi online per i minori](/e-privacy-XIX-interventi.html#cerno)
-11:15 | [_Luca E. D'antuono_](/e-privacy-XIX-relatori.html#dantuono)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_04_scotto_presentazione-Luca_Scotto_-_Printing_-_IT.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_04_scotto_presentazione-Luca_Scotto_-_Slides_-_IT.pdf) [Protezione e privacy dell'identità SPID dei cittadini e degli operatori sanitari](/e-privacy-XIX-interventi.html#tavola1)
+10:45 | [_Italo Cerno_](/e-privacy-XIX-relatori.html#cerno)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_03_cerno_SPID_e_i_servizi_online_per_i_minori_160624.pdf) [SPID e i servizi online per i minori](/e-privacy-XIX-interventi.html#cerno)
+11:15 | [_Luca E. D'antuono_](/e-privacy-XIX-relatori.html#dantuono)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_04_scotto_presentazione-Luca_Scotto_-_Printing_-_IT.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_04_scotto_presentazione-Luca_Scotto_-_Slides_-_IT.pdf) [Protezione e privacy dell'identità SPID dei cittadini e degli operatori sanitari](/e-privacy-XIX-interventi.html#tavola1)
 11:45 || Pausa
 11:50 | [_Stefano Quintarelli_](/e-privacy-XIX-relatori.html#quinta)| _Special Guest_
-12:00 | [_Stefano Dalmiani_](/e-privacy-XIX-relatori.html#dalmiani)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_05_dalmianicongresso_ePrivacy-Spring_2016_-_Dalmiani.pdf) [Lo SPID e la corretta identificazione del paziente : come si riduce il rischio clinico](/e-privacy-XIX-interventi.html#dalmiani)
-12:30 | [_Monica Gobbato_](/e-privacy-XIX-relatori.html#gobbato)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_06_gobbato_E_Privacy_2016.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_06_gobbato_GOBBATO_ICT_Security_n.137-Giugno_2016_(1).pdf) [Anima Digitale, tra identità e pregiudizio](/e-privacy-XIX-interventi.html#gobbato)
-13:00 | [_Fernanda Faini_](/e-privacy-XIX-relatori.html#faini)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_07_faini_Fernanda_FOIA.pdf) [Il Freedom of Information Act italiano: come cambia il diritto a conoscere.](/e-privacy-XIX-interventi.html#faini)
+12:00 | [_Stefano Dalmiani_](/e-privacy-XIX-relatori.html#dalmiani)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_05_dalmianicongresso_ePrivacy-Spring_2016_-_Dalmiani.pdf) [Lo SPID e la corretta identificazione del paziente : come si riduce il rischio clinico](/e-privacy-XIX-interventi.html#dalmiani)
+12:30 | [_Monica Gobbato_](/e-privacy-XIX-relatori.html#gobbato)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_06_gobbato_E_Privacy_2016.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_06_gobbato_GOBBATO_ICT_Security_n.137-Giugno_2016_(1).pdf) [Anima Digitale, tra identità e pregiudizio](/e-privacy-XIX-interventi.html#gobbato)
+13:00 | [_Fernanda Faini_](/e-privacy-XIX-relatori.html#faini)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_07_faini_Fernanda_FOIA.pdf) [Il Freedom of Information Act italiano: come cambia il diritto a conoscere.](/e-privacy-XIX-interventi.html#faini)
 
 13:30 || Pausa Pranzo
 
 #### <a name="vep"></a>Venerdì 24 Giugno 2016 - pomeriggio
 
  * Chairwoman: [_Giuseppina Terranova_](/e-privacy-XIX-relatori.html#terranova) Vice Presidente di APIHM
- * Riprese Video: [![video](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_24_pomeriggio.mp4)
+ * Riprese Video: [🎬](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_24_pomeriggio.mp4)
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | ------- | ------- 
 14:45 || Apertura lavori 
-14:50 | [_Salvatore Colomba_](/e-privacy-XIX-relatori.html#colomba)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_08_colomba_APIHM_congresso_ePrivacy-2016_-_COLOMBA.pdf)&nbsp;[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_08_colomba_APIHM_congresso_ePrivacy-2016_-_COLOMBA.pptx) [Privacy, anonimato e Data Breach nel sistema sanitario](/e-privacy-XIX-interventi.html#colomba)
-15:20 | [_Filomena Polito_](/e-privacy-XIX-relatori.html#polito)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_09_Polito-e-privacy-2016_-.pdf)&nbsp;[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_09_Polito-e-privacy-2016_-.pdf.pptx) [Tecnologia e Management delle Aziende sanitarie, l'approccio organizzato alle misure del Regolamento UE sulla data Protection](/e-privacy-XIX-interventi.html#polito)
-15:45 | [_Giovanni Modesti_](/e-privacy-XIX-relatori.html#modesti)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_10_modesti_APIHM_congresso_ePrivacy-2016_-_Blank_RELAZIONE_15.6.16.pdf)&nbsp;[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_10_modesti_APIHM_congresso_ePrivacy-2016_-_Blank_RELAZIONE_15.6.16.pptx) [Open data e Privacy (la creazione di un organigramma aziendale per governare il processo di gestione dei dati)](/e-privacy-XIX-interventi.html#modesti)
-16:00 | [_Luigi Rufo_](/e-privacy-XIX-relatori.html#rufo)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_11_rufo_Slide_ePrivacy_2016_Rufo.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_11_rufo_Slide_per_stampa_ePrivacy_2016_Rufo.pdf) [Oscuramento dei dati sanitari: un diritto o un rischio? ](/e-privacy-XIX-interventi.html#rufo)
+14:50 | [_Salvatore Colomba_](/e-privacy-XIX-relatori.html#colomba)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_08_colomba_APIHM_congresso_ePrivacy-2016_-_COLOMBA.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_08_colomba_APIHM_congresso_ePrivacy-2016_-_COLOMBA.pptx) [Privacy, anonimato e Data Breach nel sistema sanitario](/e-privacy-XIX-interventi.html#colomba)
+15:20 | [_Filomena Polito_](/e-privacy-XIX-relatori.html#polito)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_09_Polito-e-privacy-2016_-.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_09_Polito-e-privacy-2016_-.pdf.pptx) [Tecnologia e Management delle Aziende sanitarie, l'approccio organizzato alle misure del Regolamento UE sulla data Protection](/e-privacy-XIX-interventi.html#polito)
+15:45 | [_Giovanni Modesti_](/e-privacy-XIX-relatori.html#modesti)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_10_modesti_APIHM_congresso_ePrivacy-2016_-_Blank_RELAZIONE_15.6.16.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_10_modesti_APIHM_congresso_ePrivacy-2016_-_Blank_RELAZIONE_15.6.16.pptx) [Open data e Privacy (la creazione di un organigramma aziendale per governare il processo di gestione dei dati)](/e-privacy-XIX-interventi.html#modesti)
+16:00 | [_Luigi Rufo_](/e-privacy-XIX-relatori.html#rufo)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_11_rufo_Slide_ePrivacy_2016_Rufo.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_11_rufo_Slide_per_stampa_ePrivacy_2016_Rufo.pdf) [Oscuramento dei dati sanitari: un diritto o un rischio? ](/e-privacy-XIX-interventi.html#rufo)
 16:15 || Pausa 
-16:30 | [_Angela Spanti (video)_](/e-privacy-XIX-relatori.html#spanti)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_12_spanti_Handouts_spanti.pdf)&nbsp;[![ppt](/images/icon/ppt.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_12_spanti_Slide_proiettabili_spanti.ppt) [La gestione dei dati sanitari del paziente 2.0](/e-privacy-XIX-interventi.html#spanti)
-16:55 | [_Luca Di Leo_](/e-privacy-XIX-relatori.html#dileo)|[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_13_dileo_identità_digitale_Pisa_e-Privacy.pptx) [Costruire una falsa identità digitale, conoscere i metodi per limitare i danni](/e-privacy-XIX-interventi.html#dileo)
-17:15 | [_Stefano Aterno_](/e-privacy-XIX-relatori.html#aterno), [_Francesco Micozzi_](/e-privacy-XIX-relatori.html#micozzi) [![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_micozzi_-_e-privacy_2016_-_pisa.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_micozzi_-_e-privacy_2016_-_pisa_-_short_version.pdf) ,  [_Giuseppe Augiero_](/e-privacy-XIX-relatori.html#augiero)  [![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_augiero_E-privacy-2016Augiero.pdf)  |[Privacy e captatori: errori e orrori tra silenzi e Sezioni Unite.](/e-privacy-XIX-interventi.html#tavola2)
+16:30 | [_Angela Spanti (video)_](/e-privacy-XIX-relatori.html#spanti)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_12_spanti_Handouts_spanti.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_12_spanti_Slide_proiettabili_spanti.ppt) [La gestione dei dati sanitari del paziente 2.0](/e-privacy-XIX-interventi.html#spanti)
+16:55 | [_Luca Di Leo_](/e-privacy-XIX-relatori.html#dileo)|[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_13_dileo_identità_digitale_Pisa_e-Privacy.pptx) [Costruire una falsa identità digitale, conoscere i metodi per limitare i danni](/e-privacy-XIX-interventi.html#dileo)
+17:15 | [_Stefano Aterno_](/e-privacy-XIX-relatori.html#aterno), [_Francesco Micozzi_](/e-privacy-XIX-relatori.html#micozzi) [📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_micozzi_-_e-privacy_2016_-_pisa.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_micozzi_-_e-privacy_2016_-_pisa_-_short_version.pdf) ,  [_Giuseppe Augiero_](/e-privacy-XIX-relatori.html#augiero)  [📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_14_augiero_E-privacy-2016Augiero.pdf)  |[Privacy e captatori: errori e orrori tra silenzi e Sezioni Unite.](/e-privacy-XIX-interventi.html#tavola2)
 18:00 || Chiusura lavori
 
 #### <a name="sa"></a>Sabato 25 Giugno 2016 - mattina
 
  * Chairman: [_Marco Calamari_](/e-privacy-XIX-relatori.html#calamari), [_Emmanuele Somma_](/e-privacy-XIX-relatori.html#somma) Progetto Winston Smith 
- * Riprese Video: [![video](/images/icon/video.png)](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_25_mattino.mp4)
+ * Riprese Video: [🎬](http://urna.winstonsmith.org/materiali/2016/video/ep2016se_video_25_mattino.mp4)
 
   **Ora** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Relatore**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Titolo** 
   ------- | ------- | ------- 
 8:30 ||  Apertura lavori
-8:35 | [_Valentina Longo_](/e-privacy-XIX-relatori.html#longo)| [![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_20_giugno.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_23_giugno.pdf)&nbsp;[![ppt](/images/icon/ppt.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_23_giugno.ppt) [Educazione digitale: antivirus contro il cyberbullismo](/e-privacy-XIX-interventi.html#longo)
+8:35 | [_Valentina Longo_](/e-privacy-XIX-relatori.html#longo)| [📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_20_giugno.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_23_giugno.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_15_longo_E_privacy_2016_Avv_Valentina_Longo_23_giugno.ppt) [Educazione digitale: antivirus contro il cyberbullismo](/e-privacy-XIX-interventi.html#longo)
 9:05 | [_Vincenzo Agui_](/e-privacy-XIX-relatori.html#agui)|[Bitcoin e anonimato delle transazioni tra mito o realtà](/e-privacy-XIX-interventi.html#agui)
-9:35 | [_Diego Giorio_](/e-privacy-XIX-relatori.html#giorio)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pdf)&nbsp;[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pdf.pptx)&nbsp;[![pptx](/images/icon/pptx.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pptx)&nbsp;[![pdf](/images/icon/pdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Relazione_06.pdf) [L'esternalizzazione della PA (anche) attraverso il WEB: rischi e opportunità](/e-privacy-XIX-interventi.html#giorio)
-10:05 | [_Roberto Premoli_](/e-privacy-XIX-relatori.html#premoli)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_18_premoli_conferenza-e-privacy-pisa-2016-nuovo.pdf)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_18_premoli_conferenza-e-privacy-pisa-2016-nuovo.pdf.pdf) [Spionaggio elettronico e furto di privacy: come difendersi](/e-privacy-XIX-interventi.html#premoli)
+9:35 | [_Diego Giorio_](/e-privacy-XIX-relatori.html#giorio)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pdf.pptx)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Esternalizzazione_03.pptx)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_17_giorio_Relazione_06.pdf) [L'esternalizzazione della PA (anche) attraverso il WEB: rischi e opportunità](/e-privacy-XIX-interventi.html#giorio)
+10:05 | [_Roberto Premoli_](/e-privacy-XIX-relatori.html#premoli)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_18_premoli_conferenza-e-privacy-pisa-2016-nuovo.pdf)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_18_premoli_conferenza-e-privacy-pisa-2016-nuovo.pdf.pdf) [Spionaggio elettronico e furto di privacy: come difendersi](/e-privacy-XIX-interventi.html#premoli)
 10:35 || Pausa
-10:40 | [_Giovanbattista Vieri_](/e-privacy-XIX-relatori.html#vieri)|[![odp](/images/icon/odp.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp)&nbsp;[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp.pdf)&nbsp;[![ppt](/images/icon/ppt.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp.ppt) [considerazioni su GDPR vs FLOSS](/e-privacy-XIX-interventi.html#vieri)
-11:10 | [_Gabriele Zanoni_](/e-privacy-XIX-relatori.html#zanoni)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_20_zanoni_Gabriele_Zanoni_E-privacy_2016.pdf) [Cosa gli altri possono fare con nostri i dati e metadati](/e-privacy-XIX-interventi.html#zanoni)
+10:40 | [_Giovanbattista Vieri_](/e-privacy-XIX-relatori.html#vieri)|[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp)&nbsp;[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp.pdf)&nbsp;[📄](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_19_vieri_ConsiderazioniGDPRvsFLOSS.odp.ppt) [considerazioni su GDPR vs FLOSS](/e-privacy-XIX-interventi.html#vieri)
+11:10 | [_Gabriele Zanoni_](/e-privacy-XIX-relatori.html#zanoni)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_20_zanoni_Gabriele_Zanoni_E-privacy_2016.pdf) [Cosa gli altri possono fare con nostri i dati e metadati](/e-privacy-XIX-interventi.html#zanoni)
 11:40 | [_Angela Daly_](/e-privacy-XIX-relatori.html#daly)|[Scambio libero di privacy - che cosa è in gioco nel Trans-Pacific Partnership e altri accordi - un’opinione dall’Australia](/e-privacy-XIX-interventi.html#daly)
-12:10 | [_Fabio Carletti_](/e-privacy-XIX-relatori.html#carletti)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_22_carletti_talkPisaEprivacy2016.pdf) [ipfire the opensource firewall distribution](/e-privacy-XIX-interventi.html#carletti)
-12:40 | [_Valerio Edoardo Vertua_](/e-privacy-XIX-relatori.html#vertua)|[![pdf](/images/icon/ppdf.png)](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_23_vertua_Cloud_and_PrivacyShieldy_20160625.pdf) [Cloud computing & Privacy Shield.](/e-privacy-XIX-interventi.html#vertua)
+12:10 | [_Fabio Carletti_](/e-privacy-XIX-relatori.html#carletti)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_22_carletti_talkPisaEprivacy2016.pdf) [ipfire the opensource firewall distribution](/e-privacy-XIX-interventi.html#carletti)
+12:40 | [_Valerio Edoardo Vertua_](/e-privacy-XIX-relatori.html#vertua)|[📎](http://urna.winstonsmith.org/materiali/2016/atti/ep2016se_23_vertua_Cloud_and_PrivacyShieldy_20160625.pdf) [Cloud computing & Privacy Shield.](/e-privacy-XIX-interventi.html#vertua)
 13:10 || Chiusura lavori
 
 
