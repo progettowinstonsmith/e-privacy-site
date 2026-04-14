@@ -24,9 +24,9 @@ Year: 2026
 Collaboratori: hermes, isgroup
 enabled: no
 locked: no
-Mediapartner: infomedia, aneddotica, lealternative, hackerjournal, ireyewear
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
-Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, ireyewear
 status: draft
 
 # e-privacy XXXVIII @ Firenze

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-14 20:41:44
+Date: 2026-04-14 20:42:38
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -26,9 +26,9 @@ Css: .title-XXXVIII { font: 25px arial, sans-serif; text-align: center; }   .sub
 City: Firenze
 Category: 2026
 Collaboratori: hermes, isgroup
-Mediapartner: infomedia, aneddotica, lealternative, hackerjournal, ireyewear
+Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
 Organizzatori: pws
-Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, ireyewear
 
 # e-privacy XXXVIII @ Firenze
 
