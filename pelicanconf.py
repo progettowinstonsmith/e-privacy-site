@@ -219,7 +219,7 @@ SLIDES_SETTINGS = {'STATIC_RECIPIENTS': ['segreteria@winstonsmith.org'],
  'STORAGE_PATH': '/home/pws/data/inbound',
  'PASSWORD': 'JULIA',
  'REDIRECT_URL': '/grazie-consegna-slides.html',
- 'MAX_INLINE_SIZE': '1024 * 1024 * 1024'}
+ 'MAX_INLINE_SIZE': 1024 * 1024 * 1024}
 
 ### CONFIGURAZIONE EDIZIONI
 

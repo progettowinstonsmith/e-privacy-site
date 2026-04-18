@@ -1,5 +1,4 @@
-#!/usr/bin/env /home/pws/miniconda3/bin/python
-#!/usr/bin/env python3
+#!/home/pws/miniconda3/bin/python
 # -*- coding: utf-8 -*-
 
 """CGI handler that receives slide uploads from speakers."""
@@ -195,7 +194,7 @@ def main():
     session = get_choice(form, 'session', {'M', 'P'}, "Sessione non valida")
 
     password = get_field(form, 'password', required=True)
-    if password != cfg.get('PASSWORD'):
+    if password.upper() != cfg.get('PASSWORD', '').upper():
         bail('403 Forbidden', 'Password non valida')
 
     try:
@@ -298,7 +297,10 @@ def main():
         lines.extend(['', 'Note inviate:', notes])
 
     attachments = []
-    max_inline = int(cfg.get('MAX_INLINE_SIZE', 1024 * 1024 * 1024))
+    max_inline = cfg.get('MAX_INLINE_SIZE', 1024 * 1024 * 1024)
+    if isinstance(max_inline, str):
+        max_inline = eval(max_inline)
+    max_inline = int(max_inline)
     if total_size <= max_inline:
         for entry in stored_files:
             try:
