@@ -38,7 +38,7 @@ LIVE_URL="https://www.youtube.com/watch?v=m58flx5d1qI"
 
 LATERAL_BAR = [
     ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
-    # [ ] ('Consegna Slides', '/consegna-slides.html'),
+    ('Consegna Slides', '/consegna-slides.html'),
     # [ ] ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
     ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
@@ -120,7 +120,7 @@ PARTNERS = {'whistleblowingsolutions': ('Whistleblowing Solutions',
  'ictacademy': ('ICTAcademy', 'ictacademy.jpg', 'http://www.ict-academy.it'),
  'infomedia': ('Infomedia', 'infomedia.png', 'http://www.infomedia.it'),
  'interdatnet': ('InterDatNet', 'Interdatanet_no_bg_66.png', 'http://www.interdatanet.org'),
- 'ireyewear' : ('IR Eyewear', 'ireyewear.svg', 'https://t.me/Bitpost_shop/3183'),
+ 'ireyewear': ('IR Eyewear', 'ireyewear.svg', 'https://'),
  'isgroup': ('Information Security Group', 'isgroup_new_default.png', 'https://www.isgroup.it/it/index.html'),
  'lilik': ('Lilik', 'lilik.png', 'http://www.lilik.it'),
  'luording': ('Ordine degli Ingegneri della Provincia di Lucca',
