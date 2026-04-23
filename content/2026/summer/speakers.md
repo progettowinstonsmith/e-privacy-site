@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-14 20:42:37
+Date: 2026-04-23 15:26:47
 Slug: e-privacy-XXXVIII-relatori
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -51,6 +51,10 @@ Ad e-privacy modera [Processo all'Autorità Garante per la protezione dei dati p
 ### <a name='marco-calamari'></a>Marco Calamari (PWS) 
 
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test
+
+### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) 
+
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto delle tecnologie dell'informazione, diritto d'autore, diritti di proprietà industriale e diritti della personalità, in particolare con focus su software libero, contenuti e dati aperti. Docente in "Diritto ed etica della comunicazione" presso il Politecnico di Torino. Realizza altre attività didattiche (corsi, seminari, conferenze) e attività di ricerca. Membro del consiglio d’amministrazione di società ed altri enti. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 
 ### <a name='edoardo-ferri'></a>Edoardo Ferri (Il Cibernetico) [⇧](/e-privacy-XXXVIII-programma.html#1m05)
 

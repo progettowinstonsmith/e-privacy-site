@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-14 20:42:38
+Date: 2026-04-23 15:26:48
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -62,6 +62,8 @@ attori possono assorbire senza scosse.
 
 #### 24 aprile 2026 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbSiaVm7m5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: [Marco Calamari](/e-privacy-XXXVIII-relatori.html#marco-calamari)
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -78,6 +80,8 @@ attori possono assorbire senza scosse.
 12:45|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
 
 #### 24 aprile 2026 - pomeriggio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QziX_e6tFCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: [Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)
 
