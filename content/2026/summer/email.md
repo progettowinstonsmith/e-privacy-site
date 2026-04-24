@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 10:36:50
+Date: 2026-04-24 10:55:38
 Slug: e-privacy-XXXVIII-email
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -69,12 +69,12 @@ Programma del Convegno
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari<br/><em>Apertura della sessione</em></span>
 09:35|5|<span class='talk' id='1m02-programma'>Laura Sparavigna (Comune di Firenze)<br/><em>Saluti istituzionali</em></span>
 09:40|30|<span class='talk' id='1m03-programma'>[Diego Giorio (SEPEL Editrice)](#diego-giorio)<br/><em><a href='#1m03'>Ma io cosa farei?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_giorio_relazione.pdf">🧾</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_giorio_slides.pptx">📄</a></span>
-10:10|20|<span class='talk' id='1m04-programma'>[Andrea Rossi (SECSI)](#andrea-rossi)<br/><em><a href='#1m04'>Processo all'Autorità Garante per la protezione dei dati personali</a></em></span>
-10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em></span>
+10:10|20|<span class='talk' id='1m04-programma'>[Andrea Rossi (SECSI)](#andrea-rossi)<br/><em><a href='#1m04'>Processo all'Autorità Garante per la protezione dei dati personali</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_03_rossi_relazione.pdf">🧾</a></span>
+10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_04_ferri_chi_legge_i_tuoi_log_edoardo_ferri.pdf">📄</a></span>
 10:50|30|<span class='talk'><em>Coffee Break</em></span>
-11:20|20|<span class='talk' id='1m07-programma'>[Valentino Spataro (IusOnDemand srl)](#valentino-spataro)<br/><em><a href='#1m07'>La privacy e le interpretazioni non intuitive</a></em></span>
+11:20|20|<span class='talk' id='1m07-programma'>[Valentino Spataro (IusOnDemand srl)](#valentino-spataro)<br/><em><a href='#1m07'>La privacy e le interpretazioni non intuitive</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_05_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_06_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pptx">📄</a></span>
 11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em></span>
-12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em></span>
+12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a></span>
 12:45|5|<span class='talk' id='1m10-programma'>Marco Calamari<br/><em>Chiusura sessione</em></span>
 
 #### 24 aprile 2026 - pomeriggio

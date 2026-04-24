@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 10:36:53
+Date: 2026-04-24 10:55:41
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -71,12 +71,12 @@ attori possono assorbire senza scosse.
 09:30|5|<a name='1m01'></a>Marco Calamari<br/>*Apertura della sessione*
 09:35|5|<a name='1m02'></a>[Laura Sparavigna](/e-privacy-XXXVIII-relatori.html#laura-sparavigna) (Comune di Firenze)<br/>*Saluti istituzionali*
 09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_giorio_relazione.pdf">🧾</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_giorio_slides.pptx">📄</a>
-10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
-10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
+10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_03_rossi_relazione.pdf">🧾</a>
+10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_04_ferri_chi_legge_i_tuoi_log_edoardo_ferri.pdf">📄</a>
 10:50|30|*Coffee Break*
-11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*
+11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_05_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_06_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pptx">📄</a>
 11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
-12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*
+12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a>
 12:45|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
 
 #### 24 aprile 2026 - pomeriggio
