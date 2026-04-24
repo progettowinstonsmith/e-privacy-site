@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 11:31:50
+Date: 2026-04-24 11:48:31
 Slug: e-privacy-XXXVIII-relatori
 Year: 2026
 Where: Sala conferenze dell'Infopoint

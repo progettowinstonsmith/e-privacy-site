@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 11:31:48
+Date: 2026-04-24 11:48:29
 Slug: e-privacy-XXXVIII-email
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -73,8 +73,8 @@ Programma del Convegno
 10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_04_ferri_chi_legge_i_tuoi_log_edoardo_ferri.pdf">📄</a></span>
 10:50|30|<span class='talk'><em>Coffee Break</em></span>
 11:20|20|<span class='talk' id='1m07-programma'>[Valentino Spataro (IusOnDemand srl)](#valentino-spataro)<br/><em><a href='#1m07'>La privacy e le interpretazioni non intuitive</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_05_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_06_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pptx">📄</a></span>
-11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em></span>
-12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a></span>
+11:40|45|<span class='talk' id='1m08-programma'>[Monica Gobbato (Privacy Academy)](#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](#angela-pedalina)<br/><em><a href='#1m08'>Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_gobbato_ep2026se_05_gobbato_oltre_lo_scoop.pdf">📄</a></span>
+12:25|20|<span class='talk' id='1m09-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m09'>Società interconnessa e l’effettività dei rimedi</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a></span>
 12:45|5|<span class='talk' id='1m10-programma'>Marco Calamari<br/><em>Chiusura sessione</em></span>
 
 #### 24 aprile 2026 - pomeriggio
@@ -86,9 +86,9 @@ Programma del Convegno
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk' id='1p01-programma'>Rebecca Berto<br/><em>Apertura lavori</em></span>
-15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a></span>
+15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a></span>
 15:35|30|<span class='talk' id='1p03-programma'>[Francesca Vignali (Avvocato)](#francesca-vignali) e [Gabriele Zanoni](#gabriele-zanoni)<br/><em><a href='#1p03'>Successione dei beni digitali: Aspetti legali e tecnici</a></em></span>
-16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Europa val bene una birra</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a></span>
+16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Europa val bene una birra</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_12_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a></span>
 16:35|30|<span class='talk'><em>Coffee Break</em></span>
 17:05|60|<span class='talk' id='1p06-programma'><em><a href='#1p06'>Processo all'Autorità Garante per la protezione dei dati personali</a></em><br/>Moderato da: Carlo Blengino<br/>Partecipano: TBA</span>
 18:05|5|<span class='talk' id='1p07-programma'>Marco Calamari<br/><em>Chiusura dei lavori</em></span>

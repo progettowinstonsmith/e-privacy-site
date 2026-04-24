@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 11:31:51
+Date: 2026-04-24 11:48:32
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -75,8 +75,8 @@ attori possono assorbire senza scosse.
 10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_04_ferri_chi_legge_i_tuoi_log_edoardo_ferri.pdf">📄</a>
 10:50|30|*Coffee Break*
 11:20|20|<a name='1m07'></a>[Valentino Spataro (IusOnDemand srl)](/e-privacy-XXXVIII-relatori.html#valentino-spataro)<br/>*[La privacy e le interpretazioni non intuitive](/e-privacy-XXXVIII-interventi.html#1m07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_05_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_06_spataro_ep2026se_04_spataro_privacy_interpretazioni_non_intuitive.pptx">📄</a>
-11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*
-12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a>
+11:40|45|<a name='1m08'></a>[Monica Gobbato (Privacy Academy)](/e-privacy-XXXVIII-relatori.html#monica-gobbato) e [Angela Pedalina (LawBoat.ch Informatich.ch)](/e-privacy-XXXVIII-relatori.html#angela-pedalina)<br/>*[Collegio di difesa - Oltre lo Scoop: La Funzione del Garante tra Autonomia di Mandato e Rigore della Riservatezza](/e-privacy-XXXVIII-interventi.html#1m08)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_07_gobbato_ep2026se_05_gobbato_oltre_lo_scoop.pdf">📄</a>
+12:25|20|<a name='1m09'></a>[Rebecca Berto](/e-privacy-XXXVIII-relatori.html#rebecca-berto)<br/>*[Società interconnessa e l’effettività dei rimedi](/e-privacy-XXXVIII-interventi.html#1m09)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_berto_ep2026se_06_berto_societa_interconnessa_ed_effettivita_rimedi.pdf">📄</a>
 12:45|5|<a name='1m10'></a>Marco Calamari<br/>*Chiusura sessione*
 
 #### 24 aprile 2026 - pomeriggio
@@ -88,9 +88,9 @@ attori possono assorbire senza scosse.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<a name='1p01'></a>Rebecca Berto<br/>*Apertura lavori*
-15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a>
+15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a>
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a>
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_12_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a>
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
 18:05|5|<a name='1p07'></a>Marco Calamari<br/>*Chiusura dei lavori*
