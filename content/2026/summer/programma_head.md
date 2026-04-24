@@ -21,7 +21,7 @@ Title: Privacy senza Garante o Garante senza Privacy?
 When: 24 aprile 2026
 Where: Sala conferenze dell'Infopoint
 Year: 2026
-Collaboratori: hermes, isgroup
+Collaboratori: firenze2, hermes, isgroup
 enabled: no
 locked: no
 Mediapartner: infomedia, aneddotica, lealternative, hackerjournal
