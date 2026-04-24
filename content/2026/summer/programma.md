@@ -38,8 +38,8 @@ Template: event
 
 <br>
 
-  Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
-trentottesima edizione di e-privacy, che si terrà in presenza ed in
+  Il *Progetto Winston Smith* ha organizzato la 
+trentottesima edizione di e-privacy, si è tenuta in presenza ed in
 videoconferenza il 24 aprile a Firenze.
 
 
