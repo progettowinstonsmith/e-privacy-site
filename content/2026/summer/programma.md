@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 10:55:41
+Date: 2026-04-24 11:31:51
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -88,9 +88,9 @@ attori possono assorbire senza scosse.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<a name='1p01'></a>Rebecca Berto<br/>*Apertura lavori*
-15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*
+15:05|30|<a name='1p02'></a>[Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi)<br/>*[Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali](/e-privacy-XXXVIII-interventi.html#1p02)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a>
 15:35|30|<a name='1p03'></a>[Francesca Vignali (Avvocato)](/e-privacy-XXXVIII-relatori.html#francesca-vignali) e [Gabriele Zanoni](/e-privacy-XXXVIII-relatori.html#gabriele-zanoni)<br/>*[Successione dei beni digitali: Aspetti legali e tecnici](/e-privacy-XXXVIII-interventi.html#1p03)*
-16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*
+16:05|30|<a name='1p04'></a>[Raffaele Zallone](/e-privacy-XXXVIII-relatori.html#raffaele-zallone)<br/>*[l'Europa val bene una birra](/e-privacy-XXXVIII-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a>
 16:35|30|*Coffee Break*
 17:05|60|<a name='1p06'></a>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1p06)*<br/>Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)<br/>Partecipano: TBA
 18:05|5|<a name='1p07'></a>Marco Calamari<br/>*Chiusura dei lavori*

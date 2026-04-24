@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 10:55:38
+Date: 2026-04-24 11:31:48
 Slug: e-privacy-XXXVIII-email
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -86,9 +86,9 @@ Programma del Convegno
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 15:00|5|<span class='talk' id='1p01-programma'>Rebecca Berto<br/><em>Apertura lavori</em></span>
-15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em></span>
+15:05|30|<span class='talk' id='1p02-programma'>[Simone Aliprandi](#simone-aliprandi)<br/><em><a href='#1p02'>Accessi civici, segnalazioni e denunce: gli strumenti giuridici per sollevare i vari problemi istituzionali</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_08_aliprandi_ep2026se_11_aliprandi_accessi_civici.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_09_aliprandi_ep2026se_14_aliprandi_processo_al_garante.pdf">📄</a></span>
 15:35|30|<span class='talk' id='1p03-programma'>[Francesca Vignali (Avvocato)](#francesca-vignali) e [Gabriele Zanoni](#gabriele-zanoni)<br/><em><a href='#1p03'>Successione dei beni digitali: Aspetti legali e tecnici</a></em></span>
-16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Europa val bene una birra</a></em></span>
+16:05|30|<span class='talk' id='1p04-programma'>[Raffaele Zallone](#raffaele-zallone)<br/><em><a href='#1p04'>l'Europa val bene una birra</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_10_zallone_ep2026se_13_zallone_europa_birra.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_11_zallone_ep2026se_13_zallone_europa_birra.ppt">📄</a></span>
 16:35|30|<span class='talk'><em>Coffee Break</em></span>
 17:05|60|<span class='talk' id='1p06-programma'><em><a href='#1p06'>Processo all'Autorità Garante per la protezione dei dati personali</a></em><br/>Moderato da: Carlo Blengino<br/>Partecipano: TBA</span>
 18:05|5|<span class='talk' id='1p07-programma'>Marco Calamari<br/><em>Chiusura dei lavori</em></span>
