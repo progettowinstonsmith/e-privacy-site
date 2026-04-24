@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-23 15:26:48
+Date: 2026-04-24 10:36:53
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -70,7 +70,7 @@ attori possono assorbire senza scosse.
 ------- | --- | -------
 09:30|5|<a name='1m01'></a>Marco Calamari<br/>*Apertura della sessione*
 09:35|5|<a name='1m02'></a>[Laura Sparavigna](/e-privacy-XXXVIII-relatori.html#laura-sparavigna) (Comune di Firenze)<br/>*Saluti istituzionali*
-09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*
+09:40|30|<a name='1m03'></a>[Diego Giorio (SEPEL Editrice)](/e-privacy-XXXVIII-relatori.html#diego-giorio)<br/>*[Ma io cosa farei?](/e-privacy-XXXVIII-interventi.html#1m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_giorio_relazione.pdf">🧾</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_giorio_slides.pptx">📄</a>
 10:10|20|<a name='1m04'></a>[Andrea Rossi (SECSI)](/e-privacy-XXXVIII-relatori.html#andrea-rossi)<br/>*[Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-interventi.html#1m04)*
 10:30|20|<a name='1m05'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXVIII-relatori.html#edoardo-ferri)<br/>*[Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile](/e-privacy-XXXVIII-interventi.html#1m05)*
 10:50|30|*Coffee Break*

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-23 15:26:45
+Date: 2026-04-24 10:36:50
 Slug: e-privacy-XXXVIII-email
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -68,7 +68,7 @@ Programma del Convegno
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari<br/><em>Apertura della sessione</em></span>
 09:35|5|<span class='talk' id='1m02-programma'>Laura Sparavigna (Comune di Firenze)<br/><em>Saluti istituzionali</em></span>
-09:40|30|<span class='talk' id='1m03-programma'>[Diego Giorio (SEPEL Editrice)](#diego-giorio)<br/><em><a href='#1m03'>Ma io cosa farei?</a></em></span>
+09:40|30|<span class='talk' id='1m03-programma'>[Diego Giorio (SEPEL Editrice)](#diego-giorio)<br/><em><a href='#1m03'>Ma io cosa farei?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_01_giorio_relazione.pdf">🧾</a> <a href="https://urna.winstonsmith.org/materiali/2026/atti/ep2026su_02_giorio_slides.pptx">📄</a></span>
 10:10|20|<span class='talk' id='1m04-programma'>[Andrea Rossi (SECSI)](#andrea-rossi)<br/><em><a href='#1m04'>Processo all'Autorità Garante per la protezione dei dati personali</a></em></span>
 10:30|20|<span class='talk' id='1m05-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1m05'>Chi legge i tuoi log? La filiera del SOC tra MDR, subappalto e privacy invisibile</a></em></span>
 10:50|30|<span class='talk'><em>Coffee Break</em></span>
