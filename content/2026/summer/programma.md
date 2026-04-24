@@ -38,9 +38,9 @@ Template: event
 
 <br>
 
-  Il *Progetto Winston Smith* ha organizzato la 
-trentottesima edizione di e-privacy, si è tenuta in presenza ed in
-videoconferenza il 24 aprile a Firenze.
+  Il *Progetto Winston Smith* con la collaborazione del Comune di Firenze
+ ha organizzato la trentottesima edizione di e-privacy, che si è tenuta in
+ presenza ed in videoconferenza il 24 aprile a Firenze.
 
 
 ## Il tema
