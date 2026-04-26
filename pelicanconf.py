@@ -23,7 +23,7 @@ SITENAME = 'e-privacy 2026 summer: Privacy senza Garante o Garante senza Privacy
 IMAGE = 'e-privacy-XXXVIII.png'
 PROPOSALS_OPEN = False
 
-COUNTDOWN = True
+COUNTDOWN = False
 EVENT_TIME = '2026/04/24 09:30'
 
 LIVE_AT=False
@@ -219,7 +219,7 @@ SLIDES_SETTINGS = {'STATIC_RECIPIENTS': ['segreteria@winstonsmith.org'],
  'STORAGE_PATH': '/home/pws/data/inbound',
  'PASSWORD': 'JULIA',
  'REDIRECT_URL': '/grazie-consegna-slides.html',
- 'MAX_INLINE_SIZE': 1024 * 1024 * 1024}
+ 'MAX_INLINE_SIZE': '1024 * 1024 * 1024'}
 
 ### CONFIGURAZIONE EDIZIONI
 

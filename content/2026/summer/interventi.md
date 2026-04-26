@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-24 14:46:16
+Date: 2026-04-26 12:30:53
 Slug: e-privacy-XXXVIII-interventi
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -131,6 +131,6 @@ Lo scopo dell’intervento è quello di sollecitare una riflessione critica e co
 
 #### <a name="1p06"></a> [Processo all'Autorità Garante per la protezione dei dati personali](/e-privacy-XXXVIII-programma.html#1p06) [⇧](/e-privacy-XXXVIII-programma.html#1p06)
 Moderato da: [Carlo Blengino](/e-privacy-XXXVIII-relatori.html#carlo-blengino)
-Partecipano: TBA
+Partecipano: [Simone Aliprandi](/e-privacy-XXXVIII-relatori.html#simone-aliprandi), Marco Ciurcina (StudioLegale.it) e altri ancora
 
 -
