@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-04-26 12:30:55
+Date: 2026-04-26 23:49:43
 Slug: e-privacy-XXXVIII-programma
 Year: 2026
 Where: Sala conferenze dell'Infopoint
@@ -37,13 +37,6 @@ Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, ireyewear
 <div class="subtitle-XXXVIII">Processo al Garante per la Protezione dei Dati Personali</div>
 
 <br>
-
-  Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
-trentottesima edizione di e-privacy, che si terrà in presenza ed in
-videoconferenza il 24 aprile a Firenze.
-
-
-## Il tema
 
 La protezione della privacy in Europa è scivolata lungo un piano
 inclinato, passando da imperativo etico a feticcio burocratico. Mentre

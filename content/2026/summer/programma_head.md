@@ -37,13 +37,6 @@ status: draft
 
 <br>
 
-  Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
-trentottesima edizione di e-privacy, che si terrà in presenza ed in
-videoconferenza il 24 aprile a Firenze.
-
-
-## Il tema
-
 La protezione della privacy in Europa è scivolata lungo un piano
 inclinato, passando da imperativo etico a feticcio burocratico. Mentre
 il cittadino si barcamena in un mare di consensi estorti da banner che
