@@ -38,9 +38,9 @@ LIVE_URL="https://www.youtube.com/watch?v=m58flx5d1qI"
 
 LATERAL_BAR = [
     ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
-    ('Consegna Slides', '/consegna-slides.html'),
+    # [ ] ('Consegna Slides', '/consegna-slides.html'),
     # [ ] ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
-    ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
+    # [ ] ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
     ('Donazioni', '/donazioni-e-privacy.html'),
     ('Collabora', '/collabora.html'),
