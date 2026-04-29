@@ -36,7 +36,7 @@ Template: event
 
 <div class="subtitle-XXXVIII">Processo al Garante per la Protezione dei Dati Personali</div>
 
-<br>
+<br> 
 
 **Pubblicati gli atti e le registrazioni video del convegno** 
 
