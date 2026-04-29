@@ -37,6 +37,15 @@ status: draft
 
 <br>
 
+**Pubblicati gli atti e le registrazioni video del convegno** 
+
+Il **24 aprile 2026** si è tenuto a Firenze **e-privacy XXXVIII - 2026 summer edition**.
+
+La sede del Convegno è stata la sala multimediale dell'[Ufficio Informazioni Turistiche del Comune di Firenze](http://e-privacy.winstonsmith.org/e-privacy-XXXVII-come-arrivare.html) in Piazza della Stazione di Santa Maria Novella, 4 - Firenze.
+<br>
+
+## Il tema del Convegno
+
 La protezione della privacy in Europa è scivolata lungo un piano
 inclinato, passando da imperativo etico a feticcio burocratico. Mentre
 il cittadino si barcamena in un mare di consensi estorti da banner che
