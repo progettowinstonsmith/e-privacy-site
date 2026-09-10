@@ -83,8 +83,7 @@ che distinguano le garanzie dalla retorica e la tutela dal mero
 esercizio di potere.
 
 
-**Le proposte di relazione ed eventuali candidature ai ruoli
-nel Processo dovranno pervenire al Comitato Scientifico entro sabato
+**Le proposte di relazione dovranno pervenire al Comitato Scientifico entro sabato
 3 ottobre 2026; la loro accettazione sarà comunicate agli interessati entro il 7 ottobre.**
 
 # Gli interventi
