@@ -41,8 +41,8 @@ Per iscriversi in lista d'attesa per l'accesso compilare questo <a href="/iscriz
 ## Call for Paper
 
   Il *Progetto Winston Smith* è lieto di invitarti come relatore alla
-trentottesima edizione di e-privacy, che si terrà in presenza ed in
-videoconferenza il 13-14 novembre a Pavia.
+trentanovesima edizione di e-privacy, che si terrà sia in presenza che in
+streaming il 13-14 novembre a Pavia.
 
 
 ## Il tema
