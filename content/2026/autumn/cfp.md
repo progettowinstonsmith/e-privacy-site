@@ -84,7 +84,7 @@ esercizio di potere.
 
 
 **Le proposte di relazione dovranno pervenire al Comitato Scientifico entro sabato
-3 ottobre 2026; la loro accettazione sarà comunicate agli interessati entro il 7 ottobre.**
+3 ottobre 2026; la loro accettazione sarà comunicata agli interessati entro il 7 ottobre.**
 
 # Gli interventi
 

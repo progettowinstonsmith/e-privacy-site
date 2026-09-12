@@ -21,9 +21,9 @@ YEAR = '2026'
 EDITION = 'autumn'
 SITENAME = 'e-privacy 2026 autumn: Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?'
 IMAGE = 'e-privacy-XXXIX.png'
-PROPOSALS_OPEN = False
+PROPOSALS_OPEN = True
 
-COUNTDOWN = False
+COUNTDOWN = True
 EVENT_TIME = '2026/11/13 09:30'
 
 LIVE_AT=False
