@@ -75,13 +75,15 @@ La domanda non è soltanto che cosa l’IA sa fare.
 
 La domanda è quale forma di mente rende normale
 
-Le proposte
+# Le proposte
 
 Il Progetto Winston Smith invita a mettere in relazione la privacy con
 le pratiche quotidiane e i grandi equilibri di potere. Cerchiamo analisi
 che distinguano le garanzie dalla retorica e la tutela dal mero
 esercizio di potere.
 
+**Le proposte di relazione dovranno essere presentate ESCLUSIVAMENTE con 
+[questo form](https://e-privacy.winstonsmith.org/e-privacy-proposta-talk.html).**
 
 **Le proposte di relazione dovranno pervenire al Comitato Scientifico entro sabato
 3 ottobre 2026; la loro accettazione sarà comunicata agli interessati entro il 7 ottobre.**
