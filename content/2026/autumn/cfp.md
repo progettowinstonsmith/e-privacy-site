@@ -83,7 +83,7 @@ che distinguano le garanzie dalla retorica e la tutela dal mero
 esercizio di potere.
 
 **Le proposte di relazione dovranno essere presentate ESCLUSIVAMENTE con 
-[questo form](https://e-privacy.winstonsmith.org/e-privacy-proposta-talk.html).**
+[questo form](https://dashboard.winstonsmith.org/proposals).**
 
 **Le proposte di relazione dovranno pervenire al Comitato Scientifico entro sabato
 3 ottobre 2026; la loro accettazione sarà comunicata agli interessati entro il 7 ottobre.**
