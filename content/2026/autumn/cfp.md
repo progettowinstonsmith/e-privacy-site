@@ -21,9 +21,10 @@ Title: Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?
 When: 13-14 novembre 2026
 Where: Istituto Tecnico G. Cardano
 Year: 2026
+Collaboratori: cibernetico
 Date: 05/09/2026 10:00
 Slug: e-privacy-XXXIX-cfp
-Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, isgroup
 Status: published
 
 # e-privacy XXXIX @ Pavia

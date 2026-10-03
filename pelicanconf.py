@@ -58,6 +58,7 @@ LINKS = (
     ('Centro HERMES', 'https://hermescenter.org/'),
     ('Cassandra Crossing', 'https://www.cassandracrossing.org/'),
     ('Aneddotica Magazine', 'https://www.aneddoticamagazine.com/it/'),
+    ('Il Cibernetico', 'https://www.ilcibernetico.it'),
 )
 
 # CONFIGURAZIONE PARTNERS
@@ -192,7 +193,8 @@ PARTNERS = {'whistleblowingsolutions': ('Whistleblowing Solutions',
  'onif': ('Osservatorio Nazionale Informatica Forense', 'logoONIF.png', 'https://www.onif.it/'),
  'lopez': ('UgoLopez.it', 'logoUgoLopez.png', 'https://www.ugolopez.it/'),
  'faro': ('Blue Lighthouse', 'logoFaro.ai.png', 'https://blue-lighthouse.org/'),
- 'uniba': ('Università degli Studi di Bari - Aldo Moro', 'logouniba.png', 'https://www.uniba.it/it')}
+ 'uniba': ('Università degli Studi di Bari - Aldo Moro', 'logouniba.png', 'https://www.uniba.it/it'),
+ 'cibernetico': ('Il Cibernetico', 'logoIlCibernetico.png', 'https://ilcibernetico.it')}
 
 
 # CONFIGURAZIONE SUBMIT PROPOSALS
