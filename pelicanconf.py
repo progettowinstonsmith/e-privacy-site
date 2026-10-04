@@ -194,7 +194,7 @@ PARTNERS = {'whistleblowingsolutions': ('Whistleblowing Solutions',
  'lopez': ('UgoLopez.it', 'logoUgoLopez.png', 'https://www.ugolopez.it/'),
  'faro': ('Blue Lighthouse', 'logoFaro.ai.png', 'https://blue-lighthouse.org/'),
  'uniba': ('Università degli Studi di Bari - Aldo Moro', 'logouniba.png', 'https://www.uniba.it/it'),
- 'cibernetico': ('Il Cibernetico', 'logoIlCibernetico.png', 'https://ilcibernetico.it')}
+ 'cibernetico': ('Il Cibernetico', 'logoIlCibernetico.jpg', 'https://ilcibernetico.it')}
 
 
 # CONFIGURAZIONE SUBMIT PROPOSALS
