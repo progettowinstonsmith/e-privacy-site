@@ -486,11 +486,18 @@ ALL_EDIZIONI = [(2002,
               'lon': 11.2490475524806}}),
  (2026,
   {'summer': {'city': 'Firenze',
-              'link': '/e-privacy-XXXVIII.html',
+              'link': '/e-privacy-XXXVIII-programma.html',
               'edition': 'XXXVIII',
               'location': 'Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI',
               'lat': 43.7754177098538,
-              'lon': 11.2490475524806}})]
+              'lon': 11.2490475524806},
+   'winter': {'city': 'Pavia',
+              'link': '/e-privacy-XXXIX-cfp.html',
+              'edition': 'XXXIX',
+              'location': 'Istituto Tecnico Industriale Statale "G. Cardano", Via Giuseppe Verdi, 19 - 27100 Pavia '
+                          '(PV).',
+              'lat': 45.1849741,
+              'lon': 9.1377686}})]
 
 
 

@@ -359,8 +359,17 @@ const eprivacyLocations = [
     "when": "Summer",
     "city": "Firenze",
     "where": "Sala Multimediale Infopoint,Piazza della Stazione, 4, 50123 Firenze FI",
-    "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXVIII.html",
+    "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXVIII-programma.html",
     "lat": 43.7754177098538,
     "lon": 11.2490475524806
+  },
+  {
+    "year": "2026",
+    "when": "Winter",
+    "city": "Pavia",
+    "where": "Istituto Tecnico Industriale Statale \"G. Cardano\", Via Giuseppe Verdi, 19 - 27100 Pavia (PV).",
+    "link": "https://e-privacy.winstonsmith.org/e-privacy-XXXIX-cfp.html",
+    "lat": 45.1849741,
+    "lon": 9.1377686
   }
 ];
