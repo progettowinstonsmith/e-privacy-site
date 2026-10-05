@@ -8,8 +8,8 @@ Extra-Documents: nil
 Giorni: 24 aprile
 Lang: it
 Location: Firenze
-Next:
-Nextid:
+Next: e-privacy-XXXIX-cfp
+Nextid: 2026
 Num: XXXVIII
 Options: toc:nil
 Prev: e-privacy-XXXVII

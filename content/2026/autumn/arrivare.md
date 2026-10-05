@@ -11,7 +11,7 @@ Next:
 Nextid:
 Num: XXXIX
 Options: toc:nil
-Prev: e-privacy-XXXVIII
+Prev: e-privacy-XXXVIII-programma
 Previd: 2026
 Season: autumn
 Subtitle: Inquinavano il pianeta. Ora inquinano la mente?
