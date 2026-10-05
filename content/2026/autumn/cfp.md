@@ -22,8 +22,8 @@ When: 13-14 novembre 2026
 Where: Istituto Tecnico G. Cardano
 Year: 2026
 Collaboratori: cibernetico
-Mediapartner: infomedia, hackerjournal
 Date: 05/09/2026 10:00
+Mediapartner: infomedia, hackerjournal, lealternative
 Organizzatori: pws, hermes
 Slug: e-privacy-XXXIX-cfp
 Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, isgroup
