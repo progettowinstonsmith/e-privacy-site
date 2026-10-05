@@ -57,7 +57,6 @@ LINKS = (
     ('Circolo dei Giuristi Telematici', 'http://www.giuristitelematici.it/'),
     ('Centro HERMES', 'https://hermescenter.org/'),
     ('Cassandra Crossing', 'https://www.cassandracrossing.org/'),
-    ('Aneddotica Magazine', 'https://www.aneddoticamagazine.com/it/'),
     ('Il Cibernetico', 'https://www.ilcibernetico.it'),
 )
 
