@@ -37,8 +37,8 @@ LIVE_URL="https://www.youtube.com/watch?v=m58flx5d1qI"
 ### CONFIGURAZIONE BARRA LATERALE
 
 LATERAL_BAR = [
-    # [ ] ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
-    # [ ] ('Consegna Slides', '/consegna-slides.html'),
+    ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
+    ('Consegna Slides', '/consegna-slides.html'),
     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
     ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
@@ -552,6 +552,7 @@ USE_FOLDER_AS_CATEGORY = True
 
 # DIRECT_TEMPLATES = ['index', 'archives']
 
+OUTPUT_RETENTION = [".well-known"]
 DELETE_OUTPUT_DIRECTORY = True
 
 
