@@ -1,0 +1,45 @@
+Category: 2026
+City: Pavia
+Css: .title-XXXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIX { font: 18px arial, sans-serif; text-align: center; }
+Edition: autumn
+Eprivacy_N: XXXIX
+Event_Path: content/2026/autumn
+Extra-Documents: nil
+Giorni: 13-14 novembre
+Lang: it
+Location: Pavia
+Next:
+Nextid:
+Num: XXXIX
+Options: toc:nil
+Prev: e-privacy-XXXVIII-programma
+Previd: 2026
+Season: autumn
+Subtitle: Inquinavano il pianeta. Ora inquinano la mente?
+Timeline: 3 ottobre | 7 ottobre | 10 novembre
+Title: Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?
+When: 13-14 novembre 2026
+Where: Istituto Tecnico G. Cardano
+Year: 2026
+enabled: no
+locked: no
+status: draft
+
+### Gli organizzatori
+
+La manifestazione e’ organizzata da:
+
+ - [Progetto Winston Smith](http://pws.winstonsmith.org/) è un’associazione senza fini di lucro che si occupa della difesa del diritto alla privacy in Rete e fuori
+ - [HERMES](http://hermescenter.org/) \- Centro Studi Trasparenza e Diritti Umani Digitali.
+
+e da altre organizzazioni, aziende ed associazioni.
+
+
+### Contatti
+
+Per contatti generali e per la
+stampa: [eprivacy@winstonsmith.org](mailto:eprivacy@winstonsmith.org),
+per i relatori
+[cfp-eprivacy@winstonsmith.org](mailto:cfp-eprivacy@winstonsmith.org).
+
+**Vi aspettiamo**.
