@@ -97,28 +97,37 @@ ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 
+git_sync:
+	@set -e; \
+	echo "[git] pull..."; \
+	if ! git pull; then echo "[git] errore durante pull" >&2; exit 1; fi; \
+	if git diff --quiet && git diff --cached --quiet; then \
+	  echo "[git] nessuna modifica da committare"; \
+	else \
+	  echo "[git] commit..."; \
+	  if ! git commit -a -m step; then echo "[git] errore durante commit" >&2; exit 1; fi; \
+	fi; \
+	echo "[git] push..."; \
+	if ! git push; then echo "[git] errore durante push: il remoto potrebbe essere avanzato" >&2; exit 1; fi; \
+	echo "[git] sincronizzazione completata"
+
 deposit: publish
 	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(TARGETDIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
-
+	$(MAKE) git_sync
 
 upload: publish
 	rsync -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
-	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
+	$(MAKE) git_sync
 
 rsync_upload: publish
 	rsync -e "ssh  -Y -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude  --exclude=materiali --delete-excluded
 	ssh -Y -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf /home/pws/sites/org.winstonsmith.urna/site/materiali/  $(SSH_TARGET_DIR)/materiali"
 	# ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "ln -sf 2015.html $(SSH_TARGET_DIR)/2015"
-	git pull && git commit -a -m step && git push && git status || echo "************** ERRORE DI COMMIT **********"
+	$(MAKE) git_sync
 
 # --usermap=ampleforth:www-data --groupmap=ampleforth:www-data
 
-commit:
-	git pull
-	git commit -a -m step
-	git push
-	git status
+commit: git_sync
 
 
 
@@ -138,4 +147,4 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean regenerate serve devserver upload publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+.PHONY: html help clean regenerate serve devserver upload publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github git_sync commit
