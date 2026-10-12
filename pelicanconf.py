@@ -21,7 +21,7 @@ YEAR = '2026'
 EDITION = 'autumn'
 SITENAME = 'e-privacy 2026 autumn: Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?'
 IMAGE = 'e-privacy-XXXIX.png'
-PROPOSALS_OPEN = True
+PROPOSALS_OPEN = False
 
 COUNTDOWN = True
 EVENT_TIME = '2026/11/13 09:30'
@@ -38,7 +38,6 @@ LIVE_URL="https://www.youtube.com/watch?v=m58flx5d1qI"
 
 LATERAL_BAR = [
     ('Il programma', f'/e-privacy-{EPRIVACY_N}.html'),
-    ('Consegna Slides', '/consegna-slides.html'),
     ('Call for Paper', f'/e-privacy-{EPRIVACY_N}-cfp.html'),
     ('Come arrivare', f'/e-privacy-{EPRIVACY_N}-arrivare.html'),
     ('Mappa delle edizioni', '/mappa-edizioni-e-privacy.html'),
@@ -504,8 +503,6 @@ ALL_EDIZIONI = [(2002,
 #####
 
 
-if PROPOSALS_OPEN:
-    LATERAL_BAR.insert(0,('Proposta Talk', '/e-privacy-proposta-talk.html'))
 
 THIS_TITLE = f"e-privacy {YEAR} {EDITION}"
 
@@ -576,19 +573,17 @@ for year, sessions in ALL_EDIZIONI:
 
 DEFAULT_PAGINATION = False
 
-STATIC_PATHS = ['images', '.htaccess', 'extra/js', 'extra/cgi-bin']
+STATIC_PATHS = ['images', '.htaccess', 'extra/js']
 
 EXTRA_PATH_METADATA = {
     'favicon.ico': {'path': 'favicon.ico'},  #
     'extra/js/eprivacy_locations.js': {'path': 'theme/js/eprivacy_locations.js'},
     'extra/cgi-bin/submit.py': {'path': 'cgi-bin/submit.py'},
-    'extra/cgi-bin/submit-propostatalk.py': {'path': 'cgi-bin/submit-propostatalk.py'},
-    'extra/cgi-bin/submit-slides.py': {'path': 'cgi-bin/submit-slides.py'},
     'robots.txt': {'path': 'robots.txt'},
 }
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['gened', 'submitter']
+PLUGINS = ['gened']
 
 # Uncomment following line if you want document-relative URLs when developing 
 RELATIVE_URLS = True
