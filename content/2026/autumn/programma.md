@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-08 22:20:15
+Date: 2026-10-17 22:27:20
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -37,6 +37,10 @@ Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, isgroup
 <div class="subtitle-XXXIX">Inquinavano il pianeta. Ora inquinano la mente?</div>
 
 <br>
+
+La domanda non è soltanto che cosa l’IA sa fare.
+
+La domanda è quale forma di mente rende normale.
 
 
 ## Il programma del Convegno
