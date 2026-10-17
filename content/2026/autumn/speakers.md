@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-17 22:27:19
+Date: 2026-10-17 22:37:22
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -80,7 +80,7 @@ Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra, a 18 anni 
 E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
 Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori, ed e' editorialista di "Punto Informatico" dove pubblica la rubrica settimanale "Cassandra Crossing".
 
-Ad e-privacy presenta [Kickoff](/e-privacy-XXXIX-programma.html#1m01).
+Ad e-privacy presenta [Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?](/e-privacy-XXXIX-programma.html#1m01).
 
 ### <a name='laura-camellini'></a>Laura Camellini (Near protocol) [⇧](/e-privacy-XXXIX-programma.html#1p04)
 
@@ -112,6 +112,12 @@ Ad e-privacy presenta [Se l’IA dimostra teoremi, chi attribuisce, comprende e 
 Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri &amp; Costantino. Auditor/Lead Auditor nei Sistemi di Gestione per la Sicurezza delle Informazioni (ISO 27001) e per l'Intelligenza Artificiale (ISO 42001). Direttore Responsabile della rivista a carattere tecnico scientifico Il Cibernetico
 
 Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-programma.html#1p02).
+
+### <a name='diego-giorio'></a>Diego Giorio (SEPEL Editrice) [⇧](/e-privacy-XXXIX-programma.html#1p01)
+
+Dopo un'esperienza nell'industria privata, nella ricerca&amp;sviluppo di una multinazionale di seminconduttori prima, nel marketing e nel web marketing poi, ho successivamente avuto altre esperienza professionali prima di approdare alla Pubblica Amministrazione, nei servizi demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare con SEPEL articoli in varie materie demografiche e di interesse generale della PA, ho tenuto corsi di formazione per un'Associazione di settore, dopo avere ottenuto il titolo di formatore dal Ministero dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come relatore.
+
+Ad e-privacy presenta [Apertura sessione pomeridiana](/e-privacy-XXXIX-programma.html#1p01).
 
 ### <a name='diego-maranini'></a>Diego Maranini (None) [⇧](/e-privacy-XXXIX-programma.html#2m06)
 
@@ -145,6 +151,26 @@ Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy
 <div>Luca Masrè Passaro conosce la persuasione dall'interno.&nbsp;</div><div><br></div><div>Da oltre vent'anni lavora nel marketing e nella comunicazione digitale, e dal 2017 dirige Marketing Romagnolo, un'agenzia di Imola: il suo mestiere è costruire messaggi che convincono. Dal 2018 percorre anche la strada opposta. Come formatore e relatore insegna a riconoscere quei meccanismi (neuromarketing, economia dell'attenzione, psicologia della persuasione) seguendo un filo che torna in tutti i suoi interventi: come la persuasione è passata dalla propaganda agli algoritmi, e oggi all'IA generativa. Insegna all'ITS Academy Turismo Emilia-Romagna, forma all'uso dell'intelligenza artificiale adulti che lavorano in azienda, ha scritto articoli per Orgoglio Nerd e Tech Princess ed è autore di «Manuale di sopravvivenza alla stupidità umana» (2026), un saggio sui bias cognitivi e sulle scorciatoie della mente.</div><div><br></div>
 
 Ad e-privacy presenta [Dalla propaganda all'IA: quando la persuasione si scrive da sola](/e-privacy-XXXIX-programma.html#2m02).
+
+### <a name='marco-milione'></a>Marco Milione (Amateru) [⇧](/e-privacy-XXXIX-programma.html#1m07)
+
+Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton
+e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival
+2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra
+Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al
+David di Donatello 2020 per il miglior documentario.
+Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco
+Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in
+volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio
+sulla xilografia giapponese.
+La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel
+cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The
+Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it.
+Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura
+al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida
+Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
+
+Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m07).
 
 ### <a name='lucia-adele-ruggiero'></a>Lucia Adele Ruggiero (Avvera srl) [⇧](/e-privacy-XXXIX-programma.html#2m04)
 

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-17 22:27:18
+Date: 2026-10-17 22:37:21
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -61,7 +61,7 @@ sua funzione di palestra del pensiero critico.</p>
 
 Ogni giorno incontriamo sistemi che riconoscono immagini, suggeriscono video, scrivono testi e aiutano a progettare software. Li chiamiamo «intelligenza artificiale», ma che cosa significa davvero <i>intelligenza</i> in questo contesto? Partendo da esempi vicini agli studenti e ai professori di un istituto tecnico, confronteremo le capacità dei sistemi di AI con l’intelligenza umana: come apprendono, quali problemi sanno risolvere e dove possono sbagliare. Vedremo anche chi sceglie i dati, definisce gli obiettivi e risponde delle conseguenze. L’incontro offrirà strumenti per usare queste tecnologie con competenza e giudizio critico.<br><br><br>
 
-#### <a name="1m07"></a> [Roundtable](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
+#### <a name="1m07"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
 Moderato da: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)
 Partecipano: TBA
 

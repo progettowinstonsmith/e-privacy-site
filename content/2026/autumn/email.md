@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-17 22:27:17
+Date: 2026-10-17 22:37:20
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -56,14 +56,14 @@ Programma del Convegno
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Kickoff</em></span>
+09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
 09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali</em></span>
 09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto (N/A)](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|40|<span class='talk' id='1m05-programma'>[Emmanuele Somma (Progetto Winston Smith)](#emmanuele-somma)<br/><em><a href='#1m05'>IA contro AI: chi decide quando decide una macchina?</a></em></span>
 11:30|30|<span class='talk'><em>Coffee Break</em></span>
-12:00|60|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Roundtable</a></em><br/>Moderato da: Marco Calamari (pws)<br/>Partecipano: TBA</span>
-13:00|15|<span class='talk' id='1m08-programma'>Marco Calamari (pws)<br/><em>Closing</em></span>
+12:00|60|<span class='talk' id='1m07-programma'><em><a href='#1m07'>The Power of Data</a></em><br/>Moderato da: Marco Calamari (pws)<br/>Partecipano: TBA</span>
+13:00|5|<span class='talk' id='1m08-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
 #### 13 novembre 2026 - pomeriggio
 
@@ -71,14 +71,14 @@ Programma del Convegno
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-14:30|15|<span class='talk' id='1p01-programma'>-<br/><em>Saluti Istituzionali</em></span>
-14:45|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
-15:15|30|<span class='talk' id='1p03-programma'>[Yvette Agostini (None)](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em></span>
-15:45|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em></span>
-16:30|30|<span class='talk'><em>Coffee Break</em></span>
-17:00|30|<span class='talk' id='1p06-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p06'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
-17:30|20|<span class='talk' id='1p07-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p07'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
-17:50|15|<span class='talk' id='1p08-programma'>-<br/><em>Closing</em></span>
+14:30|10|<span class='talk' id='1p01-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Apertura sessione pomeridiana</em></span>
+14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
+15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini (None)](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em></span>
+15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em></span>
+16:25|30|<span class='talk'><em>Coffee Break</em></span>
+16:55|30|<span class='talk' id='1p06-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p06'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
+17:25|20|<span class='talk' id='1p07-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p07'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
+17:45|5|<span class='talk' id='1p08-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
 
 #### 14 novembre 2026 - mattina
 
@@ -93,7 +93,7 @@ Programma del Convegno
 11:15|30|<span class='talk'><em>Coffee Break</em></span>
 11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini (None)](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em></span>
 12:15|45|<span class='talk' id='2m07-programma'>[Carlo Blengino (None)](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m07'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
-13:00|5|<span class='talk' id='2m08-programma'>-<br/><em>Closing</em></span>
+13:00|5|<span class='talk' id='2m08-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
@@ -131,7 +131,7 @@ sua funzione di palestra del pensiero critico.</p>
 
 Ogni giorno incontriamo sistemi che riconoscono immagini, suggeriscono video, scrivono testi e aiutano a progettare software. Li chiamiamo «intelligenza artificiale», ma che cosa significa davvero <i>intelligenza</i> in questo contesto? Partendo da esempi vicini agli studenti e ai professori di un istituto tecnico, confronteremo le capacità dei sistemi di AI con l’intelligenza umana: come apprendono, quali problemi sanno risolvere e dove possono sbagliare. Vedremo anche chi sceglie i dati, definisce gli obiettivi e risponde delle conseguenze. L’incontro offrirà strumenti per usare queste tecnologie con competenza e giudizio critico.<br><br><br>
 
-#### <a name="1m07"></a> Roundtable<a href='#1m07'>⇧</a>
+#### <a name="1m07"></a> The Power of Data<a href='#1m07'>⇧</a>
 Moderato da: Marco Calamari (pws)
 Partecipano: TBA
 
@@ -264,7 +264,7 @@ Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra, a 18 anni 
 E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali.
 Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori, ed e' editorialista di "Punto Informatico" dove pubblica la rubrica settimanale "Cassandra Crossing".
 
-Ad e-privacy presenta [Kickoff](#1m01).
+Ad e-privacy presenta [Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?](#1m01).
 
 ### <a name='laura-camellini'></a>Laura Camellini (Near protocol) <a href='#1p04'>⇧</a>
 
@@ -296,6 +296,12 @@ Ad e-privacy presenta [Se l’IA dimostra teoremi, chi attribuisce, comprende e 
 Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri &amp; Costantino. Auditor/Lead Auditor nei Sistemi di Gestione per la Sicurezza delle Informazioni (ISO 27001) e per l'Intelligenza Artificiale (ISO 42001). Direttore Responsabile della rivista a carattere tecnico scientifico Il Cibernetico
 
 Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](#1p02).
+
+### <a name='diego-giorio'></a>Diego Giorio (SEPEL Editrice) <a href='#1p01'>⇧</a>
+
+Dopo un'esperienza nell'industria privata, nella ricerca&amp;sviluppo di una multinazionale di seminconduttori prima, nel marketing e nel web marketing poi, ho successivamente avuto altre esperienza professionali prima di approdare alla Pubblica Amministrazione, nei servizi demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare con SEPEL articoli in varie materie demografiche e di interesse generale della PA, ho tenuto corsi di formazione per un'Associazione di settore, dopo avere ottenuto il titolo di formatore dal Ministero dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come relatore.
+
+Ad e-privacy presenta [Apertura sessione pomeridiana](#1p01).
 
 ### <a name='diego-maranini'></a>Diego Maranini (None) <a href='#2m06'>⇧</a>
 
@@ -329,6 +335,26 @@ Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy
 <div>Luca Masrè Passaro conosce la persuasione dall'interno.&nbsp;</div><div><br></div><div>Da oltre vent'anni lavora nel marketing e nella comunicazione digitale, e dal 2017 dirige Marketing Romagnolo, un'agenzia di Imola: il suo mestiere è costruire messaggi che convincono. Dal 2018 percorre anche la strada opposta. Come formatore e relatore insegna a riconoscere quei meccanismi (neuromarketing, economia dell'attenzione, psicologia della persuasione) seguendo un filo che torna in tutti i suoi interventi: come la persuasione è passata dalla propaganda agli algoritmi, e oggi all'IA generativa. Insegna all'ITS Academy Turismo Emilia-Romagna, forma all'uso dell'intelligenza artificiale adulti che lavorano in azienda, ha scritto articoli per Orgoglio Nerd e Tech Princess ed è autore di «Manuale di sopravvivenza alla stupidità umana» (2026), un saggio sui bias cognitivi e sulle scorciatoie della mente.</div><div><br></div>
 
 Ad e-privacy presenta [Dalla propaganda all'IA: quando la persuasione si scrive da sola](#2m02).
+
+### <a name='marco-milione'></a>Marco Milione (Amateru) <a href='#1m07'>⇧</a>
+
+Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton
+e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival
+2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra
+Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al
+David di Donatello 2020 per il miglior documentario.
+Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco
+Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in
+volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio
+sulla xilografia giapponese.
+La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel
+cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The
+Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it.
+Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura
+al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida
+Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
+
+Ad e-privacy partecipa a [The Power of Data](#1m07).
 
 ### <a name='lucia-adele-ruggiero'></a>Lucia Adele Ruggiero (Avvera srl) <a href='#2m04'>⇧</a>
 
