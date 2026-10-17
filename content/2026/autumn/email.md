@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-18 00:26:25
+Date: 2026-10-18 00:32:50
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -67,7 +67,7 @@ Programma del Convegno
 
 #### 13 novembre 2026 - pomeriggio
 
-* Modera: giorio
+* Modera: <a href='/e-privacy-XXXIX-relatori.html#diego-giorio'>Diego Giorio</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------

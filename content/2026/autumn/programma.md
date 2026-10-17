@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-18 00:26:28
+Date: 2026-10-18 00:32:53
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -62,7 +62,7 @@ La domanda è quale forma di mente rende normale.
 
 #### 13 novembre 2026 - pomeriggio
 
-* Modera: giorio
+* Modera: [Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio)
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
