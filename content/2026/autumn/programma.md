@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-18 00:54:56
+Date: 2026-10-19 08:25:29
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -53,7 +53,7 @@ La domanda è quale forma di mente rende normale.
 ------- | --- | -------
 09:30|5|<a name='1m01'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?*
 09:35|15|<a name='1m02'></a>-<br/>*Saluti Istituzionali*
-09:50|30|<a name='1m03'></a>[Rebecca Berto (N/A)](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*
+09:50|30|<a name='1m03'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*
 10:20|30|<a name='1m04'></a>[Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)<br/>*[Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-interventi.html#1m04)*
 10:50|40|<a name='1m05'></a>[Emmanuele Somma (Progetto Winston Smith)](/e-privacy-XXXIX-relatori.html#emmanuele-somma)<br/>*[IA contro AI: chi decide quando decide una macchina?](/e-privacy-XXXIX-interventi.html#1m05)*
 11:30|30|*Coffee Break*
@@ -68,12 +68,13 @@ La domanda è quale forma di mente rende normale.
 ------- | --- | -------
 14:30|10|<a name='1p01'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Apertura sessione pomeridiana*
 14:40|30|<a name='1p02'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXIX-relatori.html#edoardo-ferri)<br/>*["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-interventi.html#1p02)*
-15:10|30|<a name='1p03'></a>[Yvette Agostini (None)](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*
+15:10|30|<a name='1p03'></a>[Yvette Agostini](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*
 15:40|45|<a name='1p04'></a>[Laura Camellini (Near protocol)](/e-privacy-XXXIX-relatori.html#laura-camellini)<br/>*[Agenti trustless e privacy by architecture](/e-privacy-XXXIX-interventi.html#1p04)*
-16:25|30|*Coffee Break*
-16:55|30|<a name='1p06'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p06)*
-17:25|20|<a name='1p07'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p07)*
-17:45|5|<a name='1p08'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
+16:25|20|<a name='1p05'></a>[Sandrini Mauro (Ing. Mauro Sandrini)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)<br/>*[Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-interventi.html#1p05)*
+16:45|15|*Coffee Break*
+17:00|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*
+17:30|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*
+17:50|5|<a name='1p09'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
 
 #### 14 novembre 2026 - mattina
 
@@ -86,8 +87,8 @@ La domanda è quale forma di mente rende normale.
 10:15|30|<a name='2m03'></a>[Alessandra De Rossi (Università di Torino)](/e-privacy-XXXIX-relatori.html#alessandra-de-rossi)<br/>*[Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](/e-privacy-XXXIX-interventi.html#2m03)*
 10:45|30|<a name='2m04'></a>[Lucia Adele Ruggiero (Avvera srl)](/e-privacy-XXXIX-relatori.html#lucia-adele-ruggiero)<br/>*[Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-interventi.html#2m04)*
 11:15|30|*Coffee Break*
-11:45|30|<a name='2m06'></a>[Diego Maranini (None)](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m06)*
-12:15|45|<a name='2m07'></a>[Carlo Blengino (None)](/e-privacy-XXXIX-relatori.html#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](/e-privacy-XXXIX-relatori.html#marco-ciurcina)<br/>*[L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-interventi.html#2m07)*
+11:45|30|<a name='2m06'></a>[Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m06)*
+12:15|45|<a name='2m07'></a>[Carlo Blengino](/e-privacy-XXXIX-relatori.html#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](/e-privacy-XXXIX-relatori.html#marco-ciurcina)<br/>*[L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-interventi.html#2m07)*
 13:00|5|<a name='2m08'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Arrivederci ad e-privacy XL*
 
 ### Gli organizzatori
