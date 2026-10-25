@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-19 08:25:29
+Date: 2026-10-25 17:06:30
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -52,7 +52,7 @@ La domanda è quale forma di mente rende normale.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 09:30|5|<a name='1m01'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?*
-09:35|15|<a name='1m02'></a>-<br/>*Saluti Istituzionali*
+09:35|15|<a name='1m02'></a>-<br/>*Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)*
 09:50|30|<a name='1m03'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*
 10:20|30|<a name='1m04'></a>[Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)<br/>*[Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-interventi.html#1m04)*
 10:50|40|<a name='1m05'></a>[Emmanuele Somma (Progetto Winston Smith)](/e-privacy-XXXIX-relatori.html#emmanuele-somma)<br/>*[IA contro AI: chi decide quando decide una macchina?](/e-privacy-XXXIX-interventi.html#1m05)*
@@ -71,10 +71,10 @@ La domanda è quale forma di mente rende normale.
 15:10|30|<a name='1p03'></a>[Yvette Agostini](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*
 15:40|45|<a name='1p04'></a>[Laura Camellini (Near protocol)](/e-privacy-XXXIX-relatori.html#laura-camellini)<br/>*[Agenti trustless e privacy by architecture](/e-privacy-XXXIX-interventi.html#1p04)*
 16:25|20|<a name='1p05'></a>[Sandrini Mauro (Ing. Mauro Sandrini)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)<br/>*[Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-interventi.html#1p05)*
-16:45|15|*Coffee Break*
-17:00|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*
-17:30|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*
-17:50|5|<a name='1p09'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
+16:45|20|*Coffee Break*
+17:05|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*
+17:35|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*
+17:55|5|<a name='1p09'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
 
 #### 14 novembre 2026 - mattina
 

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-19 08:25:26
+Date: 2026-10-25 17:06:27
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -57,7 +57,7 @@ Programma del Convegno
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
-09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali</em></span>
+09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
 09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|40|<span class='talk' id='1m05-programma'>[Emmanuele Somma (Progetto Winston Smith)](#emmanuele-somma)<br/><em><a href='#1m05'>IA contro AI: chi decide quando decide una macchina?</a></em></span>
@@ -76,10 +76,10 @@ Programma del Convegno
 15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em></span>
 15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em></span>
 16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
-16:45|15|<span class='talk'><em>Coffee Break</em></span>
-17:00|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
-17:30|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
-17:50|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
+16:45|20|<span class='talk'><em>Coffee Break</em></span>
+17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
+17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
+17:55|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
 
 #### 14 novembre 2026 - mattina
 
