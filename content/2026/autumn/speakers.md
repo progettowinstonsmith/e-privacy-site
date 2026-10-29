@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-28 22:56:48
+Date: 2026-10-29 21:55:15
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -35,6 +35,20 @@ Yvette è una ingegnere, consulente senior di cybersecurity e CISO on demand per
 Nel suo percorso professionale, ha collaborato con diverse realtà, supportandole nello sviluppo di strategie di sicurezza efficaci. È particolarmente interessata a temi come la cittadinanza digitale e i diritti digitali, che ritiene fondamentali per garantire un futuro digitale equo e inclusivo.
 
 Ad e-privacy presenta [L'IA come strumento di miglioramento](/e-privacy-XXXIX-programma.html#1p03).
+
+### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) [⇧](/e-privacy-XXXIX-programma.html#1m06)
+
+Nata a Torino, filosofa di formazione e prestata alla didattica della letteratura e della storia, accompagna il lavoro in aula a un lavoro di scrittrice, divulgatrice, formatrice e giudice di Debate. Ha conseguito un master in Pedagogia e didattica dei Disturbi specifici dell'apprendimento.
+
+Ha collaborato con la SEI, Giunti, Treccani e Feltrinelli scuola (con cui ha una collaborazione in essere come autrice di Grammatica Italiana); ha partecipato al progetto Credere, Obbedire, Insegnare di Erickson edizioni.
+
+Tra il 2015 e il 2020 ha partecipato alla relazione di progetti Ministeriali legati al curriculum verticale digitale, alla Formazione scuola lavoro e la Didattica per competenze.
+
+Dopo avere insegnato a Torino e Firenze, dal 2020 insegna all'Istituto Cardano, attualmente al Liceo scientifico delle scienze applicate.
+
+Nel 2026 ha partecipato a due progetti Erasmus+; uno specificamente dedicato all'AI in ambito didattico.
+
+Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m06).
 
 ### <a name='rebecca-berto'></a>Rebecca Berto [⇧](/e-privacy-XXXIX-programma.html#1m03)
 
@@ -152,11 +166,9 @@ Avvocato specializzata in diritto delle nuove tecnologie, sono consulente legale
 
 Ad e-privacy presenta [Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-programma.html#2m04).
 
-### <a name='emmanuele-somma'></a>Emmanuele Somma (Progetto Winston Smith) [⇧](/e-privacy-XXXIX-programma.html#1m05)
+### <a name='emmanuele-somma'></a>Emmanuele Somma (Progetto Winston Smith) 
 
 Emmanuele Somma si occupa dei rapporti tra tecnologia, conoscenza e società. Nel progetto di ricerca Epistechnology studia come gli strumenti tecnici influenzano il modo in cui osserviamo il mondo e produciamo conoscenza. Scrive saggi sull’intelligenza artificiale, sui dati e sulla responsabilità di chi progetta e usa le tecnologie, collegando le domande filosofiche a esempi concreti.
-
-Ad e-privacy presenta [IA contro AI: chi decide quando decide una macchina?](/e-privacy-XXXIX-programma.html#1m05).
 
 ### <a name='angela-spanti'></a>Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero) [⇧](/e-privacy-XXXIX-programma.html#1p08)
 

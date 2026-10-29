@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-28 22:56:48
+Date: 2026-10-29 21:55:16
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -55,10 +55,10 @@ La domanda è quale forma di mente rende normale.
 09:35|15|<a name='1m02'></a>-<br/>*Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)*
 09:50|30|<a name='1m03'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*
 10:20|30|<a name='1m04'></a>[Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)<br/>*[Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-interventi.html#1m04)*
-10:50|40|<a name='1m05'></a>[Emmanuele Somma (Progetto Winston Smith)](/e-privacy-XXXIX-relatori.html#emmanuele-somma)<br/>*[IA contro AI: chi decide quando decide una macchina?](/e-privacy-XXXIX-interventi.html#1m05)*
-11:30|30|*Coffee Break*
-12:00|60|<a name='1m07'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m07)*<br/>Moderato da: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>Partecipano: TBA
-13:00|5|<a name='1m08'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Chiusura sessione*
+10:50|30|*Coffee Break*
+11:20|30|<a name='1m06'></a>[Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)<br/>*[Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-interventi.html#1m06)*
+11:50|60|<a name='1m07'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m07)*<br/>Moderato da: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>Partecipano: TBA
+12:50|5|<a name='1m08'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Chiusura sessione*
 
 #### 13 novembre 2026 - pomeriggio
 

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-28 22:56:48
+Date: 2026-10-29 21:55:13
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -60,10 +60,10 @@ Programma del Convegno
 09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
 09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
-10:50|40|<span class='talk' id='1m05-programma'>[Emmanuele Somma (Progetto Winston Smith)](#emmanuele-somma)<br/><em><a href='#1m05'>IA contro AI: chi decide quando decide una macchina?</a></em></span>
-11:30|30|<span class='talk'><em>Coffee Break</em></span>
-12:00|60|<span class='talk' id='1m07-programma'><em><a href='#1m07'>The Power of Data</a></em><br/>Moderato da: Marco Calamari (pws)<br/>Partecipano: TBA</span>
-13:00|5|<span class='talk' id='1m08-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
+10:50|30|<span class='talk'><em>Coffee Break</em></span>
+11:20|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
+11:50|60|<span class='talk' id='1m07-programma'><em><a href='#1m07'>The Power of Data</a></em><br/>Moderato da: Marco Calamari (pws)<br/>Partecipano: TBA</span>
+12:50|5|<span class='talk' id='1m08-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
 #### 13 novembre 2026 - pomeriggio
 
@@ -123,10 +123,18 @@ Da questa analisi viene proposto un modello di AI Literacy per docenti organizza
 
 L'intervento presenterà una possibile struttura di corso per docenti e alcune attività laboratoriali attraverso le quali trasformare l'AI Literacy da dichiarazione di principio a competenza praticabile nella vita quotidiana della scuola.
 
-#### <a name="1m05"></a> IA contro AI: chi decide quando decide una macchina?<a href='#1m05'>⇧</a>
-[Emmanuele Somma (Progetto Winston Smith)](#emmanuele-somma)
+#### <a name="1m06"></a> Quale scuola e quale società nell'era dell'AI?<a href='#1m06'>⇧</a>
+[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)
 
-Ogni giorno incontriamo sistemi che riconoscono immagini, suggeriscono video, scrivono testi e aiutano a progettare software. Li chiamiamo «intelligenza artificiale», ma che cosa significa davvero intelligenza in questo contesto? Partendo da esempi vicini agli studenti e ai professori di un istituto tecnico, confronteremo le capacità dei sistemi di AI con l’intelligenza umana: come apprendono, quali problemi sanno risolvere e dove possono sbagliare. Vedremo anche chi sceglie i dati, definisce gli obiettivi e risponde delle conseguenze. L’incontro offrirà strumenti per usare queste tecnologie con competenza e giudizio critico.
+L’AI e la sua accessibilità al grande pubblico sono le nuove ma sicuramente non saranno le ultime sfide che il mondo della scuola e della formazione devono cogliere.
+
+Approcciarsi all’AI con gli strumenti conosciuti o richiamando la strada sicura della tradizione, rischia di trasformare il mondo della scuola e dell’università in un museo di archeologia industriale; ma l’eccesso opposto, fondare la formazione fin dai primi anni di scuola sull’uso massiccio dell’AI rischia di impoverire le competenze di tutti e impedire a chi ha appena iniziato il suo percorso di scolarizzazione di sviluppare le conoscenze le abilità e le competenze necessarie per il mondo del futuro.
+
+Si rende necessaria, quindi, una riflessione radicale sul ruolo della scuola, che sarà la base della società di domani.
+
+Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfessione metacognitiva su ogni processo di apprendimento.
+
+In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
 #### <a name="1m07"></a> The Power of Data<a href='#1m07'>⇧</a>
 Moderato da: Marco Calamari (pws)
@@ -257,6 +265,20 @@ Nel suo percorso professionale, ha collaborato con diverse realtà, supportandol
 
 Ad e-privacy presenta [L'IA come strumento di miglioramento](#1p03).
 
+### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) <a href='#1m06'>⇧</a>
+
+Nata a Torino, filosofa di formazione e prestata alla didattica della letteratura e della storia, accompagna il lavoro in aula a un lavoro di scrittrice, divulgatrice, formatrice e giudice di Debate. Ha conseguito un master in Pedagogia e didattica dei Disturbi specifici dell'apprendimento.
+
+Ha collaborato con la SEI, Giunti, Treccani e Feltrinelli scuola (con cui ha una collaborazione in essere come autrice di Grammatica Italiana); ha partecipato al progetto Credere, Obbedire, Insegnare di Erickson edizioni.
+
+Tra il 2015 e il 2020 ha partecipato alla relazione di progetti Ministeriali legati al curriculum verticale digitale, alla Formazione scuola lavoro e la Didattica per competenze.
+
+Dopo avere insegnato a Torino e Firenze, dal 2020 insegna all'Istituto Cardano, attualmente al Liceo scientifico delle scienze applicate.
+
+Nel 2026 ha partecipato a due progetti Erasmus+; uno specificamente dedicato all'AI in ambito didattico.
+
+Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](#1m06).
+
 ### <a name='rebecca-berto'></a>Rebecca Berto <a href='#1m03'>⇧</a>
 
 Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Per motivi professionali – e non solo perchè sono temi che la entusiasmano – si occupa degli aspetti applicativi e pratico-giuridici della giustizia procedurale intra-comunitaria, della sua innovazione e digitalizzazione, degli aspetti esecutivi. L'attività comprende la comparazione di diritto e delle procedure civili e non solo.
@@ -373,11 +395,9 @@ Avvocato specializzata in diritto delle nuove tecnologie, sono consulente legale
 
 Ad e-privacy presenta [Neolingua senza Ministero. Esiste un diritto a pensare da soli?](#2m04).
 
-### <a name='emmanuele-somma'></a>Emmanuele Somma (Progetto Winston Smith) <a href='#1m05'>⇧</a>
+### <a name='emmanuele-somma'></a>Emmanuele Somma (Progetto Winston Smith) 
 
 Emmanuele Somma si occupa dei rapporti tra tecnologia, conoscenza e società. Nel progetto di ricerca Epistechnology studia come gli strumenti tecnici influenzano il modo in cui osserviamo il mondo e produciamo conoscenza. Scrive saggi sull’intelligenza artificiale, sui dati e sulla responsabilità di chi progetta e usa le tecnologie, collegando le domande filosofiche a esempi concreti.
-
-Ad e-privacy presenta [IA contro AI: chi decide quando decide una macchina?](#1m05).
 
 ### <a name='angela-spanti'></a>Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero) <a href='#1p08'>⇧</a>
 

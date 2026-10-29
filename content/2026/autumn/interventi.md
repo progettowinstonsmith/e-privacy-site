@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-28 22:56:48
+Date: 2026-10-29 21:55:14
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -52,10 +52,18 @@ Da questa analisi viene proposto un modello di AI Literacy per docenti organizza
 
 L'intervento presenterà una possibile struttura di corso per docenti e alcune attività laboratoriali attraverso le quali trasformare l'AI Literacy da dichiarazione di principio a competenza praticabile nella vita quotidiana della scuola.
 
-#### <a name="1m05"></a> [IA contro AI: chi decide quando decide una macchina?](/e-privacy-XXXIX-programma.html#1m05) [⇧](/e-privacy-XXXIX-programma.html#1m05)
-[Emmanuele Somma (Progetto Winston Smith)](/e-privacy-XXXIX-relatori.html#emmanuele-somma)
+#### <a name="1m06"></a> [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m06) [⇧](/e-privacy-XXXIX-programma.html#1m06)
+[Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)
 
-Ogni giorno incontriamo sistemi che riconoscono immagini, suggeriscono video, scrivono testi e aiutano a progettare software. Li chiamiamo «intelligenza artificiale», ma che cosa significa davvero intelligenza in questo contesto? Partendo da esempi vicini agli studenti e ai professori di un istituto tecnico, confronteremo le capacità dei sistemi di AI con l’intelligenza umana: come apprendono, quali problemi sanno risolvere e dove possono sbagliare. Vedremo anche chi sceglie i dati, definisce gli obiettivi e risponde delle conseguenze. L’incontro offrirà strumenti per usare queste tecnologie con competenza e giudizio critico.
+L’AI e la sua accessibilità al grande pubblico sono le nuove ma sicuramente non saranno le ultime sfide che il mondo della scuola e della formazione devono cogliere.
+
+Approcciarsi all’AI con gli strumenti conosciuti o richiamando la strada sicura della tradizione, rischia di trasformare il mondo della scuola e dell’università in un museo di archeologia industriale; ma l’eccesso opposto, fondare la formazione fin dai primi anni di scuola sull’uso massiccio dell’AI rischia di impoverire le competenze di tutti e impedire a chi ha appena iniziato il suo percorso di scolarizzazione di sviluppare le conoscenze le abilità e le competenze necessarie per il mondo del futuro.
+
+Si rende necessaria, quindi, una riflessione radicale sul ruolo della scuola, che sarà la base della società di domani.
+
+Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfessione metacognitiva su ogni processo di apprendimento.
+
+In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
 #### <a name="1m07"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
 Moderato da: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)
