@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-29 21:55:13
+Date: 2026-10-31 20:02:28
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -43,12 +43,8 @@ Marco Calamari & Emmanuele Somma
 
 ----------------------------------
 
-Programma del Convegno
+
 ## <a name="programma"></a>Programma del Convegno
-
-
-
-## Il programma del Convegno
 
 #### 13 novembre 2026 - mattina
 

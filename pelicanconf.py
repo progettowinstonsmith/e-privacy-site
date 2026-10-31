@@ -24,6 +24,7 @@ IMAGE = 'e-privacy-XXXIX.png'
 PROPOSALS_OPEN = True
 
 COUNTDOWN = True
+HOME_ARTICLE = 'programma'
 EVENT_TIME = '2026/11/13 09:30'
 
 LIVE_AT=False

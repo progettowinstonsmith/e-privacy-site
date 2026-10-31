@@ -31,7 +31,7 @@
 
         <!-- link rel="stylesheet"
              href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" -->
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
         {% block links %}{% endblock links %}
         
@@ -60,16 +60,146 @@
 <!-- Nav Bar -->
 <nav>
   <div class="top-bar">
-    <div class="row">
+    <div class="row top-bar-row">
       <a href="/"><div id="top_img_left"></div></a>
-      <div class="large-9 large-centered columns">
-	    <h1><a href="{{ SITEURL }}/">
-            {% block ptitle %}{{ SITENAME }}{%endblock%}
-        </a></h1>
+      <div class="top-header-center">
+        <a href="{{ SITEURL }}/" class="top-header-link">
+          {% block ptitle %}
+          <div class="ep-brand-combo">
+            <div class="ep-brand-mark">
+              e-privacy {{ EPRIVACY_N }}
+            </div>
+            <div class="ep-brand-divider"></div>
+            <div class="ep-brand-info">
+              <div class="ep-brand-meta">
+                <span class="ep-brand-city">{{ LOCATION|default("Pavia") }}</span> &middot; <span class="ep-brand-year">{{ YEAR|default("2026") }}</span>
+              </div>
+              <div class="ep-brand-headline" title="{{ TITLE|default(SITENAME) }}">
+                &laquo;{{ TITLE|default(SITENAME) }}&raquo;
+              </div>
+            </div>
+          </div>
+          {% endblock %}
+        </a>
       </div>
-      <a href="http://www.winstonsmith.org"><div id="top_img_right"></div></a>
+      <a href="https://pws.winstonsmith.org"><div id="top_img_right"></div></a>
     </div>
   </div>
+
+  <style>
+  .top-bar {
+    background: #000000;
+    height: 70px;
+    margin-bottom: 1.25rem;
+    position: relative;
+    overflow: visible;
+  }
+  .top-bar-row {
+    position: relative;
+    height: 70px;
+    max-width: 62.5em;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .top-header-center {
+    width: 100%;
+    max-width: 680px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+    z-index: 1;
+    overflow: visible;
+  }
+  .top-header-link {
+    display: block;
+    width: 100%;
+    text-decoration: none !important;
+    color: #ffffff !important;
+    overflow: visible;
+  }
+  .ep-brand-combo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 16px;
+    overflow: visible;
+  }
+  .ep-brand-mark {
+    font-size: 2.1rem;
+    font-weight: 400;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    line-height: 1;
+    white-space: nowrap;
+    text-align: right;
+    letter-spacing: -0.5px;
+  }
+  .ep-brand-divider {
+    width: 1px;
+    height: 48px;
+    background: #334155;
+    flex-shrink: 0;
+  }
+  .ep-brand-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    min-width: 0;
+    flex: 1;
+  }
+  .ep-brand-meta {
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #94a3b8;
+    line-height: 1.2;
+    margin-bottom: 2px;
+  }
+  .ep-brand-city {
+    color: #cbd5e0;
+  }
+  .ep-brand-year {
+    color: #63b3ed;
+  }
+  .ep-brand-headline {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 1.25;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 0.15s ease;
+  }
+  .top-header-link:hover .ep-brand-headline {
+    color: #90cdf4 !important;
+  }
+  @media only screen and (max-width: 48em) {
+    .top-header-center {
+      max-width: calc(100% - 190px);
+      margin-left: 140px;
+    }
+    .ep-brand-combo {
+      gap: 10px;
+    }
+    .ep-brand-p {
+      font-size: 1.7rem;
+    }
+    .ep-brand-rest {
+      font-size: 1.1rem;
+    }
+    .ep-brand-headline {
+      font-size: 0.82rem;
+    }
+  }
+  </style>
 
   <!-- Show menu items and pages -->
   <div class="row">
@@ -109,84 +239,183 @@
         {% include 'pws-button.html' %}
 
         {% if LATERAL_BAR %}
-        <h5 class="sidebar-title">{{ THIS_TITLE  }}</h5>
-        <ul class="side-nav">
-        {% for name, link in LATERAL_BAR %}
-            <li><a href="{{ link }}">{{ name }}</a></li>
-        {% endfor %}
-        </ul>
+        <div class="ep-sidebar-block">
+          <h5 class="sidebar-title">{{ THIS_TITLE }}</h5>
+          <nav class="ep-nav-list">
+            {% for name, link in LATERAL_BAR %}
+            {% set is_active = (article and article.url and (article.url == link.strip("/") or article.url == link)) or (page and page.url and (page.url == link.strip("/") or page.url == link)) %}
+            <a href="{{ link }}" class="ep-nav-item{% if is_active %} active{% endif %}">
+              <span class="ep-nav-label">{{ name }}</span>
+              <i class="fa fa-angle-right ep-nav-arrow" aria-hidden="true"></i>
+            </a>
+            {% endfor %}
+          </nav>
+        </div>
         {% endif %}
 
-
         {% if EDIZIONI %}
-        <h5 class="sidebar-title">Edizioni passate</h5>
-        <table class="edizioni-tabella">
-          <thead>
-            <tr>
-              <th>Anno</th>
-              <th>Estiva</th>
-              <th>Invernale</th>
-              <th>Extra</th>
-            </tr>
-          </thead>
-          <tbody>
-            {% for year, editions in EDIZIONI %}
-            <tr>
-              <td>{{ year }}</td>
-              <td>
-                {% if editions.spring %}
-                <small class="edizione-num">{{ editions.spring[2] }}</small> <br>
-                <a href="{{ editions.spring[1] }}">
-                  {{ editions.spring[0] }}
-                </a>
-                {% elif editions.summer %}
-                <small class="edizione-num">{{ editions.summer[2] }}</small> <br>
-                <a href="{{ editions.summer[1] }}">
-                  {{ editions.summer[0] }}
-                </a>
-                {% else %}
-                &mdash;
-                {% endif %}
-              </td>
-              <td>
-                {% if editions.fall %}
-                <small class="edizione-num">{{ editions.fall[2] }}</small><br>
-                <a href="{{ editions.fall[1] }}">
-                  {{ editions.fall[0] }}
-                </a>
-                {% elif editions.winter %}
-                <small class="edizione-num">{{ editions.winter[2] }}</small><br>
-                <a href="{{ editions.winter[1] }}">
-                  {{ editions.winter[0] }}
-                </a>
-                {% else %}
-                &mdash;
-                {% endif %}
-              </td>
+        <div class="ep-sidebar-block">
+          <h5 class="sidebar-title">Edizioni passate</h5>
+          <div class="ep-edizioni-container">
+            <table class="edizioni-tabella">
+              <thead>
+                <tr>
+                  <th>Anno</th>
+                  <th>Estiva</th>
+                  <th>Invernale</th>
+                  <th>Extra</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for year, editions in EDIZIONI %}
+                <tr>
+                  <td class="ed-anno">{{ year }}</td>
+                  <td>
+                    {% if editions.spring %}
+                    <small class="edizione-num">{{ editions.spring[2] }}</small><br>
+                    <a href="{{ editions.spring[1] }}">{{ editions.spring[0] }}</a>
+                    {% elif editions.summer %}
+                    <small class="edizione-num">{{ editions.summer[2] }}</small><br>
+                    <a href="{{ editions.summer[1] }}">{{ editions.summer[0] }}</a>
+                    {% else %}
+                    &mdash;
+                    {% endif %}
+                  </td>
+                  <td>
+                    {% if editions.fall %}
+                    <small class="edizione-num">{{ editions.fall[2] }}</small><br>
+                    <a href="{{ editions.fall[1] }}">{{ editions.fall[0] }}</a>
+                    {% elif editions.winter %}
+                    <small class="edizione-num">{{ editions.winter[2] }}</small><br>
+                    <a href="{{ editions.winter[1] }}">{{ editions.winter[0] }}</a>
+                    {% else %}
+                    &mdash;
+                    {% endif %}
+                  </td>
+                  <td>
+                    {% if editions.extra %}
+                    <small class="edizione-num">{{ editions.extra[2] }}</small><br>
+                    <a href="{{ editions.extra[1] }}">{{ editions.extra[0] }}</a>
+                    {% else %}
+                    &mdash;
+                    {% endif %}
+                  </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
 
-              <td>
-                {% if editions.extra %}
-                <small class="edizione-num">{{ editions.extra[2] }}</small><br>
-                <a href="{{ editions.extra[1] }}">
-                  {{ editions.extra[0] }}
-                </a>
-                {% else %}
-                &mdash;
-                {% endif %}
-              </td>
-            </tr>
-            {% endfor %}
-          </tbody>
-        </table>
+        <style>
+        .ep-sidebar-block {
+          margin-bottom: 1.5rem;
+        }
+        .ep-nav-list {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+          margin-top: 8px;
+        }
+        .ep-nav-item {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 7px 10px;
+          background: #f8fafc;
+          border: 1px solid #edf2f7;
+          border-radius: 4px;
+          color: #2d3748 !important;
+          font-size: 0.88rem;
+          font-weight: 500;
+          text-decoration: none;
+          transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+        }
+        .ep-nav-item:hover {
+          background: #edf2f7;
+          border-color: #cbd5e0;
+          color: #1a202c !important;
+          text-decoration: none;
+        }
+        .ep-nav-item.active {
+          background: #ebf8ff;
+          border-color: #bee3f8;
+          color: #2b6cb0 !important;
+          font-weight: 600;
+        }
+        .ep-nav-arrow {
+          font-size: 0.8rem;
+          color: #a0aec0;
+        }
+        .ep-nav-item:hover .ep-nav-arrow {
+          color: #4a5568;
+        }
+        .ep-nav-icon {
+          font-size: 0.75rem;
+          color: #a0aec0;
+        }
+        .ep-nav-item:hover .ep-nav-icon {
+          color: #2b6cb0;
+        }
+        .ep-nav-item.active .ep-nav-arrow {
+          color: #2b6cb0;
+        }
+        .ep-edizioni-container {
+          max-height: 290px;
+          overflow-y: auto;
+          overflow-x: hidden;
+          border: 1px solid #edf2f7;
+          border-radius: 4px;
+          padding: 0 4px;
+          background: #ffffff;
+        }
+        .ep-edizioni-container::-webkit-scrollbar {
+          width: 5px;
+        }
+        .ep-edizioni-container::-webkit-scrollbar-thumb {
+          background: #cbd5e0;
+          border-radius: 3px;
+        }
+        .edizioni-tabella {
+          margin-top: 0 !important;
+          font-size: 0.82rem !important;
+        }
+        .edizioni-tabella th {
+          font-size: 0.75rem !important;
+          padding: 6px 4px !important;
+          position: sticky;
+          top: 0;
+          background: #ffffff;
+          z-index: 2;
+          border-bottom: 2px solid #e2e8f0;
+        }
+        .edizioni-tabella td {
+          padding: 4px 4px !important;
+          line-height: 1.25 !important;
+        }
+        .ed-anno {
+          font-weight: 600;
+          color: #4a5568;
+        }
+        .edizione-num {
+          font-size: 0.7rem !important;
+          color: #718096 !important;
+        }
+        </style>
         {% endif %}
 
         {% if LINKS %}
-        <h5 class="sidebar-title">LINKS</h5>
-        <ul class="side-nav">
-        {% for name, link in LINKS %}
-            <li><a href="{{ link }}">{{ name }}</a></li>
-        {% endfor %}
-        </ul>
+        <div class="ep-sidebar-block">
+          <h5 class="sidebar-title">Link utili</h5>
+          <nav class="ep-nav-list">
+            {% for name, link in LINKS %}
+            <a href="{{ link }}" target="_blank" rel="noopener noreferrer" class="ep-nav-item ep-nav-external">
+              <span class="ep-nav-label">{{ name }}</span>
+              <i class="fa fa-external-link ep-nav-icon" aria-hidden="true"></i>
+            </a>
+            {% endfor %}
+          </nav>
+        </div>
         {% endif %}
 
         {% if SOCIAL %}
@@ -211,26 +440,107 @@
 
 
 <!-- Footer -->
-<footer class="row">
+<footer class="ep-site-footer">
+  <div class="row">
     <div class="large-12 columns">
-        <hr />
-        <div class="row">
-          <div class="large-12 columns footer">
-            Tutto il contenuto di questo sito è
-            &copy; <a href="http://pws.winstonsmith.org">Winston
-            Smith</a> — I contenuti sono distribuiti sotto
-            la <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">Gnu
-            General Public License 2.0</a> ove non altrimenti
-            specificato. <br/>Se riscontri un errore su queste pagine manda
-            una mail
-            al <a href="mailto:webmaster@winstonsmith.org">webmaster</a>.<br/>
-            Nessun cookie è stato iniettato sul tuo computer da questo
-            sito (il fatto che siamo obbligati a dirtelo non rende
-            meno stupida la legge che ci forza a farlo).
+      <div class="ep-footer-card">
+        <div class="ep-footer-main">
+          <span class="ep-footer-copy">
+            Tutto il contenuto di questo sito è &copy; <a href="https://pws.winstonsmith.org/" target="_blank" rel="noopener noreferrer">Winston Smith</a>.
+          </span>
+          <span class="ep-footer-license">
+            I contenuti sono distribuiti sotto la <a href="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" target="_blank" rel="noopener noreferrer">GNU General Public License 2.0</a> ove non altrimenti specificato.
+          </span>
+        </div>
+        
+        <div class="ep-footer-sub">
+          <span class="ep-footer-contact">
+            <i class="fa fa-envelope-o" aria-hidden="true"></i> Se riscontri un errore su queste pagine manda una mail al <a href="mailto:webmaster@winstonsmith.org">webmaster</a>.
+          </span>
+          <div class="ep-footer-cookie-badge">
+            <i class="fa fa-shield" aria-hidden="true"></i>
+            <span>Nessun cookie è stato iniettato sul tuo computer da questo sito (il fatto che siamo obbligati a dirtelo non rende meno stupida la legge che ci forza a farlo).</span>
           </div>
         </div>
+      </div>
     </div>
+  </div>
 </footer>
+
+<style>
+.ep-site-footer {
+  margin-top: 3.5rem;
+  padding: 0 0 2rem 0;
+  border-top: 1px solid #e2e8f0;
+}
+.ep-footer-card {
+  padding-top: 1.5rem;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: #64748b;
+  text-align: center;
+}
+.ep-footer-main {
+  margin-bottom: 0.75rem;
+  color: #475569;
+}
+.ep-footer-main a {
+  color: #0284c7;
+  font-weight: 500;
+  text-decoration: none;
+}
+.ep-footer-main a:hover {
+  text-decoration: underline;
+  color: #0369a1;
+}
+.ep-footer-sub {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+.ep-footer-contact {
+  font-size: 0.78rem;
+}
+.ep-footer-contact a {
+  color: #475569;
+  text-decoration: underline;
+}
+.ep-footer-contact a:hover {
+  color: #0f172a;
+}
+.ep-footer-cookie-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  padding: 6px 14px;
+  max-width: 780px;
+  margin: 0.4rem auto 0 auto;
+  font-size: 0.75rem;
+  color: #475569;
+  line-height: 1.45;
+}
+.ep-footer-cookie-badge i {
+  color: #0284c7;
+  flex-shrink: 0;
+}
+@media only screen and (max-width: 40em) {
+  .ep-footer-card {
+    text-align: left;
+  }
+  .ep-footer-sub {
+    align-items: flex-start;
+  }
+  .ep-footer-cookie-badge {
+    text-align: left;
+    align-items: flex-start;
+  }
+}
+</style>
 {% include 'piwik.html' %}
 <script src="{{ SITEURL }}/theme/js/toggle-proposals.js"></script>
 </body>

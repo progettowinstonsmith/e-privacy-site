@@ -1,0 +1,418 @@
+Template: event
+Date: 2026-10-28 22:35:09
+Slug: e-privacy-XXXIX-programma-mail
+Year: 2026
+Where: Istituto Tecnico G. Cardano
+When: 13-14 novembre 2026
+Title: Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?
+Timeline: 3 ottobre | 7 ottobre | 10 novembre
+Subtitle: Inquinavano il pianeta. Ora inquinano la mente?
+Status: published
+Season: autumn
+Previd: 2026
+Prev: e-privacy-XXXVIII-programma
+Options: toc:nil
+Num: XXXIX
+Nextid: 
+Next: 
+Location: Pavia
+Lang: it
+Giorni: 13-14 novembre
+Extra-Documents: nil
+Event_Path: content/2026/autumn
+Eprivacy_N: XXXIX
+Edition: autumn
+Css: .title-XXXIX { font: 25px arial, sans-serif; text-align: center; }   .subtitle-XXXIX { font: 18px arial, sans-serif; text-align: center; }
+City: Pavia
+Category: 2026
+Collaboratori: cibernetico
+Mediapartner: infomedia, hackerjournal, lealternative
+Organizzatori: pws, hermes
+Sponsor: sikurezza.org, sepel, lopez, faro, ush, onif, isgroup
+
+<span align="center"><font size="small">Per leggere online questo messaggio vai <a href="https://e-privacy.winstonsmith.org/e-privacy-XXXIX-programma-mail.html">qui</a></font></span>
+<br/><br/>
+Il **Progetto Winston Smith** è lieto di annunciare il programma di **e-privacy XXXIX**, che si terrà il **13 e 14 novembre 2026** a **Pavia** presso l'Istituto Tecnico G. Cardano (e in streaming online).
+
+Il tema di questa edizione autunnale è:
+**«Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA? — Inquinavano il pianeta. Ora inquinano la mente?»**
+
+L'ingresso è come sempre libero e gratuito; la registrazione non è obbligatoria, ma per aiutarci nella gestione della capienza ci si può opzionalmente registrare all'evento su Eventbrite:
+<https://www.eventbrite.it/e/e-privacy-xxxix-se-lia-fa-i-tuoi-compiti-chi-fa-i-compiti-dellia-tickets-2004121790224>
+
+Tutti i dettagli logistici e le informazioni aggiornate sono disponibili sul sito:
+<https://e-privacy.winstonsmith.org/e-privacy-XXXIX-programma.html>
+
+Di seguito riportiamo il programma completo delle due giornate con gli interventi e i relatori.
+
+A presto,  
+*Il Progetto Winston Smith*
+
+----------------------------------
+
+## <a name="programma"></a>Programma del Convegno
+
+#### 13 novembre 2026 - mattina
+
+* Modera: <a href='/e-privacy-XXXIX-relatori.html#marco-calamari'>Marco Calamari</a>
+
+**Ora** | Durata | **Relatore**<br/> **Titolo**
+------- | --- | -------
+09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
+09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
+09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
+10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
+10:50|30|<span class='talk'><em>Coffee Break</em></span>
+11:20|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
+11:50|60|<span class='talk' id='1m07-programma'><em><a href='#1m07'>The Power of Data</a></em><br/>Moderato da: Marco Calamari (pws)<br/>Partecipano: TBA</span>
+12:50|5|<span class='talk' id='1m08-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
+
+#### 13 novembre 2026 - pomeriggio
+
+* Modera: <a href='/e-privacy-XXXIX-relatori.html#diego-giorio'>Diego Giorio</a>
+
+**Ora** | Durata | **Relatore**<br/> **Titolo**
+------- | --- | -------
+14:30|10|<span class='talk' id='1p01-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Apertura sessione pomeridiana</em></span>
+14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
+15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em></span>
+15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em></span>
+16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
+16:45|20|<span class='talk'><em>Coffee Break</em></span>
+17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
+17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
+17:55|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
+
+#### 14 novembre 2026 - mattina
+
+* Modera: <a href='/e-privacy-XXXIX-relatori.html#rebecca-berto'>Rebecca Berto</a>
+
+**Ora** | Durata | **Relatore**<br/> **Titolo**
+------- | --- | -------
+09:30|5|<span class='talk' id='2m01-programma'>-<br/><em>Apertura della giornata</em></span>
+09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
+10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em></span>
+10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em></span>
+11:15|30|<span class='talk'><em>Coffee Break</em></span>
+11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em></span>
+12:15|45|<span class='talk' id='2m07-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m07'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
+13:00|5|<span class='talk' id='2m08-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
+
+
+## <a name="talks"></a>Gli interventi
+
+#### <a name="1m03"></a> Pensiero umano ed intelligenza artificiale<a href='#1m03'>⇧</a>
+[Rebecca Berto](#rebecca-berto)
+
+Sul finire degli anni cinquanta Günther Anders analizzava l’approccio dell’essere umano verso le macchine e la tecnologia in genere, coniando l’espressione di „vergogna prometeica“, ossia quella condizioni di inadeguatezza fra le limitate capacitá dell’essere umano e la tecnologia.
+
+Temi di assoluta attualitá se si pensa come l’uso dell’intelligenza artificiale sia usata in molti settori.
+
+Il pensiero umano é creativo, critico mentre l’intelligenza artificiale risponde in termini statistici ai quesiti.
+
+La scuola non é solo un luogo dove apprendere nozioni ma dovrebbe essere mantenere la sua funzione di palestra del pensiero critico.
+
+#### <a name="1m04"></a> Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica<a href='#1m04'>⇧</a>
+[Roberto Marmo (Università di Pavia)](#roberto-marmo)
+
+L'introduzione dei sistemi di intelligenza artificiale generativa nella scuola sta avvenendo più rapidamente della capacità delle istituzioni scolastiche di costruire una cultura condivisa sul loro utilizzo.
+
+Sempre più scuole stanno iniziando a produrre regolamenti, policy, linee guida e piani di adozione dell'IA. Ma una policy, da sola, non rende una comunità scolastica capace di utilizzare consapevolmente questi strumenti. Al contrario, la sua elaborazione fa emergere una serie di domande alle quali un documento non può rispondere da solo: quali dati possiamo inserire in un sistema di IA? Come verifichiamo un output? Quali attività didattiche possiamo delegare e quali no? Che cosa significa utilizzare l'IA per preparare una lezione, correggere un elaborato o fornire un feedback? Quali competenze rischiamo di non esercitare quando deleghiamo una parte del processo cognitivo?
+
+L'intervento propone di considerare la policy sull'IA non come punto di arrivo, ma come dispositivo formativo. A partire dall'analisi di alcune policy e regolamenti prodotti da istituti scolastici italiani, verranno individuati i problemi ricorrenti e le competenze che una scuola deve sviluppare per affrontarli.
+
+Da questa analisi viene proposto un modello di AI Literacy per docenti organizzato non intorno ai singoli strumenti, destinati a cambiare rapidamente, ma intorno alle decisioni che un docente deve essere in grado di prendere: comprendere il funzionamento e i limiti dei sistemi di IA, valutare criticamente gli output, proteggere dati e informazioni, riconoscere ciò che può essere delegato e ciò che dovrebbe rimanere sotto responsabilità umana, e comprendere le implicazioni pedagogiche, organizzative e sociali dell'adozione dell'IA.
+
+L'intervento presenterà una possibile struttura di corso per docenti e alcune attività laboratoriali attraverso le quali trasformare l'AI Literacy da dichiarazione di principio a competenza praticabile nella vita quotidiana della scuola.
+
+#### <a name="1m06"></a> Quale scuola e quale società nell'era dell'AI?<a href='#1m06'>⇧</a>
+[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)
+
+L’AI e la sua accessibilità al grande pubblico sono le nuove ma sicuramente non saranno le ultime sfide che il mondo della scuola e della formazione devono cogliere.
+
+Approcciarsi all’AI con gli strumenti conosciuti o richiamando la strada sicura della tradizione, rischia di trasformare il mondo della scuola e dell’università in un museo di archeologia industriale; ma l’eccesso opposto, fondare la formazione fin dai primi anni di scuola sull’uso massiccio dell’AI rischia di impoverire le competenze di tutti e impedire a chi ha appena iniziato il suo percorso di scolarizzazione di sviluppare le conoscenze le abilità e le competenze necessarie per il mondo del futuro.
+
+Si rende necessaria, quindi, una riflessione radicale sul ruolo della scuola, che sarà la base della società di domani.
+
+Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfessione metacognitiva su ogni processo di apprendimento.
+
+In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
+
+#### <a name="1m07"></a> The Power of Data<a href='#1m07'>⇧</a>
+Moderato da: Marco Calamari (pws)
+Partecipano: TBA
+
+-
+
+#### <a name="1p02"></a> "Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova<a href='#1p02'>⇧</a>
+[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)
+
+Quando un docente usa un AI detector per contestare un elaborato, sta facendo un accertamento tecnico su un reperto digitale: stessa struttura logica di una perizia, senza nessuna delle garanzie. Nessun margine di errore dichiarato, nessuna ripetibilità, nessun contraddittorio, nessuna catena di custodia, e soprattutto un'inversione dell'onere della prova che in un'aula di tribunale non reggerebbe un minuto. Lo studente deve dimostrare la propria innocenza contro un punteggio probabilistico di cui nessuno in quella stanza conosce il funzionamento. Una breve disamina sullo stato dell'arte dei rilevatori IA e le criticità di informatica forense.
+
+#### <a name="1p03"></a> L'IA come strumento di miglioramento<a href='#1p03'>⇧</a>
+[Yvette Agostini](#yvette-agostini)
+
+L'intelligenza artificiale, nelle sue varie declinazioni è ormai pervasiva nelle nostre vite. Possiamo esserne utilizzatori succubi ed inconsapevoli o gestirla come strumento di miglioramento. La differenza sta tutta nel conoscere limiti e pregi dello strumento che utilizziamo e nello scopo che ci prefiggiamo utilizzandolo.
+
+Vedremo insieme qualche suggerimento per trarre il massimo dagli LLM senza rimanerne (troppo) soggiogati.
+
+#### <a name="1p04"></a> Agenti trustless e privacy by architecture<a href='#1p04'>⇧</a>
+[Laura Camellini (Near protocol)](#laura-camellini)
+
+Partiamo da una analisi dei nuovi rischi dell'uso dell'AI agentica per proporre una soluzione strutturale ed uno standard etico basati sulle tecnologie della blockchain. https://jeeltcraft.com/#eprivacy
+
+Il tutto condito con la metafora del panopticon e le opere di in architetto francese specializzato in post antropocene.
+
+#### <a name="1p05"></a> Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone<a href='#1p05'>⇧</a>
+[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)
+
+Una misura in classe può controllare. Oppure curare. La differenza non sta nel sensore: sta in che cosa si misura, in dove va il dato e in chi decide. L'intervento lo mostra con due casi opposti, un'aula coreana che produce un indice di "concentrazione" degli studenti e il casinometro (www.casinometro.it), un fonometro che restituisce alla classe il proprio rumore. Poi propone sei domande semplici per capire quale misura cura e quale controlla.
+
+Il primo caso è il righello in mano a chi sta sopra. A Cheonan, in Corea del Sud, l'università KOREATECH ha attrezzato un'aula con sei telecamere a soffitto; il progetto oggi conta tre aule. Un programma ricava dai movimenti del corpo e dello sguardo un grafico presentato come misura della concentrazione, e a fine lezione produce tre report: per l'amministrazione, per il docente, per lo studente. Le fonti non dicono quale algoritmo usi, né se l'indice sia individuale, né chi abbia dato il consenso. La macchina guarda. Il dato sale.
+
+Nell'Unione europea questo righello ha un limite scritto. Dal 2 febbraio 2025 l'articolo 5 dell'AI Act vieta i sistemi di intelligenza artificiale che deducono le emozioni delle persone negli istituti di istruzione, salvo motivi medici o di sicurezza; le linee guida della Commissione, non vincolanti, nominano proprio l'interesse e l'attenzione degli studenti. È un accostamento, non un'accusa. E il divieto non chiude la domanda: in classe si misura già, e si misurerà ancora.
+
+Allora dove passa il confine?
+
+Il secondo caso è il righello in mano alla classe. Il casinometro è un fonometro visuale da proiettare sulla LIM, che si apre dal browser: un microfono, un solo numero per tutta l'aula, nessuna registrazione audio, nessun invio di dati nel codice esaminato. Quando il rumore supera la soglia concordata l'insegnante non alza la voce: sposta un segnale verso il reset e la classe ha dieci secondi per accorgersene, regolarsi e tornare al lavoro. Non esiste un dato per alunno. L'obiettivo è il benessere in classe attraverso l'autoregolazione, non attraverso la sorveglianza.
+
+Le sei domande tengono insieme i due casi: che cosa si misura, a che livello (aula o persona), chi vede il dato, dove va e quanto dura, chi decide l'azione, che voce hanno i ragazzi sulla soglia. Applicate con onestà non assolvono nessuno, nemmeno il casinometro: anche una misura gentile resta una misura, chi parla più forte può sentirsi guardato, e la soglia la deve concordare la classe.
+
+Insomma: se la macchina fa i compiti della regolazione, i ragazzi rischiano di perdere la fatica che li rende capaci di regolarsi. Se il righello torna alla classe, quella fatica può diventare allenamento.
+
+Il casinometro, fonometro per la gestione del rumore in classe: www.casinometro.it
+
+#### <a name="1p07"></a> La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento<a href='#1p07'>⇧</a>
+[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)
+
+Riteniamo potrebbe essere utile condividere con i presenti la nostra esperienza oramai più che ventennale nell'ambito (fattivo e concreto) della/o:
+
+indipendenza e sovranità tecnologica (applicata);
+
+riservatezza e cura dei dati personali (server/servizi indipendenti, telefoni LineageOS, pc Linux, etc;
+
+educazione alla conoscenza dei fragili e complessi meccanismi mentali che spingono le persone verso scelte di comodo anziché ragionate;
+
+studio (retro-engineering) dei comportamenti istituzionali, sempre o in gran parte a danno della collettività;
+
+Tutto ciò alla luce delle potentissime emergenti tecnologie e in particolar modo della loro capacità di penetrazione sia a livello individuale che collettivo;
+
+#### <a name="1p08"></a> Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari<a href='#1p08'>⇧</a>
+[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)
+
+Un’esperienza su 723.186 accessi ai Pronto Soccorso consente di interrogarsi su cosa accade quando l’IA trasforma dati sanitari in previsioni utilizzabili nella programmazione pubblica. Quali dati rendiamo rilevanti? Quali assunzioni incorpora il modello? E soprattutto: chi resta responsabile delle decisioni quando una previsione algoritmica entra nel processo decisionale?
+
+#### <a name="2m02"></a> Dalla propaganda all'IA: quando la persuasione si scrive da sola<a href='#2m02'>⇧</a>
+[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)
+
+Per decenni la persuasione ha avuto un autore: chi scriveva la propaganda, chi progettava la pubblicità, chi tarava l'algoritmo di un social. Con l'IA generativa il testo che convince esce da una macchina che calcola la frase più probabile, e la scrive con il tono di chi è certo.
+
+Il tema di quest'anno comincia lì. Il nostro cervello lavora per scorciatoie, e una risposta fluida e sicura ha la forma della competenza. Nel 2023 un avvocato di New York chiese a ChatGPT se i sei precedenti citati in un suo atto fossero veri, e si sentì rispondere di sì: erano inventati. Nell'aprile 2025 OpenAI ha ritirato un aggiornamento di GPT-4o che rendeva le risposte eccessivamente accomodanti. E nello studio di Harvard e BCG su 758 consulenti, davanti a un problema scelto apposta fuori dalla portata dell'IA, chi la usava ha trovato la soluzione giusta meno spesso di chi lavorava da solo: dall'84% a una quota fra il 60 e il 70%.
+
+L'intervento ripercorre il passaggio dalla propaganda agli algoritmi, fino all'IA generativa, con gli strumenti della psicologia della persuasione e dei bias cognitivi: perché la forma sicura batte il controllo, cosa succede al giudizio quando lo deleghiamo, quali abitudini di verifica restano alle persone. La proposta finale è pratica: riconoscere quando a convincerci è uno stile, e quando una prova.
+
+#### <a name="2m03"></a> Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?<a href='#2m03'>⇧</a>
+[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)
+
+I sistemi di IA hanno cominciato ad ottenere dimostrazioni e risultati matematici nuovi, ma una prova corretta non coincide con la sua comprensione. Un problema può impegnare la comunità matematica per anni, talvolta per secoli, e lungo il percorso generare metodi, concetti, congetture e nuove domande, formando al tempo stesso ricercatori e comunità. Se l’IA abbrevia radicalmente questo processo, si rischia di accumulare risultati verificati da un punto di vista formale ma senza sviluppare una comprensione e conoscenza altrettanto profonde. Partendo da alcuni casi recenti, l’intervento distinguerà fra generare, verificare, spiegare e comprendere una dimostrazione. Saranno considerate anche la novità dei risultati, la provenienza delle idee e il lavoro necessario per integrare una prova nel sapere collettivo e condiviso. La questione non è soltanto chi controlli la correttezza delle dimostrazioni prodotte dall’IA, ma chi possa comprenderle, attribuirle e trasformarle in Matematica viva.
+
+#### <a name="2m04"></a> Neolingua senza Ministero. Esiste un diritto a pensare da soli?<a href='#2m04'>⇧</a>
+[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)
+
+In 1984 la Neolingua serviva a rendere impensabili certi pensieri, e per imporla ci voleva un Ministero. Nel 2026 un gruppo di ricercatori della University of Southern California ha usato proprio quel paragone per descrivere l'effetto dei modelli linguistici sul modo in cui scriviamo e ragioniamo: miliardi di persone che usano gli stessi pochi chatbot convergono verso le stesse espressioni, gli stessi argomenti, le stesse strategie di pensiero. Senza Ministero, senza censura, senza nessuno che lo voglia.
+
+Non serve nemmeno l'intenzione di persuadere. Secondo uno studio di Yale, chiedere a un chatbot semplici informazioni storiche, corrette, basta a spostare le opinioni politiche di chi legge. Secondo uno studio di Stanford pubblicato su Science, i chatbot danno ragione agli utenti anche quando sbagliano, e gli utenti preferiscono proprio quelli che li assecondano.
+
+Non ne sono immuni nemmeno i giudici. A Palermo è stata depositata una sentenza tributaria che conteneva ancora, nel testo definitivo, la risposta del chatbot a cui era stata affidata la rielaborazione. E nelle scuole italiane, secondo l'indagine INDIRE 2026, il 94% degli studenti usa l'IA, quasi tutti per studiare, ma più di un terzo non verifica mai le risposte.
+
+Se l'IA fa i nostri compiti, chi fa i compiti dell'IA? Li facciamo noi: le forniamo i dati, le correggiamo gli errori, le insegniamo a scrivere come noi. Ma il compito che l'IA non può svolgere, verificare, giudicare, rispondere di ciò che si firma, è proprio quello che smettiamo di fare. La scena hegeliana richiamata dalla call si rovescia: chi si fa servire perde la fatica che rende liberi, e intanto lavora come servo per la macchina.
+
+Nel 1979 Lyotard, in un rapporto sul sapere nelle società informatizzate, prevedeva che sarebbe sopravvissuto solo il sapere traducibile in informazione, legittimato non più dalla verità ma dall'efficienza. Gli opponeva la paralogia: un sapere che vive di dissenso, di mosse impreviste, di scarti dalla regola. Un modello che restituisce la risposta più probabile è il consenso fatto macchina.
+
+Il diritto non è attrezzato per vederlo. La libertà di pensiero è assoluta, ma è stata pensata contro la coercizione e l'indottrinamento: protegge la mente dalle catene, non dall'atmosfera. Il GDPR protegge le informazioni che escono da noi, non quelle che entrano nella nostra mente. L'AI Act vieta la manipolazione solo quando produce un danno significativo. Il primo segnale di cambiamento è la proposta europea di KIDS Act del settembre 2026, che per la prima volta interviene sul design: chatbot spenti per default per i minori e divieto di funzionamenti che generano dipendenza emotiva.
+
+L'intervento propone di riconoscere un diritto all'autonomia cognitiva che protegga non il contenuto del pensiero ma il suo processo: il diritto di arrivare a un'opinione attraverso la propria fatica, i propri errori, i propri tempi. In altre parole, il diritto allo scarto. Nella scuola, dove la mente è ancora in formazione, è la questione decisiva. Il Grande Fratello voleva controllare cosa pensavamo. Il rischio oggi è più sottile: che nessuno ci impedisca di pensare, ma che smettiamo di farlo da soli.
+
+#### <a name="2m06"></a> Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare<a href='#2m06'>⇧</a>
+[Diego Maranini](#diego-maranini)
+
+Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it) è un monitoraggio indipendente e automatizzato dei provvedimenti pubblici del Garante per la protezione dei dati personali. La pipeline che lo alimenta usa un modello linguistico per trasformare ogni provvedimento in una sintesi strutturata, pubblicata su sito, canale Telegram e newsletter.
+
+L'intervento racconta le scelte tecniche concrete adottate per evitare che questo uso dell'IA generativa produca il tipo di "inquinamento cognitivo" descritto dalla call: un linguaggio che tende verso la media, smussa le differenze tra i casi e sostituisce la verifica con la plausibilità.
+
+Nel dettaglio:
+
+- al modello non viene chiesta un'opinione o una sintesi libera, ma di riempire uno schema fisso e vincolato (categoria, importo, soggetto, esito, sintesi);
+
+- ogni risposta è validata con un parser auto-correttivo e controlli difensivi che normalizzano l'output incrociandolo con altri segnali nel testo, invece di fidarsi della sicurezza con cui il modello risponde;
+
+- ogni sintesi resta sempre agganciata alla scheda del provvedimento specifico da cui proviene, mai testo libero scollegato da una fonte verificabile;
+
+- la generazione video via IA per i contenuti social è stata scartata perché il testo a schermo restava inaffidabile, a favore di un rendering deterministico più lento da mantenere ma controllabile.
+
+Un caso pratico, utile anche come spunto per la discussione sull'AI Act e sugli obblighi di chi questi sistemi li costruisce e li impiega.
+
+#### <a name="2m07"></a> L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia<a href='#2m07'>⇧</a>
+[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)
+
+I processi nelle aule di giustizia sono un complesso algoritmo socio-tecnico che si può comparare ad un software: - vi è un input di “dati”, ovvero rappresentazioni di fatti, informazioni o concetti, costituiti sempre più spesso da artefatti digitali estratti dal mondo datificato e dall’infosfera, che sono le prove; - questi dati vengono “trattati” secondo una sequenza finita, ordinata e (teorcamente) non ambigua di istruzioni: le prove sono infatti acquisite, assunte a dibattimento e valutate secondo regole contenute nei codici di procedura e, inevitabilmente, nei codici di software che elaborano i frammenti digitali delle nostre vite; - vi è in fine un output, la sentenza, che è fondamentalmente binario: colpevole/innocente, accolto/respinto. Certo, il processo, come il software, è agito da persone che ne controllano il funzionamento, inseriscono input e valutano l'output: le sentenze sono valutate e partecipano, insieme a norme e dottrina, alla costruzione collettiva del senso del diritto. Che impatto hanno la rivoluzione digitale e l'IA sul processo in particolare e sul diritto in generale? Cosa accade e cosa accadrà  nel processo penale e cosa accade e accadrà nel processo civile? Cosa accadrà al logos giuridico?
+
+## <a name="speakers"></a>I relatori
+
+### <a name='yvette-agostini'></a>Yvette Agostini <a href='#1p03'>⇧</a>
+
+Yvette è una ingegnere, consulente senior di cybersecurity e CISO on demand per le PMI. Da oltre 25 anni si dedica alla sicurezza delle persone e delle organizzazioni nel mondo digitale, con l'obiettivo di creare una società più sicura e informata. Ha una profonda conoscenza delle sfide poste dalla cybersecurity e un'innata capacità di tradurre concetti complessi in un linguaggio chiaro e accessibile.
+
+Nel suo percorso professionale, ha collaborato con diverse realtà, supportandole nello sviluppo di strategie di sicurezza efficaci. È particolarmente interessata a temi come la cittadinanza digitale e i diritti digitali, che ritiene fondamentali per garantire un futuro digitale equo e inclusivo.
+
+Ad e-privacy presenta [L'IA come strumento di miglioramento](#1p03).
+
+### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) <a href='#1m06'>⇧</a>
+
+Nata a Torino, filosofa di formazione e prestata alla didattica della letteratura e della storia, accompagna il lavoro in aula a un lavoro di scrittrice, divulgatrice, formatrice e giudice di Debate. Ha conseguito un master in Pedagogia e didattica dei Disturbi specifici dell'apprendimento.
+
+Ha collaborato con la SEI, Giunti, Treccani e Feltrinelli scuola (con cui ha una collaborazione in essere come autrice di Grammatica Italiana); ha partecipato al progetto Credere, Obbedire, Insegnare di Erickson edizioni.
+
+Tra il 2015 e il 2020 ha partecipato alla relazione di progetti Ministeriali legati al curriculum verticale digitale, alla Formazione scuola lavoro e la Didattica per competenze.
+
+Dopo avere insegnato a Torino e Firenze, dal 2020 insegna all'Istituto Cardano, attualmente al Liceo scientifico delle scienze applicate.
+
+Nel 2026 ha partecipato a due progetti Erasmus+; uno specificamente dedicato all'AI in ambito didattico.
+
+Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](#1m06).
+
+### <a name='rebecca-berto'></a>Rebecca Berto <a href='#1m03'>⇧</a>
+
+Rebecca Berto è attiva come consulente legale in un progetto europeo finanziato anche dalla Commissione Europea. Per motivi professionali – e non solo perchè sono temi che la entusiasmano – si occupa degli aspetti applicativi e pratico-giuridici della giustizia procedurale intra-comunitaria, della sua innovazione e digitalizzazione, degli aspetti esecutivi. L'attività comprende la comparazione di diritto e delle procedure civili e non solo.
+
+Ha continuato a studiare, specializzandosi in risoluzione internazionale delle dispute commerciali, in altre parole arbitrati commerciali internazionali e dispute internazionali: il Trattato sull'Energia è il suo preferito. Vive e lavora in Trentino Alto Adige: fra un'attività ed un'altra cerca di trovare il tempo per studiare di più le lingue straniere. Inoltre è appassionata di scienze naturali, fisica e nuove tecnologie.
+
+Ad e-privacy presenta [Pensiero umano ed intelligenza artificiale](#1m03).
+
+### <a name='carlo-blengino'></a>Carlo Blengino <a href='#2m07'>⇧</a>
+
+Avvocato penalista, fellow del Centro Nexa for Internet & Society
+
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m07).
+
+### <a name='michele-bottari'></a>Michele Bottari (EXIT (3x1t.org)) <a href='#1p07'>⇧</a>
+
+Michele Bottari – Strategic Consultant on AI Governance and Security for SMEs. A manager with 35 years of experience in IT, the environment, and agriculture, he now helps businesses navigate artificial intelligence without getting taken advantage of.
+
+Co-founder of the EXIT group (3x1t.org), a collective that has been helping people escape the traps of big tech for years: it installs Linux and LineageOS, and offers self-managed email servers, encrypted chat, and cloud storage. No ads, no data sales. User data is stored on their servers and is deleted when it is no longer needed.
+
+Author of the essay “How to Survive the Digital Age” (Terra Nuova Edizioni, 2019), he has written hundreds of articles for Zeus News and Veramente.org. He has been involved with Creative Commons Italia and co-founded projects promoting the migration to free software.
+
+A radical critic: he spares neither governments (including left-wing ones) nor European institutions (the GDPR and AI Act as “closing the barn door after the horse has bolted”). He also views so-called “alternatives” like Mastodon and Telegram with suspicion, but without falling into extremism: digital awareness is better than isolation.
+
+Today, he travels around Italy offering courses on hacking, smartphone awareness, cryptocurrencies, and the critical use of AI. His belief is that digital sovereignty is not a technological issue, but a social and cultural one. We need community, not just code.
+
+Ad e-privacy presenta [La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](#1p07).
+
+### <a name='marco-calamari'></a>Marco Calamari (pws) <a href='#1m01'>⇧</a>
+
+Marco Calamari. Ingegnere, classe 1955, talvolta noto come Cassandra, a 18 anni dovette decidere se comprarsi una macchina usata od un pc. Scelse il pc e da allora non si e' ancora completamente ripreso. Lavora come archeologo di software legacy in una grande multinazionale, ma e' appassionato di privacy e crittografia in Rete, dove collabora a progetti di software libero come Freenet, Mixmaster, Mixminion, Tor & GlobaLaks.
+
+E' il fondatore del Progetto Winston Smith e tra i fondatori dell'associazione Hermes Centro Studi Trasparenza e Diritti Umani Digitali. Dal 2002 organizza il convegno "e-privacy" dedicato alla privacy in Rete e fuori, ed e' editorialista di "Punto Informatico" dove pubblica la rubrica settimanale "Cassandra Crossing".
+
+Ad e-privacy presenta [Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?](#1m01).
+
+### <a name='laura-camellini'></a>Laura Camellini (Near protocol) <a href='#1p04'>⇧</a>
+
+Blockchain engineer focused on DeFi, GameFi and cross-chain protocols, with end-to-end experience shipping smart contracts and full-stack Web3 products.
+
+Hands-on background across NEAR, StarkNet, Solana, Cosmos, Linea and Base, working with Rust, Solidity, Cairo and TypeScript to build production-grade dApps, on-chain automations and protocol integrations.
+
+Combine design-thinking, data visualization and UX expertise with deep protocol knowledge to build intuitive, secure and performant decentralized products, while mentoring developers and contributing to ecosystem growth.
+
+Ad e-privacy presenta [Agenti trustless e privacy by architecture](#1p04).
+
+### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) <a href='#2m07'>⇧</a>
+
+Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto delle tecnologie dell'informazione, diritto d'autore, diritti di proprietà industriale e diritti della personalità, in particolare con focus su software libero, contenuti e dati aperti. Svolge attività didattiche (corsi, seminari, conferenze) ed è membro del consiglio d’amministrazione di enti che operano nei campi di propria competenza. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
+
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m07).
+
+### <a name='alessandra-de-rossi'></a>Alessandra De Rossi (Università di Torino) <a href='#2m03'>⇧</a>
+
+Alessandra De Rossi è professoressa ordinaria di Analisi numerica presso il Dipartimento di Matematica dell’Università di Torino. Si occupa di Teoria dell’Approssimazione e Calcolo Scientifico. Ha pubblicato più di cento lavori scientifici e ha organizzato molti congressi nazionali e internazionali. E’ membro della Giunta del gruppo dell’Unione Matematica Italiana "Matematica per l'Intelligenza Artificiale e il Machine Learning".
+
+Ad e-privacy presenta [Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](#2m03).
+
+### <a name='edoardo-ferri'></a>Edoardo Ferri (Il Cibernetico) <a href='#1p02'>⇧</a>
+
+Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la libera professione come Perito Informatico. Consulente Tecnico del Giudice presso il Tribunale di Pavia. Fondatore dello Studio Tecnico Ferri & Costantino. Auditor/Lead Auditor nei Sistemi di Gestione per la Sicurezza delle Informazioni (ISO 27001) e per l'Intelligenza Artificiale (ISO 42001). Direttore Responsabile della rivista a carattere tecnico scientifico Il Cibernetico
+
+Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](#1p02).
+
+### <a name='diego-giorio'></a>Diego Giorio (SEPEL Editrice) <a href='#1p01'>⇧</a>
+
+Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di una multinazionale di seminconduttori prima, nel marketing e nel web marketing poi, ho successivamente avuto altre esperienza professionali prima di approdare alla Pubblica Amministrazione, nei servizi demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare con SEPEL articoli in varie materie demografiche e di interesse generale della PA, ho tenuto corsi di formazione per un'Associazione di settore, dopo avere ottenuto il titolo di formatore dal Ministero dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come relatore.
+
+Ad e-privacy presenta [Apertura sessione pomeridiana](#1p01).
+
+### <a name='diego-maranini'></a>Diego Maranini <a href='#2m06'>⇧</a>
+
+Diego Maranini lavora in Hubenture come esperto di dominio nel team di UTOPIA, un software per la protezione dei dati personali e ha una formazione giuridica specifica in materia (Master in Protezione dei dati personali e privacy officer al CIRSFID/UNIBO; corso di perfezionamento in Data protection e data governance, UNIMI; laurea in Giurisprudenza). Accanto al lavoro porta avanti in autonomia Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it), un monitoraggio automatizzato dei provvedimenti del Garante che unisce questa competenza giuridica alla costruzione pratica di una pipeline di automazione con modelli linguistici.
+
+Ad e-privacy presenta [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](#2m06).
+
+### <a name='davide-marchi'></a>Davide Marchi (EXIT (3x1t.org)) <a href='#1p07'>⇧</a>
+
+Born in 1968 in Verona, technical studies, an essential approach to work and never seen as a reason for living. Self-taught in the IT field, he first collaborated with some companies in the sector and then decided to personally take care of some customers, starting his own consulting business. First president and founding member of the OS3 association, with the aim of recovering hardware considered obsolete. Today he is a founding member of the "EXIT" association (3x1t.org), popularizer and curator of the related network infrastructure. Close by nature to original anthroposophical thought, he considers the human experiential condition the perfect way to understand the meaning of life.
+
+Ad e-privacy presenta [La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](#1p07).
+
+### <a name='roberto-marmo'></a>Roberto Marmo (Università di Pavia) <a href='#1m04'>⇧</a>
+
+Roberto Marmo
+
+Informatico esperto di intelligenza artificiale e analisi dati, Consulente software e Formatore in vari contesti, autore del libro "Algoritmi per l'intelligenza artificiale" e altri libri, professore a contratto nell'Università di Pavia. C.T.U. iscritto all'Albo Tribunale Pavia. Contatti info@robertomarmo.net www.robertomarmo.net https://www.linkedin.com/in/robertomarmo/
+
+Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](#1m04).
+
+### <a name='luca-masre-passaro'></a>Luca Masrè Passaro (Luca Masré Passaro) <a href='#2m02'>⇧</a>
+
+Luca Masrè Passaro conosce la persuasione dall'interno.
+
+Da oltre vent'anni lavora nel marketing e nella comunicazione digitale, e dal 2017 dirige Marketing Romagnolo, un'agenzia di Imola: il suo mestiere è costruire messaggi che convincono. Dal 2018 percorre anche la strada opposta. Come formatore e relatore insegna a riconoscere quei meccanismi (neuromarketing, economia dell'attenzione, psicologia della persuasione) seguendo un filo che torna in tutti i suoi interventi: come la persuasione è passata dalla propaganda agli algoritmi, e oggi all'IA generativa. Insegna all'ITS Academy Turismo Emilia-Romagna, forma all'uso dell'intelligenza artificiale adulti che lavorano in azienda, ha scritto articoli per Orgoglio Nerd e Tech Princess ed è autore di «Manuale di sopravvivenza alla stupidità umana» (2026), un saggio sui bias cognitivi e sulle scorciatoie della mente.
+
+Ad e-privacy presenta [Dalla propaganda all'IA: quando la persuasione si scrive da sola](#2m02).
+
+### <a name='sandrini-mauro'></a>Sandrini Mauro (Ing. Mauro Sandrini) <a href='#1p05'>⇧</a>
+
+Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegnante di matematica nella scuola secondaria dal 1990. Forma docenti e scrive sul blog del Fatto Quotidiano. Cura la newsletter «Eliminare il caos in classe» e, con Ilaria Vaglini, il Dialogo Incorpo. È autore di «Eliminare il caos in classe» e «Il dialogo incorpo». Ha ideato il casinometro, fonometro gratuito con cui la classe regola da sola il proprio rumore (info: https://www.casinometro.it/ )
+
+Ad e-privacy presenta [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](#1p05).
+
+### <a name='marco-milione'></a>Marco Milione (Amateru) <a href='#1m07'>⇧</a>
+
+Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival 2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al David di Donatello 2020 per il miglior documentario. Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio sulla xilografia giapponese. La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it. Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
+
+Ad e-privacy partecipa a [The Power of Data](#1m07).
+
+### <a name='lucia-adele-ruggiero'></a>Lucia Adele Ruggiero (Avvera srl) <a href='#2m04'>⇧</a>
+
+Avvocato specializzata in diritto delle nuove tecnologie, sono consulente legale in materia di data protection e governance AI per una società che si occupa di compliance aziendale (Avvera srl). Il mio percorso parte dal diritto penale. Dalla criminologia alla cybersecurity, dalla digital forensics alla compliance AI: ogni tappa è stata un passo logico, dal crimine tradizionale a quello informatico, dalla prova analogica a quella digitale, dalla responsabilità penale a quella algoritmica.
+
+Ad e-privacy presenta [Neolingua senza Ministero. Esiste un diritto a pensare da soli?](#2m04).
+
+### <a name='emmanuele-somma'></a>Emmanuele Somma (Progetto Winston Smith) 
+
+Emmanuele Somma si occupa dei rapporti tra tecnologia, conoscenza e società. Nel progetto di ricerca Epistechnology studia come gli strumenti tecnici influenzano il modo in cui osserviamo il mondo e produciamo conoscenza. Scrive saggi sull’intelligenza artificiale, sui dati e sulla responsabilità di chi progetta e usa le tecnologie, collegando le domande filosofiche a esempi concreti.
+
+### <a name='angela-spanti'></a>Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero) <a href='#1p08'>⇧</a>
+
+Sono un Collaboratore Professionale Informatico presso Azienda Zero Calabria dal 2024, dove mi occupo di sistemi informativi e trasformazione digitale in ambito sanitario, con particolare riferimento alle infrastrutture ICT regionali, agli applicativi del Sistema Informativo Sanitario Regionale, alla cartella clinica elettronica, alla telemedicina, al Cup, allo screening, ai flussi informativi sanitari e agli adempimenti NSIS, LEA e NSG ed alla cyber security.
+
+Nel mio ruolo partecipo a progetti regionali e PNRR, fornendo supporto tecnico e organizzativo alle Aziende del Servizio Sanitario Regionale e alle attività di gestione dei progetti e dei contratti, anche nell’ambito delle funzioni di RUP e DEC.
+
+In precedenza ho lavorato presso ASP di Vibo Valentia, dove ho maturato esperienza nella gestione dei flussi informativi sanitari, nei progetti PNRR e nelle attività di supporto alla Direzione Generale.
+
+Il mio percorso professionale si è progressivamente orientato verso l’integrazione tra sanità digitale, analisi dei dati e intelligenza artificiale. Ho conseguito il Master di II livello in Intelligence & Security presso Link Campus University e il Master di II livello in AI & Data Science presso l’Università della Calabria.
+
+Nel percorso in AI & Data Science ho sviluppato un progetto di analisi predittiva dei flussi dei Pronto Soccorso, basato su 723.186 accessi dei presidi ospedalieri di Vibo Valentia, Serra San Bruno e Tropea. Questa esperienza mi ha portato a interrogarmi non solo sulle prestazioni dei modelli, ma anche sulla qualità e sulla selezione dei dati, sulle assunzioni incorporate negli algoritmi, sull’interpretabilità delle previsioni e sulla responsabilità connessa al loro utilizzo nei processi decisionali.
+
+Il mio interesse è oggi rivolto al rapporto tra dati sanitari, intelligenza artificiale e decisione pubblica, con l’obiettivo di contribuire a un’innovazione digitale della sanità che sia tecnicamente rigorosa, consapevole e realmente orientata alle persone.
+
+Ad e-privacy presenta [Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](#1p08).

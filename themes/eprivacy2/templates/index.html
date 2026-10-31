@@ -1,45 +1,68 @@
 {% extends "base.html" %}
+{% set ns = namespace(art=None) %}
+{% if HOME_ARTICLE %}
+  {% for a in articles %}
+    {% if not ns.art and (a.slug == HOME_ARTICLE or a.slug == (EPRIVACY_N ~ "-" ~ HOME_ARTICLE) or a.slug == ("e-privacy-" ~ EPRIVACY_N ~ "-" ~ HOME_ARTICLE) or (HOME_ARTICLE in a.slug)) %}
+      {% set ns.art = a %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% if not ns.art and articles %}
+  {% set ns.art = articles[0] %}
+{% endif %}
+
 {% block evinfo %}
-{% if articles %}
-{% set article = articles[0] %}
-{% include 'evinfo.html' %}
+{% if ns.art %}
+{% set article = ns.art %}
+{% include "evinfo.html" %}
 {% endif %}
 {% endblock evinfo %}
 
 {% block title %}
-{% if articles %}
-{% set article = articles[0] %}
+{% if ns.art %}
+{% set article = ns.art %}
 {% if article.num %}e-privacy {{ article.num }} — {% endif %}
 {{ article.title|striptags }}
 {% endif %}
 {% endblock title %}
 
 {% block ptitle %}
-{% if articles %}
-{% set article = articles[0] %}
-{% if article.pagetitle %}
-{{ article.pagetitle }}
-{% else %}
-{% if article.num %}e-privacy {{ article.num }}
-{% if article.year %} <i>({{ article.year }})</i>{% endif %}<br/>
-{% endif %}
-{{ article.title }}
-{% endif %}
+{% if ns.art %}
+{% set article = ns.art %}
+<div class="ep-brand-combo">
+  <div class="ep-brand-mark">
+    e-privacy {{ article.num|default(EPRIVACY_N) }}
+  </div>
+  <div class="ep-brand-divider"></div>
+  <div class="ep-brand-info">
+    <div class="ep-brand-meta">
+      <span class="ep-brand-city">{{ article.location|default(LOCATION)|default("Pavia") }}</span> &middot; <span class="ep-brand-year">{{ article.year|default(YEAR)|default("2026") }}</span>
+    </div>
+    <div class="ep-brand-headline" title="{{ article.title }}">
+      &laquo;{{ article.title }}&raquo;
+    </div>
+  </div>
+</div>
 {% endif %}
 {% endblock ptitle %}
 
 {% block content_title %}{% endblock %}
 
 {% block content %}
-{% if articles %}
-        {% set article = articles[0]  %}
-        {% if article.css  %}<style>{{ article.css }}</style>{% endif  %}
+{% if ns.art %}
+        {% set article = ns.art %}
+        {% if article.css %}<style>{{ article.css }}</style>{% endif %}
         <article>
+          {% if article.slogan %}
+          <table class="slogan"><tr><td width="100%">{{ article.slogan }}</td></tr></table>
+          {% endif %}
           {{ article.content }}
-          
-          {% include 'event_supporters.html' %}
-          {% include 'article_infos_bottom.html' %}
-          {# % include 'comments.html' % #}
+          {% include "event_supporters.html" %}
+          {% if article.template == "event" %}
+            {% include "event_infos_bottom.html" %}
+          {% else %}
+            {% include "article_infos_bottom.html" %}
+          {% endif %}
         </article>
 {% endif %}
 {% endblock content %}

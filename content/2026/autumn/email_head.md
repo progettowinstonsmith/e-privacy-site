@@ -42,4 +42,4 @@ Marco Calamari & Emmanuele Somma
 
 ----------------------------------
 
-Programma del Convegno
+

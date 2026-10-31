@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% block evinfo %}{% include "evinfo.html" %}{% endblock evinfo %}
 {% block redirect  %}
 {% if article.redirect %}
 <meta http-equiv="refresh" content="10; URL={{article.redirect}}" />
@@ -9,14 +10,20 @@
 {{ article.title|striptags }}
 {% endblock %}
 {% block ptitle %}
-{% if article.pagetitle %}
-{{ article.pagetitle }}
-{% else %}
-{% if article.num %}e-privacy {{ article.num }}
-{% if article.year %} <i>({{ article.year }})</i>{% endif %}
-<br/>{% endif %}
-{{ article.title }}
-{% endif %}
+<div class="ep-brand-combo">
+  <div class="ep-brand-mark">
+    e-privacy {{ article.num|default(EPRIVACY_N) }}
+  </div>
+  <div class="ep-brand-divider"></div>
+  <div class="ep-brand-info">
+    <div class="ep-brand-meta">
+      <span class="ep-brand-city">{{ article.location|default(LOCATION)|default("Pavia") }}</span> &middot; <span class="ep-brand-year">{{ article.year|default(YEAR)|default("2026") }}</span>
+    </div>
+    <div class="ep-brand-headline" title="{{ article.title }}">
+      &laquo;{{ article.title }}&raquo;
+    </div>
+  </div>
+</div>
 {% endblock %}
 
 {% block content %}

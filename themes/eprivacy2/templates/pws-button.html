@@ -1,8 +1,82 @@
-<h5 class="sidebar-title">DONAZIONI</h5>
-<form action="https://www.paypal.com/donate" method="post" target="_top">
+<div class="ep-donate-box">
+  <div class="ep-donate-header">
+    <i class="fa fa-heart" aria-hidden="true"></i><br/>
+    SOSTIENI<br/>E-PRIVACY
+  </div>
+  <p class="ep-donate-desc">e-privacy è un congresso gratuito e indipendente, autofinanziato dal Progetto Winston Smith.</p>
+  <form action="https://www.paypal.com/donate" method="post" target="_top" class="ep-donate-form">
     <input type="hidden" name="hosted_button_id" value="X7PV2892LUE98" />
-    <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-    <img alt="" border="0" src="https://www.paypal.com/it_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br/>
-<a href="https://paypal.me/eprivacy?locale.x=it_IT"><img src="{{ SITEURL }}/images/donapws.png"/></a>
+    <button type="submit" class="ep-donate-btn" title="Dona con PayPal o carta di credito">
+      <i class="fa fa-heart"></i> Fai una donazione
+    </button>
+  </form>
+  <div class="ep-donate-footer">
+    <a href="/donazioni-e-privacy.html">Dettagli e altri metodi &rarr;</a>
+  </div>
+</div>
+
+<style>
+.ep-donate-box {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-top: 3px solid #e53e3e;
+  border-radius: 6px;
+  padding: 14px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  text-align: center;
+}
+.ep-donate-header {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a202c;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.ep-donate-header i {
+  color: #e53e3e;
+  margin-right: 4px;
+}
+.ep-donate-desc {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: #4a5568;
+  margin-bottom: 12px;
+}
+.ep-donate-form {
+  margin: 0 0 8px 0;
+}
+.ep-donate-btn {
+  display: inline-block;
+  width: 100%;
+  background: #0070ba;
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 0.88rem;
+  padding: 9px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.1s ease;
+  text-decoration: none;
+}
+.ep-donate-btn:hover {
+  background: #005ea6;
+  color: #ffffff !important;
+}
+.ep-donate-btn i {
+  margin-right: 6px;
+}
+.ep-donate-footer {
+  font-size: 0.75rem;
+}
+.ep-donate-footer a {
+  color: #718096;
+  text-decoration: none;
+}
+.ep-donate-footer a:hover {
+  color: #2b6cb0;
+  text-decoration: underline;
+}
+</style>
