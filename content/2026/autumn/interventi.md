@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-10-31 20:02:28
+Date: 2026-11-01 19:44:23
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -65,8 +65,14 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
-Moderato da: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)
+#### <a name="1m07"></a> [Proiezione di The Power of Data di Marco Milione](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
+Moderato da: TBA
+Partecipano: TBA
+
+-
+
+#### <a name="1m08"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m08) [⇧](/e-privacy-XXXIX-programma.html#1m08)
+Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)
 Partecipano: TBA
 
 -
