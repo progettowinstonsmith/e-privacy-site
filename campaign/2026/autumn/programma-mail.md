@@ -64,7 +64,7 @@ A presto,
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
-11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milione</a></em></span>
+11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milone</a></em></span>
 12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: TBA</span>
 12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
@@ -139,7 +139,7 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milione<a href='#1m07'>⇧</a>
+#### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milone<a href='#1m07'>⇧</a>
 
 
 Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
@@ -395,7 +395,7 @@ Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegn
 
 Ad e-privacy presenta [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](#1p05).
 
-### <a name='marco-milione'></a>Marco Milione (Amateru) <a href='#1m08'>⇧</a>
+### <a name='marco-milone'></a>Marco Milone (Amateru) <a href='#1m08'>⇧</a>
 
 Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival 2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al David di Donatello 2020 per il miglior documentario. Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio sulla xilografia giapponese. La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it. Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
 
