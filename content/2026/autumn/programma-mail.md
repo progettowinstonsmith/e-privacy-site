@@ -60,7 +60,7 @@ A presto,
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
 09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
-09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_01_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_02_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_03_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a></span>
+09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
@@ -90,7 +90,7 @@ A presto,
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk' id='2m01-programma'>-<br/><em>Apertura della giornata</em></span>
+09:30|5|<span class='talk' id='2m01-programma'>Rebecca Berto<br/><em>Apertura della giornata</em></span>
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
 10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em></span>
 10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em></span>

@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 21:14:57
+Date: 2026-11-01 22:21:44
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -53,11 +53,11 @@ La domanda è quale forma di mente rende normale.
 ------- | --- | -------
 09:30|5|<a name='1m01'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?*
 09:35|15|<a name='1m02'></a>-<br/>*Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)*
-09:50|30|<a name='1m03'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_01_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_02_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_03_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a>
+09:50|30|<a name='1m03'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*[Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-interventi.html#1m03)*
 10:20|30|<a name='1m04'></a>[Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)<br/>*[Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-interventi.html#1m04)*
 10:50|20|*Coffee Break*
 11:10|30|<a name='1m06'></a>[Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)<br/>*[Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-interventi.html#1m06)*
-11:40|20|<a name='1m07'></a>*[Proiezione di The Power of Data di Marco Milione](/e-privacy-XXXIX-interventi.html#1m07)*
+11:40|20|<a name='1m07'></a>*[Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-interventi.html#1m07)*
 12:00|55|<a name='1m08'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m08)*<br/>Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)<br/>Partecipano: TBA
 12:55|5|<a name='1m09'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Chiusura sessione*
 

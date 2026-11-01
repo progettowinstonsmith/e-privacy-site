@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 21:14:55
+Date: 2026-11-01 22:21:42
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -65,7 +65,7 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> [Proiezione di The Power of Data di Marco Milione](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
+#### <a name="1m07"></a> [Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
 
 
 Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).

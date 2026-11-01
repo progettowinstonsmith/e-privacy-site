@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 21:14:54
+Date: 2026-11-01 22:21:41
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -54,11 +54,11 @@ Marco Calamari & Emmanuele Somma
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
 09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
-09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_01_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_02_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_03_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a></span>
+09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
-11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milione</a></em></span>
+11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milone</a></em></span>
 12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: TBA</span>
 12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
@@ -133,7 +133,7 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milione<a href='#1m07'>⇧</a>
+#### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milone<a href='#1m07'>⇧</a>
 
 
 Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
