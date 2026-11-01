@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 21:02:57
+Date: 2026-11-01 21:14:57
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -83,7 +83,7 @@ La domanda è quale forma di mente rende normale.
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<a name='2m01'></a>-<br/>*Apertura della giornata*
+09:30|5|<a name='2m01'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*Apertura della giornata*
 09:35|40|<a name='2m02'></a>[Luca Masrè Passaro (Luca Masré Passaro)](/e-privacy-XXXIX-relatori.html#luca-masre-passaro)<br/>*[Dalla propaganda all'IA: quando la persuasione si scrive da sola](/e-privacy-XXXIX-interventi.html#2m02)*
 10:15|30|<a name='2m03'></a>[Alessandra De Rossi (Università di Torino)](/e-privacy-XXXIX-relatori.html#alessandra-de-rossi)<br/>*[Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](/e-privacy-XXXIX-interventi.html#2m03)*
 10:45|30|<a name='2m04'></a>[Lucia Adele Ruggiero (Avvera srl)](/e-privacy-XXXIX-relatori.html#lucia-adele-ruggiero)<br/>*[Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-interventi.html#2m04)*

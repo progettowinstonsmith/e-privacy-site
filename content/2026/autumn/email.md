@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 21:02:54
+Date: 2026-11-01 21:14:54
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -84,7 +84,7 @@ Marco Calamari & Emmanuele Somma
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
-09:30|5|<span class='talk' id='2m01-programma'>-<br/><em>Apertura della giornata</em></span>
+09:30|5|<span class='talk' id='2m01-programma'>Rebecca Berto<br/><em>Apertura della giornata</em></span>
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
 10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em></span>
 10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em></span>
