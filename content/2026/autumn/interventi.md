@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 19:44:23
+Date: 2026-11-01 21:02:55
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -66,10 +66,13 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
 #### <a name="1m07"></a> [Proiezione di The Power of Data di Marco Milione](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
-Moderato da: TBA
-Partecipano: TBA
 
--
+
+Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
+
+Ogni clic lascia una traccia. Ma di chi e'? The Power of Data ripercorre l'arco delle nostre vite digitali, da ARPANET all'Internet delle cose, dal cybercrimine alla blockchain, chiedendosi non solo come funzionano questi sistemi, ma chi servono davvero. E che cosa resta della privacy quando la risposta e' scomoda.
+
+The Power of Data si apre su una sagoma geometrica piatta, circondata da una rete animata di linee luminose. Nessuna macchina da presa, nessun luogo, nessun archivio: diagrammi, schemi, cartelli tipografici e animazioni geometriche. Il film esamina la logica per cui certe architetture si comportano indipendentemente dalle intenzioni di chi le ha costruite, rendendo visibile la struttura invisibile delle nostre reti senza semplificarne la complessita'.
 
 #### <a name="1m08"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m08) [⇧](/e-privacy-XXXIX-programma.html#1m08)
 Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)

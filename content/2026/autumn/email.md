@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 19:44:22
+Date: 2026-11-01 21:02:54
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -58,7 +58,7 @@ Marco Calamari & Emmanuele Somma
 10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
-11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milione</a></em><br/>Moderato da: TBA<br/>Partecipano: TBA</span>
+11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milione</a></em></span>
 12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: TBA</span>
 12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
@@ -134,10 +134,13 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
 #### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milione<a href='#1m07'>⇧</a>
-Moderato da: TBA
-Partecipano: TBA
 
--
+
+Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
+
+Ogni clic lascia una traccia. Ma di chi e'? The Power of Data ripercorre l'arco delle nostre vite digitali, da ARPANET all'Internet delle cose, dal cybercrimine alla blockchain, chiedendosi non solo come funzionano questi sistemi, ma chi servono davvero. E che cosa resta della privacy quando la risposta e' scomoda.
+
+The Power of Data si apre su una sagoma geometrica piatta, circondata da una rete animata di linee luminose. Nessuna macchina da presa, nessun luogo, nessun archivio: diagrammi, schemi, cartelli tipografici e animazioni geometriche. Il film esamina la logica per cui certe architetture si comportano indipendentemente dalle intenzioni di chi le ha costruite, rendendo visibile la struttura invisibile delle nostre reti senza semplificarne la complessita'.
 
 #### <a name="1m08"></a> The Power of Data<a href='#1m08'>⇧</a>
 Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)
