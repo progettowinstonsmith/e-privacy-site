@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 22:21:44
+Date: 2026-11-09 19:54:20
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -47,6 +47,8 @@ La domanda è quale forma di mente rende normale.
 
 #### 13 novembre 2026 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdGunytPgM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari)
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -63,6 +65,8 @@ La domanda è quale forma di mente rende normale.
 
 #### 13 novembre 2026 - pomeriggio
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HLvYZ4Son_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: [Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio)
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -78,6 +82,8 @@ La domanda è quale forma di mente rende normale.
 17:55|5|<a name='1p09'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
 
 #### 14 novembre 2026 - mattina
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHW5HBDZx_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: [Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)
 

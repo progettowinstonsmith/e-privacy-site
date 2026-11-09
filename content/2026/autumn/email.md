@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-01 22:21:41
+Date: 2026-11-09 19:54:17
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -48,6 +48,8 @@ Marco Calamari & Emmanuele Somma
 
 #### 13 novembre 2026 - mattina
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdGunytPgM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#marco-calamari'>Marco Calamari</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -64,6 +66,8 @@ Marco Calamari & Emmanuele Somma
 
 #### 13 novembre 2026 - pomeriggio
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HLvYZ4Son_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#diego-giorio'>Diego Giorio</a>
 
 **Ora** | Durata | **Relatore**<br/> **Titolo**
@@ -79,6 +83,8 @@ Marco Calamari & Emmanuele Somma
 17:55|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
 
 #### 14 novembre 2026 - mattina
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHW5HBDZx_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#rebecca-berto'>Rebecca Berto</a>
 
@@ -389,9 +395,15 @@ Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegn
 
 Ad e-privacy presenta [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](#1p05).
 
-### <a name='marco-milone'></a>Marco Milone (Amateru) <a href='#1m08'>⇧</a>
+### <a name='marco-milione'></a>Marco Milione (Amateru) <a href='#1m08'>⇧</a>
 
 Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival 2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al David di Donatello 2020 per il miglior documentario. Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio sulla xilografia giapponese. La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it. Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
+
+Ad e-privacy partecipa a [The Power of Data](#1m08).
+
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch Informatich.ch) <a href='#1m08'>⇧</a>
+
+Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, con esperienza nella consulenza legale per imprese e start-up in ambito digitale. Vice Presidente e Cofounder di LawBoat, è anche Socia e Responsabile dell’Area Legale di InformatiCH Sagl, dove si occupa di compliance normativa, privacy, AI governance e formazione aziendale. Unisce competenze giuridiche e visione strategica per accompagnare l’innovazione in modo etico e sostenibile.
 
 Ad e-privacy partecipa a [The Power of Data](#1m08).
 
