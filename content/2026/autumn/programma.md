@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-09 19:54:20
+Date: 2026-11-09 20:10:03
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -60,7 +60,7 @@ La domanda è quale forma di mente rende normale.
 10:50|20|*Coffee Break*
 11:10|30|<a name='1m06'></a>[Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)<br/>*[Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-interventi.html#1m06)*
 11:40|20|<a name='1m07'></a>*[Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-interventi.html#1m07)*
-12:00|55|<a name='1m08'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m08)*<br/>Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)<br/>Partecipano: TBA
+12:00|55|<a name='1m08'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m08)*<br/>Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)<br/>Partecipano: [Marco Milione](/e-privacy-XXXIX-relatori.html#marco-milione) (Amateru), [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws), [Angela Pedalina](/e-privacy-XXXIX-relatori.html#angela-pedalina) (LawBoat.ch Informatich.ch) e altri ancora
 12:55|5|<a name='1m09'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Chiusura sessione*
 
 #### 13 novembre 2026 - pomeriggio

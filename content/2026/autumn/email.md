@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-09 19:54:17
+Date: 2026-11-09 20:10:00
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -61,7 +61,7 @@ Marco Calamari & Emmanuele Somma
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
 11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milone</a></em></span>
-12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: TBA</span>
+12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: Marco Milione (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch Informatich.ch) e altri ancora</span>
 12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
 #### 13 novembre 2026 - pomeriggio
@@ -150,7 +150,7 @@ The Power of Data si apre su una sagoma geometrica piatta, circondata da una ret
 
 #### <a name="1m08"></a> The Power of Data<a href='#1m08'>⇧</a>
 Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)
-Partecipano: TBA
+Partecipano: Marco Milione (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch Informatich.ch) e altri ancora
 
 -
 
