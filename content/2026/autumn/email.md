@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-09 20:10:00
+Date: 2026-11-09 21:18:40
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -48,7 +48,7 @@ Marco Calamari & Emmanuele Somma
 
 #### 13 novembre 2026 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RdGunytPgM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wJajfLd0_ZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#marco-calamari'>Marco Calamari</a>
 
@@ -66,7 +66,7 @@ Marco Calamari & Emmanuele Somma
 
 #### 13 novembre 2026 - pomeriggio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HLvYZ4Son_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSvtSs3Bzl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#diego-giorio'>Diego Giorio</a>
 
@@ -84,7 +84,7 @@ Marco Calamari & Emmanuele Somma
 
 #### 14 novembre 2026 - mattina
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tHW5HBDZx_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qkqdh3Sc1Wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Modera: <a href='/e-privacy-XXXIX-relatori.html#rebecca-berto'>Rebecca Berto</a>
 
