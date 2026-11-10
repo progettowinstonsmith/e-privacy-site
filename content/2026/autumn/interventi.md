@@ -76,7 +76,7 @@ The Power of Data si apre su una sagoma geometrica piatta, circondata da una ret
 
 #### <a name="1m08"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m08) [⇧](/e-privacy-XXXIX-programma.html#1m08)
 Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)
-Partecipano: [Marco Milione](/e-privacy-XXXIX-relatori.html#marco-milione) (Amateru), [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws), [Angela Pedalina](/e-privacy-XXXIX-relatori.html#angela-pedalina) (LawBoat.ch Informatich.ch) e altri ancora
+Partecipano: [Marco Milone](/e-privacy-XXXIX-relatori.html#marco-milone) (Amateru), [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws), [Angela Pedalina](/e-privacy-XXXIX-relatori.html#angela-pedalina) (LawBoat.ch Informatich.ch) e altri ancora
 
 -
 
