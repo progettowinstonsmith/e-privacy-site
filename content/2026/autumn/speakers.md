@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-11 15:14:26
+Date: 2026-11-11 15:31:43
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -160,9 +160,13 @@ Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come pr
 
 Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m08).
 
-### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch Informatich.ch) [⇧](/e-privacy-XXXIX-programma.html#1m08)
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) [⇧](/e-privacy-XXXIX-programma.html#1m08)
 
-Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, con esperienza nella consulenza legale per imprese e start-up in ambito digitale. Vice Presidente e Cofounder di LawBoat, è anche Socia e Responsabile dell’Area Legale di InformatiCH Sagl, dove si occupa di compliance normativa, privacy, AI governance e formazione aziendale. Unisce competenze giuridiche e visione strategica per accompagnare l’innovazione in modo etico e sostenibile.
+Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, vanta esperienza nella consulenza legale a imprese e start-up operanti nel settore digitale.
+
+Vice Presidente e Cofounder di LawBoat, svolge attività di consulenza in ambito compliance normativa, protezione dei dati personali, AI Governance e formazione aziendale.
+
+Integra competenze giuridiche, conoscenze dei fenomeni digitali e visione strategica, contribuendo a sviluppare modelli di governance capaci di integrare tutela dei dati, gestione dei rischi e innovazione tecnologica.
 
 Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m08).
 

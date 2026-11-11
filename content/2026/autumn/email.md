@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-11 15:14:24
+Date: 2026-11-11 15:31:43
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -61,7 +61,7 @@ Marco Calamari & Emmanuele Somma
 10:50|20|<span class='talk'><em>Coffee Break</em></span>
 11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
 11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milone</a></em></span>
-12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch Informatich.ch) e altri ancora</span>
+12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch) e altri ancora</span>
 12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
 #### 13 novembre 2026 - pomeriggio
@@ -150,7 +150,7 @@ The Power of Data si apre su una sagoma geometrica piatta, circondata da una ret
 
 #### <a name="1m08"></a> The Power of Data<a href='#1m08'>⇧</a>
 Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)
-Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch Informatich.ch) e altri ancora
+Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch) e altri ancora
 
 -
 
@@ -401,9 +401,13 @@ Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come pr
 
 Ad e-privacy partecipa a [The Power of Data](#1m08).
 
-### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch Informatich.ch) <a href='#1m08'>⇧</a>
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) <a href='#1m08'>⇧</a>
 
-Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, con esperienza nella consulenza legale per imprese e start-up in ambito digitale. Vice Presidente e Cofounder di LawBoat, è anche Socia e Responsabile dell’Area Legale di InformatiCH Sagl, dove si occupa di compliance normativa, privacy, AI governance e formazione aziendale. Unisce competenze giuridiche e visione strategica per accompagnare l’innovazione in modo etico e sostenibile.
+Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, vanta esperienza nella consulenza legale a imprese e start-up operanti nel settore digitale.
+
+Vice Presidente e Cofounder di LawBoat, svolge attività di consulenza in ambito compliance normativa, protezione dei dati personali, AI Governance e formazione aziendale.
+
+Integra competenze giuridiche, conoscenze dei fenomeni digitali e visione strategica, contribuendo a sviluppare modelli di governance capaci di integrare tutela dei dati, gestione dei rischi e innovazione tecnologica.
 
 Ad e-privacy partecipa a [The Power of Data](#1m08).
 
