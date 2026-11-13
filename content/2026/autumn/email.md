@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 10:53:08
+Date: 2026-11-13 16:21:35
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -77,7 +77,7 @@ Marco Calamari & Emmanuele Somma
 14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
 15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a></span>
 15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_english.pdf">📄</a></span>
-16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
+16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (www.casinometro.it)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
 16:45|20|<span class='talk'><em>Coffee Break</em></span>
 17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_marchi_il_telefono_nel_cassetto.pdf">📄</a></span>
 17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_spanti_presentazione_spanti_a.pdf">📄</a></span>
@@ -175,7 +175,7 @@ Partiamo da una analisi dei nuovi rischi dell'uso dell'AI agentica per proporre 
 Il tutto condito con la metafora del panopticon e le opere di in architetto francese specializzato in post antropocene.
 
 #### <a name="1p05"></a> Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone<a href='#1p05'>⇧</a>
-[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)
+[Sandrini Mauro (www.casinometro.it)](#sandrini-mauro)
 
 Una misura in classe può controllare. Oppure curare. La differenza non sta nel sensore: sta in che cosa si misura, in dove va il dato e in chi decide. L'intervento lo mostra con due casi opposti, un'aula coreana che produce un indice di "concentrazione" degli studenti e il casinometro (www.casinometro.it), un fonometro che restituisce alla classe il proprio rumore. Poi propone sei domande semplici per capire quale misura cura e quale controlla.
 
@@ -390,7 +390,7 @@ Da oltre vent'anni lavora nel marketing e nella comunicazione digitale, e dal 20
 
 Ad e-privacy presenta [Dalla propaganda all'IA: quando la persuasione si scrive da sola](#2m02).
 
-### <a name='sandrini-mauro'></a>Sandrini Mauro (Ing. Mauro Sandrini) <a href='#1p05'>⇧</a>
+### <a name='sandrini-mauro'></a>Sandrini Mauro (www.casinometro.it) <a href='#1p05'>⇧</a>
 
 Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegnante di matematica nella scuola secondaria dal 1990. Forma docenti e scrive sul blog del Fatto Quotidiano. Cura la newsletter «Eliminare il caos in classe» e, con Ilaria Vaglini, il Dialogo Incorpo. È autore di «Eliminare il caos in classe» e «Il dialogo incorpo». Ha ideato il casinometro, fonometro gratuito con cui la classe regola da sola il proprio rumore (info: https://www.casinometro.it/ )
 

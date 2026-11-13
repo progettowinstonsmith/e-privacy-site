@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 10:53:09
+Date: 2026-11-13 16:21:36
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -100,7 +100,7 @@ Partiamo da una analisi dei nuovi rischi dell'uso dell'AI agentica per proporre 
 Il tutto condito con la metafora del panopticon e le opere di in architetto francese specializzato in post antropocene.
 
 #### <a name="1p05"></a> [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-programma.html#1p05) [⇧](/e-privacy-XXXIX-programma.html#1p05)
-[Sandrini Mauro (Ing. Mauro Sandrini)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)
+[Sandrini Mauro (www.casinometro.it)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)
 
 Una misura in classe può controllare. Oppure curare. La differenza non sta nel sensore: sta in che cosa si misura, in dove va il dato e in chi decide. L'intervento lo mostra con due casi opposti, un'aula coreana che produce un indice di "concentrazione" degli studenti e il casinometro (www.casinometro.it), un fonometro che restituisce alla classe il proprio rumore. Poi propone sei domande semplici per capire quale misura cura e quale controlla.
 

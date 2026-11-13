@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 10:53:10
+Date: 2026-11-13 16:21:37
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -148,7 +148,7 @@ Da oltre vent'anni lavora nel marketing e nella comunicazione digitale, e dal 20
 
 Ad e-privacy presenta [Dalla propaganda all'IA: quando la persuasione si scrive da sola](/e-privacy-XXXIX-programma.html#2m02).
 
-### <a name='sandrini-mauro'></a>Sandrini Mauro (Ing. Mauro Sandrini) [⇧](/e-privacy-XXXIX-programma.html#1p05)
+### <a name='sandrini-mauro'></a>Sandrini Mauro (www.casinometro.it) [⇧](/e-privacy-XXXIX-programma.html#1p05)
 
 Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegnante di matematica nella scuola secondaria dal 1990. Forma docenti e scrive sul blog del Fatto Quotidiano. Cura la newsletter «Eliminare il caos in classe» e, con Ilaria Vaglini, il Dialogo Incorpo. È autore di «Eliminare il caos in classe» e «Il dialogo incorpo». Ha ideato il casinometro, fonometro gratuito con cui la classe regola da sola il proprio rumore (info: https://www.casinometro.it/ )
 

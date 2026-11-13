@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 10:53:11
+Date: 2026-11-13 16:21:38
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -76,7 +76,7 @@ La domanda è quale forma di mente rende normale.
 14:40|30|<a name='1p02'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXIX-relatori.html#edoardo-ferri)<br/>*["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-interventi.html#1p02)*
 15:10|30|<a name='1p03'></a>[Yvette Agostini](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a>
 15:40|45|<a name='1p04'></a>[Laura Camellini (Near protocol)](/e-privacy-XXXIX-relatori.html#laura-camellini)<br/>*[Agenti trustless e privacy by architecture](/e-privacy-XXXIX-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_english.pdf">📄</a>
-16:25|20|<a name='1p05'></a>[Sandrini Mauro (Ing. Mauro Sandrini)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)<br/>*[Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-interventi.html#1p05)*
+16:25|20|<a name='1p05'></a>[Sandrini Mauro (www.casinometro.it)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)<br/>*[Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-interventi.html#1p05)*
 16:45|20|*Coffee Break*
 17:05|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_marchi_il_telefono_nel_cassetto.pdf">📄</a>
 17:35|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_spanti_presentazione_spanti_a.pdf">📄</a>
