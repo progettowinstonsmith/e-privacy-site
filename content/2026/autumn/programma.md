@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 17:36:32
+Date: 2026-11-14 00:38:32
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -60,7 +60,7 @@ La domanda è quale forma di mente rende normale.
 10:30|30|<a name='1m05'></a>[Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)<br/>*[Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-interventi.html#1m05)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_02_marmo_se_l_ia_entra_a_scuola_chi_forma_i_docenti_dalla_policy_d_istituto_a_un_modello_di_ai_literacy_per_la_comunit_scolastica.pdf">📄</a>
 11:00|20|*Coffee Break*
 11:20|30|<a name='1m07'></a>[Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)<br/>*[Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-interventi.html#1m07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_03_alessandri_quale_societ_e_quale_scuola_nell_era_dell_ai.pdf">📄</a>
-11:50|20|<a name='1m08'></a>*[Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-interventi.html#1m08)*
+11:50|20|<a name='1m08'></a>*[Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-interventi.html#1m08)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_evento_the_power_of_data_comunicato_stampa.pdf">📄</a>
 12:10|55|<a name='1m09'></a>*[The Power of Data](/e-privacy-XXXIX-interventi.html#1m09)*<br/>Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)<br/>Partecipano: [Marco Milone](/e-privacy-XXXIX-relatori.html#marco-milone) (Amateru), [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws), [Angela Pedalina](/e-privacy-XXXIX-relatori.html#angela-pedalina) (LawBoat.ch) e altri ancora
 13:05|5|<a name='1m10'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Chiusura sessione*
 
@@ -73,13 +73,13 @@ La domanda è quale forma di mente rende normale.
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 14:30|10|<a name='1p01'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Apertura sessione pomeridiana*
-14:40|30|<a name='1p02'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXIX-relatori.html#edoardo-ferri)<br/>*["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-interventi.html#1p02)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_ferri_dimostra_che_l_hai_scritto_tu.pdf">📄</a>
-15:10|30|<a name='1p03'></a>[Yvette Agostini](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a>
-15:40|45|<a name='1p04'></a>[Laura Camellini (Near protocol)](/e-privacy-XXXIX-relatori.html#laura-camellini)<br/>*[Agenti trustless e privacy by architecture](/e-privacy-XXXIX-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_camellini_slides_english.pdf">📄</a>
+14:40|30|<a name='1p02'></a>[Edoardo Ferri (Il Cibernetico)](/e-privacy-XXXIX-relatori.html#edoardo-ferri)<br/>*["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-interventi.html#1p02)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_ferri_dimostra_che_l_hai_scritto_tu.pdf">📄</a>
+15:10|30|<a name='1p03'></a>[Yvette Agostini](/e-privacy-XXXIX-relatori.html#yvette-agostini)<br/>*[L'IA come strumento di miglioramento](/e-privacy-XXXIX-interventi.html#1p03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a>
+15:40|45|<a name='1p04'></a>[Laura Camellini (Near protocol)](/e-privacy-XXXIX-relatori.html#laura-camellini)<br/>*[Agenti trustless e privacy by architecture](/e-privacy-XXXIX-interventi.html#1p04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_camellini_slides_english.pdf">📄</a>
 16:25|20|<a name='1p05'></a>[Sandrini Mauro (www.casinometro.it)](/e-privacy-XXXIX-relatori.html#sandrini-mauro)<br/>*[Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-interventi.html#1p05)*
 16:45|20|*Coffee Break*
-17:05|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_marchi_il_telefono_nel_cassetto.pdf">📄</a>
-17:35|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_spanti_presentazione_spanti_a.pdf">📄</a>
+17:05|30|<a name='1p07'></a>[Davide Marchi (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](/e-privacy-XXXIX-relatori.html#michele-bottari)<br/>*[La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-interventi.html#1p07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_marchi_il_telefono_nel_cassetto.pdf">📄</a>
+17:35|20|<a name='1p08'></a>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](/e-privacy-XXXIX-relatori.html#angela-spanti)<br/>*[Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari](/e-privacy-XXXIX-interventi.html#1p08)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_10_spanti_presentazione_spanti_a.pdf">📄</a>
 17:55|5|<a name='1p09'></a>[Diego Giorio](/e-privacy-XXXIX-relatori.html#diego-giorio) (SEPEL Editrice)<br/>*Chiusura giornata*
 
 #### 14 novembre 2026 - mattina
@@ -92,12 +92,24 @@ La domanda è quale forma di mente rende normale.
 ------- | --- | -------
 09:30|5|<a name='2m01'></a>[Rebecca Berto](/e-privacy-XXXIX-relatori.html#rebecca-berto)<br/>*Apertura della giornata*
 09:35|40|<a name='2m02'></a>[Luca Masrè Passaro (Luca Masré Passaro)](/e-privacy-XXXIX-relatori.html#luca-masre-passaro)<br/>*[Dalla propaganda all'IA: quando la persuasione si scrive da sola](/e-privacy-XXXIX-interventi.html#2m02)*
-10:15|30|<a name='2m03'></a>[Alessandra De Rossi (Università di Torino)](/e-privacy-XXXIX-relatori.html#alessandra-de-rossi)<br/>*[Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](/e-privacy-XXXIX-interventi.html#2m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_10_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a>
-10:45|30|<a name='2m04'></a>[Lucia Adele Ruggiero (Avvera srl)](/e-privacy-XXXIX-relatori.html#lucia-adele-ruggiero)<br/>*[Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-interventi.html#2m04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_ruggiero_neolingua_senza_ministero.pptx">📄</a>
+10:15|30|<a name='2m03'></a>[Alessandra De Rossi (Università di Torino)](/e-privacy-XXXIX-relatori.html#alessandra-de-rossi)<br/>*[Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](/e-privacy-XXXIX-interventi.html#2m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a>
+10:45|30|<a name='2m04'></a>[Lucia Adele Ruggiero (Avvera srl)](/e-privacy-XXXIX-relatori.html#lucia-adele-ruggiero)<br/>*[Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-interventi.html#2m04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_ruggiero_neolingua_senza_ministero.pptx">📄</a>
 11:15|30|*Coffee Break*
-11:45|30|<a name='2m06'></a>[Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m06)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a>
+11:45|30|<a name='2m06'></a>[Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m06)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a>
 12:15|45|<a name='2m07'></a>[Carlo Blengino](/e-privacy-XXXIX-relatori.html#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](/e-privacy-XXXIX-relatori.html#marco-ciurcina)<br/>*[L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-interventi.html#2m07)*
 13:00|5|<a name='2m08'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Arrivederci ad e-privacy XL*
+
+
+## Legenda risorse
+
+Icona | Descrizione
+---- | ----
+📄 | Slides
+🧾 | Handout
+🎧 | Audio
+🎬 | Video
+🔗 | Link
+📎 | Altro
 
 ### Gli organizzatori
 
