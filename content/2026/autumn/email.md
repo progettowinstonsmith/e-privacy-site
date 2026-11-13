@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-13 16:21:35
+Date: 2026-11-13 17:36:29
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -74,13 +74,13 @@ Marco Calamari & Emmanuele Somma
 **Ora** | Durata | **Relatore**<br/> **Titolo**
 ------- | --- | -------
 14:30|10|<span class='talk' id='1p01-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Apertura sessione pomeridiana</em></span>
-14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
-15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a></span>
-15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_english.pdf">📄</a></span>
+14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_ferri_dimostra_che_l_hai_scritto_tu.pdf">📄</a></span>
+15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a></span>
+15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_camellini_slides_english.pdf">📄</a></span>
 16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (www.casinometro.it)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
 16:45|20|<span class='talk'><em>Coffee Break</em></span>
-17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_marchi_il_telefono_nel_cassetto.pdf">📄</a></span>
-17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_spanti_presentazione_spanti_a.pdf">📄</a></span>
+17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_marchi_il_telefono_nel_cassetto.pdf">📄</a></span>
+17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_spanti_presentazione_spanti_a.pdf">📄</a></span>
 17:55|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
 
 #### 14 novembre 2026 - mattina
@@ -93,10 +93,10 @@ Marco Calamari & Emmanuele Somma
 ------- | --- | -------
 09:30|5|<span class='talk' id='2m01-programma'>Rebecca Berto<br/><em>Apertura della giornata</em></span>
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
-10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a></span>
-10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_10_ruggiero_neolingua_senza_ministero.pptx">📄</a></span>
+10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_10_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a></span>
+10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_ruggiero_neolingua_senza_ministero.pptx">📄</a></span>
 11:15|30|<span class='talk'><em>Coffee Break</em></span>
-11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
+11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
 12:15|45|<span class='talk' id='2m07-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m07'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
 13:00|5|<span class='talk' id='2m08-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
 
