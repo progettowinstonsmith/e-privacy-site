@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-11 15:31:43
+Date: 2026-11-13 10:53:09
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -39,7 +39,7 @@ Il pensiero umano é creativo, critico mentre l’intelligenza artificiale rispo
 
 La scuola non é solo un luogo dove apprendere nozioni ma dovrebbe essere mantenere la sua funzione di palestra del pensiero critico.
 
-#### <a name="1m04"></a> [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-programma.html#1m04) [⇧](/e-privacy-XXXIX-programma.html#1m04)
+#### <a name="1m05"></a> [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-programma.html#1m05) [⇧](/e-privacy-XXXIX-programma.html#1m05)
 [Roberto Marmo (Università di Pavia)](/e-privacy-XXXIX-relatori.html#roberto-marmo)
 
 L'introduzione dei sistemi di intelligenza artificiale generativa nella scuola sta avvenendo più rapidamente della capacità delle istituzioni scolastiche di costruire una cultura condivisa sul loro utilizzo.
@@ -52,7 +52,7 @@ Da questa analisi viene proposto un modello di AI Literacy per docenti organizza
 
 L'intervento presenterà una possibile struttura di corso per docenti e alcune attività laboratoriali attraverso le quali trasformare l'AI Literacy da dichiarazione di principio a competenza praticabile nella vita quotidiana della scuola.
 
-#### <a name="1m06"></a> [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m06) [⇧](/e-privacy-XXXIX-programma.html#1m06)
+#### <a name="1m07"></a> [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
 [Lorenza Alessandri (ITI Cardano - Pavia)](/e-privacy-XXXIX-relatori.html#lorenza-alessandri)
 
 L’AI e la sua accessibilità al grande pubblico sono le nuove ma sicuramente non saranno le ultime sfide che il mondo della scuola e della formazione devono cogliere.
@@ -65,7 +65,7 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> [Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-programma.html#1m07) [⇧](/e-privacy-XXXIX-programma.html#1m07)
+#### <a name="1m08"></a> [Proiezione di The Power of Data di Marco Milone](/e-privacy-XXXIX-programma.html#1m08) [⇧](/e-privacy-XXXIX-programma.html#1m08)
 
 
 Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
@@ -74,7 +74,7 @@ Ogni clic lascia una traccia. Ma di chi e'? The Power of Data ripercorre l'arco 
 
 The Power of Data si apre su una sagoma geometrica piatta, circondata da una rete animata di linee luminose. Nessuna macchina da presa, nessun luogo, nessun archivio: diagrammi, schemi, cartelli tipografici e animazioni geometriche. Il film esamina la logica per cui certe architetture si comportano indipendentemente dalle intenzioni di chi le ha costruite, rendendo visibile la struttura invisibile delle nostre reti senza semplificarne la complessita'.
 
-#### <a name="1m08"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m08) [⇧](/e-privacy-XXXIX-programma.html#1m08)
+#### <a name="1m09"></a> [The Power of Data](/e-privacy-XXXIX-programma.html#1m09) [⇧](/e-privacy-XXXIX-programma.html#1m09)
 Moderato da: [Lorenza Alessandri](/e-privacy-XXXIX-relatori.html#lorenza-alessandri) (ITI Cardano - Pavia)
 Partecipano: [Marco Milone](/e-privacy-XXXIX-relatori.html#marco-milone) (Amateru), [Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws), [Angela Pedalina](/e-privacy-XXXIX-relatori.html#angela-pedalina) (LawBoat.ch) e altri ancora
 

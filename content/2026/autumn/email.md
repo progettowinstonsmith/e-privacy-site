@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-11 15:31:43
+Date: 2026-11-13 10:53:08
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -56,13 +56,14 @@ Marco Calamari & Emmanuele Somma
 ------- | --- | -------
 09:30|5|<span class='talk' id='1m01-programma'>Marco Calamari (pws)<br/><em>Se l’IA fa i tuoi compiti, chi fa i compiti dell’IA?</em></span>
 09:35|15|<span class='talk' id='1m02-programma'>-<br/><em>Saluti Istituzionali  - Dott.sa Laura Pavesi (Preside I.T.I.S. G. Cardano)</em></span>
-09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em></span>
-10:20|30|<span class='talk' id='1m04-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m04'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em></span>
-10:50|20|<span class='talk'><em>Coffee Break</em></span>
-11:10|30|<span class='talk' id='1m06-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m06'>Quale scuola e quale società nell'era dell'AI?</a></em></span>
-11:40|20|<span class='talk' id='1m07-programma'><em><a href='#1m07'>Proiezione di The Power of Data di Marco Milone</a></em></span>
-12:00|55|<span class='talk' id='1m08-programma'><em><a href='#1m08'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch) e altri ancora</span>
-12:55|5|<span class='talk' id='1m09-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
+09:50|30|<span class='talk' id='1m03-programma'>[Rebecca Berto](#rebecca-berto)<br/><em><a href='#1m03'>Pensiero umano ed intelligenza artificiale</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_01_berto_pensiero_umano_ed_intelligenza_artificiale.pdf">📄</a></span>
+10:20|10|<span class='talk' id='1m04-programma'>-<br/><em>Saluti istituzionali - Dott. Michele Lissia (Sindaco di Pavia)</em></span>
+10:30|30|<span class='talk' id='1m05-programma'>[Roberto Marmo (Università di Pavia)](#roberto-marmo)<br/><em><a href='#1m05'>Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_02_marmo_se_l_ia_entra_a_scuola_chi_forma_i_docenti_dalla_policy_d_istituto_a_un_modello_di_ai_literacy_per_la_comunit_scolastica.pdf">📄</a></span>
+11:00|20|<span class='talk'><em>Coffee Break</em></span>
+11:20|30|<span class='talk' id='1m07-programma'>[Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)<br/><em><a href='#1m07'>Quale scuola e quale società nell'era dell'AI?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_03_alessandri_quale_societ_e_quale_scuola_nell_era_dell_ai.pdf">📄</a></span>
+11:50|20|<span class='talk' id='1m08-programma'><em><a href='#1m08'>Proiezione di The Power of Data di Marco Milone</a></em></span>
+12:10|55|<span class='talk' id='1m09-programma'><em><a href='#1m09'>The Power of Data</a></em><br/>Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)<br/>Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch) e altri ancora</span>
+13:05|5|<span class='talk' id='1m10-programma'>Marco Calamari (pws)<br/><em>Chiusura sessione</em></span>
 
 #### 13 novembre 2026 - pomeriggio
 
@@ -74,12 +75,12 @@ Marco Calamari & Emmanuele Somma
 ------- | --- | -------
 14:30|10|<span class='talk' id='1p01-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Apertura sessione pomeridiana</em></span>
 14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em></span>
-15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em></span>
-15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em></span>
+15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_04_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a></span>
+15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_camellini_slides_english.pdf">📄</a></span>
 16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (Ing. Mauro Sandrini)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
 16:45|20|<span class='talk'><em>Coffee Break</em></span>
-17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em></span>
-17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em></span>
+17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_marchi_il_telefono_nel_cassetto.pdf">📄</a></span>
+17:35|20|<span class='talk' id='1p08-programma'>[Angela Spanti (Azienda per il governo della sanità della regione Calabria - Azienda Zero)](#angela-spanti)<br/><em><a href='#1p08'>Quando l’algoritmo decide cosa conta: IA predittiva e dati sanitari</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_spanti_presentazione_spanti_a.pdf">📄</a></span>
 17:55|5|<span class='talk' id='1p09-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Chiusura giornata</em></span>
 
 #### 14 novembre 2026 - mattina
@@ -92,10 +93,10 @@ Marco Calamari & Emmanuele Somma
 ------- | --- | -------
 09:30|5|<span class='talk' id='2m01-programma'>Rebecca Berto<br/><em>Apertura della giornata</em></span>
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
-10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em></span>
-10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em></span>
+10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a></span>
+10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_10_ruggiero_neolingua_senza_ministero.pptx">📄</a></span>
 11:15|30|<span class='talk'><em>Coffee Break</em></span>
-11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em></span>
+11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
 12:15|45|<span class='talk' id='2m07-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m07'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
 13:00|5|<span class='talk' id='2m08-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
 
@@ -113,7 +114,7 @@ Il pensiero umano é creativo, critico mentre l’intelligenza artificiale rispo
 
 La scuola non é solo un luogo dove apprendere nozioni ma dovrebbe essere mantenere la sua funzione di palestra del pensiero critico.
 
-#### <a name="1m04"></a> Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica<a href='#1m04'>⇧</a>
+#### <a name="1m05"></a> Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica<a href='#1m05'>⇧</a>
 [Roberto Marmo (Università di Pavia)](#roberto-marmo)
 
 L'introduzione dei sistemi di intelligenza artificiale generativa nella scuola sta avvenendo più rapidamente della capacità delle istituzioni scolastiche di costruire una cultura condivisa sul loro utilizzo.
@@ -126,7 +127,7 @@ Da questa analisi viene proposto un modello di AI Literacy per docenti organizza
 
 L'intervento presenterà una possibile struttura di corso per docenti e alcune attività laboratoriali attraverso le quali trasformare l'AI Literacy da dichiarazione di principio a competenza praticabile nella vita quotidiana della scuola.
 
-#### <a name="1m06"></a> Quale scuola e quale società nell'era dell'AI?<a href='#1m06'>⇧</a>
+#### <a name="1m07"></a> Quale scuola e quale società nell'era dell'AI?<a href='#1m07'>⇧</a>
 [Lorenza Alessandri (ITI Cardano - Pavia)](#lorenza-alessandri)
 
 L’AI e la sua accessibilità al grande pubblico sono le nuove ma sicuramente non saranno le ultime sfide che il mondo della scuola e della formazione devono cogliere.
@@ -139,7 +140,7 @@ Andranno rinforzate le abilità di base, l’approccio critico ai testi, la rlfe
 
 In questo compito ben più ambizioso dell’apprendimento di una nuova tecnologia, la scuola deve essere avanguardia per non lasciare indietro nessuno e deve saldare una nuova collaborazione tra aree disciplinari differenti; la sfida è ambiziosa ma in gioco c’è non solo il destino della cultura, ma anche la tenuta della democrazia.
 
-#### <a name="1m07"></a> Proiezione di The Power of Data di Marco Milone<a href='#1m07'>⇧</a>
+#### <a name="1m08"></a> Proiezione di The Power of Data di Marco Milone<a href='#1m08'>⇧</a>
 
 
 Cortometraggio documentario (19 min, regia di Marco Milone, prodotto da Amateru).
@@ -148,7 +149,7 @@ Ogni clic lascia una traccia. Ma di chi e'? The Power of Data ripercorre l'arco 
 
 The Power of Data si apre su una sagoma geometrica piatta, circondata da una rete animata di linee luminose. Nessuna macchina da presa, nessun luogo, nessun archivio: diagrammi, schemi, cartelli tipografici e animazioni geometriche. Il film esamina la logica per cui certe architetture si comportano indipendentemente dalle intenzioni di chi le ha costruite, rendendo visibile la struttura invisibile delle nostre reti senza semplificarne la complessita'.
 
-#### <a name="1m08"></a> The Power of Data<a href='#1m08'>⇧</a>
+#### <a name="1m09"></a> The Power of Data<a href='#1m09'>⇧</a>
 Moderato da: Lorenza Alessandri (ITI Cardano - Pavia)
 Partecipano: Marco Milone (Amateru), Marco Calamari (pws), Angela Pedalina (LawBoat.ch) e altri ancora
 
@@ -277,7 +278,7 @@ Nel suo percorso professionale, ha collaborato con diverse realtà, supportandol
 
 Ad e-privacy presenta [L'IA come strumento di miglioramento](#1p03).
 
-### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) <a href='#1m06'>⇧</a>
+### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) <a href='#1m07'>⇧</a>
 
 Nata a Torino, filosofa di formazione e prestata alla didattica della letteratura e della storia, accompagna il lavoro in aula a un lavoro di scrittrice, divulgatrice, formatrice e giudice di Debate. Ha conseguito un master in Pedagogia e didattica dei Disturbi specifici dell'apprendimento.
 
@@ -289,7 +290,7 @@ Dopo avere insegnato a Torino e Firenze, dal 2020 insegna all'Istituto Cardano, 
 
 Nel 2026 ha partecipato a due progetti Erasmus+; uno specificamente dedicato all'AI in ambito didattico.
 
-Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](#1m06).
+Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](#1m07).
 
 ### <a name='rebecca-berto'></a>Rebecca Berto <a href='#1m03'>⇧</a>
 
@@ -373,13 +374,13 @@ Born in 1968 in Verona, technical studies, an essential approach to work and nev
 
 Ad e-privacy presenta [La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](#1p07).
 
-### <a name='roberto-marmo'></a>Roberto Marmo (Università di Pavia) <a href='#1m04'>⇧</a>
+### <a name='roberto-marmo'></a>Roberto Marmo (Università di Pavia) <a href='#1m05'>⇧</a>
 
 Roberto Marmo
 
 Informatico esperto di intelligenza artificiale e analisi dati, Consulente software e Formatore in vari contesti, autore del libro "Algoritmi per l'intelligenza artificiale" e altri libri, professore a contratto nell'Università di Pavia. C.T.U. iscritto all'Albo Tribunale Pavia. Contatti info@robertomarmo.net www.robertomarmo.net https://www.linkedin.com/in/robertomarmo/
 
-Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](#1m04).
+Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](#1m05).
 
 ### <a name='luca-masre-passaro'></a>Luca Masrè Passaro (Luca Masré Passaro) <a href='#2m02'>⇧</a>
 
@@ -395,13 +396,13 @@ Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegn
 
 Ad e-privacy presenta [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](#1p05).
 
-### <a name='marco-milone'></a>Marco Milone (Amateru) <a href='#1m08'>⇧</a>
+### <a name='marco-milone'></a>Marco Milone (Amateru) <a href='#1m09'>⇧</a>
 
 Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival 2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al David di Donatello 2020 per il miglior documentario. Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio sulla xilografia giapponese. La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it. Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
 
-Ad e-privacy partecipa a [The Power of Data](#1m08).
+Ad e-privacy partecipa a [The Power of Data](#1m09).
 
-### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) <a href='#1m08'>⇧</a>
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) <a href='#1m09'>⇧</a>
 
 Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, vanta esperienza nella consulenza legale a imprese e start-up operanti nel settore digitale.
 
@@ -409,7 +410,7 @@ Vice Presidente e Cofounder di LawBoat, svolge attività di consulenza in ambito
 
 Integra competenze giuridiche, conoscenze dei fenomeni digitali e visione strategica, contribuendo a sviluppare modelli di governance capaci di integrare tutela dei dati, gestione dei rischi e innovazione tecnologica.
 
-Ad e-privacy partecipa a [The Power of Data](#1m08).
+Ad e-privacy partecipa a [The Power of Data](#1m09).
 
 ### <a name='lucia-adele-ruggiero'></a>Lucia Adele Ruggiero (Avvera srl) <a href='#2m04'>⇧</a>
 

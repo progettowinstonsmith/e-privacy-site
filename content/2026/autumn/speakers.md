@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-11 15:31:43
+Date: 2026-11-13 10:53:10
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -36,7 +36,7 @@ Nel suo percorso professionale, ha collaborato con diverse realtà, supportandol
 
 Ad e-privacy presenta [L'IA come strumento di miglioramento](/e-privacy-XXXIX-programma.html#1p03).
 
-### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) [⇧](/e-privacy-XXXIX-programma.html#1m06)
+### <a name='lorenza-alessandri'></a>Lorenza Alessandri (ITI Cardano - Pavia) [⇧](/e-privacy-XXXIX-programma.html#1m07)
 
 Nata a Torino, filosofa di formazione e prestata alla didattica della letteratura e della storia, accompagna il lavoro in aula a un lavoro di scrittrice, divulgatrice, formatrice e giudice di Debate. Ha conseguito un master in Pedagogia e didattica dei Disturbi specifici dell'apprendimento.
 
@@ -48,7 +48,7 @@ Dopo avere insegnato a Torino e Firenze, dal 2020 insegna all'Istituto Cardano, 
 
 Nel 2026 ha partecipato a due progetti Erasmus+; uno specificamente dedicato all'AI in ambito didattico.
 
-Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m06).
+Ad e-privacy presenta [Quale scuola e quale società nell'era dell'AI?](/e-privacy-XXXIX-programma.html#1m07).
 
 ### <a name='rebecca-berto'></a>Rebecca Berto [⇧](/e-privacy-XXXIX-programma.html#1m03)
 
@@ -132,13 +132,13 @@ Born in 1968 in Verona, technical studies, an essential approach to work and nev
 
 Ad e-privacy presenta [La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento](/e-privacy-XXXIX-programma.html#1p07).
 
-### <a name='roberto-marmo'></a>Roberto Marmo (Università di Pavia) [⇧](/e-privacy-XXXIX-programma.html#1m04)
+### <a name='roberto-marmo'></a>Roberto Marmo (Università di Pavia) [⇧](/e-privacy-XXXIX-programma.html#1m05)
 
 Roberto Marmo
 
 Informatico esperto di intelligenza artificiale e analisi dati, Consulente software e Formatore in vari contesti, autore del libro "Algoritmi per l'intelligenza artificiale" e altri libri, professore a contratto nell'Università di Pavia. C.T.U. iscritto all'Albo Tribunale Pavia. Contatti info@robertomarmo.net www.robertomarmo.net https://www.linkedin.com/in/robertomarmo/
 
-Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-programma.html#1m04).
+Ad e-privacy presenta [Se l'IA entra a scuola, chi forma i docenti? Dalla policy d'istituto a un modello di AI Literacy per la comunità scolastica](/e-privacy-XXXIX-programma.html#1m05).
 
 ### <a name='luca-masre-passaro'></a>Luca Masrè Passaro (Luca Masré Passaro) [⇧](/e-privacy-XXXIX-programma.html#2m02)
 
@@ -154,13 +154,13 @@ Mauro Sandrini è ingegnere, dottore di ricerca in Sociologia Economica e insegn
 
 Ad e-privacy presenta [Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone](/e-privacy-XXXIX-programma.html#1p05).
 
-### <a name='marco-milone'></a>Marco Milone (Amateru) [⇧](/e-privacy-XXXIX-programma.html#1m08)
+### <a name='marco-milone'></a>Marco Milone (Amateru) [⇧](/e-privacy-XXXIX-programma.html#1m09)
 
 Marco Milone è produttore cinematografico e saggista. Tra i suoi titoli come produttore, Revengeance (Bill Plympton e Jim Lujan, 2016), Gran Premio della Giuria per il miglior lungometraggio d'animazione al Nashville Film Festival 2017, e La mafia non è più quella di una volta (Franco Maresco, 2019), presentato in concorso alla 76ª Mostra Internazionale d'Arte Cinematografica di Venezia, dove ha ricevuto il Premio Speciale della Giuria, e candidato al David di Donatello 2020 per il miglior documentario. Come saggista è autore di cinque libri sulla cultura giapponese, oltre a Fumetti (Unicopli, finalista al Premio Franco Fossati) e a Visioni radicali (Lindau, in uscita a novembre 2026, sul cinema sperimentale), e di articoli e capitoli in volumi collettivi. Ha ottenuto il secondo posto al Premio Dostoevskij per l'analisi culturale (2023–2024) con un saggio sulla xilografia giapponese. La sua scrittura critica si estende all'incrocio tra tecnologia e cultura, con riflessioni sull'intelligenza artificiale nel cinema: una prospettiva maturata dall'interno del settore, come cofondatore della piattaforma metaverso The Nemesis e membro del board della venture letteraria-tecnologica Romanzi.it. Come curatore e formatore si occupa di animazione sperimentale e astratta, da McLaren a Fischinger, da Yamamura al cinema indipendente cinese, in università, conservatori e festival internazionali. È stato membro di giuria al Florida Film Festival, al Lucca Film Festival, al Kinofilm Manchester e in altri festival.
 
-Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m08).
+Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m09).
 
-### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) [⇧](/e-privacy-XXXIX-programma.html#1m08)
+### <a name='angela-pedalina'></a>Angela Pedalina (LawBoat.ch) [⇧](/e-privacy-XXXIX-programma.html#1m09)
 
 Data Protection Consultant, Giurista e Criminologa, specializzata in Diritto di Internet e delle Nuove Tecnologie, vanta esperienza nella consulenza legale a imprese e start-up operanti nel settore digitale.
 
@@ -168,7 +168,7 @@ Vice Presidente e Cofounder di LawBoat, svolge attività di consulenza in ambito
 
 Integra competenze giuridiche, conoscenze dei fenomeni digitali e visione strategica, contribuendo a sviluppare modelli di governance capaci di integrare tutela dei dati, gestione dei rischi e innovazione tecnologica.
 
-Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m08).
+Ad e-privacy partecipa a [The Power of Data](/e-privacy-XXXIX-programma.html#1m09).
 
 ### <a name='lucia-adele-ruggiero'></a>Lucia Adele Ruggiero (Avvera srl) [⇧](/e-privacy-XXXIX-programma.html#2m04)
 
