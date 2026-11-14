@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 10:33:54
+Date: 2026-11-14 10:38:17
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -118,7 +118,7 @@ Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non 
 
 Matteo Flora è docente di "Sicurezza delle AI e delle SuperIntelligenze" allo Europena School od Economics e professore a contratto in "Crisis Management" all'UniPV.
 
-Ha fondato la più grande società italiana che si occupa di Difesa Cognitiva per Aziente, Persone e Istituzioni, ed è Docente presso la Difesa, le forse NATO e alle Forze dell'Ordine "AI e Guerra Cognitiva".
+Ha fondato la più grande società italiana che si occupa di Difesa Cognitiva per Aziende, Persone e Istituzioni, ed è Docente presso la Difesa, le forse NATO e alle Forze dell'Ordine "AI e Guerra Cognitiva".
 
 Quando lo lasciano in pace, conduce il più seguito Podcast di TechPolicy in Italia, Ciao Internet, e una trasmissione di AI su TgCom.
 
