@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 10:38:15
+Date: 2026-11-14 10:40:54
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -95,9 +95,9 @@ Marco Calamari & Emmanuele Somma
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
 10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a></span>
 10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_ruggiero_neolingua_senza_ministero.pptx">📄</a></span>
-11:15|20|<span class='talk' id='2m05-programma'>[Matteo Flora](#matteo-flora)<br/><em><a href='#2m05'>NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.</a></em></span>
+11:15|20|<span class='talk' id='2m05-programma'>[Matteo Flora](#matteo-flora)<br/><em><a href='#2m05'>NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_flora_20261114_pavia_e_privacy_xxxix.pdf">📄</a></span>
 11:35|10|<span class='talk'><em>Coffee Break</em></span>
-11:45|30|<span class='talk' id='2m07-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m07'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
+11:45|30|<span class='talk' id='2m07-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m07'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_14_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
 12:15|45|<span class='talk' id='2m08-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m08'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
 13:00|5|<span class='talk' id='2m09-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
 

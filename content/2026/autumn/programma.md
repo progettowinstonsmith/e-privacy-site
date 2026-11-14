@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 10:38:18
+Date: 2026-11-14 10:40:57
 Slug: e-privacy-XXXIX-programma
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -94,9 +94,9 @@ La domanda è quale forma di mente rende normale.
 09:35|40|<a name='2m02'></a>[Luca Masrè Passaro (Luca Masré Passaro)](/e-privacy-XXXIX-relatori.html#luca-masre-passaro)<br/>*[Dalla propaganda all'IA: quando la persuasione si scrive da sola](/e-privacy-XXXIX-interventi.html#2m02)*
 10:15|30|<a name='2m03'></a>[Alessandra De Rossi (Università di Torino)](/e-privacy-XXXIX-relatori.html#alessandra-de-rossi)<br/>*[Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?](/e-privacy-XXXIX-interventi.html#2m03)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a>
 10:45|30|<a name='2m04'></a>[Lucia Adele Ruggiero (Avvera srl)](/e-privacy-XXXIX-relatori.html#lucia-adele-ruggiero)<br/>*[Neolingua senza Ministero. Esiste un diritto a pensare da soli?](/e-privacy-XXXIX-interventi.html#2m04)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_ruggiero_neolingua_senza_ministero.pptx">📄</a>
-11:15|20|<a name='2m05'></a>[Matteo Flora](/e-privacy-XXXIX-relatori.html#matteo-flora)<br/>*[NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.](/e-privacy-XXXIX-interventi.html#2m05)*
+11:15|20|<a name='2m05'></a>[Matteo Flora](/e-privacy-XXXIX-relatori.html#matteo-flora)<br/>*[NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.](/e-privacy-XXXIX-interventi.html#2m05)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_flora_20261114_pavia_e_privacy_xxxix.pdf">📄</a>
 11:35|10|*Coffee Break*
-11:45|30|<a name='2m07'></a>[Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a>
+11:45|30|<a name='2m07'></a>[Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)<br/>*[Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-interventi.html#2m07)*<br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_14_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a>
 12:15|45|<a name='2m08'></a>[Carlo Blengino](/e-privacy-XXXIX-relatori.html#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](/e-privacy-XXXIX-relatori.html#marco-ciurcina)<br/>*[L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-interventi.html#2m08)*
 13:00|5|<a name='2m09'></a>[Marco Calamari](/e-privacy-XXXIX-relatori.html#marco-calamari) (pws)<br/>*Arrivederci ad e-privacy XL*
 
