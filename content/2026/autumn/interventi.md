@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 00:38:30
+Date: 2026-11-14 10:33:53
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -169,7 +169,16 @@ Il diritto non è attrezzato per vederlo. La libertà di pensiero è assoluta, m
 
 L'intervento propone di riconoscere un diritto all'autonomia cognitiva che protegga non il contenuto del pensiero ma il suo processo: il diritto di arrivare a un'opinione attraverso la propria fatica, i propri errori, i propri tempi. In altre parole, il diritto allo scarto. Nella scuola, dove la mente è ancora in formazione, è la questione decisiva. Il Grande Fratello voleva controllare cosa pensavamo. Il rischio oggi è più sottile: che nessuno ci impedisca di pensare, ma che smettiamo di farlo da soli.
 
-#### <a name="2m06"></a> [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-programma.html#2m06) [⇧](/e-privacy-XXXIX-programma.html#2m06)
+#### <a name="2m05"></a> [NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.](/e-privacy-XXXIX-programma.html#2m05) [⇧](/e-privacy-XXXIX-programma.html#2m05)
+[Matteo Flora](/e-privacy-XXXIX-relatori.html#matteo-flora)
+
+Immaginiamo la "Guerra Cognitiva"come qualcosa di segreto, fatto al buio, e invece spesso sta in cima a Google, con il nome di chi paga scritto in un registro pubblico.
+
+Partiamo da che cos'è e da dove arriva il suo motore, la pubblicità mirata, poi seguiamo un caso solo: gli annunci con cui l'agenzia pubblicitaria del governo israeliano ha portato chi cercava il film NAZA verso un sito costruito per sembrare quello giusto, spariti dopo l'inchiesta di IrpiMedia e tornati a novembre.
+
+Chiudiamo con tre cose che possiamo fare domattina, perché la difesa cognitiva si prepara prima che qualcun altro compri la prima riga di Google.
+
+#### <a name="2m07"></a> [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-programma.html#2m07) [⇧](/e-privacy-XXXIX-programma.html#2m07)
 [Diego Maranini](/e-privacy-XXXIX-relatori.html#diego-maranini)
 
 Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it) è un monitoraggio indipendente e automatizzato dei provvedimenti pubblici del Garante per la protezione dei dati personali. La pipeline che lo alimenta usa un modello linguistico per trasformare ogni provvedimento in una sintesi strutturata, pubblicata su sito, canale Telegram e newsletter.
@@ -188,7 +197,7 @@ Nel dettaglio:
 
 Un caso pratico, utile anche come spunto per la discussione sull'AI Act e sugli obblighi di chi questi sistemi li costruisce e li impiega.
 
-#### <a name="2m07"></a> [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m07) [⇧](/e-privacy-XXXIX-programma.html#2m07)
+#### <a name="2m08"></a> [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m08) [⇧](/e-privacy-XXXIX-programma.html#2m08)
 [Carlo Blengino](/e-privacy-XXXIX-relatori.html#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](/e-privacy-XXXIX-relatori.html#marco-ciurcina)
 
 I processi nelle aule di giustizia sono un complesso algoritmo socio-tecnico che si può comparare ad un software: - vi è un input di “dati”, ovvero rappresentazioni di fatti, informazioni o concetti, costituiti sempre più spesso da artefatti digitali estratti dal mondo datificato e dall’infosfera, che sono le prove; - questi dati vengono “trattati” secondo una sequenza finita, ordinata e (teorcamente) non ambigua di istruzioni: le prove sono infatti acquisite, assunte a dibattimento e valutate secondo regole contenute nei codici di procedura e, inevitabilmente, nei codici di software che elaborano i frammenti digitali delle nostre vite; - vi è in fine un output, la sentenza, che è fondamentalmente binario: colpevole/innocente, accolto/respinto. Certo, il processo, come il software, è agito da persone che ne controllano il funzionamento, inseriscono input e valutano l'output: le sentenze sono valutate e partecipano, insieme a norme e dottrina, alla costruzione collettiva del senso del diritto. Che impatto hanno la rivoluzione digitale e l'IA sul processo in particolare e sul diritto in generale? Cosa accade e cosa accadrà  nel processo penale e cosa accade e accadrà nel processo civile? Cosa accadrà al logos giuridico?

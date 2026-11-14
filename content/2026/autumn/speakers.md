@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 00:38:31
+Date: 2026-11-14 10:33:54
 Slug: e-privacy-XXXIX-relatori
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -58,11 +58,11 @@ Ha continuato a studiare, specializzandosi in risoluzione internazionale delle d
 
 Ad e-privacy presenta [Pensiero umano ed intelligenza artificiale](/e-privacy-XXXIX-programma.html#1m03).
 
-### <a name='carlo-blengino'></a>Carlo Blengino [⇧](/e-privacy-XXXIX-programma.html#2m07)
+### <a name='carlo-blengino'></a>Carlo Blengino [⇧](/e-privacy-XXXIX-programma.html#2m08)
 
 Avvocato penalista, fellow del Centro Nexa for Internet & Society
 
-Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m07).
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m08).
 
 ### <a name='michele-bottari'></a>Michele Bottari (EXIT (3x1t.org)) [⇧](/e-privacy-XXXIX-programma.html#1p07)
 
@@ -96,11 +96,11 @@ Combine design-thinking, data visualization and UX expertise with deep protocol 
 
 Ad e-privacy presenta [Agenti trustless e privacy by architecture](/e-privacy-XXXIX-programma.html#1p04).
 
-### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) [⇧](/e-privacy-XXXIX-programma.html#2m07)
+### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) [⇧](/e-privacy-XXXIX-programma.html#2m08)
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto delle tecnologie dell'informazione, diritto d'autore, diritti di proprietà industriale e diritti della personalità, in particolare con focus su software libero, contenuti e dati aperti. Svolge attività didattiche (corsi, seminari, conferenze) ed è membro del consiglio d’amministrazione di enti che operano nei campi di propria competenza. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 
-Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m07).
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](/e-privacy-XXXIX-programma.html#2m08).
 
 ### <a name='alessandra-de-rossi'></a>Alessandra De Rossi (Università di Torino) [⇧](/e-privacy-XXXIX-programma.html#2m03)
 
@@ -114,17 +114,27 @@ Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la li
 
 Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](/e-privacy-XXXIX-programma.html#1p02).
 
+### <a name='matteo-flora'></a>Matteo Flora [⇧](/e-privacy-XXXIX-programma.html#2m05)
+
+Matteo Flora è docente di "Sicurezza delle AI e delle SuperIntelligenze" allo Europena School od Economics e professore a contratto in "Crisis Management" all'UniPV.
+
+Ha fondato la più grande società italiana che si occupa di Difesa Cognitiva per Aziente, Persone e Istituzioni, ed è Docente presso la Difesa, le forse NATO e alle Forze dell'Ordine "AI e Guerra Cognitiva".
+
+Quando lo lasciano in pace, conduce il più seguito Podcast di TechPolicy in Italia, Ciao Internet, e una trasmissione di AI su TgCom.
+
+Ad e-privacy presenta [NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.](/e-privacy-XXXIX-programma.html#2m05).
+
 ### <a name='diego-giorio'></a>Diego Giorio (SEPEL Editrice) [⇧](/e-privacy-XXXIX-programma.html#1p01)
 
 Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di una multinazionale di seminconduttori prima, nel marketing e nel web marketing poi, ho successivamente avuto altre esperienza professionali prima di approdare alla Pubblica Amministrazione, nei servizi demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare con SEPEL articoli in varie materie demografiche e di interesse generale della PA, ho tenuto corsi di formazione per un'Associazione di settore, dopo avere ottenuto il titolo di formatore dal Ministero dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come relatore.
 
 Ad e-privacy presenta [Apertura sessione pomeridiana](/e-privacy-XXXIX-programma.html#1p01).
 
-### <a name='diego-maranini'></a>Diego Maranini [⇧](/e-privacy-XXXIX-programma.html#2m06)
+### <a name='diego-maranini'></a>Diego Maranini [⇧](/e-privacy-XXXIX-programma.html#2m07)
 
 Diego Maranini lavora in Hubenture come esperto di dominio nel team di UTOPIA, un software per la protezione dei dati personali e ha una formazione giuridica specifica in materia (Master in Protezione dei dati personali e privacy officer al CIRSFID/UNIBO; corso di perfezionamento in Data protection e data governance, UNIMI; laurea in Giurisprudenza). Accanto al lavoro porta avanti in autonomia Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it), un monitoraggio automatizzato dei provvedimenti del Garante che unisce questa competenza giuridica alla costruzione pratica di una pipeline di automazione con modelli linguistici.
 
-Ad e-privacy presenta [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-programma.html#2m06).
+Ad e-privacy presenta [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](/e-privacy-XXXIX-programma.html#2m07).
 
 ### <a name='davide-marchi'></a>Davide Marchi (EXIT (3x1t.org)) [⇧](/e-privacy-XXXIX-programma.html#1p07)
 

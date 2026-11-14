@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 00:38:29
+Date: 2026-11-14 10:33:52
 Slug: e-privacy-XXXIX-email
 Year: 2026
 Where: Istituto Tecnico G. Cardano
@@ -76,7 +76,7 @@ Marco Calamari & Emmanuele Somma
 14:30|10|<span class='talk' id='1p01-programma'>Diego Giorio (SEPEL Editrice)<br/><em>Apertura sessione pomeridiana</em></span>
 14:40|30|<span class='talk' id='1p02-programma'>[Edoardo Ferri (Il Cibernetico)](#edoardo-ferri)<br/><em><a href='#1p02'>"Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_05_ferri_dimostra_che_l_hai_scritto_tu.pdf">📄</a></span>
 15:10|30|<span class='talk' id='1p03-programma'>[Yvette Agostini](#yvette-agostini)<br/><em><a href='#1p03'>L'IA come strumento di miglioramento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_06_agostini_l_ia_come_strumento_di_miglioramento.pdf">📄</a></span>
-15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_camellini_slides_italiano.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_camellini_slides_english.pdf">📄</a></span>
+15:40|45|<span class='talk' id='1p04-programma'>[Laura Camellini (Near protocol)](#laura-camellini)<br/><em><a href='#1p04'>Agenti trustless e privacy by architecture</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_07_camellini_nuove_slide_layout_corretto.pdf">📄</a> <a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_08_camellini_english_slides_correct_layout.pdf">📄</a></span>
 16:25|20|<span class='talk' id='1p05-programma'>[Sandrini Mauro (www.casinometro.it)](#sandrini-mauro)<br/><em><a href='#1p05'>Il righello in mano alla classe. Dall'aula coreana al casinometro: misurare il rumore senza misurare le persone</a></em></span>
 16:45|20|<span class='talk'><em>Coffee Break</em></span>
 17:05|30|<span class='talk' id='1p07-programma'>[Davide Marchi (EXIT (3x1t.org))](#davide-marchi) e [Michele Bottari (EXIT (3x1t.org))](#michele-bottari)<br/><em><a href='#1p07'>La nostra esperienza nella relazione con la comunità che vorrebbe emanciparsi "ma che poi" la comodità ha il sopravvento</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_09_marchi_il_telefono_nel_cassetto.pdf">📄</a></span>
@@ -95,10 +95,11 @@ Marco Calamari & Emmanuele Somma
 09:35|40|<span class='talk' id='2m02-programma'>[Luca Masrè Passaro (Luca Masré Passaro)](#luca-masre-passaro)<br/><em><a href='#2m02'>Dalla propaganda all'IA: quando la persuasione si scrive da sola</a></em></span>
 10:15|30|<span class='talk' id='2m03-programma'>[Alessandra De Rossi (Università di Torino)](#alessandra-de-rossi)<br/><em><a href='#2m03'>Se l’IA dimostra teoremi, chi attribuisce, comprende e verifica le dimostrazioni?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_11_rossi_se_l_ia_dimostra_teoremi_chi_attribuisce_comprende_e_verifica_le_dimostrazioni.pdf">📄</a></span>
 10:45|30|<span class='talk' id='2m04-programma'>[Lucia Adele Ruggiero (Avvera srl)](#lucia-adele-ruggiero)<br/><em><a href='#2m04'>Neolingua senza Ministero. Esiste un diritto a pensare da soli?</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_12_ruggiero_neolingua_senza_ministero.pptx">📄</a></span>
-11:15|30|<span class='talk'><em>Coffee Break</em></span>
-11:45|30|<span class='talk' id='2m06-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m06'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
-12:15|45|<span class='talk' id='2m07-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m07'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
-13:00|5|<span class='talk' id='2m08-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
+11:15|20|<span class='talk' id='2m05-programma'>[Matteo Flora](#matteo-flora)<br/><em><a href='#2m05'>NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.</a></em></span>
+11:35|10|<span class='talk'><em>Coffee Break</em></span>
+11:45|30|<span class='talk' id='2m07-programma'>[Diego Maranini](#diego-maranini)<br/><em><a href='#2m07'>Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare</a></em><br/><a href="https://urna.winstonsmith.org/materiali/2026we/atti/ep2026ae_13_maranini_chi_ha_scritto_la_sintesi.pdf">📄</a></span>
+12:15|45|<span class='talk' id='2m08-programma'>[Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)<br/><em><a href='#2m08'>L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia</a></em></span>
+13:00|5|<span class='talk' id='2m09-programma'>Marco Calamari (pws)<br/><em>Arrivederci ad e-privacy XL</em></span>
 
 
 ## <a name="talks"></a>Gli interventi
@@ -244,7 +245,16 @@ Il diritto non è attrezzato per vederlo. La libertà di pensiero è assoluta, m
 
 L'intervento propone di riconoscere un diritto all'autonomia cognitiva che protegga non il contenuto del pensiero ma il suo processo: il diritto di arrivare a un'opinione attraverso la propria fatica, i propri errori, i propri tempi. In altre parole, il diritto allo scarto. Nella scuola, dove la mente è ancora in formazione, è la questione decisiva. Il Grande Fratello voleva controllare cosa pensavamo. Il rischio oggi è più sottile: che nessuno ci impedisca di pensare, ma che smettiamo di farlo da soli.
 
-#### <a name="2m06"></a> Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare<a href='#2m06'>⇧</a>
+#### <a name="2m05"></a> NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.<a href='#2m05'>⇧</a>
+[Matteo Flora](#matteo-flora)
+
+Immaginiamo la "Guerra Cognitiva"come qualcosa di segreto, fatto al buio, e invece spesso sta in cima a Google, con il nome di chi paga scritto in un registro pubblico.
+
+Partiamo da che cos'è e da dove arriva il suo motore, la pubblicità mirata, poi seguiamo un caso solo: gli annunci con cui l'agenzia pubblicitaria del governo israeliano ha portato chi cercava il film NAZA verso un sito costruito per sembrare quello giusto, spariti dopo l'inchiesta di IrpiMedia e tornati a novembre.
+
+Chiudiamo con tre cose che possiamo fare domattina, perché la difesa cognitiva si prepara prima che qualcun altro compri la prima riga di Google.
+
+#### <a name="2m07"></a> Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare<a href='#2m07'>⇧</a>
 [Diego Maranini](#diego-maranini)
 
 Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it) è un monitoraggio indipendente e automatizzato dei provvedimenti pubblici del Garante per la protezione dei dati personali. La pipeline che lo alimenta usa un modello linguistico per trasformare ogni provvedimento in una sintesi strutturata, pubblicata su sito, canale Telegram e newsletter.
@@ -263,7 +273,7 @@ Nel dettaglio:
 
 Un caso pratico, utile anche come spunto per la discussione sull'AI Act e sugli obblighi di chi questi sistemi li costruisce e li impiega.
 
-#### <a name="2m07"></a> L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia<a href='#2m07'>⇧</a>
+#### <a name="2m08"></a> L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia<a href='#2m08'>⇧</a>
 [Carlo Blengino](#carlo-blengino) e [Marco Ciurcina (StudioLegale.it)](#marco-ciurcina)
 
 I processi nelle aule di giustizia sono un complesso algoritmo socio-tecnico che si può comparare ad un software: - vi è un input di “dati”, ovvero rappresentazioni di fatti, informazioni o concetti, costituiti sempre più spesso da artefatti digitali estratti dal mondo datificato e dall’infosfera, che sono le prove; - questi dati vengono “trattati” secondo una sequenza finita, ordinata e (teorcamente) non ambigua di istruzioni: le prove sono infatti acquisite, assunte a dibattimento e valutate secondo regole contenute nei codici di procedura e, inevitabilmente, nei codici di software che elaborano i frammenti digitali delle nostre vite; - vi è in fine un output, la sentenza, che è fondamentalmente binario: colpevole/innocente, accolto/respinto. Certo, il processo, come il software, è agito da persone che ne controllano il funzionamento, inseriscono input e valutano l'output: le sentenze sono valutate e partecipano, insieme a norme e dottrina, alla costruzione collettiva del senso del diritto. Che impatto hanno la rivoluzione digitale e l'IA sul processo in particolare e sul diritto in generale? Cosa accade e cosa accadrà  nel processo penale e cosa accade e accadrà nel processo civile? Cosa accadrà al logos giuridico?
@@ -300,11 +310,11 @@ Ha continuato a studiare, specializzandosi in risoluzione internazionale delle d
 
 Ad e-privacy presenta [Pensiero umano ed intelligenza artificiale](#1m03).
 
-### <a name='carlo-blengino'></a>Carlo Blengino <a href='#2m07'>⇧</a>
+### <a name='carlo-blengino'></a>Carlo Blengino <a href='#2m08'>⇧</a>
 
 Avvocato penalista, fellow del Centro Nexa for Internet & Society
 
-Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m07).
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m08).
 
 ### <a name='michele-bottari'></a>Michele Bottari (EXIT (3x1t.org)) <a href='#1p07'>⇧</a>
 
@@ -338,11 +348,11 @@ Combine design-thinking, data visualization and UX expertise with deep protocol 
 
 Ad e-privacy presenta [Agenti trustless e privacy by architecture](#1p04).
 
-### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) <a href='#2m07'>⇧</a>
+### <a name='marco-ciurcina'></a>Marco Ciurcina (StudioLegale.it) <a href='#2m08'>⇧</a>
 
 Avvocato in Torino, opera nel campo del diritto commerciale e contrattuale, diritto delle tecnologie dell'informazione, diritto d'autore, diritti di proprietà industriale e diritti della personalità, in particolare con focus su software libero, contenuti e dati aperti. Svolge attività didattiche (corsi, seminari, conferenze) ed è membro del consiglio d’amministrazione di enti che operano nei campi di propria competenza. Attivamente impegnato per la promozione del software libero e dei diritti fondamentali nel digitale.
 
-Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m07).
+Ad e-privacy presenta [L'algoritmo del processo e la terza parte intervenuta: Intelligenza Artificiale e agenti digitali nella giustizia](#2m08).
 
 ### <a name='alessandra-de-rossi'></a>Alessandra De Rossi (Università di Torino) <a href='#2m03'>⇧</a>
 
@@ -356,17 +366,27 @@ Consulente Tecnico in materia di Informatica Forense e Sicurezza, esercita la li
 
 Ad e-privacy presenta ["Dimostra che l'hai scritto tu." Il rilevatore di IA non è una prova](#1p02).
 
+### <a name='matteo-flora'></a>Matteo Flora <a href='#2m05'>⇧</a>
+
+Matteo Flora è docente di "Sicurezza delle AI e delle SuperIntelligenze" allo Europena School od Economics e professore a contratto in "Crisis Management" all'UniPV.
+
+Ha fondato la più grande società italiana che si occupa di Difesa Cognitiva per Aziente, Persone e Istituzioni, ed è Docente presso la Difesa, le forse NATO e alle Forze dell'Ordine "AI e Guerra Cognitiva".
+
+Quando lo lasciano in pace, conduce il più seguito Podcast di TechPolicy in Italia, Ciao Internet, e una trasmissione di AI su TgCom.
+
+Ad e-privacy presenta [NASCOSTO IN PIENA VISTA: Guerra cognitiva, pubblicità e il caso Naza.](#2m05).
+
 ### <a name='diego-giorio'></a>Diego Giorio (SEPEL Editrice) <a href='#1p01'>⇧</a>
 
 Dopo un'esperienza nell'industria privata, nella ricerca&sviluppo di una multinazionale di seminconduttori prima, nel marketing e nel web marketing poi, ho successivamente avuto altre esperienza professionali prima di approdare alla Pubblica Amministrazione, nei servizi demografici di un piccolo Comune. Dal 2009 ho iniziato a pubblicare con SEPEL articoli in varie materie demografiche e di interesse generale della PA, ho tenuto corsi di formazione per un'Associazione di settore, dopo avere ottenuto il titolo di formatore dal Ministero dell'Interno. Fra i vari interessi, la privacy ed il suo impatto sulla PA, e dal 2012 seguo il convegno e-privacy, sia come uditore che come relatore.
 
 Ad e-privacy presenta [Apertura sessione pomeridiana](#1p01).
 
-### <a name='diego-maranini'></a>Diego Maranini <a href='#2m06'>⇧</a>
+### <a name='diego-maranini'></a>Diego Maranini <a href='#2m07'>⇧</a>
 
 Diego Maranini lavora in Hubenture come esperto di dominio nel team di UTOPIA, un software per la protezione dei dati personali e ha una formazione giuridica specifica in materia (Master in Protezione dei dati personali e privacy officer al CIRSFID/UNIBO; corso di perfezionamento in Data protection e data governance, UNIMI; laurea in Giurisprudenza). Accanto al lavoro porta avanti in autonomia Provvedimenti Garante Privacy (provvedimentigaranteprivacy.it), un monitoraggio automatizzato dei provvedimenti del Garante che unisce questa competenza giuridica alla costruzione pratica di una pipeline di automazione con modelli linguistici.
 
-Ad e-privacy presenta [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](#2m06).
+Ad e-privacy presenta [Chi ha scritto la sintesi? Progettare una pipeline di IA generativa per non inquinare](#2m07).
 
 ### <a name='davide-marchi'></a>Davide Marchi (EXIT (3x1t.org)) <a href='#1p07'>⇧</a>
 
