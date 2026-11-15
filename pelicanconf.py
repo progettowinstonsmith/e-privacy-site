@@ -23,7 +23,7 @@ SITENAME = 'e-privacy 2026 autumn: Se l’IA fa i tuoi compiti, chi fa i compiti
 IMAGE = 'e-privacy-XXXIX.png'
 PROPOSALS_OPEN = True
 
-COUNTDOWN = True
+COUNTDOWN = False
 HOME_ARTICLE = 'programma'
 EVENT_TIME = '2026/11/13 09:30'
 
