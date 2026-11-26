@@ -1,5 +1,5 @@
 Template: event
-Date: 2026-11-14 10:40:55
+Date: 2026-11-26 17:44:38
 Slug: e-privacy-XXXIX-interventi
 Year: 2026
 Where: Istituto Tecnico G. Cardano
