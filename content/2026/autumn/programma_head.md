@@ -34,8 +34,19 @@ Status: published
 
 <div class="subtitle-XXXIX">Inquinavano il pianeta. Ora inquinano la mente?</div>
 
-<br>
-
 La domanda non è soltanto che cosa l’IA sa fare.
-
+<br>
 La domanda è quale forma di mente rende normale.
+
+<br>
+Il <strong>13 e 14 novembre 2026</strong> si è tenuto a Pavia <strong>e-privacy 2026 autumn edition</strong>, che è stato ospitato dall'Istituto Tecnico Industriale Statale "G. Cardano" .
+<br><br>
+I video del Convegno sono disponibili in questa stessa pagina, e <strong>sono pubblicati su <a href="https://www.youtube.com/@ProgettoWinstonSmith">Youtube</a>.</strong>
+<br>
+<strong>Per fruirli senza cedere dati personali</strong>, possono essere anche scaricati dal nostro server (ferro gestito da noi, non cloud) e visti in locale usando questi link: 
+<br>
+<a href="https://e-privacy.winstonsmith.org/materiali/2026we/video/e-privacy_2026_XXXIX_autumn_edition_-_13_11_2026_mattina.mp4">13 mattina</a>, 
+<a href="https://e-privacy.winstonsmith.org/materiali/2026we/video/e-privacy_2026_XXXIX_autumn_edition_-_13_11_2026_pomeriggio.mp4">13 pomeriggio</a>, 
+<a href="https://e-privacy.winstonsmith.org/materiali/2026we/video/e-privacy_2026_XXXIX_autumn_edition_-_14_11_2026_mattina.mp4">14 mattina</a>.
+<br>
+<br>
